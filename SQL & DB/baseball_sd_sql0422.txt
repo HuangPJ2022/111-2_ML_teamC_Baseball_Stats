@@ -1,0 +1,24 @@
+drop database baseball_db;
+CREATE database baseball_db;
+use baseball_db;
+
+create table player(
+name varchar(50) not null,
+position varchar(20) not null,
+LR varchar(1) not null,
+primary key(name)
+);
+
+create table contract(
+temp_order int not null,
+name varchar(50) NOT NULL,
+value varchar(50) not null, 
+year varchar(50) not null, 
+PRIMARY KEY(temp_order)
+);
+
+SET SQL_SAFE_UPDATES = 0;
+
+use baseball_db;
+select * from player;
+select * from contract;
