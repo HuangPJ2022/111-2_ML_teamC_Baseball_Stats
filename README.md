@@ -10,5 +10,5 @@
 ### 需要球員季賽表現，取用 player_performance_standard.scv
 ### 需要球員 statcast 數據，取用 player_performance_statcast.scv
 
-(player_performance_standard.scv 須留意有些球員在特定年度轉隊資料上會出現斷層，尚待更正)
+(player_performance_standard.scv 須留意有些球員在特定年度轉隊資料上會出現斷層，尚待更正)<br>
 (player_performance_statcast.scv 須留意有些球員沒有數據)
