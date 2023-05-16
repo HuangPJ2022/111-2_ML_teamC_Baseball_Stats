@@ -7,6 +7,12 @@
 ### SQL & DB: SQL指令、資料庫建檔程式碼
 ### ML: Machine Learing 程式碼
 -----
+0517 更（黃）
+### 合併 standard & salary，取用 standard_salary.scv
+### 合併 statcast & standard % salary，取用 statcast_standard_salary.scv
+ps. 1. 變數表我之後會補充 2. 如果需要看處理過程，我放在 stats / data_clean_merge_0514_HPJ.ipynb /
+<br>
+
 0503 更（黃）
 ### 需要球員季賽表現，取用 player_performance_standard.scv
 (player_performance_standard.scv 須留意有些球員在特定年度轉隊資料上會出現斷層，尚待更正)<br>
