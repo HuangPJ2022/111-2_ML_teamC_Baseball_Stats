@@ -9,7 +9,7 @@
 -----
 0517 更（黃）
 ### 合併 standard & salary，取用 standard_salary.scv
-### 合併 statcast & standard % salary，取用 statcast_standard_salary.scv
+### 合併 statcast & standard & salary，取用 statcast_standard_salary.scv
 ps. 1. 變數表我之後會補充 2. 如果需要看處理過程，我放在 stats / data_clean_merge_0514_HPJ.ipynb /
 <br>
 
