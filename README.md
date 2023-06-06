@@ -8,6 +8,10 @@
 ### ML: Machine Learing 程式碼
 ### final: 期末報告的程式碼與資料
 -----
+0606 更（黃）
+### final 中 final_mlbrun_1 是沒有取生涯平均的樣本。final_mlbrun_2是有取生涯平均的樣本。
+### 如果不知道要用哪一個檔案，就用 final_mlbrun_2
+
 0519 更（黃）
 ### 合併 standard & salary，取用 standard_salary.scv
 ### 合併 statcast & standard & salary，取用 new_statcast_standard_salary.scv
