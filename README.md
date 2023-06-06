@@ -6,6 +6,7 @@
 ### Web Crawl: 爬蟲程式碼
 ### SQL & DB: SQL指令、資料庫建檔程式碼
 ### ML: Machine Learing 程式碼
+### final: 期末報告的程式碼與資料
 -----
 0519 更（黃）
 ### 合併 standard & salary，取用 standard_salary.scv
