@@ -1,0 +1,106 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Cavan Biggio,Toronto Blue Jays,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Cavan Biggio,Toronto Blue Jays,Dane Dunning,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Cavan Biggio,Toronto Blue Jays,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Cavan Biggio,Toronto Blue Jays,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Cavan Biggio,Toronto Blue Jays,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Cavan Biggio,Toronto Blue Jays,Andrew Wantz,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Cavan Biggio,Toronto Blue Jays,Jason Adam,Tampa Bay Rays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+7,Cavan Biggio,Toronto Blue Jays,Luke Raley,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Cavan Biggio,Toronto Blue Jays,Zach Eflin,Tampa Bay Rays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+9,Cavan Biggio,Toronto Blue Jays,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Cavan Biggio,Toronto Blue Jays,Josh Winckowski,Boston Red Sox,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+11,Cavan Biggio,Toronto Blue Jays,Brayan Bello,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Cavan Biggio,Toronto Blue Jays,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Cavan Biggio,Toronto Blue Jays,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Cavan Biggio,Toronto Blue Jays,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Cavan Biggio,Toronto Blue Jays,Corey Kluber,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Cavan Biggio,Toronto Blue Jays,Jack Flaherty,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+17,Cavan Biggio,Toronto Blue Jays,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Cavan Biggio,Toronto Blue Jays,Jordan Hicks,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+19,Cavan Biggio,Toronto Blue Jays,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Cavan Biggio,Toronto Blue Jays,Justin Martinez,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Cavan Biggio,Toronto Blue Jays,Zac Gallen,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+22,Cavan Biggio,Toronto Blue Jays,Cionel Perez,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Cavan Biggio,Toronto Blue Jays,Austin Voth,Baltimore Orioles,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+24,Cavan Biggio,Toronto Blue Jays,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Cavan Biggio,Toronto Blue Jays,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Cavan Biggio,Toronto Blue Jays,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Cavan Biggio,Toronto Blue Jays,Yennier Cano,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+28,Cavan Biggio,Toronto Blue Jays,Danny Coulombe,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+29,Cavan Biggio,Toronto Blue Jays,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Cavan Biggio,Toronto Blue Jays,Zack Wheeler,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Cavan Biggio,Toronto Blue Jays,Alek Jacob,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+32,Cavan Biggio,Toronto Blue Jays,Brandon Bielak,Houston Astros,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+33,Cavan Biggio,Toronto Blue Jays,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Cavan Biggio,Toronto Blue Jays,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Cavan Biggio,Toronto Blue Jays,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Cavan Biggio,Toronto Blue Jays,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Cavan Biggio,Toronto Blue Jays,Emilio Pagan,Minnesota Twins,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+38,Cavan Biggio,Toronto Blue Jays,Pablo Lopez,Minnesota Twins,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+39,Cavan Biggio,Toronto Blue Jays,Louie Varland,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+40,Cavan Biggio,Toronto Blue Jays,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Cavan Biggio,Toronto Blue Jays,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+42,Cavan Biggio,Toronto Blue Jays,Jorge Lopez,Minnesota Twins,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+43,Cavan Biggio,Toronto Blue Jays,Jovani Moran,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+44,Cavan Biggio,Toronto Blue Jays,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+45,Cavan Biggio,Toronto Blue Jays,Sandy Alcantara,Miami Marlins,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+46,Cavan Biggio,Toronto Blue Jays,Archie Bradley,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Cavan Biggio,Toronto Blue Jays,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Cavan Biggio,Toronto Blue Jays,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Cavan Biggio,Toronto Blue Jays,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Cavan Biggio,Toronto Blue Jays,Ross Stripling,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+51,Cavan Biggio,Toronto Blue Jays,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Cavan Biggio,Toronto Blue Jays,Logan Webb,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Cavan Biggio,Toronto Blue Jays,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Cavan Biggio,Toronto Blue Jays,Stephen Nogosek,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+55,Cavan Biggio,Toronto Blue Jays,David Robertson,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Cavan Biggio,Toronto Blue Jays,Kodai Senga,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Cavan Biggio,Toronto Blue Jays,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Cavan Biggio,Toronto Blue Jays,Albert Abreu,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+59,Cavan Biggio,Toronto Blue Jays,Gerrit Cole,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Cavan Biggio,Toronto Blue Jays,Domingo German,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Cavan Biggio,Toronto Blue Jays,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Cavan Biggio,Toronto Blue Jays,Ron Marinaccio,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Cavan Biggio,Toronto Blue Jays,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Cavan Biggio,Toronto Blue Jays,Ryan Weber,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Cavan Biggio,Toronto Blue Jays,Logan Gilbert,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+66,Cavan Biggio,Toronto Blue Jays,Bryce Miller,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+67,Cavan Biggio,Toronto Blue Jays,Justin Topa,Seattle Mariners,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+68,Cavan Biggio,Toronto Blue Jays,Isaiah Campbell,Seattle Mariners,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+69,Cavan Biggio,Toronto Blue Jays,Easton McGee,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Cavan Biggio,Toronto Blue Jays,Gabe Speier,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+71,Cavan Biggio,Toronto Blue Jays,Cody Bolton,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+72,Cavan Biggio,Toronto Blue Jays,Johan Oviedo,Pittsburgh Pirates,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+73,Cavan Biggio,Toronto Blue Jays,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Cavan Biggio,Toronto Blue Jays,Jesse Scholtens,Chicago White Sox,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+75,Cavan Biggio,Toronto Blue Jays,Bryan Shaw,Chicago White Sox,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+76,Cavan Biggio,Toronto Blue Jays,Lance Lynn,Chicago White Sox,4,1,0,0,1,3,0,0,2,.250,.250,1.000,1.250
+77,Cavan Biggio,Toronto Blue Jays,Michael Kopech,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Cavan Biggio,Toronto Blue Jays,Jimmy Lambert,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Cavan Biggio,Toronto Blue Jays,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Cavan Biggio,Toronto Blue Jays,Gregory Santos,Chicago White Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+81,Cavan Biggio,Toronto Blue Jays,Adrian Houser,Milwaukee Brewers,2,2,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+82,Cavan Biggio,Toronto Blue Jays,Julio Teheran,Milwaukee Brewers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+83,Cavan Biggio,Toronto Blue Jays,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Cavan Biggio,Toronto Blue Jays,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+85,Cavan Biggio,Toronto Blue Jays,Elvis Peguero,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+86,Cavan Biggio,Toronto Blue Jays,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+87,Cavan Biggio,Toronto Blue Jays,Spencer Turnbull,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+88,Cavan Biggio,Toronto Blue Jays,Mason Englert,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+89,Cavan Biggio,Toronto Blue Jays,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Cavan Biggio,Toronto Blue Jays,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Cavan Biggio,Toronto Blue Jays,Matt Manning,Detroit Tigers,4,0,0,0,0,0,1,0,1,.000,.200,.000,.200
+92,Cavan Biggio,Toronto Blue Jays,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Cavan Biggio,Toronto Blue Jays,Tarik Skubal,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Cavan Biggio,Toronto Blue Jays,Ryan Yarbrough,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+95,Cavan Biggio,Toronto Blue Jays,Dylan Coleman,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+96,Cavan Biggio,Toronto Blue Jays,Jordan Lyles,Kansas City Royals,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+97,Cavan Biggio,Toronto Blue Jays,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Cavan Biggio,Toronto Blue Jays,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Cavan Biggio,Toronto Blue Jays,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Cavan Biggio,Toronto Blue Jays,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Cavan Biggio,Toronto Blue Jays,Brady Singer,Kansas City Royals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+102,Cavan Biggio,Toronto Blue Jays,Yacksel Rios,Oakland Athletics,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+103,Cavan Biggio,Toronto Blue Jays,Luis Medina,Oakland Athletics,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+104,Cavan Biggio,Toronto Blue Jays,Ken Waldichuk,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

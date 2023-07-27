@@ -1,0 +1,173 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Michael Conforto,San Francisco Giants,Nick Robertson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Michael Conforto,San Francisco Giants,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+2,Michael Conforto,San Francisco Giants,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Michael Conforto,San Francisco Giants,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+4,Michael Conforto,San Francisco Giants,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Michael Conforto,San Francisco Giants,Dustin May,Los Angeles Dodgers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+6,Michael Conforto,San Francisco Giants,Bobby Miller,Los Angeles Dodgers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Michael Conforto,San Francisco Giants,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Michael Conforto,San Francisco Giants,Tayler Scott,Los Angeles Dodgers,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+9,Michael Conforto,San Francisco Giants,Emmet Sheehan,Los Angeles Dodgers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+10,Michael Conforto,San Francisco Giants,Jack Flaherty,St. Louis Cardinals,3,3,1,0,0,3,0,0,0,1.000,1.000,1.333,2.333
+11,Michael Conforto,San Francisco Giants,Chris Stratton,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+12,Michael Conforto,San Francisco Giants,Zack Thompson,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Michael Conforto,San Francisco Giants,Genesis Cabrera,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+14,Michael Conforto,San Francisco Giants,Jake Woodford,St. Louis Cardinals,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+15,Michael Conforto,San Francisco Giants,Giovanny Gallegos,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+16,Michael Conforto,San Francisco Giants,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Michael Conforto,San Francisco Giants,Matthew Liberatore,St. Louis Cardinals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+18,Michael Conforto,San Francisco Giants,Steven Matz,St. Louis Cardinals,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+19,Michael Conforto,San Francisco Giants,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Michael Conforto,San Francisco Giants,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Michael Conforto,San Francisco Giants,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Michael Conforto,San Francisco Giants,Drew VerHagen,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Michael Conforto,San Francisco Giants,Drey Jameson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+24,Michael Conforto,San Francisco Giants,Merrill Kelly,Arizona Diamondbacks,1,1,1,0,0,1,2,0,0,1.000,1.000,2.000,3.000
+25,Michael Conforto,San Francisco Giants,Joe Mantiply,Arizona Diamondbacks,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+26,Michael Conforto,San Francisco Giants,Andrew Chafin,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+27,Michael Conforto,San Francisco Giants,Zach Davies,Arizona Diamondbacks,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+28,Michael Conforto,San Francisco Giants,Anthony Misiewicz,Arizona Diamondbacks,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+29,Michael Conforto,San Francisco Giants,Ryne Nelson,Arizona Diamondbacks,4,2,1,0,1,1,1,0,0,.500,.600,1.500,2.100
+30,Michael Conforto,San Francisco Giants,Brandon Pfaadt,Arizona Diamondbacks,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+31,Michael Conforto,San Francisco Giants,Zac Gallen,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+32,Michael Conforto,San Francisco Giants,Tommy Henry,Arizona Diamondbacks,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+33,Michael Conforto,San Francisco Giants,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Michael Conforto,San Francisco Giants,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Michael Conforto,San Francisco Giants,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+36,Michael Conforto,San Francisco Giants,Derek Law,Cincinnati Reds,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+37,Michael Conforto,San Francisco Giants,Luke Weaver,Cincinnati Reds,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+38,Michael Conforto,San Francisco Giants,Graham Ashcraft,Cincinnati Reds,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+39,Michael Conforto,San Francisco Giants,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Michael Conforto,San Francisco Giants,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+41,Michael Conforto,San Francisco Giants,Tony Santillan,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+42,Michael Conforto,San Francisco Giants,Lucas Sims,Cincinnati Reds,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+43,Michael Conforto,San Francisco Giants,Brandon Williamson,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Michael Conforto,San Francisco Giants,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Michael Conforto,San Francisco Giants,Kevin Gausman,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Michael Conforto,San Francisco Giants,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Michael Conforto,San Francisco Giants,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Michael Conforto,San Francisco Giants,Seranthony Dominguez,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+49,Michael Conforto,San Francisco Giants,Zack Wheeler,Philadelphia Phillies,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+50,Michael Conforto,San Francisco Giants,Connor Brogdon,Philadelphia Phillies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+51,Michael Conforto,San Francisco Giants,Bailey Falter,Philadelphia Phillies,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+52,Michael Conforto,San Francisco Giants,Andrew Bellatti,Philadelphia Phillies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+53,Michael Conforto,San Francisco Giants,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Michael Conforto,San Francisco Giants,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Michael Conforto,San Francisco Giants,Taijuan Walker,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Michael Conforto,San Francisco Giants,Brandon Hughes,Chicago Cubs,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+57,Michael Conforto,San Francisco Giants,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Michael Conforto,San Francisco Giants,Jeremiah Estrada,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Michael Conforto,San Francisco Giants,Kyle Hendricks,Chicago Cubs,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+60,Michael Conforto,San Francisco Giants,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Michael Conforto,San Francisco Giants,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Michael Conforto,San Francisco Giants,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Michael Conforto,San Francisco Giants,Joe Musgrove,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+64,Michael Conforto,San Francisco Giants,Yu Darvish,San Diego Padres,6,1,1,0,0,0,0,0,2,.167,.167,.333,.500
+65,Michael Conforto,San Francisco Giants,Luis Garcia,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+66,Michael Conforto,San Francisco Giants,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Michael Conforto,San Francisco Giants,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Michael Conforto,San Francisco Giants,Seth Lugo,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Michael Conforto,San Francisco Giants,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Michael Conforto,San Francisco Giants,Adrian Morejon,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Michael Conforto,San Francisco Giants,Blake Snell,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+72,Michael Conforto,San Francisco Giants,Michael Wacha,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Michael Conforto,San Francisco Giants,Matt Gage,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+74,Michael Conforto,San Francisco Giants,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Michael Conforto,San Francisco Giants,Brandon Bielak,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Michael Conforto,San Francisco Giants,Hunter Brown,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+77,Michael Conforto,San Francisco Giants,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+78,Michael Conforto,San Francisco Giants,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Michael Conforto,San Francisco Giants,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Michael Conforto,San Francisco Giants,Framber Valdez,Houston Astros,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+81,Michael Conforto,San Francisco Giants,Jorge Lopez,Minnesota Twins,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+82,Michael Conforto,San Francisco Giants,Bailey Ober,Minnesota Twins,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+83,Michael Conforto,San Francisco Giants,Sonny Gray,Minnesota Twins,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+84,Michael Conforto,San Francisco Giants,Joe Ryan,Minnesota Twins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+85,Michael Conforto,San Francisco Giants,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Michael Conforto,San Francisco Giants,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Michael Conforto,San Francisco Giants,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+88,Michael Conforto,San Francisco Giants,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Michael Conforto,San Francisco Giants,Thaddeus Ward,Washington Nationals,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+90,Michael Conforto,San Francisco Giants,Jake Irvin,Washington Nationals,5,1,0,0,0,0,1,0,0,.200,.333,.200,.533
+91,Michael Conforto,San Francisco Giants,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Michael Conforto,San Francisco Giants,Josiah Gray,Washington Nationals,6,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Michael Conforto,San Francisco Giants,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Michael Conforto,San Francisco Giants,Joe La Sorsa,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Michael Conforto,San Francisco Giants,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Michael Conforto,San Francisco Giants,Mason Thompson,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+97,Michael Conforto,San Francisco Giants,Devin Smeltzer,Miami Marlins,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+98,Michael Conforto,San Francisco Giants,Sandy Alcantara,Miami Marlins,2,1,0,0,0,1,0,0,0,.500,.333,.500,.833
+99,Michael Conforto,San Francisco Giants,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Michael Conforto,San Francisco Giants,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Michael Conforto,San Francisco Giants,Braxton Garrett,Miami Marlins,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+102,Michael Conforto,San Francisco Giants,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Michael Conforto,San Francisco Giants,David Peterson,New York Mets,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+104,Michael Conforto,San Francisco Giants,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Michael Conforto,San Francisco Giants,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Michael Conforto,San Francisco Giants,Tylor Megill,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+107,Michael Conforto,San Francisco Giants,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Michael Conforto,San Francisco Giants,Kodai Senga,New York Mets,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+109,Michael Conforto,San Francisco Giants,Edwin Uceta,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Michael Conforto,San Francisco Giants,Matt Koch,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+111,Michael Conforto,San Francisco Giants,Jake Bird,Colorado Rockies,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+112,Michael Conforto,San Francisco Giants,Chase Anderson,Colorado Rockies,2,1,0,0,1,2,1,0,1,.500,.667,2.000,2.667
+113,Michael Conforto,San Francisco Giants,Connor Seabold,Colorado Rockies,4,2,0,0,1,2,1,0,0,.500,.600,1.250,1.850
+114,Michael Conforto,San Francisco Giants,Kyle Freeland,Colorado Rockies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+115,Michael Conforto,San Francisco Giants,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Michael Conforto,San Francisco Giants,Brad Hand,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Michael Conforto,San Francisco Giants,Peter Lambert,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+118,Michael Conforto,San Francisco Giants,Dinelson Lamet,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,Michael Conforto,San Francisco Giants,Justin Lawrence,Colorado Rockies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+120,Michael Conforto,San Francisco Giants,Gerrit Cole,New York Yankees,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+121,Michael Conforto,San Francisco Giants,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Michael Conforto,San Francisco Giants,Colten Brewer,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Michael Conforto,San Francisco Giants,Jhony Brito,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+124,Michael Conforto,San Francisco Giants,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Michael Conforto,San Francisco Giants,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Michael Conforto,San Francisco Giants,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Michael Conforto,San Francisco Giants,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Michael Conforto,San Francisco Giants,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Michael Conforto,San Francisco Giants,Bryan Woo,Seattle Mariners,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+130,Michael Conforto,San Francisco Giants,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+131,Michael Conforto,San Francisco Giants,Logan Gilbert,Seattle Mariners,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Michael Conforto,San Francisco Giants,Tommy Milone,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Michael Conforto,San Francisco Giants,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Michael Conforto,San Francisco Giants,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Michael Conforto,San Francisco Giants,David Bednar,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+136,Michael Conforto,San Francisco Giants,Yerry De Los Santos,Pittsburgh Pirates,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+137,Michael Conforto,San Francisco Giants,Rich Hill,Pittsburgh Pirates,3,2,0,0,0,2,0,0,0,.667,.667,.667,1.334
+138,Michael Conforto,San Francisco Giants,Osvaldo Bido,Pittsburgh Pirates,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+139,Michael Conforto,San Francisco Giants,Colin Holderman,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+140,Michael Conforto,San Francisco Giants,Johan Oviedo,Pittsburgh Pirates,4,1,0,0,0,1,1,0,1,.250,.400,.250,.650
+141,Michael Conforto,San Francisco Giants,Cody Bolton,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Michael Conforto,San Francisco Giants,Ryan Borucki,Pittsburgh Pirates,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+143,Michael Conforto,San Francisco Giants,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Michael Conforto,San Francisco Giants,Hanser Alberto,Chicago White Sox,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+145,Michael Conforto,San Francisco Giants,Jose Ruiz,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+146,Michael Conforto,San Francisco Giants,Gregory Santos,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+147,Michael Conforto,San Francisco Giants,Lance Lynn,Chicago White Sox,2,1,0,0,1,3,1,0,1,.500,.667,2.000,2.667
+148,Michael Conforto,San Francisco Giants,Michael Kopech,Chicago White Sox,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+149,Michael Conforto,San Francisco Giants,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+150,Michael Conforto,San Francisco Giants,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+151,Michael Conforto,San Francisco Giants,Jake Diekman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Michael Conforto,San Francisco Giants,Joe Kelly,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+153,Michael Conforto,San Francisco Giants,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+154,Michael Conforto,San Francisco Giants,Ethan Small,Milwaukee Brewers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+155,Michael Conforto,San Francisco Giants,Julio Teheran,Milwaukee Brewers,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+156,Michael Conforto,San Francisco Giants,Tyson Miller,Milwaukee Brewers,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+157,Michael Conforto,San Francisco Giants,Hoby Milner,Milwaukee Brewers,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+158,Michael Conforto,San Francisco Giants,Colin Rea,Milwaukee Brewers,3,1,0,0,0,0,1,0,0,.333,.600,.333,.933
+159,Michael Conforto,San Francisco Giants,Peter Strzelecki,Milwaukee Brewers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+160,Michael Conforto,San Francisco Giants,Corbin Burnes,Milwaukee Brewers,5,0,0,0,0,1,0,0,2,.000,.000,.000,.000
+161,Michael Conforto,San Francisco Giants,Adrian Houser,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Michael Conforto,San Francisco Giants,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Michael Conforto,San Francisco Giants,Freddy Peralta,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+164,Michael Conforto,San Francisco Giants,Ryan Yarbrough,Kansas City Royals,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+165,Michael Conforto,San Francisco Giants,Brady Singer,Kansas City Royals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+166,Michael Conforto,San Francisco Giants,Kris Bubic,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+167,Michael Conforto,San Francisco Giants,Aroldis Chapman,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+168,Michael Conforto,San Francisco Giants,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,Michael Conforto,San Francisco Giants,Brad Keller,Kansas City Royals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+170,Michael Conforto,San Francisco Giants,Mason Englert,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+171,Michael Conforto,San Francisco Giants,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

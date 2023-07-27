@@ -1,0 +1,50 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Bo Naylor,Cleveland Guardians,Bryce Elder,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Bo Naylor,Cleveland Guardians,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Bo Naylor,Cleveland Guardians,Michael Soroka,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Bo Naylor,Cleveland Guardians,Michael Tonkin,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Bo Naylor,Cleveland Guardians,Jose Leclerc,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+5,Bo Naylor,Cleveland Guardians,Jon Gray,Texas Rangers,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+6,Bo Naylor,Cleveland Guardians,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Bo Naylor,Cleveland Guardians,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Bo Naylor,Cleveland Guardians,Zach Davies,Arizona Diamondbacks,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+9,Bo Naylor,Cleveland Guardians,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Bo Naylor,Cleveland Guardians,Josh Rojas,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Bo Naylor,Cleveland Guardians,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Bo Naylor,Cleveland Guardians,Jeff Hoffman,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+13,Bo Naylor,Cleveland Guardians,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Bo Naylor,Cleveland Guardians,Zack Wheeler,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+15,Bo Naylor,Cleveland Guardians,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Bo Naylor,Cleveland Guardians,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Bo Naylor,Cleveland Guardians,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Bo Naylor,Cleveland Guardians,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Bo Naylor,Cleveland Guardians,Justin Steele,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Bo Naylor,Cleveland Guardians,Marcus Stroman,Chicago Cubs,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+21,Bo Naylor,Cleveland Guardians,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Bo Naylor,Cleveland Guardians,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Bo Naylor,Cleveland Guardians,Quinn Priester,Pittsburgh Pirates,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+24,Bo Naylor,Cleveland Guardians,Yerry De Los Santos,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Bo Naylor,Cleveland Guardians,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Bo Naylor,Cleveland Guardians,Carmen Mlodzinski,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Bo Naylor,Cleveland Guardians,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Bo Naylor,Cleveland Guardians,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Bo Naylor,Cleveland Guardians,Corbin Burnes,Milwaukee Brewers,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+30,Bo Naylor,Cleveland Guardians,Matt Bush,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Bo Naylor,Cleveland Guardians,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Bo Naylor,Cleveland Guardians,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+33,Bo Naylor,Cleveland Guardians,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Bo Naylor,Cleveland Guardians,Austin Cox,Kansas City Royals,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+35,Bo Naylor,Cleveland Guardians,James McArthur,Kansas City Royals,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+36,Bo Naylor,Cleveland Guardians,Collin Snider,Kansas City Royals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+37,Bo Naylor,Cleveland Guardians,Brady Singer,Kansas City Royals,5,3,1,0,0,2,0,0,0,.600,.600,.800,1.400
+38,Bo Naylor,Cleveland Guardians,Scott Barlow,Kansas City Royals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+39,Bo Naylor,Cleveland Guardians,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Bo Naylor,Cleveland Guardians,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Bo Naylor,Cleveland Guardians,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Bo Naylor,Cleveland Guardians,Jordan Lyles,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Bo Naylor,Cleveland Guardians,Nick Wittgren,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+44,Bo Naylor,Cleveland Guardians,Austin Pruitt,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+45,Bo Naylor,Cleveland Guardians,Paul Blackburn,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+46,Bo Naylor,Cleveland Guardians,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Bo Naylor,Cleveland Guardians,Luis Medina,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Bo Naylor,Cleveland Guardians,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

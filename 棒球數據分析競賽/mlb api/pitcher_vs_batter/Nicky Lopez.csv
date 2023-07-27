@@ -1,0 +1,103 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Nicky Lopez,Kansas City Royals,Nick Anderson,Atlanta Braves,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+1,Nicky Lopez,Kansas City Royals,Michael Tonkin,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Nicky Lopez,Kansas City Royals,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+3,Nicky Lopez,Kansas City Royals,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Nicky Lopez,Kansas City Royals,Charlie Morton,Atlanta Braves,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+5,Nicky Lopez,Kansas City Royals,Kyle Wright,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,Nicky Lopez,Kansas City Royals,Nathan Eovaldi,Texas Rangers,4,2,1,0,0,1,0,0,1,.500,.500,.750,1.250
+7,Nicky Lopez,Kansas City Royals,Brock Burke,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Nicky Lopez,Kansas City Royals,Dane Dunning,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Nicky Lopez,Kansas City Royals,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Nicky Lopez,Kansas City Royals,Taylor Hearn,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Nicky Lopez,Kansas City Royals,Jose Leclerc,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+12,Nicky Lopez,Kansas City Royals,Jacob deGrom,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Nicky Lopez,Kansas City Royals,Caleb Ferguson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+14,Nicky Lopez,Kansas City Royals,Victor Gonzalez,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+15,Nicky Lopez,Kansas City Royals,Tony Gonsolin,Los Angeles Dodgers,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+16,Nicky Lopez,Kansas City Royals,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+17,Nicky Lopez,Kansas City Royals,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Nicky Lopez,Kansas City Royals,Brusdar Graterol,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+19,Nicky Lopez,Kansas City Royals,Yonny Hernandez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Nicky Lopez,Kansas City Royals,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Nicky Lopez,Kansas City Royals,Tyler Anderson,Los Angeles Angels,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+22,Nicky Lopez,Kansas City Royals,Kolton Ingram,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Nicky Lopez,Kansas City Royals,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Nicky Lopez,Kansas City Royals,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Nicky Lopez,Kansas City Royals,Griffin Canning,Los Angeles Angels,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+26,Nicky Lopez,Kansas City Royals,Chris Devenski,Los Angeles Angels,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Nicky Lopez,Kansas City Royals,Carlos Estevez,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Nicky Lopez,Kansas City Royals,Shohei Ohtani,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+29,Nicky Lopez,Kansas City Royals,Jose Quijada,Los Angeles Angels,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+30,Nicky Lopez,Kansas City Royals,Jose Soriano,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+31,Nicky Lopez,Kansas City Royals,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+32,Nicky Lopez,Kansas City Royals,Yonny Chirinos,Tampa Bay Rays,4,1,0,0,0,0,0,0,1,.250,.400,.250,.650
+33,Nicky Lopez,Kansas City Royals,Zach Eflin,Tampa Bay Rays,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+34,Nicky Lopez,Kansas City Royals,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Nicky Lopez,Kansas City Royals,Tyler Glasnow,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+36,Nicky Lopez,Kansas City Royals,Javy Guerra,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Nicky Lopez,Kansas City Royals,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Nicky Lopez,Kansas City Royals,Steven Matz,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+39,Nicky Lopez,Kansas City Royals,Drew VerHagen,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+40,Nicky Lopez,Kansas City Royals,Adam Wainwright,St. Louis Cardinals,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+41,Nicky Lopez,Kansas City Royals,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Nicky Lopez,Kansas City Royals,Ryne Nelson,Arizona Diamondbacks,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+43,Nicky Lopez,Kansas City Royals,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Nicky Lopez,Kansas City Royals,Andrew Chafin,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+45,Nicky Lopez,Kansas City Royals,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Nicky Lopez,Kansas City Royals,Anthony Misiewicz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Nicky Lopez,Kansas City Royals,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Nicky Lopez,Kansas City Royals,Alexis Diaz,Cincinnati Reds,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+49,Nicky Lopez,Kansas City Royals,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Nicky Lopez,Kansas City Royals,Ben Lively,Cincinnati Reds,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Nicky Lopez,Kansas City Royals,Jose Berrios,Toronto Blue Jays,2,1,0,1,0,2,1,0,0,.500,.667,1.500,2.167
+52,Nicky Lopez,Kansas City Royals,Adam Cimber,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+53,Nicky Lopez,Kansas City Royals,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Nicky Lopez,Kansas City Royals,Alek Manoah,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+55,Nicky Lopez,Kansas City Royals,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Nicky Lopez,Kansas City Royals,Tyler Wells,Baltimore Orioles,2,1,0,1,0,0,0,0,0,.500,.500,1.500,2.000
+57,Nicky Lopez,Kansas City Royals,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Nicky Lopez,Kansas City Royals,Kyle Gibson,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Nicky Lopez,Kansas City Royals,Emilio Pagan,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+60,Nicky Lopez,Kansas City Royals,Brock Stewart,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+61,Nicky Lopez,Kansas City Royals,Bailey Ober,Minnesota Twins,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+62,Nicky Lopez,Kansas City Royals,Joe Ryan,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+63,Nicky Lopez,Kansas City Royals,Jhoan Duran,Minnesota Twins,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Nicky Lopez,Kansas City Royals,Sonny Gray,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+65,Nicky Lopez,Kansas City Royals,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Nicky Lopez,Kansas City Royals,Kenta Maeda,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Nicky Lopez,Kansas City Royals,Tyler Mahle,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Nicky Lopez,Kansas City Royals,Jovani Moran,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Nicky Lopez,Kansas City Royals,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Nicky Lopez,Kansas City Royals,Caleb Thielbar,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Nicky Lopez,Kansas City Royals,Kyle Finnegan,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+72,Nicky Lopez,Kansas City Royals,Carl Edwards Jr.,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+73,Nicky Lopez,Kansas City Royals,Josiah Gray,Washington Nationals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+74,Nicky Lopez,Kansas City Royals,Huascar Brazoban,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+75,Nicky Lopez,Kansas City Royals,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Nicky Lopez,Kansas City Royals,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Nicky Lopez,Kansas City Royals,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Nicky Lopez,Kansas City Royals,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Nicky Lopez,Kansas City Royals,Taylor Rogers,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+80,Nicky Lopez,Kansas City Royals,Alex Cobb,San Francisco Giants,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+81,Nicky Lopez,Kansas City Royals,Anthony DeSclafani,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Nicky Lopez,Kansas City Royals,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Nicky Lopez,Kansas City Royals,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Nicky Lopez,Kansas City Royals,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Nicky Lopez,Kansas City Royals,Emmanuel Clase,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+86,Nicky Lopez,Kansas City Royals,Sam Hentges,Cleveland Guardians,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+87,Nicky Lopez,Kansas City Royals,Gavin Williams,Cleveland Guardians,3,1,0,0,0,0,1,0,0,.333,.500,.333,.833
+88,Nicky Lopez,Kansas City Royals,Logan Allen,Cleveland Guardians,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+89,Nicky Lopez,Kansas City Royals,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Nicky Lopez,Kansas City Royals,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Nicky Lopez,Kansas City Royals,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Nicky Lopez,Kansas City Royals,Eli Morgan,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Nicky Lopez,Kansas City Royals,Trevor Stephan,Cleveland Guardians,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+94,Nicky Lopez,Kansas City Royals,Reese Olson,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+95,Nicky Lopez,Kansas City Royals,Michael Lorenzen,Detroit Tigers,5,1,0,1,0,0,2,0,1,.200,.429,.600,1.029
+96,Nicky Lopez,Kansas City Royals,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Nicky Lopez,Kansas City Royals,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Nicky Lopez,Kansas City Royals,Alex Lange,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Nicky Lopez,Kansas City Royals,Matt Manning,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Nicky Lopez,Kansas City Royals,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Nicky Lopez,Kansas City Royals,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

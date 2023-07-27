@@ -1,0 +1,144 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Donovan Solano,Minnesota Twins,Kirby Yates,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+1,Donovan Solano,Minnesota Twins,Kolby Allard,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Donovan Solano,Minnesota Twins,Ben Heller,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Donovan Solano,Minnesota Twins,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+4,Donovan Solano,Minnesota Twins,Clayton Kershaw,Los Angeles Dodgers,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+5,Donovan Solano,Minnesota Twins,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Donovan Solano,Minnesota Twins,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+7,Donovan Solano,Minnesota Twins,Caleb Ferguson,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+8,Donovan Solano,Minnesota Twins,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Donovan Solano,Minnesota Twins,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Donovan Solano,Minnesota Twins,Tucker Davidson,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Donovan Solano,Minnesota Twins,Patrick Sandoval,Los Angeles Angels,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+12,Donovan Solano,Minnesota Twins,Reid Detmers,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+13,Donovan Solano,Minnesota Twins,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Donovan Solano,Minnesota Twins,Reyes Moronta,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Donovan Solano,Minnesota Twins,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Donovan Solano,Minnesota Twins,Jason Adam,Tampa Bay Rays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+17,Donovan Solano,Minnesota Twins,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Donovan Solano,Minnesota Twins,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Donovan Solano,Minnesota Twins,Cooper Criswell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Donovan Solano,Minnesota Twins,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Donovan Solano,Minnesota Twins,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Donovan Solano,Minnesota Twins,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Donovan Solano,Minnesota Twins,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Donovan Solano,Minnesota Twins,Justin Garza,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+25,Donovan Solano,Minnesota Twins,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Donovan Solano,Minnesota Twins,Ryan Brasier,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+27,Donovan Solano,Minnesota Twins,Corey Kluber,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Donovan Solano,Minnesota Twins,Kaleb Ort,Boston Red Sox,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+29,Donovan Solano,Minnesota Twins,James Paxton,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Donovan Solano,Minnesota Twins,Chris Sale,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+31,Donovan Solano,Minnesota Twins,John Schreiber,Boston Red Sox,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+32,Donovan Solano,Minnesota Twins,Brandon Walter,Boston Red Sox,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+33,Donovan Solano,Minnesota Twins,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Donovan Solano,Minnesota Twins,Adam Cimber,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+35,Donovan Solano,Minnesota Twins,Bowden Francis,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+36,Donovan Solano,Minnesota Twins,Mitch White,Toronto Blue Jays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+37,Donovan Solano,Minnesota Twins,Kevin Gausman,Toronto Blue Jays,5,2,0,0,1,1,1,0,0,.400,.500,1.000,1.500
+38,Donovan Solano,Minnesota Twins,Yusei Kikuchi,Toronto Blue Jays,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+39,Donovan Solano,Minnesota Twins,Thomas Hatch,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+40,Donovan Solano,Minnesota Twins,Trevor Richards,Toronto Blue Jays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+41,Donovan Solano,Minnesota Twins,Jordan Romano,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+42,Donovan Solano,Minnesota Twins,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Donovan Solano,Minnesota Twins,Tyler Wells,Baltimore Orioles,3,3,3,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+44,Donovan Solano,Minnesota Twins,Cole Irvin,Baltimore Orioles,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+45,Donovan Solano,Minnesota Twins,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Donovan Solano,Minnesota Twins,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Donovan Solano,Minnesota Twins,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Donovan Solano,Minnesota Twins,Kyle Gibson,Baltimore Orioles,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+49,Donovan Solano,Minnesota Twins,Brad Boxberger,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+50,Donovan Solano,Minnesota Twins,Brandon Hughes,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Donovan Solano,Minnesota Twins,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+52,Donovan Solano,Minnesota Twins,Josh Hader,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+53,Donovan Solano,Minnesota Twins,Tim Hill,San Diego Padres,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+54,Donovan Solano,Minnesota Twins,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Donovan Solano,Minnesota Twins,Bryan Abreu,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+56,Donovan Solano,Minnesota Twins,Luis Garcia,Houston Astros,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+57,Donovan Solano,Minnesota Twins,Parker Mushinski,Houston Astros,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+58,Donovan Solano,Minnesota Twins,Jose Urquidy,Houston Astros,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+59,Donovan Solano,Minnesota Twins,Hunter Brown,Houston Astros,5,2,1,0,0,3,1,0,1,.400,.500,.600,1.100
+60,Donovan Solano,Minnesota Twins,Ronel Blanco,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Donovan Solano,Minnesota Twins,Seth Martinez,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Donovan Solano,Minnesota Twins,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Donovan Solano,Minnesota Twins,Hector Neris,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Donovan Solano,Minnesota Twins,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Donovan Solano,Minnesota Twins,Ryne Stanek,Houston Astros,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+66,Donovan Solano,Minnesota Twins,Anthony Banda,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Donovan Solano,Minnesota Twins,Patrick Corbin,Washington Nationals,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Donovan Solano,Minnesota Twins,Jesus Luzardo,Miami Marlins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+69,Donovan Solano,Minnesota Twins,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Donovan Solano,Minnesota Twins,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Donovan Solano,Minnesota Twins,Sean Manaea,San Francisco Giants,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+72,Donovan Solano,Minnesota Twins,Alex Cobb,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+73,Donovan Solano,Minnesota Twins,Anthony DeSclafani,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+74,Donovan Solano,Minnesota Twins,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Donovan Solano,Minnesota Twins,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Donovan Solano,Minnesota Twins,Tyler Rogers,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+77,Donovan Solano,Minnesota Twins,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Donovan Solano,Minnesota Twins,Jhony Brito,New York Yankees,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+79,Donovan Solano,Minnesota Twins,Michael King,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+80,Donovan Solano,Minnesota Twins,Colten Brewer,New York Yankees,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+81,Donovan Solano,Minnesota Twins,Gerrit Cole,New York Yankees,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+82,Donovan Solano,Minnesota Twins,Nestor Cortes,New York Yankees,6,2,2,0,0,1,0,0,0,.333,.333,.667,1.000
+83,Donovan Solano,Minnesota Twins,Domingo German,New York Yankees,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+84,Donovan Solano,Minnesota Twins,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Donovan Solano,Minnesota Twins,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Donovan Solano,Minnesota Twins,Isiah Kiner-Falefa,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Donovan Solano,Minnesota Twins,Paul Sewald,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+88,Donovan Solano,Minnesota Twins,Ty Adcock,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+89,Donovan Solano,Minnesota Twins,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Donovan Solano,Minnesota Twins,George Kirby,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+91,Donovan Solano,Minnesota Twins,Andres Munoz,Seattle Mariners,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+92,Donovan Solano,Minnesota Twins,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Donovan Solano,Minnesota Twins,Tanner Bibee,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+94,Donovan Solano,Minnesota Twins,Aaron Civale,Cleveland Guardians,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+95,Donovan Solano,Minnesota Twins,Trevor Stephan,Cleveland Guardians,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+96,Donovan Solano,Minnesota Twins,Logan Allen,Cleveland Guardians,6,2,1,0,0,1,0,0,1,.333,.333,.500,.833
+97,Donovan Solano,Minnesota Twins,Peyton Battenfield,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Donovan Solano,Minnesota Twins,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Donovan Solano,Minnesota Twins,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+100,Donovan Solano,Minnesota Twins,Hunter Gaddis,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Donovan Solano,Minnesota Twins,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Donovan Solano,Minnesota Twins,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Donovan Solano,Minnesota Twins,Triston McKenzie,Cleveland Guardians,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+104,Donovan Solano,Minnesota Twins,Keynan Middleton,Chicago White Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+105,Donovan Solano,Minnesota Twins,Kendall Graveman,Chicago White Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+106,Donovan Solano,Minnesota Twins,Lance Lynn,Chicago White Sox,6,2,0,0,0,0,0,0,2,.333,.333,.333,.666
+107,Donovan Solano,Minnesota Twins,Lucas Giolito,Chicago White Sox,9,1,0,0,0,0,0,0,5,.111,.111,.111,.222
+108,Donovan Solano,Minnesota Twins,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Donovan Solano,Minnesota Twins,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+110,Donovan Solano,Minnesota Twins,Reynaldo Lopez,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+111,Donovan Solano,Minnesota Twins,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Donovan Solano,Minnesota Twins,Bryan Shaw,Chicago White Sox,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+113,Donovan Solano,Minnesota Twins,Devin Williams,Milwaukee Brewers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+114,Donovan Solano,Minnesota Twins,Corbin Burnes,Milwaukee Brewers,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+115,Donovan Solano,Minnesota Twins,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Donovan Solano,Minnesota Twins,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+117,Donovan Solano,Minnesota Twins,Bryse Wilson,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+118,Donovan Solano,Minnesota Twins,Josh Taylor,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+119,Donovan Solano,Minnesota Twins,Nick Wittgren,Kansas City Royals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+120,Donovan Solano,Minnesota Twins,Zack Greinke,Kansas City Royals,3,2,1,0,1,1,0,0,0,.667,.667,2.000,2.667
+121,Donovan Solano,Minnesota Twins,Dylan Coleman,Kansas City Royals,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+122,Donovan Solano,Minnesota Twins,Austin Cox,Kansas City Royals,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+123,Donovan Solano,Minnesota Twins,Amir Garrett,Kansas City Royals,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+124,Donovan Solano,Minnesota Twins,Alec Marsh,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Donovan Solano,Minnesota Twins,Mason Englert,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+126,Donovan Solano,Minnesota Twins,Tyler Holton,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+127,Donovan Solano,Minnesota Twins,Michael Lorenzen,Detroit Tigers,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+128,Donovan Solano,Minnesota Twins,Matthew Boyd,Detroit Tigers,2,1,0,0,1,3,1,0,1,.500,.667,2.000,2.667
+129,Donovan Solano,Minnesota Twins,Tyler Alexander,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+130,Donovan Solano,Minnesota Twins,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Donovan Solano,Minnesota Twins,Alex Lange,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.667,.000,.667
+132,Donovan Solano,Minnesota Twins,Chasen Shreve,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Donovan Solano,Minnesota Twins,Joey Wentz,Detroit Tigers,4,0,0,0,0,0,2,0,1,.000,.333,.000,.333
+134,Donovan Solano,Minnesota Twins,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Donovan Solano,Minnesota Twins,Shintaro Fujinami,Oakland Athletics,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+136,Donovan Solano,Minnesota Twins,Ken Waldichuk,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+137,Donovan Solano,Minnesota Twins,Lucas Erceg,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+138,Donovan Solano,Minnesota Twins,Angel Felipe,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+139,Donovan Solano,Minnesota Twins,Hogan Harris,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,Donovan Solano,Minnesota Twins,Austin Pruitt,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+141,Donovan Solano,Minnesota Twins,JP Sears,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Donovan Solano,Minnesota Twins,Freddy Tarnok,Oakland Athletics,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500

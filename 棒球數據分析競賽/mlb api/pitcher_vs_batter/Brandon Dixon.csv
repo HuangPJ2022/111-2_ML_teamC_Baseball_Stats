@@ -1,0 +1,52 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Brandon Dixon,San Diego Padres,Max Fried,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+1,Brandon Dixon,San Diego Padres,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+2,Brandon Dixon,San Diego Padres,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Brandon Dixon,San Diego Padres,James Paxton,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Brandon Dixon,San Diego Padres,Chris Sale,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+5,Brandon Dixon,San Diego Padres,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Brandon Dixon,San Diego Padres,Brandon Williamson,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Brandon Dixon,San Diego Padres,Andrew Vasquez,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+8,Brandon Dixon,San Diego Padres,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Brandon Dixon,San Diego Padres,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Brandon Dixon,San Diego Padres,Cristopher Sanchez,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Brandon Dixon,San Diego Padres,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+12,Brandon Dixon,San Diego Padres,Javier Assad,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+13,Brandon Dixon,San Diego Padres,Kyle Hendricks,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Brandon Dixon,San Diego Padres,Brandon Hughes,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Brandon Dixon,San Diego Padres,Drew Smyly,Chicago Cubs,2,0,0,0,0,1,0,0,2,.000,.000,.000,.000
+16,Brandon Dixon,San Diego Padres,Matt Barnes,Miami Marlins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+17,Brandon Dixon,San Diego Padres,Bryan Hoeing,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+18,Brandon Dixon,San Diego Padres,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Brandon Dixon,San Diego Padres,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Brandon Dixon,San Diego Padres,Jesus Luzardo,Miami Marlins,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+21,Brandon Dixon,San Diego Padres,Jacob Stallings,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Brandon Dixon,San Diego Padres,Paolo Espino,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+23,Brandon Dixon,San Diego Padres,Kyle Finnegan,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+24,Brandon Dixon,San Diego Padres,Jake Irvin,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+25,Brandon Dixon,San Diego Padres,Thaddeus Ward,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Brandon Dixon,San Diego Padres,MacKenzie Gore,Washington Nationals,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+27,Brandon Dixon,San Diego Padres,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Brandon Dixon,San Diego Padres,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Brandon Dixon,San Diego Padres,Jakob Junis,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Brandon Dixon,San Diego Padres,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Brandon Dixon,San Diego Padres,David Peterson,New York Mets,4,1,0,0,0,1,0,0,2,.250,.250,.250,.500
+32,Brandon Dixon,San Diego Padres,Tylor Megill,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Brandon Dixon,San Diego Padres,Denyi Reyes,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Brandon Dixon,San Diego Padres,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Brandon Dixon,San Diego Padres,Peter Lambert,Colorado Rockies,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+36,Brandon Dixon,San Diego Padres,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Brandon Dixon,San Diego Padres,Randy Vasquez,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+38,Brandon Dixon,San Diego Padres,Ryan Weber,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+39,Brandon Dixon,San Diego Padres,Ron Marinaccio,New York Yankees,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+40,Brandon Dixon,San Diego Padres,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Brandon Dixon,San Diego Padres,Luis Severino,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Brandon Dixon,San Diego Padres,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Brandon Dixon,San Diego Padres,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Brandon Dixon,San Diego Padres,Logan Allen,Cleveland Guardians,2,0,0,0,0,2,0,0,0,.000,.000,.000,.000
+45,Brandon Dixon,San Diego Padres,Rich Hill,Pittsburgh Pirates,2,2,1,0,0,0,1,0,0,1.000,1.000,1.500,2.500
+46,Brandon Dixon,San Diego Padres,Ryan Borucki,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Brandon Dixon,San Diego Padres,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Brandon Dixon,San Diego Padres,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Brandon Dixon,San Diego Padres,Eric Lauer,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+50,Brandon Dixon,San Diego Padres,Bryse Wilson,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000

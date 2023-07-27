@@ -1,0 +1,37 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Mark Vientos,New York Mets,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+1,Mark Vientos,New York Mets,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Mark Vientos,New York Mets,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Mark Vientos,New York Mets,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Mark Vientos,New York Mets,Ryan Thompson,Tampa Bay Rays,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+5,Mark Vientos,New York Mets,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Mark Vientos,New York Mets,Josh Fleming,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Mark Vientos,New York Mets,Richard Bleier,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Mark Vientos,New York Mets,Justin Garza,Boston Red Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+9,Mark Vientos,New York Mets,Josh Winckowski,Boston Red Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+10,Mark Vientos,New York Mets,Brennan Bernardino,Boston Red Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+11,Mark Vientos,New York Mets,Chris Murphy,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Mark Vientos,New York Mets,James Paxton,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Mark Vientos,New York Mets,Adam Cimber,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+14,Mark Vientos,New York Mets,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+15,Mark Vientos,New York Mets,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Mark Vientos,New York Mets,Ranger Suarez,Philadelphia Phillies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+17,Mark Vientos,New York Mets,Matt Strahm,Philadelphia Phillies,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+18,Mark Vientos,New York Mets,Tucker Barnhart,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Mark Vientos,New York Mets,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+20,Mark Vientos,New York Mets,Brent Suter,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Mark Vientos,New York Mets,Chase Anderson,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+22,Mark Vientos,New York Mets,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Mark Vientos,New York Mets,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Mark Vientos,New York Mets,Peter Lambert,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Mark Vientos,New York Mets,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Mark Vientos,New York Mets,Gerrit Cole,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+27,Mark Vientos,New York Mets,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Mark Vientos,New York Mets,Jimmy Cordero,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+29,Mark Vientos,New York Mets,Emmanuel Clase,Cleveland Guardians,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+30,Mark Vientos,New York Mets,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Mark Vientos,New York Mets,James Karinchak,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+32,Mark Vientos,New York Mets,Cal Quantrill,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Mark Vientos,New York Mets,Rich Hill,Pittsburgh Pirates,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+34,Mark Vientos,New York Mets,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Mark Vientos,New York Mets,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

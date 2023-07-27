@@ -1,0 +1,31 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Darin Ruf,San Francisco Giants,Evan Phillips,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Darin Ruf,San Francisco Giants,Clayton Kershaw,Los Angeles Dodgers,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+2,Darin Ruf,Milwaukee Brewers,Shane McClanahan,Tampa Bay Rays,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+3,Darin Ruf,Milwaukee Brewers,Cooper Criswell,Tampa Bay Rays,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+4,Darin Ruf,Milwaukee Brewers,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Darin Ruf,Milwaukee Brewers,Matthew Liberatore,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Darin Ruf,Milwaukee Brewers,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Darin Ruf,Milwaukee Brewers,James Naile,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Darin Ruf,Milwaukee Brewers,Brandon Williamson,Cincinnati Reds,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+9,Darin Ruf,Milwaukee Brewers,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Darin Ruf,Milwaukee Brewers,Yusei Kikuchi,Toronto Blue Jays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+11,Darin Ruf,Milwaukee Brewers,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Darin Ruf,Milwaukee Brewers,Parker Mushinski,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Darin Ruf,San Francisco Giants,Trevor Rogers,Miami Marlins,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+14,Darin Ruf,San Francisco Giants,Matt Barnes,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Darin Ruf,San Francisco Giants,Jesus Luzardo,Miami Marlins,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+16,Darin Ruf,San Francisco Giants,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Darin Ruf,Milwaukee Brewers,Alex Wood,San Francisco Giants,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+18,Darin Ruf,Milwaukee Brewers,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Darin Ruf,Milwaukee Brewers,Tristan Beck,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Darin Ruf,Milwaukee Brewers,Alex Cobb,San Francisco Giants,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+21,Darin Ruf,Milwaukee Brewers,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Darin Ruf,San Francisco Giants,Tommy Hunter,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Darin Ruf,San Francisco Giants,David Peterson,New York Mets,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+24,Darin Ruf,San Francisco Giants,Joey Lucchesi,New York Mets,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+25,Darin Ruf,San Francisco Giants,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Darin Ruf,San Francisco Giants,Edwin Uceta,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Darin Ruf,San Francisco Giants,Joey Wentz,Detroit Tigers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+28,Darin Ruf,San Francisco Giants,Mason Englert,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+29,Darin Ruf,San Francisco Giants,Tyler Holton,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

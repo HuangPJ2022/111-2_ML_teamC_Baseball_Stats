@@ -1,0 +1,74 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Chad Wallach,Los Angeles Angels,Cody Bradford,Texas Rangers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+1,Chad Wallach,Los Angeles Angels,Cole Ragans,Texas Rangers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+2,Chad Wallach,Los Angeles Angels,Will Smith,Texas Rangers,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+3,Chad Wallach,Los Angeles Angels,Andrew Heaney,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+4,Chad Wallach,Los Angeles Angels,Nathan Eovaldi,Texas Rangers,6,1,0,0,1,1,0,0,3,.167,.167,.667,.834
+5,Chad Wallach,Los Angeles Angels,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Chad Wallach,Los Angeles Angels,Joe Barlow,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Chad Wallach,Los Angeles Angels,Jose Leclerc,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+8,Chad Wallach,Los Angeles Angels,Owen White,Texas Rangers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+9,Chad Wallach,Los Angeles Angels,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Chad Wallach,Los Angeles Angels,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Chad Wallach,Los Angeles Angels,Clayton Kershaw,Los Angeles Dodgers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+12,Chad Wallach,Los Angeles Angels,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Chad Wallach,Los Angeles Angels,James Paxton,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+14,Chad Wallach,Los Angeles Angels,Nick Pivetta,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Chad Wallach,Los Angeles Angels,Drew VerHagen,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+16,Chad Wallach,Los Angeles Angels,Steven Matz,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+17,Chad Wallach,Los Angeles Angels,Miles Mikolas,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+18,Chad Wallach,Los Angeles Angels,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Chad Wallach,Los Angeles Angels,Guillermo Zuniga,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Chad Wallach,Los Angeles Angels,Tommy Henry,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Chad Wallach,Los Angeles Angels,Logan Gillaspie,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Chad Wallach,Los Angeles Angels,Grayson Rodriguez,Baltimore Orioles,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+23,Chad Wallach,Los Angeles Angels,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Chad Wallach,Los Angeles Angels,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+25,Chad Wallach,Los Angeles Angels,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Chad Wallach,Los Angeles Angels,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Chad Wallach,Los Angeles Angels,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Chad Wallach,Los Angeles Angels,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+29,Chad Wallach,Los Angeles Angels,Adbert Alzolay,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+30,Chad Wallach,Los Angeles Angels,Drew Smyly,Chicago Cubs,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+31,Chad Wallach,Los Angeles Angels,J.P. France,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Chad Wallach,Los Angeles Angels,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+33,Chad Wallach,Los Angeles Angels,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Chad Wallach,Los Angeles Angels,Josh Hader,San Diego Padres,1,0,0,0,0,1,1,0,1,.000,.500,.000,.500
+35,Chad Wallach,Los Angeles Angels,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+36,Chad Wallach,Los Angeles Angels,Blake Snell,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+37,Chad Wallach,Los Angeles Angels,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Chad Wallach,Los Angeles Angels,Pablo Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Chad Wallach,Los Angeles Angels,Joe Ryan,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+40,Chad Wallach,Los Angeles Angels,JT Chargois,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+41,Chad Wallach,Los Angeles Angels,Jesus Luzardo,Miami Marlins,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+42,Chad Wallach,Los Angeles Angels,Edward Cabrera,Miami Marlins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+43,Chad Wallach,Los Angeles Angels,Kyle Freeland,Colorado Rockies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Chad Wallach,Los Angeles Angels,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Chad Wallach,Los Angeles Angels,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Chad Wallach,Los Angeles Angels,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Chad Wallach,Los Angeles Angels,Tommy Kahnle,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+48,Chad Wallach,Los Angeles Angels,Carlos Rodon,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Chad Wallach,Los Angeles Angels,Chris Flexen,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+50,Chad Wallach,Los Angeles Angels,Luis Castillo,Seattle Mariners,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+51,Chad Wallach,Los Angeles Angels,Garrett Crochet,Chicago White Sox,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+52,Chad Wallach,Los Angeles Angels,Lucas Giolito,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+53,Chad Wallach,Los Angeles Angels,Michael Kopech,Chicago White Sox,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+54,Chad Wallach,Los Angeles Angels,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Chad Wallach,Los Angeles Angels,Touki Toussaint,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Chad Wallach,Los Angeles Angels,Corbin Burnes,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+57,Chad Wallach,Los Angeles Angels,Wade Miley,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Chad Wallach,Los Angeles Angels,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Chad Wallach,Los Angeles Angels,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Chad Wallach,Los Angeles Angels,Ryan Yarbrough,Kansas City Royals,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+61,Chad Wallach,Los Angeles Angels,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Chad Wallach,Los Angeles Angels,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Chad Wallach,Los Angeles Angels,Zack Greinke,Kansas City Royals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Chad Wallach,Los Angeles Angels,Jordan Lyles,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Chad Wallach,Los Angeles Angels,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Chad Wallach,Los Angeles Angels,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Chad Wallach,Los Angeles Angels,James Kaprielian,Oakland Athletics,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+68,Chad Wallach,Los Angeles Angels,Ken Waldichuk,Oakland Athletics,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+69,Chad Wallach,Los Angeles Angels,Domingo Acevedo,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Chad Wallach,Los Angeles Angels,Jeurys Familia,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Chad Wallach,Los Angeles Angels,Adam Oller,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Chad Wallach,Los Angeles Angels,JP Sears,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500

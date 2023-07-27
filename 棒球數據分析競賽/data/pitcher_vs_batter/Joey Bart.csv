@@ -1,0 +1,52 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Joey Bart,San Francisco Giants,Yency Almonte,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Joey Bart,San Francisco Giants,Alex Vesia,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Joey Bart,San Francisco Giants,Clayton Kershaw,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+3,Joey Bart,San Francisco Giants,Andre Jackson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Joey Bart,San Francisco Giants,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Joey Bart,San Francisco Giants,Julio Urias,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Joey Bart,San Francisco Giants,Drew VerHagen,St. Louis Cardinals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+7,Joey Bart,San Francisco Giants,Jordan Montgomery,St. Louis Cardinals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+8,Joey Bart,San Francisco Giants,Jose Ruiz,Arizona Diamondbacks,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+9,Joey Bart,San Francisco Giants,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Joey Bart,San Francisco Giants,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Joey Bart,San Francisco Giants,Tommy Henry,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Joey Bart,San Francisco Giants,Brandon Pfaadt,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Joey Bart,San Francisco Giants,Gregory Soto,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+14,Joey Bart,San Francisco Giants,Zack Wheeler,Philadelphia Phillies,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+15,Joey Bart,San Francisco Giants,Bailey Falter,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Joey Bart,San Francisco Giants,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Joey Bart,San Francisco Giants,Matt Strahm,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Joey Bart,San Francisco Giants,Andrew Vasquez,Philadelphia Phillies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+19,Joey Bart,San Francisco Giants,Yu Darvish,San Diego Padres,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+20,Joey Bart,San Francisco Giants,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Joey Bart,San Francisco Giants,Matt Gage,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Joey Bart,San Francisco Giants,Phil Maton,Houston Astros,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+23,Joey Bart,San Francisco Giants,Framber Valdez,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+24,Joey Bart,San Francisco Giants,Hunter Brown,Houston Astros,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+25,Joey Bart,San Francisco Giants,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Joey Bart,San Francisco Giants,Hobie Harris,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+27,Joey Bart,San Francisco Giants,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Joey Bart,San Francisco Giants,Josiah Gray,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Joey Bart,San Francisco Giants,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Joey Bart,San Francisco Giants,Jesus Luzardo,Miami Marlins,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+31,Joey Bart,San Francisco Giants,A.J. Puk,Miami Marlins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+32,Joey Bart,San Francisco Giants,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+33,Joey Bart,San Francisco Giants,Trevor Rogers,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Joey Bart,San Francisco Giants,Tanner Scott,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Joey Bart,San Francisco Giants,Devin Smeltzer,Miami Marlins,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+36,Joey Bart,San Francisco Giants,George Soriano,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Joey Bart,San Francisco Giants,Joey Lucchesi,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+38,Joey Bart,San Francisco Giants,David Peterson,New York Mets,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Joey Bart,San Francisco Giants,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Joey Bart,San Francisco Giants,Edwin Uceta,New York Mets,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+41,Joey Bart,San Francisco Giants,Colin Rea,Milwaukee Brewers,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+42,Joey Bart,San Francisco Giants,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Joey Bart,San Francisco Giants,Tyson Miller,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Joey Bart,San Francisco Giants,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Joey Bart,San Francisco Giants,Tyler Alexander,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+46,Joey Bart,San Francisco Giants,Michael Lorenzen,Detroit Tigers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+47,Joey Bart,San Francisco Giants,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Joey Bart,San Francisco Giants,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Joey Bart,San Francisco Giants,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Joey Bart,San Francisco Giants,Trey Wingenter,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

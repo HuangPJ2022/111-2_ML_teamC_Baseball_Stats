@@ -1,0 +1,211 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jonathan India,Cincinnati Reds,Ben Heller,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,Jonathan India,Cincinnati Reds,Dylan Lee,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+2,Jonathan India,Cincinnati Reds,Nick Anderson,Atlanta Braves,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+3,Jonathan India,Cincinnati Reds,Raisel Iglesias,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+4,Jonathan India,Cincinnati Reds,Spencer Strider,Atlanta Braves,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+5,Jonathan India,Cincinnati Reds,Bryce Elder,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+6,Jonathan India,Cincinnati Reds,Kyle Wright,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+7,Jonathan India,Cincinnati Reds,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+8,Jonathan India,Cincinnati Reds,Lucas Luetge,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Jonathan India,Cincinnati Reds,Collin McHugh,Atlanta Braves,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+10,Jonathan India,Cincinnati Reds,A.J. Minter,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+11,Jonathan India,Cincinnati Reds,Jared Shuster,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Jonathan India,Cincinnati Reds,AJ Smith-Shawver,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Jonathan India,Cincinnati Reds,Michael Tonkin,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+14,Jonathan India,Cincinnati Reds,Ian Kennedy,Texas Rangers,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+15,Jonathan India,Cincinnati Reds,Nathan Eovaldi,Texas Rangers,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+16,Jonathan India,Cincinnati Reds,Dane Dunning,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Jonathan India,Cincinnati Reds,Jon Gray,Texas Rangers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+18,Jonathan India,Cincinnati Reds,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Jonathan India,Cincinnati Reds,Jose Leclerc,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+20,Jonathan India,Cincinnati Reds,Martin Perez,Texas Rangers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+21,Jonathan India,Cincinnati Reds,Josh Sborz,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+22,Jonathan India,Cincinnati Reds,Yency Almonte,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+23,Jonathan India,Cincinnati Reds,Brusdar Graterol,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+24,Jonathan India,Cincinnati Reds,Tony Gonsolin,Los Angeles Dodgers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+25,Jonathan India,Cincinnati Reds,Clayton Kershaw,Los Angeles Dodgers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+26,Jonathan India,Cincinnati Reds,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Jonathan India,Cincinnati Reds,Tayler Scott,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Jonathan India,Cincinnati Reds,Noah Syndergaard,Los Angeles Dodgers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+29,Jonathan India,Cincinnati Reds,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Jonathan India,Cincinnati Reds,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+31,Jonathan India,Cincinnati Reds,Taj Bradley,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Jonathan India,Cincinnati Reds,Cooper Criswell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+33,Jonathan India,Cincinnati Reds,Josh Fleming,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Jonathan India,Cincinnati Reds,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Jonathan India,Cincinnati Reds,Drew Rasmussen,Tampa Bay Rays,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+36,Jonathan India,Cincinnati Reds,Justin Garza,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+37,Jonathan India,Cincinnati Reds,Brayan Bello,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Jonathan India,Cincinnati Reds,Kutter Crawford,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+39,Jonathan India,Cincinnati Reds,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Jonathan India,Cincinnati Reds,James Paxton,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Jonathan India,Cincinnati Reds,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Jonathan India,Cincinnati Reds,Chris Sale,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Jonathan India,Cincinnati Reds,Ryan Sherriff,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Jonathan India,Cincinnati Reds,Josh Winckowski,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Jonathan India,Cincinnati Reds,Genesis Cabrera,St. Louis Cardinals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+46,Jonathan India,Cincinnati Reds,Steven Matz,St. Louis Cardinals,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+47,Jonathan India,Cincinnati Reds,Drew VerHagen,St. Louis Cardinals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+48,Jonathan India,Cincinnati Reds,Jordan Montgomery,St. Louis Cardinals,6,2,1,0,0,0,0,0,1,.333,.333,.500,.833
+49,Jonathan India,Cincinnati Reds,Adam Wainwright,St. Louis Cardinals,6,2,0,0,1,1,0,0,1,.333,.333,.833,1.166
+50,Jonathan India,Cincinnati Reds,Miles Mikolas,St. Louis Cardinals,5,1,0,0,0,0,0,0,0,.200,.333,.200,.533
+51,Jonathan India,Cincinnati Reds,Ryan Helsley,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Jonathan India,Cincinnati Reds,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+53,Jonathan India,Cincinnati Reds,Chris Stratton,St. Louis Cardinals,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Jonathan India,Cincinnati Reds,Luis Frias,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Jonathan India,Cincinnati Reds,Tommy Henry,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+56,Jonathan India,Cincinnati Reds,Scott McGough,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+57,Jonathan India,Cincinnati Reds,Brandon Pfaadt,Arizona Diamondbacks,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+58,Jonathan India,Cincinnati Reds,Jose Ruiz,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+59,Jonathan India,Cincinnati Reds,Cole Irvin,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+60,Jonathan India,Cincinnati Reds,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Jonathan India,Cincinnati Reds,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+62,Jonathan India,Cincinnati Reds,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Jonathan India,Cincinnati Reds,Kyle Gibson,Baltimore Orioles,2,0,0,0,0,1,0,0,1,.000,.333,.000,.333
+64,Jonathan India,Cincinnati Reds,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Jonathan India,Cincinnati Reds,Tyler Wells,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Jonathan India,Cincinnati Reds,Bruce Zimmermann,Baltimore Orioles,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+67,Jonathan India,Cincinnati Reds,Andrew Bellatti,Philadelphia Phillies,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+68,Jonathan India,Cincinnati Reds,Seranthony Dominguez,Philadelphia Phillies,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+69,Jonathan India,Cincinnati Reds,Matt Strahm,Philadelphia Phillies,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+70,Jonathan India,Cincinnati Reds,Aaron Nola,Philadelphia Phillies,2,1,1,0,0,1,0,0,1,.500,.333,1.000,1.333
+71,Jonathan India,Cincinnati Reds,Bailey Falter,Philadelphia Phillies,6,1,1,0,0,0,0,0,0,.167,.167,.333,.500
+72,Jonathan India,Cincinnati Reds,Taijuan Walker,Philadelphia Phillies,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+73,Jonathan India,Cincinnati Reds,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Jonathan India,Cincinnati Reds,Connor Brogdon,Philadelphia Phillies,0,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+75,Jonathan India,Cincinnati Reds,McKinley Moore,Philadelphia Phillies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+76,Jonathan India,Cincinnati Reds,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Jonathan India,Cincinnati Reds,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Jonathan India,Cincinnati Reds,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Jonathan India,Cincinnati Reds,Adbert Alzolay,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+80,Jonathan India,Cincinnati Reds,Jeremiah Estrada,Chicago Cubs,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+81,Jonathan India,Cincinnati Reds,Michael Fulmer,Chicago Cubs,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+82,Jonathan India,Cincinnati Reds,Jameson Taillon,Chicago Cubs,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+83,Jonathan India,Cincinnati Reds,Hayden Wesneski,Chicago Cubs,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+84,Jonathan India,Cincinnati Reds,Drew Smyly,Chicago Cubs,4,1,1,0,0,1,1,0,1,.250,.500,.500,1.000
+85,Jonathan India,Cincinnati Reds,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Jonathan India,Cincinnati Reds,Brandon Hughes,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+87,Jonathan India,Cincinnati Reds,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Jonathan India,Cincinnati Reds,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Jonathan India,Cincinnati Reds,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Jonathan India,Cincinnati Reds,Justin Steele,Chicago Cubs,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+91,Jonathan India,Cincinnati Reds,Keegan Thompson,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Jonathan India,Cincinnati Reds,Luis Garcia,San Diego Padres,2,2,0,0,1,5,0,0,0,1.000,1.000,2.500,3.500
+93,Jonathan India,Cincinnati Reds,Brent Honeywell,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+94,Jonathan India,Cincinnati Reds,Seth Lugo,San Diego Padres,6,2,0,0,0,0,0,0,2,.333,.333,.333,.666
+95,Jonathan India,Cincinnati Reds,Pedro Avila,San Diego Padres,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+96,Jonathan India,Cincinnati Reds,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Jonathan India,Cincinnati Reds,Ray Kerr,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Jonathan India,Cincinnati Reds,Nick Martinez,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Jonathan India,Cincinnati Reds,Adrian Morejon,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Jonathan India,Cincinnati Reds,Blake Snell,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Jonathan India,Cincinnati Reds,Michael Wacha,San Diego Padres,5,0,0,0,0,0,1,0,0,.000,.167,.000,.167
+102,Jonathan India,Cincinnati Reds,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Jonathan India,Cincinnati Reds,Bryan Abreu,Houston Astros,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+104,Jonathan India,Cincinnati Reds,Brandon Bielak,Houston Astros,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+105,Jonathan India,Cincinnati Reds,Ronel Blanco,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+106,Jonathan India,Cincinnati Reds,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Jonathan India,Cincinnati Reds,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+108,Jonathan India,Cincinnati Reds,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Jonathan India,Cincinnati Reds,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Jonathan India,Cincinnati Reds,Hector Neris,Houston Astros,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+111,Jonathan India,Cincinnati Reds,Sandy Alcantara,Miami Marlins,2,1,0,0,0,0,1,0,1,.500,.750,.500,1.250
+112,Jonathan India,Cincinnati Reds,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Jonathan India,Cincinnati Reds,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Jonathan India,Cincinnati Reds,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+115,Jonathan India,Cincinnati Reds,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Jonathan India,Cincinnati Reds,Eury Perez,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Jonathan India,Cincinnati Reds,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Jonathan India,Cincinnati Reds,Amos Willingham,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+119,Jonathan India,Cincinnati Reds,Patrick Corbin,Washington Nationals,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+120,Jonathan India,Cincinnati Reds,Cory Abbott,Washington Nationals,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+121,Jonathan India,Cincinnati Reds,Jose A. Ferrer,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Jonathan India,Cincinnati Reds,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Jonathan India,Cincinnati Reds,MacKenzie Gore,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Jonathan India,Cincinnati Reds,Josiah Gray,Washington Nationals,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+125,Jonathan India,Cincinnati Reds,Jake Irvin,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Jonathan India,Cincinnati Reds,Joe La Sorsa,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Jonathan India,Cincinnati Reds,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Jonathan India,Cincinnati Reds,Jordan Weems,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+129,Jonathan India,Cincinnati Reds,Logan Webb,San Francisco Giants,3,3,1,0,1,1,0,0,0,1.000,1.000,2.333,3.333
+130,Jonathan India,Cincinnati Reds,Alex Cobb,San Francisco Giants,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+131,Jonathan India,Cincinnati Reds,Camilo Doval,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+132,Jonathan India,Cincinnati Reds,Anthony DeSclafani,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Jonathan India,Cincinnati Reds,Jakob Junis,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Jonathan India,Cincinnati Reds,Mauricio Llovera,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Jonathan India,Cincinnati Reds,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Jonathan India,Cincinnati Reds,Kodai Senga,New York Mets,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+137,Jonathan India,Cincinnati Reds,David Peterson,New York Mets,3,1,1,0,0,2,0,0,1,.333,.333,.667,1.000
+138,Jonathan India,Cincinnati Reds,Justin Verlander,New York Mets,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+139,Jonathan India,Cincinnati Reds,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Jonathan India,Cincinnati Reds,Stephen Nogosek,New York Mets,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+141,Jonathan India,Cincinnati Reds,David Robertson,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+142,Jonathan India,Cincinnati Reds,Drew Smith,New York Mets,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+143,Jonathan India,Cincinnati Reds,Connor Seabold,Colorado Rockies,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+144,Jonathan India,Cincinnati Reds,Daniel Bard,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+145,Jonathan India,Cincinnati Reds,Austin Gomber,Colorado Rockies,5,1,0,0,0,0,1,0,2,.200,.333,.200,.533
+146,Jonathan India,Cincinnati Reds,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Jonathan India,Cincinnati Reds,Jake Bird,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Jonathan India,Cincinnati Reds,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Jonathan India,Cincinnati Reds,Noah Davis,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+150,Jonathan India,Cincinnati Reds,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+151,Jonathan India,Cincinnati Reds,Karl Kauffmann,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+152,Jonathan India,Cincinnati Reds,Peter Lambert,Colorado Rockies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+153,Jonathan India,Cincinnati Reds,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+154,Jonathan India,Cincinnati Reds,Riley Pint,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Jonathan India,Cincinnati Reds,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Jonathan India,Cincinnati Reds,Michael King,New York Yankees,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+157,Jonathan India,Cincinnati Reds,Clarke Schmidt,New York Yankees,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+158,Jonathan India,Cincinnati Reds,Albert Abreu,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+159,Jonathan India,Cincinnati Reds,Jhony Brito,New York Yankees,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+160,Jonathan India,Cincinnati Reds,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+161,Jonathan India,Cincinnati Reds,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Jonathan India,Cincinnati Reds,Luis Severino,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+163,Jonathan India,Cincinnati Reds,David Bednar,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+164,Jonathan India,Cincinnati Reds,Wil Crowe,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+165,Jonathan India,Cincinnati Reds,Roansy Contreras,Pittsburgh Pirates,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+166,Jonathan India,Cincinnati Reds,Colin Holderman,Pittsburgh Pirates,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+167,Jonathan India,Cincinnati Reds,Rich Hill,Pittsburgh Pirates,5,2,0,0,1,1,1,0,2,.400,.500,1.000,1.500
+168,Jonathan India,Cincinnati Reds,Mitch Keller,Pittsburgh Pirates,5,2,0,0,0,0,1,0,0,.400,.500,.400,.900
+169,Jonathan India,Cincinnati Reds,Vince Velasquez,Pittsburgh Pirates,6,1,0,0,0,0,0,0,0,.167,.167,.167,.334
+170,Jonathan India,Cincinnati Reds,Chase De Jong,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Jonathan India,Cincinnati Reds,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+172,Jonathan India,Cincinnati Reds,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,Jonathan India,Cincinnati Reds,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Jonathan India,Cincinnati Reds,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+175,Jonathan India,Cincinnati Reds,Mike Clevinger,Chicago White Sox,2,2,1,0,0,0,1,0,0,1.000,1.000,1.500,2.500
+176,Jonathan India,Cincinnati Reds,Gregory Santos,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+177,Jonathan India,Cincinnati Reds,Michael Kopech,Chicago White Sox,3,2,1,0,1,1,0,0,0,.667,.667,2.000,2.667
+178,Jonathan India,Cincinnati Reds,Lance Lynn,Chicago White Sox,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+179,Jonathan India,Cincinnati Reds,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+180,Jonathan India,Cincinnati Reds,Trevor Megill,Milwaukee Brewers,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+181,Jonathan India,Cincinnati Reds,Adrian Houser,Milwaukee Brewers,6,2,0,0,0,0,0,0,0,.333,.333,.333,.666
+182,Jonathan India,Cincinnati Reds,Wade Miley,Milwaukee Brewers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+183,Jonathan India,Cincinnati Reds,Julio Teheran,Milwaukee Brewers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+184,Jonathan India,Cincinnati Reds,Colin Rea,Milwaukee Brewers,6,1,0,0,0,1,0,0,2,.167,.167,.167,.334
+185,Jonathan India,Cincinnati Reds,Corbin Burnes,Milwaukee Brewers,9,1,0,0,1,2,0,0,4,.111,.111,.444,.555
+186,Jonathan India,Cincinnati Reds,Tyson Miller,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+187,Jonathan India,Cincinnati Reds,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+188,Jonathan India,Cincinnati Reds,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+189,Jonathan India,Cincinnati Reds,Elvis Peguero,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+190,Jonathan India,Cincinnati Reds,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+191,Jonathan India,Cincinnati Reds,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+192,Jonathan India,Cincinnati Reds,Abner Uribe,Milwaukee Brewers,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+193,Jonathan India,Cincinnati Reds,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+194,Jonathan India,Cincinnati Reds,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+195,Jonathan India,Cincinnati Reds,Jose Cuas,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+196,Jonathan India,Cincinnati Reds,Daniel Lynch IV,Kansas City Royals,3,2,1,0,1,2,0,0,1,.667,.667,2.000,2.667
+197,Jonathan India,Cincinnati Reds,Zack Greinke,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+198,Jonathan India,Cincinnati Reds,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+199,Jonathan India,Cincinnati Reds,Austin Cox,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+200,Jonathan India,Cincinnati Reds,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+201,Jonathan India,Cincinnati Reds,Jordan Lyles,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+202,Jonathan India,Cincinnati Reds,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+203,Jonathan India,Cincinnati Reds,Shintaro Fujinami,Oakland Athletics,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+204,Jonathan India,Cincinnati Reds,Adam Oller,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+205,Jonathan India,Cincinnati Reds,Kyle Muller,Oakland Athletics,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+206,Jonathan India,Cincinnati Reds,Drew Rucinski,Oakland Athletics,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+207,Jonathan India,Cincinnati Reds,Jeurys Familia,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+208,Jonathan India,Cincinnati Reds,Zach Jackson,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+209,Jonathan India,Cincinnati Reds,Sam Long,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

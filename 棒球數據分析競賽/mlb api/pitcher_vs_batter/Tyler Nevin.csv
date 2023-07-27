@@ -1,0 +1,33 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Tyler Nevin,Detroit Tigers,Brock Burke,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Tyler Nevin,Detroit Tigers,Martin Perez,Texas Rangers,4,1,0,0,0,1,0,0,0,.250,.250,.250,.500
+2,Tyler Nevin,Detroit Tigers,Dane Dunning,Texas Rangers,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+3,Tyler Nevin,Detroit Tigers,Chris Bassitt,Toronto Blue Jays,1,0,0,0,0,1,1,0,1,.000,.333,.000,.333
+4,Tyler Nevin,Detroit Tigers,Adam Cimber,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Tyler Nevin,Detroit Tigers,Trevor Richards,Toronto Blue Jays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+6,Tyler Nevin,Detroit Tigers,Mike Baumann,Baltimore Orioles,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+7,Tyler Nevin,Detroit Tigers,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Tyler Nevin,Detroit Tigers,Felix Bautista,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+9,Tyler Nevin,Detroit Tigers,Yennier Cano,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Tyler Nevin,Detroit Tigers,Kyle Gibson,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+11,Tyler Nevin,Detroit Tigers,Grayson Rodriguez,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Tyler Nevin,Detroit Tigers,Zack Wheeler,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+13,Tyler Nevin,Detroit Tigers,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Tyler Nevin,Detroit Tigers,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Tyler Nevin,Detroit Tigers,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Tyler Nevin,Detroit Tigers,Daniel Bard,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+17,Tyler Nevin,Detroit Tigers,Gavin Hollowell,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Tyler Nevin,Detroit Tigers,Connor Seabold,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Tyler Nevin,Detroit Tigers,Peyton Battenfield,Cleveland Guardians,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+20,Tyler Nevin,Detroit Tigers,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Tyler Nevin,Detroit Tigers,Cal Quantrill,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Tyler Nevin,Detroit Tigers,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Tyler Nevin,Detroit Tigers,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Tyler Nevin,Detroit Tigers,Liam Hendriks,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Tyler Nevin,Detroit Tigers,Michael Kopech,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Tyler Nevin,Detroit Tigers,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Tyler Nevin,Detroit Tigers,Eric Lauer,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Tyler Nevin,Detroit Tigers,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Tyler Nevin,Detroit Tigers,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Tyler Nevin,Detroit Tigers,Jace Peterson,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Tyler Nevin,Detroit Tigers,Ken Waldichuk,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

@@ -1,0 +1,126 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Mike Moustakas,Colorado Rockies,Joe Jimenez,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Mike Moustakas,Colorado Rockies,Kirby Yates,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Mike Moustakas,Colorado Rockies,Bryce Elder,Atlanta Braves,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+3,Mike Moustakas,Colorado Rockies,Charlie Morton,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+4,Mike Moustakas,Colorado Rockies,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Mike Moustakas,Colorado Rockies,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Mike Moustakas,Colorado Rockies,John King,Texas Rangers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+7,Mike Moustakas,Colorado Rockies,Jose Leclerc,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Mike Moustakas,Colorado Rockies,Jon Gray,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+9,Mike Moustakas,Colorado Rockies,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+10,Mike Moustakas,Colorado Rockies,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Mike Moustakas,Colorado Rockies,Alex Vesia,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+12,Mike Moustakas,Los Angeles Angels,Michael Grove,Los Angeles Dodgers,4,2,0,0,0,1,1,0,2,.500,.600,.500,1.100
+13,Mike Moustakas,Los Angeles Angels,Tony Gonsolin,Los Angeles Dodgers,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+14,Mike Moustakas,Colorado Rockies,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Mike Moustakas,Colorado Rockies,Evan Phillips,Los Angeles Dodgers,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+16,Mike Moustakas,Los Angeles Angels,Ryan Brasier,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Mike Moustakas,Los Angeles Angels,Bryan Hudson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Mike Moustakas,Colorado Rockies,Joe Jacques,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+19,Mike Moustakas,Colorado Rockies,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+20,Mike Moustakas,Colorado Rockies,Justin Garza,Boston Red Sox,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+21,Mike Moustakas,Colorado Rockies,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Mike Moustakas,Colorado Rockies,Corey Kluber,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Mike Moustakas,Colorado Rockies,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Mike Moustakas,Colorado Rockies,Miles Mikolas,St. Louis Cardinals,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+25,Mike Moustakas,Colorado Rockies,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Mike Moustakas,Colorado Rockies,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Mike Moustakas,Colorado Rockies,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Mike Moustakas,Colorado Rockies,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Mike Moustakas,Colorado Rockies,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Mike Moustakas,Colorado Rockies,Ryne Nelson,Arizona Diamondbacks,4,2,0,0,0,2,0,0,1,.500,.500,.500,1.000
+31,Mike Moustakas,Colorado Rockies,Zach Davies,Arizona Diamondbacks,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+32,Mike Moustakas,Colorado Rockies,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+33,Mike Moustakas,Colorado Rockies,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Mike Moustakas,Colorado Rockies,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Mike Moustakas,Colorado Rockies,Peter Solomon,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+36,Mike Moustakas,Los Angeles Angels,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Mike Moustakas,Los Angeles Angels,Zac Gallen,Arizona Diamondbacks,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+38,Mike Moustakas,Los Angeles Angels,Tommy Henry,Arizona Diamondbacks,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+39,Mike Moustakas,Colorado Rockies,Alexis Diaz,Cincinnati Reds,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+40,Mike Moustakas,Colorado Rockies,Ben Lively,Cincinnati Reds,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+41,Mike Moustakas,Colorado Rockies,Hunter Greene,Cincinnati Reds,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+42,Mike Moustakas,Colorado Rockies,Fernando Cruz,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+43,Mike Moustakas,Colorado Rockies,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Mike Moustakas,Colorado Rockies,Casey Legumina,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Mike Moustakas,Colorado Rockies,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Mike Moustakas,Colorado Rockies,Brandon Williamson,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Mike Moustakas,Colorado Rockies,Alex Young,Cincinnati Reds,1,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+48,Mike Moustakas,Colorado Rockies,Jose Alvarado,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+49,Mike Moustakas,Colorado Rockies,Luis F. Ortiz,Philadelphia Phillies,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+50,Mike Moustakas,Colorado Rockies,Connor Brogdon,Philadelphia Phillies,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+51,Mike Moustakas,Colorado Rockies,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Mike Moustakas,Colorado Rockies,Aaron Nola,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Mike Moustakas,Colorado Rockies,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Mike Moustakas,Colorado Rockies,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Mike Moustakas,Colorado Rockies,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+56,Mike Moustakas,Los Angeles Angels,Tim Hill,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+57,Mike Moustakas,Los Angeles Angels,Domingo Tapia,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+58,Mike Moustakas,Colorado Rockies,Yu Darvish,San Diego Padres,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+59,Mike Moustakas,Colorado Rockies,Nick Martinez,San Diego Padres,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+60,Mike Moustakas,Colorado Rockies,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Mike Moustakas,Colorado Rockies,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Mike Moustakas,Colorado Rockies,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Mike Moustakas,Colorado Rockies,Michael Wacha,San Diego Padres,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+64,Mike Moustakas,Los Angeles Angels,Jose Castillo,San Diego Padres,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+65,Mike Moustakas,Los Angeles Angels,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Mike Moustakas,Los Angeles Angels,Seth Lugo,San Diego Padres,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+67,Mike Moustakas,Los Angeles Angels,Joe Musgrove,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Mike Moustakas,Los Angeles Angels,Bryan Abreu,Houston Astros,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+69,Mike Moustakas,Los Angeles Angels,J.P. France,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+70,Mike Moustakas,Los Angeles Angels,Cristian Javier,Houston Astros,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+71,Mike Moustakas,Los Angeles Angels,Joel Kuhnel,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Mike Moustakas,Los Angeles Angels,Phil Maton,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+73,Mike Moustakas,Los Angeles Angels,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Mike Moustakas,Los Angeles Angels,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Mike Moustakas,Los Angeles Angels,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+76,Mike Moustakas,Colorado Rockies,Anthony Banda,Washington Nationals,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+77,Mike Moustakas,Colorado Rockies,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Mike Moustakas,Colorado Rockies,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Mike Moustakas,Colorado Rockies,Chad Kuhl,Washington Nationals,1,0,0,0,0,0,2,1,0,.000,.667,.000,.667
+80,Mike Moustakas,Colorado Rockies,Trevor Williams,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Mike Moustakas,Colorado Rockies,Dylan Floro,Miami Marlins,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+82,Mike Moustakas,Colorado Rockies,Sandy Alcantara,Miami Marlins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+83,Mike Moustakas,Colorado Rockies,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Mike Moustakas,Colorado Rockies,Luke Jackson,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+85,Mike Moustakas,Colorado Rockies,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Mike Moustakas,Colorado Rockies,Logan Webb,San Francisco Giants,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+87,Mike Moustakas,Colorado Rockies,Adam Ottavino,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+88,Mike Moustakas,Los Angeles Angels,Nick Ramirez,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+89,Mike Moustakas,Los Angeles Angels,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Mike Moustakas,Los Angeles Angels,Domingo German,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Mike Moustakas,Los Angeles Angels,Michael King,New York Yankees,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+92,Mike Moustakas,Los Angeles Angels,Luis Severino,New York Yankees,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Mike Moustakas,Colorado Rockies,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Mike Moustakas,Colorado Rockies,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Mike Moustakas,Colorado Rockies,Tim Herrin,Cleveland Guardians,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+96,Mike Moustakas,Colorado Rockies,Cal Quantrill,Cleveland Guardians,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+97,Mike Moustakas,Colorado Rockies,Peyton Battenfield,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Mike Moustakas,Colorado Rockies,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Mike Moustakas,Colorado Rockies,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Mike Moustakas,Colorado Rockies,Konnor Pilkington,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Mike Moustakas,Colorado Rockies,Wil Crowe,Pittsburgh Pirates,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+102,Mike Moustakas,Los Angeles Angels,Osvaldo Bido,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+103,Mike Moustakas,Los Angeles Angels,Mitch Keller,Pittsburgh Pirates,6,2,1,0,0,0,0,0,2,.333,.333,.500,.833
+104,Mike Moustakas,Los Angeles Angels,Johan Oviedo,Pittsburgh Pirates,4,1,0,0,1,4,0,0,1,.250,.200,1.000,1.200
+105,Mike Moustakas,Colorado Rockies,Yohan Ramirez,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+106,Mike Moustakas,Colorado Rockies,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Mike Moustakas,Los Angeles Angels,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Mike Moustakas,Los Angeles Angels,Ryan Borucki,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Mike Moustakas,Los Angeles Angels,Jose Hernandez,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Mike Moustakas,Los Angeles Angels,Dauri Moreta,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Mike Moustakas,Los Angeles Angels,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,Mike Moustakas,Los Angeles Angels,Gregory Santos,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+113,Mike Moustakas,Los Angeles Angels,Michael Kopech,Chicago White Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+114,Mike Moustakas,Los Angeles Angels,Lance Lynn,Chicago White Sox,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+115,Mike Moustakas,Los Angeles Angels,Dylan Cease,Chicago White Sox,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+116,Mike Moustakas,Los Angeles Angels,Aaron Bummer,Chicago White Sox,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Mike Moustakas,Los Angeles Angels,Lucas Giolito,Chicago White Sox,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+118,Mike Moustakas,Los Angeles Angels,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Mike Moustakas,Los Angeles Angels,Keynan Middleton,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+120,Mike Moustakas,Los Angeles Angels,Touki Toussaint,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Mike Moustakas,Colorado Rockies,Peter Strzelecki,Milwaukee Brewers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+122,Mike Moustakas,Colorado Rockies,Wade Miley,Milwaukee Brewers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+123,Mike Moustakas,Colorado Rockies,Scott Barlow,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+124,Mike Moustakas,Colorado Rockies,Brady Singer,Kansas City Royals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666

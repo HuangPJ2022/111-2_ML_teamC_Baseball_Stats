@@ -1,0 +1,96 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Austin Nola,San Diego Padres,Dylan Lee,Atlanta Braves,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+1,Austin Nola,San Diego Padres,Dylan Dodd,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Austin Nola,San Diego Padres,Max Fried,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Austin Nola,San Diego Padres,Joe Jimenez,Atlanta Braves,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+4,Austin Nola,San Diego Padres,Lucas Luetge,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Austin Nola,San Diego Padres,Charlie Morton,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Austin Nola,San Diego Padres,Jared Shuster,Atlanta Braves,1,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+7,Austin Nola,San Diego Padres,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Austin Nola,San Diego Padres,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Austin Nola,San Diego Padres,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Austin Nola,San Diego Padres,Clayton Kershaw,Los Angeles Dodgers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+11,Austin Nola,San Diego Padres,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Austin Nola,San Diego Padres,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Austin Nola,San Diego Padres,Julio Urias,Los Angeles Dodgers,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Austin Nola,San Diego Padres,Kevin Kelly,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+15,Austin Nola,San Diego Padres,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Austin Nola,San Diego Padres,James Paxton,Boston Red Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+17,Austin Nola,San Diego Padres,Chris Sale,Boston Red Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+18,Austin Nola,San Diego Padres,Josh Winckowski,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+19,Austin Nola,San Diego Padres,Zac Gallen,Arizona Diamondbacks,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+20,Austin Nola,San Diego Padres,Jose Ruiz,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+21,Austin Nola,San Diego Padres,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Austin Nola,San Diego Padres,Drey Jameson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Austin Nola,San Diego Padres,Merrill Kelly,Arizona Diamondbacks,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+24,Austin Nola,San Diego Padres,Scott McGough,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Austin Nola,San Diego Padres,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Austin Nola,San Diego Padres,Peter Solomon,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Austin Nola,San Diego Padres,Brandon Williamson,Cincinnati Reds,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+28,Austin Nola,San Diego Padres,Graham Ashcraft,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Austin Nola,San Diego Padres,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Austin Nola,San Diego Padres,Alec Mills,Cincinnati Reds,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+31,Austin Nola,San Diego Padres,Eduardo Salazar,Cincinnati Reds,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+32,Austin Nola,San Diego Padres,Lucas Sims,Cincinnati Reds,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Austin Nola,San Diego Padres,Gregory Soto,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+34,Austin Nola,San Diego Padres,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Austin Nola,San Diego Padres,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Austin Nola,San Diego Padres,Justin Steele,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+37,Austin Nola,San Diego Padres,Marcus Stroman,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+38,Austin Nola,San Diego Padres,Mark Leiter Jr.,Chicago Cubs,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+39,Austin Nola,San Diego Padres,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Austin Nola,San Diego Padres,Michael Rucker,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+41,Austin Nola,San Diego Padres,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Austin Nola,San Diego Padres,Jorge Alcala,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+43,Austin Nola,San Diego Padres,Jhoan Duran,Minnesota Twins,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+44,Austin Nola,San Diego Padres,Griffin Jax,Minnesota Twins,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+45,Austin Nola,San Diego Padres,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Austin Nola,San Diego Padres,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Austin Nola,San Diego Padres,Louie Varland,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Austin Nola,San Diego Padres,Matt Barnes,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Austin Nola,San Diego Padres,Bryan Hoeing,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Austin Nola,San Diego Padres,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Austin Nola,San Diego Padres,MacKenzie Gore,Washington Nationals,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Austin Nola,San Diego Padres,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Austin Nola,San Diego Padres,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Austin Nola,San Diego Padres,Alex Cobb,San Francisco Giants,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+55,Austin Nola,San Diego Padres,Jakob Junis,San Francisco Giants,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+56,Austin Nola,San Diego Padres,Scott Alexander,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+57,Austin Nola,San Diego Padres,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Austin Nola,San Diego Padres,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Austin Nola,San Diego Padres,Anthony DeSclafani,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Austin Nola,San Diego Padres,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Austin Nola,San Diego Padres,Sean Manaea,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+62,Austin Nola,San Diego Padres,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Austin Nola,San Diego Padres,Tylor Megill,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Austin Nola,San Diego Padres,Max Scherzer,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Austin Nola,San Diego Padres,Drew Smith,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Austin Nola,San Diego Padres,Dinelson Lamet,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+67,Austin Nola,San Diego Padres,Austin Gomber,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+68,Austin Nola,San Diego Padres,Kyle Freeland,Colorado Rockies,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+69,Austin Nola,San Diego Padres,Jake Bird,Colorado Rockies,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+70,Austin Nola,San Diego Padres,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Austin Nola,San Diego Padres,German Marquez,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Austin Nola,San Diego Padres,Brent Suter,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Austin Nola,San Diego Padres,Gerrit Cole,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Austin Nola,San Diego Padres,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Austin Nola,San Diego Padres,Ron Marinaccio,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+76,Austin Nola,San Diego Padres,Randy Vasquez,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Austin Nola,San Diego Padres,Ryan Weber,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Austin Nola,San Diego Padres,Logan Gilbert,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+79,Austin Nola,San Diego Padres,Logan Allen,Cleveland Guardians,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+80,Austin Nola,San Diego Padres,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Austin Nola,San Diego Padres,Nick Sandlin,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+82,Austin Nola,San Diego Padres,Ryan Borucki,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Austin Nola,San Diego Padres,Luis L. Ortiz,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Austin Nola,San Diego Padres,Freddy Peralta,Milwaukee Brewers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+85,Austin Nola,San Diego Padres,Wade Miley,Milwaukee Brewers,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+86,Austin Nola,San Diego Padres,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Austin Nola,San Diego Padres,Joel Payamps,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+88,Austin Nola,San Diego Padres,Colin Rea,Milwaukee Brewers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+89,Austin Nola,San Diego Padres,Devin Williams,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+90,Austin Nola,San Diego Padres,Brad Keller,Kansas City Royals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+91,Austin Nola,San Diego Padres,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Austin Nola,San Diego Padres,Max Castillo,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+93,Austin Nola,San Diego Padres,Mike Mayers,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Austin Nola,San Diego Padres,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

@@ -1,0 +1,22 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Nelson Velazquez,Chicago Cubs,Seth Lugo,San Diego Padres,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+1,Nelson Velazquez,Chicago Cubs,Blake Snell,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Nelson Velazquez,Chicago Cubs,Michael Wacha,San Diego Padres,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+3,Nelson Velazquez,Chicago Cubs,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Nelson Velazquez,Chicago Cubs,Josh Hader,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+5,Nelson Velazquez,Chicago Cubs,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Nelson Velazquez,Chicago Cubs,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Nelson Velazquez,Chicago Cubs,Steven Wilson,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+8,Nelson Velazquez,Chicago Cubs,Jesus Luzardo,Miami Marlins,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+9,Nelson Velazquez,Chicago Cubs,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+10,Nelson Velazquez,Chicago Cubs,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Nelson Velazquez,Chicago Cubs,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Nelson Velazquez,Chicago Cubs,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Nelson Velazquez,Chicago Cubs,A.J. Puk,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Nelson Velazquez,Chicago Cubs,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Nelson Velazquez,Chicago Cubs,Patrick Corbin,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Nelson Velazquez,Chicago Cubs,MacKenzie Gore,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Nelson Velazquez,Chicago Cubs,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Nelson Velazquez,Chicago Cubs,Chris Flexen,Seattle Mariners,2,2,0,0,1,4,0,0,0,1.000,1.000,2.500,3.500
+19,Nelson Velazquez,Chicago Cubs,Jose Rodriguez,Seattle Mariners,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+20,Nelson Velazquez,Chicago Cubs,Diego Castillo,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

@@ -1,0 +1,74 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Mike Ford,Seattle Mariners,Grant Anderson,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Mike Ford,Seattle Mariners,Nathan Eovaldi,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Mike Ford,Seattle Mariners,Jon Gray,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Mike Ford,Seattle Mariners,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Mike Ford,Seattle Mariners,Carlos Estevez,Los Angeles Angels,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+5,Mike Ford,Seattle Mariners,Griffin Canning,Los Angeles Angels,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+6,Mike Ford,Seattle Mariners,Chris Devenski,Los Angeles Angels,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+7,Mike Ford,Seattle Mariners,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+8,Mike Ford,Seattle Mariners,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Mike Ford,Seattle Mariners,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Mike Ford,Seattle Mariners,Taj Bradley,Tampa Bay Rays,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+11,Mike Ford,Seattle Mariners,Tyler Glasnow,Tampa Bay Rays,2,1,0,0,0,1,1,0,1,.500,.667,.500,1.167
+12,Mike Ford,Seattle Mariners,Jason Adam,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Mike Ford,Seattle Mariners,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Mike Ford,Seattle Mariners,Robert Stephenson,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Mike Ford,Seattle Mariners,Alek Manoah,Toronto Blue Jays,1,1,0,0,1,2,1,0,0,1.000,1.000,4.000,5.000
+16,Mike Ford,Seattle Mariners,Erik Swanson,Toronto Blue Jays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+17,Mike Ford,Seattle Mariners,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Mike Ford,Seattle Mariners,Kevin Gausman,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Mike Ford,Seattle Mariners,Felix Bautista,Baltimore Orioles,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+20,Mike Ford,Seattle Mariners,Dean Kremer,Baltimore Orioles,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+21,Mike Ford,Seattle Mariners,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Mike Ford,Seattle Mariners,Josh Lester,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Mike Ford,Seattle Mariners,Drew Carlton,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+24,Mike Ford,Seattle Mariners,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+25,Mike Ford,Seattle Mariners,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Mike Ford,Seattle Mariners,Hunter Brown,Houston Astros,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+27,Mike Ford,Seattle Mariners,Bligh Madris,Houston Astros,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+28,Mike Ford,Seattle Mariners,Brandon Bielak,Houston Astros,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+29,Mike Ford,Seattle Mariners,Phil Maton,Houston Astros,2,1,1,0,0,3,0,0,0,.500,.500,1.000,1.500
+30,Mike Ford,Seattle Mariners,Ronel Blanco,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Mike Ford,Seattle Mariners,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Mike Ford,Seattle Mariners,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Mike Ford,Seattle Mariners,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Mike Ford,Seattle Mariners,Ryne Stanek,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Mike Ford,Seattle Mariners,Jordan Balazovic,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+36,Mike Ford,Seattle Mariners,Jorge Lopez,Minnesota Twins,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+37,Mike Ford,Seattle Mariners,Bailey Ober,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+38,Mike Ford,Seattle Mariners,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Mike Ford,Seattle Mariners,Sonny Gray,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.667,.000,.667
+40,Mike Ford,Seattle Mariners,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Mike Ford,Seattle Mariners,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+42,Mike Ford,Seattle Mariners,Kenta Maeda,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+43,Mike Ford,Seattle Mariners,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Mike Ford,Seattle Mariners,Mason Thompson,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+45,Mike Ford,Seattle Mariners,Cory Abbott,Washington Nationals,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+46,Mike Ford,Seattle Mariners,Trevor Williams,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+47,Mike Ford,Seattle Mariners,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Mike Ford,Seattle Mariners,Archie Bradley,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+49,Mike Ford,Seattle Mariners,JT Chargois,Miami Marlins,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+50,Mike Ford,Seattle Mariners,Edward Cabrera,Miami Marlins,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+51,Mike Ford,Seattle Mariners,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Mike Ford,Seattle Mariners,Eury Perez,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Mike Ford,Seattle Mariners,Sean Manaea,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+54,Mike Ford,Seattle Mariners,Keaton Winn,San Francisco Giants,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+55,Mike Ford,Seattle Mariners,Camilo Doval,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+56,Mike Ford,Seattle Mariners,Jakob Junis,San Francisco Giants,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+57,Mike Ford,Seattle Mariners,Logan Webb,San Francisco Giants,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+58,Mike Ford,Seattle Mariners,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+59,Mike Ford,Seattle Mariners,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Mike Ford,Seattle Mariners,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Mike Ford,Seattle Mariners,Gerrit Cole,New York Yankees,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+62,Mike Ford,Seattle Mariners,Domingo German,New York Yankees,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+63,Mike Ford,Seattle Mariners,Isiah Kiner-Falefa,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Mike Ford,Seattle Mariners,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Mike Ford,Seattle Mariners,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Mike Ford,Seattle Mariners,Lance Lynn,Chicago White Sox,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+67,Mike Ford,Seattle Mariners,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Mike Ford,Seattle Mariners,Alex Lange,Detroit Tigers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+69,Mike Ford,Seattle Mariners,Beau Brieske,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Mike Ford,Seattle Mariners,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Mike Ford,Seattle Mariners,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Mike Ford,Seattle Mariners,Reese Olson,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000

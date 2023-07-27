@@ -1,0 +1,199 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Joey Meneses,Washington Nationals,Jesse Chavez,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,Joey Meneses,Washington Nationals,Max Fried,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Joey Meneses,Washington Nationals,Collin McHugh,Atlanta Braves,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+3,Joey Meneses,Washington Nationals,Jared Shuster,Atlanta Braves,6,3,0,0,0,0,0,0,1,.500,.500,.500,1.000
+4,Joey Meneses,Washington Nationals,Bryce Elder,Atlanta Braves,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+5,Joey Meneses,Washington Nationals,Joe Jimenez,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Joey Meneses,Washington Nationals,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Joey Meneses,Washington Nationals,AJ Smith-Shawver,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Joey Meneses,Washington Nationals,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+9,Joey Meneses,Washington Nationals,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Joey Meneses,Washington Nationals,Kirby Yates,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Joey Meneses,Washington Nationals,Andrew Heaney,Texas Rangers,2,2,1,0,1,2,0,0,0,1.000,1.000,3.000,4.000
+12,Joey Meneses,Washington Nationals,Glenn Otto,Texas Rangers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+13,Joey Meneses,Washington Nationals,Josh Sborz,Texas Rangers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+14,Joey Meneses,Washington Nationals,Cody Bradford,Texas Rangers,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+15,Joey Meneses,Washington Nationals,Grant Anderson,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Joey Meneses,Washington Nationals,Aroldis Chapman,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Joey Meneses,Washington Nationals,Dane Dunning,Texas Rangers,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+18,Joey Meneses,Washington Nationals,Noah Syndergaard,Los Angeles Dodgers,3,3,1,0,0,0,0,0,0,1.000,1.000,1.333,2.333
+19,Joey Meneses,Washington Nationals,Tony Gonsolin,Los Angeles Dodgers,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+20,Joey Meneses,Washington Nationals,Bobby Miller,Los Angeles Dodgers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+21,Joey Meneses,Washington Nationals,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Joey Meneses,Washington Nationals,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Joey Meneses,Washington Nationals,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Joey Meneses,Washington Nationals,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Joey Meneses,Washington Nationals,Jose Suarez,Los Angeles Angels,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+26,Joey Meneses,Washington Nationals,Griffin Canning,Los Angeles Angels,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+27,Joey Meneses,Washington Nationals,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Joey Meneses,Washington Nationals,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Joey Meneses,Washington Nationals,Matt Moore,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Joey Meneses,Washington Nationals,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+31,Joey Meneses,Washington Nationals,Jose Quijada,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Joey Meneses,Washington Nationals,Kevin Kelly,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Joey Meneses,Washington Nationals,Shane McClanahan,Tampa Bay Rays,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+34,Joey Meneses,Washington Nationals,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Joey Meneses,Washington Nationals,Garrett Cleavinger,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Joey Meneses,Washington Nationals,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Joey Meneses,Washington Nationals,Josh Fleming,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+38,Joey Meneses,Washington Nationals,Drew Rasmussen,Tampa Bay Rays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+39,Joey Meneses,Washington Nationals,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Joey Meneses,Washington Nationals,Dakota Hudson,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,.500,1.000,1.500
+41,Joey Meneses,Washington Nationals,Giovanny Gallegos,St. Louis Cardinals,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+42,Joey Meneses,Washington Nationals,Andre Pallante,St. Louis Cardinals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+43,Joey Meneses,Washington Nationals,Jack Flaherty,St. Louis Cardinals,6,1,1,0,0,0,0,0,5,.167,.167,.333,.500
+44,Joey Meneses,Washington Nationals,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Joey Meneses,Washington Nationals,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Joey Meneses,Washington Nationals,Kyle Leahy,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Joey Meneses,Washington Nationals,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Joey Meneses,Washington Nationals,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,1,0,0,.000,.250,.000,.250
+49,Joey Meneses,Washington Nationals,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Joey Meneses,Washington Nationals,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Joey Meneses,Washington Nationals,Jake Woodford,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Joey Meneses,Washington Nationals,Kevin Ginkel,Arizona Diamondbacks,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+53,Joey Meneses,Washington Nationals,Miguel Castro,Arizona Diamondbacks,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+54,Joey Meneses,Washington Nationals,Andrew Chafin,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+55,Joey Meneses,Washington Nationals,Zach Davies,Arizona Diamondbacks,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+56,Joey Meneses,Washington Nationals,Ryne Nelson,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+57,Joey Meneses,Washington Nationals,Tommy Henry,Arizona Diamondbacks,5,1,0,0,0,0,1,0,1,.200,.333,.200,.533
+58,Joey Meneses,Washington Nationals,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+59,Joey Meneses,Washington Nationals,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Joey Meneses,Washington Nationals,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Joey Meneses,Washington Nationals,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Joey Meneses,Washington Nationals,Fernando Cruz,Cincinnati Reds,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+63,Joey Meneses,Washington Nationals,Graham Ashcraft,Cincinnati Reds,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+64,Joey Meneses,Washington Nationals,Daniel Duarte,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Joey Meneses,Washington Nationals,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Joey Meneses,Washington Nationals,Ian Gibaut,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Joey Meneses,Washington Nationals,Brett Kennedy,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+68,Joey Meneses,Washington Nationals,Derek Law,Cincinnati Reds,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+69,Joey Meneses,Washington Nationals,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Joey Meneses,Washington Nationals,Brandon Williamson,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Joey Meneses,Washington Nationals,Kyle Bradish,Baltimore Orioles,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+72,Joey Meneses,Washington Nationals,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Joey Meneses,Washington Nationals,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Joey Meneses,Washington Nationals,Dean Kremer,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Joey Meneses,Washington Nationals,Jose Alvarado,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+76,Joey Meneses,Washington Nationals,Dylan Covey,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+77,Joey Meneses,Washington Nationals,Zack Wheeler,Philadelphia Phillies,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+78,Joey Meneses,Washington Nationals,Ranger Suarez,Philadelphia Phillies,5,1,0,1,0,0,1,0,2,.200,.333,.600,.933
+79,Joey Meneses,Washington Nationals,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+80,Joey Meneses,Washington Nationals,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Joey Meneses,Washington Nationals,Yunior Marte,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+82,Joey Meneses,Washington Nationals,Cristopher Sanchez,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+83,Joey Meneses,Washington Nationals,Matt Strahm,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Joey Meneses,Washington Nationals,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Joey Meneses,Washington Nationals,Marcus Stroman,Chicago Cubs,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+86,Joey Meneses,Washington Nationals,Jameson Taillon,Chicago Cubs,4,2,0,0,0,0,0,0,1,.500,.500,.500,1.000
+87,Joey Meneses,Washington Nationals,Kyle Hendricks,Chicago Cubs,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+88,Joey Meneses,Washington Nationals,Adbert Alzolay,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+89,Joey Meneses,Washington Nationals,Javier Assad,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Joey Meneses,Washington Nationals,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Joey Meneses,Washington Nationals,Jeremiah Estrada,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Joey Meneses,Washington Nationals,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Joey Meneses,Washington Nationals,Julian Merryweather,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Joey Meneses,Washington Nationals,Daniel Palencia,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Joey Meneses,Washington Nationals,Drew Smyly,Chicago Cubs,6,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+96,Joey Meneses,Washington Nationals,Hayden Wesneski,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Joey Meneses,Washington Nationals,Tim Hill,San Diego Padres,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+98,Joey Meneses,Washington Nationals,Brent Honeywell,San Diego Padres,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+99,Joey Meneses,Washington Nationals,Nick Martinez,San Diego Padres,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+100,Joey Meneses,Washington Nationals,Ryan Weathers,San Diego Padres,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+101,Joey Meneses,Washington Nationals,Seth Lugo,San Diego Padres,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+102,Joey Meneses,Washington Nationals,Joe Musgrove,San Diego Padres,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+103,Joey Meneses,Washington Nationals,Blake Snell,San Diego Padres,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+104,Joey Meneses,Washington Nationals,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Joey Meneses,Washington Nationals,Yu Darvish,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Joey Meneses,Washington Nationals,Luis Garcia,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Joey Meneses,Washington Nationals,Adrian Morejon,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Joey Meneses,Washington Nationals,Matt Waldron,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Joey Meneses,Washington Nationals,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Joey Meneses,Washington Nationals,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Joey Meneses,Washington Nationals,Hunter Brown,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,Joey Meneses,Washington Nationals,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Joey Meneses,Washington Nationals,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Joey Meneses,Washington Nationals,Pablo Lopez,Minnesota Twins,3,3,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+115,Joey Meneses,Washington Nationals,Simeon Woods Richardson,Minnesota Twins,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+116,Joey Meneses,Washington Nationals,Tyler Mahle,Minnesota Twins,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+117,Joey Meneses,Washington Nationals,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Joey Meneses,Washington Nationals,Brent Headrick,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,Joey Meneses,Washington Nationals,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Joey Meneses,Washington Nationals,Bailey Ober,Minnesota Twins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Joey Meneses,Washington Nationals,Sandy Alcantara,Miami Marlins,2,1,0,0,0,2,0,0,0,.500,.333,.500,.833
+122,Joey Meneses,Washington Nationals,Braxton Garrett,Miami Marlins,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+123,Joey Meneses,Washington Nationals,Jesus Luzardo,Miami Marlins,6,2,1,0,0,0,0,0,0,.333,.333,.500,.833
+124,Joey Meneses,Washington Nationals,Huascar Brazoban,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+125,Joey Meneses,Washington Nationals,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Joey Meneses,Washington Nationals,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Joey Meneses,Washington Nationals,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Joey Meneses,Washington Nationals,Scott Alexander,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+129,Joey Meneses,Washington Nationals,Ryan Walker,San Francisco Giants,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+130,Joey Meneses,Washington Nationals,Tristan Beck,San Francisco Giants,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+131,Joey Meneses,Washington Nationals,Logan Webb,San Francisco Giants,4,2,1,0,0,0,0,0,0,.500,.500,.750,1.250
+132,Joey Meneses,Washington Nationals,Anthony DeSclafani,San Francisco Giants,6,2,0,0,0,1,0,0,1,.333,.333,.333,.666
+133,Joey Meneses,Washington Nationals,Luke Jackson,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Joey Meneses,Washington Nationals,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Joey Meneses,Washington Nationals,Mauricio Llovera,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Joey Meneses,Washington Nationals,Sean Manaea,San Francisco Giants,4,0,0,0,0,0,1,0,0,.000,.200,.000,.200
+137,Joey Meneses,Washington Nationals,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Joey Meneses,Washington Nationals,Alex Wood,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+139,Joey Meneses,Washington Nationals,Zach Muckenhirn,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+140,Joey Meneses,Washington Nationals,Jimmy Yacabonis,New York Mets,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+141,Joey Meneses,Washington Nationals,Jose Butto,New York Mets,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+142,Joey Meneses,Washington Nationals,David Peterson,New York Mets,3,2,2,0,0,2,0,0,1,.667,.667,1.333,2.000
+143,Joey Meneses,Washington Nationals,Tommy Hunter,New York Mets,4,2,1,0,0,2,0,0,1,.500,.500,.750,1.250
+144,Joey Meneses,Washington Nationals,Joey Lucchesi,New York Mets,4,2,0,0,0,1,0,0,0,.500,.500,.500,1.000
+145,Joey Meneses,Washington Nationals,Tylor Megill,New York Mets,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+146,Joey Meneses,Washington Nationals,Kodai Senga,New York Mets,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+147,Joey Meneses,Washington Nationals,Jeff Brigham,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+148,Joey Meneses,Washington Nationals,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Joey Meneses,Washington Nationals,Stephen Nogosek,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Joey Meneses,Washington Nationals,Brooks Raley,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+151,Joey Meneses,Washington Nationals,David Robertson,New York Mets,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+152,Joey Meneses,Washington Nationals,Max Scherzer,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+153,Joey Meneses,Washington Nationals,Ty Blach,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+154,Joey Meneses,Washington Nationals,Dinelson Lamet,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+155,Joey Meneses,Washington Nationals,Austin Gomber,Colorado Rockies,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+156,Joey Meneses,Washington Nationals,Jake Bird,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+157,Joey Meneses,Washington Nationals,Kyle Freeland,Colorado Rockies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+158,Joey Meneses,Washington Nationals,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Joey Meneses,Washington Nationals,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Joey Meneses,Washington Nationals,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Joey Meneses,Washington Nationals,Jose Urena,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+162,Joey Meneses,Washington Nationals,Luis Castillo,Seattle Mariners,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+163,Joey Meneses,Washington Nationals,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+164,Joey Meneses,Washington Nationals,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+165,Joey Meneses,Washington Nationals,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+166,Joey Meneses,Washington Nationals,Bryan Woo,Seattle Mariners,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+167,Joey Meneses,Washington Nationals,Zach Plesac,Cleveland Guardians,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+168,Joey Meneses,Washington Nationals,Trevor Stephan,Cleveland Guardians,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+169,Joey Meneses,Washington Nationals,Shane Bieber,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+170,Joey Meneses,Washington Nationals,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Joey Meneses,Washington Nationals,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+172,Joey Meneses,Washington Nationals,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,Joey Meneses,Washington Nationals,Cal Quantrill,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Joey Meneses,Washington Nationals,Jose Hernandez,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+175,Joey Meneses,Washington Nationals,Johan Oviedo,Pittsburgh Pirates,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+176,Joey Meneses,Washington Nationals,Duane Underwood Jr.,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+177,Joey Meneses,Washington Nationals,Vince Velasquez,Pittsburgh Pirates,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+178,Joey Meneses,Washington Nationals,Cody Bolton,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Joey Meneses,Washington Nationals,Rich Hill,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+180,Joey Meneses,Washington Nationals,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Joey Meneses,Washington Nationals,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+182,Joey Meneses,Washington Nationals,Josh Staumont,Kansas City Royals,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+183,Joey Meneses,Washington Nationals,Jose Cuas,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+184,Joey Meneses,Washington Nationals,Jordan Lyles,Kansas City Royals,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+185,Joey Meneses,Washington Nationals,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+186,Joey Meneses,Washington Nationals,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+187,Joey Meneses,Washington Nationals,Daniel Lynch IV,Kansas City Royals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+188,Joey Meneses,Washington Nationals,Brady Singer,Kansas City Royals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+189,Joey Meneses,Washington Nationals,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+190,Joey Meneses,Washington Nationals,Joey Wentz,Detroit Tigers,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+191,Joey Meneses,Washington Nationals,Jason Foley,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+192,Joey Meneses,Washington Nationals,Matthew Boyd,Detroit Tigers,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+193,Joey Meneses,Washington Nationals,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+194,Joey Meneses,Washington Nationals,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+195,Joey Meneses,Washington Nationals,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+196,Joey Meneses,Washington Nationals,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+197,Joey Meneses,Washington Nationals,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

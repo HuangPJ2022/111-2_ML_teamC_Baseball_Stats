@@ -1,0 +1,209 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Christian Walker,Arizona Diamondbacks,Ben Heller,Atlanta Braves,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+1,Christian Walker,Arizona Diamondbacks,Michael Tonkin,Atlanta Braves,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+2,Christian Walker,Arizona Diamondbacks,Bryce Elder,Atlanta Braves,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+3,Christian Walker,Arizona Diamondbacks,Collin McHugh,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+4,Christian Walker,Arizona Diamondbacks,Charlie Morton,Atlanta Braves,4,2,2,0,0,1,1,0,0,.500,.600,1.000,1.600
+5,Christian Walker,Arizona Diamondbacks,Michael Soroka,Atlanta Braves,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+6,Christian Walker,Arizona Diamondbacks,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Christian Walker,Arizona Diamondbacks,Lucas Luetge,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+8,Christian Walker,Arizona Diamondbacks,Dereck Rodriguez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Christian Walker,Arizona Diamondbacks,AJ Smith-Shawver,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Christian Walker,Arizona Diamondbacks,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.333,.000,.333
+11,Christian Walker,Arizona Diamondbacks,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+12,Christian Walker,Arizona Diamondbacks,Jon Gray,Texas Rangers,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+13,Christian Walker,Arizona Diamondbacks,Andrew Heaney,Texas Rangers,3,2,0,0,2,4,0,0,1,.667,.667,2.667,3.334
+14,Christian Walker,Arizona Diamondbacks,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Christian Walker,Arizona Diamondbacks,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Christian Walker,Arizona Diamondbacks,Jose Leclerc,Texas Rangers,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+17,Christian Walker,Arizona Diamondbacks,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Christian Walker,Arizona Diamondbacks,Brusdar Graterol,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,.500,1.000,1.500
+19,Christian Walker,Arizona Diamondbacks,Julio Urias,Los Angeles Dodgers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+20,Christian Walker,Arizona Diamondbacks,Clayton Kershaw,Los Angeles Dodgers,5,2,0,0,1,1,0,0,2,.400,.400,1.000,1.400
+21,Christian Walker,Arizona Diamondbacks,Michael Grove,Los Angeles Dodgers,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+22,Christian Walker,Arizona Diamondbacks,Dustin May,Los Angeles Dodgers,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+23,Christian Walker,Arizona Diamondbacks,Noah Syndergaard,Los Angeles Dodgers,6,1,0,0,0,0,0,0,0,.167,.167,.167,.334
+24,Christian Walker,Arizona Diamondbacks,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Christian Walker,Arizona Diamondbacks,Phil Bickford,Los Angeles Dodgers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+26,Christian Walker,Arizona Diamondbacks,Andre Jackson,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Christian Walker,Arizona Diamondbacks,Shelby Miller,Los Angeles Dodgers,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+28,Christian Walker,Arizona Diamondbacks,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Christian Walker,Arizona Diamondbacks,Tyler Anderson,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Christian Walker,Arizona Diamondbacks,Griffin Canning,Los Angeles Angels,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+31,Christian Walker,Arizona Diamondbacks,Reid Detmers,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+32,Christian Walker,Arizona Diamondbacks,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Christian Walker,Arizona Diamondbacks,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Christian Walker,Arizona Diamondbacks,Victor Mederos,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Christian Walker,Arizona Diamondbacks,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Christian Walker,Arizona Diamondbacks,Zack Littell,Tampa Bay Rays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+37,Christian Walker,Arizona Diamondbacks,Taj Bradley,Tampa Bay Rays,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+38,Christian Walker,Arizona Diamondbacks,Zach Eflin,Tampa Bay Rays,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+39,Christian Walker,Arizona Diamondbacks,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Christian Walker,Arizona Diamondbacks,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+41,Christian Walker,Arizona Diamondbacks,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Christian Walker,Arizona Diamondbacks,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Christian Walker,Arizona Diamondbacks,Tanner Houck,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+44,Christian Walker,Arizona Diamondbacks,Garrett Whitlock,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+45,Christian Walker,Arizona Diamondbacks,Kutter Crawford,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Christian Walker,Arizona Diamondbacks,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Christian Walker,Arizona Diamondbacks,Joely Rodriguez,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Christian Walker,Arizona Diamondbacks,Chris Sale,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Christian Walker,Arizona Diamondbacks,Josh Winckowski,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Christian Walker,Arizona Diamondbacks,Jordan Hicks,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+51,Christian Walker,Arizona Diamondbacks,Jordan Montgomery,St. Louis Cardinals,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+52,Christian Walker,Arizona Diamondbacks,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Christian Walker,Arizona Diamondbacks,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+54,Christian Walker,Arizona Diamondbacks,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Christian Walker,Arizona Diamondbacks,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Christian Walker,Arizona Diamondbacks,Jake Woodford,St. Louis Cardinals,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+57,Christian Walker,Arizona Diamondbacks,Alexis Diaz,Cincinnati Reds,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+58,Christian Walker,Arizona Diamondbacks,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Christian Walker,Arizona Diamondbacks,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Christian Walker,Arizona Diamondbacks,Ben Lively,Cincinnati Reds,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+61,Christian Walker,Arizona Diamondbacks,Lucas Sims,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+62,Christian Walker,Arizona Diamondbacks,Brandon Williamson,Cincinnati Reds,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+63,Christian Walker,Arizona Diamondbacks,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Christian Walker,Arizona Diamondbacks,Jose Berrios,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Christian Walker,Arizona Diamondbacks,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Christian Walker,Arizona Diamondbacks,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Christian Walker,Arizona Diamondbacks,Yusei Kikuchi,Toronto Blue Jays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+68,Christian Walker,Arizona Diamondbacks,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Christian Walker,Arizona Diamondbacks,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Christian Walker,Arizona Diamondbacks,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Christian Walker,Arizona Diamondbacks,Luis F. Ortiz,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+72,Christian Walker,Arizona Diamondbacks,Seranthony Dominguez,Philadelphia Phillies,2,1,0,0,1,3,1,0,1,.500,.667,2.000,2.667
+73,Christian Walker,Arizona Diamondbacks,Jeff Hoffman,Philadelphia Phillies,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+74,Christian Walker,Arizona Diamondbacks,Zack Wheeler,Philadelphia Phillies,6,3,2,0,0,1,0,0,1,.500,.500,.833,1.333
+75,Christian Walker,Arizona Diamondbacks,Jose Alvarado,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+76,Christian Walker,Arizona Diamondbacks,Andrew Bellatti,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Christian Walker,Arizona Diamondbacks,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Christian Walker,Arizona Diamondbacks,Dylan Covey,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+79,Christian Walker,Arizona Diamondbacks,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Christian Walker,Arizona Diamondbacks,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Christian Walker,Arizona Diamondbacks,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Christian Walker,Arizona Diamondbacks,Matt Strahm,Philadelphia Phillies,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+83,Christian Walker,Arizona Diamondbacks,Ranger Suarez,Philadelphia Phillies,4,0,0,0,0,0,1,0,1,.000,.200,.000,.200
+84,Christian Walker,Arizona Diamondbacks,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Christian Walker,Arizona Diamondbacks,Joe Musgrove,San Diego Padres,2,2,0,0,1,3,0,0,0,1.000,1.000,2.500,3.500
+86,Christian Walker,Arizona Diamondbacks,Michael Wacha,San Diego Padres,3,3,1,0,0,0,0,0,0,1.000,1.000,1.333,2.333
+87,Christian Walker,Arizona Diamondbacks,Seth Lugo,San Diego Padres,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+88,Christian Walker,Arizona Diamondbacks,Nabil Crismatt,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Christian Walker,Arizona Diamondbacks,Yu Darvish,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+90,Christian Walker,Arizona Diamondbacks,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Christian Walker,Arizona Diamondbacks,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Christian Walker,Arizona Diamondbacks,Tim Hill,San Diego Padres,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+93,Christian Walker,Arizona Diamondbacks,Brent Honeywell,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Christian Walker,Arizona Diamondbacks,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Christian Walker,Arizona Diamondbacks,Ryan Weathers,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+96,Christian Walker,Arizona Diamondbacks,Steven Wilson,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Christian Walker,Arizona Diamondbacks,Sandy Alcantara,Miami Marlins,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+98,Christian Walker,Arizona Diamondbacks,Braxton Garrett,Miami Marlins,5,3,1,0,1,3,0,0,0,.600,.500,1.400,1.900
+99,Christian Walker,Arizona Diamondbacks,Matt Barnes,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Christian Walker,Arizona Diamondbacks,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Christian Walker,Arizona Diamondbacks,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Christian Walker,Arizona Diamondbacks,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Christian Walker,Arizona Diamondbacks,Chi Chi Gonzalez,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Christian Walker,Arizona Diamondbacks,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Christian Walker,Arizona Diamondbacks,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+106,Christian Walker,Arizona Diamondbacks,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Christian Walker,Arizona Diamondbacks,Trevor Rogers,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Christian Walker,Arizona Diamondbacks,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Christian Walker,Arizona Diamondbacks,Kyle Finnegan,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+110,Christian Walker,Arizona Diamondbacks,Mason Thompson,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+111,Christian Walker,Arizona Diamondbacks,Patrick Corbin,Washington Nationals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+112,Christian Walker,Arizona Diamondbacks,Josiah Gray,Washington Nationals,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+113,Christian Walker,Arizona Diamondbacks,Trevor Williams,Washington Nationals,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+114,Christian Walker,Arizona Diamondbacks,MacKenzie Gore,Washington Nationals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+115,Christian Walker,Arizona Diamondbacks,Jake Irvin,Washington Nationals,4,1,0,0,0,0,1,0,0,.250,.400,.250,.650
+116,Christian Walker,Arizona Diamondbacks,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Christian Walker,Arizona Diamondbacks,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Christian Walker,Arizona Diamondbacks,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Christian Walker,Arizona Diamondbacks,Chad Kuhl,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Christian Walker,Arizona Diamondbacks,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Christian Walker,Arizona Diamondbacks,Erasmo Ramirez,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+122,Christian Walker,Arizona Diamondbacks,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Christian Walker,Arizona Diamondbacks,Camilo Doval,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+124,Christian Walker,Arizona Diamondbacks,Sean Manaea,San Francisco Giants,1,1,1,0,0,3,0,0,0,1.000,1.000,2.000,3.000
+125,Christian Walker,Arizona Diamondbacks,Ryan Walker,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+126,Christian Walker,Arizona Diamondbacks,Tristan Beck,San Francisco Giants,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+127,Christian Walker,Arizona Diamondbacks,Tyler Rogers,San Francisco Giants,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+128,Christian Walker,Arizona Diamondbacks,Alex Cobb,San Francisco Giants,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+129,Christian Walker,Arizona Diamondbacks,Anthony DeSclafani,San Francisco Giants,4,1,1,0,0,1,0,0,0,.250,.250,.500,.750
+130,Christian Walker,Arizona Diamondbacks,Scott Alexander,San Francisco Giants,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+131,Christian Walker,Arizona Diamondbacks,John Brebbia,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+132,Christian Walker,Arizona Diamondbacks,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Christian Walker,Arizona Diamondbacks,Ross Stripling,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Christian Walker,Arizona Diamondbacks,Cole Waites,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+135,Christian Walker,Arizona Diamondbacks,Logan Webb,San Francisco Giants,3,0,0,0,0,0,3,0,0,.000,.500,.000,.500
+136,Christian Walker,Arizona Diamondbacks,Keaton Winn,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Christian Walker,Arizona Diamondbacks,Kodai Senga,New York Mets,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+138,Christian Walker,Arizona Diamondbacks,Max Scherzer,New York Mets,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+139,Christian Walker,Arizona Diamondbacks,Carlos Carrasco,New York Mets,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Christian Walker,Arizona Diamondbacks,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Christian Walker,Arizona Diamondbacks,David Robertson,New York Mets,1,0,0,0,0,1,1,0,1,.000,.500,.000,.500
+142,Christian Walker,Arizona Diamondbacks,Ty Blach,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+143,Christian Walker,Arizona Diamondbacks,Pierce Johnson,Colorado Rockies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+144,Christian Walker,Arizona Diamondbacks,Peter Lambert,Colorado Rockies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+145,Christian Walker,Arizona Diamondbacks,Connor Seabold,Colorado Rockies,3,3,1,0,0,1,0,0,0,1.000,1.000,1.333,2.333
+146,Christian Walker,Arizona Diamondbacks,Noah Davis,Colorado Rockies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+147,Christian Walker,Arizona Diamondbacks,Jake Bird,Colorado Rockies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+148,Christian Walker,Arizona Diamondbacks,Karl Kauffmann,Colorado Rockies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+149,Christian Walker,Arizona Diamondbacks,Kyle Freeland,Colorado Rockies,4,1,1,0,0,1,2,0,1,.250,.500,.500,1.000
+150,Christian Walker,Arizona Diamondbacks,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Christian Walker,Arizona Diamondbacks,Blair Calvo,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Christian Walker,Arizona Diamondbacks,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Christian Walker,Arizona Diamondbacks,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+154,Christian Walker,Arizona Diamondbacks,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Christian Walker,Arizona Diamondbacks,Dinelson Lamet,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Christian Walker,Arizona Diamondbacks,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Christian Walker,Arizona Diamondbacks,Xzavion Curry,Cleveland Guardians,1,1,0,0,0,0,1,1,0,1.000,1.000,1.000,2.000
+158,Christian Walker,Arizona Diamondbacks,Tanner Bibee,Cleveland Guardians,3,2,1,0,1,3,0,0,0,.667,.667,2.000,2.667
+159,Christian Walker,Arizona Diamondbacks,Shane Bieber,Cleveland Guardians,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+160,Christian Walker,Arizona Diamondbacks,Touki Toussaint,Cleveland Guardians,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+161,Christian Walker,Arizona Diamondbacks,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Christian Walker,Arizona Diamondbacks,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Christian Walker,Arizona Diamondbacks,Osvaldo Bido,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+164,Christian Walker,Arizona Diamondbacks,Yohan Ramirez,Pittsburgh Pirates,2,2,1,0,0,2,0,0,0,1.000,1.000,1.500,2.500
+165,Christian Walker,Arizona Diamondbacks,Robert Stephenson,Pittsburgh Pirates,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+166,Christian Walker,Arizona Diamondbacks,David Bednar,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+167,Christian Walker,Arizona Diamondbacks,Roansy Contreras,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+168,Christian Walker,Arizona Diamondbacks,Yerry De Los Santos,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,Christian Walker,Arizona Diamondbacks,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+170,Christian Walker,Arizona Diamondbacks,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Christian Walker,Arizona Diamondbacks,Mitch Keller,Pittsburgh Pirates,6,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+172,Christian Walker,Arizona Diamondbacks,Carmen Mlodzinski,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+173,Christian Walker,Arizona Diamondbacks,Dauri Moreta,Pittsburgh Pirates,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+174,Christian Walker,Arizona Diamondbacks,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Christian Walker,Arizona Diamondbacks,Corbin Burnes,Milwaukee Brewers,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+176,Christian Walker,Arizona Diamondbacks,Julio Teheran,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+177,Christian Walker,Arizona Diamondbacks,Wade Miley,Milwaukee Brewers,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+178,Christian Walker,Arizona Diamondbacks,Colin Rea,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+179,Christian Walker,Arizona Diamondbacks,Javy Guerra,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Christian Walker,Arizona Diamondbacks,Adrian Houser,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Christian Walker,Arizona Diamondbacks,Janson Junk,Milwaukee Brewers,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+182,Christian Walker,Arizona Diamondbacks,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+183,Christian Walker,Arizona Diamondbacks,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Christian Walker,Arizona Diamondbacks,Peter Strzelecki,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+185,Christian Walker,Arizona Diamondbacks,Gus Varland,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+186,Christian Walker,Arizona Diamondbacks,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+187,Christian Walker,Arizona Diamondbacks,Jason Foley,Detroit Tigers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+188,Christian Walker,Arizona Diamondbacks,Alex Lange,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+189,Christian Walker,Arizona Diamondbacks,Michael Lorenzen,Detroit Tigers,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+190,Christian Walker,Arizona Diamondbacks,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+191,Christian Walker,Arizona Diamondbacks,Matthew Boyd,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+192,Christian Walker,Arizona Diamondbacks,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+193,Christian Walker,Arizona Diamondbacks,Garrett Hill,Detroit Tigers,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+194,Christian Walker,Arizona Diamondbacks,Will Vest,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+195,Christian Walker,Arizona Diamondbacks,Joey Wentz,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+196,Christian Walker,Arizona Diamondbacks,Jose Cuas,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+197,Christian Walker,Arizona Diamondbacks,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+198,Christian Walker,Arizona Diamondbacks,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+199,Christian Walker,Arizona Diamondbacks,Brady Singer,Kansas City Royals,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+200,Christian Walker,Arizona Diamondbacks,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+201,Christian Walker,Arizona Diamondbacks,Ryan Yarbrough,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+202,Christian Walker,Arizona Diamondbacks,Kyle Muller,Oakland Athletics,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+203,Christian Walker,Arizona Diamondbacks,Luis Medina,Oakland Athletics,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+204,Christian Walker,Arizona Diamondbacks,Garrett Acton,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+205,Christian Walker,Arizona Diamondbacks,Shintaro Fujinami,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+206,Christian Walker,Arizona Diamondbacks,Zach Jackson,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+207,Christian Walker,Arizona Diamondbacks,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

@@ -1,0 +1,196 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Ezequiel Tovar,Colorado Rockies,Jared Shuster,Atlanta Braves,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+1,Ezequiel Tovar,Colorado Rockies,AJ Smith-Shawver,Atlanta Braves,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+2,Ezequiel Tovar,Colorado Rockies,Bryce Elder,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+3,Ezequiel Tovar,Colorado Rockies,Charlie Morton,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+4,Ezequiel Tovar,Colorado Rockies,Ben Heller,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Ezequiel Tovar,Colorado Rockies,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Ezequiel Tovar,Colorado Rockies,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Ezequiel Tovar,Colorado Rockies,Cole Ragans,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Ezequiel Tovar,Colorado Rockies,Andrew Heaney,Texas Rangers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+9,Ezequiel Tovar,Colorado Rockies,Joe Barlow,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Ezequiel Tovar,Colorado Rockies,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Ezequiel Tovar,Colorado Rockies,Jon Gray,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Ezequiel Tovar,Colorado Rockies,John King,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Ezequiel Tovar,Colorado Rockies,Martin Perez,Texas Rangers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+14,Ezequiel Tovar,Colorado Rockies,Nick Robertson,Los Angeles Dodgers,1,1,1,0,0,3,0,0,0,1.000,1.000,2.000,3.000
+15,Ezequiel Tovar,Colorado Rockies,Brusdar Graterol,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+16,Ezequiel Tovar,Colorado Rockies,Julio Urias,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+17,Ezequiel Tovar,Colorado Rockies,Michael Grove,Los Angeles Dodgers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+18,Ezequiel Tovar,Colorado Rockies,Emmet Sheehan,Los Angeles Dodgers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+19,Ezequiel Tovar,Colorado Rockies,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+20,Ezequiel Tovar,Colorado Rockies,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Ezequiel Tovar,Colorado Rockies,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Ezequiel Tovar,Colorado Rockies,Sam Bachman,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Ezequiel Tovar,Colorado Rockies,Jose Soriano,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+24,Ezequiel Tovar,Colorado Rockies,Jacob Webb,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+25,Ezequiel Tovar,Colorado Rockies,Tyler Anderson,Los Angeles Angels,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+26,Ezequiel Tovar,Colorado Rockies,Griffin Canning,Los Angeles Angels,3,1,0,1,0,0,0,0,0,.333,.333,1.000,1.333
+27,Ezequiel Tovar,Colorado Rockies,Kolton Ingram,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Ezequiel Tovar,Colorado Rockies,Patrick Sandoval,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Ezequiel Tovar,Colorado Rockies,Garrett Whitlock,Boston Red Sox,2,1,1,0,0,1,0,0,0,.500,.333,1.000,1.333
+30,Ezequiel Tovar,Colorado Rockies,Kutter Crawford,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+31,Ezequiel Tovar,Colorado Rockies,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Ezequiel Tovar,Colorado Rockies,Corey Kluber,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Ezequiel Tovar,Colorado Rockies,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Ezequiel Tovar,Colorado Rockies,James Paxton,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Ezequiel Tovar,Colorado Rockies,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Ezequiel Tovar,Colorado Rockies,Josh Winckowski,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Ezequiel Tovar,Colorado Rockies,Zack Thompson,St. Louis Cardinals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+38,Ezequiel Tovar,Colorado Rockies,Steven Matz,St. Louis Cardinals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+39,Ezequiel Tovar,Colorado Rockies,Miles Mikolas,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+40,Ezequiel Tovar,Colorado Rockies,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Ezequiel Tovar,Colorado Rockies,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Ezequiel Tovar,Colorado Rockies,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Ezequiel Tovar,Colorado Rockies,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Ezequiel Tovar,Colorado Rockies,Drew VerHagen,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+45,Ezequiel Tovar,Colorado Rockies,Kyle Nelson,Arizona Diamondbacks,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+46,Ezequiel Tovar,Colorado Rockies,Ryne Nelson,Arizona Diamondbacks,4,3,1,0,0,2,0,0,0,.750,.750,1.000,1.750
+47,Ezequiel Tovar,Colorado Rockies,Zac Gallen,Arizona Diamondbacks,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+48,Ezequiel Tovar,Colorado Rockies,Merrill Kelly,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+49,Ezequiel Tovar,Colorado Rockies,Scott McGough,Arizona Diamondbacks,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+50,Ezequiel Tovar,Colorado Rockies,Peter Solomon,Arizona Diamondbacks,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+51,Ezequiel Tovar,Colorado Rockies,Kevin Ginkel,Arizona Diamondbacks,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+52,Ezequiel Tovar,Colorado Rockies,Tommy Henry,Arizona Diamondbacks,4,1,0,1,0,0,1,0,1,.250,.400,.750,1.150
+53,Ezequiel Tovar,Colorado Rockies,Zach Davies,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Ezequiel Tovar,Colorado Rockies,Drey Jameson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+55,Ezequiel Tovar,Colorado Rockies,Anthony Misiewicz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Ezequiel Tovar,Colorado Rockies,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Ezequiel Tovar,Colorado Rockies,Brandon Williamson,Cincinnati Reds,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+58,Ezequiel Tovar,Colorado Rockies,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Ezequiel Tovar,Colorado Rockies,Hunter Greene,Cincinnati Reds,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+60,Ezequiel Tovar,Colorado Rockies,Ben Lively,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Ezequiel Tovar,Colorado Rockies,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Ezequiel Tovar,Colorado Rockies,Luis F. Ortiz,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+63,Ezequiel Tovar,Colorado Rockies,Ranger Suarez,Philadelphia Phillies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+64,Ezequiel Tovar,Colorado Rockies,Zack Wheeler,Philadelphia Phillies,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+65,Ezequiel Tovar,Colorado Rockies,Matt Strahm,Philadelphia Phillies,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+66,Ezequiel Tovar,Colorado Rockies,Andrew Bellatti,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Ezequiel Tovar,Colorado Rockies,Connor Brogdon,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Ezequiel Tovar,Colorado Rockies,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+69,Ezequiel Tovar,Colorado Rockies,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+70,Ezequiel Tovar,Colorado Rockies,Cristopher Sanchez,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Ezequiel Tovar,Colorado Rockies,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Ezequiel Tovar,Colorado Rockies,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Ezequiel Tovar,Colorado Rockies,Drew Carlton,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+74,Ezequiel Tovar,Colorado Rockies,Nabil Crismatt,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+75,Ezequiel Tovar,Colorado Rockies,Yu Darvish,San Diego Padres,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+76,Ezequiel Tovar,Colorado Rockies,Nick Martinez,San Diego Padres,4,2,0,0,0,0,0,0,0,.500,.500,.500,1.000
+77,Ezequiel Tovar,Colorado Rockies,Blake Snell,San Diego Padres,5,1,0,0,1,1,0,0,3,.200,.200,.800,1.000
+78,Ezequiel Tovar,Colorado Rockies,Tom Cosgrove,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Ezequiel Tovar,Colorado Rockies,Luis Garcia,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+80,Ezequiel Tovar,Colorado Rockies,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Ezequiel Tovar,Colorado Rockies,Seth Lugo,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Ezequiel Tovar,Colorado Rockies,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Ezequiel Tovar,Colorado Rockies,Michael Wacha,San Diego Padres,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+84,Ezequiel Tovar,Colorado Rockies,Ryan Weathers,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Ezequiel Tovar,Colorado Rockies,Steven Wilson,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Ezequiel Tovar,Colorado Rockies,Hunter Brown,Houston Astros,2,1,0,1,0,1,0,0,1,.500,.500,1.500,2.000
+87,Ezequiel Tovar,Colorado Rockies,J.P. France,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+88,Ezequiel Tovar,Colorado Rockies,Brandon Bielak,Houston Astros,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Ezequiel Tovar,Colorado Rockies,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Ezequiel Tovar,Colorado Rockies,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Ezequiel Tovar,Colorado Rockies,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Ezequiel Tovar,Colorado Rockies,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Ezequiel Tovar,Colorado Rockies,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Ezequiel Tovar,Colorado Rockies,Erasmo Ramirez,Washington Nationals,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+95,Ezequiel Tovar,Colorado Rockies,Josiah Gray,Washington Nationals,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+96,Ezequiel Tovar,Colorado Rockies,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Ezequiel Tovar,Colorado Rockies,MacKenzie Gore,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Ezequiel Tovar,Colorado Rockies,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Ezequiel Tovar,Colorado Rockies,Chad Kuhl,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Ezequiel Tovar,Colorado Rockies,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Ezequiel Tovar,Colorado Rockies,Trevor Williams,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Ezequiel Tovar,Colorado Rockies,JT Chargois,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+103,Ezequiel Tovar,Colorado Rockies,Sandy Alcantara,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+104,Ezequiel Tovar,Colorado Rockies,Dylan Floro,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+105,Ezequiel Tovar,Colorado Rockies,Eury Perez,Miami Marlins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+106,Ezequiel Tovar,Colorado Rockies,Huascar Brazoban,Miami Marlins,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+107,Ezequiel Tovar,Colorado Rockies,Braxton Garrett,Miami Marlins,3,1,0,0,0,0,1,0,1,.333,.500,.333,.833
+108,Ezequiel Tovar,Colorado Rockies,Jesus Luzardo,Miami Marlins,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+109,Ezequiel Tovar,Colorado Rockies,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Ezequiel Tovar,Colorado Rockies,Johnny Cueto,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Ezequiel Tovar,Colorado Rockies,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Ezequiel Tovar,Colorado Rockies,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Ezequiel Tovar,Colorado Rockies,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Ezequiel Tovar,Colorado Rockies,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Ezequiel Tovar,Colorado Rockies,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Ezequiel Tovar,Colorado Rockies,Logan Webb,San Francisco Giants,5,2,0,0,0,1,0,0,0,.400,.400,.400,.800
+117,Ezequiel Tovar,Colorado Rockies,Alex Cobb,San Francisco Giants,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+118,Ezequiel Tovar,Colorado Rockies,Tyler Rogers,San Francisco Giants,4,1,0,0,1,3,0,0,0,.250,.250,1.000,1.250
+119,Ezequiel Tovar,Colorado Rockies,Tristan Beck,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Ezequiel Tovar,Colorado Rockies,Luke Jackson,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Ezequiel Tovar,Colorado Rockies,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Ezequiel Tovar,Colorado Rockies,Ross Stripling,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Ezequiel Tovar,Colorado Rockies,Ryan Walker,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+124,Ezequiel Tovar,Colorado Rockies,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Ezequiel Tovar,Colorado Rockies,Stephen Nogosek,New York Mets,2,2,1,0,1,2,0,0,0,1.000,1.000,3.000,4.000
+126,Ezequiel Tovar,Colorado Rockies,Jimmy Yacabonis,New York Mets,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+127,Ezequiel Tovar,Colorado Rockies,Dominic Leone,New York Mets,4,3,1,0,0,0,0,0,1,.750,.750,1.000,1.750
+128,Ezequiel Tovar,Colorado Rockies,Tylor Megill,New York Mets,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+129,Ezequiel Tovar,Colorado Rockies,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Ezequiel Tovar,Colorado Rockies,Joey Lucchesi,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Ezequiel Tovar,Colorado Rockies,Max Scherzer,New York Mets,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+132,Ezequiel Tovar,Colorado Rockies,Kodai Senga,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Ezequiel Tovar,Colorado Rockies,Drew Smith,New York Mets,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+134,Ezequiel Tovar,Colorado Rockies,Justin Verlander,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+135,Ezequiel Tovar,Colorado Rockies,Clay Holmes,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+136,Ezequiel Tovar,Colorado Rockies,Tommy Kahnle,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+137,Ezequiel Tovar,Colorado Rockies,Wandy Peralta,New York Yankees,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+138,Ezequiel Tovar,Colorado Rockies,Carlos Rodon,New York Yankees,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+139,Ezequiel Tovar,Colorado Rockies,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Ezequiel Tovar,Colorado Rockies,Gerrit Cole,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Ezequiel Tovar,Colorado Rockies,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Ezequiel Tovar,Colorado Rockies,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Ezequiel Tovar,Colorado Rockies,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Ezequiel Tovar,Colorado Rockies,Matt Brash,Seattle Mariners,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+145,Ezequiel Tovar,Colorado Rockies,Diego Castillo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Ezequiel Tovar,Colorado Rockies,George Kirby,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+147,Ezequiel Tovar,Colorado Rockies,Tommy Milone,Seattle Mariners,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+148,Ezequiel Tovar,Colorado Rockies,Penn Murfee,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+149,Ezequiel Tovar,Colorado Rockies,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+150,Ezequiel Tovar,Colorado Rockies,Tanner Bibee,Cleveland Guardians,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+151,Ezequiel Tovar,Colorado Rockies,Cal Quantrill,Cleveland Guardians,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+152,Ezequiel Tovar,Colorado Rockies,Peyton Battenfield,Cleveland Guardians,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+153,Ezequiel Tovar,Colorado Rockies,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+154,Ezequiel Tovar,Colorado Rockies,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Ezequiel Tovar,Colorado Rockies,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Ezequiel Tovar,Colorado Rockies,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,Ezequiel Tovar,Colorado Rockies,Konnor Pilkington,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+158,Ezequiel Tovar,Colorado Rockies,Wil Crowe,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+159,Ezequiel Tovar,Colorado Rockies,Vince Velasquez,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+160,Ezequiel Tovar,Colorado Rockies,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Ezequiel Tovar,Colorado Rockies,Jose Hernandez,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+162,Ezequiel Tovar,Colorado Rockies,Rich Hill,Pittsburgh Pirates,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+163,Ezequiel Tovar,Colorado Rockies,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+164,Ezequiel Tovar,Colorado Rockies,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,Ezequiel Tovar,Colorado Rockies,Luis L. Ortiz,Pittsburgh Pirates,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+166,Ezequiel Tovar,Colorado Rockies,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+167,Ezequiel Tovar,Colorado Rockies,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+168,Ezequiel Tovar,Colorado Rockies,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+169,Ezequiel Tovar,Colorado Rockies,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Ezequiel Tovar,Colorado Rockies,Eric Lauer,Milwaukee Brewers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+171,Ezequiel Tovar,Colorado Rockies,Freddy Peralta,Milwaukee Brewers,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+172,Ezequiel Tovar,Colorado Rockies,Wade Miley,Milwaukee Brewers,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+173,Ezequiel Tovar,Colorado Rockies,Jake Cousins,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Ezequiel Tovar,Colorado Rockies,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+175,Ezequiel Tovar,Colorado Rockies,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Ezequiel Tovar,Colorado Rockies,Peter Strzelecki,Milwaukee Brewers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+177,Ezequiel Tovar,Colorado Rockies,Taylor Clarke,Kansas City Royals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+178,Ezequiel Tovar,Colorado Rockies,Carlos Hernandez,Kansas City Royals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+179,Ezequiel Tovar,Colorado Rockies,Daniel Lynch IV,Kansas City Royals,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+180,Ezequiel Tovar,Colorado Rockies,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+181,Ezequiel Tovar,Colorado Rockies,Jackson Kowar,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+182,Ezequiel Tovar,Colorado Rockies,Jordan Lyles,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+183,Ezequiel Tovar,Colorado Rockies,Brady Singer,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+184,Ezequiel Tovar,Colorado Rockies,Josh Staumont,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+185,Ezequiel Tovar,Colorado Rockies,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+186,Ezequiel Tovar,Colorado Rockies,Jose Cisnero,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+187,Ezequiel Tovar,Colorado Rockies,Chasen Shreve,Detroit Tigers,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+188,Ezequiel Tovar,Colorado Rockies,Michael Lorenzen,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+189,Ezequiel Tovar,Colorado Rockies,Brendan White,Detroit Tigers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+190,Ezequiel Tovar,Colorado Rockies,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+191,Ezequiel Tovar,Colorado Rockies,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+192,Ezequiel Tovar,Colorado Rockies,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+193,Ezequiel Tovar,Colorado Rockies,Zach Logue,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+194,Ezequiel Tovar,Colorado Rockies,Matt Manning,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333

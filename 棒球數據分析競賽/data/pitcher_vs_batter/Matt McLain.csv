@@ -1,0 +1,131 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Matt McLain,Cincinnati Reds,Nick Anderson,Atlanta Braves,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+1,Matt McLain,Cincinnati Reds,Joe Jimenez,Atlanta Braves,1,1,1,0,0,2,1,0,0,1.000,1.000,2.000,3.000
+2,Matt McLain,Cincinnati Reds,Charlie Morton,Atlanta Braves,3,2,2,0,0,2,0,0,1,.667,.667,1.333,2.000
+3,Matt McLain,Cincinnati Reds,Jared Shuster,Atlanta Braves,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+4,Matt McLain,Cincinnati Reds,Ben Heller,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Matt McLain,Cincinnati Reds,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Matt McLain,Cincinnati Reds,Collin McHugh,Atlanta Braves,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+7,Matt McLain,Cincinnati Reds,AJ Smith-Shawver,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+8,Matt McLain,Cincinnati Reds,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Matt McLain,Cincinnati Reds,Yency Almonte,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+10,Matt McLain,Cincinnati Reds,Shelby Miller,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+11,Matt McLain,Cincinnati Reds,Tayler Scott,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+12,Matt McLain,Cincinnati Reds,Noah Syndergaard,Los Angeles Dodgers,2,2,0,1,0,0,0,0,0,1.000,1.000,2.000,3.000
+13,Matt McLain,Cincinnati Reds,Tony Gonsolin,Los Angeles Dodgers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+14,Matt McLain,Cincinnati Reds,Clayton Kershaw,Los Angeles Dodgers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+15,Matt McLain,Cincinnati Reds,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Matt McLain,Cincinnati Reds,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Matt McLain,Cincinnati Reds,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Matt McLain,Cincinnati Reds,Chris Martin,Boston Red Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+19,Matt McLain,Cincinnati Reds,Josh Winckowski,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Matt McLain,Cincinnati Reds,Brayan Bello,Boston Red Sox,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+21,Matt McLain,Cincinnati Reds,James Paxton,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+22,Matt McLain,Cincinnati Reds,Justin Garza,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Matt McLain,Cincinnati Reds,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Matt McLain,Cincinnati Reds,Chris Sale,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Matt McLain,Cincinnati Reds,Ryan Sherriff,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Matt McLain,Cincinnati Reds,Genesis Cabrera,St. Louis Cardinals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+27,Matt McLain,Cincinnati Reds,Jordan Montgomery,St. Louis Cardinals,6,3,2,0,0,1,0,0,1,.500,.500,.833,1.333
+28,Matt McLain,Cincinnati Reds,Steven Matz,St. Louis Cardinals,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+29,Matt McLain,Cincinnati Reds,Miles Mikolas,St. Louis Cardinals,6,2,0,1,0,0,0,0,0,.333,.333,.667,1.000
+30,Matt McLain,Cincinnati Reds,Adam Wainwright,St. Louis Cardinals,6,2,0,0,1,3,0,0,1,.333,.333,.833,1.166
+31,Matt McLain,Cincinnati Reds,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Matt McLain,Cincinnati Reds,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+33,Matt McLain,Cincinnati Reds,Andre Pallante,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Matt McLain,Cincinnati Reds,Chris Stratton,St. Louis Cardinals,2,0,0,0,0,0,1,0,2,.000,.500,.000,.500
+35,Matt McLain,Cincinnati Reds,Drew VerHagen,St. Louis Cardinals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+36,Matt McLain,Cincinnati Reds,Justin Martinez,Arizona Diamondbacks,1,1,0,0,1,4,0,0,0,1.000,1.000,4.000,5.000
+37,Matt McLain,Cincinnati Reds,Tommy Henry,Arizona Diamondbacks,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+38,Matt McLain,Cincinnati Reds,Brandon Pfaadt,Arizona Diamondbacks,2,1,0,0,1,1,0,0,0,.500,.667,2.000,2.667
+39,Matt McLain,Cincinnati Reds,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Matt McLain,Cincinnati Reds,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Matt McLain,Cincinnati Reds,Tyler Wells,Baltimore Orioles,3,2,1,0,1,2,0,0,0,.667,.667,2.000,2.667
+42,Matt McLain,Cincinnati Reds,Kyle Gibson,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+43,Matt McLain,Cincinnati Reds,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Matt McLain,Cincinnati Reds,Bryan Baker,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+45,Matt McLain,Cincinnati Reds,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Matt McLain,Cincinnati Reds,Yennier Cano,Baltimore Orioles,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+47,Matt McLain,Cincinnati Reds,Cole Irvin,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Matt McLain,Cincinnati Reds,Cionel Perez,Baltimore Orioles,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+49,Matt McLain,Cincinnati Reds,Bruce Zimmermann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Matt McLain,Cincinnati Reds,Javier Assad,Chicago Cubs,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+51,Matt McLain,Cincinnati Reds,Jeremiah Estrada,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+52,Matt McLain,Cincinnati Reds,Michael Rucker,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+53,Matt McLain,Cincinnati Reds,Drew Smyly,Chicago Cubs,3,3,1,0,0,1,0,0,0,1.000,1.000,1.333,2.333
+54,Matt McLain,Cincinnati Reds,Justin Steele,Chicago Cubs,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+55,Matt McLain,Cincinnati Reds,Jameson Taillon,Chicago Cubs,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+56,Matt McLain,Cincinnati Reds,Brandon Hughes,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Matt McLain,Cincinnati Reds,Ray Kerr,San Diego Padres,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+58,Matt McLain,Cincinnati Reds,Michael Wacha,San Diego Padres,3,2,2,0,0,1,0,0,1,.667,.667,1.333,2.000
+59,Matt McLain,Cincinnati Reds,Pedro Avila,San Diego Padres,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+60,Matt McLain,Cincinnati Reds,Luis Garcia,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+61,Matt McLain,Cincinnati Reds,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Matt McLain,Cincinnati Reds,Seth Lugo,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Matt McLain,Cincinnati Reds,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Matt McLain,Cincinnati Reds,Adrian Morejon,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+65,Matt McLain,Cincinnati Reds,Rafael Montero,Houston Astros,1,1,0,1,0,2,0,0,0,1.000,1.000,3.000,4.000
+66,Matt McLain,Cincinnati Reds,Brandon Bielak,Houston Astros,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+67,Matt McLain,Cincinnati Reds,Ronel Blanco,Houston Astros,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+68,Matt McLain,Cincinnati Reds,J.P. France,Houston Astros,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+69,Matt McLain,Cincinnati Reds,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Matt McLain,Cincinnati Reds,Seth Martinez,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Matt McLain,Cincinnati Reds,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Matt McLain,Cincinnati Reds,Hector Neris,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+73,Matt McLain,Cincinnati Reds,Joe La Sorsa,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+74,Matt McLain,Cincinnati Reds,Patrick Corbin,Washington Nationals,3,1,1,0,0,0,1,0,0,.333,.500,.667,1.167
+75,Matt McLain,Cincinnati Reds,Cory Abbott,Washington Nationals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+76,Matt McLain,Cincinnati Reds,Jose A. Ferrer,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+77,Matt McLain,Cincinnati Reds,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Matt McLain,Cincinnati Reds,MacKenzie Gore,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Matt McLain,Cincinnati Reds,Josiah Gray,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Matt McLain,Cincinnati Reds,Jake Irvin,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Matt McLain,Cincinnati Reds,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Matt McLain,Cincinnati Reds,Jordan Weems,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+83,Matt McLain,Cincinnati Reds,Amos Willingham,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Matt McLain,Cincinnati Reds,Anthony DeSclafani,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,Matt McLain,Cincinnati Reds,Jakob Junis,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+86,Matt McLain,Cincinnati Reds,Logan Webb,San Francisco Giants,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+87,Matt McLain,Cincinnati Reds,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+88,Matt McLain,Cincinnati Reds,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Matt McLain,Cincinnati Reds,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Matt McLain,Cincinnati Reds,Ross Stripling,San Francisco Giants,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Matt McLain,Cincinnati Reds,Justin Lawrence,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+92,Matt McLain,Cincinnati Reds,Noah Davis,Colorado Rockies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+93,Matt McLain,Cincinnati Reds,Connor Seabold,Colorado Rockies,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+94,Matt McLain,Cincinnati Reds,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+95,Matt McLain,Cincinnati Reds,Daniel Bard,Colorado Rockies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+96,Matt McLain,Cincinnati Reds,Austin Gomber,Colorado Rockies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+97,Matt McLain,Cincinnati Reds,Pierce Johnson,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+98,Matt McLain,Cincinnati Reds,Peter Lambert,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Matt McLain,Cincinnati Reds,Brent Suter,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Matt McLain,Cincinnati Reds,Clarke Schmidt,New York Yankees,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+101,Matt McLain,Cincinnati Reds,Albert Abreu,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Matt McLain,Cincinnati Reds,Jhony Brito,New York Yankees,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+103,Matt McLain,Cincinnati Reds,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Matt McLain,Cincinnati Reds,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Matt McLain,Cincinnati Reds,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Matt McLain,Cincinnati Reds,Luis Severino,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+107,Matt McLain,Cincinnati Reds,Ryan Weber,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Matt McLain,Cincinnati Reds,Hoby Milner,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+109,Matt McLain,Cincinnati Reds,Abner Uribe,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+110,Matt McLain,Cincinnati Reds,Bryse Wilson,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+111,Matt McLain,Cincinnati Reds,Adrian Houser,Milwaukee Brewers,6,4,2,0,0,0,0,0,2,.667,.667,1.000,1.667
+112,Matt McLain,Cincinnati Reds,Elvis Peguero,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+113,Matt McLain,Cincinnati Reds,Colin Rea,Milwaukee Brewers,5,2,0,1,0,0,1,0,2,.400,.500,.800,1.300
+114,Matt McLain,Cincinnati Reds,Wade Miley,Milwaukee Brewers,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+115,Matt McLain,Cincinnati Reds,Corbin Burnes,Milwaukee Brewers,8,1,0,0,0,0,1,0,3,.125,.222,.125,.347
+116,Matt McLain,Cincinnati Reds,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Matt McLain,Cincinnati Reds,Tyson Miller,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Matt McLain,Cincinnati Reds,Joel Payamps,Milwaukee Brewers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+119,Matt McLain,Cincinnati Reds,Freddy Peralta,Milwaukee Brewers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+120,Matt McLain,Cincinnati Reds,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Matt McLain,Cincinnati Reds,Julio Teheran,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Matt McLain,Cincinnati Reds,Devin Williams,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+123,Matt McLain,Cincinnati Reds,Zack Greinke,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+124,Matt McLain,Cincinnati Reds,Daniel Lynch IV,Kansas City Royals,4,2,0,0,1,3,0,0,1,.500,.500,1.250,1.750
+125,Matt McLain,Cincinnati Reds,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Matt McLain,Cincinnati Reds,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Matt McLain,Cincinnati Reds,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Matt McLain,Cincinnati Reds,Jackson Kowar,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Matt McLain,Cincinnati Reds,Jordan Lyles,Kansas City Royals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333

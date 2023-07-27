@@ -1,0 +1,63 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Romy Gonzalez,Chicago White Sox,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+1,Romy Gonzalez,Chicago White Sox,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Romy Gonzalez,Chicago White Sox,Chase Silseth,Los Angeles Angels,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+3,Romy Gonzalez,Chicago White Sox,Tyler Anderson,Los Angeles Angels,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+4,Romy Gonzalez,Chicago White Sox,Griffin Canning,Los Angeles Angels,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+5,Romy Gonzalez,Chicago White Sox,Jaime Barria,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Romy Gonzalez,Chicago White Sox,Tucker Davidson,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Romy Gonzalez,Chicago White Sox,Ben Joyce,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Romy Gonzalez,Chicago White Sox,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Romy Gonzalez,Chicago White Sox,Luke Raley,Tampa Bay Rays,1,1,0,1,0,1,0,0,0,1.000,1.000,3.000,4.000
+10,Romy Gonzalez,Chicago White Sox,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Romy Gonzalez,Chicago White Sox,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Romy Gonzalez,Chicago White Sox,Garrett Cleavinger,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Romy Gonzalez,Chicago White Sox,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+14,Romy Gonzalez,Chicago White Sox,Yusei Kikuchi,Toronto Blue Jays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+15,Romy Gonzalez,Chicago White Sox,Jose Berrios,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Romy Gonzalez,Chicago White Sox,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Romy Gonzalez,Chicago White Sox,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Romy Gonzalez,Chicago White Sox,Bailey Falter,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Romy Gonzalez,Chicago White Sox,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Romy Gonzalez,Chicago White Sox,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Romy Gonzalez,Chicago White Sox,Framber Valdez,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+22,Romy Gonzalez,Chicago White Sox,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Romy Gonzalez,Chicago White Sox,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+24,Romy Gonzalez,Chicago White Sox,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Romy Gonzalez,Chicago White Sox,Caleb Thielbar,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Romy Gonzalez,Chicago White Sox,JT Chargois,Miami Marlins,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+27,Romy Gonzalez,Chicago White Sox,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Romy Gonzalez,Chicago White Sox,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Romy Gonzalez,Chicago White Sox,Alex Wood,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+30,Romy Gonzalez,Chicago White Sox,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Romy Gonzalez,Chicago White Sox,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Romy Gonzalez,Chicago White Sox,Clarke Schmidt,New York Yankees,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+33,Romy Gonzalez,Chicago White Sox,Jimmy Cordero,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+34,Romy Gonzalez,Chicago White Sox,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Romy Gonzalez,Chicago White Sox,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Romy Gonzalez,Chicago White Sox,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Romy Gonzalez,Chicago White Sox,Luis Severino,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Romy Gonzalez,Chicago White Sox,Randy Vasquez,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Romy Gonzalez,Chicago White Sox,Cal Quantrill,Cleveland Guardians,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+40,Romy Gonzalez,Chicago White Sox,Logan Allen,Cleveland Guardians,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+41,Romy Gonzalez,Chicago White Sox,Xzavion Curry,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+42,Romy Gonzalez,Chicago White Sox,Hunter Gaddis,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+43,Romy Gonzalez,Chicago White Sox,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Romy Gonzalez,Chicago White Sox,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Romy Gonzalez,Chicago White Sox,Johan Oviedo,Pittsburgh Pirates,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+46,Romy Gonzalez,Chicago White Sox,Wil Crowe,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Romy Gonzalez,Chicago White Sox,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Romy Gonzalez,Chicago White Sox,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Romy Gonzalez,Chicago White Sox,Max Castillo,Kansas City Royals,3,3,0,1,0,2,0,0,0,1.000,1.000,1.667,2.667
+50,Romy Gonzalez,Chicago White Sox,Zack Greinke,Kansas City Royals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+51,Romy Gonzalez,Chicago White Sox,Jackson Kowar,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Romy Gonzalez,Chicago White Sox,Michael Lorenzen,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+53,Romy Gonzalez,Chicago White Sox,Reese Olson,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+54,Romy Gonzalez,Chicago White Sox,Eduardo Rodriguez,Detroit Tigers,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+55,Romy Gonzalez,Chicago White Sox,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Romy Gonzalez,Chicago White Sox,Jose Cisnero,Detroit Tigers,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Romy Gonzalez,Chicago White Sox,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+58,Romy Gonzalez,Chicago White Sox,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Romy Gonzalez,Chicago White Sox,Tyler Holton,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Romy Gonzalez,Chicago White Sox,Chasen Shreve,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Romy Gonzalez,Chicago White Sox,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

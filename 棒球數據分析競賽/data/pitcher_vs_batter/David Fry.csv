@@ -1,0 +1,47 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,David Fry,Cleveland Guardians,Raisel Iglesias,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,David Fry,Cleveland Guardians,Joe Jimenez,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,David Fry,Cleveland Guardians,Michael Soroka,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+3,David Fry,Cleveland Guardians,Kolby Allard,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+4,David Fry,Cleveland Guardians,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,David Fry,Cleveland Guardians,Michael Tonkin,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,David Fry,Cleveland Guardians,Martin Perez,Texas Rangers,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+7,David Fry,Cleveland Guardians,Cody Bradford,Texas Rangers,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+8,David Fry,Cleveland Guardians,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,David Fry,Cleveland Guardians,Ryan Tepera,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,David Fry,Cleveland Guardians,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,David Fry,Cleveland Guardians,Jordan Montgomery,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,David Fry,Cleveland Guardians,Andrew Chafin,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,David Fry,Cleveland Guardians,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,David Fry,Cleveland Guardians,Craig Kimbrel,Philadelphia Phillies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+15,David Fry,Cleveland Guardians,Ranger Suarez,Philadelphia Phillies,3,2,1,0,0,2,0,0,0,.667,.667,1.000,1.667
+16,David Fry,Cleveland Guardians,Aaron Nola,Philadelphia Phillies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+17,David Fry,Cleveland Guardians,Andrew Bellatti,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,David Fry,Cleveland Guardians,Justin Steele,Chicago Cubs,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+19,David Fry,Cleveland Guardians,Michael Rucker,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+20,David Fry,Cleveland Guardians,Jameson Taillon,Chicago Cubs,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+21,David Fry,Cleveland Guardians,Hayden Wesneski,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,David Fry,Cleveland Guardians,Josh Hader,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,David Fry,Cleveland Guardians,Nick Martinez,San Diego Padres,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+24,David Fry,Cleveland Guardians,Ryan Weathers,San Diego Padres,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+25,David Fry,Cleveland Guardians,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,David Fry,Cleveland Guardians,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,David Fry,Cleveland Guardians,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,David Fry,Cleveland Guardians,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,David Fry,Cleveland Guardians,Rich Hill,Pittsburgh Pirates,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+30,David Fry,Cleveland Guardians,Quinn Priester,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,David Fry,Cleveland Guardians,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,David Fry,Cleveland Guardians,Mike Clevinger,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,David Fry,Cleveland Guardians,Joe Kelly,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,David Fry,Cleveland Guardians,Michael Kopech,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,David Fry,Cleveland Guardians,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,David Fry,Cleveland Guardians,Lance Lynn,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,David Fry,Cleveland Guardians,Adrian Houser,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+38,David Fry,Cleveland Guardians,Elvis Peguero,Milwaukee Brewers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+39,David Fry,Cleveland Guardians,Freddy Peralta,Milwaukee Brewers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+40,David Fry,Cleveland Guardians,Matt Duffy,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,David Fry,Cleveland Guardians,Daniel Lynch IV,Kansas City Royals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+42,David Fry,Cleveland Guardians,Eduardo Rodriguez,Detroit Tigers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+43,David Fry,Cleveland Guardians,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,David Fry,Cleveland Guardians,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,David Fry,Cleveland Guardians,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

@@ -1,0 +1,68 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Cam Gallagher,Cleveland Guardians,Kolby Allard,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+1,Cam Gallagher,Cleveland Guardians,Andrew Heaney,Texas Rangers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+2,Cam Gallagher,Cleveland Guardians,Tyler Anderson,Los Angeles Angels,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Cam Gallagher,Cleveland Guardians,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Cam Gallagher,Cleveland Guardians,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Cam Gallagher,Cleveland Guardians,Matt Dermody,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+6,Cam Gallagher,Cleveland Guardians,Corey Kluber,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+7,Cam Gallagher,Cleveland Guardians,Chris Sale,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Cam Gallagher,Cleveland Guardians,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Cam Gallagher,Cleveland Guardians,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+10,Cam Gallagher,Cleveland Guardians,Tommy Henry,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Cam Gallagher,Cleveland Guardians,Keegan Akin,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+12,Cam Gallagher,Cleveland Guardians,Mychal Givens,Baltimore Orioles,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+13,Cam Gallagher,Cleveland Guardians,Cionel Perez,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+14,Cam Gallagher,Cleveland Guardians,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Cam Gallagher,Cleveland Guardians,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Cam Gallagher,Cleveland Guardians,Austin Voth,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Cam Gallagher,Cleveland Guardians,Tyler Wells,Baltimore Orioles,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+18,Cam Gallagher,Cleveland Guardians,Aaron Nola,Philadelphia Phillies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+19,Cam Gallagher,Cleveland Guardians,Jameson Taillon,Chicago Cubs,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+20,Cam Gallagher,Cleveland Guardians,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Cam Gallagher,Cleveland Guardians,Hayden Wesneski,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Cam Gallagher,Cleveland Guardians,Joe Musgrove,San Diego Padres,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+23,Cam Gallagher,Cleveland Guardians,Brandon Bielak,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Cam Gallagher,Cleveland Guardians,Matt Gage,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Cam Gallagher,Cleveland Guardians,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Cam Gallagher,Cleveland Guardians,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Cam Gallagher,Cleveland Guardians,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Cam Gallagher,Cleveland Guardians,Joe Ryan,Minnesota Twins,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Cam Gallagher,Cleveland Guardians,Chad Kuhl,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Cam Gallagher,Cleveland Guardians,Erasmo Ramirez,Washington Nationals,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+31,Cam Gallagher,Cleveland Guardians,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Cam Gallagher,Cleveland Guardians,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Cam Gallagher,Cleveland Guardians,Tanner Scott,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+34,Cam Gallagher,Cleveland Guardians,Dominic Leone,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+35,Cam Gallagher,Cleveland Guardians,Carlos Carrasco,New York Mets,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+36,Cam Gallagher,Cleveland Guardians,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Cam Gallagher,Cleveland Guardians,Justin Verlander,New York Mets,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Cam Gallagher,Cleveland Guardians,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Cam Gallagher,Cleveland Guardians,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Cam Gallagher,Cleveland Guardians,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Cam Gallagher,Cleveland Guardians,German Marquez,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Cam Gallagher,Cleveland Guardians,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Cam Gallagher,Cleveland Guardians,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Cam Gallagher,Cleveland Guardians,Clarke Schmidt,New York Yankees,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+45,Cam Gallagher,Cleveland Guardians,George Kirby,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+46,Cam Gallagher,Cleveland Guardians,Diego Castillo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Cam Gallagher,Cleveland Guardians,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+48,Cam Gallagher,Cleveland Guardians,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Cam Gallagher,Cleveland Guardians,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Cam Gallagher,Cleveland Guardians,Gregory Santos,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+51,Cam Gallagher,Cleveland Guardians,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+52,Cam Gallagher,Cleveland Guardians,Garrett Crochet,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Cam Gallagher,Cleveland Guardians,Michael Kopech,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Cam Gallagher,Cleveland Guardians,Wade Miley,Milwaukee Brewers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+55,Cam Gallagher,Cleveland Guardians,Zack Greinke,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Cam Gallagher,Cleveland Guardians,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Cam Gallagher,Cleveland Guardians,Daniel Lynch IV,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Cam Gallagher,Cleveland Guardians,Ryan Yarbrough,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Cam Gallagher,Cleveland Guardians,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Cam Gallagher,Cleveland Guardians,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Cam Gallagher,Cleveland Guardians,Eduardo Rodriguez,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Cam Gallagher,Cleveland Guardians,Domingo Acevedo,Oakland Athletics,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+63,Cam Gallagher,Cleveland Guardians,Adrian Martinez,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+64,Cam Gallagher,Cleveland Guardians,Kyle Muller,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Cam Gallagher,Cleveland Guardians,Yacksel Rios,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+66,Cam Gallagher,Cleveland Guardians,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000

@@ -1,0 +1,98 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Trevor Larnach,Minnesota Twins,Yency Almonte,Los Angeles Dodgers,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+1,Trevor Larnach,Minnesota Twins,Phil Bickford,Los Angeles Dodgers,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+2,Trevor Larnach,Minnesota Twins,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Trevor Larnach,Minnesota Twins,Dylan Covey,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Trevor Larnach,Minnesota Twins,Shelby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Trevor Larnach,Minnesota Twins,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Trevor Larnach,Minnesota Twins,Noah Syndergaard,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Trevor Larnach,Minnesota Twins,Andrew Wantz,Los Angeles Angels,1,1,0,1,0,1,0,0,0,1.000,1.000,3.000,4.000
+8,Trevor Larnach,Minnesota Twins,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Trevor Larnach,Minnesota Twins,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+10,Trevor Larnach,Minnesota Twins,Carlos Estevez,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Trevor Larnach,Minnesota Twins,Jimmy Herget,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Trevor Larnach,Minnesota Twins,Reyes Moronta,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Trevor Larnach,Minnesota Twins,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Trevor Larnach,Minnesota Twins,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Trevor Larnach,Minnesota Twins,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Trevor Larnach,Minnesota Twins,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Trevor Larnach,Minnesota Twins,Cooper Criswell,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Trevor Larnach,Minnesota Twins,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Trevor Larnach,Minnesota Twins,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+20,Trevor Larnach,Minnesota Twins,Kevin Kelly,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+21,Trevor Larnach,Minnesota Twins,Ryan Brasier,Boston Red Sox,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+22,Trevor Larnach,Minnesota Twins,Tanner Houck,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+23,Trevor Larnach,Minnesota Twins,Corey Kluber,Boston Red Sox,2,0,0,0,0,1,1,0,0,.000,.333,.000,.333
+24,Trevor Larnach,Minnesota Twins,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Trevor Larnach,Minnesota Twins,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Trevor Larnach,Minnesota Twins,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Trevor Larnach,Minnesota Twins,Adam Cimber,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,Trevor Larnach,Minnesota Twins,Bowden Francis,Toronto Blue Jays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+29,Trevor Larnach,Minnesota Twins,Kevin Gausman,Toronto Blue Jays,2,1,0,0,0,2,1,0,1,.500,.667,.500,1.167
+30,Trevor Larnach,Minnesota Twins,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Trevor Larnach,Minnesota Twins,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Trevor Larnach,Minnesota Twins,Nate Pearson,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Trevor Larnach,Minnesota Twins,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Trevor Larnach,Minnesota Twins,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Trevor Larnach,Minnesota Twins,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Trevor Larnach,Minnesota Twins,Michael Fulmer,Chicago Cubs,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+37,Trevor Larnach,Minnesota Twins,Marcus Stroman,Chicago Cubs,1,1,0,0,1,3,1,0,0,1.000,1.000,4.000,5.000
+38,Trevor Larnach,Minnesota Twins,Hayden Wesneski,Chicago Cubs,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+39,Trevor Larnach,Minnesota Twins,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Trevor Larnach,Minnesota Twins,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Trevor Larnach,Minnesota Twins,Ronel Blanco,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+42,Trevor Larnach,Minnesota Twins,Luis Garcia,Houston Astros,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+43,Trevor Larnach,Minnesota Twins,Hunter Brown,Houston Astros,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+44,Trevor Larnach,Minnesota Twins,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Trevor Larnach,Minnesota Twins,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Trevor Larnach,Minnesota Twins,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Trevor Larnach,Minnesota Twins,Ryne Stanek,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+48,Trevor Larnach,Minnesota Twins,Jose Urquidy,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Trevor Larnach,Minnesota Twins,Hobie Harris,Washington Nationals,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+50,Trevor Larnach,Minnesota Twins,Kyle Finnegan,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+51,Trevor Larnach,Minnesota Twins,Chad Kuhl,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Trevor Larnach,Minnesota Twins,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Trevor Larnach,Minnesota Twins,Trevor Williams,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Trevor Larnach,Minnesota Twins,Andrew Nardi,Miami Marlins,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+55,Trevor Larnach,Minnesota Twins,Jeff Lindgren,Miami Marlins,2,1,0,1,0,1,0,0,0,.500,.500,1.500,2.000
+56,Trevor Larnach,Minnesota Twins,Sandy Alcantara,Miami Marlins,3,1,0,0,0,0,1,0,1,.333,.500,.333,.833
+57,Trevor Larnach,Minnesota Twins,Jesus Luzardo,Miami Marlins,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+58,Trevor Larnach,Minnesota Twins,Johnny Cueto,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Trevor Larnach,Minnesota Twins,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Trevor Larnach,Minnesota Twins,Jacob Stallings,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Trevor Larnach,Minnesota Twins,Ron Marinaccio,New York Yankees,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+62,Trevor Larnach,Minnesota Twins,Greg Weissert,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+63,Trevor Larnach,Minnesota Twins,Domingo German,New York Yankees,5,1,1,0,0,0,1,0,4,.200,.333,.400,.733
+64,Trevor Larnach,Minnesota Twins,Colten Brewer,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Trevor Larnach,Minnesota Twins,Jhony Brito,New York Yankees,0,0,0,0,0,1,2,0,0,.000,.667,.000,.667
+66,Trevor Larnach,Minnesota Twins,Gerrit Cole,New York Yankees,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+67,Trevor Larnach,Minnesota Twins,Nestor Cortes,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Trevor Larnach,Minnesota Twins,Ian Hamilton,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Trevor Larnach,Minnesota Twins,Isiah Kiner-Falefa,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Trevor Larnach,Minnesota Twins,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Trevor Larnach,Minnesota Twins,Wandy Peralta,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Trevor Larnach,Minnesota Twins,Nick Ramirez,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+73,Trevor Larnach,Minnesota Twins,Lance Lynn,Chicago White Sox,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+74,Trevor Larnach,Minnesota Twins,Dylan Cease,Chicago White Sox,6,1,0,0,0,1,0,0,4,.167,.167,.167,.334
+75,Trevor Larnach,Minnesota Twins,Aaron Bummer,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+76,Trevor Larnach,Minnesota Twins,Jake Diekman,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+77,Trevor Larnach,Minnesota Twins,Lucas Giolito,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Trevor Larnach,Minnesota Twins,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Trevor Larnach,Minnesota Twins,Michael Kopech,Chicago White Sox,1,0,0,0,0,1,1,0,1,.000,.333,.000,.333
+80,Trevor Larnach,Minnesota Twins,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Trevor Larnach,Minnesota Twins,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Trevor Larnach,Minnesota Twins,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Trevor Larnach,Minnesota Twins,Sammy Peralta,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Trevor Larnach,Minnesota Twins,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Trevor Larnach,Minnesota Twins,Colin Rea,Milwaukee Brewers,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+86,Trevor Larnach,Minnesota Twins,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Trevor Larnach,Minnesota Twins,Dylan Coleman,Kansas City Royals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+88,Trevor Larnach,Minnesota Twins,Jose Cuas,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+89,Trevor Larnach,Minnesota Twins,Brady Singer,Kansas City Royals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+90,Trevor Larnach,Minnesota Twins,Zack Greinke,Kansas City Royals,5,2,0,0,0,2,0,0,2,.400,.400,.400,.800
+91,Trevor Larnach,Minnesota Twins,Brad Keller,Kansas City Royals,5,2,1,0,0,0,1,0,1,.400,.500,.600,1.100
+92,Trevor Larnach,Minnesota Twins,Carlos Hernandez,Kansas City Royals,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+93,Trevor Larnach,Minnesota Twins,Jordan Lyles,Kansas City Royals,4,1,0,0,0,0,2,0,1,.250,.500,.250,.750
+94,Trevor Larnach,Minnesota Twins,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Trevor Larnach,Minnesota Twins,Taylor Clarke,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Trevor Larnach,Minnesota Twins,Josh Staumont,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000

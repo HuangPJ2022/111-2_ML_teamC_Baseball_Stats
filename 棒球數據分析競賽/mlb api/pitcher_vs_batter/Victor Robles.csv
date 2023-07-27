@@ -1,0 +1,80 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Victor Robles,Washington Nationals,Joe Jimenez,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Victor Robles,Washington Nationals,Lucas Luetge,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Victor Robles,Washington Nationals,Max Fried,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Victor Robles,Washington Nationals,Dylan Lee,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+4,Victor Robles,Washington Nationals,A.J. Minter,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+5,Victor Robles,Washington Nationals,Jared Shuster,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Victor Robles,Washington Nationals,Spencer Strider,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+7,Victor Robles,Washington Nationals,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Victor Robles,Washington Nationals,Jose Suarez,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Victor Robles,Washington Nationals,Tucker Davidson,Los Angeles Angels,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+10,Victor Robles,Washington Nationals,Griffin Canning,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Victor Robles,Washington Nationals,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+12,Victor Robles,Washington Nationals,Ryan Tepera,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Victor Robles,Washington Nationals,Josh Fleming,Tampa Bay Rays,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+14,Victor Robles,Washington Nationals,Colin Poche,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+15,Victor Robles,Washington Nationals,Shane McClanahan,Tampa Bay Rays,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+16,Victor Robles,Washington Nationals,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Victor Robles,Washington Nationals,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Victor Robles,Washington Nationals,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Victor Robles,Washington Nationals,Drew Rasmussen,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Victor Robles,Washington Nationals,Ryan Thompson,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+21,Victor Robles,Washington Nationals,Drew VerHagen,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Victor Robles,Washington Nationals,Jordan Montgomery,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+23,Victor Robles,Washington Nationals,Jack Flaherty,St. Louis Cardinals,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+24,Victor Robles,Washington Nationals,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Victor Robles,Washington Nationals,Jake Woodford,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Victor Robles,Washington Nationals,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Victor Robles,Washington Nationals,Tommy Henry,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+28,Victor Robles,Washington Nationals,Merrill Kelly,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Victor Robles,Washington Nationals,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Victor Robles,Washington Nationals,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Victor Robles,Washington Nationals,Adbert Alzolay,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+32,Victor Robles,Washington Nationals,Marcus Stroman,Chicago Cubs,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+33,Victor Robles,Washington Nationals,Keegan Thompson,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+34,Victor Robles,Washington Nationals,Hayden Wesneski,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+35,Victor Robles,Washington Nationals,Drew Smyly,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Victor Robles,Washington Nationals,Pablo Lopez,Minnesota Twins,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+37,Victor Robles,Washington Nationals,Tyler Mahle,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+38,Victor Robles,Washington Nationals,Simeon Woods Richardson,Minnesota Twins,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+39,Victor Robles,Washington Nationals,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Victor Robles,Washington Nationals,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Victor Robles,Washington Nationals,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Victor Robles,Washington Nationals,Dylan Floro,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+43,Victor Robles,Washington Nationals,Jesus Luzardo,Miami Marlins,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+44,Victor Robles,Washington Nationals,Sandy Alcantara,Miami Marlins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+45,Victor Robles,Washington Nationals,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Victor Robles,Washington Nationals,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Victor Robles,Washington Nationals,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Victor Robles,Washington Nationals,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Victor Robles,Washington Nationals,Jimmy Yacabonis,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+50,Victor Robles,Washington Nationals,Jeff Brigham,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+51,Victor Robles,Washington Nationals,Jose Butto,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Victor Robles,Washington Nationals,Tommy Hunter,New York Mets,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+53,Victor Robles,Washington Nationals,Joey Lucchesi,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Victor Robles,Washington Nationals,Adam Ottavino,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+55,Victor Robles,Washington Nationals,Brooks Raley,New York Mets,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+56,Victor Robles,Washington Nationals,Kodai Senga,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+57,Victor Robles,Washington Nationals,Jake Bird,Colorado Rockies,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+58,Victor Robles,Washington Nationals,Ty Blach,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+59,Victor Robles,Washington Nationals,Brad Hand,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+60,Victor Robles,Washington Nationals,Ryan Feltner,Colorado Rockies,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+61,Victor Robles,Washington Nationals,Austin Gomber,Colorado Rockies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+62,Victor Robles,Washington Nationals,Kyle Freeland,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Victor Robles,Washington Nationals,Justin Lawrence,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Victor Robles,Washington Nationals,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Victor Robles,Washington Nationals,Brent Suter,Colorado Rockies,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+66,Victor Robles,Washington Nationals,Jose Urena,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+67,Victor Robles,Washington Nationals,Shane Bieber,Cleveland Guardians,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+68,Victor Robles,Washington Nationals,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Victor Robles,Washington Nationals,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Victor Robles,Washington Nationals,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Victor Robles,Washington Nationals,Zach Plesac,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Victor Robles,Washington Nationals,Cal Quantrill,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Victor Robles,Washington Nationals,Nick Sandlin,Cleveland Guardians,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Victor Robles,Washington Nationals,Johan Oviedo,Pittsburgh Pirates,2,2,1,0,0,2,0,0,0,1.000,1.000,1.500,2.500
+75,Victor Robles,Washington Nationals,Vince Velasquez,Pittsburgh Pirates,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+76,Victor Robles,Washington Nationals,Cody Bolton,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Victor Robles,Washington Nationals,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Victor Robles,Washington Nationals,Yohan Ramirez,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

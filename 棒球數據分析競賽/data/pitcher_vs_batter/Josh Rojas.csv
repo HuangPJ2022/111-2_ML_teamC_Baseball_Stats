@@ -1,0 +1,110 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Josh Rojas,Arizona Diamondbacks,Jesse Chavez,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Josh Rojas,Arizona Diamondbacks,Collin McHugh,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Josh Rojas,Arizona Diamondbacks,Michael Soroka,Atlanta Braves,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+3,Josh Rojas,Arizona Diamondbacks,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Josh Rojas,Arizona Diamondbacks,AJ Smith-Shawver,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Josh Rojas,Arizona Diamondbacks,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+6,Josh Rojas,Arizona Diamondbacks,Jon Gray,Texas Rangers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+7,Josh Rojas,Arizona Diamondbacks,Jose Leclerc,Texas Rangers,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+8,Josh Rojas,Arizona Diamondbacks,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Josh Rojas,Arizona Diamondbacks,Brusdar Graterol,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+10,Josh Rojas,Arizona Diamondbacks,Michael Grove,Los Angeles Dodgers,3,3,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Josh Rojas,Arizona Diamondbacks,Andre Jackson,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+12,Josh Rojas,Arizona Diamondbacks,Dustin May,Los Angeles Dodgers,6,1,1,0,0,1,0,0,1,.167,.167,.333,.500
+13,Josh Rojas,Arizona Diamondbacks,Noah Syndergaard,Los Angeles Dodgers,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+14,Josh Rojas,Arizona Diamondbacks,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Josh Rojas,Arizona Diamondbacks,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Josh Rojas,Arizona Diamondbacks,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Josh Rojas,Arizona Diamondbacks,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Josh Rojas,Arizona Diamondbacks,Tanner Houck,Boston Red Sox,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+19,Josh Rojas,Arizona Diamondbacks,Kutter Crawford,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Josh Rojas,Arizona Diamondbacks,Nick Pivetta,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Josh Rojas,Arizona Diamondbacks,Garrett Whitlock,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Josh Rojas,Arizona Diamondbacks,Chris Stratton,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Josh Rojas,Arizona Diamondbacks,Jack Flaherty,St. Louis Cardinals,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+24,Josh Rojas,Arizona Diamondbacks,Jordan Montgomery,St. Louis Cardinals,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+25,Josh Rojas,Arizona Diamondbacks,Genesis Cabrera,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Josh Rojas,Arizona Diamondbacks,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Josh Rojas,Arizona Diamondbacks,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Josh Rojas,Arizona Diamondbacks,Jake Woodford,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Josh Rojas,Arizona Diamondbacks,Zack Wheeler,Philadelphia Phillies,5,2,1,0,0,0,0,0,0,.400,.400,.600,1.000
+30,Josh Rojas,Arizona Diamondbacks,Connor Brogdon,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+31,Josh Rojas,Arizona Diamondbacks,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Josh Rojas,Arizona Diamondbacks,Craig Kimbrel,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+33,Josh Rojas,Arizona Diamondbacks,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+34,Josh Rojas,Arizona Diamondbacks,Luis F. Ortiz,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Josh Rojas,Arizona Diamondbacks,Nabil Crismatt,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+36,Josh Rojas,Arizona Diamondbacks,Yu Darvish,San Diego Padres,4,2,1,0,0,1,1,0,0,.500,.500,.750,1.250
+37,Josh Rojas,Arizona Diamondbacks,Brent Honeywell,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+38,Josh Rojas,Arizona Diamondbacks,Michael Wacha,San Diego Padres,2,1,0,0,0,2,1,0,0,.500,.667,.500,1.167
+39,Josh Rojas,Arizona Diamondbacks,Seth Lugo,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+40,Josh Rojas,Arizona Diamondbacks,Luis Garcia,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+41,Josh Rojas,Arizona Diamondbacks,Ray Kerr,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Josh Rojas,Arizona Diamondbacks,Reiss Knehr,San Diego Padres,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+43,Josh Rojas,Arizona Diamondbacks,Joe Musgrove,San Diego Padres,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+44,Josh Rojas,Arizona Diamondbacks,Ryan Weathers,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Josh Rojas,Arizona Diamondbacks,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Josh Rojas,Arizona Diamondbacks,Braxton Garrett,Miami Marlins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+47,Josh Rojas,Arizona Diamondbacks,Trevor Rogers,Miami Marlins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+48,Josh Rojas,Arizona Diamondbacks,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Josh Rojas,Arizona Diamondbacks,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Josh Rojas,Arizona Diamondbacks,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Josh Rojas,Arizona Diamondbacks,Andrew Nardi,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+52,Josh Rojas,Arizona Diamondbacks,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Josh Rojas,Arizona Diamondbacks,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Josh Rojas,Arizona Diamondbacks,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Josh Rojas,Arizona Diamondbacks,Chad Kuhl,Washington Nationals,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+56,Josh Rojas,Arizona Diamondbacks,Jake Irvin,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+57,Josh Rojas,Arizona Diamondbacks,Josiah Gray,Washington Nationals,3,0,0,0,0,1,0,0,2,.000,.000,.000,.000
+58,Josh Rojas,Arizona Diamondbacks,Hobie Harris,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+59,Josh Rojas,Arizona Diamondbacks,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Josh Rojas,Arizona Diamondbacks,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+61,Josh Rojas,Arizona Diamondbacks,Thaddeus Ward,Washington Nationals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+62,Josh Rojas,Arizona Diamondbacks,Trevor Williams,Washington Nationals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+63,Josh Rojas,Arizona Diamondbacks,Alex Wood,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+64,Josh Rojas,Arizona Diamondbacks,Alex Cobb,San Francisco Giants,3,1,0,0,0,0,1,0,0,.333,.500,.333,.833
+65,Josh Rojas,Arizona Diamondbacks,Anthony DeSclafani,San Francisco Giants,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+66,Josh Rojas,Arizona Diamondbacks,Logan Webb,San Francisco Giants,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+67,Josh Rojas,Arizona Diamondbacks,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Josh Rojas,Arizona Diamondbacks,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Josh Rojas,Arizona Diamondbacks,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Josh Rojas,Arizona Diamondbacks,Noah Davis,Colorado Rockies,2,2,1,0,0,2,0,0,0,1.000,1.000,1.500,2.500
+71,Josh Rojas,Arizona Diamondbacks,Dinelson Lamet,Colorado Rockies,3,1,1,0,0,2,0,0,2,.333,.333,.667,1.000
+72,Josh Rojas,Arizona Diamondbacks,Jake Bird,Colorado Rockies,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+73,Josh Rojas,Arizona Diamondbacks,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Josh Rojas,Arizona Diamondbacks,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Josh Rojas,Arizona Diamondbacks,Karl Kauffmann,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+76,Josh Rojas,Arizona Diamondbacks,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Josh Rojas,Arizona Diamondbacks,Justin Lawrence,Colorado Rockies,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+78,Josh Rojas,Arizona Diamondbacks,Connor Seabold,Colorado Rockies,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Josh Rojas,Arizona Diamondbacks,Enyel De Los Santos,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+80,Josh Rojas,Arizona Diamondbacks,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Josh Rojas,Arizona Diamondbacks,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Josh Rojas,Arizona Diamondbacks,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Josh Rojas,Arizona Diamondbacks,Daniel Norris,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+84,Josh Rojas,Arizona Diamondbacks,Touki Toussaint,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+85,Josh Rojas,Arizona Diamondbacks,Duane Underwood Jr.,Pittsburgh Pirates,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+86,Josh Rojas,Arizona Diamondbacks,Johan Oviedo,Pittsburgh Pirates,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+87,Josh Rojas,Arizona Diamondbacks,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+88,Josh Rojas,Arizona Diamondbacks,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Josh Rojas,Arizona Diamondbacks,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,0,0,2,.000,.333,.000,.333
+90,Josh Rojas,Arizona Diamondbacks,Javy Guerra,Milwaukee Brewers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+91,Josh Rojas,Arizona Diamondbacks,Janson Junk,Milwaukee Brewers,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+92,Josh Rojas,Arizona Diamondbacks,Wade Miley,Milwaukee Brewers,2,1,0,0,0,1,1,0,1,.500,.667,.500,1.167
+93,Josh Rojas,Arizona Diamondbacks,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Josh Rojas,Arizona Diamondbacks,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Josh Rojas,Arizona Diamondbacks,Joel Payamps,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+96,Josh Rojas,Arizona Diamondbacks,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Josh Rojas,Arizona Diamondbacks,Garrett Hill,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Josh Rojas,Arizona Diamondbacks,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Josh Rojas,Arizona Diamondbacks,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Josh Rojas,Arizona Diamondbacks,Taylor Clarke,Kansas City Royals,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+101,Josh Rojas,Arizona Diamondbacks,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Josh Rojas,Arizona Diamondbacks,Brady Singer,Kansas City Royals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Josh Rojas,Arizona Diamondbacks,Drew Rucinski,Oakland Athletics,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+104,Josh Rojas,Arizona Diamondbacks,Zach Jackson,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Josh Rojas,Arizona Diamondbacks,Sam Long,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+106,Josh Rojas,Arizona Diamondbacks,Adrian Martinez,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Josh Rojas,Arizona Diamondbacks,Luis Medina,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Josh Rojas,Arizona Diamondbacks,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

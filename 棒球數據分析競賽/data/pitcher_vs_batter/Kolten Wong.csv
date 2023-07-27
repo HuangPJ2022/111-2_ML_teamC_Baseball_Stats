@@ -1,0 +1,121 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Kolten Wong,Seattle Mariners,Brock Burke,Texas Rangers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,Kolten Wong,Seattle Mariners,Dane Dunning,Texas Rangers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+2,Kolten Wong,Seattle Mariners,Nathan Eovaldi,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Kolten Wong,Seattle Mariners,Jon Gray,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+4,Kolten Wong,Seattle Mariners,Jonathan Hernandez,Texas Rangers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+5,Kolten Wong,Seattle Mariners,John King,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Kolten Wong,Seattle Mariners,Jimmy Herget,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Kolten Wong,Seattle Mariners,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+8,Kolten Wong,Seattle Mariners,Tyler Glasnow,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+9,Kolten Wong,Seattle Mariners,Nick Pivetta,Boston Red Sox,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+10,Kolten Wong,Seattle Mariners,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Kolten Wong,Seattle Mariners,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Kolten Wong,Seattle Mariners,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Kolten Wong,Seattle Mariners,Tanner Houck,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Kolten Wong,Seattle Mariners,Pablo Reyes,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Kolten Wong,Seattle Mariners,Ryan Sherriff,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Kolten Wong,Seattle Mariners,Genesis Cabrera,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+17,Kolten Wong,Seattle Mariners,Jack Flaherty,St. Louis Cardinals,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Kolten Wong,Seattle Mariners,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Kolten Wong,Seattle Mariners,Miles Mikolas,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Kolten Wong,Seattle Mariners,Zack Thompson,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+21,Kolten Wong,Seattle Mariners,Nate Pearson,Toronto Blue Jays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+22,Kolten Wong,Seattle Mariners,Trevor Richards,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Kolten Wong,Seattle Mariners,Chris Bassitt,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+24,Kolten Wong,Seattle Mariners,Kevin Gausman,Toronto Blue Jays,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+25,Kolten Wong,Seattle Mariners,Yimi Garcia,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Kolten Wong,Seattle Mariners,Alek Manoah,Toronto Blue Jays,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+27,Kolten Wong,Seattle Mariners,Tim Mayza,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Kolten Wong,Seattle Mariners,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+29,Kolten Wong,Seattle Mariners,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Kolten Wong,Seattle Mariners,Kyle Gibson,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,.500,1.000,1.500
+31,Kolten Wong,Seattle Mariners,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Kolten Wong,Seattle Mariners,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Kolten Wong,Seattle Mariners,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Kolten Wong,Seattle Mariners,Logan Gillaspie,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Kolten Wong,Seattle Mariners,Dean Kremer,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Kolten Wong,Seattle Mariners,Taijuan Walker,Philadelphia Phillies,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+37,Kolten Wong,Seattle Mariners,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Kolten Wong,Seattle Mariners,Michael Fulmer,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+39,Kolten Wong,Seattle Mariners,Mark Leiter Jr.,Chicago Cubs,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+40,Kolten Wong,Seattle Mariners,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Kolten Wong,Seattle Mariners,Julian Merryweather,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Kolten Wong,Seattle Mariners,Michael Rucker,Chicago Cubs,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+43,Kolten Wong,Seattle Mariners,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Kolten Wong,Seattle Mariners,Hayden Wesneski,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Kolten Wong,Seattle Mariners,Drew Carlton,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+46,Kolten Wong,Seattle Mariners,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Kolten Wong,Seattle Mariners,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Kolten Wong,Seattle Mariners,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+49,Kolten Wong,Seattle Mariners,Hunter Brown,Houston Astros,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+50,Kolten Wong,Seattle Mariners,Cristian Javier,Houston Astros,2,1,1,0,0,3,0,0,0,.500,.500,1.000,1.500
+51,Kolten Wong,Seattle Mariners,Phil Maton,Houston Astros,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+52,Kolten Wong,Seattle Mariners,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Kolten Wong,Seattle Mariners,Brandon Bielak,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Kolten Wong,Seattle Mariners,J.P. France,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Kolten Wong,Seattle Mariners,Bligh Madris,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+56,Kolten Wong,Seattle Mariners,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Kolten Wong,Seattle Mariners,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Kolten Wong,Seattle Mariners,Kenta Maeda,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Kolten Wong,Seattle Mariners,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Kolten Wong,Seattle Mariners,Cory Abbott,Washington Nationals,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+61,Kolten Wong,Seattle Mariners,Kyle Finnegan,Washington Nationals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+62,Kolten Wong,Seattle Mariners,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Kolten Wong,Seattle Mariners,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Kolten Wong,Seattle Mariners,Trevor Williams,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Kolten Wong,Seattle Mariners,Logan Webb,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+66,Kolten Wong,Seattle Mariners,Alex Cobb,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Kolten Wong,Seattle Mariners,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Kolten Wong,Seattle Mariners,Jakob Junis,San Francisco Giants,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+69,Kolten Wong,Seattle Mariners,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Kolten Wong,Seattle Mariners,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Kolten Wong,Seattle Mariners,Keaton Winn,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Kolten Wong,Seattle Mariners,Noah Davis,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+73,Kolten Wong,Seattle Mariners,Ryan Feltner,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+74,Kolten Wong,Seattle Mariners,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Kolten Wong,Seattle Mariners,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Kolten Wong,Seattle Mariners,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Kolten Wong,Seattle Mariners,Albert Abreu,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+78,Kolten Wong,Seattle Mariners,Domingo German,New York Yankees,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+79,Kolten Wong,Seattle Mariners,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Kolten Wong,Seattle Mariners,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Kolten Wong,Seattle Mariners,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Kolten Wong,Seattle Mariners,Clarke Schmidt,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+83,Kolten Wong,Seattle Mariners,Hunter Gaddis,Cleveland Guardians,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+84,Kolten Wong,Seattle Mariners,Zach Plesac,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+85,Kolten Wong,Seattle Mariners,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Kolten Wong,Seattle Mariners,Aaron Civale,Cleveland Guardians,5,0,0,0,0,0,1,0,1,.000,.167,.000,.167
+87,Kolten Wong,Seattle Mariners,Emmanuel Clase,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Kolten Wong,Seattle Mariners,Enyel De Los Santos,Cleveland Guardians,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+89,Kolten Wong,Seattle Mariners,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Kolten Wong,Seattle Mariners,James Karinchak,Cleveland Guardians,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+91,Kolten Wong,Seattle Mariners,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Kolten Wong,Seattle Mariners,Cal Quantrill,Cleveland Guardians,4,0,0,0,0,0,1,0,2,.000,.200,.000,.200
+93,Kolten Wong,Seattle Mariners,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Kolten Wong,Seattle Mariners,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Kolten Wong,Seattle Mariners,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Kolten Wong,Seattle Mariners,Mitch Keller,Pittsburgh Pirates,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+97,Kolten Wong,Seattle Mariners,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Kolten Wong,Seattle Mariners,Vince Velasquez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Kolten Wong,Seattle Mariners,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Kolten Wong,Seattle Mariners,Lance Lynn,Chicago White Sox,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+101,Kolten Wong,Seattle Mariners,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Kolten Wong,Seattle Mariners,Matt Bush,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Kolten Wong,Seattle Mariners,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Kolten Wong,Seattle Mariners,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Kolten Wong,Seattle Mariners,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Kolten Wong,Seattle Mariners,Beau Brieske,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+107,Kolten Wong,Seattle Mariners,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Kolten Wong,Seattle Mariners,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Kolten Wong,Seattle Mariners,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Kolten Wong,Seattle Mariners,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Kolten Wong,Seattle Mariners,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Kolten Wong,Seattle Mariners,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Kolten Wong,Seattle Mariners,Reese Olson,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Kolten Wong,Seattle Mariners,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Kolten Wong,Seattle Mariners,Sam Long,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+116,Kolten Wong,Seattle Mariners,Drew Rucinski,Oakland Athletics,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+117,Kolten Wong,Seattle Mariners,Richard Lovelady,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Kolten Wong,Seattle Mariners,Luis Medina,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Kolten Wong,Seattle Mariners,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

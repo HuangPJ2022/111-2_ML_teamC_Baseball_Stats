@@ -1,0 +1,190 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Andrew Benintendi,Chicago White Sox,Joe Jimenez,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,Andrew Benintendi,Chicago White Sox,Lucas Luetge,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Andrew Benintendi,Chicago White Sox,Collin McHugh,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+3,Andrew Benintendi,Chicago White Sox,Michael Soroka,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+4,Andrew Benintendi,Chicago White Sox,Spencer Strider,Atlanta Braves,3,2,1,0,0,2,0,0,1,.667,.667,1.000,1.667
+5,Andrew Benintendi,Chicago White Sox,Kolby Allard,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+6,Andrew Benintendi,Chicago White Sox,Charlie Morton,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Andrew Benintendi,Chicago White Sox,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Andrew Benintendi,Chicago White Sox,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Andrew Benintendi,Chicago White Sox,Joe Barlow,Texas Rangers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+10,Andrew Benintendi,Chicago White Sox,Brock Burke,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Andrew Benintendi,Chicago White Sox,Nathan Eovaldi,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+12,Andrew Benintendi,Chicago White Sox,Andrew Heaney,Texas Rangers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+13,Andrew Benintendi,Chicago White Sox,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Andrew Benintendi,Chicago White Sox,Martin Perez,Texas Rangers,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Andrew Benintendi,Chicago White Sox,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Andrew Benintendi,Chicago White Sox,Victor Gonzalez,Los Angeles Dodgers,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+17,Andrew Benintendi,Chicago White Sox,Tony Gonsolin,Los Angeles Dodgers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+18,Andrew Benintendi,Chicago White Sox,Clayton Kershaw,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Andrew Benintendi,Chicago White Sox,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Andrew Benintendi,Chicago White Sox,Alex Vesia,Los Angeles Dodgers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+21,Andrew Benintendi,Chicago White Sox,Tucker Davidson,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Andrew Benintendi,Chicago White Sox,Andrew Wantz,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+23,Andrew Benintendi,Chicago White Sox,Jaime Barria,Los Angeles Angels,3,1,0,0,0,0,2,0,1,.333,.600,.333,.933
+24,Andrew Benintendi,Chicago White Sox,Griffin Canning,Los Angeles Angels,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+25,Andrew Benintendi,Chicago White Sox,Shohei Ohtani,Los Angeles Angels,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+26,Andrew Benintendi,Chicago White Sox,Tyler Anderson,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Andrew Benintendi,Chicago White Sox,Reid Detmers,Los Angeles Angels,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Andrew Benintendi,Chicago White Sox,Chris Devenski,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Andrew Benintendi,Chicago White Sox,Aaron Loup,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Andrew Benintendi,Chicago White Sox,Chase Silseth,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Andrew Benintendi,Chicago White Sox,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Andrew Benintendi,Chicago White Sox,Jason Adam,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Andrew Benintendi,Chicago White Sox,Colin Poche,Tampa Bay Rays,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+34,Andrew Benintendi,Chicago White Sox,Calvin Faucher,Tampa Bay Rays,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+35,Andrew Benintendi,Chicago White Sox,Zach Eflin,Tampa Bay Rays,5,1,1,0,0,0,0,0,0,.200,.200,.400,.600
+36,Andrew Benintendi,Chicago White Sox,Zack Burdi,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Andrew Benintendi,Chicago White Sox,Yonny Chirinos,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Andrew Benintendi,Chicago White Sox,Cooper Criswell,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+39,Andrew Benintendi,Chicago White Sox,Pete Fairbanks,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+40,Andrew Benintendi,Chicago White Sox,Kevin Kelly,Tampa Bay Rays,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+41,Andrew Benintendi,Chicago White Sox,Shane McClanahan,Tampa Bay Rays,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+42,Andrew Benintendi,Chicago White Sox,Chris Murphy,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+43,Andrew Benintendi,Chicago White Sox,Josh Winckowski,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+44,Andrew Benintendi,Chicago White Sox,Brayan Bello,Boston Red Sox,3,2,2,0,0,0,0,0,0,.667,.667,1.333,2.000
+45,Andrew Benintendi,Chicago White Sox,Kutter Crawford,Boston Red Sox,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+46,Andrew Benintendi,Chicago White Sox,James Paxton,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+47,Andrew Benintendi,Chicago White Sox,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Andrew Benintendi,Chicago White Sox,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Andrew Benintendi,Chicago White Sox,Jordan Montgomery,St. Louis Cardinals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+50,Andrew Benintendi,Chicago White Sox,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Andrew Benintendi,Chicago White Sox,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Andrew Benintendi,Chicago White Sox,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Andrew Benintendi,Chicago White Sox,Reiver Sanmartin,Cincinnati Reds,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+54,Andrew Benintendi,Chicago White Sox,Graham Ashcraft,Cincinnati Reds,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+55,Andrew Benintendi,Chicago White Sox,Nick Lodolo,Cincinnati Reds,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+56,Andrew Benintendi,Chicago White Sox,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Andrew Benintendi,Chicago White Sox,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Andrew Benintendi,Chicago White Sox,Hunter Greene,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Andrew Benintendi,Chicago White Sox,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Andrew Benintendi,Chicago White Sox,Casey Legumina,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Andrew Benintendi,Chicago White Sox,Luke Maile,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Andrew Benintendi,Chicago White Sox,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Andrew Benintendi,Chicago White Sox,Chris Bassitt,Toronto Blue Jays,5,3,0,0,0,0,1,0,2,.600,.667,.600,1.267
+64,Andrew Benintendi,Chicago White Sox,Yusei Kikuchi,Toronto Blue Jays,5,3,1,0,0,0,0,0,0,.600,.600,.800,1.400
+65,Andrew Benintendi,Chicago White Sox,Jose Berrios,Toronto Blue Jays,5,1,0,0,0,0,1,0,2,.200,.333,.200,.533
+66,Andrew Benintendi,Chicago White Sox,Thomas Hatch,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+67,Andrew Benintendi,Chicago White Sox,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Andrew Benintendi,Chicago White Sox,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Andrew Benintendi,Chicago White Sox,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Andrew Benintendi,Chicago White Sox,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Andrew Benintendi,Chicago White Sox,Erik Swanson,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Andrew Benintendi,Chicago White Sox,Kyle Gibson,Baltimore Orioles,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+73,Andrew Benintendi,Chicago White Sox,Tyler Wells,Baltimore Orioles,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+74,Andrew Benintendi,Chicago White Sox,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Andrew Benintendi,Chicago White Sox,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+76,Andrew Benintendi,Chicago White Sox,Zack Wheeler,Philadelphia Phillies,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+77,Andrew Benintendi,Chicago White Sox,Craig Kimbrel,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+78,Andrew Benintendi,Chicago White Sox,Taijuan Walker,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Andrew Benintendi,Chicago White Sox,Hector Neris,Houston Astros,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+80,Andrew Benintendi,Chicago White Sox,Brandon Bielak,Houston Astros,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+81,Andrew Benintendi,Chicago White Sox,Hunter Brown,Houston Astros,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+82,Andrew Benintendi,Chicago White Sox,Jose Urquidy,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+83,Andrew Benintendi,Chicago White Sox,Framber Valdez,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+84,Andrew Benintendi,Chicago White Sox,Cristian Javier,Houston Astros,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+85,Andrew Benintendi,Chicago White Sox,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Andrew Benintendi,Chicago White Sox,Ronel Blanco,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Andrew Benintendi,Chicago White Sox,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Andrew Benintendi,Chicago White Sox,Luis Garcia,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Andrew Benintendi,Chicago White Sox,Seth Martinez,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+90,Andrew Benintendi,Chicago White Sox,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Andrew Benintendi,Chicago White Sox,Rafael Montero,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Andrew Benintendi,Chicago White Sox,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Andrew Benintendi,Chicago White Sox,Ryne Stanek,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+94,Andrew Benintendi,Chicago White Sox,Emilio Pagan,Minnesota Twins,1,1,0,0,0,0,1,1,0,1.000,1.000,1.000,2.000
+95,Andrew Benintendi,Chicago White Sox,Caleb Thielbar,Minnesota Twins,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+96,Andrew Benintendi,Chicago White Sox,Sonny Gray,Minnesota Twins,6,2,0,0,0,0,0,0,1,.333,.333,.333,.666
+97,Andrew Benintendi,Chicago White Sox,Griffin Jax,Minnesota Twins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+98,Andrew Benintendi,Chicago White Sox,Kenta Maeda,Minnesota Twins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+99,Andrew Benintendi,Chicago White Sox,Bailey Ober,Minnesota Twins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+100,Andrew Benintendi,Chicago White Sox,Pablo Lopez,Minnesota Twins,7,2,0,0,0,0,0,0,0,.286,.286,.286,.572
+101,Andrew Benintendi,Chicago White Sox,Joe Ryan,Minnesota Twins,6,1,0,0,1,1,0,0,0,.167,.167,.667,.834
+102,Andrew Benintendi,Chicago White Sox,Jordan Balazovic,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+103,Andrew Benintendi,Chicago White Sox,Jhoan Duran,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Andrew Benintendi,Chicago White Sox,Jorge Lopez,Minnesota Twins,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+105,Andrew Benintendi,Chicago White Sox,Jovani Moran,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Andrew Benintendi,Chicago White Sox,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Andrew Benintendi,Chicago White Sox,Louie Varland,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Andrew Benintendi,Chicago White Sox,Sandy Alcantara,Miami Marlins,1,1,0,0,0,0,2,0,0,1.000,1.000,1.000,2.000
+109,Andrew Benintendi,Chicago White Sox,JT Chargois,Miami Marlins,1,1,0,0,0,0,1,1,0,1.000,1.000,1.000,2.000
+110,Andrew Benintendi,Chicago White Sox,Braxton Garrett,Miami Marlins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+111,Andrew Benintendi,Chicago White Sox,Dylan Floro,Miami Marlins,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+112,Andrew Benintendi,Chicago White Sox,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Andrew Benintendi,Chicago White Sox,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Andrew Benintendi,Chicago White Sox,Eury Perez,Miami Marlins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+115,Andrew Benintendi,Chicago White Sox,Matt Beaty,San Francisco Giants,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+116,Andrew Benintendi,Chicago White Sox,Sean Hjelle,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+117,Andrew Benintendi,Chicago White Sox,Anthony DeSclafani,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+118,Andrew Benintendi,Chicago White Sox,Logan Webb,San Francisco Giants,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+119,Andrew Benintendi,Chicago White Sox,Jakob Junis,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Andrew Benintendi,Chicago White Sox,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+121,Andrew Benintendi,Chicago White Sox,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Andrew Benintendi,Chicago White Sox,David Robertson,New York Mets,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+123,Andrew Benintendi,Chicago White Sox,Carlos Carrasco,New York Mets,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+124,Andrew Benintendi,Chicago White Sox,Justin Verlander,New York Mets,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+125,Andrew Benintendi,Chicago White Sox,Trevor Gott,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Andrew Benintendi,Chicago White Sox,Grant Hartwig,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+127,Andrew Benintendi,Chicago White Sox,David Peterson,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Andrew Benintendi,Chicago White Sox,Jose Quintana,New York Mets,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Andrew Benintendi,Chicago White Sox,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Andrew Benintendi,Chicago White Sox,Jimmy Cordero,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+131,Andrew Benintendi,Chicago White Sox,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Andrew Benintendi,Chicago White Sox,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Andrew Benintendi,Chicago White Sox,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+134,Andrew Benintendi,Chicago White Sox,Luis Severino,New York Yankees,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Andrew Benintendi,Chicago White Sox,Tayler Saucedo,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+136,Andrew Benintendi,Chicago White Sox,Logan Gilbert,Seattle Mariners,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+137,Andrew Benintendi,Chicago White Sox,Justin Topa,Seattle Mariners,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+138,Andrew Benintendi,Chicago White Sox,Bryce Miller,Seattle Mariners,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+139,Andrew Benintendi,Chicago White Sox,Bryan Woo,Seattle Mariners,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+140,Andrew Benintendi,Chicago White Sox,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Andrew Benintendi,Chicago White Sox,Paul Sewald,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+142,Andrew Benintendi,Chicago White Sox,Peyton Battenfield,Cleveland Guardians,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+143,Andrew Benintendi,Chicago White Sox,Shane Bieber,Cleveland Guardians,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+144,Andrew Benintendi,Chicago White Sox,Logan Allen,Cleveland Guardians,5,2,2,0,0,0,1,0,1,.400,.500,.800,1.300
+145,Andrew Benintendi,Chicago White Sox,Hunter Gaddis,Cleveland Guardians,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+146,Andrew Benintendi,Chicago White Sox,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Andrew Benintendi,Chicago White Sox,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Andrew Benintendi,Chicago White Sox,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Andrew Benintendi,Chicago White Sox,Sam Hentges,Cleveland Guardians,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+150,Andrew Benintendi,Chicago White Sox,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Andrew Benintendi,Chicago White Sox,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Andrew Benintendi,Chicago White Sox,Cal Quantrill,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Andrew Benintendi,Chicago White Sox,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+154,Andrew Benintendi,Chicago White Sox,Vince Velasquez,Pittsburgh Pirates,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+155,Andrew Benintendi,Chicago White Sox,Chase De Jong,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Andrew Benintendi,Chicago White Sox,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Andrew Benintendi,Chicago White Sox,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Andrew Benintendi,Chicago White Sox,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Andrew Benintendi,Chicago White Sox,Rob Zastryzny,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+160,Andrew Benintendi,Chicago White Sox,Brady Singer,Kansas City Royals,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+161,Andrew Benintendi,Chicago White Sox,Max Castillo,Kansas City Royals,2,1,0,0,0,2,0,0,0,.500,.333,.500,.833
+162,Andrew Benintendi,Chicago White Sox,Zack Greinke,Kansas City Royals,6,2,0,0,0,0,0,0,1,.333,.333,.333,.666
+163,Andrew Benintendi,Chicago White Sox,Jordan Lyles,Kansas City Royals,6,1,0,0,0,0,1,0,0,.167,.286,.167,.453
+164,Andrew Benintendi,Chicago White Sox,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,Andrew Benintendi,Chicago White Sox,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+166,Andrew Benintendi,Chicago White Sox,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+167,Andrew Benintendi,Chicago White Sox,Brad Keller,Kansas City Royals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+168,Andrew Benintendi,Chicago White Sox,Jackson Kowar,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+169,Andrew Benintendi,Chicago White Sox,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Andrew Benintendi,Chicago White Sox,Alex Lange,Detroit Tigers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+171,Andrew Benintendi,Chicago White Sox,Will Vest,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+172,Andrew Benintendi,Chicago White Sox,Mason Englert,Detroit Tigers,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+173,Andrew Benintendi,Chicago White Sox,Joey Wentz,Detroit Tigers,2,1,0,1,0,1,1,0,0,.500,.667,1.500,2.167
+174,Andrew Benintendi,Chicago White Sox,Michael Lorenzen,Detroit Tigers,5,1,0,0,0,0,1,0,1,.200,.333,.200,.533
+175,Andrew Benintendi,Chicago White Sox,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Andrew Benintendi,Chicago White Sox,Alex Faedo,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+177,Andrew Benintendi,Chicago White Sox,Reese Olson,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+178,Andrew Benintendi,Chicago White Sox,Zack Short,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Andrew Benintendi,Chicago White Sox,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+180,Andrew Benintendi,Chicago White Sox,Sam Moll,Oakland Athletics,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+181,Andrew Benintendi,Chicago White Sox,Luis Medina,Oakland Athletics,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+182,Andrew Benintendi,Chicago White Sox,Paul Blackburn,Oakland Athletics,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+183,Andrew Benintendi,Chicago White Sox,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Andrew Benintendi,Chicago White Sox,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+185,Andrew Benintendi,Chicago White Sox,Rico Garcia,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+186,Andrew Benintendi,Chicago White Sox,Sam Long,Oakland Athletics,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+187,Andrew Benintendi,Chicago White Sox,Richard Lovelady,Oakland Athletics,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+188,Andrew Benintendi,Chicago White Sox,Kyle Muller,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000

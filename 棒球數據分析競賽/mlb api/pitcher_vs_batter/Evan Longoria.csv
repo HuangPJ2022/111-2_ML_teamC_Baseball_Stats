@@ -1,0 +1,97 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Evan Longoria,Arizona Diamondbacks,Spencer Strider,Atlanta Braves,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+1,Evan Longoria,Arizona Diamondbacks,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Evan Longoria,Arizona Diamondbacks,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Evan Longoria,Arizona Diamondbacks,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Evan Longoria,Arizona Diamondbacks,Charlie Morton,Atlanta Braves,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+5,Evan Longoria,Arizona Diamondbacks,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Evan Longoria,Arizona Diamondbacks,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Evan Longoria,Arizona Diamondbacks,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Evan Longoria,Arizona Diamondbacks,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Evan Longoria,Arizona Diamondbacks,Yency Almonte,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+10,Evan Longoria,Arizona Diamondbacks,Alex Vesia,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+11,Evan Longoria,Arizona Diamondbacks,Clayton Kershaw,Los Angeles Dodgers,4,2,0,0,1,1,1,0,2,.500,.600,1.250,1.850
+12,Evan Longoria,Arizona Diamondbacks,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Evan Longoria,Arizona Diamondbacks,Andre Jackson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Evan Longoria,Arizona Diamondbacks,Julio Urias,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Evan Longoria,Arizona Diamondbacks,Griffin Canning,Los Angeles Angels,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+16,Evan Longoria,Arizona Diamondbacks,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+17,Evan Longoria,Arizona Diamondbacks,Victor Mederos,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+18,Evan Longoria,Arizona Diamondbacks,Taj Bradley,Tampa Bay Rays,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+19,Evan Longoria,Arizona Diamondbacks,Yonny Chirinos,Tampa Bay Rays,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+20,Evan Longoria,Arizona Diamondbacks,Shawn Armstrong,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+21,Evan Longoria,Arizona Diamondbacks,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Evan Longoria,Arizona Diamondbacks,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Evan Longoria,Arizona Diamondbacks,Chris Sale,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Evan Longoria,Arizona Diamondbacks,JoJo Romero,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+25,Evan Longoria,Arizona Diamondbacks,Jordan Montgomery,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+26,Evan Longoria,Arizona Diamondbacks,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Evan Longoria,Arizona Diamondbacks,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Evan Longoria,Arizona Diamondbacks,Brandon Williamson,Cincinnati Reds,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+29,Evan Longoria,Arizona Diamondbacks,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Evan Longoria,Arizona Diamondbacks,Jose Berrios,Toronto Blue Jays,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+31,Evan Longoria,Arizona Diamondbacks,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Evan Longoria,Arizona Diamondbacks,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Evan Longoria,Arizona Diamondbacks,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Evan Longoria,Arizona Diamondbacks,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Evan Longoria,Arizona Diamondbacks,Mitch White,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+36,Evan Longoria,Arizona Diamondbacks,Seranthony Dominguez,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+37,Evan Longoria,Arizona Diamondbacks,Andrew Vasquez,Philadelphia Phillies,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+38,Evan Longoria,Arizona Diamondbacks,Matt Strahm,Philadelphia Phillies,2,1,1,0,0,1,0,0,0,.500,.333,1.000,1.333
+39,Evan Longoria,Arizona Diamondbacks,Ranger Suarez,Philadelphia Phillies,5,2,1,0,1,2,0,0,2,.400,.400,1.200,1.600
+40,Evan Longoria,Arizona Diamondbacks,Dylan Covey,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+41,Evan Longoria,Arizona Diamondbacks,Jeff Hoffman,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+42,Evan Longoria,Arizona Diamondbacks,Steven Wilson,San Diego Padres,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+43,Evan Longoria,Arizona Diamondbacks,Ryan Weathers,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+44,Evan Longoria,Arizona Diamondbacks,Yu Darvish,San Diego Padres,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+45,Evan Longoria,Arizona Diamondbacks,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Evan Longoria,Arizona Diamondbacks,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Evan Longoria,Arizona Diamondbacks,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Evan Longoria,Arizona Diamondbacks,Jesus Luzardo,Miami Marlins,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+49,Evan Longoria,Arizona Diamondbacks,Matt Barnes,Miami Marlins,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+50,Evan Longoria,Arizona Diamondbacks,Trevor Rogers,Miami Marlins,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+51,Evan Longoria,Arizona Diamondbacks,Braxton Garrett,Miami Marlins,5,1,0,0,0,0,0,0,2,.200,.200,.200,.400
+52,Evan Longoria,Arizona Diamondbacks,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Evan Longoria,Arizona Diamondbacks,Chi Chi Gonzalez,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Evan Longoria,Arizona Diamondbacks,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Evan Longoria,Arizona Diamondbacks,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Evan Longoria,Arizona Diamondbacks,Carl Edwards Jr.,Washington Nationals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+57,Evan Longoria,Arizona Diamondbacks,Patrick Corbin,Washington Nationals,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+58,Evan Longoria,Arizona Diamondbacks,MacKenzie Gore,Washington Nationals,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+59,Evan Longoria,Arizona Diamondbacks,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Evan Longoria,Arizona Diamondbacks,Ross Stripling,San Francisco Giants,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+61,Evan Longoria,Arizona Diamondbacks,Logan Webb,San Francisco Giants,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+62,Evan Longoria,Arizona Diamondbacks,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Evan Longoria,Arizona Diamondbacks,Tristan Beck,San Francisco Giants,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+64,Evan Longoria,Arizona Diamondbacks,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Evan Longoria,Arizona Diamondbacks,Anthony DeSclafani,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Evan Longoria,Arizona Diamondbacks,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Evan Longoria,Arizona Diamondbacks,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Evan Longoria,Arizona Diamondbacks,Alex Wood,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Evan Longoria,Arizona Diamondbacks,Brooks Raley,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+70,Evan Longoria,Arizona Diamondbacks,Kodai Senga,New York Mets,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+71,Evan Longoria,Arizona Diamondbacks,Austin Gomber,Colorado Rockies,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+72,Evan Longoria,Arizona Diamondbacks,Kyle Freeland,Colorado Rockies,5,1,0,0,1,2,0,0,1,.200,.200,.800,1.000
+73,Evan Longoria,Arizona Diamondbacks,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Evan Longoria,Arizona Diamondbacks,Blair Calvo,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Evan Longoria,Arizona Diamondbacks,Noah Davis,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Evan Longoria,Arizona Diamondbacks,Pierce Johnson,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Evan Longoria,Arizona Diamondbacks,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Evan Longoria,Arizona Diamondbacks,Brent Suter,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+79,Evan Longoria,Arizona Diamondbacks,Rich Hill,Pittsburgh Pirates,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+80,Evan Longoria,Arizona Diamondbacks,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Evan Longoria,Arizona Diamondbacks,Javy Guerra,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+82,Evan Longoria,Arizona Diamondbacks,Colin Rea,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+83,Evan Longoria,Arizona Diamondbacks,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Evan Longoria,Arizona Diamondbacks,Wade Miley,Milwaukee Brewers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+85,Evan Longoria,Arizona Diamondbacks,Joel Payamps,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Evan Longoria,Arizona Diamondbacks,Jose Cisnero,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+87,Evan Longoria,Arizona Diamondbacks,Joey Wentz,Detroit Tigers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+88,Evan Longoria,Arizona Diamondbacks,Ryan Yarbrough,Kansas City Royals,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+89,Evan Longoria,Arizona Diamondbacks,Jose Cuas,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Evan Longoria,Arizona Diamondbacks,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Evan Longoria,Arizona Diamondbacks,Brad Keller,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Evan Longoria,Arizona Diamondbacks,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Evan Longoria,Arizona Diamondbacks,Garrett Acton,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Evan Longoria,Arizona Diamondbacks,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Evan Longoria,Arizona Diamondbacks,Kyle Muller,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000

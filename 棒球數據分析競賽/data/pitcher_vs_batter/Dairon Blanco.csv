@@ -1,0 +1,38 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Dairon Blanco,Kansas City Royals,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Dairon Blanco,Kansas City Royals,Ryan Brasier,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Dairon Blanco,Kansas City Royals,Julio Urias,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Dairon Blanco,Kansas City Royals,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+4,Dairon Blanco,Kansas City Royals,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+5,Dairon Blanco,Kansas City Royals,Cooper Criswell,Tampa Bay Rays,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+6,Dairon Blanco,Kansas City Royals,Zach Eflin,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+7,Dairon Blanco,Kansas City Royals,Shane McClanahan,Tampa Bay Rays,2,1,0,1,0,0,0,0,0,.500,.500,1.500,2.000
+8,Dairon Blanco,Kansas City Royals,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Dairon Blanco,Kansas City Royals,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Dairon Blanco,Kansas City Royals,Tyler Glasnow,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+11,Dairon Blanco,Kansas City Royals,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Dairon Blanco,Kansas City Royals,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+13,Dairon Blanco,Kansas City Royals,Fernando Cruz,Cincinnati Reds,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+14,Dairon Blanco,Kansas City Royals,Luke Weaver,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+15,Dairon Blanco,Kansas City Royals,Brandon Williamson,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+16,Dairon Blanco,Kansas City Royals,Ben Lively,Cincinnati Reds,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+17,Dairon Blanco,Kansas City Royals,Alexis Diaz,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Dairon Blanco,Kansas City Royals,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Dairon Blanco,Kansas City Royals,Ian Gibaut,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+20,Dairon Blanco,Kansas City Royals,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Dairon Blanco,Kansas City Royals,Kenta Maeda,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Dairon Blanco,Kansas City Royals,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Dairon Blanco,Kansas City Royals,Luis Severino,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Dairon Blanco,Kansas City Royals,Eli Morgan,Cleveland Guardians,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+25,Dairon Blanco,Kansas City Royals,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Dairon Blanco,Kansas City Royals,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Dairon Blanco,Kansas City Royals,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Dairon Blanco,Kansas City Royals,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Dairon Blanco,Kansas City Royals,Beau Brieske,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+30,Dairon Blanco,Kansas City Royals,Tarik Skubal,Detroit Tigers,2,2,0,1,0,2,0,0,0,1.000,1.000,2.000,3.000
+31,Dairon Blanco,Kansas City Royals,Brendan White,Detroit Tigers,2,2,2,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+32,Dairon Blanco,Kansas City Royals,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+33,Dairon Blanco,Kansas City Royals,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Dairon Blanco,Kansas City Royals,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+35,Dairon Blanco,Kansas City Royals,Eduardo Rodriguez,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Dairon Blanco,Kansas City Royals,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

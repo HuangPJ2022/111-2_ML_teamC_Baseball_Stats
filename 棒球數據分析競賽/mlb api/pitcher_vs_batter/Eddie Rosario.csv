@@ -1,0 +1,168 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Eddie Rosario,Atlanta Braves,Nathan Eovaldi,Texas Rangers,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+1,Eddie Rosario,Atlanta Braves,Dane Dunning,Texas Rangers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Eddie Rosario,Atlanta Braves,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Eddie Rosario,Atlanta Braves,Phil Bickford,Los Angeles Dodgers,1,1,0,0,0,0,1,1,0,1.000,1.000,1.000,2.000
+4,Eddie Rosario,Atlanta Braves,Gavin Stone,Los Angeles Dodgers,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+5,Eddie Rosario,Atlanta Braves,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Eddie Rosario,Atlanta Braves,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Eddie Rosario,Atlanta Braves,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Eddie Rosario,Atlanta Braves,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Eddie Rosario,Atlanta Braves,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Eddie Rosario,Atlanta Braves,Zack Littell,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Eddie Rosario,Atlanta Braves,Taj Bradley,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+12,Eddie Rosario,Atlanta Braves,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Eddie Rosario,Atlanta Braves,Tyler Glasnow,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Eddie Rosario,Atlanta Braves,Javy Guerra,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Eddie Rosario,Atlanta Braves,Elvin Rodriguez,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Eddie Rosario,Atlanta Braves,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Eddie Rosario,Atlanta Braves,Ryan Brasier,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Eddie Rosario,Atlanta Braves,Kenley Jansen,Boston Red Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+19,Eddie Rosario,Atlanta Braves,Brayan Bello,Boston Red Sox,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+20,Eddie Rosario,Atlanta Braves,Zack Littell,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Eddie Rosario,Atlanta Braves,Nick Pivetta,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Eddie Rosario,Atlanta Braves,Giovanny Gallegos,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Eddie Rosario,Atlanta Braves,Drew VerHagen,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+24,Eddie Rosario,Atlanta Braves,Jake Woodford,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+25,Eddie Rosario,Atlanta Braves,Jordan Hicks,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+26,Eddie Rosario,Atlanta Braves,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Eddie Rosario,Atlanta Braves,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Eddie Rosario,Atlanta Braves,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Eddie Rosario,Atlanta Braves,Miguel Castro,Arizona Diamondbacks,2,2,0,0,1,4,0,0,0,1.000,1.000,2.500,3.500
+30,Eddie Rosario,Atlanta Braves,Merrill Kelly,Arizona Diamondbacks,3,2,0,0,2,2,0,0,0,.667,.667,2.667,3.334
+31,Eddie Rosario,Atlanta Braves,Ryne Nelson,Arizona Diamondbacks,5,2,0,1,0,1,0,0,0,.400,.400,.800,1.200
+32,Eddie Rosario,Atlanta Braves,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Eddie Rosario,Atlanta Braves,Zac Gallen,Arizona Diamondbacks,6,0,0,0,0,0,0,0,4,.000,.000,.000,.000
+34,Eddie Rosario,Atlanta Braves,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Eddie Rosario,Atlanta Braves,Buck Farmer,Cincinnati Reds,2,2,1,0,1,1,0,0,0,1.000,1.000,3.000,4.000
+36,Eddie Rosario,Atlanta Braves,Kevin Herget,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+37,Eddie Rosario,Atlanta Braves,Levi Stoudt,Cincinnati Reds,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+38,Eddie Rosario,Atlanta Braves,Alex Young,Cincinnati Reds,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+39,Eddie Rosario,Atlanta Braves,Hunter Greene,Cincinnati Reds,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+40,Eddie Rosario,Atlanta Braves,Graham Ashcraft,Cincinnati Reds,4,1,0,0,0,0,1,0,0,.250,.400,.250,.650
+41,Eddie Rosario,Atlanta Braves,Silvino Bracho,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Eddie Rosario,Atlanta Braves,Luis Cessa,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Eddie Rosario,Atlanta Braves,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Eddie Rosario,Atlanta Braves,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+45,Eddie Rosario,Atlanta Braves,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Eddie Rosario,Atlanta Braves,Luke Weaver,Cincinnati Reds,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+47,Eddie Rosario,Atlanta Braves,Randy Wynne,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+48,Eddie Rosario,Atlanta Braves,Chris Bassitt,Toronto Blue Jays,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+49,Eddie Rosario,Atlanta Braves,Jose Berrios,Toronto Blue Jays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+50,Eddie Rosario,Atlanta Braves,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Eddie Rosario,Atlanta Braves,Keegan Akin,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+52,Eddie Rosario,Atlanta Braves,Kyle Bradish,Baltimore Orioles,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+53,Eddie Rosario,Atlanta Braves,Tyler Wells,Baltimore Orioles,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+54,Eddie Rosario,Atlanta Braves,Dean Kremer,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+55,Eddie Rosario,Atlanta Braves,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Eddie Rosario,Atlanta Braves,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Eddie Rosario,Atlanta Braves,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Eddie Rosario,Atlanta Braves,Dylan Covey,Philadelphia Phillies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+59,Eddie Rosario,Atlanta Braves,Jeff Hoffman,Philadelphia Phillies,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+60,Eddie Rosario,Atlanta Braves,Andrew Vasquez,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+61,Eddie Rosario,Atlanta Braves,Taijuan Walker,Philadelphia Phillies,2,1,1,0,0,1,0,0,0,.500,.333,1.000,1.333
+62,Eddie Rosario,Atlanta Braves,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Eddie Rosario,Atlanta Braves,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Eddie Rosario,Atlanta Braves,Aaron Nola,Philadelphia Phillies,5,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+65,Eddie Rosario,Atlanta Braves,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Eddie Rosario,Atlanta Braves,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Eddie Rosario,Atlanta Braves,Hunter Brown,Houston Astros,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+68,Eddie Rosario,Atlanta Braves,Bryan Abreu,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Eddie Rosario,Atlanta Braves,Cristian Javier,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Eddie Rosario,Atlanta Braves,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Eddie Rosario,Atlanta Braves,Nabil Crismatt,San Diego Padres,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+72,Eddie Rosario,Atlanta Braves,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Eddie Rosario,Atlanta Braves,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Eddie Rosario,Atlanta Braves,Reiss Knehr,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Eddie Rosario,Atlanta Braves,Seth Lugo,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Eddie Rosario,Atlanta Braves,Nick Martinez,San Diego Padres,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+77,Eddie Rosario,Atlanta Braves,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Eddie Rosario,Atlanta Braves,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Eddie Rosario,Atlanta Braves,Joe Ryan,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+80,Eddie Rosario,Atlanta Braves,Sonny Gray,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Eddie Rosario,Atlanta Braves,Kenta Maeda,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Eddie Rosario,Atlanta Braves,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Eddie Rosario,Atlanta Braves,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Eddie Rosario,Atlanta Braves,Matt Barnes,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,Eddie Rosario,Atlanta Braves,Tanner Scott,Miami Marlins,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+86,Eddie Rosario,Atlanta Braves,Devin Smeltzer,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+87,Eddie Rosario,Atlanta Braves,Jesus Luzardo,Miami Marlins,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+88,Eddie Rosario,Atlanta Braves,Edward Cabrera,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+89,Eddie Rosario,Atlanta Braves,Dylan Floro,Miami Marlins,3,1,0,1,0,1,0,0,0,.333,.333,1.000,1.333
+90,Eddie Rosario,Atlanta Braves,Bryan Hoeing,Miami Marlins,3,1,0,0,1,2,1,0,1,.333,.500,1.333,1.833
+91,Eddie Rosario,Atlanta Braves,Steven Okert,Miami Marlins,4,1,0,0,1,2,0,0,2,.250,.250,1.000,1.250
+92,Eddie Rosario,Atlanta Braves,Sandy Alcantara,Miami Marlins,7,1,0,0,0,1,1,0,1,.143,.250,.143,.393
+93,Eddie Rosario,Atlanta Braves,Archie Bradley,Miami Marlins,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+94,Eddie Rosario,Atlanta Braves,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Eddie Rosario,Atlanta Braves,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Eddie Rosario,Atlanta Braves,Braxton Garrett,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Eddie Rosario,Atlanta Braves,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Eddie Rosario,Atlanta Braves,Sean Nolin,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Eddie Rosario,Atlanta Braves,Eury Perez,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Eddie Rosario,Atlanta Braves,George Soriano,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+101,Eddie Rosario,Atlanta Braves,Kyle Finnegan,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+102,Eddie Rosario,Atlanta Braves,Josiah Gray,Washington Nationals,4,1,0,0,0,0,0,0,2,.250,.250,.250,.500
+103,Eddie Rosario,Atlanta Braves,Anthony Banda,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Eddie Rosario,Atlanta Braves,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Eddie Rosario,Atlanta Braves,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Eddie Rosario,Atlanta Braves,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Eddie Rosario,Atlanta Braves,Trevor Williams,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Eddie Rosario,Atlanta Braves,Adam Ottavino,New York Mets,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+109,Eddie Rosario,Atlanta Braves,Tylor Megill,New York Mets,2,1,1,0,0,3,1,0,1,.500,.667,1.000,1.667
+110,Eddie Rosario,Atlanta Braves,David Peterson,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+111,Eddie Rosario,Atlanta Braves,Brooks Raley,New York Mets,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+112,Eddie Rosario,Atlanta Braves,Justin Verlander,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+113,Eddie Rosario,Atlanta Braves,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Eddie Rosario,Atlanta Braves,Carlos Carrasco,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Eddie Rosario,Atlanta Braves,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Eddie Rosario,Atlanta Braves,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Eddie Rosario,Atlanta Braves,Stephen Nogosek,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Eddie Rosario,Atlanta Braves,Denyi Reyes,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+119,Eddie Rosario,Atlanta Braves,David Robertson,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+120,Eddie Rosario,Atlanta Braves,Max Scherzer,New York Mets,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Eddie Rosario,Atlanta Braves,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Eddie Rosario,Atlanta Braves,Chase Anderson,Colorado Rockies,2,2,0,0,1,4,0,0,0,1.000,1.000,2.500,3.500
+123,Eddie Rosario,Atlanta Braves,Justin Lawrence,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+124,Eddie Rosario,Atlanta Braves,Brent Suter,Colorado Rockies,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+125,Eddie Rosario,Atlanta Braves,Dinelson Lamet,Colorado Rockies,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+126,Eddie Rosario,Atlanta Braves,Connor Seabold,Colorado Rockies,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+127,Eddie Rosario,Atlanta Braves,Jake Bird,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Eddie Rosario,Atlanta Braves,Matt Carasiti,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+129,Eddie Rosario,Atlanta Braves,Gavin Hollowell,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+130,Eddie Rosario,Atlanta Braves,Peter Lambert,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+131,Eddie Rosario,Atlanta Braves,George Kirby,Seattle Mariners,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+132,Eddie Rosario,Atlanta Braves,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+133,Eddie Rosario,Atlanta Braves,Bryce Miller,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Eddie Rosario,Atlanta Braves,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Eddie Rosario,Atlanta Braves,Shane Bieber,Cleveland Guardians,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+136,Eddie Rosario,Atlanta Braves,Cal Quantrill,Cleveland Guardians,2,1,1,0,0,2,0,0,1,.500,.500,1.000,1.500
+137,Eddie Rosario,Atlanta Braves,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Eddie Rosario,Atlanta Braves,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Eddie Rosario,Atlanta Braves,Tim Herrin,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,Eddie Rosario,Atlanta Braves,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Eddie Rosario,Atlanta Braves,Gavin Williams,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Eddie Rosario,Atlanta Braves,Bryan Shaw,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+143,Eddie Rosario,Atlanta Braves,Lance Lynn,Chicago White Sox,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+144,Eddie Rosario,Atlanta Braves,Michael Kopech,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Eddie Rosario,Atlanta Braves,Touki Toussaint,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+146,Eddie Rosario,Atlanta Braves,Freddy Peralta,Milwaukee Brewers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+147,Eddie Rosario,Atlanta Braves,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Eddie Rosario,Atlanta Braves,Michael Lorenzen,Detroit Tigers,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+149,Eddie Rosario,Atlanta Braves,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+150,Eddie Rosario,Atlanta Braves,Braden Bristo,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+151,Eddie Rosario,Atlanta Braves,Jose Cisnero,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+152,Eddie Rosario,Atlanta Braves,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Eddie Rosario,Atlanta Braves,Garrett Hill,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+154,Eddie Rosario,Atlanta Braves,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Eddie Rosario,Atlanta Braves,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Eddie Rosario,Atlanta Braves,Reese Olson,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+157,Eddie Rosario,Atlanta Braves,Brady Singer,Kansas City Royals,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+158,Eddie Rosario,Atlanta Braves,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Eddie Rosario,Atlanta Braves,Zack Greinke,Kansas City Royals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+160,Eddie Rosario,Atlanta Braves,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Eddie Rosario,Atlanta Braves,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Eddie Rosario,Atlanta Braves,Trevor May,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+163,Eddie Rosario,Atlanta Braves,James Kaprielian,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+164,Eddie Rosario,Atlanta Braves,Paul Blackburn,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+165,Eddie Rosario,Atlanta Braves,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+166,Eddie Rosario,Atlanta Braves,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

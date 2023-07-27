@@ -1,0 +1,75 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Luis Guillorme,New York Mets,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+1,Luis Guillorme,New York Mets,Nick Robertson,Los Angeles Dodgers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+2,Luis Guillorme,New York Mets,Noah Syndergaard,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+3,Luis Guillorme,New York Mets,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Luis Guillorme,New York Mets,Tony Gonsolin,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Luis Guillorme,New York Mets,Shelby Miller,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,Luis Guillorme,New York Mets,Alex Vesia,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+7,Luis Guillorme,New York Mets,Kutter Crawford,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Luis Guillorme,New York Mets,Joe Jacques,Boston Red Sox,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Luis Guillorme,New York Mets,Andre Pallante,St. Louis Cardinals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+10,Luis Guillorme,New York Mets,Adam Wainwright,St. Louis Cardinals,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+11,Luis Guillorme,New York Mets,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Luis Guillorme,New York Mets,Carson Kelly,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Luis Guillorme,New York Mets,Ryne Nelson,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+14,Luis Guillorme,New York Mets,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Luis Guillorme,New York Mets,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Luis Guillorme,New York Mets,Buck Farmer,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+17,Luis Guillorme,New York Mets,Hunter Greene,Cincinnati Reds,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+18,Luis Guillorme,New York Mets,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Luis Guillorme,New York Mets,Matt Strahm,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Luis Guillorme,New York Mets,Cristopher Sanchez,Philadelphia Phillies,2,1,0,1,0,0,0,0,1,.500,.500,1.500,2.000
+21,Luis Guillorme,New York Mets,Adrian Morejon,San Diego Padres,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+22,Luis Guillorme,New York Mets,Yu Darvish,San Diego Padres,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+23,Luis Guillorme,New York Mets,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Luis Guillorme,New York Mets,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Luis Guillorme,New York Mets,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Luis Guillorme,New York Mets,Josiah Gray,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Luis Guillorme,New York Mets,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Luis Guillorme,New York Mets,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Luis Guillorme,New York Mets,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Luis Guillorme,New York Mets,Trevor Williams,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Luis Guillorme,New York Mets,Braxton Garrett,Miami Marlins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+32,Luis Guillorme,New York Mets,Edward Cabrera,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+33,Luis Guillorme,New York Mets,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Luis Guillorme,New York Mets,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Luis Guillorme,New York Mets,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Luis Guillorme,New York Mets,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Luis Guillorme,New York Mets,Anthony DeSclafani,San Francisco Giants,3,2,0,0,0,1,0,0,1,.667,.667,.667,1.334
+38,Luis Guillorme,New York Mets,Tristan Beck,San Francisco Giants,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+39,Luis Guillorme,New York Mets,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+40,Luis Guillorme,New York Mets,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Luis Guillorme,New York Mets,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Luis Guillorme,New York Mets,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+43,Luis Guillorme,New York Mets,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Luis Guillorme,New York Mets,Ross Stripling,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Luis Guillorme,New York Mets,Brent Suter,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+46,Luis Guillorme,New York Mets,Ryan Feltner,Colorado Rockies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+47,Luis Guillorme,New York Mets,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Luis Guillorme,New York Mets,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Luis Guillorme,New York Mets,Luis Severino,New York Yankees,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+50,Luis Guillorme,New York Mets,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Luis Guillorme,New York Mets,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Luis Guillorme,New York Mets,David Bednar,Pittsburgh Pirates,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+53,Luis Guillorme,New York Mets,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,1,1,1,.000,.500,.000,.500
+54,Luis Guillorme,New York Mets,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Luis Guillorme,New York Mets,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Luis Guillorme,New York Mets,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Luis Guillorme,New York Mets,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Luis Guillorme,New York Mets,Michael Kopech,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Luis Guillorme,New York Mets,Touki Toussaint,Chicago White Sox,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+60,Luis Guillorme,New York Mets,Freddy Peralta,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+61,Luis Guillorme,New York Mets,Bryse Wilson,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+62,Luis Guillorme,New York Mets,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Luis Guillorme,New York Mets,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Luis Guillorme,New York Mets,Devin Williams,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Luis Guillorme,New York Mets,Michael Lorenzen,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Luis Guillorme,New York Mets,Carlos Perez,Oakland Athletics,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+67,Luis Guillorme,New York Mets,Chad Smith,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+68,Luis Guillorme,New York Mets,Jeurys Familia,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Luis Guillorme,New York Mets,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+70,Luis Guillorme,New York Mets,Hogan Harris,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+71,Luis Guillorme,New York Mets,Dany Jimenez,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Luis Guillorme,New York Mets,James Kaprielian,Oakland Athletics,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+73,Luis Guillorme,New York Mets,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

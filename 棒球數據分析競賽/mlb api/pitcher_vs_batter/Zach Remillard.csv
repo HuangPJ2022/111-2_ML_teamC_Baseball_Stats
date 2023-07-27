@@ -1,0 +1,62 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Zach Remillard,Chicago White Sox,Spencer Strider,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+1,Zach Remillard,Chicago White Sox,Lucas Luetge,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Zach Remillard,Chicago White Sox,Charlie Morton,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Zach Remillard,Chicago White Sox,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Zach Remillard,Chicago White Sox,Grant Anderson,Texas Rangers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+5,Zach Remillard,Chicago White Sox,Nathan Eovaldi,Texas Rangers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+6,Zach Remillard,Chicago White Sox,Joe Barlow,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Zach Remillard,Chicago White Sox,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Zach Remillard,Chicago White Sox,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Zach Remillard,Chicago White Sox,Martin Perez,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Zach Remillard,Chicago White Sox,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Zach Remillard,Chicago White Sox,Tucker Davidson,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+12,Zach Remillard,Chicago White Sox,Carlos Estevez,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Zach Remillard,Chicago White Sox,Aaron Loup,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+14,Zach Remillard,Chicago White Sox,Patrick Sandoval,Los Angeles Angels,3,2,0,0,0,2,0,0,1,.667,.667,.667,1.334
+15,Zach Remillard,Chicago White Sox,Jaime Barria,Los Angeles Angels,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+16,Zach Remillard,Chicago White Sox,Chris Devenski,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+17,Zach Remillard,Chicago White Sox,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Zach Remillard,Chicago White Sox,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Zach Remillard,Chicago White Sox,Brennan Bernardino,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Zach Remillard,Chicago White Sox,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Zach Remillard,Chicago White Sox,Andre Pallante,St. Louis Cardinals,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+22,Zach Remillard,Chicago White Sox,Chris Stratton,St. Louis Cardinals,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+23,Zach Remillard,Chicago White Sox,Jordan Montgomery,St. Louis Cardinals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+24,Zach Remillard,Chicago White Sox,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Zach Remillard,Chicago White Sox,Steven Matz,St. Louis Cardinals,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+26,Zach Remillard,Chicago White Sox,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Zach Remillard,Chicago White Sox,JoJo Romero,St. Louis Cardinals,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Zach Remillard,Chicago White Sox,Yusei Kikuchi,Toronto Blue Jays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+29,Zach Remillard,Chicago White Sox,Chris Bassitt,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Zach Remillard,Chicago White Sox,Jose Berrios,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Zach Remillard,Chicago White Sox,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Zach Remillard,Chicago White Sox,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Zach Remillard,Chicago White Sox,Bailey Ober,Minnesota Twins,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+34,Zach Remillard,Chicago White Sox,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Zach Remillard,Chicago White Sox,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Zach Remillard,Chicago White Sox,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Zach Remillard,Chicago White Sox,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Zach Remillard,Chicago White Sox,Joe Ryan,Minnesota Twins,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+39,Zach Remillard,Chicago White Sox,Trevor Gott,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+40,Zach Remillard,Chicago White Sox,Jose Quintana,New York Mets,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+41,Zach Remillard,Chicago White Sox,Carlos Carrasco,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Zach Remillard,Chicago White Sox,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Zach Remillard,Chicago White Sox,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Zach Remillard,Chicago White Sox,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Zach Remillard,Chicago White Sox,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Zach Remillard,Chicago White Sox,Tayler Saucedo,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+47,Zach Remillard,Chicago White Sox,Paul Sewald,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+48,Zach Remillard,Chicago White Sox,Justin Topa,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+49,Zach Remillard,Chicago White Sox,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Zach Remillard,Chicago White Sox,Logan Gilbert,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+51,Zach Remillard,Chicago White Sox,Bryce Miller,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Zach Remillard,Chicago White Sox,Richard Lovelady,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+53,Zach Remillard,Chicago White Sox,Paul Blackburn,Oakland Athletics,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+54,Zach Remillard,Chicago White Sox,Rico Garcia,Oakland Athletics,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+55,Zach Remillard,Chicago White Sox,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Zach Remillard,Chicago White Sox,Shintaro Fujinami,Oakland Athletics,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+57,Zach Remillard,Chicago White Sox,Sam Long,Oakland Athletics,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+58,Zach Remillard,Chicago White Sox,Luis Medina,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+59,Zach Remillard,Chicago White Sox,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Zach Remillard,Chicago White Sox,Kyle Muller,Oakland Athletics,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000

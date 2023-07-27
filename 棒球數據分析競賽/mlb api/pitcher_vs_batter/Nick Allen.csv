@@ -1,0 +1,85 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Nick Allen,Oakland Athletics,Jared Shuster,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+1,Nick Allen,Oakland Athletics,Bryce Elder,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+2,Nick Allen,Oakland Athletics,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Nick Allen,Oakland Athletics,Cole Ragans,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+4,Nick Allen,Oakland Athletics,Josh Sborz,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+5,Nick Allen,Oakland Athletics,Andrew Heaney,Texas Rangers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+6,Nick Allen,Oakland Athletics,Martin Perez,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+7,Nick Allen,Oakland Athletics,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Nick Allen,Oakland Athletics,Nathan Eovaldi,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Nick Allen,Oakland Athletics,Jon Gray,Texas Rangers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Nick Allen,Oakland Athletics,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Nick Allen,Oakland Athletics,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Nick Allen,Oakland Athletics,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Nick Allen,Oakland Athletics,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Nick Allen,Oakland Athletics,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Nick Allen,Oakland Athletics,Jeffrey Springs,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Nick Allen,Oakland Athletics,Joe Jacques,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+17,Nick Allen,Oakland Athletics,Brayan Bello,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Nick Allen,Oakland Athletics,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Nick Allen,Oakland Athletics,Chris Murphy,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Nick Allen,Oakland Athletics,James Paxton,Boston Red Sox,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+21,Nick Allen,Oakland Athletics,Nick Pivetta,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+22,Nick Allen,Oakland Athletics,Joely Rodriguez,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Nick Allen,Oakland Athletics,Brandon Walter,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Nick Allen,Oakland Athletics,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Nick Allen,Oakland Athletics,Tommy Henry,Arizona Diamondbacks,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+26,Nick Allen,Oakland Athletics,Jose Ruiz,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+27,Nick Allen,Oakland Athletics,Merrill Kelly,Arizona Diamondbacks,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+28,Nick Allen,Oakland Athletics,Scott McGough,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+29,Nick Allen,Oakland Athletics,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Nick Allen,Oakland Athletics,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+31,Nick Allen,Oakland Athletics,Kyle Nelson,Arizona Diamondbacks,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Nick Allen,Oakland Athletics,Cole Irvin,Baltimore Orioles,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+33,Nick Allen,Oakland Athletics,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Nick Allen,Oakland Athletics,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Nick Allen,Oakland Athletics,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Nick Allen,Oakland Athletics,Framber Valdez,Houston Astros,6,3,0,0,0,0,1,0,0,.500,.571,.500,1.071
+37,Nick Allen,Oakland Athletics,Phil Maton,Houston Astros,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+38,Nick Allen,Oakland Athletics,Hunter Brown,Houston Astros,3,0,0,0,0,0,1,0,0,.000,.250,.000,.250
+39,Nick Allen,Oakland Athletics,Cristian Javier,Houston Astros,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Nick Allen,Oakland Athletics,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Nick Allen,Oakland Athletics,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Nick Allen,Oakland Athletics,Hector Neris,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Nick Allen,Oakland Athletics,Ryan Pressly,Houston Astros,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+44,Nick Allen,Oakland Athletics,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Nick Allen,Oakland Athletics,Kenta Maeda,Minnesota Twins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+46,Nick Allen,Oakland Athletics,Oliver Ortega,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+47,Nick Allen,Oakland Athletics,Pablo Lopez,Minnesota Twins,2,1,0,0,0,2,0,0,0,.500,.333,.500,.833
+48,Nick Allen,Oakland Athletics,Jordan Balazovic,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Nick Allen,Oakland Athletics,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Nick Allen,Oakland Athletics,Joe Ryan,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Nick Allen,Oakland Athletics,Sandy Alcantara,Miami Marlins,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+52,Nick Allen,Oakland Athletics,Eury Perez,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Nick Allen,Oakland Athletics,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Nick Allen,Oakland Athletics,George Soriano,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Nick Allen,Oakland Athletics,Nick Ramirez,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+56,Nick Allen,Oakland Athletics,Albert Abreu,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+57,Nick Allen,Oakland Athletics,Nestor Cortes,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Nick Allen,Oakland Athletics,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Nick Allen,Oakland Athletics,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Nick Allen,Oakland Athletics,Greg Weissert,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Nick Allen,Oakland Athletics,Penn Murfee,Seattle Mariners,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+62,Nick Allen,Oakland Athletics,Marco Gonzales,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+63,Nick Allen,Oakland Athletics,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Nick Allen,Oakland Athletics,Logan Gilbert,Seattle Mariners,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Nick Allen,Oakland Athletics,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Nick Allen,Oakland Athletics,George Kirby,Seattle Mariners,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+67,Nick Allen,Oakland Athletics,Bryce Miller,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Nick Allen,Oakland Athletics,Juan Then,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Nick Allen,Oakland Athletics,Justin Topa,Seattle Mariners,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Nick Allen,Oakland Athletics,Hunter Gaddis,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Nick Allen,Oakland Athletics,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Nick Allen,Oakland Athletics,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Nick Allen,Oakland Athletics,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Nick Allen,Oakland Athletics,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Nick Allen,Oakland Athletics,Jonathan Heasley,Kansas City Royals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+76,Nick Allen,Oakland Athletics,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Nick Allen,Oakland Athletics,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Nick Allen,Oakland Athletics,Brad Keller,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Nick Allen,Oakland Athletics,Ryan Yarbrough,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Nick Allen,Oakland Athletics,Zach Logue,Detroit Tigers,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+81,Nick Allen,Oakland Athletics,Reese Olson,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Nick Allen,Oakland Athletics,Eduardo Rodriguez,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+83,Nick Allen,Oakland Athletics,Tarik Skubal,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

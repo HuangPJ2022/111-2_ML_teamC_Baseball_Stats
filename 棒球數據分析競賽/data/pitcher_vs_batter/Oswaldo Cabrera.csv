@@ -1,0 +1,124 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Oswaldo Cabrera,New York Yankees,Dane Dunning,Texas Rangers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+1,Oswaldo Cabrera,New York Yankees,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Oswaldo Cabrera,New York Yankees,Nathan Eovaldi,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Oswaldo Cabrera,New York Yankees,Andrew Heaney,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Oswaldo Cabrera,New York Yankees,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Oswaldo Cabrera,New York Yankees,Martin Perez,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Oswaldo Cabrera,New York Yankees,Yerry Rodriguez,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+7,Oswaldo Cabrera,New York Yankees,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Oswaldo Cabrera,New York Yankees,Jacob deGrom,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Oswaldo Cabrera,New York Yankees,Victor Gonzalez,Los Angeles Dodgers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+10,Oswaldo Cabrera,New York Yankees,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+11,Oswaldo Cabrera,New York Yankees,Jimmy Herget,Los Angeles Angels,1,1,1,0,0,2,1,1,0,1.000,1.000,2.000,3.000
+12,Oswaldo Cabrera,New York Yankees,Griffin Canning,Los Angeles Angels,4,1,0,0,0,0,0,0,2,.250,.250,.250,.500
+13,Oswaldo Cabrera,New York Yankees,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Oswaldo Cabrera,New York Yankees,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Oswaldo Cabrera,New York Yankees,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Oswaldo Cabrera,New York Yankees,Matt Moore,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+17,Oswaldo Cabrera,New York Yankees,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Oswaldo Cabrera,New York Yankees,Chase Silseth,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Oswaldo Cabrera,New York Yankees,Jose Soriano,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+20,Oswaldo Cabrera,New York Yankees,Zach Eflin,Tampa Bay Rays,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+21,Oswaldo Cabrera,New York Yankees,Javy Guerra,Tampa Bay Rays,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+22,Oswaldo Cabrera,New York Yankees,Colin Poche,Tampa Bay Rays,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+23,Oswaldo Cabrera,New York Yankees,Kevin Kelly,Tampa Bay Rays,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+24,Oswaldo Cabrera,New York Yankees,Ryan Thompson,Tampa Bay Rays,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+25,Oswaldo Cabrera,New York Yankees,Josh Fleming,Tampa Bay Rays,4,1,0,0,0,1,0,0,0,.250,.200,.250,.450
+26,Oswaldo Cabrera,New York Yankees,Jason Adam,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Oswaldo Cabrera,New York Yankees,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Oswaldo Cabrera,New York Yankees,Brayan Bello,Boston Red Sox,5,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Oswaldo Cabrera,New York Yankees,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Oswaldo Cabrera,New York Yankees,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Oswaldo Cabrera,New York Yankees,James Naile,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+32,Oswaldo Cabrera,New York Yankees,Drew VerHagen,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Oswaldo Cabrera,New York Yankees,Jack Flaherty,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+34,Oswaldo Cabrera,New York Yankees,Giovanny Gallegos,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Oswaldo Cabrera,New York Yankees,Jordan Montgomery,St. Louis Cardinals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+36,Oswaldo Cabrera,New York Yankees,Ian Gibaut,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+37,Oswaldo Cabrera,New York Yankees,Silvino Bracho,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+38,Oswaldo Cabrera,New York Yankees,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Oswaldo Cabrera,New York Yankees,Ben Lively,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Oswaldo Cabrera,New York Yankees,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Oswaldo Cabrera,New York Yankees,Yusei Kikuchi,Toronto Blue Jays,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+42,Oswaldo Cabrera,New York Yankees,Alek Manoah,Toronto Blue Jays,2,1,1,0,0,0,2,0,0,.500,.750,1.000,1.750
+43,Oswaldo Cabrera,New York Yankees,Jose Berrios,Toronto Blue Jays,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+44,Oswaldo Cabrera,New York Yankees,Chris Bassitt,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+45,Oswaldo Cabrera,New York Yankees,Adam Cimber,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Oswaldo Cabrera,New York Yankees,Yimi Garcia,Toronto Blue Jays,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+47,Oswaldo Cabrera,New York Yankees,Kevin Gausman,Toronto Blue Jays,6,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Oswaldo Cabrera,New York Yankees,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Oswaldo Cabrera,New York Yankees,Nate Pearson,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Oswaldo Cabrera,New York Yankees,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Oswaldo Cabrera,New York Yankees,Erik Swanson,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Oswaldo Cabrera,New York Yankees,Eduard Bazardo,Baltimore Orioles,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+53,Oswaldo Cabrera,New York Yankees,Cionel Perez,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+54,Oswaldo Cabrera,New York Yankees,Kyle Bradish,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+55,Oswaldo Cabrera,New York Yankees,Logan Gillaspie,Baltimore Orioles,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+56,Oswaldo Cabrera,New York Yankees,Dean Kremer,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+57,Oswaldo Cabrera,New York Yankees,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Oswaldo Cabrera,New York Yankees,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Oswaldo Cabrera,New York Yankees,Danny Coulombe,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+60,Oswaldo Cabrera,New York Yankees,Kyle Gibson,Baltimore Orioles,5,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Oswaldo Cabrera,New York Yankees,Mychal Givens,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Oswaldo Cabrera,New York Yankees,Cole Irvin,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Oswaldo Cabrera,New York Yankees,Nick Vespi,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Oswaldo Cabrera,New York Yankees,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Oswaldo Cabrera,New York Yankees,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Oswaldo Cabrera,New York Yankees,Bruce Zimmermann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Oswaldo Cabrera,New York Yankees,Aaron Nola,Philadelphia Phillies,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+68,Oswaldo Cabrera,New York Yankees,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Oswaldo Cabrera,New York Yankees,Nick Martinez,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+70,Oswaldo Cabrera,New York Yankees,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Oswaldo Cabrera,New York Yankees,Kenta Maeda,Minnesota Twins,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+72,Oswaldo Cabrera,New York Yankees,Louie Varland,Minnesota Twins,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+73,Oswaldo Cabrera,New York Yankees,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Oswaldo Cabrera,New York Yankees,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Oswaldo Cabrera,New York Yankees,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Oswaldo Cabrera,New York Yankees,Brent Headrick,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Oswaldo Cabrera,New York Yankees,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Oswaldo Cabrera,New York Yankees,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Oswaldo Cabrera,New York Yankees,Tyler Mahle,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+80,Oswaldo Cabrera,New York Yankees,Jovani Moran,Minnesota Twins,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+81,Oswaldo Cabrera,New York Yankees,Joe Ryan,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Oswaldo Cabrera,New York Yankees,Scott Alexander,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+83,Oswaldo Cabrera,New York Yankees,Alex Cobb,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+84,Oswaldo Cabrera,New York Yankees,Ross Stripling,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+85,Oswaldo Cabrera,New York Yankees,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Oswaldo Cabrera,New York Yankees,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Oswaldo Cabrera,New York Yankees,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Oswaldo Cabrera,New York Yankees,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Oswaldo Cabrera,New York Yankees,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Oswaldo Cabrera,New York Yankees,Logan Webb,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+91,Oswaldo Cabrera,New York Yankees,David Robertson,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Oswaldo Cabrera,New York Yankees,Chase Anderson,Colorado Rockies,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+93,Oswaldo Cabrera,New York Yankees,Gavin Hollowell,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+94,Oswaldo Cabrera,New York Yankees,Jake Bird,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+95,Oswaldo Cabrera,New York Yankees,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Oswaldo Cabrera,New York Yankees,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Oswaldo Cabrera,New York Yankees,Chris Flexen,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Oswaldo Cabrera,New York Yankees,Bryce Miller,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Oswaldo Cabrera,New York Yankees,Juan Then,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Oswaldo Cabrera,New York Yankees,Hunter Gaddis,Cleveland Guardians,1,1,0,0,0,1,0,0,0,1.000,.500,1.000,1.500
+101,Oswaldo Cabrera,New York Yankees,Peyton Battenfield,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+102,Oswaldo Cabrera,New York Yankees,Tanner Bibee,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+103,Oswaldo Cabrera,New York Yankees,Emmanuel Clase,Cleveland Guardians,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+104,Oswaldo Cabrera,New York Yankees,Xzavion Curry,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Oswaldo Cabrera,New York Yankees,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Oswaldo Cabrera,New York Yankees,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Oswaldo Cabrera,New York Yankees,Cal Quantrill,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Oswaldo Cabrera,New York Yankees,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Oswaldo Cabrera,New York Yankees,Lance Lynn,Chicago White Sox,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+110,Oswaldo Cabrera,New York Yankees,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Oswaldo Cabrera,New York Yankees,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Oswaldo Cabrera,New York Yankees,Brady Singer,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Oswaldo Cabrera,New York Yankees,Sam Long,Oakland Athletics,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+114,Oswaldo Cabrera,New York Yankees,JP Sears,Oakland Athletics,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+115,Oswaldo Cabrera,New York Yankees,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Oswaldo Cabrera,New York Yankees,Rico Garcia,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+117,Oswaldo Cabrera,New York Yankees,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Oswaldo Cabrera,New York Yankees,Kyle Muller,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,Oswaldo Cabrera,New York Yankees,Spencer Patton,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Oswaldo Cabrera,New York Yankees,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Oswaldo Cabrera,New York Yankees,Drew Rucinski,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+122,Oswaldo Cabrera,New York Yankees,Ken Waldichuk,Oakland Athletics,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000

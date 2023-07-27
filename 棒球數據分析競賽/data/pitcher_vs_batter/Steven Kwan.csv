@@ -1,0 +1,209 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Steven Kwan,Cleveland Guardians,Ben Heller,Atlanta Braves,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+1,Steven Kwan,Cleveland Guardians,Michael Tonkin,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Steven Kwan,Cleveland Guardians,Kirby Yates,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+3,Steven Kwan,Cleveland Guardians,Bryce Elder,Atlanta Braves,4,3,1,0,0,0,0,0,0,.750,.750,1.000,1.750
+4,Steven Kwan,Cleveland Guardians,Kolby Allard,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+5,Steven Kwan,Cleveland Guardians,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Steven Kwan,Cleveland Guardians,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Steven Kwan,Cleveland Guardians,Michael Soroka,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Steven Kwan,Cleveland Guardians,Cody Bradford,Texas Rangers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+9,Steven Kwan,Cleveland Guardians,Brock Burke,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+10,Steven Kwan,Cleveland Guardians,Martin Perez,Texas Rangers,3,2,0,0,1,3,0,0,0,.667,.667,1.667,2.334
+11,Steven Kwan,Cleveland Guardians,Will Smith,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+12,Steven Kwan,Cleveland Guardians,Andrew Heaney,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+13,Steven Kwan,Cleveland Guardians,Jon Gray,Texas Rangers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+14,Steven Kwan,Cleveland Guardians,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Steven Kwan,Cleveland Guardians,Reid Detmers,Los Angeles Angels,2,2,1,0,0,0,1,0,0,1.000,1.000,1.500,2.500
+16,Steven Kwan,Cleveland Guardians,Andrew Wantz,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+17,Steven Kwan,Cleveland Guardians,Patrick Sandoval,Los Angeles Angels,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+18,Steven Kwan,Cleveland Guardians,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+19,Steven Kwan,Cleveland Guardians,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Steven Kwan,Cleveland Guardians,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Steven Kwan,Cleveland Guardians,Ryan Brasier,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Steven Kwan,Cleveland Guardians,Brayan Bello,Boston Red Sox,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+23,Steven Kwan,Cleveland Guardians,Kenley Jansen,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+24,Steven Kwan,Cleveland Guardians,Corey Kluber,Boston Red Sox,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+25,Steven Kwan,Cleveland Guardians,Nick Pivetta,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+26,Steven Kwan,Cleveland Guardians,Chris Sale,Boston Red Sox,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+27,Steven Kwan,Cleveland Guardians,Kutter Crawford,Boston Red Sox,4,1,0,0,0,0,0,0,2,.250,.250,.250,.500
+28,Steven Kwan,Cleveland Guardians,James Paxton,Boston Red Sox,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+29,Steven Kwan,Cleveland Guardians,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Steven Kwan,Cleveland Guardians,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Steven Kwan,Cleveland Guardians,Matt Dermody,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+32,Steven Kwan,Cleveland Guardians,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Steven Kwan,Cleveland Guardians,Chris Murphy,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+34,Steven Kwan,Cleveland Guardians,Jordan Montgomery,St. Louis Cardinals,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+35,Steven Kwan,Cleveland Guardians,Jack Flaherty,St. Louis Cardinals,3,1,0,0,0,0,1,0,0,.333,.500,.333,.833
+36,Steven Kwan,Cleveland Guardians,Matthew Liberatore,St. Louis Cardinals,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+37,Steven Kwan,Cleveland Guardians,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+38,Steven Kwan,Cleveland Guardians,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Steven Kwan,Cleveland Guardians,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Steven Kwan,Cleveland Guardians,Tommy Henry,Arizona Diamondbacks,3,3,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+41,Steven Kwan,Cleveland Guardians,Kyle Nelson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+42,Steven Kwan,Cleveland Guardians,Zach Davies,Arizona Diamondbacks,3,1,0,1,0,3,0,0,0,.333,.333,1.000,1.333
+43,Steven Kwan,Cleveland Guardians,Zac Gallen,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+44,Steven Kwan,Cleveland Guardians,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Steven Kwan,Cleveland Guardians,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Steven Kwan,Cleveland Guardians,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Steven Kwan,Cleveland Guardians,Josh Rojas,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Steven Kwan,Cleveland Guardians,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Steven Kwan,Cleveland Guardians,Mychal Givens,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+50,Steven Kwan,Cleveland Guardians,Cionel Perez,Baltimore Orioles,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+51,Steven Kwan,Cleveland Guardians,Keegan Akin,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+52,Steven Kwan,Cleveland Guardians,Austin Voth,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+53,Steven Kwan,Cleveland Guardians,Tyler Wells,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+54,Steven Kwan,Cleveland Guardians,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Steven Kwan,Cleveland Guardians,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Steven Kwan,Cleveland Guardians,Danny Coulombe,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Steven Kwan,Cleveland Guardians,Kyle Gibson,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Steven Kwan,Cleveland Guardians,Jeff Hoffman,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+59,Steven Kwan,Cleveland Guardians,Yunior Marte,Philadelphia Phillies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+60,Steven Kwan,Cleveland Guardians,Aaron Nola,Philadelphia Phillies,3,3,0,0,1,1,0,0,0,1.000,1.000,2.000,3.000
+61,Steven Kwan,Cleveland Guardians,Ranger Suarez,Philadelphia Phillies,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+62,Steven Kwan,Cleveland Guardians,Gregory Soto,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Steven Kwan,Cleveland Guardians,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Steven Kwan,Cleveland Guardians,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Steven Kwan,Cleveland Guardians,Marcus Stroman,Chicago Cubs,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+66,Steven Kwan,Cleveland Guardians,Javier Assad,Chicago Cubs,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+67,Steven Kwan,Cleveland Guardians,Joe Musgrove,San Diego Padres,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+68,Steven Kwan,Cleveland Guardians,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Steven Kwan,Cleveland Guardians,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Steven Kwan,Cleveland Guardians,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Steven Kwan,Cleveland Guardians,Michael Wacha,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Steven Kwan,Cleveland Guardians,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Steven Kwan,Cleveland Guardians,Seth Martinez,Houston Astros,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+74,Steven Kwan,Cleveland Guardians,Ryan Pressly,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+75,Steven Kwan,Cleveland Guardians,Brandon Bielak,Houston Astros,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+76,Steven Kwan,Cleveland Guardians,Cristian Javier,Houston Astros,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+77,Steven Kwan,Cleveland Guardians,J.P. France,Houston Astros,2,0,0,0,0,0,2,0,0,.000,.500,.000,.500
+78,Steven Kwan,Cleveland Guardians,Matt Gage,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+79,Steven Kwan,Cleveland Guardians,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Steven Kwan,Cleveland Guardians,Jorge Alcala,Minnesota Twins,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+81,Steven Kwan,Cleveland Guardians,Jorge Lopez,Minnesota Twins,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+82,Steven Kwan,Cleveland Guardians,Brock Stewart,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+83,Steven Kwan,Cleveland Guardians,Pablo Lopez,Minnesota Twins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+84,Steven Kwan,Cleveland Guardians,Joe Ryan,Minnesota Twins,6,2,0,0,0,0,0,0,0,.333,.333,.333,.666
+85,Steven Kwan,Cleveland Guardians,Sonny Gray,Minnesota Twins,7,1,0,0,0,0,0,0,1,.143,.143,.143,.286
+86,Steven Kwan,Cleveland Guardians,Jhoan Duran,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+87,Steven Kwan,Cleveland Guardians,Griffin Jax,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+88,Steven Kwan,Cleveland Guardians,Bailey Ober,Minnesota Twins,6,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Steven Kwan,Cleveland Guardians,Emilio Pagan,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Steven Kwan,Cleveland Guardians,Hobie Harris,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+91,Steven Kwan,Cleveland Guardians,Patrick Corbin,Washington Nationals,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+92,Steven Kwan,Cleveland Guardians,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Steven Kwan,Cleveland Guardians,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Steven Kwan,Cleveland Guardians,Hunter Harvey,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+95,Steven Kwan,Cleveland Guardians,Chad Kuhl,Washington Nationals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+96,Steven Kwan,Cleveland Guardians,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Steven Kwan,Cleveland Guardians,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Steven Kwan,Cleveland Guardians,Trevor Williams,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Steven Kwan,Cleveland Guardians,Tanner Scott,Miami Marlins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+100,Steven Kwan,Cleveland Guardians,George Soriano,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+101,Steven Kwan,Cleveland Guardians,Braxton Garrett,Miami Marlins,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+102,Steven Kwan,Cleveland Guardians,Jesus Luzardo,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Steven Kwan,Cleveland Guardians,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Steven Kwan,Cleveland Guardians,Steven Okert,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+105,Steven Kwan,Cleveland Guardians,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Steven Kwan,Cleveland Guardians,Devin Smeltzer,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Steven Kwan,Cleveland Guardians,Adam Ottavino,New York Mets,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+108,Steven Kwan,Cleveland Guardians,Max Scherzer,New York Mets,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+109,Steven Kwan,Cleveland Guardians,Carlos Carrasco,New York Mets,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Steven Kwan,Cleveland Guardians,Dominic Leone,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+111,Steven Kwan,Cleveland Guardians,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Steven Kwan,Cleveland Guardians,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Steven Kwan,Cleveland Guardians,Justin Verlander,New York Mets,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Steven Kwan,Cleveland Guardians,Austin Gomber,Colorado Rockies,3,3,1,0,0,0,0,0,0,1.000,1.000,1.333,2.333
+115,Steven Kwan,Cleveland Guardians,Ryan Feltner,Colorado Rockies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+116,Steven Kwan,Cleveland Guardians,Daniel Bard,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+117,Steven Kwan,Cleveland Guardians,Jake Bird,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+118,Steven Kwan,Cleveland Guardians,Pierce Johnson,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Steven Kwan,Cleveland Guardians,German Marquez,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Steven Kwan,Cleveland Guardians,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Steven Kwan,Cleveland Guardians,Clarke Schmidt,New York Yankees,5,3,0,0,0,0,0,0,0,.600,.600,.600,1.200
+122,Steven Kwan,Cleveland Guardians,Gerrit Cole,New York Yankees,5,1,0,0,0,0,1,0,0,.200,.333,.200,.533
+123,Steven Kwan,Cleveland Guardians,Domingo German,New York Yankees,5,1,0,0,0,0,1,0,1,.200,.333,.200,.533
+124,Steven Kwan,Cleveland Guardians,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Steven Kwan,Cleveland Guardians,Colten Brewer,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Steven Kwan,Cleveland Guardians,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Steven Kwan,Cleveland Guardians,Ian Hamilton,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+128,Steven Kwan,Cleveland Guardians,Clay Holmes,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+129,Steven Kwan,Cleveland Guardians,Michael King,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Steven Kwan,Cleveland Guardians,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+131,Steven Kwan,Cleveland Guardians,George Kirby,Seattle Mariners,3,2,0,1,0,0,0,0,0,.667,.667,1.333,2.000
+132,Steven Kwan,Cleveland Guardians,Matt Brash,Seattle Mariners,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+133,Steven Kwan,Cleveland Guardians,Trevor Gott,Seattle Mariners,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+134,Steven Kwan,Cleveland Guardians,Robbie Ray,Seattle Mariners,2,1,1,0,0,3,0,0,1,.500,.333,1.000,1.333
+135,Steven Kwan,Cleveland Guardians,Marco Gonzales,Seattle Mariners,5,1,0,0,0,0,1,0,0,.200,.333,.200,.533
+136,Steven Kwan,Cleveland Guardians,Logan Gilbert,Seattle Mariners,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+137,Steven Kwan,Cleveland Guardians,J.B. Bukauskas,Seattle Mariners,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+138,Steven Kwan,Cleveland Guardians,Luis Castillo,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Steven Kwan,Cleveland Guardians,Matt Festa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Steven Kwan,Cleveland Guardians,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+141,Steven Kwan,Cleveland Guardians,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Steven Kwan,Cleveland Guardians,Paul Sewald,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Steven Kwan,Cleveland Guardians,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Steven Kwan,Cleveland Guardians,Justin Topa,Seattle Mariners,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+145,Steven Kwan,Cleveland Guardians,Dauri Moreta,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+146,Steven Kwan,Cleveland Guardians,Mitch Keller,Pittsburgh Pirates,4,2,2,0,0,0,0,0,0,.500,.500,1.000,1.500
+147,Steven Kwan,Cleveland Guardians,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Steven Kwan,Cleveland Guardians,Ryan Borucki,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Steven Kwan,Cleveland Guardians,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+150,Steven Kwan,Cleveland Guardians,Quinn Priester,Pittsburgh Pirates,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+151,Steven Kwan,Cleveland Guardians,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+152,Steven Kwan,Cleveland Guardians,Jesse Scholtens,Chicago White Sox,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+153,Steven Kwan,Cleveland Guardians,Mike Clevinger,Chicago White Sox,2,1,1,0,0,0,2,0,0,.500,.750,1.000,1.750
+154,Steven Kwan,Cleveland Guardians,Lance Lynn,Chicago White Sox,3,1,1,0,0,2,0,0,0,.333,.250,.667,.917
+155,Steven Kwan,Cleveland Guardians,Dylan Cease,Chicago White Sox,6,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Steven Kwan,Cleveland Guardians,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Steven Kwan,Cleveland Guardians,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Steven Kwan,Cleveland Guardians,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+159,Steven Kwan,Cleveland Guardians,Jimmy Lambert,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Steven Kwan,Cleveland Guardians,Gregory Santos,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+161,Steven Kwan,Cleveland Guardians,Adrian Houser,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+162,Steven Kwan,Cleveland Guardians,Freddy Peralta,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+163,Steven Kwan,Cleveland Guardians,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+164,Steven Kwan,Cleveland Guardians,Wade Miley,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+165,Steven Kwan,Cleveland Guardians,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Steven Kwan,Cleveland Guardians,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Steven Kwan,Cleveland Guardians,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Steven Kwan,Cleveland Guardians,Matt Duffy,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+169,Steven Kwan,Cleveland Guardians,James McArthur,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+170,Steven Kwan,Cleveland Guardians,Scott Barlow,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+171,Steven Kwan,Cleveland Guardians,Brady Singer,Kansas City Royals,6,2,0,0,0,1,1,0,0,.333,.429,.333,.762
+172,Steven Kwan,Cleveland Guardians,Zack Greinke,Kansas City Royals,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+173,Steven Kwan,Cleveland Guardians,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+174,Steven Kwan,Cleveland Guardians,Taylor Clarke,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+175,Steven Kwan,Cleveland Guardians,Austin Cox,Kansas City Royals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+176,Steven Kwan,Cleveland Guardians,Carlos Hernandez,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+177,Steven Kwan,Cleveland Guardians,Jordan Lyles,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+178,Steven Kwan,Cleveland Guardians,Daniel Lynch IV,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Steven Kwan,Cleveland Guardians,Collin Snider,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Steven Kwan,Cleveland Guardians,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+181,Steven Kwan,Cleveland Guardians,Ryan Yarbrough,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+182,Steven Kwan,Cleveland Guardians,Mason Englert,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+183,Steven Kwan,Cleveland Guardians,Joey Wentz,Detroit Tigers,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+184,Steven Kwan,Cleveland Guardians,Michael Lorenzen,Detroit Tigers,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+185,Steven Kwan,Cleveland Guardians,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+186,Steven Kwan,Cleveland Guardians,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+187,Steven Kwan,Cleveland Guardians,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+188,Steven Kwan,Cleveland Guardians,Jason Foley,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+189,Steven Kwan,Cleveland Guardians,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+190,Steven Kwan,Cleveland Guardians,Eduardo Rodriguez,Detroit Tigers,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+191,Steven Kwan,Cleveland Guardians,Spencer Turnbull,Detroit Tigers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+192,Steven Kwan,Cleveland Guardians,Zach Jackson,Oakland Athletics,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+193,Steven Kwan,Cleveland Guardians,Austin Pruitt,Oakland Athletics,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+194,Steven Kwan,Cleveland Guardians,Yacksel Rios,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+195,Steven Kwan,Cleveland Guardians,Ken Waldichuk,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+196,Steven Kwan,Cleveland Guardians,Paul Blackburn,Oakland Athletics,2,1,0,0,0,0,0,0,1,.500,.667,.500,1.167
+197,Steven Kwan,Cleveland Guardians,Kyle Muller,Oakland Athletics,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+198,Steven Kwan,Cleveland Guardians,JP Sears,Oakland Athletics,5,2,0,0,0,0,1,0,0,.400,.500,.400,.900
+199,Steven Kwan,Cleveland Guardians,Domingo Acevedo,Oakland Athletics,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+200,Steven Kwan,Cleveland Guardians,James Kaprielian,Oakland Athletics,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+201,Steven Kwan,Cleveland Guardians,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+202,Steven Kwan,Cleveland Guardians,Jeurys Familia,Oakland Athletics,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+203,Steven Kwan,Cleveland Guardians,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+204,Steven Kwan,Cleveland Guardians,Dany Jimenez,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+205,Steven Kwan,Cleveland Guardians,Adrian Martinez,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+206,Steven Kwan,Cleveland Guardians,Luis Medina,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+207,Steven Kwan,Cleveland Guardians,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

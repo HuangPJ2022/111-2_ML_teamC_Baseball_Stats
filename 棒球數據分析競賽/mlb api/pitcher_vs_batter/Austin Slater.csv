@@ -1,0 +1,61 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Austin Slater,San Francisco Giants,Victor Gonzalez,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Austin Slater,San Francisco Giants,Nick Robertson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Austin Slater,San Francisco Giants,Alex Vesia,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+3,Austin Slater,San Francisco Giants,Steven Matz,St. Louis Cardinals,2,2,1,0,0,1,1,0,0,1.000,1.000,1.500,2.500
+4,Austin Slater,San Francisco Giants,Matthew Liberatore,St. Louis Cardinals,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+5,Austin Slater,San Francisco Giants,Jordan Montgomery,St. Louis Cardinals,6,3,0,0,0,0,0,0,2,.500,.500,.500,1.000
+6,Austin Slater,San Francisco Giants,Chris Stratton,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+7,Austin Slater,San Francisco Giants,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Austin Slater,San Francisco Giants,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Austin Slater,San Francisco Giants,Drey Jameson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+10,Austin Slater,San Francisco Giants,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Austin Slater,San Francisco Giants,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Austin Slater,San Francisco Giants,Scott McGough,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+13,Austin Slater,San Francisco Giants,Brandon Williamson,Cincinnati Reds,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+14,Austin Slater,San Francisco Giants,Andrew Abbott,Cincinnati Reds,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Austin Slater,San Francisco Giants,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Austin Slater,San Francisco Giants,Bowden Francis,Toronto Blue Jays,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+17,Austin Slater,San Francisco Giants,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Austin Slater,San Francisco Giants,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Austin Slater,San Francisco Giants,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Austin Slater,San Francisco Giants,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Austin Slater,San Francisco Giants,Cionel Perez,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+22,Austin Slater,San Francisco Giants,Tyler Wells,Baltimore Orioles,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+23,Austin Slater,San Francisco Giants,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Austin Slater,San Francisco Giants,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Austin Slater,San Francisco Giants,Bruce Zimmermann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Austin Slater,San Francisco Giants,Brent Honeywell,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+27,Austin Slater,San Francisco Giants,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Austin Slater,San Francisco Giants,Tim Hill,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+29,Austin Slater,San Francisco Giants,Ray Kerr,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Austin Slater,San Francisco Giants,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Austin Slater,San Francisco Giants,Blake Snell,San Diego Padres,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+32,Austin Slater,San Francisco Giants,Framber Valdez,Houston Astros,3,2,0,0,0,1,0,0,1,.667,.667,.667,1.334
+33,Austin Slater,San Francisco Giants,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Austin Slater,San Francisco Giants,Patrick Corbin,Washington Nationals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+35,Austin Slater,San Francisco Giants,MacKenzie Gore,Washington Nationals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+36,Austin Slater,San Francisco Giants,Jose A. Ferrer,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Austin Slater,San Francisco Giants,Josiah Gray,Washington Nationals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+38,Austin Slater,San Francisco Giants,Amos Willingham,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Austin Slater,San Francisco Giants,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Austin Slater,San Francisco Giants,David Peterson,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+41,Austin Slater,San Francisco Giants,Justin Verlander,New York Mets,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+42,Austin Slater,San Francisco Giants,Justin Lawrence,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+43,Austin Slater,San Francisco Giants,Brent Suter,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+44,Austin Slater,San Francisco Giants,Chase Anderson,Colorado Rockies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+45,Austin Slater,San Francisco Giants,Kyle Freeland,Colorado Rockies,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+46,Austin Slater,San Francisco Giants,Brad Hand,Colorado Rockies,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+47,Austin Slater,San Francisco Giants,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Austin Slater,San Francisco Giants,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Austin Slater,San Francisco Giants,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+50,Austin Slater,San Francisco Giants,Matt Koch,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Austin Slater,San Francisco Giants,Tommy Milone,Seattle Mariners,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+52,Austin Slater,San Francisco Giants,Cody Bolton,Pittsburgh Pirates,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+53,Austin Slater,San Francisco Giants,Chris Owings,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+54,Austin Slater,San Francisco Giants,Rich Hill,Pittsburgh Pirates,8,2,1,0,1,2,0,0,1,.250,.250,.750,1.000
+55,Austin Slater,San Francisco Giants,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Austin Slater,San Francisco Giants,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Austin Slater,San Francisco Giants,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Austin Slater,San Francisco Giants,Adrian Houser,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+59,Austin Slater,San Francisco Giants,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

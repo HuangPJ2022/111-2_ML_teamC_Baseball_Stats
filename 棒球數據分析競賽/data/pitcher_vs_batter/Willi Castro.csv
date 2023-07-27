@@ -1,0 +1,145 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Willi Castro,Minnesota Twins,A.J. Minter,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Willi Castro,Minnesota Twins,Kolby Allard,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Willi Castro,Minnesota Twins,Ben Heller,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Willi Castro,Minnesota Twins,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Willi Castro,Minnesota Twins,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Willi Castro,Minnesota Twins,Caleb Ferguson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+6,Willi Castro,Minnesota Twins,Clayton Kershaw,Los Angeles Dodgers,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+7,Willi Castro,Minnesota Twins,Phil Bickford,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+8,Willi Castro,Minnesota Twins,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Willi Castro,Minnesota Twins,Justin Bruihl,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Willi Castro,Minnesota Twins,Dylan Covey,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Willi Castro,Minnesota Twins,Shelby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Willi Castro,Minnesota Twins,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Willi Castro,Minnesota Twins,Tucker Davidson,Los Angeles Angels,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+14,Willi Castro,Minnesota Twins,Carlos Estevez,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+15,Willi Castro,Minnesota Twins,Jimmy Herget,Los Angeles Angels,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+16,Willi Castro,Minnesota Twins,Reyes Moronta,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+17,Willi Castro,Minnesota Twins,Shohei Ohtani,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+18,Willi Castro,Minnesota Twins,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+19,Willi Castro,Minnesota Twins,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Willi Castro,Minnesota Twins,Patrick Sandoval,Los Angeles Angels,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+21,Willi Castro,Minnesota Twins,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Willi Castro,Minnesota Twins,Zack Weiss,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Willi Castro,Minnesota Twins,Yonny Chirinos,Tampa Bay Rays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+24,Willi Castro,Minnesota Twins,Zach Eflin,Tampa Bay Rays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+25,Willi Castro,Minnesota Twins,Jason Adam,Tampa Bay Rays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+26,Willi Castro,Minnesota Twins,Cooper Criswell,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Willi Castro,Minnesota Twins,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Willi Castro,Minnesota Twins,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Willi Castro,Minnesota Twins,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Willi Castro,Minnesota Twins,Josh Winckowski,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+31,Willi Castro,Minnesota Twins,Tanner Houck,Boston Red Sox,3,2,1,0,1,2,0,0,1,.667,.667,2.000,2.667
+32,Willi Castro,Minnesota Twins,James Paxton,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+33,Willi Castro,Minnesota Twins,Chris Sale,Boston Red Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+34,Willi Castro,Minnesota Twins,Brandon Walter,Boston Red Sox,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+35,Willi Castro,Minnesota Twins,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Willi Castro,Minnesota Twins,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Willi Castro,Minnesota Twins,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Willi Castro,Minnesota Twins,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Willi Castro,Minnesota Twins,Corey Kluber,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Willi Castro,Minnesota Twins,Garrett Whitlock,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Willi Castro,Minnesota Twins,Adam Cimber,Toronto Blue Jays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+42,Willi Castro,Minnesota Twins,Chris Bassitt,Toronto Blue Jays,2,1,0,0,1,2,0,0,0,.500,.667,2.000,2.667
+43,Willi Castro,Minnesota Twins,Jose Berrios,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+44,Willi Castro,Minnesota Twins,Jordan Romano,Toronto Blue Jays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+45,Willi Castro,Minnesota Twins,Bowden Francis,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Willi Castro,Minnesota Twins,Yimi Garcia,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+47,Willi Castro,Minnesota Twins,Yusei Kikuchi,Toronto Blue Jays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Willi Castro,Minnesota Twins,Tim Mayza,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Willi Castro,Minnesota Twins,Trevor Richards,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+50,Willi Castro,Minnesota Twins,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Willi Castro,Minnesota Twins,Mike Baumann,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+52,Willi Castro,Minnesota Twins,Cole Irvin,Baltimore Orioles,4,1,1,0,0,1,1,0,0,.250,.400,.500,.900
+53,Willi Castro,Minnesota Twins,Felix Bautista,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+54,Willi Castro,Minnesota Twins,Danny Coulombe,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Willi Castro,Minnesota Twins,Kyle Gibson,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Willi Castro,Minnesota Twins,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Willi Castro,Minnesota Twins,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Willi Castro,Minnesota Twins,Nick Vespi,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Willi Castro,Minnesota Twins,Bruce Zimmermann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Willi Castro,Minnesota Twins,Hayden Wesneski,Chicago Cubs,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+61,Willi Castro,Minnesota Twins,Drew Smyly,Chicago Cubs,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+62,Willi Castro,Minnesota Twins,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Willi Castro,Minnesota Twins,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Willi Castro,Minnesota Twins,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Willi Castro,Minnesota Twins,Luis Garcia,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Willi Castro,Minnesota Twins,Parker Mushinski,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+67,Willi Castro,Minnesota Twins,Hector Neris,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+68,Willi Castro,Minnesota Twins,Hunter Brown,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+69,Willi Castro,Minnesota Twins,J.P. France,Houston Astros,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+70,Willi Castro,Minnesota Twins,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Willi Castro,Minnesota Twins,Seth Martinez,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+72,Willi Castro,Minnesota Twins,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Willi Castro,Minnesota Twins,Anthony Banda,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Willi Castro,Minnesota Twins,Patrick Corbin,Washington Nationals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+75,Willi Castro,Minnesota Twins,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Willi Castro,Minnesota Twins,Jesus Luzardo,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Willi Castro,Minnesota Twins,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Willi Castro,Minnesota Twins,Jacob Stallings,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Willi Castro,Minnesota Twins,Taylor Rogers,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+80,Willi Castro,Minnesota Twins,Anthony DeSclafani,San Francisco Giants,2,1,1,0,0,0,0,0,0,.500,.667,1.000,1.667
+81,Willi Castro,Minnesota Twins,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Willi Castro,Minnesota Twins,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Willi Castro,Minnesota Twins,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Willi Castro,Minnesota Twins,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+85,Willi Castro,Minnesota Twins,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Willi Castro,Minnesota Twins,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Willi Castro,Minnesota Twins,Nestor Cortes,New York Yankees,3,0,0,0,0,0,1,0,1,.000,.400,.000,.400
+88,Willi Castro,Minnesota Twins,Domingo German,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+89,Willi Castro,Minnesota Twins,Ian Hamilton,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+90,Willi Castro,Minnesota Twins,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Willi Castro,Minnesota Twins,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Willi Castro,Minnesota Twins,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Willi Castro,Minnesota Twins,Andres Munoz,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+94,Willi Castro,Minnesota Twins,Tayler Saucedo,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+95,Willi Castro,Minnesota Twins,Bryan Woo,Seattle Mariners,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+96,Willi Castro,Minnesota Twins,Luis Castillo,Seattle Mariners,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+97,Willi Castro,Minnesota Twins,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Willi Castro,Minnesota Twins,Isaiah Campbell,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Willi Castro,Minnesota Twins,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+100,Willi Castro,Minnesota Twins,Devin Sweet,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Willi Castro,Minnesota Twins,Enyel De Los Santos,Cleveland Guardians,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+102,Willi Castro,Minnesota Twins,Trevor Stephan,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+103,Willi Castro,Minnesota Twins,Logan Allen,Cleveland Guardians,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+104,Willi Castro,Minnesota Twins,Aaron Civale,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Willi Castro,Minnesota Twins,Emmanuel Clase,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+106,Willi Castro,Minnesota Twins,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Willi Castro,Minnesota Twins,Triston McKenzie,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+108,Willi Castro,Minnesota Twins,Eli Morgan,Cleveland Guardians,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+109,Willi Castro,Minnesota Twins,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Willi Castro,Minnesota Twins,Aaron Bummer,Chicago White Sox,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+111,Willi Castro,Minnesota Twins,Lucas Giolito,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+112,Willi Castro,Minnesota Twins,Kendall Graveman,Chicago White Sox,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+113,Willi Castro,Minnesota Twins,Dylan Cease,Chicago White Sox,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+114,Willi Castro,Minnesota Twins,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Willi Castro,Minnesota Twins,Austin Cox,Kansas City Royals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+116,Willi Castro,Minnesota Twins,Brady Singer,Kansas City Royals,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+117,Willi Castro,Minnesota Twins,Taylor Clarke,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Willi Castro,Minnesota Twins,Dylan Coleman,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Willi Castro,Minnesota Twins,Jose Cuas,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+120,Willi Castro,Minnesota Twins,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Willi Castro,Minnesota Twins,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Willi Castro,Minnesota Twins,Alec Marsh,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+123,Willi Castro,Minnesota Twins,Nick Wittgren,Kansas City Royals,1,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+124,Willi Castro,Minnesota Twins,Matthew Boyd,Detroit Tigers,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+125,Willi Castro,Minnesota Twins,Alex Lange,Detroit Tigers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+126,Willi Castro,Minnesota Twins,Michael Lorenzen,Detroit Tigers,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+127,Willi Castro,Minnesota Twins,Brendan White,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+128,Willi Castro,Minnesota Twins,Jason Foley,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+129,Willi Castro,Minnesota Twins,Joey Wentz,Detroit Tigers,3,1,0,0,0,0,2,0,1,.333,.600,.333,.933
+130,Willi Castro,Minnesota Twins,Tyler Alexander,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+131,Willi Castro,Minnesota Twins,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Willi Castro,Minnesota Twins,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Willi Castro,Minnesota Twins,Chasen Shreve,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Willi Castro,Minnesota Twins,Will Vest,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Willi Castro,Minnesota Twins,Trevor May,Oakland Athletics,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+136,Willi Castro,Minnesota Twins,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Willi Castro,Minnesota Twins,Angel Felipe,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+138,Willi Castro,Minnesota Twins,Shintaro Fujinami,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Willi Castro,Minnesota Twins,Hogan Harris,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+140,Willi Castro,Minnesota Twins,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Willi Castro,Minnesota Twins,JP Sears,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Willi Castro,Minnesota Twins,Freddy Tarnok,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Willi Castro,Minnesota Twins,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000

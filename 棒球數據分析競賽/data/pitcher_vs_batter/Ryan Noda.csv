@@ -1,0 +1,175 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Ryan Noda,Oakland Athletics,Michael Soroka,Atlanta Braves,2,1,0,0,1,3,0,0,1,.500,.667,2.000,2.667
+1,Ryan Noda,Oakland Athletics,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Ryan Noda,Oakland Athletics,Bryce Elder,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Ryan Noda,Oakland Athletics,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Ryan Noda,Oakland Athletics,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Ryan Noda,Oakland Athletics,Jared Shuster,Atlanta Braves,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+6,Ryan Noda,Oakland Athletics,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Ryan Noda,Oakland Athletics,Nathan Eovaldi,Texas Rangers,3,0,0,0,0,0,1,0,3,.000,.250,.000,.250
+8,Ryan Noda,Oakland Athletics,Jon Gray,Texas Rangers,4,0,0,0,0,0,2,0,2,.000,.333,.000,.333
+9,Ryan Noda,Oakland Athletics,Jonathan Hernandez,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Ryan Noda,Oakland Athletics,John King,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Ryan Noda,Oakland Athletics,Jacob deGrom,Texas Rangers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+12,Ryan Noda,Oakland Athletics,Jaime Barria,Los Angeles Angels,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+13,Ryan Noda,Oakland Athletics,Matt Moore,Los Angeles Angels,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+14,Ryan Noda,Oakland Athletics,Shohei Ohtani,Los Angeles Angels,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+15,Ryan Noda,Oakland Athletics,Griffin Canning,Los Angeles Angels,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+16,Ryan Noda,Oakland Athletics,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Ryan Noda,Oakland Athletics,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Ryan Noda,Oakland Athletics,Andrew Wantz,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+19,Ryan Noda,Oakland Athletics,Jalen Beeks,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Ryan Noda,Oakland Athletics,Taj Bradley,Tampa Bay Rays,2,1,0,0,0,1,1,0,1,.500,.667,.500,1.167
+21,Ryan Noda,Oakland Athletics,Yonny Chirinos,Tampa Bay Rays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+22,Ryan Noda,Oakland Athletics,Zach Eflin,Tampa Bay Rays,6,2,0,0,1,2,0,0,0,.333,.333,.833,1.166
+23,Ryan Noda,Oakland Athletics,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Ryan Noda,Oakland Athletics,Jake Diekman,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+25,Ryan Noda,Oakland Athletics,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Ryan Noda,Oakland Athletics,Tyler Glasnow,Tampa Bay Rays,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+27,Ryan Noda,Oakland Athletics,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Ryan Noda,Oakland Athletics,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Ryan Noda,Oakland Athletics,Drew Rasmussen,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+30,Ryan Noda,Oakland Athletics,Robert Stephenson,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Ryan Noda,Oakland Athletics,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Ryan Noda,Oakland Athletics,Joe Jacques,Boston Red Sox,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+33,Ryan Noda,Oakland Athletics,Tayler Scott,Boston Red Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+34,Ryan Noda,Oakland Athletics,Brennan Bernardino,Boston Red Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+35,Ryan Noda,Oakland Athletics,Chris Murphy,Boston Red Sox,3,1,1,0,0,1,1,0,1,.333,.500,.667,1.167
+36,Ryan Noda,Oakland Athletics,James Paxton,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+37,Ryan Noda,Oakland Athletics,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Ryan Noda,Oakland Athletics,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Ryan Noda,Oakland Athletics,Nick Pivetta,Boston Red Sox,4,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+40,Ryan Noda,Oakland Athletics,Brandon Walter,Boston Red Sox,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+41,Ryan Noda,Oakland Athletics,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Ryan Noda,Oakland Athletics,Kyle Nelson,Arizona Diamondbacks,2,1,0,0,1,4,0,0,0,.500,.500,2.000,2.500
+43,Ryan Noda,Oakland Athletics,Miguel Castro,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+44,Ryan Noda,Oakland Athletics,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Ryan Noda,Oakland Athletics,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Ryan Noda,Oakland Athletics,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Ryan Noda,Oakland Athletics,Scott McGough,Arizona Diamondbacks,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+48,Ryan Noda,Oakland Athletics,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+49,Ryan Noda,Oakland Athletics,Luis Cessa,Cincinnati Reds,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+50,Ryan Noda,Oakland Athletics,Derek Law,Cincinnati Reds,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+51,Ryan Noda,Oakland Athletics,Fernando Cruz,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+52,Ryan Noda,Oakland Athletics,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Ryan Noda,Oakland Athletics,Hunter Greene,Cincinnati Reds,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+54,Ryan Noda,Oakland Athletics,Lucas Sims,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+55,Ryan Noda,Oakland Athletics,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Ryan Noda,Oakland Athletics,Jose Berrios,Toronto Blue Jays,2,1,1,0,0,1,1,0,1,.500,.667,1.000,1.667
+57,Ryan Noda,Oakland Athletics,Chris Bassitt,Toronto Blue Jays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+58,Ryan Noda,Oakland Athletics,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Ryan Noda,Oakland Athletics,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Ryan Noda,Oakland Athletics,Cionel Perez,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+61,Ryan Noda,Oakland Athletics,Grayson Rodriguez,Baltimore Orioles,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+62,Ryan Noda,Oakland Athletics,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Ryan Noda,Oakland Athletics,Bryan Baker,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+64,Ryan Noda,Oakland Athletics,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Ryan Noda,Oakland Athletics,Kyle Gibson,Baltimore Orioles,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+66,Ryan Noda,Oakland Athletics,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+67,Ryan Noda,Oakland Athletics,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Ryan Noda,Oakland Athletics,Jose Alvarado,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+69,Ryan Noda,Oakland Athletics,Zack Wheeler,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+70,Ryan Noda,Oakland Athletics,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Ryan Noda,Oakland Athletics,Cristopher Sanchez,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+72,Ryan Noda,Oakland Athletics,Matt Strahm,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Ryan Noda,Oakland Athletics,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Ryan Noda,Oakland Athletics,Taijuan Walker,Philadelphia Phillies,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+75,Ryan Noda,Oakland Athletics,Marcus Stroman,Chicago Cubs,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+76,Ryan Noda,Oakland Athletics,Hayden Wesneski,Chicago Cubs,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+77,Ryan Noda,Oakland Athletics,Michael Fulmer,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+78,Ryan Noda,Oakland Athletics,Cristian Javier,Houston Astros,2,2,1,0,1,1,1,0,0,1.000,1.000,3.000,4.000
+79,Ryan Noda,Oakland Athletics,Hector Neris,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+80,Ryan Noda,Oakland Athletics,Brandon Bielak,Houston Astros,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+81,Ryan Noda,Oakland Athletics,Hunter Brown,Houston Astros,5,1,1,0,0,1,0,0,3,.200,.167,.400,.567
+82,Ryan Noda,Oakland Athletics,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Ryan Noda,Oakland Athletics,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Ryan Noda,Oakland Athletics,Rafael Montero,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+85,Ryan Noda,Oakland Athletics,Pablo Lopez,Minnesota Twins,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+86,Ryan Noda,Oakland Athletics,Jhoan Duran,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Ryan Noda,Oakland Athletics,Kenta Maeda,Minnesota Twins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+88,Ryan Noda,Oakland Athletics,Jovani Moran,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Ryan Noda,Oakland Athletics,Emilio Pagan,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Ryan Noda,Oakland Athletics,George Soriano,Miami Marlins,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+91,Ryan Noda,Oakland Athletics,Edward Cabrera,Miami Marlins,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+92,Ryan Noda,Oakland Athletics,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+93,Ryan Noda,Oakland Athletics,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Ryan Noda,Oakland Athletics,Eury Perez,Miami Marlins,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+95,Ryan Noda,Oakland Athletics,Tanner Scott,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+96,Ryan Noda,Oakland Athletics,Denyi Reyes,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+97,Ryan Noda,Oakland Athletics,Jose Butto,New York Mets,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+98,Ryan Noda,Oakland Athletics,John Curtiss,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+99,Ryan Noda,Oakland Athletics,Stephen Nogosek,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Ryan Noda,Oakland Athletics,Adam Ottavino,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+101,Ryan Noda,Oakland Athletics,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Ryan Noda,Oakland Athletics,Dennis Santana,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Ryan Noda,Oakland Athletics,Kodai Senga,New York Mets,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+104,Ryan Noda,Oakland Athletics,Deivi Garcia,New York Yankees,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+105,Ryan Noda,Oakland Athletics,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Ryan Noda,Oakland Athletics,Jhony Brito,New York Yankees,2,0,0,0,0,0,3,0,0,.000,.667,.000,.667
+107,Ryan Noda,Oakland Athletics,Domingo German,New York Yankees,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+108,Ryan Noda,Oakland Athletics,Ian Hamilton,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Ryan Noda,Oakland Athletics,Wandy Peralta,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+110,Ryan Noda,Oakland Athletics,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Ryan Noda,Oakland Athletics,Clarke Schmidt,New York Yankees,4,0,0,0,0,0,2,0,1,.000,.333,.000,.333
+112,Ryan Noda,Oakland Athletics,Greg Weissert,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+113,Ryan Noda,Oakland Athletics,Logan Gilbert,Seattle Mariners,4,2,1,0,0,0,1,0,2,.500,.600,.750,1.350
+114,Ryan Noda,Oakland Athletics,Luis Castillo,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+115,Ryan Noda,Oakland Athletics,Bryce Miller,Seattle Mariners,6,1,0,0,0,0,0,0,3,.167,.167,.167,.334
+116,Ryan Noda,Oakland Athletics,Paul Sewald,Seattle Mariners,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+117,Ryan Noda,Oakland Athletics,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Ryan Noda,Oakland Athletics,Juan Then,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+119,Ryan Noda,Oakland Athletics,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Ryan Noda,Oakland Athletics,Zach Plesac,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+121,Ryan Noda,Oakland Athletics,Xzavion Curry,Cleveland Guardians,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+122,Ryan Noda,Oakland Athletics,Nick Sandlin,Cleveland Guardians,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+123,Ryan Noda,Oakland Athletics,Gavin Williams,Cleveland Guardians,2,1,0,0,1,3,1,0,0,.500,.667,2.000,2.667
+124,Ryan Noda,Oakland Athletics,Logan Allen,Cleveland Guardians,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+125,Ryan Noda,Oakland Athletics,Shane Bieber,Cleveland Guardians,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+126,Ryan Noda,Oakland Athletics,Aaron Civale,Cleveland Guardians,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+127,Ryan Noda,Oakland Athletics,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Ryan Noda,Oakland Athletics,Enyel De Los Santos,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+129,Ryan Noda,Oakland Athletics,Hunter Gaddis,Cleveland Guardians,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+130,Ryan Noda,Oakland Athletics,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Ryan Noda,Oakland Athletics,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+132,Ryan Noda,Oakland Athletics,Eli Morgan,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Ryan Noda,Oakland Athletics,Trevor Stephan,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Ryan Noda,Oakland Athletics,Colin Holderman,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+135,Ryan Noda,Oakland Athletics,Yohan Ramirez,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+136,Ryan Noda,Oakland Athletics,Luis L. Ortiz,Pittsburgh Pirates,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+137,Ryan Noda,Oakland Athletics,Mitch Keller,Pittsburgh Pirates,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+138,Ryan Noda,Oakland Athletics,Johan Oviedo,Pittsburgh Pirates,2,1,0,0,0,1,2,0,1,.500,.750,.500,1.250
+139,Ryan Noda,Oakland Athletics,Roansy Contreras,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+140,Ryan Noda,Oakland Athletics,Chase De Jong,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Ryan Noda,Oakland Athletics,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+142,Ryan Noda,Oakland Athletics,Rob Zastryzny,Pittsburgh Pirates,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+143,Ryan Noda,Oakland Athletics,Aaron Bummer,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+144,Ryan Noda,Oakland Athletics,Dylan Cease,Chicago White Sox,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+145,Ryan Noda,Oakland Athletics,Joe Kelly,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+146,Ryan Noda,Oakland Athletics,Reynaldo Lopez,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+147,Ryan Noda,Oakland Athletics,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Ryan Noda,Oakland Athletics,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Ryan Noda,Oakland Athletics,Jesse Scholtens,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+150,Ryan Noda,Oakland Athletics,Touki Toussaint,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+151,Ryan Noda,Oakland Athletics,Trevor Megill,Milwaukee Brewers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+152,Ryan Noda,Oakland Athletics,Freddy Peralta,Milwaukee Brewers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+153,Ryan Noda,Oakland Athletics,Adrian Houser,Milwaukee Brewers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+154,Ryan Noda,Oakland Athletics,Tyson Miller,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Ryan Noda,Oakland Athletics,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+156,Ryan Noda,Oakland Athletics,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Ryan Noda,Oakland Athletics,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Ryan Noda,Oakland Athletics,Julio Teheran,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Ryan Noda,Oakland Athletics,Taylor Clarke,Kansas City Royals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+160,Ryan Noda,Oakland Athletics,Jonathan Heasley,Kansas City Royals,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+161,Ryan Noda,Oakland Athletics,Brad Keller,Kansas City Royals,2,2,1,0,0,0,1,0,0,1.000,1.000,1.500,2.500
+162,Ryan Noda,Oakland Athletics,Brady Singer,Kansas City Royals,1,1,0,1,0,1,0,0,0,1.000,1.000,3.000,4.000
+163,Ryan Noda,Oakland Athletics,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+164,Ryan Noda,Oakland Athletics,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+165,Ryan Noda,Oakland Athletics,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Ryan Noda,Oakland Athletics,Josh Taylor,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+167,Ryan Noda,Oakland Athletics,Ryan Yarbrough,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Ryan Noda,Oakland Athletics,Tyler Holton,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+169,Ryan Noda,Oakland Athletics,Eduardo Rodriguez,Detroit Tigers,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+170,Ryan Noda,Oakland Athletics,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Ryan Noda,Oakland Athletics,Zach Logue,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+172,Ryan Noda,Oakland Athletics,Reese Olson,Detroit Tigers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+173,Ryan Noda,Oakland Athletics,Tarik Skubal,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

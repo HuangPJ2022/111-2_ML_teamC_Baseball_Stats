@@ -1,0 +1,121 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Christian Arroyo,Boston Red Sox,Josh Sborz,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Christian Arroyo,Boston Red Sox,Grant Anderson,Texas Rangers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+2,Christian Arroyo,Boston Red Sox,Dane Dunning,Texas Rangers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+3,Christian Arroyo,Boston Red Sox,Jon Gray,Texas Rangers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+4,Christian Arroyo,Boston Red Sox,John King,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Christian Arroyo,Boston Red Sox,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Christian Arroyo,Boston Red Sox,Reid Detmers,Los Angeles Angels,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+7,Christian Arroyo,Boston Red Sox,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Christian Arroyo,Boston Red Sox,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Christian Arroyo,Boston Red Sox,Tucker Davidson,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Christian Arroyo,Boston Red Sox,Jimmy Herget,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Christian Arroyo,Boston Red Sox,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Christian Arroyo,Boston Red Sox,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Christian Arroyo,Boston Red Sox,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+14,Christian Arroyo,Boston Red Sox,Josh Fleming,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+15,Christian Arroyo,Boston Red Sox,Kevin Kelly,Tampa Bay Rays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+16,Christian Arroyo,Boston Red Sox,Shane McClanahan,Tampa Bay Rays,4,1,1,0,0,0,0,0,3,.250,.250,.500,.750
+17,Christian Arroyo,Boston Red Sox,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Christian Arroyo,Boston Red Sox,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Christian Arroyo,Boston Red Sox,Braden Bristo,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Christian Arroyo,Boston Red Sox,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Christian Arroyo,Boston Red Sox,Jeffrey Springs,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Christian Arroyo,Boston Red Sox,Trevor Richards,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Christian Arroyo,Boston Red Sox,Yusei Kikuchi,Toronto Blue Jays,4,1,0,0,1,1,0,0,1,.250,.250,1.000,1.250
+24,Christian Arroyo,Boston Red Sox,Jose Berrios,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Christian Arroyo,Boston Red Sox,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Christian Arroyo,Boston Red Sox,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Christian Arroyo,Boston Red Sox,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Christian Arroyo,Boston Red Sox,Trent Thornton,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Christian Arroyo,Boston Red Sox,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Christian Arroyo,Boston Red Sox,Bryan Baker,Baltimore Orioles,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+31,Christian Arroyo,Boston Red Sox,Kyle Bradish,Baltimore Orioles,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+32,Christian Arroyo,Boston Red Sox,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Christian Arroyo,Boston Red Sox,Mike Baumann,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Christian Arroyo,Boston Red Sox,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Christian Arroyo,Boston Red Sox,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Christian Arroyo,Boston Red Sox,Kyle Gibson,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Christian Arroyo,Boston Red Sox,Cole Irvin,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Christian Arroyo,Boston Red Sox,Dean Kremer,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Christian Arroyo,Boston Red Sox,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Christian Arroyo,Boston Red Sox,Connor Brogdon,Philadelphia Phillies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+41,Christian Arroyo,Boston Red Sox,Bailey Falter,Philadelphia Phillies,2,1,0,0,0,2,0,0,1,.500,.500,.500,1.000
+42,Christian Arroyo,Boston Red Sox,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Christian Arroyo,Boston Red Sox,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Christian Arroyo,Boston Red Sox,Daniel Palencia,Chicago Cubs,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+45,Christian Arroyo,Boston Red Sox,Tucker Barnhart,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Christian Arroyo,Boston Red Sox,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Christian Arroyo,Boston Red Sox,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Christian Arroyo,Boston Red Sox,Justin Steele,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Christian Arroyo,Boston Red Sox,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Christian Arroyo,Boston Red Sox,Willi Castro,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+51,Christian Arroyo,Boston Red Sox,Brent Headrick,Minnesota Twins,1,1,1,0,0,3,0,0,0,1.000,1.000,2.000,3.000
+52,Christian Arroyo,Boston Red Sox,Jovani Moran,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+53,Christian Arroyo,Boston Red Sox,Bailey Ober,Minnesota Twins,3,3,0,0,1,1,0,0,0,1.000,1.000,2.000,3.000
+54,Christian Arroyo,Boston Red Sox,Brock Stewart,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Christian Arroyo,Boston Red Sox,Sonny Gray,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+56,Christian Arroyo,Boston Red Sox,Jose De Leon,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+57,Christian Arroyo,Boston Red Sox,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Christian Arroyo,Boston Red Sox,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Christian Arroyo,Boston Red Sox,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+60,Christian Arroyo,Boston Red Sox,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Christian Arroyo,Boston Red Sox,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Christian Arroyo,Boston Red Sox,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Christian Arroyo,Boston Red Sox,Daniel Bard,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+64,Christian Arroyo,Boston Red Sox,Brent Suter,Colorado Rockies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+65,Christian Arroyo,Boston Red Sox,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+66,Christian Arroyo,Boston Red Sox,Jake Bird,Colorado Rockies,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+67,Christian Arroyo,Boston Red Sox,Austin Gomber,Colorado Rockies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Christian Arroyo,Boston Red Sox,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Christian Arroyo,Boston Red Sox,Peter Lambert,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+70,Christian Arroyo,Boston Red Sox,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Christian Arroyo,Boston Red Sox,Connor Seabold,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Christian Arroyo,Boston Red Sox,Domingo German,New York Yankees,4,2,1,0,0,0,0,0,1,.500,.600,.750,1.350
+73,Christian Arroyo,Boston Red Sox,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Christian Arroyo,Boston Red Sox,Gerrit Cole,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Christian Arroyo,Boston Red Sox,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Christian Arroyo,Boston Red Sox,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Christian Arroyo,Boston Red Sox,Isiah Kiner-Falefa,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Christian Arroyo,Boston Red Sox,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Christian Arroyo,Boston Red Sox,Matt Krook,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Christian Arroyo,Boston Red Sox,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Christian Arroyo,Boston Red Sox,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Christian Arroyo,Boston Red Sox,Peyton Battenfield,Cleveland Guardians,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+83,Christian Arroyo,Boston Red Sox,Xzavion Curry,Cleveland Guardians,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+84,Christian Arroyo,Boston Red Sox,Nick Sandlin,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,Christian Arroyo,Boston Red Sox,Emmanuel Clase,Cleveland Guardians,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+86,Christian Arroyo,Boston Red Sox,Zach Plesac,Cleveland Guardians,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+87,Christian Arroyo,Boston Red Sox,Logan Allen,Cleveland Guardians,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+88,Christian Arroyo,Boston Red Sox,Aaron Civale,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Christian Arroyo,Boston Red Sox,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+90,Christian Arroyo,Boston Red Sox,Mitch Keller,Pittsburgh Pirates,3,2,0,0,0,1,0,0,1,.667,.667,.667,1.334
+91,Christian Arroyo,Boston Red Sox,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Christian Arroyo,Boston Red Sox,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+93,Christian Arroyo,Boston Red Sox,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Christian Arroyo,Boston Red Sox,Lance Lynn,Chicago White Sox,2,1,1,0,0,1,0,0,1,.500,.333,1.000,1.333
+95,Christian Arroyo,Boston Red Sox,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Christian Arroyo,Boston Red Sox,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Christian Arroyo,Boston Red Sox,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Christian Arroyo,Boston Red Sox,Keynan Middleton,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Christian Arroyo,Boston Red Sox,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Christian Arroyo,Boston Red Sox,Jesse Scholtens,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Christian Arroyo,Boston Red Sox,Wade Miley,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+102,Christian Arroyo,Boston Red Sox,Zach McKinstry,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+103,Christian Arroyo,Boston Red Sox,Tyler Alexander,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+104,Christian Arroyo,Boston Red Sox,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Christian Arroyo,Boston Red Sox,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Christian Arroyo,Boston Red Sox,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Christian Arroyo,Boston Red Sox,Garrett Hill,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Christian Arroyo,Boston Red Sox,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Christian Arroyo,Boston Red Sox,Spencer Turnbull,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+110,Christian Arroyo,Boston Red Sox,Joey Wentz,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Christian Arroyo,Boston Red Sox,Trey Wingenter,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Christian Arroyo,Boston Red Sox,Lucas Erceg,Oakland Athletics,2,2,2,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+113,Christian Arroyo,Boston Red Sox,Sam Moll,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+114,Christian Arroyo,Boston Red Sox,Paul Blackburn,Oakland Athletics,4,2,1,0,0,1,0,0,0,.500,.500,.750,1.250
+115,Christian Arroyo,Boston Red Sox,Angel Felipe,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Christian Arroyo,Boston Red Sox,Shintaro Fujinami,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Christian Arroyo,Boston Red Sox,Luis Medina,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+118,Christian Arroyo,Boston Red Sox,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Christian Arroyo,Boston Red Sox,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

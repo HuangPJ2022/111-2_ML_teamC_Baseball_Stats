@@ -1,0 +1,41 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jordan Westburg,Baltimore Orioles,Nick Robertson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Jordan Westburg,Baltimore Orioles,Julio Urias,Los Angeles Dodgers,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+2,Jordan Westburg,Baltimore Orioles,Michael Grove,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+3,Jordan Westburg,Baltimore Orioles,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Jordan Westburg,Baltimore Orioles,Ryan Brasier,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Jordan Westburg,Baltimore Orioles,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Jordan Westburg,Baltimore Orioles,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Jordan Westburg,Baltimore Orioles,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+8,Jordan Westburg,Baltimore Orioles,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Jordan Westburg,Baltimore Orioles,Andrew Abbott,Cincinnati Reds,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+10,Jordan Westburg,Baltimore Orioles,Buck Farmer,Cincinnati Reds,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+11,Jordan Westburg,Baltimore Orioles,Eduardo Salazar,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+12,Jordan Westburg,Baltimore Orioles,Luke Weaver,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+13,Jordan Westburg,Baltimore Orioles,Fernando Cruz,Cincinnati Reds,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+14,Jordan Westburg,Baltimore Orioles,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Jordan Westburg,Baltimore Orioles,Daniel Duarte,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Jordan Westburg,Baltimore Orioles,Lucas Sims,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+17,Jordan Westburg,Baltimore Orioles,Brandon Williamson,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+18,Jordan Westburg,Baltimore Orioles,Jake Wong,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Jordan Westburg,Baltimore Orioles,Emilio Pagan,Minnesota Twins,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+20,Jordan Westburg,Baltimore Orioles,Joe Ryan,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+21,Jordan Westburg,Baltimore Orioles,Bailey Ober,Minnesota Twins,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+22,Jordan Westburg,Baltimore Orioles,Jordan Balazovic,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Jordan Westburg,Baltimore Orioles,Jhoan Duran,Minnesota Twins,1,0,0,0,0,1,0,0,1,.000,.500,.000,.500
+24,Jordan Westburg,Baltimore Orioles,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Jordan Westburg,Baltimore Orioles,Griffin Jax,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Jordan Westburg,Baltimore Orioles,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Jordan Westburg,Baltimore Orioles,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+28,Jordan Westburg,Baltimore Orioles,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Jordan Westburg,Baltimore Orioles,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Jordan Westburg,Baltimore Orioles,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Jordan Westburg,Baltimore Orioles,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Jordan Westburg,Baltimore Orioles,Michael King,New York Yankees,2,1,0,1,0,2,0,0,0,.500,.500,1.500,2.000
+33,Jordan Westburg,Baltimore Orioles,Ron Marinaccio,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+34,Jordan Westburg,Baltimore Orioles,Clarke Schmidt,New York Yankees,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+35,Jordan Westburg,Baltimore Orioles,Luis Severino,New York Yankees,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+36,Jordan Westburg,Baltimore Orioles,Albert Abreu,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+37,Jordan Westburg,Baltimore Orioles,Deivi Garcia,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Jordan Westburg,Baltimore Orioles,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Jordan Westburg,Baltimore Orioles,Randy Vasquez,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500

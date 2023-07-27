@@ -1,0 +1,186 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Hunter Renfroe,Los Angeles Angels,Jose Leclerc,Texas Rangers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+1,Hunter Renfroe,Los Angeles Angels,Owen White,Texas Rangers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+2,Hunter Renfroe,Los Angeles Angels,Brock Burke,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+3,Hunter Renfroe,Los Angeles Angels,Grant Anderson,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Hunter Renfroe,Los Angeles Angels,Cody Bradford,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Hunter Renfroe,Los Angeles Angels,Dane Dunning,Texas Rangers,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+6,Hunter Renfroe,Los Angeles Angels,Andrew Heaney,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+7,Hunter Renfroe,Los Angeles Angels,Martin Perez,Texas Rangers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+8,Hunter Renfroe,Los Angeles Angels,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Hunter Renfroe,Los Angeles Angels,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Hunter Renfroe,Los Angeles Angels,Josh Sborz,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Hunter Renfroe,Los Angeles Angels,Will Smith,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Hunter Renfroe,Los Angeles Angels,Clayton Kershaw,Los Angeles Dodgers,3,2,2,0,0,0,0,0,1,.667,.667,1.333,2.000
+13,Hunter Renfroe,Los Angeles Angels,Tony Gonsolin,Los Angeles Dodgers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+14,Hunter Renfroe,Los Angeles Angels,Ryan Brasier,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Hunter Renfroe,Los Angeles Angels,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Hunter Renfroe,Los Angeles Angels,Michael Grove,Los Angeles Dodgers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Hunter Renfroe,Los Angeles Angels,Evan Phillips,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+18,Hunter Renfroe,Los Angeles Angels,Alex Vesia,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Hunter Renfroe,Los Angeles Angels,Joely Rodriguez,Boston Red Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+20,Hunter Renfroe,Los Angeles Angels,John Schreiber,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Hunter Renfroe,Los Angeles Angels,Brayan Bello,Boston Red Sox,5,1,0,0,1,4,0,0,0,.200,.200,.800,1.000
+22,Hunter Renfroe,Los Angeles Angels,Tanner Houck,Boston Red Sox,5,1,1,0,0,2,0,0,1,.200,.200,.400,.600
+23,Hunter Renfroe,Los Angeles Angels,Kutter Crawford,Boston Red Sox,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+24,Hunter Renfroe,Los Angeles Angels,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Hunter Renfroe,Los Angeles Angels,Kenley Jansen,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Hunter Renfroe,Los Angeles Angels,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Hunter Renfroe,Los Angeles Angels,James Paxton,Boston Red Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+28,Hunter Renfroe,Los Angeles Angels,Nick Pivetta,Boston Red Sox,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+29,Hunter Renfroe,Los Angeles Angels,Garrett Whitlock,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+30,Hunter Renfroe,Los Angeles Angels,Josh Winckowski,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Hunter Renfroe,Los Angeles Angels,Jack Flaherty,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+32,Hunter Renfroe,Los Angeles Angels,Steven Matz,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+33,Hunter Renfroe,Los Angeles Angels,Miles Mikolas,St. Louis Cardinals,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+34,Hunter Renfroe,Los Angeles Angels,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Hunter Renfroe,Los Angeles Angels,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Hunter Renfroe,Los Angeles Angels,Chris Stratton,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Hunter Renfroe,Los Angeles Angels,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Hunter Renfroe,Los Angeles Angels,Jake Woodford,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Hunter Renfroe,Los Angeles Angels,Austin Adams,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Hunter Renfroe,Los Angeles Angels,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Hunter Renfroe,Los Angeles Angels,Tommy Henry,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Hunter Renfroe,Los Angeles Angels,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Hunter Renfroe,Los Angeles Angels,Ryne Nelson,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Hunter Renfroe,Los Angeles Angels,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Hunter Renfroe,Los Angeles Angels,Anthony Bass,Toronto Blue Jays,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+46,Hunter Renfroe,Los Angeles Angels,Yusei Kikuchi,Toronto Blue Jays,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+47,Hunter Renfroe,Los Angeles Angels,Jordan Romano,Toronto Blue Jays,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+48,Hunter Renfroe,Los Angeles Angels,Jose Berrios,Toronto Blue Jays,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+49,Hunter Renfroe,Los Angeles Angels,Chris Bassitt,Toronto Blue Jays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+50,Hunter Renfroe,Los Angeles Angels,Adam Cimber,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Hunter Renfroe,Los Angeles Angels,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Hunter Renfroe,Los Angeles Angels,Erik Swanson,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Hunter Renfroe,Los Angeles Angels,Logan Gillaspie,Baltimore Orioles,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+54,Hunter Renfroe,Los Angeles Angels,Grayson Rodriguez,Baltimore Orioles,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+55,Hunter Renfroe,Los Angeles Angels,Tyler Wells,Baltimore Orioles,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+56,Hunter Renfroe,Los Angeles Angels,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+57,Hunter Renfroe,Los Angeles Angels,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Hunter Renfroe,Los Angeles Angels,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Hunter Renfroe,Los Angeles Angels,Kyle Bradish,Baltimore Orioles,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Hunter Renfroe,Los Angeles Angels,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Hunter Renfroe,Los Angeles Angels,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Hunter Renfroe,Los Angeles Angels,Ryne Stanek,Houston Astros,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+63,Hunter Renfroe,Los Angeles Angels,Bryan Abreu,Houston Astros,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+64,Hunter Renfroe,Los Angeles Angels,Ronel Blanco,Houston Astros,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+65,Hunter Renfroe,Los Angeles Angels,Hunter Brown,Houston Astros,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+66,Hunter Renfroe,Los Angeles Angels,Seth Martinez,Houston Astros,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+67,Hunter Renfroe,Los Angeles Angels,Ryan Pressly,Houston Astros,4,2,0,0,0,1,0,0,0,.500,.500,.500,1.000
+68,Hunter Renfroe,Los Angeles Angels,Cristian Javier,Houston Astros,4,1,0,0,1,2,2,0,2,.250,.500,1.000,1.500
+69,Hunter Renfroe,Los Angeles Angels,Framber Valdez,Houston Astros,8,2,2,0,0,0,1,0,4,.250,.333,.500,.833
+70,Hunter Renfroe,Los Angeles Angels,J.P. France,Houston Astros,5,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Hunter Renfroe,Los Angeles Angels,Joel Kuhnel,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Hunter Renfroe,Los Angeles Angels,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Hunter Renfroe,Los Angeles Angels,Rafael Montero,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Hunter Renfroe,Los Angeles Angels,Hector Neris,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+75,Hunter Renfroe,Los Angeles Angels,Josh Hader,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+76,Hunter Renfroe,Los Angeles Angels,Seth Lugo,San Diego Padres,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+77,Hunter Renfroe,Los Angeles Angels,Joe Musgrove,San Diego Padres,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+78,Hunter Renfroe,Los Angeles Angels,Blake Snell,San Diego Padres,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+79,Hunter Renfroe,Los Angeles Angels,Jose Castillo,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+80,Hunter Renfroe,Los Angeles Angels,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Hunter Renfroe,Los Angeles Angels,Griffin Jax,Minnesota Twins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+82,Hunter Renfroe,Los Angeles Angels,Joe Ryan,Minnesota Twins,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+83,Hunter Renfroe,Los Angeles Angels,Louie Varland,Minnesota Twins,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+84,Hunter Renfroe,Los Angeles Angels,Pablo Lopez,Minnesota Twins,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+85,Hunter Renfroe,Los Angeles Angels,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Hunter Renfroe,Los Angeles Angels,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Hunter Renfroe,Los Angeles Angels,JT Chargois,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+88,Hunter Renfroe,Los Angeles Angels,Jesus Luzardo,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+89,Hunter Renfroe,Los Angeles Angels,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Hunter Renfroe,Los Angeles Angels,Edward Cabrera,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Hunter Renfroe,Los Angeles Angels,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Hunter Renfroe,Los Angeles Angels,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Hunter Renfroe,Los Angeles Angels,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Hunter Renfroe,Los Angeles Angels,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Hunter Renfroe,Los Angeles Angels,MacKenzie Gore,Washington Nationals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+96,Hunter Renfroe,Los Angeles Angels,Mason Thompson,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+97,Hunter Renfroe,Los Angeles Angels,Patrick Corbin,Washington Nationals,3,2,0,0,1,1,0,0,1,.667,.667,1.667,2.334
+98,Hunter Renfroe,Los Angeles Angels,Anthony Banda,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+99,Hunter Renfroe,Los Angeles Angels,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Hunter Renfroe,Los Angeles Angels,Josiah Gray,Washington Nationals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+101,Hunter Renfroe,Los Angeles Angels,Hunter Harvey,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+102,Hunter Renfroe,Los Angeles Angels,Chase Anderson,Colorado Rockies,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+103,Hunter Renfroe,Los Angeles Angels,Matt Carasiti,Colorado Rockies,1,1,1,0,0,3,0,0,0,1.000,1.000,2.000,3.000
+104,Hunter Renfroe,Los Angeles Angels,Noah Davis,Colorado Rockies,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+105,Hunter Renfroe,Los Angeles Angels,Karl Kauffmann,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+106,Hunter Renfroe,Los Angeles Angels,Kyle Freeland,Colorado Rockies,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+107,Hunter Renfroe,Los Angeles Angels,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Hunter Renfroe,Los Angeles Angels,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Hunter Renfroe,Los Angeles Angels,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Hunter Renfroe,Los Angeles Angels,Justin Lawrence,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Hunter Renfroe,Los Angeles Angels,Wandy Peralta,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+112,Hunter Renfroe,Los Angeles Angels,Clarke Schmidt,New York Yankees,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+113,Hunter Renfroe,Los Angeles Angels,Nestor Cortes,New York Yankees,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+114,Hunter Renfroe,Los Angeles Angels,Jhony Brito,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+115,Hunter Renfroe,Los Angeles Angels,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Hunter Renfroe,Los Angeles Angels,Domingo German,New York Yankees,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+117,Hunter Renfroe,Los Angeles Angels,Ian Hamilton,New York Yankees,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+118,Hunter Renfroe,Los Angeles Angels,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Hunter Renfroe,Los Angeles Angels,Ron Marinaccio,New York Yankees,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+120,Hunter Renfroe,Los Angeles Angels,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Hunter Renfroe,Los Angeles Angels,Carlos Rodon,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+122,Hunter Renfroe,Los Angeles Angels,Luis Severino,New York Yankees,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+123,Hunter Renfroe,Los Angeles Angels,Matt Brash,Seattle Mariners,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+124,Hunter Renfroe,Los Angeles Angels,Logan Gilbert,Seattle Mariners,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+125,Hunter Renfroe,Los Angeles Angels,Paul Sewald,Seattle Mariners,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+126,Hunter Renfroe,Los Angeles Angels,George Kirby,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+127,Hunter Renfroe,Los Angeles Angels,Diego Castillo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Hunter Renfroe,Los Angeles Angels,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Hunter Renfroe,Los Angeles Angels,Matt Festa,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+130,Hunter Renfroe,Los Angeles Angels,Chris Flexen,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+131,Hunter Renfroe,Los Angeles Angels,Andres Munoz,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+132,Hunter Renfroe,Los Angeles Angels,Penn Murfee,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Hunter Renfroe,Los Angeles Angels,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Hunter Renfroe,Los Angeles Angels,Justin Topa,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+135,Hunter Renfroe,Los Angeles Angels,Bryan Woo,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Hunter Renfroe,Los Angeles Angels,Trevor Stephan,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+137,Hunter Renfroe,Los Angeles Angels,Logan Allen,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+138,Hunter Renfroe,Los Angeles Angels,Cal Quantrill,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+139,Hunter Renfroe,Los Angeles Angels,Tanner Bibee,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Hunter Renfroe,Los Angeles Angels,Emmanuel Clase,Cleveland Guardians,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+141,Hunter Renfroe,Los Angeles Angels,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+142,Hunter Renfroe,Los Angeles Angels,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Hunter Renfroe,Los Angeles Angels,Yerry De Los Santos,Pittsburgh Pirates,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+144,Hunter Renfroe,Los Angeles Angels,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+145,Hunter Renfroe,Los Angeles Angels,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Hunter Renfroe,Los Angeles Angels,Lucas Giolito,Chicago White Sox,5,2,0,0,1,1,0,0,1,.400,.400,1.000,1.400
+147,Hunter Renfroe,Los Angeles Angels,Lance Lynn,Chicago White Sox,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+148,Hunter Renfroe,Los Angeles Angels,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Hunter Renfroe,Los Angeles Angels,Kendall Graveman,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+150,Hunter Renfroe,Los Angeles Angels,Michael Kopech,Chicago White Sox,5,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+151,Hunter Renfroe,Los Angeles Angels,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Hunter Renfroe,Los Angeles Angels,Keynan Middleton,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+153,Hunter Renfroe,Los Angeles Angels,Gregory Santos,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+154,Hunter Renfroe,Los Angeles Angels,Touki Toussaint,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Hunter Renfroe,Los Angeles Angels,Colin Rea,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+156,Hunter Renfroe,Los Angeles Angels,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,Hunter Renfroe,Los Angeles Angels,Jake Cousins,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Hunter Renfroe,Los Angeles Angels,Wade Miley,Milwaukee Brewers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+159,Hunter Renfroe,Los Angeles Angels,Tyson Miller,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Hunter Renfroe,Los Angeles Angels,Peter Strzelecki,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+161,Hunter Renfroe,Los Angeles Angels,Carlos Hernandez,Kansas City Royals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+162,Hunter Renfroe,Los Angeles Angels,Ryan Yarbrough,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+163,Hunter Renfroe,Los Angeles Angels,Brady Singer,Kansas City Royals,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+164,Hunter Renfroe,Los Angeles Angels,Jose Cuas,Kansas City Royals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+165,Hunter Renfroe,Los Angeles Angels,Zack Greinke,Kansas City Royals,5,2,0,0,1,1,0,0,1,.400,.400,1.000,1.400
+166,Hunter Renfroe,Los Angeles Angels,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+167,Hunter Renfroe,Los Angeles Angels,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Hunter Renfroe,Los Angeles Angels,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,Hunter Renfroe,Los Angeles Angels,Jordan Lyles,Kansas City Royals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+170,Hunter Renfroe,Los Angeles Angels,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+171,Hunter Renfroe,Los Angeles Angels,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+172,Hunter Renfroe,Los Angeles Angels,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Hunter Renfroe,Los Angeles Angels,Luis Medina,Oakland Athletics,2,2,0,0,1,1,1,0,0,1.000,1.000,2.500,3.500
+174,Hunter Renfroe,Los Angeles Angels,Zach Jackson,Oakland Athletics,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+175,Hunter Renfroe,Los Angeles Angels,Chad Smith,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+176,Hunter Renfroe,Los Angeles Angels,Ken Waldichuk,Oakland Athletics,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+177,Hunter Renfroe,Los Angeles Angels,Domingo Acevedo,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+178,Hunter Renfroe,Los Angeles Angels,Jeurys Familia,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Hunter Renfroe,Los Angeles Angels,Shintaro Fujinami,Oakland Athletics,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+180,Hunter Renfroe,Los Angeles Angels,Dany Jimenez,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+181,Hunter Renfroe,Los Angeles Angels,Adrian Martinez,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+182,Hunter Renfroe,Los Angeles Angels,Kyle Muller,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+183,Hunter Renfroe,Los Angeles Angels,Adam Oller,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Hunter Renfroe,Los Angeles Angels,JP Sears,Oakland Athletics,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000

@@ -1,0 +1,92 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Gary Sanchez,San Diego Padres,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Gary Sanchez,San Diego Padres,Jaime Barria,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Gary Sanchez,San Diego Padres,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Gary Sanchez,San Diego Padres,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Gary Sanchez,San Diego Padres,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Gary Sanchez,San Diego Padres,Gerardo Reyes,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Gary Sanchez,San Diego Padres,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Gary Sanchez,San Diego Padres,Jose Soriano,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+8,Gary Sanchez,San Diego Padres,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Gary Sanchez,San Diego Padres,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Gary Sanchez,San Diego Padres,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Gary Sanchez,San Diego Padres,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Gary Sanchez,San Diego Padres,Shane McClanahan,Tampa Bay Rays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+13,Gary Sanchez,San Diego Padres,Alex Young,Cincinnati Reds,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+14,Gary Sanchez,San Diego Padres,Graham Ashcraft,Cincinnati Reds,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+15,Gary Sanchez,San Diego Padres,Alexis Diaz,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+16,Gary Sanchez,San Diego Padres,Andrew Abbott,Cincinnati Reds,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+17,Gary Sanchez,San Diego Padres,Nate Pearson,Toronto Blue Jays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+18,Gary Sanchez,San Diego Padres,Jordan Romano,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+19,Gary Sanchez,San Diego Padres,Chris Bassitt,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+20,Gary Sanchez,San Diego Padres,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Gary Sanchez,San Diego Padres,Alek Manoah,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Gary Sanchez,San Diego Padres,Mitch White,Toronto Blue Jays,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+23,Gary Sanchez,San Diego Padres,Cristopher Sanchez,Philadelphia Phillies,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+24,Gary Sanchez,San Diego Padres,Dylan Covey,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+25,Gary Sanchez,San Diego Padres,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Gary Sanchez,San Diego Padres,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Gary Sanchez,San Diego Padres,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Gary Sanchez,San Diego Padres,Ranger Suarez,Philadelphia Phillies,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+29,Gary Sanchez,San Diego Padres,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Gary Sanchez,San Diego Padres,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Gary Sanchez,San Diego Padres,Kyle Hendricks,Chicago Cubs,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+32,Gary Sanchez,San Diego Padres,Drew Smyly,Chicago Cubs,5,1,0,0,0,0,0,0,0,.200,.200,.200,.400
+33,Gary Sanchez,San Diego Padres,Javier Assad,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+34,Gary Sanchez,San Diego Padres,Michael Fulmer,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Gary Sanchez,San Diego Padres,Brandon Hughes,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Gary Sanchez,San Diego Padres,Julian Merryweather,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+37,Gary Sanchez,San Diego Padres,Jameson Taillon,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Gary Sanchez,San Diego Padres,Josiah Gray,Washington Nationals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+39,Gary Sanchez,San Diego Padres,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Gary Sanchez,San Diego Padres,Paolo Espino,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Gary Sanchez,San Diego Padres,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Gary Sanchez,San Diego Padres,Chad Kuhl,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+43,Gary Sanchez,San Diego Padres,Joe La Sorsa,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Gary Sanchez,San Diego Padres,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Gary Sanchez,San Diego Padres,Thaddeus Ward,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+46,Gary Sanchez,San Diego Padres,Matt Barnes,Miami Marlins,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+47,Gary Sanchez,San Diego Padres,JT Chargois,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+48,Gary Sanchez,San Diego Padres,Braxton Garrett,Miami Marlins,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+49,Gary Sanchez,San Diego Padres,Jesus Luzardo,Miami Marlins,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+50,Gary Sanchez,San Diego Padres,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Gary Sanchez,San Diego Padres,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Gary Sanchez,San Diego Padres,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Gary Sanchez,San Diego Padres,Jakob Junis,San Francisco Giants,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+54,Gary Sanchez,San Diego Padres,Alex Wood,San Francisco Giants,2,1,0,0,1,3,0,0,1,.500,.500,2.000,2.500
+55,Gary Sanchez,San Diego Padres,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+56,Gary Sanchez,San Diego Padres,Luke Jackson,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Gary Sanchez,San Diego Padres,David Villar,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Gary Sanchez,San Diego Padres,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Gary Sanchez,San Diego Padres,Keaton Winn,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Gary Sanchez,San Diego Padres,Kyle Freeland,Colorado Rockies,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+61,Gary Sanchez,San Diego Padres,Austin Gomber,Colorado Rockies,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+62,Gary Sanchez,San Diego Padres,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Gary Sanchez,San Diego Padres,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Gary Sanchez,San Diego Padres,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Gary Sanchez,San Diego Padres,Dinelson Lamet,Colorado Rockies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+66,Gary Sanchez,San Diego Padres,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Gary Sanchez,San Diego Padres,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Gary Sanchez,San Diego Padres,George Kirby,Seattle Mariners,2,2,1,0,1,3,0,0,0,1.000,1.000,3.000,4.000
+69,Gary Sanchez,San Diego Padres,Logan Gilbert,Seattle Mariners,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+70,Gary Sanchez,San Diego Padres,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Gary Sanchez,San Diego Padres,Matt Festa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Gary Sanchez,San Diego Padres,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Gary Sanchez,San Diego Padres,Paul Sewald,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+74,Gary Sanchez,San Diego Padres,Tanner Bibee,Cleveland Guardians,4,2,0,0,1,4,0,0,1,.500,.400,1.250,1.650
+75,Gary Sanchez,San Diego Padres,Aaron Civale,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+76,Gary Sanchez,San Diego Padres,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Gary Sanchez,San Diego Padres,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Gary Sanchez,San Diego Padres,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Gary Sanchez,San Diego Padres,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Gary Sanchez,San Diego Padres,Trevor Stephan,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Gary Sanchez,San Diego Padres,Rich Hill,Pittsburgh Pirates,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+82,Gary Sanchez,San Diego Padres,David Bednar,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+83,Gary Sanchez,San Diego Padres,Cody Bolton,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Gary Sanchez,San Diego Padres,Roansy Contreras,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+85,Gary Sanchez,San Diego Padres,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Gary Sanchez,San Diego Padres,Carmen Mlodzinski,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Gary Sanchez,San Diego Padres,Beau Brieske,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+88,Gary Sanchez,San Diego Padres,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Gary Sanchez,San Diego Padres,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Gary Sanchez,San Diego Padres,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

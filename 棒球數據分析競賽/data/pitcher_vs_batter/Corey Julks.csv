@@ -1,0 +1,163 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Corey Julks,Houston Astros,Nick Anderson,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Corey Julks,Houston Astros,A.J. Minter,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+2,Corey Julks,Houston Astros,Kirby Yates,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+3,Corey Julks,Houston Astros,Bryce Elder,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+4,Corey Julks,Houston Astros,Kyle Wright,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+5,Corey Julks,Houston Astros,Jesse Chavez,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,Corey Julks,Houston Astros,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Corey Julks,Houston Astros,Martin Perez,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Corey Julks,Houston Astros,Glenn Otto,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+9,Corey Julks,Houston Astros,Cole Ragans,Texas Rangers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+10,Corey Julks,Houston Astros,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Corey Julks,Houston Astros,Cody Bradford,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Corey Julks,Houston Astros,Nathan Eovaldi,Texas Rangers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+13,Corey Julks,Houston Astros,Jon Gray,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Corey Julks,Houston Astros,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+15,Corey Julks,Houston Astros,Josh Sborz,Texas Rangers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+16,Corey Julks,Houston Astros,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Corey Julks,Houston Astros,Ryan Brasier,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Corey Julks,Houston Astros,Brusdar Graterol,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+19,Corey Julks,Houston Astros,Bobby Miller,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+20,Corey Julks,Houston Astros,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Corey Julks,Houston Astros,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Corey Julks,Houston Astros,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Corey Julks,Houston Astros,Michael Grove,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Corey Julks,Houston Astros,Evan Phillips,Los Angeles Dodgers,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Corey Julks,Houston Astros,Emmet Sheehan,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Corey Julks,Houston Astros,Griffin Canning,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+27,Corey Julks,Houston Astros,Reid Detmers,Los Angeles Angels,5,2,2,0,0,0,0,0,1,.400,.400,.800,1.200
+28,Corey Julks,Houston Astros,Shohei Ohtani,Los Angeles Angels,8,2,0,0,1,3,1,0,3,.250,.333,.625,.958
+29,Corey Julks,Houston Astros,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Corey Julks,Houston Astros,Jaime Barria,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Corey Julks,Houston Astros,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Corey Julks,Houston Astros,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Corey Julks,Houston Astros,Jimmy Herget,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Corey Julks,Houston Astros,Ben Joyce,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Corey Julks,Houston Astros,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Corey Julks,Houston Astros,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Corey Julks,Houston Astros,Chase Silseth,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Corey Julks,Houston Astros,Jose Soriano,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+39,Corey Julks,Houston Astros,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Corey Julks,Houston Astros,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Corey Julks,Houston Astros,Zack Weiss,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Corey Julks,Houston Astros,Drew Rasmussen,Tampa Bay Rays,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+43,Corey Julks,Houston Astros,Jalen Beeks,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Corey Julks,Houston Astros,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Corey Julks,Houston Astros,Zack Burdi,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Corey Julks,Houston Astros,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Corey Julks,Houston Astros,Josh Fleming,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Corey Julks,Houston Astros,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Corey Julks,Houston Astros,Alec Burleson,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+50,Corey Julks,Houston Astros,Genesis Cabrera,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+51,Corey Julks,Houston Astros,Adam Wainwright,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+52,Corey Julks,Houston Astros,Jordan Montgomery,St. Louis Cardinals,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+53,Corey Julks,Houston Astros,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Corey Julks,Houston Astros,Steven Matz,St. Louis Cardinals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+55,Corey Julks,Houston Astros,Jake Woodford,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Corey Julks,Houston Astros,Luke Weaver,Cincinnati Reds,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+57,Corey Julks,Houston Astros,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Corey Julks,Houston Astros,Daniel Duarte,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Corey Julks,Houston Astros,Ian Gibaut,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Corey Julks,Houston Astros,Hunter Greene,Cincinnati Reds,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+61,Corey Julks,Houston Astros,Alek Manoah,Toronto Blue Jays,1,1,0,0,1,4,0,0,0,1.000,1.000,4.000,5.000
+62,Corey Julks,Houston Astros,Kevin Gausman,Toronto Blue Jays,5,4,1,0,1,3,0,0,0,.800,.800,1.600,2.400
+63,Corey Julks,Houston Astros,Anthony Bass,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Corey Julks,Houston Astros,Chris Bassitt,Toronto Blue Jays,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+65,Corey Julks,Houston Astros,Jose Berrios,Toronto Blue Jays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+66,Corey Julks,Houston Astros,Adam Cimber,Toronto Blue Jays,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+67,Corey Julks,Houston Astros,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Corey Julks,Houston Astros,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Corey Julks,Houston Astros,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Corey Julks,Houston Astros,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Corey Julks,Houston Astros,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Corey Julks,Houston Astros,Zack Wheeler,Philadelphia Phillies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+73,Corey Julks,Houston Astros,Aaron Nola,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+74,Corey Julks,Houston Astros,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Corey Julks,Houston Astros,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Corey Julks,Houston Astros,Justin Steele,Chicago Cubs,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+77,Corey Julks,Houston Astros,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Corey Julks,Houston Astros,Tyler Mahle,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+79,Corey Julks,Houston Astros,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Corey Julks,Houston Astros,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Corey Julks,Houston Astros,Joe Ryan,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Corey Julks,Houston Astros,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Corey Julks,Houston Astros,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Corey Julks,Houston Astros,MacKenzie Gore,Washington Nationals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+85,Corey Julks,Houston Astros,Josiah Gray,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Corey Julks,Houston Astros,Hunter Harvey,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+87,Corey Julks,Houston Astros,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Corey Julks,Houston Astros,Tristan Beck,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+89,Corey Julks,Houston Astros,Anthony DeSclafani,San Francisco Giants,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Corey Julks,Houston Astros,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Corey Julks,Houston Astros,Ross Stripling,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Corey Julks,Houston Astros,Justin Verlander,New York Mets,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+93,Corey Julks,Houston Astros,Tylor Megill,New York Mets,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+94,Corey Julks,Houston Astros,Jeff Brigham,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+95,Corey Julks,Houston Astros,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Corey Julks,Houston Astros,Josh Walker,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+97,Corey Julks,Houston Astros,Chase Anderson,Colorado Rockies,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+98,Corey Julks,Houston Astros,Gavin Hollowell,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+99,Corey Julks,Houston Astros,Pierce Johnson,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+100,Corey Julks,Houston Astros,Kyle Freeland,Colorado Rockies,4,3,1,0,0,1,0,0,0,.750,.750,1.000,1.750
+101,Corey Julks,Houston Astros,Fernando Abad,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+102,Corey Julks,Houston Astros,Daniel Bard,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Corey Julks,Houston Astros,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Corey Julks,Houston Astros,Austin Gomber,Colorado Rockies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Corey Julks,Houston Astros,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Corey Julks,Houston Astros,George Kirby,Seattle Mariners,3,3,1,0,0,1,0,0,0,1.000,1.000,1.333,2.333
+107,Corey Julks,Houston Astros,Matt Brash,Seattle Mariners,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+108,Corey Julks,Houston Astros,Luis Castillo,Seattle Mariners,6,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Corey Julks,Houston Astros,Bryce Miller,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Corey Julks,Houston Astros,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Corey Julks,Houston Astros,Bryan Woo,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,Corey Julks,Houston Astros,Sam Hentges,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+113,Corey Julks,Houston Astros,Trevor Stephan,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+114,Corey Julks,Houston Astros,Triston McKenzie,Cleveland Guardians,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+115,Corey Julks,Houston Astros,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+116,Corey Julks,Houston Astros,Tim Herrin,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Corey Julks,Houston Astros,Chase De Jong,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+118,Corey Julks,Houston Astros,Roansy Contreras,Pittsburgh Pirates,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+119,Corey Julks,Houston Astros,Rich Hill,Pittsburgh Pirates,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+120,Corey Julks,Houston Astros,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Corey Julks,Houston Astros,Wil Crowe,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Corey Julks,Houston Astros,Jose Hernandez,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Corey Julks,Houston Astros,Jimmy Lambert,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+124,Corey Julks,Houston Astros,Lance Lynn,Chicago White Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+125,Corey Julks,Houston Astros,Jose Ruiz,Chicago White Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+126,Corey Julks,Houston Astros,Gregory Santos,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+127,Corey Julks,Houston Astros,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+128,Corey Julks,Houston Astros,Mike Clevinger,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+129,Corey Julks,Houston Astros,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Corey Julks,Houston Astros,Kendall Graveman,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+131,Corey Julks,Houston Astros,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Corey Julks,Houston Astros,Michael Kopech,Chicago White Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+133,Corey Julks,Houston Astros,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Corey Julks,Houston Astros,Keynan Middleton,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+135,Corey Julks,Houston Astros,Corbin Burnes,Milwaukee Brewers,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+136,Corey Julks,Houston Astros,Trevor Megill,Milwaukee Brewers,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+137,Corey Julks,Houston Astros,Jake Cousins,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Corey Julks,Houston Astros,Elvis Peguero,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Corey Julks,Houston Astros,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,Corey Julks,Houston Astros,Tyler Alexander,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+141,Corey Julks,Houston Astros,Garrett Hill,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+142,Corey Julks,Houston Astros,Trey Wingenter,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+143,Corey Julks,Houston Astros,Matt Manning,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+144,Corey Julks,Houston Astros,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Corey Julks,Houston Astros,Eduardo Rodriguez,Detroit Tigers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+146,Corey Julks,Houston Astros,Sam Long,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+147,Corey Julks,Houston Astros,Trevor May,Oakland Athletics,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+148,Corey Julks,Houston Astros,James Kaprielian,Oakland Athletics,3,2,0,0,0,3,0,0,0,.667,.667,.667,1.334
+149,Corey Julks,Houston Astros,Austin Pruitt,Oakland Athletics,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+150,Corey Julks,Houston Astros,Luis Medina,Oakland Athletics,4,1,0,0,0,0,2,0,2,.250,.500,.250,.750
+151,Corey Julks,Houston Astros,Garrett Acton,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Corey Julks,Houston Astros,Paul Blackburn,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+153,Corey Julks,Houston Astros,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+154,Corey Julks,Houston Astros,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Corey Julks,Houston Astros,Hogan Harris,Oakland Athletics,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Corey Julks,Houston Astros,Adrian Martinez,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Corey Julks,Houston Astros,Tayler Scott,Oakland Athletics,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+158,Corey Julks,Houston Astros,JP Sears,Oakland Athletics,5,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Corey Julks,Houston Astros,Chad Smith,Oakland Athletics,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+160,Corey Julks,Houston Astros,Freddy Tarnok,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Corey Julks,Houston Astros,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

@@ -1,0 +1,151 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Tony Kemp,Oakland Athletics,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Tony Kemp,Oakland Athletics,Jon Gray,Texas Rangers,6,1,0,0,1,1,0,0,0,.167,.167,.667,.834
+2,Tony Kemp,Oakland Athletics,Nathan Eovaldi,Texas Rangers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Tony Kemp,Oakland Athletics,Jonathan Hernandez,Texas Rangers,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Tony Kemp,Oakland Athletics,Jose Leclerc,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+5,Tony Kemp,Oakland Athletics,Jacob deGrom,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Tony Kemp,Oakland Athletics,Jaime Barria,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+7,Tony Kemp,Oakland Athletics,Jose Suarez,Los Angeles Angels,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+8,Tony Kemp,Oakland Athletics,Aaron Loup,Los Angeles Angels,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+9,Tony Kemp,Oakland Athletics,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Tony Kemp,Oakland Athletics,Griffin Canning,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Tony Kemp,Oakland Athletics,Tucker Davidson,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Tony Kemp,Oakland Athletics,Carlos Estevez,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Tony Kemp,Oakland Athletics,Shohei Ohtani,Los Angeles Angels,5,0,0,0,0,0,1,0,2,.000,.167,.000,.167
+14,Tony Kemp,Oakland Athletics,Patrick Sandoval,Los Angeles Angels,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+15,Tony Kemp,Oakland Athletics,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+16,Tony Kemp,Oakland Athletics,Taj Bradley,Tampa Bay Rays,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+17,Tony Kemp,Oakland Athletics,Jason Adam,Tampa Bay Rays,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+18,Tony Kemp,Oakland Athletics,Jake Diekman,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+19,Tony Kemp,Oakland Athletics,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Tony Kemp,Oakland Athletics,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Tony Kemp,Oakland Athletics,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Tony Kemp,Oakland Athletics,Drew Rasmussen,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Tony Kemp,Oakland Athletics,Joe Jacques,Boston Red Sox,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+24,Tony Kemp,Oakland Athletics,Chris Martin,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+25,Tony Kemp,Oakland Athletics,Brayan Bello,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+26,Tony Kemp,Oakland Athletics,Josh Winckowski,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+27,Tony Kemp,Oakland Athletics,Nick Pivetta,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+28,Tony Kemp,Oakland Athletics,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Tony Kemp,Oakland Athletics,Chris Murphy,Boston Red Sox,2,0,0,0,0,0,2,0,0,.000,.500,.000,.500
+30,Tony Kemp,Oakland Athletics,Joely Rodriguez,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Tony Kemp,Oakland Athletics,Tayler Scott,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Tony Kemp,Oakland Athletics,Kyle Nelson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Tony Kemp,Oakland Athletics,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Tony Kemp,Oakland Athletics,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Tony Kemp,Oakland Athletics,Ryne Nelson,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+36,Tony Kemp,Oakland Athletics,Luis Cessa,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+37,Tony Kemp,Oakland Athletics,Derek Law,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Tony Kemp,Oakland Athletics,Lucas Sims,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Tony Kemp,Oakland Athletics,Jose Berrios,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+40,Tony Kemp,Oakland Athletics,Yusei Kikuchi,Toronto Blue Jays,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+41,Tony Kemp,Oakland Athletics,Chris Bassitt,Toronto Blue Jays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+42,Tony Kemp,Oakland Athletics,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Tony Kemp,Oakland Athletics,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Tony Kemp,Oakland Athletics,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Tony Kemp,Oakland Athletics,Trent Thornton,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Tony Kemp,Oakland Athletics,Keegan Akin,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+47,Tony Kemp,Oakland Athletics,Austin Voth,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+48,Tony Kemp,Oakland Athletics,Kyle Gibson,Baltimore Orioles,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+49,Tony Kemp,Oakland Athletics,Dean Kremer,Baltimore Orioles,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+50,Tony Kemp,Oakland Athletics,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Tony Kemp,Oakland Athletics,Cionel Perez,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Tony Kemp,Oakland Athletics,Grayson Rodriguez,Baltimore Orioles,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+53,Tony Kemp,Oakland Athletics,Craig Kimbrel,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+54,Tony Kemp,Oakland Athletics,Zack Wheeler,Philadelphia Phillies,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+55,Tony Kemp,Oakland Athletics,Taijuan Walker,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+56,Tony Kemp,Oakland Athletics,Andrew Vasquez,Philadelphia Phillies,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Tony Kemp,Oakland Athletics,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Tony Kemp,Oakland Athletics,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Tony Kemp,Oakland Athletics,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Tony Kemp,Oakland Athletics,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Tony Kemp,Oakland Athletics,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Tony Kemp,Oakland Athletics,Hayden Wesneski,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Tony Kemp,Oakland Athletics,Framber Valdez,Houston Astros,2,2,1,0,0,0,1,0,0,1.000,1.000,1.500,2.500
+64,Tony Kemp,Oakland Athletics,Hunter Brown,Houston Astros,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+65,Tony Kemp,Oakland Athletics,Bryan Abreu,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+66,Tony Kemp,Oakland Athletics,J.P. France,Houston Astros,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+67,Tony Kemp,Oakland Athletics,Cristian Javier,Houston Astros,5,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Tony Kemp,Oakland Athletics,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Tony Kemp,Oakland Athletics,Phil Maton,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Tony Kemp,Oakland Athletics,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Tony Kemp,Oakland Athletics,Ryan Pressly,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Tony Kemp,Oakland Athletics,Ryne Stanek,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Tony Kemp,Oakland Athletics,Jhoan Duran,Minnesota Twins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+74,Tony Kemp,Oakland Athletics,Pablo Lopez,Minnesota Twins,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+75,Tony Kemp,Oakland Athletics,Joe Ryan,Minnesota Twins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+76,Tony Kemp,Oakland Athletics,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Tony Kemp,Oakland Athletics,Edward Cabrera,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+78,Tony Kemp,Oakland Athletics,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Tony Kemp,Oakland Athletics,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Tony Kemp,Oakland Athletics,Eury Perez,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Tony Kemp,Oakland Athletics,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+82,Tony Kemp,Oakland Athletics,Jose Butto,New York Mets,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Tony Kemp,Oakland Athletics,Carlos Carrasco,New York Mets,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Tony Kemp,Oakland Athletics,Stephen Nogosek,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Tony Kemp,Oakland Athletics,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Tony Kemp,Oakland Athletics,Denyi Reyes,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Tony Kemp,Oakland Athletics,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Tony Kemp,Oakland Athletics,Dennis Santana,New York Mets,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+89,Tony Kemp,Oakland Athletics,Kodai Senga,New York Mets,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+90,Tony Kemp,Oakland Athletics,Jimmy Yacabonis,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+91,Tony Kemp,Oakland Athletics,Ron Marinaccio,New York Yankees,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+92,Tony Kemp,Oakland Athletics,Clarke Schmidt,New York Yankees,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+93,Tony Kemp,Oakland Athletics,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Tony Kemp,Oakland Athletics,Jhony Brito,New York Yankees,4,0,0,0,0,0,1,0,1,.000,.200,.000,.200
+95,Tony Kemp,Oakland Athletics,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Tony Kemp,Oakland Athletics,Deivi Garcia,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Tony Kemp,Oakland Athletics,Domingo German,New York Yankees,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Tony Kemp,Oakland Athletics,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Tony Kemp,Oakland Athletics,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Tony Kemp,Oakland Athletics,Wandy Peralta,New York Yankees,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Tony Kemp,Oakland Athletics,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Tony Kemp,Oakland Athletics,Greg Weissert,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Tony Kemp,Oakland Athletics,Bryce Miller,Seattle Mariners,3,1,0,0,0,0,1,0,0,.333,.500,.333,.833
+104,Tony Kemp,Oakland Athletics,Logan Gilbert,Seattle Mariners,6,1,1,0,0,1,0,0,0,.167,.167,.333,.500
+105,Tony Kemp,Oakland Athletics,Matt Brash,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Tony Kemp,Oakland Athletics,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+107,Tony Kemp,Oakland Athletics,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Tony Kemp,Oakland Athletics,George Kirby,Seattle Mariners,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+109,Tony Kemp,Oakland Athletics,Juan Then,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Tony Kemp,Oakland Athletics,Justin Topa,Seattle Mariners,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+111,Tony Kemp,Oakland Athletics,Sam Hentges,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+112,Tony Kemp,Oakland Athletics,James Karinchak,Cleveland Guardians,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+113,Tony Kemp,Oakland Athletics,Aaron Civale,Cleveland Guardians,3,2,0,0,1,1,0,0,1,.667,.667,1.667,2.334
+114,Tony Kemp,Oakland Athletics,Zach Plesac,Cleveland Guardians,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+115,Tony Kemp,Oakland Athletics,Gavin Williams,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+116,Tony Kemp,Oakland Athletics,Shane Bieber,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+117,Tony Kemp,Oakland Athletics,Emmanuel Clase,Cleveland Guardians,3,1,0,0,0,0,1,0,0,.333,.500,.333,.833
+118,Tony Kemp,Oakland Athletics,Logan Allen,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Tony Kemp,Oakland Athletics,Xzavion Curry,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Tony Kemp,Oakland Athletics,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Tony Kemp,Oakland Athletics,Hunter Gaddis,Cleveland Guardians,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+122,Tony Kemp,Oakland Athletics,Tim Herrin,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+123,Tony Kemp,Oakland Athletics,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Tony Kemp,Oakland Athletics,Nick Sandlin,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+125,Tony Kemp,Oakland Athletics,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Tony Kemp,Oakland Athletics,Joe Kelly,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+127,Tony Kemp,Oakland Athletics,Tanner Banks,Chicago White Sox,2,1,0,1,0,1,0,0,0,.500,.500,1.500,2.000
+128,Tony Kemp,Oakland Athletics,Gregory Santos,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+129,Tony Kemp,Oakland Athletics,Jesse Scholtens,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+130,Tony Kemp,Oakland Athletics,Touki Toussaint,Chicago White Sox,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+131,Tony Kemp,Oakland Athletics,Dylan Cease,Chicago White Sox,3,1,0,1,0,0,0,0,1,.333,.333,1.000,1.333
+132,Tony Kemp,Oakland Athletics,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Tony Kemp,Oakland Athletics,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Tony Kemp,Oakland Athletics,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Tony Kemp,Oakland Athletics,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Tony Kemp,Oakland Athletics,Peter Strzelecki,Milwaukee Brewers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+137,Tony Kemp,Oakland Athletics,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+138,Tony Kemp,Oakland Athletics,Brad Keller,Kansas City Royals,3,3,2,0,0,1,0,0,0,1.000,1.000,1.667,2.667
+139,Tony Kemp,Oakland Athletics,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Tony Kemp,Oakland Athletics,Jonathan Heasley,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Tony Kemp,Oakland Athletics,Brady Singer,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+142,Tony Kemp,Oakland Athletics,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+143,Tony Kemp,Oakland Athletics,Zach Logue,Detroit Tigers,2,2,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+144,Tony Kemp,Oakland Athletics,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Tony Kemp,Oakland Athletics,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Tony Kemp,Oakland Athletics,Reese Olson,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Tony Kemp,Oakland Athletics,Eduardo Rodriguez,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Tony Kemp,Oakland Athletics,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Tony Kemp,Oakland Athletics,Tarik Skubal,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

@@ -1,0 +1,75 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jackie Bradley Jr.,Kansas City Royals,Jesse Chavez,Atlanta Braves,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+1,Jackie Bradley Jr.,Kansas City Royals,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Jackie Bradley Jr.,Kansas City Royals,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Jackie Bradley Jr.,Kansas City Royals,Martin Perez,Texas Rangers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+4,Jackie Bradley Jr.,Kansas City Royals,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Jackie Bradley Jr.,Kansas City Royals,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Jackie Bradley Jr.,Kansas City Royals,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Jackie Bradley Jr.,Kansas City Royals,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Jackie Bradley Jr.,Kansas City Royals,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Jackie Bradley Jr.,Kansas City Royals,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Jackie Bradley Jr.,Kansas City Royals,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Jackie Bradley Jr.,Kansas City Royals,Zac Gallen,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+12,Jackie Bradley Jr.,Kansas City Royals,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Jackie Bradley Jr.,Kansas City Royals,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Jackie Bradley Jr.,Kansas City Royals,Tommy Henry,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Jackie Bradley Jr.,Kansas City Royals,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Jackie Bradley Jr.,Kansas City Royals,Alek Manoah,Toronto Blue Jays,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+17,Jackie Bradley Jr.,Kansas City Royals,Jose Berrios,Toronto Blue Jays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+18,Jackie Bradley Jr.,Kansas City Royals,Adam Cimber,Toronto Blue Jays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+19,Jackie Bradley Jr.,Kansas City Royals,Yusei Kikuchi,Toronto Blue Jays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+20,Jackie Bradley Jr.,Kansas City Royals,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Jackie Bradley Jr.,Kansas City Royals,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Jackie Bradley Jr.,Kansas City Royals,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Jackie Bradley Jr.,Kansas City Royals,Felix Bautista,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+24,Jackie Bradley Jr.,Kansas City Royals,Yu Darvish,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Jackie Bradley Jr.,Kansas City Royals,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Jackie Bradley Jr.,Kansas City Royals,Tim Hill,San Diego Padres,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Jackie Bradley Jr.,Kansas City Royals,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Jackie Bradley Jr.,Kansas City Royals,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+29,Jackie Bradley Jr.,Kansas City Royals,Josh Winder,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+30,Jackie Bradley Jr.,Kansas City Royals,Emilio Pagan,Minnesota Twins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+31,Jackie Bradley Jr.,Kansas City Royals,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Jackie Bradley Jr.,Kansas City Royals,Tyler Mahle,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Jackie Bradley Jr.,Kansas City Royals,Jovani Moran,Minnesota Twins,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+34,Jackie Bradley Jr.,Kansas City Royals,Joe Ryan,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Jackie Bradley Jr.,Kansas City Royals,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Jackie Bradley Jr.,Kansas City Royals,MacKenzie Gore,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Jackie Bradley Jr.,Kansas City Royals,Chad Kuhl,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Jackie Bradley Jr.,Kansas City Royals,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Jackie Bradley Jr.,Kansas City Royals,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+40,Jackie Bradley Jr.,Kansas City Royals,Anthony DeSclafani,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Jackie Bradley Jr.,Kansas City Royals,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Jackie Bradley Jr.,Kansas City Royals,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Jackie Bradley Jr.,Kansas City Royals,Kyle Freeland,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Jackie Bradley Jr.,Kansas City Royals,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Jackie Bradley Jr.,Kansas City Royals,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Jackie Bradley Jr.,Kansas City Royals,Aaron Bummer,Chicago White Sox,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+47,Jackie Bradley Jr.,Kansas City Royals,Dylan Cease,Chicago White Sox,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+48,Jackie Bradley Jr.,Kansas City Royals,Mike Clevinger,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Jackie Bradley Jr.,Kansas City Royals,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+50,Jackie Bradley Jr.,Kansas City Royals,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Jackie Bradley Jr.,Kansas City Royals,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Jackie Bradley Jr.,Kansas City Royals,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Jackie Bradley Jr.,Kansas City Royals,Lance Lynn,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Jackie Bradley Jr.,Kansas City Royals,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Jackie Bradley Jr.,Kansas City Royals,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+56,Jackie Bradley Jr.,Kansas City Royals,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Jackie Bradley Jr.,Kansas City Royals,Adrian Houser,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Jackie Bradley Jr.,Kansas City Royals,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Jackie Bradley Jr.,Kansas City Royals,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Jackie Bradley Jr.,Kansas City Royals,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Jackie Bradley Jr.,Kansas City Royals,Michael Lorenzen,Detroit Tigers,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+62,Jackie Bradley Jr.,Kansas City Royals,Eduardo Rodriguez,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+63,Jackie Bradley Jr.,Kansas City Royals,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Jackie Bradley Jr.,Kansas City Royals,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Jackie Bradley Jr.,Kansas City Royals,Tyler Holton,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Jackie Bradley Jr.,Kansas City Royals,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Jackie Bradley Jr.,Kansas City Royals,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Jackie Bradley Jr.,Kansas City Royals,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Jackie Bradley Jr.,Kansas City Royals,Mason Miller,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+70,Jackie Bradley Jr.,Kansas City Royals,Ken Waldichuk,Oakland Athletics,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+71,Jackie Bradley Jr.,Kansas City Royals,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Jackie Bradley Jr.,Kansas City Royals,Kyle Muller,Oakland Athletics,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+73,Jackie Bradley Jr.,Kansas City Royals,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

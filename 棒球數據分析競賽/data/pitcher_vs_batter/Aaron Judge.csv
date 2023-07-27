@@ -1,0 +1,105 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Aaron Judge,New York Yankees,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+1,Aaron Judge,New York Yankees,Shelby Miller,Los Angeles Dodgers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+2,Aaron Judge,New York Yankees,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Aaron Judge,New York Yankees,Michael Grove,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Aaron Judge,New York Yankees,Clayton Kershaw,Los Angeles Dodgers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+5,Aaron Judge,New York Yankees,Tayler Scott,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,Aaron Judge,New York Yankees,Griffin Canning,Los Angeles Angels,2,1,0,0,1,2,1,0,1,.500,.667,2.000,2.667
+7,Aaron Judge,New York Yankees,Patrick Sandoval,Los Angeles Angels,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+8,Aaron Judge,New York Yankees,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Aaron Judge,New York Yankees,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Aaron Judge,New York Yankees,Jimmy Herget,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Aaron Judge,New York Yankees,Aaron Loup,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+12,Aaron Judge,New York Yankees,Matt Moore,Los Angeles Angels,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+13,Aaron Judge,New York Yankees,Jose Suarez,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Aaron Judge,New York Yankees,Andrew Wantz,Los Angeles Angels,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+15,Aaron Judge,New York Yankees,Kevin Kelly,Tampa Bay Rays,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+16,Aaron Judge,New York Yankees,Ryan Thompson,Tampa Bay Rays,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+17,Aaron Judge,New York Yankees,Shane McClanahan,Tampa Bay Rays,2,1,0,0,1,2,1,0,0,.500,.667,2.000,2.667
+18,Aaron Judge,New York Yankees,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Aaron Judge,New York Yankees,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Aaron Judge,New York Yankees,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+21,Aaron Judge,New York Yankees,Josh Fleming,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Aaron Judge,New York Yankees,Javy Guerra,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Aaron Judge,New York Yankees,Trevor Kelley,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Aaron Judge,New York Yankees,Drew Rasmussen,Tampa Bay Rays,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+25,Aaron Judge,New York Yankees,Ian Gibaut,Cincinnati Reds,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+26,Aaron Judge,New York Yankees,Luke Weaver,Cincinnati Reds,3,3,1,0,0,2,0,0,0,1.000,1.000,1.333,2.333
+27,Aaron Judge,New York Yankees,Ben Lively,Cincinnati Reds,2,1,0,0,1,1,1,0,1,.500,.667,2.000,2.667
+28,Aaron Judge,New York Yankees,Alan Busenitz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Aaron Judge,New York Yankees,Lucas Sims,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+30,Aaron Judge,New York Yankees,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Aaron Judge,New York Yankees,Jay Jackson,Toronto Blue Jays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+32,Aaron Judge,New York Yankees,Erik Swanson,Toronto Blue Jays,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+33,Aaron Judge,New York Yankees,Jose Berrios,Toronto Blue Jays,3,2,1,0,1,2,0,0,0,.667,.667,2.000,2.667
+34,Aaron Judge,New York Yankees,Chris Bassitt,Toronto Blue Jays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+35,Aaron Judge,New York Yankees,Yimi Garcia,Toronto Blue Jays,3,1,0,0,0,0,1,0,1,.333,.500,.333,.833
+36,Aaron Judge,New York Yankees,Alek Manoah,Toronto Blue Jays,4,1,0,0,1,2,2,0,1,.250,.500,1.000,1.500
+37,Aaron Judge,New York Yankees,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Aaron Judge,New York Yankees,Adam Cimber,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Aaron Judge,New York Yankees,Kevin Gausman,Toronto Blue Jays,6,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+40,Aaron Judge,New York Yankees,Yusei Kikuchi,Toronto Blue Jays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+41,Aaron Judge,New York Yankees,Nate Pearson,Toronto Blue Jays,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+42,Aaron Judge,New York Yankees,Jordan Romano,Toronto Blue Jays,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+43,Aaron Judge,New York Yankees,Felix Bautista,Baltimore Orioles,1,1,0,0,1,1,2,0,0,1.000,1.000,4.000,5.000
+44,Aaron Judge,New York Yankees,Logan Gillaspie,Baltimore Orioles,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+45,Aaron Judge,New York Yankees,Austin Voth,Baltimore Orioles,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+46,Aaron Judge,New York Yankees,Tyler Wells,Baltimore Orioles,5,2,0,0,1,1,1,0,0,.400,.500,1.000,1.500
+47,Aaron Judge,New York Yankees,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+48,Aaron Judge,New York Yankees,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+49,Aaron Judge,New York Yankees,Kyle Gibson,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Aaron Judge,New York Yankees,Mychal Givens,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+51,Aaron Judge,New York Yankees,Cole Irvin,Baltimore Orioles,1,0,0,0,0,1,1,0,1,.000,.333,.000,.333
+52,Aaron Judge,New York Yankees,Dean Kremer,Baltimore Orioles,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+53,Aaron Judge,New York Yankees,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Aaron Judge,New York Yankees,Seranthony Dominguez,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Aaron Judge,New York Yankees,Aaron Nola,Philadelphia Phillies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+56,Aaron Judge,New York Yankees,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Aaron Judge,New York Yankees,Craig Kimbrel,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+58,Aaron Judge,New York Yankees,Gregory Soto,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+59,Aaron Judge,New York Yankees,Matt Strahm,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Aaron Judge,New York Yankees,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Aaron Judge,New York Yankees,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+62,Aaron Judge,New York Yankees,Yu Darvish,San Diego Padres,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+63,Aaron Judge,New York Yankees,Joe Musgrove,San Diego Padres,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+64,Aaron Judge,New York Yankees,Michael Wacha,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+65,Aaron Judge,New York Yankees,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Aaron Judge,New York Yankees,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Aaron Judge,New York Yankees,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Aaron Judge,New York Yankees,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Aaron Judge,New York Yankees,Kenta Maeda,Minnesota Twins,2,2,2,0,0,3,1,0,0,1.000,1.000,2.000,3.000
+70,Aaron Judge,New York Yankees,Brent Headrick,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+71,Aaron Judge,New York Yankees,Tyler Mahle,Minnesota Twins,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+72,Aaron Judge,New York Yankees,Sonny Gray,Minnesota Twins,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+73,Aaron Judge,New York Yankees,Louie Varland,Minnesota Twins,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+74,Aaron Judge,New York Yankees,Joe Ryan,Minnesota Twins,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+75,Aaron Judge,New York Yankees,Jorge Alcala,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+76,Aaron Judge,New York Yankees,Griffin Jax,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Aaron Judge,New York Yankees,Jorge Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Aaron Judge,New York Yankees,Pablo Lopez,Minnesota Twins,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+79,Aaron Judge,New York Yankees,Camilo Doval,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+80,Aaron Judge,New York Yankees,Jakob Junis,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+81,Aaron Judge,New York Yankees,John Brebbia,San Francisco Giants,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+82,Aaron Judge,New York Yankees,Alex Cobb,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+83,Aaron Judge,New York Yankees,Ross Stripling,San Francisco Giants,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+84,Aaron Judge,New York Yankees,Logan Webb,San Francisco Giants,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+85,Aaron Judge,New York Yankees,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Aaron Judge,New York Yankees,Darren McCaughan,Seattle Mariners,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+87,Aaron Judge,New York Yankees,Juan Then,Seattle Mariners,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+88,Aaron Judge,New York Yankees,Bryce Miller,Seattle Mariners,3,2,1,0,1,2,0,0,0,.667,.667,2.000,2.667
+89,Aaron Judge,New York Yankees,Chris Flexen,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+90,Aaron Judge,New York Yankees,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+91,Aaron Judge,New York Yankees,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Aaron Judge,New York Yankees,Paul Sewald,Seattle Mariners,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+93,Aaron Judge,New York Yankees,Xzavion Curry,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+94,Aaron Judge,New York Yankees,Hunter Gaddis,Cleveland Guardians,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+95,Aaron Judge,New York Yankees,Peyton Battenfield,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Aaron Judge,New York Yankees,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+97,Aaron Judge,New York Yankees,James Karinchak,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Aaron Judge,New York Yankees,Nick Sandlin,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+99,Aaron Judge,New York Yankees,Rico Garcia,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+100,Aaron Judge,New York Yankees,Richard Lovelady,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+101,Aaron Judge,New York Yankees,Kyle Muller,Oakland Athletics,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+102,Aaron Judge,New York Yankees,Spencer Patton,Oakland Athletics,0,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+103,Aaron Judge,New York Yankees,Drew Rucinski,Oakland Athletics,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000

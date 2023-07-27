@@ -1,0 +1,35 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Terrin Vavra,Baltimore Orioles,John King,Texas Rangers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,Terrin Vavra,Baltimore Orioles,Jacob deGrom,Texas Rangers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+2,Terrin Vavra,Baltimore Orioles,Chase Silseth,Los Angeles Angels,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+3,Terrin Vavra,Baltimore Orioles,Griffin Canning,Los Angeles Angels,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+4,Terrin Vavra,Baltimore Orioles,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+5,Terrin Vavra,Baltimore Orioles,Kaleb Ort,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+6,Terrin Vavra,Baltimore Orioles,Josh Winckowski,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+7,Terrin Vavra,Baltimore Orioles,Tanner Houck,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+8,Terrin Vavra,Baltimore Orioles,Corey Kluber,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Terrin Vavra,Baltimore Orioles,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Terrin Vavra,Baltimore Orioles,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Terrin Vavra,Baltimore Orioles,Jordan Romano,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+12,Terrin Vavra,Baltimore Orioles,Yimi Garcia,Toronto Blue Jays,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+13,Terrin Vavra,Baltimore Orioles,Alek Manoah,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+14,Terrin Vavra,Baltimore Orioles,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Terrin Vavra,Baltimore Orioles,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Terrin Vavra,Baltimore Orioles,Gerrit Cole,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Terrin Vavra,Baltimore Orioles,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Terrin Vavra,Baltimore Orioles,Ron Marinaccio,New York Yankees,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+19,Terrin Vavra,Baltimore Orioles,Emmanuel Clase,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+20,Terrin Vavra,Baltimore Orioles,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Terrin Vavra,Baltimore Orioles,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Terrin Vavra,Baltimore Orioles,Cal Quantrill,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Terrin Vavra,Baltimore Orioles,Duane Underwood Jr.,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+24,Terrin Vavra,Baltimore Orioles,Reynaldo Lopez,Chicago White Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+25,Terrin Vavra,Baltimore Orioles,Dylan Cease,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Terrin Vavra,Baltimore Orioles,Mike Clevinger,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+27,Terrin Vavra,Baltimore Orioles,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Terrin Vavra,Baltimore Orioles,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Terrin Vavra,Baltimore Orioles,Mason Englert,Detroit Tigers,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Terrin Vavra,Baltimore Orioles,Michael Lorenzen,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Terrin Vavra,Baltimore Orioles,Adam Oller,Oakland Athletics,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+32,Terrin Vavra,Baltimore Orioles,Zach Jackson,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+33,Terrin Vavra,Baltimore Orioles,Adrian Martinez,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

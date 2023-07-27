@@ -1,0 +1,90 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Adam Duvall,Boston Red Sox,Josh Sborz,Texas Rangers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+1,Adam Duvall,Boston Red Sox,Jon Gray,Texas Rangers,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+2,Adam Duvall,Boston Red Sox,Nathan Eovaldi,Texas Rangers,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+3,Adam Duvall,Boston Red Sox,John King,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Adam Duvall,Boston Red Sox,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Adam Duvall,Boston Red Sox,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+6,Adam Duvall,Boston Red Sox,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Adam Duvall,Boston Red Sox,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Adam Duvall,Boston Red Sox,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Adam Duvall,Boston Red Sox,Bryan Baker,Baltimore Orioles,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+10,Adam Duvall,Boston Red Sox,Dean Kremer,Baltimore Orioles,2,2,0,1,1,2,0,0,0,1.000,1.000,3.500,4.500
+11,Adam Duvall,Boston Red Sox,Cionel Perez,Baltimore Orioles,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+12,Adam Duvall,Boston Red Sox,Keegan Akin,Baltimore Orioles,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+13,Adam Duvall,Boston Red Sox,Felix Bautista,Baltimore Orioles,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+14,Adam Duvall,Boston Red Sox,Kyle Gibson,Baltimore Orioles,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+15,Adam Duvall,Boston Red Sox,Cole Irvin,Baltimore Orioles,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+16,Adam Duvall,Boston Red Sox,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Adam Duvall,Boston Red Sox,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Adam Duvall,Boston Red Sox,Kyle Hendricks,Chicago Cubs,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+19,Adam Duvall,Boston Red Sox,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Adam Duvall,Boston Red Sox,Anthony Kay,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Adam Duvall,Boston Red Sox,Michael Rucker,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+22,Adam Duvall,Boston Red Sox,Justin Steele,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Adam Duvall,Boston Red Sox,Bailey Ober,Minnesota Twins,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+24,Adam Duvall,Boston Red Sox,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Adam Duvall,Boston Red Sox,Brent Headrick,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Adam Duvall,Boston Red Sox,Pablo Lopez,Minnesota Twins,2,0,0,0,0,1,1,0,1,.000,.333,.000,.333
+27,Adam Duvall,Boston Red Sox,Jovani Moran,Minnesota Twins,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+28,Adam Duvall,Boston Red Sox,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Adam Duvall,Boston Red Sox,Emilio Pagan,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+30,Adam Duvall,Boston Red Sox,Joe Ryan,Minnesota Twins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+31,Adam Duvall,Boston Red Sox,Dylan Floro,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+32,Adam Duvall,Boston Red Sox,Jesus Luzardo,Miami Marlins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+33,Adam Duvall,Boston Red Sox,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Adam Duvall,Boston Red Sox,Archie Bradley,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Adam Duvall,Boston Red Sox,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Adam Duvall,Boston Red Sox,Braxton Garrett,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+37,Adam Duvall,Boston Red Sox,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Adam Duvall,Boston Red Sox,David Peterson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Adam Duvall,Boston Red Sox,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Adam Duvall,Boston Red Sox,Kodai Senga,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Adam Duvall,Boston Red Sox,Jake Bird,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+42,Adam Duvall,Boston Red Sox,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Adam Duvall,Boston Red Sox,Daniel Bard,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+44,Adam Duvall,Boston Red Sox,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Adam Duvall,Boston Red Sox,Austin Gomber,Colorado Rockies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Adam Duvall,Boston Red Sox,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Adam Duvall,Boston Red Sox,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Adam Duvall,Boston Red Sox,Connor Seabold,Colorado Rockies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+49,Adam Duvall,Boston Red Sox,Clarke Schmidt,New York Yankees,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+50,Adam Duvall,Boston Red Sox,Domingo German,New York Yankees,5,2,1,0,0,0,0,0,1,.400,.400,.600,1.000
+51,Adam Duvall,Boston Red Sox,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Adam Duvall,Boston Red Sox,Gerrit Cole,New York Yankees,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+53,Adam Duvall,Boston Red Sox,Tommy Kahnle,New York Yankees,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+54,Adam Duvall,Boston Red Sox,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Adam Duvall,Boston Red Sox,Matt Krook,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Adam Duvall,Boston Red Sox,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Adam Duvall,Boston Red Sox,Johan Oviedo,Pittsburgh Pirates,1,1,0,0,0,0,2,0,0,1.000,1.000,1.000,2.000
+58,Adam Duvall,Boston Red Sox,Duane Underwood Jr.,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+59,Adam Duvall,Boston Red Sox,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Adam Duvall,Boston Red Sox,Roansy Contreras,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Adam Duvall,Boston Red Sox,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Adam Duvall,Boston Red Sox,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Adam Duvall,Boston Red Sox,Tanner Banks,Chicago White Sox,2,2,2,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+64,Adam Duvall,Boston Red Sox,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Adam Duvall,Boston Red Sox,Lucas Giolito,Chicago White Sox,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+66,Adam Duvall,Boston Red Sox,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Adam Duvall,Boston Red Sox,Joe Kelly,Chicago White Sox,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+68,Adam Duvall,Boston Red Sox,Lance Lynn,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Adam Duvall,Boston Red Sox,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Adam Duvall,Boston Red Sox,Jesse Scholtens,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Adam Duvall,Boston Red Sox,Tyler Alexander,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+72,Adam Duvall,Boston Red Sox,Jose Cisnero,Detroit Tigers,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+73,Adam Duvall,Boston Red Sox,Zach McKinstry,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+74,Adam Duvall,Boston Red Sox,Matthew Boyd,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+75,Adam Duvall,Boston Red Sox,Garrett Hill,Detroit Tigers,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+76,Adam Duvall,Boston Red Sox,Mason Englert,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+77,Adam Duvall,Boston Red Sox,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Adam Duvall,Boston Red Sox,Spencer Turnbull,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Adam Duvall,Boston Red Sox,Joey Wentz,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Adam Duvall,Boston Red Sox,Trey Wingenter,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Adam Duvall,Boston Red Sox,Lucas Erceg,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+82,Adam Duvall,Boston Red Sox,Paul Blackburn,Oakland Athletics,3,2,1,0,1,2,0,0,1,.667,.500,2.000,2.500
+83,Adam Duvall,Boston Red Sox,Luis Medina,Oakland Athletics,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+84,Adam Duvall,Boston Red Sox,Ken Waldichuk,Oakland Athletics,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+85,Adam Duvall,Boston Red Sox,Angel Felipe,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Adam Duvall,Boston Red Sox,Sam Long,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Adam Duvall,Boston Red Sox,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Adam Duvall,Boston Red Sox,JP Sears,Oakland Athletics,0,0,0,0,0,1,0,0,0,.000,.500,.000,.500

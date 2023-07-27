@@ -1,0 +1,145 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Nick Maton,Detroit Tigers,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Nick Maton,Detroit Tigers,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Nick Maton,Detroit Tigers,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Nick Maton,Detroit Tigers,Charlie Morton,Atlanta Braves,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+4,Nick Maton,Detroit Tigers,Spencer Strider,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.667,.000,.667
+5,Nick Maton,Detroit Tigers,Dane Dunning,Texas Rangers,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+6,Nick Maton,Detroit Tigers,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Nick Maton,Detroit Tigers,Nathan Eovaldi,Texas Rangers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+8,Nick Maton,Detroit Tigers,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Nick Maton,Detroit Tigers,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+10,Nick Maton,Detroit Tigers,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Nick Maton,Detroit Tigers,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Nick Maton,Detroit Tigers,Jeffrey Springs,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+13,Nick Maton,Detroit Tigers,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Nick Maton,Detroit Tigers,Tanner Houck,Boston Red Sox,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+15,Nick Maton,Detroit Tigers,Ryan Brasier,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+16,Nick Maton,Detroit Tigers,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+17,Nick Maton,Detroit Tigers,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Nick Maton,Detroit Tigers,Zack Kelly,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Nick Maton,Detroit Tigers,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Nick Maton,Detroit Tigers,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Nick Maton,Detroit Tigers,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Nick Maton,Detroit Tigers,Adam Wainwright,St. Louis Cardinals,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+23,Nick Maton,Detroit Tigers,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Nick Maton,Detroit Tigers,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Nick Maton,Detroit Tigers,James Naile,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Nick Maton,Detroit Tigers,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Nick Maton,Detroit Tigers,Drey Jameson,Arizona Diamondbacks,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+28,Nick Maton,Detroit Tigers,Zac Gallen,Arizona Diamondbacks,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+29,Nick Maton,Detroit Tigers,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Nick Maton,Detroit Tigers,Merrill Kelly,Arizona Diamondbacks,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+31,Nick Maton,Detroit Tigers,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Nick Maton,Detroit Tigers,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+33,Nick Maton,Detroit Tigers,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Nick Maton,Detroit Tigers,Adam Cimber,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+35,Nick Maton,Detroit Tigers,Alek Manoah,Toronto Blue Jays,1,1,0,0,1,3,1,0,0,1.000,1.000,4.000,5.000
+36,Nick Maton,Detroit Tigers,Chris Bassitt,Toronto Blue Jays,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+37,Nick Maton,Detroit Tigers,Kevin Gausman,Toronto Blue Jays,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+38,Nick Maton,Detroit Tigers,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Nick Maton,Detroit Tigers,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Nick Maton,Detroit Tigers,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Nick Maton,Detroit Tigers,Kyle Bradish,Baltimore Orioles,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+42,Nick Maton,Detroit Tigers,Dean Kremer,Baltimore Orioles,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+43,Nick Maton,Detroit Tigers,Keegan Akin,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Nick Maton,Detroit Tigers,Bryan Baker,Baltimore Orioles,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+45,Nick Maton,Detroit Tigers,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Nick Maton,Detroit Tigers,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Nick Maton,Detroit Tigers,Kyle Gibson,Baltimore Orioles,5,0,0,0,0,0,1,0,3,.000,.167,.000,.167
+48,Nick Maton,Detroit Tigers,DL Hall,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Nick Maton,Detroit Tigers,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Nick Maton,Detroit Tigers,Grayson Rodriguez,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Nick Maton,Detroit Tigers,Austin Voth,Baltimore Orioles,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+52,Nick Maton,Detroit Tigers,Tyler Wells,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Nick Maton,Detroit Tigers,Craig Kimbrel,Philadelphia Phillies,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+54,Nick Maton,Detroit Tigers,Aaron Nola,Philadelphia Phillies,2,1,0,0,1,3,1,0,1,.500,.667,2.000,2.667
+55,Nick Maton,Detroit Tigers,Taijuan Walker,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Nick Maton,Detroit Tigers,Zack Wheeler,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+57,Nick Maton,Detroit Tigers,Seth Lugo,San Diego Padres,1,1,0,0,0,1,1,0,0,1.000,.667,1.000,1.667
+58,Nick Maton,Detroit Tigers,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Nick Maton,Detroit Tigers,Robert Suarez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Nick Maton,Detroit Tigers,Cristian Javier,Houston Astros,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+61,Nick Maton,Detroit Tigers,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Nick Maton,Detroit Tigers,Hunter Brown,Houston Astros,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+63,Nick Maton,Detroit Tigers,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Nick Maton,Detroit Tigers,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Nick Maton,Detroit Tigers,Jordan Balazovic,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+66,Nick Maton,Detroit Tigers,Griffin Jax,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+67,Nick Maton,Detroit Tigers,Pablo Lopez,Minnesota Twins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+68,Nick Maton,Detroit Tigers,Bailey Ober,Minnesota Twins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+69,Nick Maton,Detroit Tigers,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Nick Maton,Detroit Tigers,Sonny Gray,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+71,Nick Maton,Detroit Tigers,Brent Headrick,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Nick Maton,Detroit Tigers,Kenta Maeda,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+73,Nick Maton,Detroit Tigers,Joe Ryan,Minnesota Twins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Nick Maton,Detroit Tigers,Louie Varland,Minnesota Twins,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+75,Nick Maton,Detroit Tigers,Josh Winder,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Nick Maton,Detroit Tigers,Josiah Gray,Washington Nationals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+77,Nick Maton,Detroit Tigers,Hobie Harris,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+78,Nick Maton,Detroit Tigers,Andres Machado,Washington Nationals,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+79,Nick Maton,Detroit Tigers,Kyle Finnegan,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Nick Maton,Detroit Tigers,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Nick Maton,Detroit Tigers,Jake Irvin,Washington Nationals,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+82,Nick Maton,Detroit Tigers,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Nick Maton,Detroit Tigers,John Brebbia,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+84,Nick Maton,Detroit Tigers,Camilo Doval,San Francisco Giants,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+85,Nick Maton,Detroit Tigers,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Nick Maton,Detroit Tigers,Anthony DeSclafani,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Nick Maton,Detroit Tigers,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+88,Nick Maton,Detroit Tigers,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Nick Maton,Detroit Tigers,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Nick Maton,Detroit Tigers,Jose Butto,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Nick Maton,Detroit Tigers,Zach Muckenhirn,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Nick Maton,Detroit Tigers,Max Scherzer,New York Mets,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+93,Nick Maton,Detroit Tigers,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Nick Maton,Detroit Tigers,Justin Verlander,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+95,Nick Maton,Detroit Tigers,Jimmy Yacabonis,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Nick Maton,Detroit Tigers,Ty Adcock,Seattle Mariners,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+97,Nick Maton,Detroit Tigers,Matt Brash,Seattle Mariners,0,0,0,0,0,1,0,0,0,.000,1.000,.000,1.000
+98,Nick Maton,Detroit Tigers,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Nick Maton,Detroit Tigers,Matt Festa,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+100,Nick Maton,Detroit Tigers,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+101,Nick Maton,Detroit Tigers,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Nick Maton,Detroit Tigers,Bryce Miller,Seattle Mariners,5,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Nick Maton,Detroit Tigers,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Nick Maton,Detroit Tigers,Tanner Bibee,Cleveland Guardians,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+105,Nick Maton,Detroit Tigers,Peyton Battenfield,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Nick Maton,Detroit Tigers,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+107,Nick Maton,Detroit Tigers,Xzavion Curry,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Nick Maton,Detroit Tigers,Enyel De Los Santos,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+109,Nick Maton,Detroit Tigers,Hunter Gaddis,Cleveland Guardians,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+110,Nick Maton,Detroit Tigers,James Karinchak,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Nick Maton,Detroit Tigers,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Nick Maton,Detroit Tigers,Cal Quantrill,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Nick Maton,Detroit Tigers,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Nick Maton,Detroit Tigers,Luis L. Ortiz,Pittsburgh Pirates,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+115,Nick Maton,Detroit Tigers,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Nick Maton,Detroit Tigers,Duane Underwood Jr.,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+117,Nick Maton,Detroit Tigers,Dylan Cease,Chicago White Sox,3,2,0,0,0,0,1,0,1,.667,.750,.667,1.417
+118,Nick Maton,Detroit Tigers,Mike Clevinger,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+119,Nick Maton,Detroit Tigers,Liam Hendriks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Nick Maton,Detroit Tigers,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Nick Maton,Detroit Tigers,Michael Kopech,Chicago White Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Nick Maton,Detroit Tigers,Reynaldo Lopez,Chicago White Sox,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+123,Nick Maton,Detroit Tigers,Lance Lynn,Chicago White Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Nick Maton,Detroit Tigers,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Nick Maton,Detroit Tigers,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Nick Maton,Detroit Tigers,Jesse Scholtens,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Nick Maton,Detroit Tigers,Colin Rea,Milwaukee Brewers,2,2,0,0,1,3,0,0,0,1.000,1.000,2.500,3.500
+128,Nick Maton,Detroit Tigers,Freddy Peralta,Milwaukee Brewers,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+129,Nick Maton,Detroit Tigers,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Nick Maton,Detroit Tigers,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Nick Maton,Detroit Tigers,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Nick Maton,Detroit Tigers,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Nick Maton,Detroit Tigers,Jackson Kowar,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+134,Nick Maton,Detroit Tigers,Mike Mayers,Kansas City Royals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+135,Nick Maton,Detroit Tigers,Zack Greinke,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+136,Nick Maton,Detroit Tigers,Scott Barlow,Kansas City Royals,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+137,Nick Maton,Detroit Tigers,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Nick Maton,Detroit Tigers,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+139,Nick Maton,Detroit Tigers,Jonathan Heasley,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Nick Maton,Detroit Tigers,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Nick Maton,Detroit Tigers,Jordan Lyles,Kansas City Royals,5,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Nick Maton,Detroit Tigers,Brady Singer,Kansas City Royals,4,0,0,0,0,0,1,0,0,.000,.200,.000,.200
+143,Nick Maton,Detroit Tigers,Nick Wittgren,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

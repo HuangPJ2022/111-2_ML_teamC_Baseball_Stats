@@ -1,0 +1,21 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Heliot Ramos,San Francisco Giants,Yency Almonte,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Heliot Ramos,San Francisco Giants,Alex Vesia,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Heliot Ramos,San Francisco Giants,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Heliot Ramos,San Francisco Giants,Andre Jackson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Heliot Ramos,San Francisco Giants,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Heliot Ramos,San Francisco Giants,Julio Urias,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Heliot Ramos,San Francisco Giants,Jesus Luzardo,Miami Marlins,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+7,Heliot Ramos,San Francisco Giants,Andrew Nardi,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+8,Heliot Ramos,San Francisco Giants,Trevor Rogers,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Heliot Ramos,San Francisco Giants,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Heliot Ramos,San Francisco Giants,Devin Smeltzer,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Heliot Ramos,San Francisco Giants,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Heliot Ramos,San Francisco Giants,David Peterson,New York Mets,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+13,Heliot Ramos,San Francisco Giants,Joey Lucchesi,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+14,Heliot Ramos,San Francisco Giants,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Heliot Ramos,San Francisco Giants,Kris Bubic,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+16,Heliot Ramos,San Francisco Giants,Ryan Yarbrough,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Heliot Ramos,San Francisco Giants,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Heliot Ramos,San Francisco Giants,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Heliot Ramos,San Francisco Giants,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

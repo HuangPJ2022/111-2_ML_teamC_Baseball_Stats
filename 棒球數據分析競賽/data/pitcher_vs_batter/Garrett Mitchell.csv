@@ -1,0 +1,41 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Garrett Mitchell,Milwaukee Brewers,Jack Flaherty,St. Louis Cardinals,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+1,Garrett Mitchell,Milwaukee Brewers,Jordan Hicks,St. Louis Cardinals,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+2,Garrett Mitchell,Milwaukee Brewers,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Garrett Mitchell,Milwaukee Brewers,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Garrett Mitchell,Milwaukee Brewers,Jake Woodford,St. Louis Cardinals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+5,Garrett Mitchell,Milwaukee Brewers,Miguel Castro,Arizona Diamondbacks,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+6,Garrett Mitchell,Milwaukee Brewers,Zac Gallen,Arizona Diamondbacks,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+7,Garrett Mitchell,Milwaukee Brewers,Jose Ruiz,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Garrett Mitchell,Milwaukee Brewers,Drey Jameson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Garrett Mitchell,Milwaukee Brewers,Merrill Kelly,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Garrett Mitchell,Milwaukee Brewers,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Garrett Mitchell,Milwaukee Brewers,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Garrett Mitchell,Milwaukee Brewers,Julian Merryweather,Chicago Cubs,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+13,Garrett Mitchell,Milwaukee Brewers,Jameson Taillon,Chicago Cubs,2,1,0,1,0,1,0,0,1,.500,.500,1.500,2.000
+14,Garrett Mitchell,Milwaukee Brewers,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Garrett Mitchell,Milwaukee Brewers,Javier Assad,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+16,Garrett Mitchell,Milwaukee Brewers,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Garrett Mitchell,Milwaukee Brewers,Mark Leiter Jr.,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Garrett Mitchell,Milwaukee Brewers,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Garrett Mitchell,Milwaukee Brewers,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Garrett Mitchell,Milwaukee Brewers,Yu Darvish,San Diego Padres,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+21,Garrett Mitchell,Milwaukee Brewers,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Garrett Mitchell,Milwaukee Brewers,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Garrett Mitchell,Milwaukee Brewers,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Garrett Mitchell,Milwaukee Brewers,Seth Lugo,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+25,Garrett Mitchell,Milwaukee Brewers,Nick Martinez,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Garrett Mitchell,Milwaukee Brewers,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Garrett Mitchell,Milwaukee Brewers,Adam Ottavino,New York Mets,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+28,Garrett Mitchell,Milwaukee Brewers,Brooks Raley,New York Mets,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+29,Garrett Mitchell,Milwaukee Brewers,Carlos Carrasco,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+30,Garrett Mitchell,Milwaukee Brewers,Max Scherzer,New York Mets,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+31,Garrett Mitchell,Milwaukee Brewers,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Garrett Mitchell,Milwaukee Brewers,Luis Guillorme,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Garrett Mitchell,Milwaukee Brewers,Tommy Hunter,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+34,Garrett Mitchell,Milwaukee Brewers,Diego Castillo,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+35,Garrett Mitchell,Milwaukee Brewers,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Garrett Mitchell,Milwaukee Brewers,Chris Flexen,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Garrett Mitchell,Milwaukee Brewers,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Garrett Mitchell,Milwaukee Brewers,Darren McCaughan,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Garrett Mitchell,Milwaukee Brewers,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

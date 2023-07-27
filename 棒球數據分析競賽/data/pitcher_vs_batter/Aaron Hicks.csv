@@ -1,0 +1,125 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Aaron Hicks,New York Yankees,Brock Burke,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Aaron Hicks,New York Yankees,Martin Perez,Texas Rangers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Aaron Hicks,New York Yankees,Dane Dunning,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Aaron Hicks,New York Yankees,Nathan Eovaldi,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Aaron Hicks,New York Yankees,Andrew Heaney,Texas Rangers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+5,Aaron Hicks,New York Yankees,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Aaron Hicks,New York Yankees,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Aaron Hicks,New York Yankees,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Aaron Hicks,New York Yankees,Jacob deGrom,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Aaron Hicks,Baltimore Orioles,Justin Bruihl,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+10,Aaron Hicks,Baltimore Orioles,Nick Robertson,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+11,Aaron Hicks,Baltimore Orioles,Yency Almonte,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+12,Aaron Hicks,Baltimore Orioles,Michael Grove,Los Angeles Dodgers,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+13,Aaron Hicks,Baltimore Orioles,Julio Urias,Los Angeles Dodgers,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+14,Aaron Hicks,Baltimore Orioles,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Aaron Hicks,Baltimore Orioles,Emmet Sheehan,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+16,Aaron Hicks,New York Yankees,Jimmy Herget,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Aaron Hicks,New York Yankees,Jose Quijada,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Aaron Hicks,New York Yankees,Jose Suarez,Los Angeles Angels,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+19,Aaron Hicks,Baltimore Orioles,Robert Stephenson,Tampa Bay Rays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+20,Aaron Hicks,Baltimore Orioles,Tyler Glasnow,Tampa Bay Rays,5,2,0,0,1,3,0,0,1,.400,.400,1.000,1.400
+21,Aaron Hicks,New York Yankees,Josh Fleming,Tampa Bay Rays,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+22,Aaron Hicks,Baltimore Orioles,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+23,Aaron Hicks,Baltimore Orioles,Taj Bradley,Tampa Bay Rays,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+24,Aaron Hicks,Baltimore Orioles,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Aaron Hicks,Baltimore Orioles,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Aaron Hicks,Baltimore Orioles,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Aaron Hicks,Baltimore Orioles,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+28,Aaron Hicks,Baltimore Orioles,Colin Poche,Tampa Bay Rays,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+29,Aaron Hicks,New York Yankees,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Aaron Hicks,New York Yankees,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Aaron Hicks,New York Yankees,Drew Rasmussen,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Aaron Hicks,New York Yankees,Ryan Thompson,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+33,Aaron Hicks,Baltimore Orioles,Buck Farmer,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+34,Aaron Hicks,Baltimore Orioles,Andrew Abbott,Cincinnati Reds,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+35,Aaron Hicks,Baltimore Orioles,Fernando Cruz,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Aaron Hicks,Baltimore Orioles,Daniel Duarte,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Aaron Hicks,Baltimore Orioles,Eduardo Salazar,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+38,Aaron Hicks,Baltimore Orioles,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Aaron Hicks,Baltimore Orioles,Brandon Williamson,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Aaron Hicks,Baltimore Orioles,Jake Wong,Cincinnati Reds,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+41,Aaron Hicks,New York Yankees,Ben Lively,Cincinnati Reds,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+42,Aaron Hicks,Baltimore Orioles,Bowden Francis,Toronto Blue Jays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+43,Aaron Hicks,Baltimore Orioles,Jordan Romano,Toronto Blue Jays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+44,Aaron Hicks,New York Yankees,Alek Manoah,Toronto Blue Jays,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+45,Aaron Hicks,Baltimore Orioles,Chris Bassitt,Toronto Blue Jays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+46,Aaron Hicks,New York Yankees,Nate Pearson,Toronto Blue Jays,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+47,Aaron Hicks,Baltimore Orioles,Jose Berrios,Toronto Blue Jays,6,2,0,0,0,1,0,0,1,.333,.333,.333,.666
+48,Aaron Hicks,Baltimore Orioles,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Aaron Hicks,Baltimore Orioles,Thomas Hatch,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+50,Aaron Hicks,Baltimore Orioles,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Aaron Hicks,Baltimore Orioles,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Aaron Hicks,New York Yankees,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Aaron Hicks,New York Yankees,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Aaron Hicks,New York Yankees,Cole Irvin,Baltimore Orioles,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+55,Aaron Hicks,New York Yankees,Keegan Akin,Baltimore Orioles,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Aaron Hicks,New York Yankees,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Aaron Hicks,New York Yankees,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Aaron Hicks,New York Yankees,Andrew Bellatti,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Aaron Hicks,New York Yankees,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Aaron Hicks,New York Yankees,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Aaron Hicks,New York Yankees,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Aaron Hicks,New York Yankees,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Aaron Hicks,New York Yankees,Taijuan Walker,Philadelphia Phillies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+64,Aaron Hicks,Baltimore Orioles,Jameson Taillon,Chicago Cubs,2,2,1,0,0,0,1,0,0,1.000,1.000,1.500,2.500
+65,Aaron Hicks,Baltimore Orioles,Justin Steele,Chicago Cubs,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+66,Aaron Hicks,Baltimore Orioles,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Aaron Hicks,Baltimore Orioles,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Aaron Hicks,Baltimore Orioles,Kyle Hendricks,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Aaron Hicks,Baltimore Orioles,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Aaron Hicks,Baltimore Orioles,Julian Merryweather,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+71,Aaron Hicks,Baltimore Orioles,Hayden Wesneski,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Aaron Hicks,Baltimore Orioles,Jhoan Duran,Minnesota Twins,1,1,0,0,0,2,0,0,0,1.000,.500,1.000,1.500
+73,Aaron Hicks,Baltimore Orioles,Jovani Moran,Minnesota Twins,2,1,0,0,1,3,0,0,1,.500,.500,2.000,2.500
+74,Aaron Hicks,Baltimore Orioles,Joe Ryan,Minnesota Twins,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+75,Aaron Hicks,Baltimore Orioles,Sonny Gray,Minnesota Twins,6,1,0,0,0,0,1,0,1,.167,.286,.167,.453
+76,Aaron Hicks,Baltimore Orioles,Jordan Balazovic,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Aaron Hicks,Baltimore Orioles,Griffin Jax,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Aaron Hicks,Baltimore Orioles,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Aaron Hicks,Baltimore Orioles,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Aaron Hicks,Baltimore Orioles,Cole Sands,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+81,Aaron Hicks,New York Yankees,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+82,Aaron Hicks,Baltimore Orioles,Braxton Garrett,Miami Marlins,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+83,Aaron Hicks,Baltimore Orioles,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Aaron Hicks,Baltimore Orioles,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Aaron Hicks,Baltimore Orioles,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Aaron Hicks,Baltimore Orioles,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Aaron Hicks,Baltimore Orioles,Anthony DeSclafani,San Francisco Giants,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+88,Aaron Hicks,Baltimore Orioles,Luke Jackson,San Francisco Giants,1,1,0,1,0,1,0,0,0,1.000,1.000,3.000,4.000
+89,Aaron Hicks,Baltimore Orioles,Alex Cobb,San Francisco Giants,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+90,Aaron Hicks,Baltimore Orioles,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Aaron Hicks,Baltimore Orioles,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Aaron Hicks,Baltimore Orioles,Logan Webb,San Francisco Giants,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+93,Aaron Hicks,New York Yankees,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Aaron Hicks,Baltimore Orioles,Gabe Speier,Seattle Mariners,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+95,Aaron Hicks,Baltimore Orioles,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Aaron Hicks,Baltimore Orioles,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Aaron Hicks,Baltimore Orioles,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+98,Aaron Hicks,Baltimore Orioles,Bryce Miller,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Aaron Hicks,Baltimore Orioles,Shane Bieber,Cleveland Guardians,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+100,Aaron Hicks,Baltimore Orioles,Xzavion Curry,Cleveland Guardians,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+101,Aaron Hicks,New York Yankees,Hunter Gaddis,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+102,Aaron Hicks,New York Yankees,Peyton Battenfield,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Aaron Hicks,New York Yankees,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Aaron Hicks,New York Yankees,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Aaron Hicks,New York Yankees,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Aaron Hicks,New York Yankees,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Aaron Hicks,Baltimore Orioles,Freddy Peralta,Milwaukee Brewers,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+108,Aaron Hicks,Baltimore Orioles,Corbin Burnes,Milwaukee Brewers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+109,Aaron Hicks,Baltimore Orioles,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Aaron Hicks,Baltimore Orioles,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Aaron Hicks,Baltimore Orioles,Bennett Sousa,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Aaron Hicks,Baltimore Orioles,Bryse Wilson,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+113,Aaron Hicks,Baltimore Orioles,Carlos Hernandez,Kansas City Royals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+114,Aaron Hicks,Baltimore Orioles,Mike Mayers,Kansas City Royals,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+115,Aaron Hicks,Baltimore Orioles,Daniel Lynch IV,Kansas City Royals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+116,Aaron Hicks,Baltimore Orioles,Aroldis Chapman,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+117,Aaron Hicks,Baltimore Orioles,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Aaron Hicks,Baltimore Orioles,Austin Cox,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,Aaron Hicks,Baltimore Orioles,Brady Singer,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+120,Aaron Hicks,Baltimore Orioles,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Aaron Hicks,New York Yankees,Austin Pruitt,Oakland Athletics,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+122,Aaron Hicks,New York Yankees,Drew Rucinski,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+123,Aaron Hicks,New York Yankees,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

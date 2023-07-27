@@ -1,0 +1,52 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jared Triolo,Pittsburgh Pirates,Phil Bickford,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Jared Triolo,Pittsburgh Pirates,Michael Grove,Los Angeles Dodgers,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+2,Jared Triolo,Pittsburgh Pirates,Evan Phillips,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+3,Jared Triolo,Pittsburgh Pirates,Emmet Sheehan,Los Angeles Dodgers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+4,Jared Triolo,Pittsburgh Pirates,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Jared Triolo,Pittsburgh Pirates,Ryan Brasier,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,Jared Triolo,Pittsburgh Pirates,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Jared Triolo,Pittsburgh Pirates,Daniel Hudson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Jared Triolo,Pittsburgh Pirates,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Jared Triolo,Pittsburgh Pirates,Gavin Stone,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Jared Triolo,Pittsburgh Pirates,Matt Moore,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+11,Jared Triolo,Pittsburgh Pirates,Shohei Ohtani,Los Angeles Angels,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+12,Jared Triolo,Pittsburgh Pirates,Tyler Anderson,Los Angeles Angels,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Jared Triolo,Pittsburgh Pirates,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Jared Triolo,Pittsburgh Pirates,Reid Detmers,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+15,Jared Triolo,Pittsburgh Pirates,Scott McGough,Arizona Diamondbacks,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+16,Jared Triolo,Pittsburgh Pirates,Jose Ruiz,Arizona Diamondbacks,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+17,Jared Triolo,Pittsburgh Pirates,Miguel Castro,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+18,Jared Triolo,Pittsburgh Pirates,Zac Gallen,Arizona Diamondbacks,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+19,Jared Triolo,Pittsburgh Pirates,Zach Davies,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Jared Triolo,Pittsburgh Pirates,Tyler Gilbert,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Jared Triolo,Pittsburgh Pirates,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Jared Triolo,Pittsburgh Pirates,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Jared Triolo,Pittsburgh Pirates,Tim Hill,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+24,Jared Triolo,Pittsburgh Pirates,Ray Kerr,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+25,Jared Triolo,Pittsburgh Pirates,Joe Musgrove,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+26,Jared Triolo,Pittsburgh Pirates,Nick Martinez,San Diego Padres,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+27,Jared Triolo,Pittsburgh Pirates,Blake Snell,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+28,Jared Triolo,Pittsburgh Pirates,Alex Cobb,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+29,Jared Triolo,Pittsburgh Pirates,Ross Stripling,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+30,Jared Triolo,Pittsburgh Pirates,Alex Wood,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+31,Jared Triolo,Pittsburgh Pirates,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Jared Triolo,Pittsburgh Pirates,Tristan Beck,San Francisco Giants,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+33,Jared Triolo,Pittsburgh Pirates,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Jared Triolo,Pittsburgh Pirates,Mauricio Llovera,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Jared Triolo,Pittsburgh Pirates,Taylor Rogers,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+36,Jared Triolo,Pittsburgh Pirates,Tyler Rogers,San Francisco Giants,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+37,Jared Triolo,Pittsburgh Pirates,Emmanuel Clase,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+38,Jared Triolo,Pittsburgh Pirates,Enyel De Los Santos,Cleveland Guardians,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+39,Jared Triolo,Pittsburgh Pirates,Logan Allen,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+40,Jared Triolo,Pittsburgh Pirates,Aaron Civale,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+41,Jared Triolo,Pittsburgh Pirates,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Jared Triolo,Pittsburgh Pirates,Michael Kelly,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Jared Triolo,Pittsburgh Pirates,Nick Sandlin,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Jared Triolo,Pittsburgh Pirates,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Jared Triolo,Pittsburgh Pirates,Bryse Wilson,Milwaukee Brewers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+46,Jared Triolo,Pittsburgh Pirates,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+47,Jared Triolo,Pittsburgh Pirates,Thomas Pannone,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Jared Triolo,Pittsburgh Pirates,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Jared Triolo,Pittsburgh Pirates,Colin Rea,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Jared Triolo,Pittsburgh Pirates,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

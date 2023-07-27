@@ -1,0 +1,202 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Francisco Lindor,New York Mets,Bryce Elder,Atlanta Braves,2,1,0,0,1,2,1,0,0,.500,.667,2.000,2.667
+1,Francisco Lindor,New York Mets,Spencer Strider,Atlanta Braves,4,2,0,0,0,1,2,0,1,.500,.667,.500,1.167
+2,Francisco Lindor,New York Mets,Michael Tonkin,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+3,Francisco Lindor,New York Mets,Charlie Morton,Atlanta Braves,5,1,1,0,0,0,1,0,2,.200,.333,.400,.733
+4,Francisco Lindor,New York Mets,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Francisco Lindor,New York Mets,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Francisco Lindor,New York Mets,Max Fried,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Francisco Lindor,New York Mets,Collin McHugh,Atlanta Braves,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+8,Francisco Lindor,New York Mets,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Francisco Lindor,New York Mets,Kirby Yates,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+10,Francisco Lindor,New York Mets,Yency Almonte,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+11,Francisco Lindor,New York Mets,Clayton Kershaw,Los Angeles Dodgers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+12,Francisco Lindor,New York Mets,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+13,Francisco Lindor,New York Mets,Ryan Brasier,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Francisco Lindor,New York Mets,Tony Gonsolin,Los Angeles Dodgers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+15,Francisco Lindor,New York Mets,Brusdar Graterol,Los Angeles Dodgers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+16,Francisco Lindor,New York Mets,Dustin May,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+17,Francisco Lindor,New York Mets,Shelby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Francisco Lindor,New York Mets,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+19,Francisco Lindor,New York Mets,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Francisco Lindor,New York Mets,Noah Syndergaard,Los Angeles Dodgers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+21,Francisco Lindor,New York Mets,Julio Urias,Los Angeles Dodgers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+22,Francisco Lindor,New York Mets,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Francisco Lindor,New York Mets,Kevin Kelly,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+24,Francisco Lindor,New York Mets,Jalen Beeks,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+25,Francisco Lindor,New York Mets,Josh Fleming,Tampa Bay Rays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+26,Francisco Lindor,New York Mets,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+27,Francisco Lindor,New York Mets,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Francisco Lindor,New York Mets,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Francisco Lindor,New York Mets,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Francisco Lindor,New York Mets,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Francisco Lindor,New York Mets,Chris Murphy,Boston Red Sox,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+32,Francisco Lindor,New York Mets,James Paxton,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+33,Francisco Lindor,New York Mets,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Francisco Lindor,New York Mets,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Francisco Lindor,New York Mets,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Francisco Lindor,New York Mets,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Francisco Lindor,New York Mets,Joe Jacques,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Francisco Lindor,New York Mets,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Francisco Lindor,New York Mets,Matthew Liberatore,St. Louis Cardinals,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+40,Francisco Lindor,New York Mets,Jordan Hicks,St. Louis Cardinals,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+41,Francisco Lindor,New York Mets,Miles Mikolas,St. Louis Cardinals,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+42,Francisco Lindor,New York Mets,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Francisco Lindor,New York Mets,Chris Stratton,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+44,Francisco Lindor,New York Mets,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Francisco Lindor,New York Mets,Austin Adams,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+46,Francisco Lindor,New York Mets,Drey Jameson,Arizona Diamondbacks,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+47,Francisco Lindor,New York Mets,Ryne Nelson,Arizona Diamondbacks,2,2,0,2,0,0,0,0,0,1.000,1.000,3.000,4.000
+48,Francisco Lindor,New York Mets,Jose Ruiz,Arizona Diamondbacks,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+49,Francisco Lindor,New York Mets,Zach Davies,Arizona Diamondbacks,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+50,Francisco Lindor,New York Mets,Tommy Henry,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Francisco Lindor,New York Mets,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Francisco Lindor,New York Mets,Ian Gibaut,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+53,Francisco Lindor,New York Mets,Kevin Herget,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+54,Francisco Lindor,New York Mets,Alex Young,Cincinnati Reds,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+55,Francisco Lindor,New York Mets,Luke Weaver,Cincinnati Reds,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+56,Francisco Lindor,New York Mets,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Francisco Lindor,New York Mets,Hunter Greene,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Francisco Lindor,New York Mets,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Francisco Lindor,New York Mets,Ben Lively,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Francisco Lindor,New York Mets,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Francisco Lindor,New York Mets,Yusei Kikuchi,Toronto Blue Jays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+62,Francisco Lindor,New York Mets,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+63,Francisco Lindor,New York Mets,Jose Berrios,Toronto Blue Jays,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+64,Francisco Lindor,New York Mets,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Francisco Lindor,New York Mets,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Francisco Lindor,New York Mets,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Francisco Lindor,New York Mets,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Francisco Lindor,New York Mets,Yunior Marte,Philadelphia Phillies,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+69,Francisco Lindor,New York Mets,Cristopher Sanchez,Philadelphia Phillies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+70,Francisco Lindor,New York Mets,Ranger Suarez,Philadelphia Phillies,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+71,Francisco Lindor,New York Mets,Zack Wheeler,Philadelphia Phillies,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+72,Francisco Lindor,New York Mets,Taijuan Walker,Philadelphia Phillies,4,1,0,0,0,0,1,0,1,.250,.400,.250,.650
+73,Francisco Lindor,New York Mets,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Francisco Lindor,New York Mets,Jeff Hoffman,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+75,Francisco Lindor,New York Mets,Craig Kimbrel,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+76,Francisco Lindor,New York Mets,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Francisco Lindor,New York Mets,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Francisco Lindor,New York Mets,Matt Strahm,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Francisco Lindor,New York Mets,Michael Rucker,Chicago Cubs,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+80,Francisco Lindor,New York Mets,Kyle Hendricks,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Francisco Lindor,New York Mets,Mark Leiter Jr.,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Francisco Lindor,New York Mets,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+83,Francisco Lindor,New York Mets,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Francisco Lindor,New York Mets,Josh Hader,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,Francisco Lindor,New York Mets,Tim Hill,San Diego Padres,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+86,Francisco Lindor,New York Mets,Nick Martinez,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+87,Francisco Lindor,New York Mets,Ryan Weathers,San Diego Padres,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+88,Francisco Lindor,New York Mets,Brent Honeywell,San Diego Padres,3,1,0,0,0,2,0,0,1,.333,.333,.333,.666
+89,Francisco Lindor,New York Mets,Joe Musgrove,San Diego Padres,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+90,Francisco Lindor,New York Mets,Yu Darvish,San Diego Padres,4,1,0,0,1,1,1,0,2,.250,.500,1.000,1.500
+91,Francisco Lindor,New York Mets,Blake Snell,San Diego Padres,6,1,0,0,1,1,0,0,3,.167,.167,.667,.834
+92,Francisco Lindor,New York Mets,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Francisco Lindor,New York Mets,Adrian Morejon,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Francisco Lindor,New York Mets,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Francisco Lindor,New York Mets,Rafael Montero,Houston Astros,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+96,Francisco Lindor,New York Mets,Shawn Dubin,Houston Astros,2,1,1,0,0,2,0,0,1,.500,.500,1.000,1.500
+97,Francisco Lindor,New York Mets,Hunter Brown,Houston Astros,3,1,0,0,1,3,0,0,1,.333,.333,1.333,1.666
+98,Francisco Lindor,New York Mets,Bryan Abreu,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+99,Francisco Lindor,New York Mets,Cristian Javier,Houston Astros,0,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+100,Francisco Lindor,New York Mets,Seth Martinez,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+101,Francisco Lindor,New York Mets,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Francisco Lindor,New York Mets,Framber Valdez,Houston Astros,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+103,Francisco Lindor,New York Mets,Carl Edwards Jr.,Washington Nationals,1,1,0,0,0,3,0,0,0,1.000,1.000,1.000,2.000
+104,Francisco Lindor,New York Mets,Jake Irvin,Washington Nationals,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+105,Francisco Lindor,New York Mets,Mason Thompson,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+106,Francisco Lindor,New York Mets,Patrick Corbin,Washington Nationals,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+107,Francisco Lindor,New York Mets,Erasmo Ramirez,Washington Nationals,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+108,Francisco Lindor,New York Mets,Trevor Williams,Washington Nationals,4,1,1,0,0,2,0,0,0,.250,.250,.500,.750
+109,Francisco Lindor,New York Mets,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Francisco Lindor,New York Mets,MacKenzie Gore,Washington Nationals,5,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Francisco Lindor,New York Mets,Josiah Gray,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Francisco Lindor,New York Mets,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Francisco Lindor,New York Mets,Hunter Harvey,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Francisco Lindor,New York Mets,Andres Machado,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Francisco Lindor,New York Mets,Daniel Castano,Miami Marlins,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+116,Francisco Lindor,New York Mets,Huascar Brazoban,Miami Marlins,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+117,Francisco Lindor,New York Mets,Braxton Garrett,Miami Marlins,4,1,1,0,0,0,0,0,2,.250,.250,.500,.750
+118,Francisco Lindor,New York Mets,Trevor Rogers,Miami Marlins,5,1,0,0,0,0,0,0,2,.200,.333,.200,.533
+119,Francisco Lindor,New York Mets,Sandy Alcantara,Miami Marlins,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+120,Francisco Lindor,New York Mets,Matt Barnes,Miami Marlins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+121,Francisco Lindor,New York Mets,Edward Cabrera,Miami Marlins,4,0,0,0,0,0,1,0,1,.000,.200,.000,.200
+122,Francisco Lindor,New York Mets,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Francisco Lindor,New York Mets,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+124,Francisco Lindor,New York Mets,Jesus Luzardo,Miami Marlins,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+125,Francisco Lindor,New York Mets,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Francisco Lindor,New York Mets,A.J. Puk,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Francisco Lindor,New York Mets,Sean Hjelle,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+128,Francisco Lindor,New York Mets,Ross Stripling,San Francisco Giants,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+129,Francisco Lindor,New York Mets,Alex Cobb,San Francisco Giants,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+130,Francisco Lindor,New York Mets,Sean Manaea,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.500,.333,.833
+131,Francisco Lindor,New York Mets,Tristan Beck,San Francisco Giants,4,1,1,0,0,0,1,0,0,.250,.400,.500,.900
+132,Francisco Lindor,New York Mets,Anthony DeSclafani,San Francisco Giants,5,1,0,0,1,1,0,0,2,.200,.200,.800,1.000
+133,Francisco Lindor,New York Mets,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Francisco Lindor,New York Mets,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Francisco Lindor,New York Mets,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Francisco Lindor,New York Mets,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Francisco Lindor,New York Mets,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Francisco Lindor,New York Mets,Logan Webb,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Francisco Lindor,New York Mets,Alex Wood,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Francisco Lindor,New York Mets,Peter Lambert,Colorado Rockies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+141,Francisco Lindor,New York Mets,Connor Seabold,Colorado Rockies,3,2,0,0,1,3,0,0,0,.667,.667,1.667,2.334
+142,Francisco Lindor,New York Mets,Jake Bird,Colorado Rockies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+143,Francisco Lindor,New York Mets,Antonio Senzatela,Colorado Rockies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+144,Francisco Lindor,New York Mets,Austin Gomber,Colorado Rockies,6,1,1,0,0,1,0,0,0,.167,.167,.333,.500
+145,Francisco Lindor,New York Mets,Chase Anderson,Colorado Rockies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Francisco Lindor,New York Mets,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Francisco Lindor,New York Mets,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Francisco Lindor,New York Mets,Ryan Feltner,Colorado Rockies,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+149,Francisco Lindor,New York Mets,Brad Hand,Colorado Rockies,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+150,Francisco Lindor,New York Mets,Justin Lawrence,Colorado Rockies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+151,Francisco Lindor,New York Mets,Nick Mears,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Francisco Lindor,New York Mets,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Francisco Lindor,New York Mets,Gerrit Cole,New York Yankees,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+154,Francisco Lindor,New York Mets,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Francisco Lindor,New York Mets,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Francisco Lindor,New York Mets,Ron Marinaccio,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+157,Francisco Lindor,New York Mets,Luis Severino,New York Yankees,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+158,Francisco Lindor,New York Mets,Emmanuel Clase,Cleveland Guardians,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+159,Francisco Lindor,New York Mets,Sam Hentges,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+160,Francisco Lindor,New York Mets,Shane Bieber,Cleveland Guardians,4,2,0,0,1,1,0,0,1,.500,.500,1.250,1.750
+161,Francisco Lindor,New York Mets,Cal Quantrill,Cleveland Guardians,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+162,Francisco Lindor,New York Mets,Tanner Bibee,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Francisco Lindor,New York Mets,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Francisco Lindor,New York Mets,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+165,Francisco Lindor,New York Mets,Rich Hill,Pittsburgh Pirates,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+166,Francisco Lindor,New York Mets,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+167,Francisco Lindor,New York Mets,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Francisco Lindor,New York Mets,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+169,Francisco Lindor,New York Mets,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Francisco Lindor,New York Mets,Lucas Giolito,Chicago White Sox,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+171,Francisco Lindor,New York Mets,Michael Kopech,Chicago White Sox,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+172,Francisco Lindor,New York Mets,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,Francisco Lindor,New York Mets,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+174,Francisco Lindor,New York Mets,Jesse Scholtens,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+175,Francisco Lindor,New York Mets,Bryan Shaw,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Francisco Lindor,New York Mets,Touki Toussaint,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+177,Francisco Lindor,New York Mets,Corbin Burnes,Milwaukee Brewers,3,3,2,0,0,2,0,0,0,1.000,1.000,1.667,2.667
+178,Francisco Lindor,New York Mets,Colin Rea,Milwaukee Brewers,2,1,0,0,0,1,0,0,0,.500,.333,.500,.833
+179,Francisco Lindor,New York Mets,Peter Strzelecki,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+180,Francisco Lindor,New York Mets,Julio Teheran,Milwaukee Brewers,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+181,Francisco Lindor,New York Mets,Adrian Houser,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+182,Francisco Lindor,New York Mets,Wade Miley,Milwaukee Brewers,4,0,0,0,0,0,1,0,0,.000,.200,.000,.200
+183,Francisco Lindor,New York Mets,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Francisco Lindor,New York Mets,Joel Payamps,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+185,Francisco Lindor,New York Mets,Freddy Peralta,Milwaukee Brewers,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+186,Francisco Lindor,New York Mets,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+187,Francisco Lindor,New York Mets,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+188,Francisco Lindor,New York Mets,Michael Lorenzen,Detroit Tigers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+189,Francisco Lindor,New York Mets,Joey Wentz,Detroit Tigers,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+190,Francisco Lindor,New York Mets,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+191,Francisco Lindor,New York Mets,Eduardo Rodriguez,Detroit Tigers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+192,Francisco Lindor,New York Mets,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+193,Francisco Lindor,New York Mets,Hogan Harris,Oakland Athletics,1,1,1,0,0,3,0,0,0,1.000,1.000,2.000,3.000
+194,Francisco Lindor,New York Mets,Shintaro Fujinami,Oakland Athletics,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+195,Francisco Lindor,New York Mets,James Kaprielian,Oakland Athletics,3,1,0,0,1,4,0,0,0,.333,.333,1.333,1.666
+196,Francisco Lindor,New York Mets,JP Sears,Oakland Athletics,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+197,Francisco Lindor,New York Mets,Jeurys Familia,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+198,Francisco Lindor,New York Mets,Zach Jackson,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+199,Francisco Lindor,New York Mets,Dany Jimenez,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+200,Francisco Lindor,New York Mets,Chad Smith,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

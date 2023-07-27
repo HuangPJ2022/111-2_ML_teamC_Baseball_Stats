@@ -1,0 +1,202 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Bryan De La Cruz,Miami Marlins,Dylan Dodd,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+1,Bryan De La Cruz,Miami Marlins,Bryce Elder,Atlanta Braves,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+2,Bryan De La Cruz,Miami Marlins,Dylan Lee,Atlanta Braves,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+3,Bryan De La Cruz,Miami Marlins,Michael Soroka,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+4,Bryan De La Cruz,Miami Marlins,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Bryan De La Cruz,Miami Marlins,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Bryan De La Cruz,Miami Marlins,Ben Heller,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Bryan De La Cruz,Miami Marlins,Joe Jimenez,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Bryan De La Cruz,Miami Marlins,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Bryan De La Cruz,Miami Marlins,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Bryan De La Cruz,Miami Marlins,Charlie Morton,Atlanta Braves,6,0,0,0,0,0,0,0,4,.000,.000,.000,.000
+11,Bryan De La Cruz,Miami Marlins,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+12,Bryan De La Cruz,Miami Marlins,Kyle Wright,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+13,Bryan De La Cruz,Miami Marlins,Sam Bachman,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+14,Bryan De La Cruz,Miami Marlins,Reid Detmers,Los Angeles Angels,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+15,Bryan De La Cruz,Miami Marlins,Jacob Webb,Los Angeles Angels,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+16,Bryan De La Cruz,Miami Marlins,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Bryan De La Cruz,Miami Marlins,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+18,Bryan De La Cruz,Miami Marlins,Patrick Sandoval,Los Angeles Angels,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Bryan De La Cruz,Miami Marlins,Chase Silseth,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Bryan De La Cruz,Miami Marlins,Joe Jacques,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Bryan De La Cruz,Miami Marlins,Kenley Jansen,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Bryan De La Cruz,Miami Marlins,Kaleb Ort,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Bryan De La Cruz,Miami Marlins,Garrett Whitlock,Boston Red Sox,3,1,0,0,1,2,0,0,2,.333,.333,1.333,1.666
+24,Bryan De La Cruz,Miami Marlins,Brayan Bello,Boston Red Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Bryan De La Cruz,Miami Marlins,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Bryan De La Cruz,Miami Marlins,Chris Murphy,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Bryan De La Cruz,Miami Marlins,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+28,Bryan De La Cruz,Miami Marlins,Alec Burleson,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+29,Bryan De La Cruz,Miami Marlins,Matthew Liberatore,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+30,Bryan De La Cruz,Miami Marlins,Steven Matz,St. Louis Cardinals,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+31,Bryan De La Cruz,Miami Marlins,Ryan Tepera,St. Louis Cardinals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+32,Bryan De La Cruz,Miami Marlins,Jordan Montgomery,St. Louis Cardinals,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+33,Bryan De La Cruz,Miami Marlins,Jack Flaherty,St. Louis Cardinals,3,1,0,0,0,0,1,0,0,.333,.500,.333,.833
+34,Bryan De La Cruz,Miami Marlins,Dakota Hudson,St. Louis Cardinals,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+35,Bryan De La Cruz,Miami Marlins,Miles Mikolas,St. Louis Cardinals,6,2,1,0,1,2,0,0,0,.333,.333,1.000,1.333
+36,Bryan De La Cruz,Miami Marlins,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Bryan De La Cruz,Miami Marlins,Giovanny Gallegos,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Bryan De La Cruz,Miami Marlins,Jordan Hicks,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+39,Bryan De La Cruz,Miami Marlins,James Naile,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Bryan De La Cruz,Miami Marlins,JoJo Romero,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Bryan De La Cruz,Miami Marlins,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Bryan De La Cruz,Miami Marlins,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Bryan De La Cruz,Miami Marlins,Adam Wainwright,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Bryan De La Cruz,Miami Marlins,Jose Ruiz,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+45,Bryan De La Cruz,Miami Marlins,Peter Solomon,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+46,Bryan De La Cruz,Miami Marlins,Madison Bumgarner,Arizona Diamondbacks,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+47,Bryan De La Cruz,Miami Marlins,Ryne Nelson,Arizona Diamondbacks,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+48,Bryan De La Cruz,Miami Marlins,Brandon Pfaadt,Arizona Diamondbacks,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+49,Bryan De La Cruz,Miami Marlins,Zac Gallen,Arizona Diamondbacks,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+50,Bryan De La Cruz,Miami Marlins,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Bryan De La Cruz,Miami Marlins,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Bryan De La Cruz,Miami Marlins,Alan Busenitz,Cincinnati Reds,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+53,Bryan De La Cruz,Miami Marlins,Buck Farmer,Cincinnati Reds,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+54,Bryan De La Cruz,Miami Marlins,Levi Stoudt,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Bryan De La Cruz,Miami Marlins,Luke Weaver,Cincinnati Reds,3,2,2,0,0,0,0,0,1,.667,.667,1.333,2.000
+56,Bryan De La Cruz,Miami Marlins,Graham Ashcraft,Cincinnati Reds,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+57,Bryan De La Cruz,Miami Marlins,Alexis Diaz,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+58,Bryan De La Cruz,Miami Marlins,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+59,Bryan De La Cruz,Miami Marlins,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Bryan De La Cruz,Miami Marlins,Yimi Garcia,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+61,Bryan De La Cruz,Miami Marlins,Jordan Romano,Toronto Blue Jays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+62,Bryan De La Cruz,Miami Marlins,Mitch White,Toronto Blue Jays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+63,Bryan De La Cruz,Miami Marlins,Jose Berrios,Toronto Blue Jays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+64,Bryan De La Cruz,Miami Marlins,Kevin Gausman,Toronto Blue Jays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+65,Bryan De La Cruz,Miami Marlins,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Bryan De La Cruz,Miami Marlins,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Bryan De La Cruz,Miami Marlins,Trent Thornton,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Bryan De La Cruz,Miami Marlins,Dean Kremer,Baltimore Orioles,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+69,Bryan De La Cruz,Miami Marlins,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Bryan De La Cruz,Miami Marlins,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Bryan De La Cruz,Miami Marlins,Eduard Bazardo,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Bryan De La Cruz,Miami Marlins,Kyle Bradish,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Bryan De La Cruz,Miami Marlins,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Bryan De La Cruz,Miami Marlins,Kyle Gibson,Baltimore Orioles,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+75,Bryan De La Cruz,Miami Marlins,Seranthony Dominguez,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+76,Bryan De La Cruz,Miami Marlins,Craig Kimbrel,Philadelphia Phillies,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+77,Bryan De La Cruz,Miami Marlins,Aaron Nola,Philadelphia Phillies,6,3,1,0,1,1,0,0,1,.500,.500,1.167,1.667
+78,Bryan De La Cruz,Miami Marlins,Matt Strahm,Philadelphia Phillies,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+79,Bryan De La Cruz,Miami Marlins,Zack Wheeler,Philadelphia Phillies,6,1,0,0,0,1,0,0,2,.167,.167,.167,.334
+80,Bryan De La Cruz,Miami Marlins,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Bryan De La Cruz,Miami Marlins,Dylan Covey,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Bryan De La Cruz,Miami Marlins,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Bryan De La Cruz,Miami Marlins,McKinley Moore,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Bryan De La Cruz,Miami Marlins,Ranger Suarez,Philadelphia Phillies,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+85,Bryan De La Cruz,Miami Marlins,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Bryan De La Cruz,Miami Marlins,Drew Smyly,Chicago Cubs,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+87,Bryan De La Cruz,Miami Marlins,Hayden Wesneski,Chicago Cubs,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+88,Bryan De La Cruz,Miami Marlins,Justin Steele,Chicago Cubs,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+89,Bryan De La Cruz,Miami Marlins,Adbert Alzolay,Chicago Cubs,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Bryan De La Cruz,Miami Marlins,Michael Fulmer,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Bryan De La Cruz,Miami Marlins,Caleb Kilian,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Bryan De La Cruz,Miami Marlins,Julian Merryweather,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Bryan De La Cruz,Miami Marlins,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Bryan De La Cruz,Miami Marlins,Tim Hill,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+95,Bryan De La Cruz,Miami Marlins,Ryan Weathers,San Diego Padres,3,2,0,0,1,2,0,0,1,.667,.667,1.667,2.334
+96,Bryan De La Cruz,Miami Marlins,Joe Musgrove,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+97,Bryan De La Cruz,Miami Marlins,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Bryan De La Cruz,Miami Marlins,Nick Martinez,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+99,Bryan De La Cruz,Miami Marlins,Blake Snell,San Diego Padres,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+100,Bryan De La Cruz,Miami Marlins,Jorge Alcala,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+101,Bryan De La Cruz,Miami Marlins,Cole Sands,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+102,Bryan De La Cruz,Miami Marlins,Caleb Thielbar,Minnesota Twins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+103,Bryan De La Cruz,Miami Marlins,Tyler Mahle,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+104,Bryan De La Cruz,Miami Marlins,Pablo Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Bryan De La Cruz,Miami Marlins,Kenta Maeda,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+106,Bryan De La Cruz,Miami Marlins,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Bryan De La Cruz,Miami Marlins,Kyle Finnegan,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+108,Bryan De La Cruz,Miami Marlins,Thaddeus Ward,Washington Nationals,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+109,Bryan De La Cruz,Miami Marlins,MacKenzie Gore,Washington Nationals,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+110,Bryan De La Cruz,Miami Marlins,Josiah Gray,Washington Nationals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+111,Bryan De La Cruz,Miami Marlins,Trevor Williams,Washington Nationals,6,1,0,0,1,1,0,0,0,.167,.167,.667,.834
+112,Bryan De La Cruz,Miami Marlins,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Bryan De La Cruz,Miami Marlins,Patrick Corbin,Washington Nationals,3,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+114,Bryan De La Cruz,Miami Marlins,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Bryan De La Cruz,Miami Marlins,Jake Irvin,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Bryan De La Cruz,Miami Marlins,Chad Kuhl,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Bryan De La Cruz,Miami Marlins,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Bryan De La Cruz,Miami Marlins,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Bryan De La Cruz,Miami Marlins,Taylor Rogers,San Francisco Giants,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+120,Bryan De La Cruz,Miami Marlins,Logan Webb,San Francisco Giants,5,2,0,0,0,0,0,0,2,.400,.400,.400,.800
+121,Bryan De La Cruz,Miami Marlins,Alex Cobb,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+122,Bryan De La Cruz,Miami Marlins,Anthony DeSclafani,San Francisco Giants,3,1,1,0,0,2,0,0,1,.333,.333,.667,1.000
+123,Bryan De La Cruz,Miami Marlins,Jakob Junis,San Francisco Giants,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+124,Bryan De La Cruz,Miami Marlins,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Bryan De La Cruz,Miami Marlins,John Brebbia,San Francisco Giants,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Bryan De La Cruz,Miami Marlins,Camilo Doval,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Bryan De La Cruz,Miami Marlins,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Bryan De La Cruz,Miami Marlins,Ross Stripling,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Bryan De La Cruz,Miami Marlins,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Bryan De La Cruz,Miami Marlins,Alex Wood,San Francisco Giants,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Bryan De La Cruz,Miami Marlins,Carlos Carrasco,New York Mets,1,1,0,0,1,3,2,0,0,1.000,1.000,4.000,5.000
+132,Bryan De La Cruz,Miami Marlins,Dennis Santana,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+133,Bryan De La Cruz,Miami Marlins,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Bryan De La Cruz,Miami Marlins,Tylor Megill,New York Mets,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Bryan De La Cruz,Miami Marlins,Stephen Nogosek,New York Mets,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+136,Bryan De La Cruz,Miami Marlins,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Bryan De La Cruz,Miami Marlins,Max Scherzer,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+138,Bryan De La Cruz,Miami Marlins,Kodai Senga,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Bryan De La Cruz,Miami Marlins,Drew Smith,New York Mets,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+140,Bryan De La Cruz,Miami Marlins,Jake Bird,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+141,Bryan De La Cruz,Miami Marlins,Justin Lawrence,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+142,Bryan De La Cruz,Miami Marlins,Chase Anderson,Colorado Rockies,6,4,0,0,0,0,0,0,0,.667,.667,.667,1.334
+143,Bryan De La Cruz,Miami Marlins,Pierce Johnson,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+144,Bryan De La Cruz,Miami Marlins,Daniel Bard,Colorado Rockies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+145,Bryan De La Cruz,Miami Marlins,Ty Blach,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+146,Bryan De La Cruz,Miami Marlins,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Bryan De La Cruz,Miami Marlins,Kyle Freeland,Colorado Rockies,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+148,Bryan De La Cruz,Miami Marlins,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Bryan De La Cruz,Miami Marlins,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Bryan De La Cruz,Miami Marlins,Karl Kauffmann,Colorado Rockies,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+151,Bryan De La Cruz,Miami Marlins,Peter Lambert,Colorado Rockies,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Bryan De La Cruz,Miami Marlins,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Bryan De La Cruz,Miami Marlins,Brent Suter,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+154,Bryan De La Cruz,Miami Marlins,Luis Castillo,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Bryan De La Cruz,Miami Marlins,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Bryan De La Cruz,Miami Marlins,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+157,Bryan De La Cruz,Miami Marlins,Bryce Miller,Seattle Mariners,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+158,Bryan De La Cruz,Miami Marlins,Andres Munoz,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+159,Bryan De La Cruz,Miami Marlins,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+160,Bryan De La Cruz,Miami Marlins,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Bryan De La Cruz,Miami Marlins,Tim Herrin,Cleveland Guardians,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+162,Bryan De La Cruz,Miami Marlins,Eli Morgan,Cleveland Guardians,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+163,Bryan De La Cruz,Miami Marlins,Zach Plesac,Cleveland Guardians,3,2,2,0,0,0,0,0,0,.667,.667,1.333,2.000
+164,Bryan De La Cruz,Miami Marlins,Shane Bieber,Cleveland Guardians,2,1,0,0,1,1,1,0,1,.500,.667,2.000,2.667
+165,Bryan De La Cruz,Miami Marlins,Logan Allen,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+166,Bryan De La Cruz,Miami Marlins,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Bryan De La Cruz,Miami Marlins,James Karinchak,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+168,Bryan De La Cruz,Miami Marlins,Ryan Borucki,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+169,Bryan De La Cruz,Miami Marlins,Carmen Mlodzinski,Pittsburgh Pirates,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+170,Bryan De La Cruz,Miami Marlins,Johan Oviedo,Pittsburgh Pirates,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+171,Bryan De La Cruz,Miami Marlins,Osvaldo Bido,Pittsburgh Pirates,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+172,Bryan De La Cruz,Miami Marlins,Luis L. Ortiz,Pittsburgh Pirates,3,1,0,0,0,0,1,0,1,.333,.500,.333,.833
+173,Bryan De La Cruz,Miami Marlins,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Bryan De La Cruz,Miami Marlins,Yerry De Los Santos,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Bryan De La Cruz,Miami Marlins,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+176,Bryan De La Cruz,Miami Marlins,Kendall Graveman,Chicago White Sox,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+177,Bryan De La Cruz,Miami Marlins,Lucas Giolito,Chicago White Sox,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+178,Bryan De La Cruz,Miami Marlins,Dylan Cease,Chicago White Sox,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+179,Bryan De La Cruz,Miami Marlins,Liam Hendriks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Bryan De La Cruz,Miami Marlins,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Bryan De La Cruz,Miami Marlins,Michael Kopech,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+182,Bryan De La Cruz,Miami Marlins,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+183,Bryan De La Cruz,Miami Marlins,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Bryan De La Cruz,Miami Marlins,Jose Cuas,Kansas City Royals,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+185,Bryan De La Cruz,Miami Marlins,Jackson Kowar,Kansas City Royals,1,1,1,0,0,3,1,0,0,1.000,1.000,2.000,3.000
+186,Bryan De La Cruz,Miami Marlins,Josh Staumont,Kansas City Royals,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+187,Bryan De La Cruz,Miami Marlins,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+188,Bryan De La Cruz,Miami Marlins,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+189,Bryan De La Cruz,Miami Marlins,Jordan Lyles,Kansas City Royals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+190,Bryan De La Cruz,Miami Marlins,Mike Mayers,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+191,Bryan De La Cruz,Miami Marlins,Shintaro Fujinami,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+192,Bryan De La Cruz,Miami Marlins,Paul Blackburn,Oakland Athletics,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+193,Bryan De La Cruz,Miami Marlins,Hogan Harris,Oakland Athletics,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+194,Bryan De La Cruz,Miami Marlins,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+195,Bryan De La Cruz,Miami Marlins,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+196,Bryan De La Cruz,Miami Marlins,Richard Lovelady,Oakland Athletics,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+197,Bryan De La Cruz,Miami Marlins,Luis Medina,Oakland Athletics,0,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+198,Bryan De La Cruz,Miami Marlins,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+199,Bryan De La Cruz,Miami Marlins,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+200,Bryan De La Cruz,Miami Marlins,Ken Waldichuk,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

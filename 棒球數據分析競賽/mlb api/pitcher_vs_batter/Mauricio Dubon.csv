@@ -1,0 +1,171 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Mauricio Dubon,Houston Astros,Nick Anderson,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Mauricio Dubon,Houston Astros,Jesse Chavez,Atlanta Braves,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+2,Mauricio Dubon,Houston Astros,Joe Jimenez,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+3,Mauricio Dubon,Houston Astros,A.J. Minter,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+4,Mauricio Dubon,Houston Astros,Bryce Elder,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+5,Mauricio Dubon,Houston Astros,Max Fried,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Mauricio Dubon,Houston Astros,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Mauricio Dubon,Houston Astros,Kyle Wright,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Mauricio Dubon,Houston Astros,Danny Young,Atlanta Braves,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+9,Mauricio Dubon,Houston Astros,Grant Anderson,Texas Rangers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+10,Mauricio Dubon,Houston Astros,Ian Kennedy,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Mauricio Dubon,Houston Astros,Martin Perez,Texas Rangers,4,2,0,0,0,0,0,0,0,.500,.500,.500,1.000
+12,Mauricio Dubon,Houston Astros,Cole Ragans,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+13,Mauricio Dubon,Houston Astros,Andrew Heaney,Texas Rangers,5,2,0,0,0,0,0,0,0,.400,.400,.400,.800
+14,Mauricio Dubon,Houston Astros,Jon Gray,Texas Rangers,4,1,1,0,0,2,0,0,0,.250,.250,.500,.750
+15,Mauricio Dubon,Houston Astros,Cody Bradford,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Mauricio Dubon,Houston Astros,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Mauricio Dubon,Houston Astros,Aroldis Chapman,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Mauricio Dubon,Houston Astros,Dane Dunning,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Mauricio Dubon,Houston Astros,Nathan Eovaldi,Texas Rangers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+20,Mauricio Dubon,Houston Astros,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Mauricio Dubon,Houston Astros,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Mauricio Dubon,Houston Astros,Glenn Otto,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Mauricio Dubon,Houston Astros,Josh Sborz,Texas Rangers,3,0,0,0,0,0,1,0,0,.000,.250,.000,.250
+24,Mauricio Dubon,Houston Astros,Tony Gonsolin,Los Angeles Dodgers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+25,Mauricio Dubon,Houston Astros,Emmet Sheehan,Los Angeles Dodgers,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+26,Mauricio Dubon,Houston Astros,Brusdar Graterol,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Mauricio Dubon,Houston Astros,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Mauricio Dubon,Houston Astros,Reid Detmers,Los Angeles Angels,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+29,Mauricio Dubon,Houston Astros,Tyler Anderson,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+30,Mauricio Dubon,Houston Astros,Chris Devenski,Los Angeles Angels,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+31,Mauricio Dubon,Houston Astros,Patrick Sandoval,Los Angeles Angels,6,3,0,0,0,0,0,0,0,.500,.500,.500,1.000
+32,Mauricio Dubon,Houston Astros,Jacob Webb,Los Angeles Angels,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+33,Mauricio Dubon,Houston Astros,Griffin Canning,Los Angeles Angels,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+34,Mauricio Dubon,Houston Astros,Shohei Ohtani,Los Angeles Angels,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+35,Mauricio Dubon,Houston Astros,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Mauricio Dubon,Houston Astros,Jaime Barria,Los Angeles Angels,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+37,Mauricio Dubon,Houston Astros,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Mauricio Dubon,Houston Astros,Ben Joyce,Los Angeles Angels,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+39,Mauricio Dubon,Houston Astros,Matt Moore,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Mauricio Dubon,Houston Astros,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Mauricio Dubon,Houston Astros,Zack Weiss,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Mauricio Dubon,Houston Astros,Jason Adam,Tampa Bay Rays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+43,Mauricio Dubon,Houston Astros,Josh Fleming,Tampa Bay Rays,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+44,Mauricio Dubon,Houston Astros,Taj Bradley,Tampa Bay Rays,3,1,0,1,0,0,0,0,2,.333,.333,1.000,1.333
+45,Mauricio Dubon,Houston Astros,Drew Rasmussen,Tampa Bay Rays,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+46,Mauricio Dubon,Houston Astros,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Mauricio Dubon,Houston Astros,Heath Hembree,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Mauricio Dubon,Houston Astros,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Mauricio Dubon,Houston Astros,Alec Burleson,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+50,Mauricio Dubon,Houston Astros,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Mauricio Dubon,Houston Astros,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Mauricio Dubon,Houston Astros,Jake Woodford,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Mauricio Dubon,Houston Astros,Luke Weaver,Cincinnati Reds,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+54,Mauricio Dubon,Houston Astros,Andrew Abbott,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Mauricio Dubon,Houston Astros,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Mauricio Dubon,Houston Astros,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Mauricio Dubon,Houston Astros,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Mauricio Dubon,Houston Astros,Yimi Garcia,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+59,Mauricio Dubon,Houston Astros,Alek Manoah,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+60,Mauricio Dubon,Houston Astros,Zach Pop,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+61,Mauricio Dubon,Houston Astros,Kevin Gausman,Toronto Blue Jays,6,3,0,0,1,1,0,0,0,.500,.500,1.000,1.500
+62,Mauricio Dubon,Houston Astros,Jordan Romano,Toronto Blue Jays,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+63,Mauricio Dubon,Houston Astros,Chris Bassitt,Toronto Blue Jays,6,2,0,0,0,0,0,0,1,.333,.333,.333,.666
+64,Mauricio Dubon,Houston Astros,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+65,Mauricio Dubon,Houston Astros,Jose Berrios,Toronto Blue Jays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Mauricio Dubon,Houston Astros,Adam Cimber,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Mauricio Dubon,Houston Astros,Jay Jackson,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Mauricio Dubon,Houston Astros,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Mauricio Dubon,Houston Astros,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Mauricio Dubon,Houston Astros,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Mauricio Dubon,Houston Astros,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Mauricio Dubon,Houston Astros,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Mauricio Dubon,Houston Astros,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Mauricio Dubon,Houston Astros,Nick Burdi,Chicago Cubs,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+75,Mauricio Dubon,Houston Astros,Michael Fulmer,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+76,Mauricio Dubon,Houston Astros,Jameson Taillon,Chicago Cubs,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+77,Mauricio Dubon,Houston Astros,Justin Steele,Chicago Cubs,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+78,Mauricio Dubon,Houston Astros,Keegan Thompson,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+79,Mauricio Dubon,Houston Astros,Jorge Lopez,Minnesota Twins,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+80,Mauricio Dubon,Houston Astros,Tyler Mahle,Minnesota Twins,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+81,Mauricio Dubon,Houston Astros,Brock Stewart,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+82,Mauricio Dubon,Houston Astros,Sonny Gray,Minnesota Twins,5,2,1,0,0,0,0,0,1,.400,.400,.600,1.000
+83,Mauricio Dubon,Houston Astros,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Mauricio Dubon,Houston Astros,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Mauricio Dubon,Houston Astros,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Mauricio Dubon,Houston Astros,Louie Varland,Minnesota Twins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Mauricio Dubon,Houston Astros,Patrick Corbin,Washington Nationals,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+88,Mauricio Dubon,Houston Astros,Josiah Gray,Washington Nationals,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+89,Mauricio Dubon,Houston Astros,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Mauricio Dubon,Houston Astros,Chad Kuhl,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Mauricio Dubon,Houston Astros,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Mauricio Dubon,Houston Astros,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Mauricio Dubon,Houston Astros,Sean Hjelle,San Francisco Giants,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+94,Mauricio Dubon,Houston Astros,Ross Stripling,San Francisco Giants,3,2,0,0,0,1,0,0,1,.667,.667,.667,1.334
+95,Mauricio Dubon,Houston Astros,Logan Webb,San Francisco Giants,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+96,Mauricio Dubon,Houston Astros,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Mauricio Dubon,Houston Astros,Anthony DeSclafani,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Mauricio Dubon,Houston Astros,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Mauricio Dubon,Houston Astros,Dominic Leone,New York Mets,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+100,Mauricio Dubon,Houston Astros,Grant Hartwig,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+101,Mauricio Dubon,Houston Astros,Tylor Megill,New York Mets,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+102,Mauricio Dubon,Houston Astros,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Mauricio Dubon,Houston Astros,Fernando Abad,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+104,Mauricio Dubon,Houston Astros,Chase Anderson,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+105,Mauricio Dubon,Houston Astros,Pierce Johnson,Colorado Rockies,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+106,Mauricio Dubon,Houston Astros,Austin Gomber,Colorado Rockies,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+107,Mauricio Dubon,Houston Astros,Kyle Freeland,Colorado Rockies,4,1,0,1,0,1,0,0,0,.250,.250,.750,1.000
+108,Mauricio Dubon,Houston Astros,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+109,Mauricio Dubon,Houston Astros,Tommy Doyle,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Mauricio Dubon,Houston Astros,Matt Koch,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Mauricio Dubon,Houston Astros,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Mauricio Dubon,Houston Astros,Marco Gonzales,Seattle Mariners,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+113,Mauricio Dubon,Houston Astros,Luis Castillo,Seattle Mariners,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+114,Mauricio Dubon,Houston Astros,Isaiah Campbell,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Mauricio Dubon,Houston Astros,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+116,Mauricio Dubon,Houston Astros,Trevor Gott,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Mauricio Dubon,Houston Astros,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Mauricio Dubon,Houston Astros,Bryce Miller,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,Mauricio Dubon,Houston Astros,Andres Munoz,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+120,Mauricio Dubon,Houston Astros,Paul Sewald,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Mauricio Dubon,Houston Astros,Juan Then,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Mauricio Dubon,Houston Astros,Bryan Woo,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Mauricio Dubon,Houston Astros,Sam Hentges,Cleveland Guardians,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+124,Mauricio Dubon,Houston Astros,Tim Herrin,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+125,Mauricio Dubon,Houston Astros,Logan Allen,Cleveland Guardians,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+126,Mauricio Dubon,Houston Astros,Triston McKenzie,Cleveland Guardians,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+127,Mauricio Dubon,Houston Astros,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Mauricio Dubon,Houston Astros,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Mauricio Dubon,Houston Astros,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Mauricio Dubon,Houston Astros,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+131,Mauricio Dubon,Houston Astros,Trevor Stephan,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Mauricio Dubon,Houston Astros,Roansy Contreras,Pittsburgh Pirates,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+133,Mauricio Dubon,Houston Astros,Chase De Jong,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+134,Mauricio Dubon,Houston Astros,Jose Hernandez,Pittsburgh Pirates,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+135,Mauricio Dubon,Houston Astros,Rich Hill,Pittsburgh Pirates,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+136,Mauricio Dubon,Houston Astros,Mitch Keller,Pittsburgh Pirates,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+137,Mauricio Dubon,Houston Astros,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Mauricio Dubon,Houston Astros,Wil Crowe,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Mauricio Dubon,Houston Astros,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Mauricio Dubon,Houston Astros,Joe Kelly,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+141,Mauricio Dubon,Houston Astros,Keynan Middleton,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+142,Mauricio Dubon,Houston Astros,Mike Clevinger,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+143,Mauricio Dubon,Houston Astros,Lucas Giolito,Chicago White Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+144,Mauricio Dubon,Houston Astros,Gregory Santos,Chicago White Sox,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+145,Mauricio Dubon,Houston Astros,Dylan Cease,Chicago White Sox,5,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+146,Mauricio Dubon,Houston Astros,Kendall Graveman,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Mauricio Dubon,Houston Astros,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+148,Mauricio Dubon,Houston Astros,Corbin Burnes,Milwaukee Brewers,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+149,Mauricio Dubon,Houston Astros,Mike Brosseau,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+150,Mauricio Dubon,Houston Astros,Jake Cousins,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Mauricio Dubon,Houston Astros,Adrian Houser,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Mauricio Dubon,Houston Astros,Elvis Peguero,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+153,Mauricio Dubon,Houston Astros,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+154,Mauricio Dubon,Houston Astros,Mason Englert,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+155,Mauricio Dubon,Houston Astros,Trey Wingenter,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+156,Mauricio Dubon,Houston Astros,Matthew Boyd,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+157,Mauricio Dubon,Houston Astros,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Mauricio Dubon,Houston Astros,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Mauricio Dubon,Houston Astros,Matt Manning,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Mauricio Dubon,Houston Astros,Chad Smith,Oakland Athletics,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+161,Mauricio Dubon,Houston Astros,Hogan Harris,Oakland Athletics,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+162,Mauricio Dubon,Houston Astros,James Kaprielian,Oakland Athletics,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+163,Mauricio Dubon,Houston Astros,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+164,Mauricio Dubon,Houston Astros,Luis Medina,Oakland Athletics,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+165,Mauricio Dubon,Houston Astros,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Mauricio Dubon,Houston Astros,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Mauricio Dubon,Houston Astros,Tayler Scott,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+168,Mauricio Dubon,Houston Astros,JP Sears,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,Mauricio Dubon,Houston Astros,Freddy Tarnok,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

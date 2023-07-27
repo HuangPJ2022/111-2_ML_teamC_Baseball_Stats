@@ -1,0 +1,172 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,LaMonte Wade Jr.,San Francisco Giants,Victor Gonzalez,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,LaMonte Wade Jr.,San Francisco Giants,Bryan Hudson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,LaMonte Wade Jr.,San Francisco Giants,Nick Robertson,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+3,LaMonte Wade Jr.,San Francisco Giants,Dustin May,Los Angeles Dodgers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+4,LaMonte Wade Jr.,San Francisco Giants,Bobby Miller,Los Angeles Dodgers,3,1,0,0,1,3,0,0,1,.333,.333,1.333,1.666
+5,LaMonte Wade Jr.,San Francisco Giants,Yency Almonte,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,LaMonte Wade Jr.,San Francisco Giants,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,LaMonte Wade Jr.,San Francisco Giants,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,1,1,0,1,.000,.333,.000,.333
+8,LaMonte Wade Jr.,San Francisco Giants,Clayton Kershaw,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+9,LaMonte Wade Jr.,San Francisco Giants,Shelby Miller,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+10,LaMonte Wade Jr.,San Francisco Giants,Emmet Sheehan,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,LaMonte Wade Jr.,San Francisco Giants,Alex Vesia,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+12,LaMonte Wade Jr.,San Francisco Giants,Genesis Cabrera,St. Louis Cardinals,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+13,LaMonte Wade Jr.,San Francisco Giants,Giovanny Gallegos,St. Louis Cardinals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+14,LaMonte Wade Jr.,San Francisco Giants,Steven Matz,St. Louis Cardinals,2,2,0,0,1,2,1,0,0,1.000,1.000,2.500,3.500
+15,LaMonte Wade Jr.,San Francisco Giants,Chris Stratton,St. Louis Cardinals,1,1,0,1,0,1,0,0,0,1.000,1.000,3.000,4.000
+16,LaMonte Wade Jr.,San Francisco Giants,Jack Flaherty,St. Louis Cardinals,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+17,LaMonte Wade Jr.,San Francisco Giants,Jake Woodford,St. Louis Cardinals,5,1,1,0,0,0,0,0,1,.200,.200,.400,.600
+18,LaMonte Wade Jr.,San Francisco Giants,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,LaMonte Wade Jr.,San Francisco Giants,Miles Mikolas,St. Louis Cardinals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+20,LaMonte Wade Jr.,San Francisco Giants,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,LaMonte Wade Jr.,San Francisco Giants,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,LaMonte Wade Jr.,San Francisco Giants,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,LaMonte Wade Jr.,San Francisco Giants,Drey Jameson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+24,LaMonte Wade Jr.,San Francisco Giants,Ryne Nelson,Arizona Diamondbacks,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+25,LaMonte Wade Jr.,San Francisco Giants,Zach Davies,Arizona Diamondbacks,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+26,LaMonte Wade Jr.,San Francisco Giants,Zac Gallen,Arizona Diamondbacks,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+27,LaMonte Wade Jr.,San Francisco Giants,Kyle Nelson,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+28,LaMonte Wade Jr.,San Francisco Giants,Tommy Henry,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+29,LaMonte Wade Jr.,San Francisco Giants,Merrill Kelly,Arizona Diamondbacks,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+30,LaMonte Wade Jr.,San Francisco Giants,Andrew Chafin,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,LaMonte Wade Jr.,San Francisco Giants,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,LaMonte Wade Jr.,San Francisco Giants,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,LaMonte Wade Jr.,San Francisco Giants,Brandon Pfaadt,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,LaMonte Wade Jr.,San Francisco Giants,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+35,LaMonte Wade Jr.,San Francisco Giants,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,LaMonte Wade Jr.,San Francisco Giants,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,LaMonte Wade Jr.,San Francisco Giants,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,LaMonte Wade Jr.,San Francisco Giants,Bowden Francis,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+39,LaMonte Wade Jr.,San Francisco Giants,Trent Thornton,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+40,LaMonte Wade Jr.,San Francisco Giants,Trevor Richards,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+41,LaMonte Wade Jr.,San Francisco Giants,Chris Bassitt,Toronto Blue Jays,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+42,LaMonte Wade Jr.,San Francisco Giants,Kevin Gausman,Toronto Blue Jays,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+43,LaMonte Wade Jr.,San Francisco Giants,Erik Swanson,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,LaMonte Wade Jr.,San Francisco Giants,Kyle Bradish,Baltimore Orioles,2,2,2,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+45,LaMonte Wade Jr.,San Francisco Giants,Dean Kremer,Baltimore Orioles,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+46,LaMonte Wade Jr.,San Francisco Giants,Bryan Baker,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+47,LaMonte Wade Jr.,San Francisco Giants,Mike Baumann,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+48,LaMonte Wade Jr.,San Francisco Giants,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,LaMonte Wade Jr.,San Francisco Giants,Tyler Wells,Baltimore Orioles,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+50,LaMonte Wade Jr.,San Francisco Giants,Bruce Zimmermann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,LaMonte Wade Jr.,San Francisco Giants,Zack Wheeler,Philadelphia Phillies,3,2,0,0,0,1,1,0,0,.667,.750,.667,1.417
+52,LaMonte Wade Jr.,San Francisco Giants,Connor Brogdon,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+53,LaMonte Wade Jr.,San Francisco Giants,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,LaMonte Wade Jr.,San Francisco Giants,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,LaMonte Wade Jr.,San Francisco Giants,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,LaMonte Wade Jr.,San Francisco Giants,Taijuan Walker,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+57,LaMonte Wade Jr.,San Francisco Giants,Kyle Hendricks,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,LaMonte Wade Jr.,San Francisco Giants,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,LaMonte Wade Jr.,San Francisco Giants,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,2,0,0,.000,.500,.000,.500
+60,LaMonte Wade Jr.,San Francisco Giants,Joe Musgrove,San Diego Padres,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+61,LaMonte Wade Jr.,San Francisco Giants,Yu Darvish,San Diego Padres,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+62,LaMonte Wade Jr.,San Francisco Giants,Michael Wacha,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+63,LaMonte Wade Jr.,San Francisco Giants,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,LaMonte Wade Jr.,San Francisco Giants,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,LaMonte Wade Jr.,San Francisco Giants,Brent Honeywell,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+66,LaMonte Wade Jr.,San Francisco Giants,Steven Wilson,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+67,LaMonte Wade Jr.,San Francisco Giants,Ronel Blanco,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+68,LaMonte Wade Jr.,San Francisco Giants,Luis Garcia,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+69,LaMonte Wade Jr.,San Francisco Giants,Rafael Montero,Houston Astros,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+70,LaMonte Wade Jr.,San Francisco Giants,Brandon Bielak,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+71,LaMonte Wade Jr.,San Francisco Giants,Hunter Brown,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+72,LaMonte Wade Jr.,San Francisco Giants,Phil Maton,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,LaMonte Wade Jr.,San Francisco Giants,Ryne Stanek,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+74,LaMonte Wade Jr.,San Francisco Giants,Framber Valdez,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+75,LaMonte Wade Jr.,San Francisco Giants,Joe Ryan,Minnesota Twins,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+76,LaMonte Wade Jr.,San Francisco Giants,Griffin Jax,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+77,LaMonte Wade Jr.,San Francisco Giants,Sonny Gray,Minnesota Twins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+78,LaMonte Wade Jr.,San Francisco Giants,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,LaMonte Wade Jr.,San Francisco Giants,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+80,LaMonte Wade Jr.,San Francisco Giants,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+81,LaMonte Wade Jr.,San Francisco Giants,Erasmo Ramirez,Washington Nationals,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+82,LaMonte Wade Jr.,San Francisco Giants,Jake Irvin,Washington Nationals,6,2,0,0,0,0,0,0,3,.333,.333,.333,.666
+83,LaMonte Wade Jr.,San Francisco Giants,Josiah Gray,Washington Nationals,5,1,0,0,0,1,2,0,0,.200,.429,.200,.629
+84,LaMonte Wade Jr.,San Francisco Giants,Carl Edwards Jr.,Washington Nationals,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+85,LaMonte Wade Jr.,San Francisco Giants,Rico Garcia,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,LaMonte Wade Jr.,San Francisco Giants,Joe La Sorsa,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,LaMonte Wade Jr.,San Francisco Giants,Amos Willingham,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+88,LaMonte Wade Jr.,San Francisco Giants,Sandy Alcantara,Miami Marlins,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+89,LaMonte Wade Jr.,San Francisco Giants,Matt Barnes,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+90,LaMonte Wade Jr.,San Francisco Giants,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+91,LaMonte Wade Jr.,San Francisco Giants,Braxton Garrett,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+92,LaMonte Wade Jr.,San Francisco Giants,Andrew Nardi,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,LaMonte Wade Jr.,San Francisco Giants,A.J. Puk,Miami Marlins,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,LaMonte Wade Jr.,San Francisco Giants,Trevor Rogers,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,LaMonte Wade Jr.,San Francisco Giants,Tanner Scott,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,LaMonte Wade Jr.,San Francisco Giants,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,LaMonte Wade Jr.,San Francisco Giants,Brooks Raley,New York Mets,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+98,LaMonte Wade Jr.,San Francisco Giants,Kodai Senga,New York Mets,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+99,LaMonte Wade Jr.,San Francisco Giants,Tylor Megill,New York Mets,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+100,LaMonte Wade Jr.,San Francisco Giants,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,LaMonte Wade Jr.,San Francisco Giants,Carlos Carrasco,New York Mets,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+102,LaMonte Wade Jr.,San Francisco Giants,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,LaMonte Wade Jr.,San Francisco Giants,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,LaMonte Wade Jr.,San Francisco Giants,Dominic Leone,New York Mets,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+105,LaMonte Wade Jr.,San Francisco Giants,David Peterson,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+106,LaMonte Wade Jr.,San Francisco Giants,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,LaMonte Wade Jr.,San Francisco Giants,Edwin Uceta,New York Mets,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+108,LaMonte Wade Jr.,San Francisco Giants,Peter Lambert,Colorado Rockies,1,1,0,0,0,2,1,0,0,1.000,1.000,1.000,2.000
+109,LaMonte Wade Jr.,San Francisco Giants,Dinelson Lamet,Colorado Rockies,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+110,LaMonte Wade Jr.,San Francisco Giants,Brad Hand,Colorado Rockies,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+111,LaMonte Wade Jr.,San Francisco Giants,Connor Seabold,Colorado Rockies,5,2,0,0,0,0,0,0,1,.400,.400,.400,.800
+112,LaMonte Wade Jr.,San Francisco Giants,Fernando Abad,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,LaMonte Wade Jr.,San Francisco Giants,Chase Anderson,Colorado Rockies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,LaMonte Wade Jr.,San Francisco Giants,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+115,LaMonte Wade Jr.,San Francisco Giants,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,LaMonte Wade Jr.,San Francisco Giants,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,LaMonte Wade Jr.,San Francisco Giants,Pierce Johnson,Colorado Rockies,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+118,LaMonte Wade Jr.,San Francisco Giants,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,LaMonte Wade Jr.,San Francisco Giants,Michael King,New York Yankees,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+120,LaMonte Wade Jr.,San Francisco Giants,Albert Abreu,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+121,LaMonte Wade Jr.,San Francisco Giants,Colten Brewer,New York Yankees,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+122,LaMonte Wade Jr.,San Francisco Giants,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+123,LaMonte Wade Jr.,San Francisco Giants,Gerrit Cole,New York Yankees,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+124,LaMonte Wade Jr.,San Francisco Giants,Jimmy Cordero,New York Yankees,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+125,LaMonte Wade Jr.,San Francisco Giants,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,LaMonte Wade Jr.,San Francisco Giants,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,LaMonte Wade Jr.,San Francisco Giants,Clarke Schmidt,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+128,LaMonte Wade Jr.,San Francisco Giants,Justin Topa,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+129,LaMonte Wade Jr.,San Francisco Giants,Bryan Woo,Seattle Mariners,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+130,LaMonte Wade Jr.,San Francisco Giants,Logan Gilbert,Seattle Mariners,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+131,LaMonte Wade Jr.,San Francisco Giants,Tommy Milone,Seattle Mariners,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+132,LaMonte Wade Jr.,San Francisco Giants,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,LaMonte Wade Jr.,San Francisco Giants,Osvaldo Bido,Pittsburgh Pirates,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+134,LaMonte Wade Jr.,San Francisco Giants,Cody Bolton,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+135,LaMonte Wade Jr.,San Francisco Giants,Ryan Borucki,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+136,LaMonte Wade Jr.,San Francisco Giants,Mitch Keller,Pittsburgh Pirates,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+137,LaMonte Wade Jr.,San Francisco Giants,Johan Oviedo,Pittsburgh Pirates,5,1,1,0,0,0,1,0,1,.200,.333,.400,.733
+138,LaMonte Wade Jr.,San Francisco Giants,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,LaMonte Wade Jr.,San Francisco Giants,Jose Hernandez,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+140,LaMonte Wade Jr.,San Francisco Giants,Carmen Mlodzinski,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+141,LaMonte Wade Jr.,San Francisco Giants,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,LaMonte Wade Jr.,San Francisco Giants,Rob Zastryzny,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,LaMonte Wade Jr.,San Francisco Giants,Hanser Alberto,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+144,LaMonte Wade Jr.,San Francisco Giants,Jimmy Lambert,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+145,LaMonte Wade Jr.,San Francisco Giants,Lance Lynn,Chicago White Sox,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+146,LaMonte Wade Jr.,San Francisco Giants,Dylan Cease,Chicago White Sox,0,0,0,0,0,0,3,0,0,.000,1.000,.000,1.000
+147,LaMonte Wade Jr.,San Francisco Giants,Jake Diekman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,LaMonte Wade Jr.,San Francisco Giants,Michael Kopech,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,LaMonte Wade Jr.,San Francisco Giants,Jose Ruiz,Chicago White Sox,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+150,LaMonte Wade Jr.,San Francisco Giants,Trevor Megill,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+151,LaMonte Wade Jr.,San Francisco Giants,Adrian Houser,Milwaukee Brewers,3,2,0,0,0,1,0,0,1,.667,.667,.667,1.334
+152,LaMonte Wade Jr.,San Francisco Giants,Julio Teheran,Milwaukee Brewers,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+153,LaMonte Wade Jr.,San Francisco Giants,Colin Rea,Milwaukee Brewers,6,2,0,0,0,0,0,0,2,.333,.333,.333,.666
+154,LaMonte Wade Jr.,San Francisco Giants,Corbin Burnes,Milwaukee Brewers,6,1,0,0,0,0,1,0,1,.167,.286,.167,.453
+155,LaMonte Wade Jr.,San Francisco Giants,Tyson Miller,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,LaMonte Wade Jr.,San Francisco Giants,Joel Payamps,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,LaMonte Wade Jr.,San Francisco Giants,Elvis Peguero,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+158,LaMonte Wade Jr.,San Francisco Giants,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+159,LaMonte Wade Jr.,San Francisco Giants,Ethan Small,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+160,LaMonte Wade Jr.,San Francisco Giants,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,LaMonte Wade Jr.,San Francisco Giants,Bryse Wilson,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+162,LaMonte Wade Jr.,San Francisco Giants,Amir Garrett,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+163,LaMonte Wade Jr.,San Francisco Giants,Brady Singer,Kansas City Royals,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+164,LaMonte Wade Jr.,San Francisco Giants,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+165,LaMonte Wade Jr.,San Francisco Giants,Brad Keller,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,LaMonte Wade Jr.,San Francisco Giants,Jose Cisnero,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+167,LaMonte Wade Jr.,San Francisco Giants,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+168,LaMonte Wade Jr.,San Francisco Giants,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,LaMonte Wade Jr.,San Francisco Giants,Alex Lange,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+170,LaMonte Wade Jr.,San Francisco Giants,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333

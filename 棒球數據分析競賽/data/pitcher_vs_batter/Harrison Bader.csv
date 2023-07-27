@@ -1,0 +1,105 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Harrison Bader,New York Yankees,Yerry Rodriguez,Texas Rangers,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+1,Harrison Bader,New York Yankees,Jon Gray,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Harrison Bader,New York Yankees,Nathan Eovaldi,Texas Rangers,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+3,Harrison Bader,New York Yankees,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Harrison Bader,New York Yankees,Joe Barlow,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Harrison Bader,New York Yankees,John King,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Harrison Bader,New York Yankees,Griffin Canning,Los Angeles Angels,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+7,Harrison Bader,New York Yankees,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Harrison Bader,New York Yankees,Gerardo Reyes,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Harrison Bader,New York Yankees,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+10,Harrison Bader,New York Yankees,Chase Silseth,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Harrison Bader,New York Yankees,Jose Soriano,Los Angeles Angels,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+12,Harrison Bader,New York Yankees,Garrett Cleavinger,Tampa Bay Rays,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+13,Harrison Bader,New York Yankees,Josh Fleming,Tampa Bay Rays,3,3,0,1,1,2,0,0,0,1.000,1.000,2.667,3.667
+14,Harrison Bader,New York Yankees,Jalen Beeks,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+15,Harrison Bader,New York Yankees,Kevin Kelly,Tampa Bay Rays,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+16,Harrison Bader,New York Yankees,Ryan Thompson,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+17,Harrison Bader,New York Yankees,Zach Eflin,Tampa Bay Rays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+18,Harrison Bader,New York Yankees,Jason Adam,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Harrison Bader,New York Yankees,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Harrison Bader,New York Yankees,Jake Diekman,Tampa Bay Rays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+21,Harrison Bader,New York Yankees,Javy Guerra,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+22,Harrison Bader,New York Yankees,Trevor Kelley,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Harrison Bader,New York Yankees,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Harrison Bader,New York Yankees,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Harrison Bader,New York Yankees,Drew Rasmussen,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Harrison Bader,New York Yankees,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Harrison Bader,New York Yankees,Dakota Hudson,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Harrison Bader,New York Yankees,Matthew Liberatore,St. Louis Cardinals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+29,Harrison Bader,New York Yankees,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Harrison Bader,New York Yankees,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Harrison Bader,New York Yankees,Alan Busenitz,Cincinnati Reds,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+32,Harrison Bader,New York Yankees,Ian Gibaut,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Harrison Bader,New York Yankees,Hunter Greene,Cincinnati Reds,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+34,Harrison Bader,New York Yankees,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Harrison Bader,New York Yankees,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Harrison Bader,New York Yankees,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Harrison Bader,New York Yankees,Alex Young,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Harrison Bader,New York Yankees,Chris Bassitt,Toronto Blue Jays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+39,Harrison Bader,New York Yankees,Jose Berrios,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Harrison Bader,New York Yankees,Kevin Gausman,Toronto Blue Jays,3,0,0,0,0,1,0,0,2,.000,.000,.000,.000
+41,Harrison Bader,New York Yankees,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Harrison Bader,New York Yankees,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Harrison Bader,New York Yankees,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Harrison Bader,New York Yankees,Kyle Bradish,Baltimore Orioles,4,3,0,0,1,2,1,0,1,.750,.667,1.500,2.167
+45,Harrison Bader,New York Yankees,Bryan Baker,Baltimore Orioles,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+46,Harrison Bader,New York Yankees,Danny Coulombe,Baltimore Orioles,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+47,Harrison Bader,New York Yankees,Tyler Wells,Baltimore Orioles,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+48,Harrison Bader,New York Yankees,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Harrison Bader,New York Yankees,Eduard Bazardo,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Harrison Bader,New York Yankees,Yennier Cano,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Harrison Bader,New York Yankees,Kyle Gibson,Baltimore Orioles,4,0,0,0,0,0,1,0,3,.000,.333,.000,.333
+52,Harrison Bader,New York Yankees,Drew Smyly,Chicago Cubs,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+53,Harrison Bader,New York Yankees,Kyle Hendricks,Chicago Cubs,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+54,Harrison Bader,New York Yankees,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Harrison Bader,New York Yankees,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Harrison Bader,New York Yankees,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Harrison Bader,New York Yankees,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Harrison Bader,New York Yankees,Jameson Taillon,Chicago Cubs,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+59,Harrison Bader,New York Yankees,Brent Honeywell,San Diego Padres,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+60,Harrison Bader,New York Yankees,Michael Wacha,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+61,Harrison Bader,New York Yankees,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Harrison Bader,New York Yankees,Yu Darvish,San Diego Padres,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+63,Harrison Bader,New York Yankees,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Harrison Bader,New York Yankees,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Harrison Bader,New York Yankees,Joe Musgrove,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Harrison Bader,New York Yankees,Jake Bird,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+67,Harrison Bader,New York Yankees,Connor Seabold,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+68,Harrison Bader,New York Yankees,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Harrison Bader,New York Yankees,Daniel Bard,Colorado Rockies,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+70,Harrison Bader,New York Yankees,Tommy Doyle,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Harrison Bader,New York Yankees,Austin Gomber,Colorado Rockies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Harrison Bader,New York Yankees,Gavin Hollowell,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Harrison Bader,New York Yankees,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Harrison Bader,New York Yankees,Matt Koch,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Harrison Bader,New York Yankees,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Harrison Bader,New York Yankees,Bryce Miller,Seattle Mariners,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+77,Harrison Bader,New York Yankees,George Kirby,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+78,Harrison Bader,New York Yankees,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Harrison Bader,New York Yankees,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Harrison Bader,New York Yankees,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Harrison Bader,New York Yankees,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Harrison Bader,New York Yankees,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Harrison Bader,New York Yankees,Bryan Woo,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Harrison Bader,New York Yankees,Eli Morgan,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,Harrison Bader,New York Yankees,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Harrison Bader,New York Yankees,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Harrison Bader,New York Yankees,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Harrison Bader,New York Yankees,Dylan Coleman,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+89,Harrison Bader,New York Yankees,Jordan Lyles,Kansas City Royals,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+90,Harrison Bader,New York Yankees,Scott Barlow,Kansas City Royals,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Harrison Bader,New York Yankees,Lucas Erceg,Oakland Athletics,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+92,Harrison Bader,New York Yankees,Spencer Patton,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+93,Harrison Bader,New York Yankees,Hogan Harris,Oakland Athletics,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+94,Harrison Bader,New York Yankees,Drew Rucinski,Oakland Athletics,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+95,Harrison Bader,New York Yankees,Kyle Muller,Oakland Athletics,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+96,Harrison Bader,New York Yankees,Austin Pruitt,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+97,Harrison Bader,New York Yankees,JP Sears,Oakland Athletics,4,2,1,1,0,0,0,0,1,.500,.500,1.250,1.750
+98,Harrison Bader,New York Yankees,Paul Blackburn,Oakland Athletics,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Harrison Bader,New York Yankees,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Harrison Bader,New York Yankees,Rico Garcia,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Harrison Bader,New York Yankees,Sam Long,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+102,Harrison Bader,New York Yankees,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Harrison Bader,New York Yankees,Ken Waldichuk,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

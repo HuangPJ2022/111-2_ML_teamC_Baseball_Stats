@@ -1,0 +1,65 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Josh Harrison,Philadelphia Phillies,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Josh Harrison,Philadelphia Phillies,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Josh Harrison,Philadelphia Phillies,Jared Shuster,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+3,Josh Harrison,Philadelphia Phillies,Martin Perez,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+4,Josh Harrison,Philadelphia Phillies,Dane Dunning,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Josh Harrison,Philadelphia Phillies,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Josh Harrison,Philadelphia Phillies,Andre Jackson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Josh Harrison,Philadelphia Phillies,Chris Sale,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+8,Josh Harrison,Philadelphia Phillies,Tommy Henry,Arizona Diamondbacks,4,2,1,0,0,1,0,0,1,.500,.500,.750,1.250
+9,Josh Harrison,Philadelphia Phillies,Austin Adams,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+10,Josh Harrison,Philadelphia Phillies,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Josh Harrison,Philadelphia Phillies,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Josh Harrison,Philadelphia Phillies,Jason Vosler,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Josh Harrison,Philadelphia Phillies,Luis Cessa,Cincinnati Reds,2,1,0,0,0,1,0,0,0,.500,.667,.500,1.167
+14,Josh Harrison,Philadelphia Phillies,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Josh Harrison,Philadelphia Phillies,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Josh Harrison,Philadelphia Phillies,Nick Lodolo,Cincinnati Reds,5,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+17,Josh Harrison,Philadelphia Phillies,Reiver Sanmartin,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Josh Harrison,Philadelphia Phillies,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Josh Harrison,Philadelphia Phillies,Hayden Wesneski,Chicago Cubs,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+20,Josh Harrison,Philadelphia Phillies,Michael Fulmer,Chicago Cubs,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+21,Josh Harrison,Philadelphia Phillies,Kyle Hendricks,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Josh Harrison,Philadelphia Phillies,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Josh Harrison,Philadelphia Phillies,Justin Steele,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Josh Harrison,Philadelphia Phillies,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Josh Harrison,Philadelphia Phillies,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Josh Harrison,Philadelphia Phillies,Jesus Luzardo,Miami Marlins,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+27,Josh Harrison,Philadelphia Phillies,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+28,Josh Harrison,Philadelphia Phillies,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Josh Harrison,Philadelphia Phillies,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Josh Harrison,Philadelphia Phillies,A.J. Puk,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Josh Harrison,Philadelphia Phillies,Amos Willingham,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+32,Josh Harrison,Philadelphia Phillies,MacKenzie Gore,Washington Nationals,3,2,0,0,0,2,0,0,1,.667,.600,.667,1.267
+33,Josh Harrison,Philadelphia Phillies,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Josh Harrison,Philadelphia Phillies,Chad Kuhl,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Josh Harrison,Philadelphia Phillies,Thaddeus Ward,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+36,Josh Harrison,Philadelphia Phillies,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Josh Harrison,Philadelphia Phillies,Camilo Doval,San Francisco Giants,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+38,Josh Harrison,Philadelphia Phillies,Brooks Raley,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+39,Josh Harrison,Philadelphia Phillies,David Robertson,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+40,Josh Harrison,Philadelphia Phillies,Pierce Johnson,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+41,Josh Harrison,Philadelphia Phillies,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Josh Harrison,Philadelphia Phillies,Ryan Feltner,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Josh Harrison,Philadelphia Phillies,Kyle Freeland,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Josh Harrison,Philadelphia Phillies,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Josh Harrison,Philadelphia Phillies,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Josh Harrison,Philadelphia Phillies,Justin Lawrence,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Josh Harrison,Philadelphia Phillies,Jonathan Loaisiga,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Josh Harrison,Philadelphia Phillies,Jimmy Lambert,Chicago White Sox,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+49,Josh Harrison,Philadelphia Phillies,Lance Lynn,Chicago White Sox,3,2,0,0,0,2,0,0,0,.667,.667,.667,1.334
+50,Josh Harrison,Philadelphia Phillies,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+51,Josh Harrison,Philadelphia Phillies,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Josh Harrison,Philadelphia Phillies,Mike Clevinger,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Josh Harrison,Philadelphia Phillies,Jake Diekman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Josh Harrison,Philadelphia Phillies,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Josh Harrison,Philadelphia Phillies,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Josh Harrison,Philadelphia Phillies,Reese Olson,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Josh Harrison,Philadelphia Phillies,Austin Pruitt,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+58,Josh Harrison,Philadelphia Phillies,Ken Waldichuk,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+59,Josh Harrison,Philadelphia Phillies,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Josh Harrison,Philadelphia Phillies,Hogan Harris,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Josh Harrison,Philadelphia Phillies,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Josh Harrison,Philadelphia Phillies,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+63,Josh Harrison,Philadelphia Phillies,Chad Smith,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

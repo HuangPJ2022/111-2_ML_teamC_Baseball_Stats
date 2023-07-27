@@ -1,0 +1,191 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Anthony Volpe,New York Yankees,John King,Texas Rangers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+1,Anthony Volpe,New York Yankees,Andrew Heaney,Texas Rangers,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+2,Anthony Volpe,New York Yankees,Martin Perez,Texas Rangers,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+3,Anthony Volpe,New York Yankees,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Anthony Volpe,New York Yankees,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Anthony Volpe,New York Yankees,Dane Dunning,Texas Rangers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+6,Anthony Volpe,New York Yankees,Nathan Eovaldi,Texas Rangers,6,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+7,Anthony Volpe,New York Yankees,Jon Gray,Texas Rangers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+8,Anthony Volpe,New York Yankees,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Anthony Volpe,New York Yankees,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Anthony Volpe,New York Yankees,Caleb Ferguson,Los Angeles Dodgers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+11,Anthony Volpe,New York Yankees,Bobby Miller,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+12,Anthony Volpe,New York Yankees,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Anthony Volpe,New York Yankees,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Anthony Volpe,New York Yankees,Michael Grove,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Anthony Volpe,New York Yankees,Clayton Kershaw,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Anthony Volpe,New York Yankees,Tayler Scott,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Anthony Volpe,New York Yankees,Carlos Estevez,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Anthony Volpe,New York Yankees,Griffin Canning,Los Angeles Angels,5,2,0,0,0,0,1,0,3,.400,.500,.400,.900
+19,Anthony Volpe,New York Yankees,Patrick Sandoval,Los Angeles Angels,4,1,0,0,0,0,2,0,2,.250,.500,.250,.750
+20,Anthony Volpe,New York Yankees,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Anthony Volpe,New York Yankees,Jimmy Herget,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Anthony Volpe,New York Yankees,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Anthony Volpe,New York Yankees,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Anthony Volpe,New York Yankees,Jose Quijada,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Anthony Volpe,New York Yankees,Gerardo Reyes,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Anthony Volpe,New York Yankees,Chase Silseth,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+27,Anthony Volpe,New York Yankees,Jose Suarez,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+28,Anthony Volpe,New York Yankees,Andrew Wantz,Los Angeles Angels,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+29,Anthony Volpe,New York Yankees,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Anthony Volpe,New York Yankees,Jason Adam,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+31,Anthony Volpe,New York Yankees,Kevin Kelly,Tampa Bay Rays,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+32,Anthony Volpe,New York Yankees,Zach Eflin,Tampa Bay Rays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+33,Anthony Volpe,New York Yankees,Trevor Kelley,Tampa Bay Rays,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+34,Anthony Volpe,New York Yankees,Ryan Thompson,Tampa Bay Rays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+35,Anthony Volpe,New York Yankees,Josh Fleming,Tampa Bay Rays,3,1,0,0,1,1,1,0,1,.333,.500,1.333,1.833
+36,Anthony Volpe,New York Yankees,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Anthony Volpe,New York Yankees,Yonny Chirinos,Tampa Bay Rays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Anthony Volpe,New York Yankees,Garrett Cleavinger,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Anthony Volpe,New York Yankees,Javy Guerra,Tampa Bay Rays,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+40,Anthony Volpe,New York Yankees,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+41,Anthony Volpe,New York Yankees,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Anthony Volpe,New York Yankees,Drew Rasmussen,Tampa Bay Rays,5,0,0,0,0,0,1,0,3,.000,.167,.000,.167
+43,Anthony Volpe,New York Yankees,Corey Kluber,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+44,Anthony Volpe,New York Yankees,Garrett Whitlock,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+45,Anthony Volpe,New York Yankees,Brayan Bello,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Anthony Volpe,New York Yankees,Brennan Bernardino,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+47,Anthony Volpe,New York Yankees,Tanner Houck,Boston Red Sox,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+48,Anthony Volpe,New York Yankees,Joe Jacques,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Anthony Volpe,New York Yankees,Kenley Jansen,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Anthony Volpe,New York Yankees,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Anthony Volpe,New York Yankees,Chris Murphy,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Anthony Volpe,New York Yankees,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Anthony Volpe,New York Yankees,Nick Pivetta,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Anthony Volpe,New York Yankees,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Anthony Volpe,New York Yankees,Jordan Hicks,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+56,Anthony Volpe,New York Yankees,James Naile,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+57,Anthony Volpe,New York Yankees,Chris Stratton,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+58,Anthony Volpe,New York Yankees,Drew VerHagen,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+59,Anthony Volpe,New York Yankees,Matthew Liberatore,St. Louis Cardinals,2,1,0,1,0,1,0,0,0,.500,.500,1.500,2.000
+60,Anthony Volpe,New York Yankees,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Anthony Volpe,New York Yankees,Dakota Hudson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Anthony Volpe,New York Yankees,Jordan Montgomery,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Anthony Volpe,New York Yankees,Ian Gibaut,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+64,Anthony Volpe,New York Yankees,Hunter Greene,Cincinnati Reds,3,1,1,0,0,1,0,0,2,.333,.333,.667,1.000
+65,Anthony Volpe,New York Yankees,Silvino Bracho,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Anthony Volpe,New York Yankees,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Anthony Volpe,New York Yankees,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Anthony Volpe,New York Yankees,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Anthony Volpe,New York Yankees,Ben Lively,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Anthony Volpe,New York Yankees,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Anthony Volpe,New York Yankees,Yimi Garcia,Toronto Blue Jays,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+72,Anthony Volpe,New York Yankees,Nate Pearson,Toronto Blue Jays,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+73,Anthony Volpe,New York Yankees,Yusei Kikuchi,Toronto Blue Jays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+74,Anthony Volpe,New York Yankees,Alek Manoah,Toronto Blue Jays,5,1,1,0,0,0,0,0,2,.200,.200,.400,.600
+75,Anthony Volpe,New York Yankees,Jose Berrios,Toronto Blue Jays,1,0,0,0,0,0,1,0,1,.000,.667,.000,.667
+76,Anthony Volpe,New York Yankees,Adam Cimber,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Anthony Volpe,New York Yankees,Kevin Gausman,Toronto Blue Jays,6,0,0,0,0,0,0,0,5,.000,.000,.000,.000
+78,Anthony Volpe,New York Yankees,Tim Mayza,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Anthony Volpe,New York Yankees,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Anthony Volpe,New York Yankees,Erik Swanson,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+81,Anthony Volpe,New York Yankees,Cole Irvin,Baltimore Orioles,2,1,0,1,0,0,0,0,1,.500,.500,1.500,2.000
+82,Anthony Volpe,New York Yankees,Yennier Cano,Baltimore Orioles,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+83,Anthony Volpe,New York Yankees,Mike Baumann,Baltimore Orioles,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+84,Anthony Volpe,New York Yankees,Tyler Wells,Baltimore Orioles,5,1,0,0,1,1,1,0,1,.200,.333,.800,1.133
+85,Anthony Volpe,New York Yankees,Bryan Baker,Baltimore Orioles,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+86,Anthony Volpe,New York Yankees,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Anthony Volpe,New York Yankees,Kyle Bradish,Baltimore Orioles,5,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Anthony Volpe,New York Yankees,Danny Coulombe,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+89,Anthony Volpe,New York Yankees,Kyle Gibson,Baltimore Orioles,6,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+90,Anthony Volpe,New York Yankees,Logan Gillaspie,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+91,Anthony Volpe,New York Yankees,Mychal Givens,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Anthony Volpe,New York Yankees,Dean Kremer,Baltimore Orioles,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Anthony Volpe,New York Yankees,Chris Vallimont,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Anthony Volpe,New York Yankees,Nick Vespi,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Anthony Volpe,New York Yankees,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Anthony Volpe,New York Yankees,Matt Strahm,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+97,Anthony Volpe,New York Yankees,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Anthony Volpe,New York Yankees,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Anthony Volpe,New York Yankees,Yunior Marte,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+100,Anthony Volpe,New York Yankees,Aaron Nola,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Anthony Volpe,New York Yankees,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Anthony Volpe,New York Yankees,Andrew Vasquez,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+103,Anthony Volpe,New York Yankees,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Anthony Volpe,New York Yankees,Kyle Hendricks,Chicago Cubs,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+105,Anthony Volpe,New York Yankees,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Anthony Volpe,New York Yankees,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Anthony Volpe,New York Yankees,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Anthony Volpe,New York Yankees,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+109,Anthony Volpe,New York Yankees,Jameson Taillon,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Anthony Volpe,New York Yankees,Yu Darvish,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+111,Anthony Volpe,New York Yankees,Joe Musgrove,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+112,Anthony Volpe,New York Yankees,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Anthony Volpe,New York Yankees,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Anthony Volpe,New York Yankees,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Anthony Volpe,New York Yankees,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Anthony Volpe,New York Yankees,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Anthony Volpe,New York Yankees,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Anthony Volpe,New York Yankees,Jorge Alcala,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+119,Anthony Volpe,New York Yankees,Kenta Maeda,Minnesota Twins,3,2,1,0,0,3,0,0,1,.667,.667,1.000,1.667
+120,Anthony Volpe,New York Yankees,Griffin Jax,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+121,Anthony Volpe,New York Yankees,Joe Ryan,Minnesota Twins,6,3,0,0,0,0,0,0,2,.500,.500,.500,1.000
+122,Anthony Volpe,New York Yankees,Louie Varland,Minnesota Twins,2,1,0,0,1,1,1,0,1,.500,.667,2.000,2.667
+123,Anthony Volpe,New York Yankees,Pablo Lopez,Minnesota Twins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+124,Anthony Volpe,New York Yankees,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+125,Anthony Volpe,New York Yankees,Brent Headrick,Minnesota Twins,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+126,Anthony Volpe,New York Yankees,Tyler Mahle,Minnesota Twins,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+127,Anthony Volpe,New York Yankees,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Anthony Volpe,New York Yankees,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Anthony Volpe,New York Yankees,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Anthony Volpe,New York Yankees,Alex Cobb,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+131,Anthony Volpe,New York Yankees,Camilo Doval,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+132,Anthony Volpe,New York Yankees,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Anthony Volpe,New York Yankees,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Anthony Volpe,New York Yankees,Sean Hjelle,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+135,Anthony Volpe,New York Yankees,Jakob Junis,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Anthony Volpe,New York Yankees,Ross Stripling,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Anthony Volpe,New York Yankees,Logan Webb,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+138,Anthony Volpe,New York Yankees,Adam Ottavino,New York Mets,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+139,Anthony Volpe,New York Yankees,Josh Walker,New York Mets,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+140,Anthony Volpe,New York Yankees,Max Scherzer,New York Mets,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+141,Anthony Volpe,New York Yankees,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Anthony Volpe,New York Yankees,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Anthony Volpe,New York Yankees,Justin Verlander,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Anthony Volpe,New York Yankees,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+145,Anthony Volpe,New York Yankees,Jake Bird,Colorado Rockies,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+146,Anthony Volpe,New York Yankees,Tommy Doyle,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Anthony Volpe,New York Yankees,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Anthony Volpe,New York Yankees,Gavin Hollowell,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Anthony Volpe,New York Yankees,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+150,Anthony Volpe,New York Yankees,Matt Koch,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Anthony Volpe,New York Yankees,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Anthony Volpe,New York Yankees,Connor Seabold,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+153,Anthony Volpe,New York Yankees,Chris Flexen,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+154,Anthony Volpe,New York Yankees,Gabe Speier,Seattle Mariners,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+155,Anthony Volpe,New York Yankees,Logan Gilbert,Seattle Mariners,2,1,0,0,1,3,0,0,1,.500,.500,2.000,2.500
+156,Anthony Volpe,New York Yankees,George Kirby,Seattle Mariners,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+157,Anthony Volpe,New York Yankees,Luis Castillo,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+158,Anthony Volpe,New York Yankees,Darren McCaughan,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Anthony Volpe,New York Yankees,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Anthony Volpe,New York Yankees,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Anthony Volpe,New York Yankees,Bryan Woo,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+162,Anthony Volpe,New York Yankees,Eli Morgan,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+163,Anthony Volpe,New York Yankees,Peyton Battenfield,Cleveland Guardians,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+164,Anthony Volpe,New York Yankees,Tanner Bibee,Cleveland Guardians,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+165,Anthony Volpe,New York Yankees,Cal Quantrill,Cleveland Guardians,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+166,Anthony Volpe,New York Yankees,Shane Bieber,Cleveland Guardians,7,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+167,Anthony Volpe,New York Yankees,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Anthony Volpe,New York Yankees,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,Anthony Volpe,New York Yankees,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+170,Anthony Volpe,New York Yankees,Mike Clevinger,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Anthony Volpe,New York Yankees,Lucas Giolito,Chicago White Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+172,Anthony Volpe,New York Yankees,Liam Hendriks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Anthony Volpe,New York Yankees,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+174,Anthony Volpe,New York Yankees,Alec Marsh,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+175,Anthony Volpe,New York Yankees,Brady Singer,Kansas City Royals,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+176,Anthony Volpe,New York Yankees,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+177,Anthony Volpe,New York Yankees,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+178,Anthony Volpe,New York Yankees,Lucas Erceg,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+179,Anthony Volpe,New York Yankees,Rico Garcia,Oakland Athletics,1,1,0,0,1,4,0,0,0,1.000,1.000,4.000,5.000
+180,Anthony Volpe,New York Yankees,Hogan Harris,Oakland Athletics,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+181,Anthony Volpe,New York Yankees,Sam Moll,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+182,Anthony Volpe,New York Yankees,Paul Blackburn,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+183,Anthony Volpe,New York Yankees,Shintaro Fujinami,Oakland Athletics,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+184,Anthony Volpe,New York Yankees,Spencer Patton,Oakland Athletics,2,1,0,1,0,0,0,0,0,.500,.500,1.500,2.000
+185,Anthony Volpe,New York Yankees,JP Sears,Oakland Athletics,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+186,Anthony Volpe,New York Yankees,Kyle Muller,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+187,Anthony Volpe,New York Yankees,Austin Pruitt,Oakland Athletics,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+188,Anthony Volpe,New York Yankees,Drew Rucinski,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+189,Anthony Volpe,New York Yankees,Ken Waldichuk,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

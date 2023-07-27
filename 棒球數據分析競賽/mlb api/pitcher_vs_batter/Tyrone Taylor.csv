@@ -1,0 +1,53 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Tyrone Taylor,Milwaukee Brewers,Tony Gonsolin,Los Angeles Dodgers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Tyrone Taylor,Milwaukee Brewers,Phil Bickford,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Tyrone Taylor,Milwaukee Brewers,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Tyrone Taylor,Milwaukee Brewers,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Tyrone Taylor,Milwaukee Brewers,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Tyrone Taylor,Milwaukee Brewers,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Tyrone Taylor,Milwaukee Brewers,Wander Suero,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Tyrone Taylor,Milwaukee Brewers,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+8,Tyrone Taylor,Milwaukee Brewers,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Tyrone Taylor,Milwaukee Brewers,Shane McClanahan,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Tyrone Taylor,Milwaukee Brewers,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Tyrone Taylor,Milwaukee Brewers,Andre Pallante,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+12,Tyrone Taylor,Milwaukee Brewers,Matthew Liberatore,St. Louis Cardinals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+13,Tyrone Taylor,Milwaukee Brewers,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Tyrone Taylor,Milwaukee Brewers,Giovanny Gallegos,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Tyrone Taylor,Milwaukee Brewers,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Tyrone Taylor,Milwaukee Brewers,James Naile,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Tyrone Taylor,Milwaukee Brewers,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Tyrone Taylor,Milwaukee Brewers,Daniel Duarte,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+19,Tyrone Taylor,Milwaukee Brewers,Andrew Abbott,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Tyrone Taylor,Milwaukee Brewers,Graham Ashcraft,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Tyrone Taylor,Milwaukee Brewers,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Tyrone Taylor,Milwaukee Brewers,Kevin Gausman,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Tyrone Taylor,Milwaukee Brewers,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Tyrone Taylor,Milwaukee Brewers,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Tyrone Taylor,Milwaukee Brewers,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Tyrone Taylor,Milwaukee Brewers,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Tyrone Taylor,Milwaukee Brewers,Cristopher Sanchez,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Tyrone Taylor,Milwaukee Brewers,Seth Martinez,Houston Astros,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+29,Tyrone Taylor,Milwaukee Brewers,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Tyrone Taylor,Milwaukee Brewers,John Brebbia,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+31,Tyrone Taylor,Milwaukee Brewers,Ross Stripling,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+32,Tyrone Taylor,Milwaukee Brewers,Tristan Beck,San Francisco Giants,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+33,Tyrone Taylor,Milwaukee Brewers,Sean Manaea,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+34,Tyrone Taylor,Milwaukee Brewers,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+35,Tyrone Taylor,Milwaukee Brewers,Camilo Doval,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Tyrone Taylor,Milwaukee Brewers,Jakob Junis,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Tyrone Taylor,Milwaukee Brewers,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Tyrone Taylor,Milwaukee Brewers,Logan Webb,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Tyrone Taylor,Milwaukee Brewers,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Tyrone Taylor,Milwaukee Brewers,Connor Seabold,Colorado Rockies,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+41,Tyrone Taylor,Milwaukee Brewers,Jake Bird,Colorado Rockies,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+42,Tyrone Taylor,Milwaukee Brewers,Ryan Feltner,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Tyrone Taylor,Milwaukee Brewers,Kyle Freeland,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Tyrone Taylor,Milwaukee Brewers,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Tyrone Taylor,Milwaukee Brewers,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Tyrone Taylor,Milwaukee Brewers,Nick Mears,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Tyrone Taylor,Milwaukee Brewers,Max Castillo,Kansas City Royals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+48,Tyrone Taylor,Milwaukee Brewers,Jose Cuas,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Tyrone Taylor,Milwaukee Brewers,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Tyrone Taylor,Milwaukee Brewers,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Tyrone Taylor,Milwaukee Brewers,Jordan Lyles,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

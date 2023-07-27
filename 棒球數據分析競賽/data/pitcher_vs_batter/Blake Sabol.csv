@@ -1,0 +1,146 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Blake Sabol,San Francisco Giants,Yency Almonte,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Blake Sabol,San Francisco Giants,Shelby Miller,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Blake Sabol,San Francisco Giants,Tony Gonsolin,Los Angeles Dodgers,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+3,Blake Sabol,San Francisco Giants,Bryan Hudson,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Blake Sabol,San Francisco Giants,Dustin May,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Blake Sabol,San Francisco Giants,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Blake Sabol,San Francisco Giants,Jack Flaherty,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+7,Blake Sabol,San Francisco Giants,Ryan Helsley,St. Louis Cardinals,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+8,Blake Sabol,San Francisco Giants,Jordan Hicks,St. Louis Cardinals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+9,Blake Sabol,San Francisco Giants,Jake Woodford,St. Louis Cardinals,2,1,0,0,0,1,1,0,1,.500,.500,.500,1.000
+10,Blake Sabol,San Francisco Giants,Steven Matz,St. Louis Cardinals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+11,Blake Sabol,San Francisco Giants,Genesis Cabrera,St. Louis Cardinals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+12,Blake Sabol,San Francisco Giants,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Blake Sabol,San Francisco Giants,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+14,Blake Sabol,San Francisco Giants,Zack Thompson,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Blake Sabol,San Francisco Giants,Zac Gallen,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+16,Blake Sabol,San Francisco Giants,Zach Davies,Arizona Diamondbacks,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+17,Blake Sabol,San Francisco Giants,Merrill Kelly,Arizona Diamondbacks,2,1,0,0,0,2,0,0,1,.500,.333,.500,.833
+18,Blake Sabol,San Francisco Giants,Ryne Nelson,Arizona Diamondbacks,5,1,1,0,0,0,0,0,1,.200,.200,.400,.600
+19,Blake Sabol,San Francisco Giants,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Blake Sabol,San Francisco Giants,Scott McGough,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+21,Blake Sabol,San Francisco Giants,Anthony Misiewicz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Blake Sabol,San Francisco Giants,Kyle Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+23,Blake Sabol,San Francisco Giants,Brandon Pfaadt,Arizona Diamondbacks,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+24,Blake Sabol,San Francisco Giants,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Blake Sabol,San Francisco Giants,Buck Farmer,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Blake Sabol,San Francisco Giants,Graham Ashcraft,Cincinnati Reds,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+27,Blake Sabol,San Francisco Giants,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Blake Sabol,San Francisco Giants,Daniel Duarte,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Blake Sabol,San Francisco Giants,Luke Weaver,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Blake Sabol,San Francisco Giants,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Blake Sabol,San Francisco Giants,Jordan Romano,Toronto Blue Jays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+32,Blake Sabol,San Francisco Giants,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+33,Blake Sabol,San Francisco Giants,Bowden Francis,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Blake Sabol,San Francisco Giants,Kevin Gausman,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Blake Sabol,San Francisco Giants,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Blake Sabol,San Francisco Giants,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Blake Sabol,San Francisco Giants,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Blake Sabol,San Francisco Giants,Kyle Bradish,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+39,Blake Sabol,San Francisco Giants,Tyler Wells,Baltimore Orioles,3,1,0,0,1,2,0,0,2,.333,.333,1.333,1.666
+40,Blake Sabol,San Francisco Giants,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Blake Sabol,San Francisco Giants,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Blake Sabol,San Francisco Giants,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Blake Sabol,San Francisco Giants,Dean Kremer,Baltimore Orioles,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+44,Blake Sabol,San Francisco Giants,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Blake Sabol,San Francisco Giants,Matt Strahm,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+46,Blake Sabol,San Francisco Giants,Taijuan Walker,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+47,Blake Sabol,San Francisco Giants,Zack Wheeler,Philadelphia Phillies,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+48,Blake Sabol,San Francisco Giants,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Blake Sabol,San Francisco Giants,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Blake Sabol,San Francisco Giants,Michael Fulmer,Chicago Cubs,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+51,Blake Sabol,San Francisco Giants,Michael Rucker,Chicago Cubs,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+52,Blake Sabol,San Francisco Giants,Javier Assad,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Blake Sabol,San Francisco Giants,Kyle Hendricks,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Blake Sabol,San Francisco Giants,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Blake Sabol,San Francisco Giants,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+56,Blake Sabol,San Francisco Giants,Hayden Wesneski,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Blake Sabol,San Francisco Giants,Steven Wilson,San Diego Padres,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+58,Blake Sabol,San Francisco Giants,Yu Darvish,San Diego Padres,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+59,Blake Sabol,San Francisco Giants,Luis Garcia,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+60,Blake Sabol,San Francisco Giants,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Blake Sabol,San Francisco Giants,Ray Kerr,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Blake Sabol,San Francisco Giants,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Blake Sabol,San Francisco Giants,Adrian Morejon,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Blake Sabol,San Francisco Giants,Joe Musgrove,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+65,Blake Sabol,San Francisco Giants,Brandon Bielak,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+66,Blake Sabol,San Francisco Giants,Hunter Brown,Houston Astros,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+67,Blake Sabol,San Francisco Giants,Matt Gage,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Blake Sabol,San Francisco Giants,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Blake Sabol,San Francisco Giants,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Blake Sabol,San Francisco Giants,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Blake Sabol,San Francisco Giants,Cole Sands,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+72,Blake Sabol,San Francisco Giants,Sonny Gray,Minnesota Twins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+73,Blake Sabol,San Francisco Giants,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Blake Sabol,San Francisco Giants,Jovani Moran,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+75,Blake Sabol,San Francisco Giants,Bailey Ober,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+76,Blake Sabol,San Francisco Giants,Emilio Pagan,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+77,Blake Sabol,San Francisco Giants,Joe Ryan,Minnesota Twins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Blake Sabol,San Francisco Giants,Jake Irvin,Washington Nationals,5,1,0,0,0,0,0,0,3,.200,.200,.200,.400
+79,Blake Sabol,San Francisco Giants,Josiah Gray,Washington Nationals,6,1,0,0,0,1,0,0,3,.167,.167,.167,.334
+80,Blake Sabol,San Francisco Giants,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Blake Sabol,San Francisco Giants,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Blake Sabol,San Francisco Giants,Sandy Alcantara,Miami Marlins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+83,Blake Sabol,San Francisco Giants,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+84,Blake Sabol,San Francisco Giants,David Robertson,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,Blake Sabol,San Francisco Giants,Tylor Megill,New York Mets,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+86,Blake Sabol,San Francisco Giants,Kodai Senga,New York Mets,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+87,Blake Sabol,San Francisco Giants,Jeff Brigham,New York Mets,3,1,0,0,1,2,0,0,2,.333,.333,1.333,1.666
+88,Blake Sabol,San Francisco Giants,Justin Verlander,New York Mets,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+89,Blake Sabol,San Francisco Giants,Carlos Carrasco,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Blake Sabol,San Francisco Giants,Brooks Raley,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Blake Sabol,San Francisco Giants,Chase Anderson,Colorado Rockies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+92,Blake Sabol,San Francisco Giants,Connor Seabold,Colorado Rockies,4,2,0,0,0,1,0,0,0,.500,.500,.500,1.000
+93,Blake Sabol,San Francisco Giants,Matt Carasiti,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+94,Blake Sabol,San Francisco Giants,Pierce Johnson,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+95,Blake Sabol,San Francisco Giants,Clarke Schmidt,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+96,Blake Sabol,San Francisco Giants,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Blake Sabol,San Francisco Giants,Colten Brewer,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Blake Sabol,San Francisco Giants,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Blake Sabol,San Francisco Giants,Gerrit Cole,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Blake Sabol,San Francisco Giants,Michael King,New York Yankees,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+101,Blake Sabol,San Francisco Giants,Wandy Peralta,New York Yankees,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+102,Blake Sabol,San Francisco Giants,Paul Sewald,Seattle Mariners,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+103,Blake Sabol,San Francisco Giants,Bryan Woo,Seattle Mariners,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+104,Blake Sabol,San Francisco Giants,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Blake Sabol,San Francisco Giants,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Blake Sabol,San Francisco Giants,Dauri Moreta,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+107,Blake Sabol,San Francisco Giants,Mitch Keller,Pittsburgh Pirates,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+108,Blake Sabol,San Francisco Giants,Johan Oviedo,Pittsburgh Pirates,4,1,0,0,0,0,1,0,1,.250,.400,.250,.650
+109,Blake Sabol,San Francisco Giants,Osvaldo Bido,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Blake Sabol,San Francisco Giants,Ryan Borucki,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Blake Sabol,San Francisco Giants,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Blake Sabol,San Francisco Giants,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Blake Sabol,San Francisco Giants,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Blake Sabol,San Francisco Giants,Lance Lynn,Chicago White Sox,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+115,Blake Sabol,San Francisco Giants,Gregory Santos,Chicago White Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+116,Blake Sabol,San Francisco Giants,Hanser Alberto,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Blake Sabol,San Francisco Giants,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Blake Sabol,San Francisco Giants,Jake Diekman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Blake Sabol,San Francisco Giants,Michael Kopech,Chicago White Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+120,Blake Sabol,San Francisco Giants,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Blake Sabol,San Francisco Giants,Jose Ruiz,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Blake Sabol,San Francisco Giants,Hoby Milner,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+123,Blake Sabol,San Francisco Giants,Adrian Houser,Milwaukee Brewers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+124,Blake Sabol,San Francisco Giants,Peter Strzelecki,Milwaukee Brewers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+125,Blake Sabol,San Francisco Giants,Colin Rea,Milwaukee Brewers,3,1,0,0,1,3,0,0,0,.333,.333,1.333,1.666
+126,Blake Sabol,San Francisco Giants,Mike Brosseau,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Blake Sabol,San Francisco Giants,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Blake Sabol,San Francisco Giants,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Blake Sabol,San Francisco Giants,Tyson Miller,Milwaukee Brewers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+130,Blake Sabol,San Francisco Giants,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+131,Blake Sabol,San Francisco Giants,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Blake Sabol,San Francisco Giants,Ethan Small,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+133,Blake Sabol,San Francisco Giants,Julio Teheran,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Blake Sabol,San Francisco Giants,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Blake Sabol,San Francisco Giants,Brad Keller,Kansas City Royals,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+136,Blake Sabol,San Francisco Giants,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Blake Sabol,San Francisco Giants,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+138,Blake Sabol,San Francisco Giants,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Blake Sabol,San Francisco Giants,Brady Singer,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Blake Sabol,San Francisco Giants,Ryan Yarbrough,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+141,Blake Sabol,San Francisco Giants,Michael Lorenzen,Detroit Tigers,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+142,Blake Sabol,San Francisco Giants,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Blake Sabol,San Francisco Giants,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Blake Sabol,San Francisco Giants,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

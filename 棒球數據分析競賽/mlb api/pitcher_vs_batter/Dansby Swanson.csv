@@ -1,0 +1,178 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Dansby Swanson,Chicago Cubs,Martin Perez,Texas Rangers,3,2,0,0,0,1,0,0,1,.667,.667,.667,1.334
+1,Dansby Swanson,Chicago Cubs,Dane Dunning,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+2,Dansby Swanson,Chicago Cubs,Nathan Eovaldi,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Dansby Swanson,Chicago Cubs,Jon Gray,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Dansby Swanson,Chicago Cubs,Taylor Hearn,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Dansby Swanson,Chicago Cubs,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Dansby Swanson,Chicago Cubs,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Dansby Swanson,Chicago Cubs,Julio Urias,Los Angeles Dodgers,4,2,0,0,0,0,1,0,1,.500,.600,.500,1.100
+8,Dansby Swanson,Chicago Cubs,Brusdar Graterol,Los Angeles Dodgers,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+9,Dansby Swanson,Chicago Cubs,Andre Jackson,Los Angeles Dodgers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+10,Dansby Swanson,Chicago Cubs,Michael Grove,Los Angeles Dodgers,4,1,0,0,0,0,1,0,2,.250,.400,.250,.650
+11,Dansby Swanson,Chicago Cubs,Yency Almonte,Los Angeles Dodgers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+12,Dansby Swanson,Chicago Cubs,Phil Bickford,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+13,Dansby Swanson,Chicago Cubs,Clayton Kershaw,Los Angeles Dodgers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+14,Dansby Swanson,Chicago Cubs,Dustin May,Los Angeles Dodgers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+15,Dansby Swanson,Chicago Cubs,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Dansby Swanson,Chicago Cubs,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Dansby Swanson,Chicago Cubs,Jake Reed,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Dansby Swanson,Chicago Cubs,Noah Syndergaard,Los Angeles Dodgers,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+19,Dansby Swanson,Chicago Cubs,Jacob Webb,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Dansby Swanson,Chicago Cubs,Tyler Anderson,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Dansby Swanson,Chicago Cubs,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Dansby Swanson,Chicago Cubs,Jaime Barria,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Dansby Swanson,Chicago Cubs,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+24,Dansby Swanson,Chicago Cubs,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Dansby Swanson,Chicago Cubs,Ben Joyce,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+26,Dansby Swanson,Chicago Cubs,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Dansby Swanson,Chicago Cubs,Trevor Kelley,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,Dansby Swanson,Chicago Cubs,Taj Bradley,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+29,Dansby Swanson,Chicago Cubs,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Dansby Swanson,Chicago Cubs,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Dansby Swanson,Chicago Cubs,Joe La Sorsa,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Dansby Swanson,Chicago Cubs,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+33,Dansby Swanson,Chicago Cubs,Jack Flaherty,St. Louis Cardinals,3,3,2,0,1,3,0,0,0,1.000,1.000,2.667,3.667
+34,Dansby Swanson,Chicago Cubs,Drew VerHagen,St. Louis Cardinals,2,2,1,0,1,4,0,0,0,1.000,1.000,3.000,4.000
+35,Dansby Swanson,Chicago Cubs,Adam Wainwright,St. Louis Cardinals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+36,Dansby Swanson,Chicago Cubs,Matthew Liberatore,St. Louis Cardinals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+37,Dansby Swanson,Chicago Cubs,Miles Mikolas,St. Louis Cardinals,6,3,2,0,0,2,0,0,1,.500,.500,.833,1.333
+38,Dansby Swanson,Chicago Cubs,Jordan Montgomery,St. Louis Cardinals,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+39,Dansby Swanson,Chicago Cubs,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Dansby Swanson,Chicago Cubs,Jordan Hicks,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+41,Dansby Swanson,Chicago Cubs,Dakota Hudson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Dansby Swanson,Chicago Cubs,Steven Matz,St. Louis Cardinals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+43,Dansby Swanson,Chicago Cubs,James Naile,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Dansby Swanson,Chicago Cubs,Andre Pallante,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Dansby Swanson,Chicago Cubs,Jake Woodford,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Dansby Swanson,Chicago Cubs,Connor Overton,Cincinnati Reds,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+47,Dansby Swanson,Chicago Cubs,Brandon Williamson,Cincinnati Reds,3,2,0,1,0,2,0,0,1,.667,.667,1.333,2.000
+48,Dansby Swanson,Chicago Cubs,Graham Ashcraft,Cincinnati Reds,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+49,Dansby Swanson,Chicago Cubs,Fernando Cruz,Cincinnati Reds,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+50,Dansby Swanson,Chicago Cubs,Alexis Diaz,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+51,Dansby Swanson,Chicago Cubs,Luis Cessa,Cincinnati Reds,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+52,Dansby Swanson,Chicago Cubs,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+53,Dansby Swanson,Chicago Cubs,Ian Gibaut,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Dansby Swanson,Chicago Cubs,Hunter Greene,Cincinnati Reds,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+55,Dansby Swanson,Chicago Cubs,Joel Kuhnel,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+56,Dansby Swanson,Chicago Cubs,Kyle Gibson,Baltimore Orioles,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+57,Dansby Swanson,Chicago Cubs,Cole Irvin,Baltimore Orioles,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+58,Dansby Swanson,Chicago Cubs,Dean Kremer,Baltimore Orioles,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+59,Dansby Swanson,Chicago Cubs,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Dansby Swanson,Chicago Cubs,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Dansby Swanson,Chicago Cubs,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Dansby Swanson,Chicago Cubs,Reed Garrett,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Dansby Swanson,Chicago Cubs,Craig Kimbrel,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+64,Dansby Swanson,Chicago Cubs,Aaron Nola,Philadelphia Phillies,5,2,0,0,2,3,1,0,1,.400,.500,1.600,2.100
+65,Dansby Swanson,Chicago Cubs,Taijuan Walker,Philadelphia Phillies,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+66,Dansby Swanson,Chicago Cubs,Connor Brogdon,Philadelphia Phillies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+67,Dansby Swanson,Chicago Cubs,Kody Clemens,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+68,Dansby Swanson,Chicago Cubs,Seranthony Dominguez,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+69,Dansby Swanson,Chicago Cubs,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Dansby Swanson,Chicago Cubs,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Dansby Swanson,Chicago Cubs,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Dansby Swanson,Chicago Cubs,Ranger Suarez,Philadelphia Phillies,4,0,0,0,0,0,1,0,1,.000,.200,.000,.200
+73,Dansby Swanson,Chicago Cubs,Erich Uelmen,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Dansby Swanson,Chicago Cubs,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Dansby Swanson,Chicago Cubs,Tim Hill,San Diego Padres,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+76,Dansby Swanson,Chicago Cubs,Steven Wilson,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+77,Dansby Swanson,Chicago Cubs,Yu Darvish,San Diego Padres,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+78,Dansby Swanson,Chicago Cubs,Seth Lugo,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+79,Dansby Swanson,Chicago Cubs,Michael Wacha,San Diego Padres,6,2,0,0,1,1,0,0,2,.333,.333,.833,1.166
+80,Dansby Swanson,Chicago Cubs,Ryan Weathers,San Diego Padres,3,1,1,0,0,2,0,0,1,.333,.333,.667,1.000
+81,Dansby Swanson,Chicago Cubs,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Dansby Swanson,Chicago Cubs,Ray Kerr,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Dansby Swanson,Chicago Cubs,Nick Martinez,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Dansby Swanson,Chicago Cubs,Blake Snell,San Diego Padres,4,0,0,0,0,0,2,0,2,.000,.333,.000,.333
+85,Dansby Swanson,Chicago Cubs,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Dansby Swanson,Chicago Cubs,Framber Valdez,Houston Astros,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+87,Dansby Swanson,Chicago Cubs,J.P. France,Houston Astros,3,1,0,1,0,1,0,0,0,.333,.333,1.000,1.333
+88,Dansby Swanson,Chicago Cubs,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Dansby Swanson,Chicago Cubs,Matt Gage,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Dansby Swanson,Chicago Cubs,Cristian Javier,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Dansby Swanson,Chicago Cubs,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Dansby Swanson,Chicago Cubs,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Dansby Swanson,Chicago Cubs,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Dansby Swanson,Chicago Cubs,Louie Varland,Minnesota Twins,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+95,Dansby Swanson,Chicago Cubs,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+96,Dansby Swanson,Chicago Cubs,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Dansby Swanson,Chicago Cubs,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Dansby Swanson,Chicago Cubs,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Dansby Swanson,Chicago Cubs,Dereck Rodriguez,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+100,Dansby Swanson,Chicago Cubs,Joe Ryan,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Dansby Swanson,Chicago Cubs,Huascar Brazoban,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+102,Dansby Swanson,Chicago Cubs,Dylan Floro,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+103,Dansby Swanson,Chicago Cubs,Bryan Hoeing,Miami Marlins,4,2,0,0,0,1,1,0,1,.500,.600,.500,1.100
+104,Dansby Swanson,Chicago Cubs,Edward Cabrera,Miami Marlins,4,1,0,0,0,0,2,0,2,.250,.500,.250,.750
+105,Dansby Swanson,Chicago Cubs,Sandy Alcantara,Miami Marlins,4,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+106,Dansby Swanson,Chicago Cubs,Matt Barnes,Miami Marlins,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+107,Dansby Swanson,Chicago Cubs,Chi Chi Gonzalez,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+108,Dansby Swanson,Chicago Cubs,Jesus Luzardo,Miami Marlins,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+109,Dansby Swanson,Chicago Cubs,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Dansby Swanson,Chicago Cubs,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Dansby Swanson,Chicago Cubs,Cory Abbott,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+112,Dansby Swanson,Chicago Cubs,Kyle Finnegan,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+113,Dansby Swanson,Chicago Cubs,MacKenzie Gore,Washington Nationals,3,2,1,0,1,2,0,0,0,.667,.667,2.000,2.667
+114,Dansby Swanson,Chicago Cubs,Trevor Williams,Washington Nationals,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+115,Dansby Swanson,Chicago Cubs,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Dansby Swanson,Chicago Cubs,Hunter Harvey,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Dansby Swanson,Chicago Cubs,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Dansby Swanson,Chicago Cubs,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Dansby Swanson,Chicago Cubs,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Dansby Swanson,Chicago Cubs,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Dansby Swanson,Chicago Cubs,Tristan Beck,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+122,Dansby Swanson,Chicago Cubs,John Brebbia,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Dansby Swanson,Chicago Cubs,Anthony DeSclafani,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+124,Dansby Swanson,Chicago Cubs,Luke Jackson,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Dansby Swanson,Chicago Cubs,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Dansby Swanson,Chicago Cubs,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Dansby Swanson,Chicago Cubs,Ryan Walker,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Dansby Swanson,Chicago Cubs,Carlos Carrasco,New York Mets,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+129,Dansby Swanson,Chicago Cubs,Tylor Megill,New York Mets,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+130,Dansby Swanson,Chicago Cubs,Kodai Senga,New York Mets,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+131,Dansby Swanson,Chicago Cubs,Stephen Nogosek,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Dansby Swanson,Chicago Cubs,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Dansby Swanson,Chicago Cubs,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Dansby Swanson,Chicago Cubs,Diego Castillo,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+135,Dansby Swanson,Chicago Cubs,Chris Flexen,Seattle Mariners,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+136,Dansby Swanson,Chicago Cubs,Trevor Gott,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+137,Dansby Swanson,Chicago Cubs,Luis Castillo,Seattle Mariners,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+138,Dansby Swanson,Chicago Cubs,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Dansby Swanson,Chicago Cubs,Tim Herrin,Cleveland Guardians,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+140,Dansby Swanson,Chicago Cubs,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+141,Dansby Swanson,Chicago Cubs,Aaron Civale,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Dansby Swanson,Chicago Cubs,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Dansby Swanson,Chicago Cubs,Sam Hentges,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Dansby Swanson,Chicago Cubs,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Dansby Swanson,Chicago Cubs,Cal Quantrill,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Dansby Swanson,Chicago Cubs,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Dansby Swanson,Chicago Cubs,Roansy Contreras,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+148,Dansby Swanson,Chicago Cubs,Yohan Ramirez,Pittsburgh Pirates,3,3,0,0,0,3,0,0,0,1.000,1.000,1.000,2.000
+149,Dansby Swanson,Chicago Cubs,Yerry De Los Santos,Pittsburgh Pirates,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+150,Dansby Swanson,Chicago Cubs,Luis L. Ortiz,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+151,Dansby Swanson,Chicago Cubs,Osvaldo Bido,Pittsburgh Pirates,5,1,0,0,0,1,0,0,1,.200,.200,.200,.400
+152,Dansby Swanson,Chicago Cubs,Johan Oviedo,Pittsburgh Pirates,5,1,0,0,0,0,0,0,1,.200,.333,.200,.533
+153,Dansby Swanson,Chicago Cubs,Colin Holderman,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+154,Dansby Swanson,Chicago Cubs,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Dansby Swanson,Chicago Cubs,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Dansby Swanson,Chicago Cubs,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Dansby Swanson,Chicago Cubs,Corbin Burnes,Milwaukee Brewers,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+158,Dansby Swanson,Chicago Cubs,Wade Miley,Milwaukee Brewers,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+159,Dansby Swanson,Chicago Cubs,Julio Teheran,Milwaukee Brewers,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+160,Dansby Swanson,Chicago Cubs,Brandon Woodruff,Milwaukee Brewers,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+161,Dansby Swanson,Chicago Cubs,Gus Varland,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+162,Dansby Swanson,Chicago Cubs,Devin Williams,Milwaukee Brewers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+163,Dansby Swanson,Chicago Cubs,Eric Lauer,Milwaukee Brewers,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+164,Dansby Swanson,Chicago Cubs,Clayton Andrews,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+165,Dansby Swanson,Chicago Cubs,J.B. Bukauskas,Milwaukee Brewers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+166,Dansby Swanson,Chicago Cubs,Javy Guerra,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+167,Dansby Swanson,Chicago Cubs,Adrian Houser,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Dansby Swanson,Chicago Cubs,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+169,Dansby Swanson,Chicago Cubs,Adrian Martinez,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+170,Dansby Swanson,Chicago Cubs,Kyle Muller,Oakland Athletics,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+171,Dansby Swanson,Chicago Cubs,Jeurys Familia,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+172,Dansby Swanson,Chicago Cubs,James Kaprielian,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Dansby Swanson,Chicago Cubs,Mason Miller,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+174,Dansby Swanson,Chicago Cubs,Adam Oller,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Dansby Swanson,Chicago Cubs,Chad Smith,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+176,Dansby Swanson,Chicago Cubs,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333

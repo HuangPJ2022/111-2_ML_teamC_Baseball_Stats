@@ -1,0 +1,189 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Austin Hays,Baltimore Orioles,Bryce Elder,Atlanta Braves,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+1,Austin Hays,Baltimore Orioles,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Austin Hays,Baltimore Orioles,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Austin Hays,Baltimore Orioles,Joe Barlow,Texas Rangers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+4,Austin Hays,Baltimore Orioles,Cody Bradford,Texas Rangers,2,2,0,1,0,1,0,0,0,1.000,1.000,2.000,3.000
+5,Austin Hays,Baltimore Orioles,Jon Gray,Texas Rangers,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+6,Austin Hays,Baltimore Orioles,Andrew Heaney,Texas Rangers,5,2,1,0,1,1,0,0,2,.400,.400,1.200,1.600
+7,Austin Hays,Baltimore Orioles,Dane Dunning,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Austin Hays,Baltimore Orioles,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Austin Hays,Baltimore Orioles,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Austin Hays,Baltimore Orioles,Will Smith,Texas Rangers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+11,Austin Hays,Baltimore Orioles,Jacob deGrom,Texas Rangers,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+12,Austin Hays,Baltimore Orioles,Michael Grove,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+13,Austin Hays,Baltimore Orioles,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Austin Hays,Baltimore Orioles,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Austin Hays,Baltimore Orioles,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Austin Hays,Baltimore Orioles,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Austin Hays,Baltimore Orioles,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Austin Hays,Baltimore Orioles,Julio Urias,Los Angeles Dodgers,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+19,Austin Hays,Baltimore Orioles,Chris Devenski,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Austin Hays,Baltimore Orioles,Tyler Anderson,Los Angeles Angels,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+21,Austin Hays,Baltimore Orioles,Griffin Canning,Los Angeles Angels,2,1,0,0,1,1,1,0,1,.500,.667,2.000,2.667
+22,Austin Hays,Baltimore Orioles,Chase Silseth,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+23,Austin Hays,Baltimore Orioles,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Austin Hays,Baltimore Orioles,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Austin Hays,Baltimore Orioles,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Austin Hays,Baltimore Orioles,Shohei Ohtani,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Austin Hays,Baltimore Orioles,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Austin Hays,Baltimore Orioles,Shawn Armstrong,Tampa Bay Rays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+29,Austin Hays,Baltimore Orioles,Yonny Chirinos,Tampa Bay Rays,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+30,Austin Hays,Baltimore Orioles,Robert Stephenson,Tampa Bay Rays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+31,Austin Hays,Baltimore Orioles,Colin Poche,Tampa Bay Rays,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+32,Austin Hays,Baltimore Orioles,Shane McClanahan,Tampa Bay Rays,6,2,1,0,0,1,0,0,2,.333,.333,.500,.833
+33,Austin Hays,Baltimore Orioles,Tyler Glasnow,Tampa Bay Rays,5,1,0,0,0,0,0,0,2,.200,.200,.200,.400
+34,Austin Hays,Baltimore Orioles,Zach Eflin,Tampa Bay Rays,6,1,0,0,0,1,0,0,2,.167,.167,.167,.334
+35,Austin Hays,Baltimore Orioles,Chase Anderson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Austin Hays,Baltimore Orioles,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Austin Hays,Baltimore Orioles,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Austin Hays,Baltimore Orioles,Pete Fairbanks,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Austin Hays,Baltimore Orioles,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Austin Hays,Baltimore Orioles,Javy Guerra,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Austin Hays,Baltimore Orioles,Brennan Bernardino,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+42,Austin Hays,Baltimore Orioles,Tanner Houck,Boston Red Sox,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+43,Austin Hays,Baltimore Orioles,Kenley Jansen,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+44,Austin Hays,Baltimore Orioles,Zack Kelly,Boston Red Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+45,Austin Hays,Baltimore Orioles,John Schreiber,Boston Red Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+46,Austin Hays,Baltimore Orioles,Chris Sale,Boston Red Sox,5,3,0,0,1,2,0,0,0,.600,.600,1.200,1.800
+47,Austin Hays,Baltimore Orioles,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Austin Hays,Baltimore Orioles,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Austin Hays,Baltimore Orioles,Corey Kluber,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Austin Hays,Baltimore Orioles,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Austin Hays,Baltimore Orioles,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Austin Hays,Baltimore Orioles,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Austin Hays,Baltimore Orioles,Jake Wong,Cincinnati Reds,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+54,Austin Hays,Baltimore Orioles,Fernando Cruz,Cincinnati Reds,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+55,Austin Hays,Baltimore Orioles,Brandon Williamson,Cincinnati Reds,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+56,Austin Hays,Baltimore Orioles,Andrew Abbott,Cincinnati Reds,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+57,Austin Hays,Baltimore Orioles,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Austin Hays,Baltimore Orioles,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Austin Hays,Baltimore Orioles,Eduardo Salazar,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Austin Hays,Baltimore Orioles,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Austin Hays,Baltimore Orioles,Luke Weaver,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+62,Austin Hays,Baltimore Orioles,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Austin Hays,Baltimore Orioles,Nate Pearson,Toronto Blue Jays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+64,Austin Hays,Baltimore Orioles,Jordan Romano,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+65,Austin Hays,Baltimore Orioles,Mitch White,Toronto Blue Jays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+66,Austin Hays,Baltimore Orioles,Yimi Garcia,Toronto Blue Jays,3,2,0,0,0,2,0,0,0,.667,.667,.667,1.334
+67,Austin Hays,Baltimore Orioles,Chris Bassitt,Toronto Blue Jays,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+68,Austin Hays,Baltimore Orioles,Kevin Gausman,Toronto Blue Jays,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+69,Austin Hays,Baltimore Orioles,Erik Swanson,Toronto Blue Jays,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+70,Austin Hays,Baltimore Orioles,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Austin Hays,Baltimore Orioles,Jose Berrios,Toronto Blue Jays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+72,Austin Hays,Baltimore Orioles,Bowden Francis,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Austin Hays,Baltimore Orioles,Thomas Hatch,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Austin Hays,Baltimore Orioles,Yusei Kikuchi,Toronto Blue Jays,5,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Austin Hays,Baltimore Orioles,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Austin Hays,Baltimore Orioles,Javier Assad,Chicago Cubs,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+77,Austin Hays,Baltimore Orioles,Mark Leiter Jr.,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+78,Austin Hays,Baltimore Orioles,Jameson Taillon,Chicago Cubs,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+79,Austin Hays,Baltimore Orioles,Hayden Wesneski,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+80,Austin Hays,Baltimore Orioles,Kyle Hendricks,Chicago Cubs,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+81,Austin Hays,Baltimore Orioles,Justin Steele,Chicago Cubs,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+82,Austin Hays,Baltimore Orioles,Adbert Alzolay,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+83,Austin Hays,Baltimore Orioles,Michael Fulmer,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Austin Hays,Baltimore Orioles,Jovani Moran,Minnesota Twins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+85,Austin Hays,Baltimore Orioles,Pablo Lopez,Minnesota Twins,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+86,Austin Hays,Baltimore Orioles,Joe Ryan,Minnesota Twins,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+87,Austin Hays,Baltimore Orioles,Sonny Gray,Minnesota Twins,4,1,0,0,0,0,0,0,2,.250,.250,.250,.500
+88,Austin Hays,Baltimore Orioles,Jordan Balazovic,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Austin Hays,Baltimore Orioles,Bailey Ober,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Austin Hays,Baltimore Orioles,Oliver Ortega,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+91,Austin Hays,Baltimore Orioles,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Austin Hays,Baltimore Orioles,Huascar Brazoban,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+93,Austin Hays,Baltimore Orioles,Bryan Hoeing,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+94,Austin Hays,Baltimore Orioles,Steven Okert,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+95,Austin Hays,Baltimore Orioles,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Austin Hays,Baltimore Orioles,Johnny Cueto,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Austin Hays,Baltimore Orioles,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Austin Hays,Baltimore Orioles,Braxton Garrett,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Austin Hays,Baltimore Orioles,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Austin Hays,Baltimore Orioles,Josiah Gray,Washington Nationals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+101,Austin Hays,Baltimore Orioles,MacKenzie Gore,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+102,Austin Hays,Baltimore Orioles,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Austin Hays,Baltimore Orioles,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Austin Hays,Baltimore Orioles,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Austin Hays,Baltimore Orioles,Anthony DeSclafani,San Francisco Giants,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+106,Austin Hays,Baltimore Orioles,Logan Webb,San Francisco Giants,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+107,Austin Hays,Baltimore Orioles,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Austin Hays,Baltimore Orioles,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Austin Hays,Baltimore Orioles,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Austin Hays,Baltimore Orioles,Luke Jackson,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Austin Hays,Baltimore Orioles,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Austin Hays,Baltimore Orioles,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Austin Hays,Baltimore Orioles,Clay Holmes,New York Yankees,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+114,Austin Hays,Baltimore Orioles,Albert Abreu,New York Yankees,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+115,Austin Hays,Baltimore Orioles,Nestor Cortes,New York Yankees,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+116,Austin Hays,Baltimore Orioles,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Austin Hays,Baltimore Orioles,Gerrit Cole,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Austin Hays,Baltimore Orioles,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+119,Austin Hays,Baltimore Orioles,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Austin Hays,Baltimore Orioles,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Austin Hays,Baltimore Orioles,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Austin Hays,Baltimore Orioles,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Austin Hays,Baltimore Orioles,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Austin Hays,Baltimore Orioles,Clarke Schmidt,New York Yankees,4,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+125,Austin Hays,Baltimore Orioles,Logan Gilbert,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+126,Austin Hays,Baltimore Orioles,George Kirby,Seattle Mariners,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+127,Austin Hays,Baltimore Orioles,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Austin Hays,Baltimore Orioles,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Austin Hays,Baltimore Orioles,Bryce Miller,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Austin Hays,Baltimore Orioles,Logan Allen,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+131,Austin Hays,Baltimore Orioles,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Austin Hays,Baltimore Orioles,Sam Hentges,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+133,Austin Hays,Baltimore Orioles,Cal Quantrill,Cleveland Guardians,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+134,Austin Hays,Baltimore Orioles,David Bednar,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+135,Austin Hays,Baltimore Orioles,Duane Underwood Jr.,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+136,Austin Hays,Baltimore Orioles,Roansy Contreras,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+137,Austin Hays,Baltimore Orioles,Mitch Keller,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+138,Austin Hays,Baltimore Orioles,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Austin Hays,Baltimore Orioles,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Austin Hays,Baltimore Orioles,Kendall Graveman,Chicago White Sox,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+141,Austin Hays,Baltimore Orioles,Jimmy Lambert,Chicago White Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+142,Austin Hays,Baltimore Orioles,Reynaldo Lopez,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+143,Austin Hays,Baltimore Orioles,Keynan Middleton,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+144,Austin Hays,Baltimore Orioles,Dylan Cease,Chicago White Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+145,Austin Hays,Baltimore Orioles,Mike Clevinger,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+146,Austin Hays,Baltimore Orioles,Jake Diekman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+147,Austin Hays,Baltimore Orioles,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+148,Austin Hays,Baltimore Orioles,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Austin Hays,Baltimore Orioles,Freddy Peralta,Milwaukee Brewers,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+150,Austin Hays,Baltimore Orioles,Bennett Sousa,Milwaukee Brewers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+151,Austin Hays,Baltimore Orioles,Colin Rea,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+152,Austin Hays,Baltimore Orioles,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+153,Austin Hays,Baltimore Orioles,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+154,Austin Hays,Baltimore Orioles,Elvis Peguero,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Austin Hays,Baltimore Orioles,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Austin Hays,Baltimore Orioles,Jose Cisnero,Detroit Tigers,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+157,Austin Hays,Baltimore Orioles,Will Vest,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+158,Austin Hays,Baltimore Orioles,Alex Lange,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+159,Austin Hays,Baltimore Orioles,Matthew Boyd,Detroit Tigers,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+160,Austin Hays,Baltimore Orioles,Eduardo Rodriguez,Detroit Tigers,5,1,1,0,0,0,1,0,2,.200,.333,.400,.733
+161,Austin Hays,Baltimore Orioles,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Austin Hays,Baltimore Orioles,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Austin Hays,Baltimore Orioles,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Austin Hays,Baltimore Orioles,Tyler Holton,Detroit Tigers,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+165,Austin Hays,Baltimore Orioles,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Austin Hays,Baltimore Orioles,Spencer Turnbull,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+167,Austin Hays,Baltimore Orioles,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+168,Austin Hays,Baltimore Orioles,Daniel Lynch IV,Kansas City Royals,3,2,1,0,1,1,0,0,0,.667,.667,2.000,2.667
+169,Austin Hays,Baltimore Orioles,Brady Singer,Kansas City Royals,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+170,Austin Hays,Baltimore Orioles,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+171,Austin Hays,Baltimore Orioles,Taylor Clarke,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+172,Austin Hays,Baltimore Orioles,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,Austin Hays,Baltimore Orioles,Carlos Hernandez,Kansas City Royals,2,0,0,0,0,1,0,0,2,.000,.000,.000,.000
+174,Austin Hays,Baltimore Orioles,Mike Mayers,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Austin Hays,Baltimore Orioles,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Austin Hays,Baltimore Orioles,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+177,Austin Hays,Baltimore Orioles,Ryan Yarbrough,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+178,Austin Hays,Baltimore Orioles,Domingo Acevedo,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+179,Austin Hays,Baltimore Orioles,Dany Jimenez,Oakland Athletics,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+180,Austin Hays,Baltimore Orioles,Trevor May,Oakland Athletics,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+181,Austin Hays,Baltimore Orioles,Adam Oller,Oakland Athletics,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+182,Austin Hays,Baltimore Orioles,Kyle Muller,Oakland Athletics,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+183,Austin Hays,Baltimore Orioles,Jeurys Familia,Oakland Athletics,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+184,Austin Hays,Baltimore Orioles,Adrian Martinez,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+185,Austin Hays,Baltimore Orioles,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+186,Austin Hays,Baltimore Orioles,Chad Smith,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+187,Austin Hays,Baltimore Orioles,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333

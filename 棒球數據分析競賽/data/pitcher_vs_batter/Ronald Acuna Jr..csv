@@ -1,0 +1,207 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Ronald Acuna Jr.,Atlanta Braves,Jonathan Hernandez,Texas Rangers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+1,Ronald Acuna Jr.,Atlanta Braves,Cody Bradford,Texas Rangers,2,1,0,0,1,2,1,0,1,.500,.667,2.000,2.667
+2,Ronald Acuna Jr.,Atlanta Braves,Dane Dunning,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+3,Ronald Acuna Jr.,Atlanta Braves,Nathan Eovaldi,Texas Rangers,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+4,Ronald Acuna Jr.,Atlanta Braves,Joe Barlow,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Ronald Acuna Jr.,Atlanta Braves,Cole Ragans,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+6,Ronald Acuna Jr.,Atlanta Braves,Josh Sborz,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+7,Ronald Acuna Jr.,Atlanta Braves,Gavin Stone,Los Angeles Dodgers,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+8,Ronald Acuna Jr.,Atlanta Braves,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Ronald Acuna Jr.,Atlanta Braves,Tony Gonsolin,Los Angeles Dodgers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Ronald Acuna Jr.,Atlanta Braves,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Ronald Acuna Jr.,Atlanta Braves,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Ronald Acuna Jr.,Atlanta Braves,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+13,Ronald Acuna Jr.,Atlanta Braves,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Ronald Acuna Jr.,Atlanta Braves,Jake Diekman,Tampa Bay Rays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+15,Ronald Acuna Jr.,Atlanta Braves,Taj Bradley,Tampa Bay Rays,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+16,Ronald Acuna Jr.,Atlanta Braves,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Ronald Acuna Jr.,Atlanta Braves,Tyler Glasnow,Tampa Bay Rays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Ronald Acuna Jr.,Atlanta Braves,Javy Guerra,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+19,Ronald Acuna Jr.,Atlanta Braves,Zack Littell,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Ronald Acuna Jr.,Atlanta Braves,Elvin Rodriguez,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Ronald Acuna Jr.,Atlanta Braves,Chris Martin,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Ronald Acuna Jr.,Atlanta Braves,Nick Pivetta,Boston Red Sox,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+23,Ronald Acuna Jr.,Atlanta Braves,Brayan Bello,Boston Red Sox,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+24,Ronald Acuna Jr.,Atlanta Braves,Brennan Bernardino,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+25,Ronald Acuna Jr.,Atlanta Braves,Zack Littell,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Ronald Acuna Jr.,Atlanta Braves,Jake Woodford,St. Louis Cardinals,2,2,0,0,1,3,1,0,0,1.000,1.000,2.500,3.500
+27,Ronald Acuna Jr.,Atlanta Braves,Steven Matz,St. Louis Cardinals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+28,Ronald Acuna Jr.,Atlanta Braves,Jordan Hicks,St. Louis Cardinals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+29,Ronald Acuna Jr.,Atlanta Braves,Miles Mikolas,St. Louis Cardinals,4,2,0,0,0,0,0,0,0,.500,.500,.500,1.000
+30,Ronald Acuna Jr.,Atlanta Braves,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Ronald Acuna Jr.,Atlanta Braves,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Ronald Acuna Jr.,Atlanta Braves,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Ronald Acuna Jr.,Atlanta Braves,Andrew Chafin,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+34,Ronald Acuna Jr.,Atlanta Braves,Kevin Ginkel,Arizona Diamondbacks,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+35,Ronald Acuna Jr.,Atlanta Braves,Austin Adams,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+36,Ronald Acuna Jr.,Atlanta Braves,Drey Jameson,Arizona Diamondbacks,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+37,Ronald Acuna Jr.,Atlanta Braves,Miguel Castro,Arizona Diamondbacks,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+38,Ronald Acuna Jr.,Atlanta Braves,Zach Davies,Arizona Diamondbacks,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+39,Ronald Acuna Jr.,Atlanta Braves,Zac Gallen,Arizona Diamondbacks,6,2,0,0,0,0,0,0,0,.333,.333,.333,.666
+40,Ronald Acuna Jr.,Atlanta Braves,Merrill Kelly,Arizona Diamondbacks,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+41,Ronald Acuna Jr.,Atlanta Braves,Ryne Nelson,Arizona Diamondbacks,6,1,1,0,0,0,0,0,0,.167,.167,.333,.500
+42,Ronald Acuna Jr.,Atlanta Braves,Silvino Bracho,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+43,Ronald Acuna Jr.,Atlanta Braves,Lucas Sims,Cincinnati Reds,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+44,Ronald Acuna Jr.,Atlanta Braves,Randy Wynne,Cincinnati Reds,2,2,2,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+45,Ronald Acuna Jr.,Atlanta Braves,Hunter Greene,Cincinnati Reds,3,2,1,0,0,2,0,0,1,.667,.667,1.000,1.667
+46,Ronald Acuna Jr.,Atlanta Braves,Luis Cessa,Cincinnati Reds,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+47,Ronald Acuna Jr.,Atlanta Braves,Daniel Duarte,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+48,Ronald Acuna Jr.,Atlanta Braves,Buck Farmer,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+49,Ronald Acuna Jr.,Atlanta Braves,Ian Gibaut,Cincinnati Reds,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+50,Ronald Acuna Jr.,Atlanta Braves,Luke Weaver,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+51,Ronald Acuna Jr.,Atlanta Braves,Graham Ashcraft,Cincinnati Reds,5,2,0,0,0,0,0,0,0,.400,.500,.400,.900
+52,Ronald Acuna Jr.,Atlanta Braves,Fernando Cruz,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Ronald Acuna Jr.,Atlanta Braves,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Ronald Acuna Jr.,Atlanta Braves,Derek Law,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+55,Ronald Acuna Jr.,Atlanta Braves,Levi Stoudt,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Ronald Acuna Jr.,Atlanta Braves,Yimi Garcia,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+57,Ronald Acuna Jr.,Atlanta Braves,Yusei Kikuchi,Toronto Blue Jays,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+58,Ronald Acuna Jr.,Atlanta Braves,Chris Bassitt,Toronto Blue Jays,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+59,Ronald Acuna Jr.,Atlanta Braves,Jose Berrios,Toronto Blue Jays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+60,Ronald Acuna Jr.,Atlanta Braves,Jay Jackson,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+61,Ronald Acuna Jr.,Atlanta Braves,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Ronald Acuna Jr.,Atlanta Braves,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Ronald Acuna Jr.,Atlanta Braves,Kyle Bradish,Baltimore Orioles,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+64,Ronald Acuna Jr.,Atlanta Braves,Dean Kremer,Baltimore Orioles,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+65,Ronald Acuna Jr.,Atlanta Braves,Bryan Baker,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+66,Ronald Acuna Jr.,Atlanta Braves,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+67,Ronald Acuna Jr.,Atlanta Braves,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Ronald Acuna Jr.,Atlanta Braves,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Ronald Acuna Jr.,Atlanta Braves,Tyler Wells,Baltimore Orioles,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Ronald Acuna Jr.,Atlanta Braves,Connor Brogdon,Philadelphia Phillies,1,1,0,1,0,1,0,0,0,1.000,1.000,3.000,4.000
+71,Ronald Acuna Jr.,Atlanta Braves,Dylan Covey,Philadelphia Phillies,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+72,Ronald Acuna Jr.,Atlanta Braves,Jeff Hoffman,Philadelphia Phillies,2,2,0,0,0,3,0,0,0,1.000,1.000,1.000,2.000
+73,Ronald Acuna Jr.,Atlanta Braves,Yunior Marte,Philadelphia Phillies,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+74,Ronald Acuna Jr.,Atlanta Braves,Gregory Soto,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+75,Ronald Acuna Jr.,Atlanta Braves,Zack Wheeler,Philadelphia Phillies,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+76,Ronald Acuna Jr.,Atlanta Braves,Aaron Nola,Philadelphia Phillies,7,1,1,0,0,0,0,0,1,.143,.143,.286,.429
+77,Ronald Acuna Jr.,Atlanta Braves,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Ronald Acuna Jr.,Atlanta Braves,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Ronald Acuna Jr.,Atlanta Braves,Ranger Suarez,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Ronald Acuna Jr.,Atlanta Braves,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Ronald Acuna Jr.,Atlanta Braves,Taijuan Walker,Philadelphia Phillies,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Ronald Acuna Jr.,Atlanta Braves,Hunter Brown,Houston Astros,3,2,2,0,0,0,0,0,0,.667,.667,1.333,2.000
+83,Ronald Acuna Jr.,Atlanta Braves,Cristian Javier,Houston Astros,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+84,Ronald Acuna Jr.,Atlanta Braves,Framber Valdez,Houston Astros,4,2,0,0,0,0,0,0,0,.500,.500,.500,1.000
+85,Ronald Acuna Jr.,Atlanta Braves,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Ronald Acuna Jr.,Atlanta Braves,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Ronald Acuna Jr.,Atlanta Braves,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Ronald Acuna Jr.,Atlanta Braves,Domingo Tapia,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+89,Ronald Acuna Jr.,Atlanta Braves,Ryan Weathers,San Diego Padres,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+90,Ronald Acuna Jr.,Atlanta Braves,Brent Honeywell,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+91,Ronald Acuna Jr.,Atlanta Braves,Seth Lugo,San Diego Padres,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+92,Ronald Acuna Jr.,Atlanta Braves,Nick Martinez,San Diego Padres,4,1,0,0,0,0,2,0,0,.250,.500,.250,.750
+93,Ronald Acuna Jr.,Atlanta Braves,Blake Snell,San Diego Padres,5,1,1,0,0,0,1,0,1,.200,.333,.400,.733
+94,Ronald Acuna Jr.,Atlanta Braves,Nabil Crismatt,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Ronald Acuna Jr.,Atlanta Braves,Luis Garcia,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Ronald Acuna Jr.,Atlanta Braves,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Ronald Acuna Jr.,Atlanta Braves,Reiss Knehr,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+98,Ronald Acuna Jr.,Atlanta Braves,Michael Wacha,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Ronald Acuna Jr.,Atlanta Braves,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Ronald Acuna Jr.,Atlanta Braves,Kenta Maeda,Minnesota Twins,1,1,0,0,0,0,2,0,0,1.000,1.000,1.000,2.000
+101,Ronald Acuna Jr.,Atlanta Braves,Emilio Pagan,Minnesota Twins,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+102,Ronald Acuna Jr.,Atlanta Braves,Joe Ryan,Minnesota Twins,2,2,0,0,2,2,0,0,0,1.000,1.000,4.000,5.000
+103,Ronald Acuna Jr.,Atlanta Braves,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+104,Ronald Acuna Jr.,Atlanta Braves,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Ronald Acuna Jr.,Atlanta Braves,Oliver Ortega,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Ronald Acuna Jr.,Atlanta Braves,Steven Okert,Miami Marlins,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+107,Ronald Acuna Jr.,Atlanta Braves,Eury Perez,Miami Marlins,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+108,Ronald Acuna Jr.,Atlanta Braves,Dylan Floro,Miami Marlins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+109,Ronald Acuna Jr.,Atlanta Braves,Jesus Luzardo,Miami Marlins,2,1,0,0,0,1,1,1,0,.500,.667,.500,1.167
+110,Ronald Acuna Jr.,Atlanta Braves,Devin Smeltzer,Miami Marlins,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+111,Ronald Acuna Jr.,Atlanta Braves,Sandy Alcantara,Miami Marlins,7,3,1,0,1,1,2,0,3,.429,.556,1.000,1.556
+112,Ronald Acuna Jr.,Atlanta Braves,Bryan Hoeing,Miami Marlins,5,2,1,0,0,0,1,0,1,.400,.500,.600,1.100
+113,Ronald Acuna Jr.,Atlanta Braves,Braxton Garrett,Miami Marlins,5,1,0,0,1,3,1,0,0,.200,.333,.800,1.133
+114,Ronald Acuna Jr.,Atlanta Braves,Matt Barnes,Miami Marlins,1,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+115,Ronald Acuna Jr.,Atlanta Braves,Archie Bradley,Miami Marlins,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+116,Ronald Acuna Jr.,Atlanta Braves,Huascar Brazoban,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Ronald Acuna Jr.,Atlanta Braves,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+118,Ronald Acuna Jr.,Atlanta Braves,Andrew Nardi,Miami Marlins,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+119,Ronald Acuna Jr.,Atlanta Braves,Sean Nolin,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Ronald Acuna Jr.,Atlanta Braves,Johan Quezada,Miami Marlins,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+121,Ronald Acuna Jr.,Atlanta Braves,George Soriano,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Ronald Acuna Jr.,Atlanta Braves,Jacob Stallings,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Ronald Acuna Jr.,Atlanta Braves,Chad Kuhl,Washington Nationals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+124,Ronald Acuna Jr.,Atlanta Braves,Erasmo Ramirez,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+125,Ronald Acuna Jr.,Atlanta Braves,MacKenzie Gore,Washington Nationals,5,2,1,0,1,2,1,0,1,.400,.500,1.200,1.700
+126,Ronald Acuna Jr.,Atlanta Braves,Patrick Corbin,Washington Nationals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+127,Ronald Acuna Jr.,Atlanta Braves,Trevor Williams,Washington Nationals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+128,Ronald Acuna Jr.,Atlanta Braves,Josiah Gray,Washington Nationals,6,1,0,0,1,1,0,0,1,.167,.167,.667,.834
+129,Ronald Acuna Jr.,Atlanta Braves,Carl Edwards Jr.,Washington Nationals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+130,Ronald Acuna Jr.,Atlanta Braves,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Ronald Acuna Jr.,Atlanta Braves,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Ronald Acuna Jr.,Atlanta Braves,Hunter Harvey,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Ronald Acuna Jr.,Atlanta Braves,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Ronald Acuna Jr.,Atlanta Braves,John Curtiss,New York Mets,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+135,Ronald Acuna Jr.,Atlanta Braves,Adam Ottavino,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+136,Ronald Acuna Jr.,Atlanta Braves,Denyi Reyes,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+137,Ronald Acuna Jr.,Atlanta Braves,David Robertson,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+138,Ronald Acuna Jr.,Atlanta Braves,Justin Verlander,New York Mets,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+139,Ronald Acuna Jr.,Atlanta Braves,Jeff Brigham,New York Mets,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+140,Ronald Acuna Jr.,Atlanta Braves,Carlos Carrasco,New York Mets,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+141,Ronald Acuna Jr.,Atlanta Braves,David Peterson,New York Mets,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+142,Ronald Acuna Jr.,Atlanta Braves,Max Scherzer,New York Mets,4,1,0,0,0,1,0,0,2,.250,.250,.250,.500
+143,Ronald Acuna Jr.,Atlanta Braves,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Ronald Acuna Jr.,Atlanta Braves,Tylor Megill,New York Mets,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+145,Ronald Acuna Jr.,Atlanta Braves,Stephen Nogosek,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Ronald Acuna Jr.,Atlanta Braves,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Ronald Acuna Jr.,Atlanta Braves,Harold Castro,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+148,Ronald Acuna Jr.,Atlanta Braves,Pierce Johnson,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+149,Ronald Acuna Jr.,Atlanta Braves,Chase Anderson,Colorado Rockies,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+150,Ronald Acuna Jr.,Atlanta Braves,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+151,Ronald Acuna Jr.,Atlanta Braves,Matt Carasiti,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Ronald Acuna Jr.,Atlanta Braves,Kyle Freeland,Colorado Rockies,1,0,0,0,0,1,1,0,0,.000,.333,.000,.333
+153,Ronald Acuna Jr.,Atlanta Braves,Gavin Hollowell,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+154,Ronald Acuna Jr.,Atlanta Braves,Dinelson Lamet,Colorado Rockies,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+155,Ronald Acuna Jr.,Atlanta Braves,Connor Seabold,Colorado Rockies,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+156,Ronald Acuna Jr.,Atlanta Braves,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,Ronald Acuna Jr.,Atlanta Braves,Justin Topa,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+158,Ronald Acuna Jr.,Atlanta Braves,Logan Gilbert,Seattle Mariners,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+159,Ronald Acuna Jr.,Atlanta Braves,Bryce Miller,Seattle Mariners,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+160,Ronald Acuna Jr.,Atlanta Braves,George Kirby,Seattle Mariners,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+161,Ronald Acuna Jr.,Atlanta Braves,Eli Morgan,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+162,Ronald Acuna Jr.,Atlanta Braves,Shane Bieber,Cleveland Guardians,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+163,Ronald Acuna Jr.,Atlanta Braves,Xzavion Curry,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+164,Ronald Acuna Jr.,Atlanta Braves,Cal Quantrill,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+165,Ronald Acuna Jr.,Atlanta Braves,Gavin Williams,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+166,Ronald Acuna Jr.,Atlanta Braves,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Ronald Acuna Jr.,Atlanta Braves,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+168,Ronald Acuna Jr.,Atlanta Braves,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,Ronald Acuna Jr.,Atlanta Braves,Dylan Cease,Chicago White Sox,1,1,0,0,0,0,2,0,0,1.000,1.000,1.000,2.000
+170,Ronald Acuna Jr.,Atlanta Braves,Kendall Graveman,Chicago White Sox,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+171,Ronald Acuna Jr.,Atlanta Braves,Gregory Santos,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+172,Ronald Acuna Jr.,Atlanta Braves,Lance Lynn,Chicago White Sox,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+173,Ronald Acuna Jr.,Atlanta Braves,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Ronald Acuna Jr.,Atlanta Braves,Michael Kopech,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+175,Ronald Acuna Jr.,Atlanta Braves,Bryan Shaw,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Ronald Acuna Jr.,Atlanta Braves,Touki Toussaint,Chicago White Sox,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+177,Ronald Acuna Jr.,Atlanta Braves,J.C. Mejia,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+178,Ronald Acuna Jr.,Atlanta Braves,Freddy Peralta,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+179,Ronald Acuna Jr.,Atlanta Braves,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Ronald Acuna Jr.,Atlanta Braves,Garrett Hill,Detroit Tigers,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+181,Ronald Acuna Jr.,Atlanta Braves,Tyler Holton,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+182,Ronald Acuna Jr.,Atlanta Braves,Brendan White,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+183,Ronald Acuna Jr.,Atlanta Braves,Michael Lorenzen,Detroit Tigers,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+184,Ronald Acuna Jr.,Atlanta Braves,Reese Olson,Detroit Tigers,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+185,Ronald Acuna Jr.,Atlanta Braves,Tyler Alexander,Detroit Tigers,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+186,Ronald Acuna Jr.,Atlanta Braves,Braden Bristo,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+187,Ronald Acuna Jr.,Atlanta Braves,Mason Englert,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+188,Ronald Acuna Jr.,Atlanta Braves,Jason Foley,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+189,Ronald Acuna Jr.,Atlanta Braves,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+190,Ronald Acuna Jr.,Atlanta Braves,Aroldis Chapman,Kansas City Royals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+191,Ronald Acuna Jr.,Atlanta Braves,Jose Cuas,Kansas City Royals,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+192,Ronald Acuna Jr.,Atlanta Braves,Brady Singer,Kansas City Royals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+193,Ronald Acuna Jr.,Atlanta Braves,Zack Greinke,Kansas City Royals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+194,Ronald Acuna Jr.,Atlanta Braves,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+195,Ronald Acuna Jr.,Atlanta Braves,Kris Bubic,Kansas City Royals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+196,Ronald Acuna Jr.,Atlanta Braves,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+197,Ronald Acuna Jr.,Atlanta Braves,Ryan Yarbrough,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+198,Ronald Acuna Jr.,Atlanta Braves,Ken Waldichuk,Oakland Athletics,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+199,Ronald Acuna Jr.,Atlanta Braves,James Kaprielian,Oakland Athletics,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+200,Ronald Acuna Jr.,Atlanta Braves,Paul Blackburn,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+201,Ronald Acuna Jr.,Atlanta Braves,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+202,Ronald Acuna Jr.,Atlanta Braves,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+203,Ronald Acuna Jr.,Atlanta Braves,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+204,Ronald Acuna Jr.,Atlanta Braves,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+205,Ronald Acuna Jr.,Atlanta Braves,JP Sears,Oakland Athletics,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333

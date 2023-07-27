@@ -1,0 +1,98 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Santiago Espinal,Toronto Blue Jays,Jesse Chavez,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Santiago Espinal,Toronto Blue Jays,Collin McHugh,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Santiago Espinal,Toronto Blue Jays,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Santiago Espinal,Toronto Blue Jays,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Santiago Espinal,Toronto Blue Jays,Jose Leclerc,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+5,Santiago Espinal,Toronto Blue Jays,Jon Gray,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Santiago Espinal,Toronto Blue Jays,John King,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Santiago Espinal,Toronto Blue Jays,Martin Perez,Texas Rangers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+8,Santiago Espinal,Toronto Blue Jays,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Santiago Espinal,Toronto Blue Jays,Matt Moore,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+10,Santiago Espinal,Toronto Blue Jays,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Santiago Espinal,Toronto Blue Jays,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Santiago Espinal,Toronto Blue Jays,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Santiago Espinal,Toronto Blue Jays,Jose Quijada,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Santiago Espinal,Toronto Blue Jays,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+15,Santiago Espinal,Toronto Blue Jays,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Santiago Espinal,Toronto Blue Jays,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Santiago Espinal,Toronto Blue Jays,Yonny Chirinos,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Santiago Espinal,Toronto Blue Jays,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Santiago Espinal,Toronto Blue Jays,Colin Poche,Tampa Bay Rays,1,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+20,Santiago Espinal,Toronto Blue Jays,Drew Rasmussen,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+21,Santiago Espinal,Toronto Blue Jays,James Paxton,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+22,Santiago Espinal,Toronto Blue Jays,Nick Pivetta,Boston Red Sox,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+23,Santiago Espinal,Toronto Blue Jays,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Santiago Espinal,Toronto Blue Jays,Joe Jacques,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Santiago Espinal,Toronto Blue Jays,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Santiago Espinal,Toronto Blue Jays,Jordan Montgomery,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Santiago Espinal,Toronto Blue Jays,Packy Naughton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Santiago Espinal,Toronto Blue Jays,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Santiago Espinal,Toronto Blue Jays,Tommy Henry,Arizona Diamondbacks,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+30,Santiago Espinal,Toronto Blue Jays,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Santiago Espinal,Toronto Blue Jays,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Santiago Espinal,Toronto Blue Jays,Mike Baumann,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Santiago Espinal,Toronto Blue Jays,Grayson Rodriguez,Baltimore Orioles,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+34,Santiago Espinal,Toronto Blue Jays,Danny Coulombe,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Santiago Espinal,Toronto Blue Jays,Cionel Perez,Baltimore Orioles,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+36,Santiago Espinal,Toronto Blue Jays,Austin Voth,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Santiago Espinal,Toronto Blue Jays,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Santiago Espinal,Toronto Blue Jays,Craig Kimbrel,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Santiago Espinal,Toronto Blue Jays,Aaron Nola,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Santiago Espinal,Toronto Blue Jays,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Santiago Espinal,Toronto Blue Jays,Tom Cosgrove,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+42,Santiago Espinal,Toronto Blue Jays,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Santiago Espinal,Toronto Blue Jays,Blake Snell,San Diego Padres,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+44,Santiago Espinal,Toronto Blue Jays,Seth Martinez,Houston Astros,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+45,Santiago Espinal,Toronto Blue Jays,Phil Maton,Houston Astros,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+46,Santiago Espinal,Toronto Blue Jays,Jose Urquidy,Houston Astros,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+47,Santiago Espinal,Toronto Blue Jays,Hunter Brown,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Santiago Espinal,Toronto Blue Jays,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Santiago Espinal,Toronto Blue Jays,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Santiago Espinal,Toronto Blue Jays,Framber Valdez,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Santiago Espinal,Toronto Blue Jays,Jose De Leon,Minnesota Twins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+52,Santiago Espinal,Toronto Blue Jays,Emilio Pagan,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+53,Santiago Espinal,Toronto Blue Jays,Jovani Moran,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+54,Santiago Espinal,Toronto Blue Jays,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+55,Santiago Espinal,Toronto Blue Jays,Sonny Gray,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+56,Santiago Espinal,Toronto Blue Jays,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Santiago Espinal,Toronto Blue Jays,Joe Ryan,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Santiago Espinal,Toronto Blue Jays,Tanner Scott,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+59,Santiago Espinal,Toronto Blue Jays,Sandy Alcantara,Miami Marlins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+60,Santiago Espinal,Toronto Blue Jays,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Santiago Espinal,Toronto Blue Jays,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Santiago Espinal,Toronto Blue Jays,Keaton Winn,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Santiago Espinal,Toronto Blue Jays,Gerrit Cole,New York Yankees,3,1,0,0,0,0,0,0,1,.333,.500,.333,.833
+64,Santiago Espinal,Toronto Blue Jays,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Santiago Espinal,Toronto Blue Jays,Nestor Cortes,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Santiago Espinal,Toronto Blue Jays,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Santiago Espinal,Toronto Blue Jays,Marco Gonzales,Seattle Mariners,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+68,Santiago Espinal,Toronto Blue Jays,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Santiago Espinal,Toronto Blue Jays,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+70,Santiago Espinal,Toronto Blue Jays,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Santiago Espinal,Toronto Blue Jays,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Santiago Espinal,Toronto Blue Jays,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Santiago Espinal,Toronto Blue Jays,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+74,Santiago Espinal,Toronto Blue Jays,Chase De Jong,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Santiago Espinal,Toronto Blue Jays,Rich Hill,Pittsburgh Pirates,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+76,Santiago Espinal,Toronto Blue Jays,Dauri Moreta,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Santiago Espinal,Toronto Blue Jays,Michael Kopech,Chicago White Sox,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+78,Santiago Espinal,Toronto Blue Jays,Gregory Santos,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+79,Santiago Espinal,Toronto Blue Jays,Jimmy Lambert,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+80,Santiago Espinal,Toronto Blue Jays,Jesse Scholtens,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Santiago Espinal,Toronto Blue Jays,Bryan Shaw,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Santiago Espinal,Toronto Blue Jays,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Santiago Espinal,Toronto Blue Jays,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Santiago Espinal,Toronto Blue Jays,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Santiago Espinal,Toronto Blue Jays,Eduardo Rodriguez,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Santiago Espinal,Toronto Blue Jays,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Santiago Espinal,Toronto Blue Jays,Tarik Skubal,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Santiago Espinal,Toronto Blue Jays,Spencer Turnbull,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Santiago Espinal,Toronto Blue Jays,Kris Bubic,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+90,Santiago Espinal,Toronto Blue Jays,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Santiago Espinal,Toronto Blue Jays,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Santiago Espinal,Toronto Blue Jays,Ken Waldichuk,Oakland Athletics,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+93,Santiago Espinal,Toronto Blue Jays,Hogan Harris,Oakland Athletics,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+94,Santiago Espinal,Toronto Blue Jays,Luis Medina,Oakland Athletics,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+95,Santiago Espinal,Toronto Blue Jays,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Santiago Espinal,Toronto Blue Jays,Yacksel Rios,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

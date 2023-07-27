@@ -1,0 +1,78 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Freddy Fermin,Kansas City Royals,Bobby Miller,Los Angeles Dodgers,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+1,Freddy Fermin,Kansas City Royals,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Freddy Fermin,Kansas City Royals,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Freddy Fermin,Kansas City Royals,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Freddy Fermin,Kansas City Royals,Daniel Hudson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Freddy Fermin,Kansas City Royals,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Freddy Fermin,Kansas City Royals,Tyler Anderson,Los Angeles Angels,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+7,Freddy Fermin,Kansas City Royals,Reid Detmers,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+8,Freddy Fermin,Kansas City Royals,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Freddy Fermin,Kansas City Royals,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Freddy Fermin,Kansas City Royals,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+11,Freddy Fermin,Kansas City Royals,Austin Warren,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Freddy Fermin,Kansas City Royals,Zack Littell,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Freddy Fermin,Kansas City Royals,Yonny Chirinos,Tampa Bay Rays,4,2,0,0,1,3,1,0,0,.500,.600,1.250,1.850
+14,Freddy Fermin,Kansas City Royals,Shawn Armstrong,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Freddy Fermin,Kansas City Royals,Cooper Criswell,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Freddy Fermin,Kansas City Royals,Zach Eflin,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Freddy Fermin,Kansas City Royals,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Freddy Fermin,Kansas City Royals,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Freddy Fermin,Kansas City Royals,Steven Matz,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Freddy Fermin,Kansas City Royals,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Freddy Fermin,Kansas City Royals,Adam Wainwright,St. Louis Cardinals,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+22,Freddy Fermin,Kansas City Royals,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Freddy Fermin,Kansas City Royals,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Freddy Fermin,Kansas City Royals,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Freddy Fermin,Kansas City Royals,Ben Lively,Cincinnati Reds,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+26,Freddy Fermin,Kansas City Royals,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Freddy Fermin,Kansas City Royals,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Freddy Fermin,Kansas City Royals,Felix Bautista,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+29,Freddy Fermin,Kansas City Royals,Grayson Rodriguez,Baltimore Orioles,2,2,0,1,1,1,0,0,0,1.000,1.000,3.500,4.500
+30,Freddy Fermin,Kansas City Royals,Cole Irvin,Baltimore Orioles,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+31,Freddy Fermin,Kansas City Royals,Bryan Baker,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+32,Freddy Fermin,Kansas City Royals,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Freddy Fermin,Kansas City Royals,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Freddy Fermin,Kansas City Royals,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Freddy Fermin,Kansas City Royals,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Freddy Fermin,Kansas City Royals,Luis Garcia,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Freddy Fermin,Kansas City Royals,Seth Lugo,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+38,Freddy Fermin,Kansas City Royals,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Freddy Fermin,Kansas City Royals,Joe Ryan,Minnesota Twins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+40,Freddy Fermin,Kansas City Royals,Brent Headrick,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Freddy Fermin,Kansas City Royals,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+42,Freddy Fermin,Kansas City Royals,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Freddy Fermin,Kansas City Royals,Chad Kuhl,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Freddy Fermin,Kansas City Royals,Kyle Freeland,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Freddy Fermin,Kansas City Royals,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Freddy Fermin,Kansas City Royals,Ron Marinaccio,New York Yankees,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+47,Freddy Fermin,Kansas City Royals,Luis Severino,New York Yankees,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+48,Freddy Fermin,Kansas City Royals,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Freddy Fermin,Kansas City Royals,Emmanuel Clase,Cleveland Guardians,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+50,Freddy Fermin,Kansas City Royals,Eli Morgan,Cleveland Guardians,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+51,Freddy Fermin,Kansas City Royals,Gavin Williams,Cleveland Guardians,5,3,0,0,0,0,0,0,0,.600,.600,.600,1.200
+52,Freddy Fermin,Kansas City Royals,Shane Bieber,Cleveland Guardians,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+53,Freddy Fermin,Kansas City Royals,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Freddy Fermin,Kansas City Royals,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Freddy Fermin,Kansas City Royals,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Freddy Fermin,Kansas City Royals,Reynaldo Lopez,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+57,Freddy Fermin,Kansas City Royals,Keynan Middleton,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+58,Freddy Fermin,Kansas City Royals,Gregory Santos,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+59,Freddy Fermin,Kansas City Royals,Mike Clevinger,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Freddy Fermin,Kansas City Royals,Garrett Crochet,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+61,Freddy Fermin,Kansas City Royals,Lucas Giolito,Chicago White Sox,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+62,Freddy Fermin,Kansas City Royals,Kendall Graveman,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Freddy Fermin,Kansas City Royals,Joel Payamps,Milwaukee Brewers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+64,Freddy Fermin,Kansas City Royals,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Freddy Fermin,Kansas City Royals,Tyler Holton,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+66,Freddy Fermin,Kansas City Royals,Matt Manning,Detroit Tigers,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+67,Freddy Fermin,Kansas City Royals,Chasen Shreve,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+68,Freddy Fermin,Kansas City Royals,Will Vest,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+69,Freddy Fermin,Kansas City Royals,Brendan White,Detroit Tigers,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+70,Freddy Fermin,Kansas City Royals,Tarik Skubal,Detroit Tigers,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+71,Freddy Fermin,Kansas City Royals,Matthew Boyd,Detroit Tigers,4,1,1,0,0,2,0,0,2,.250,.250,.500,.750
+72,Freddy Fermin,Kansas City Royals,Beau Brieske,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+73,Freddy Fermin,Kansas City Royals,Jason Foley,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Freddy Fermin,Kansas City Royals,Ken Waldichuk,Oakland Athletics,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+75,Freddy Fermin,Kansas City Royals,Zach Jackson,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Freddy Fermin,Kansas City Royals,Richard Lovelady,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

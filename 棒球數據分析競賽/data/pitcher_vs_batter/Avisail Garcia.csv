@@ -1,0 +1,46 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Avisail Garcia,Miami Marlins,Collin McHugh,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,Avisail Garcia,Miami Marlins,A.J. Minter,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+2,Avisail Garcia,Miami Marlins,Bryce Elder,Atlanta Braves,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+3,Avisail Garcia,Miami Marlins,Charlie Morton,Atlanta Braves,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+4,Avisail Garcia,Miami Marlins,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Avisail Garcia,Miami Marlins,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Avisail Garcia,Miami Marlins,Scott McGough,Arizona Diamondbacks,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+7,Avisail Garcia,Miami Marlins,Ryne Nelson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Avisail Garcia,Miami Marlins,Madison Bumgarner,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+9,Avisail Garcia,Miami Marlins,Zac Gallen,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+10,Avisail Garcia,Miami Marlins,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Avisail Garcia,Miami Marlins,Peter Solomon,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Avisail Garcia,Miami Marlins,Marcus Stroman,Chicago Cubs,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+13,Avisail Garcia,Miami Marlins,Michael Rucker,Chicago Cubs,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+14,Avisail Garcia,Miami Marlins,Cole Sands,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+15,Avisail Garcia,Miami Marlins,Kenta Maeda,Minnesota Twins,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+16,Avisail Garcia,Miami Marlins,Tyler Mahle,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+17,Avisail Garcia,Miami Marlins,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Avisail Garcia,Miami Marlins,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+19,Avisail Garcia,Miami Marlins,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Avisail Garcia,Miami Marlins,Alex Cobb,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+21,Avisail Garcia,Miami Marlins,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Avisail Garcia,Miami Marlins,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Avisail Garcia,Miami Marlins,Jakob Junis,San Francisco Giants,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Avisail Garcia,Miami Marlins,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Avisail Garcia,Miami Marlins,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Avisail Garcia,Miami Marlins,Ross Stripling,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Avisail Garcia,Miami Marlins,Alex Wood,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Avisail Garcia,Miami Marlins,Carlos Carrasco,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Avisail Garcia,Miami Marlins,John Curtiss,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Avisail Garcia,Miami Marlins,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Avisail Garcia,Miami Marlins,Tylor Megill,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Avisail Garcia,Miami Marlins,Stephen Nogosek,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Avisail Garcia,Miami Marlins,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Avisail Garcia,Miami Marlins,David Peterson,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Avisail Garcia,Miami Marlins,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Avisail Garcia,Miami Marlins,Dennis Santana,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Avisail Garcia,Miami Marlins,Max Scherzer,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+38,Avisail Garcia,Miami Marlins,Kodai Senga,New York Mets,4,0,0,0,0,0,1,0,1,.000,.200,.000,.200
+39,Avisail Garcia,Miami Marlins,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Avisail Garcia,Miami Marlins,Enyel De Los Santos,Cleveland Guardians,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+41,Avisail Garcia,Miami Marlins,James Karinchak,Cleveland Guardians,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+42,Avisail Garcia,Miami Marlins,Logan Allen,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+43,Avisail Garcia,Miami Marlins,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Avisail Garcia,Miami Marlins,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

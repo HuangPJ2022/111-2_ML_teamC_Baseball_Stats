@@ -1,0 +1,60 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Riley Adams,Washington Nationals,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Riley Adams,Washington Nationals,Jared Shuster,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Riley Adams,Washington Nationals,Cody Bradford,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Riley Adams,Washington Nationals,Glenn Otto,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Riley Adams,Washington Nationals,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Riley Adams,Washington Nationals,Jalen Beeks,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+6,Riley Adams,Washington Nationals,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Riley Adams,Washington Nationals,Josh Fleming,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Riley Adams,Washington Nationals,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Riley Adams,Washington Nationals,Jake Woodford,St. Louis Cardinals,1,1,0,1,0,1,0,0,0,1.000,1.000,3.000,4.000
+10,Riley Adams,Washington Nationals,Dakota Hudson,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+11,Riley Adams,Washington Nationals,Steven Matz,St. Louis Cardinals,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+12,Riley Adams,Washington Nationals,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+13,Riley Adams,Washington Nationals,Joe Mantiply,Arizona Diamondbacks,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+14,Riley Adams,Washington Nationals,Tommy Henry,Arizona Diamondbacks,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+15,Riley Adams,Washington Nationals,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Riley Adams,Washington Nationals,Zach Davies,Arizona Diamondbacks,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+17,Riley Adams,Washington Nationals,Buck Farmer,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Riley Adams,Washington Nationals,Tony Santillan,Cincinnati Reds,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+19,Riley Adams,Washington Nationals,Brandon Williamson,Cincinnati Reds,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+20,Riley Adams,Washington Nationals,Fernando Cruz,Cincinnati Reds,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+21,Riley Adams,Washington Nationals,Daniel Duarte,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Riley Adams,Washington Nationals,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Riley Adams,Washington Nationals,Brett Kennedy,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Riley Adams,Washington Nationals,Ranger Suarez,Philadelphia Phillies,5,2,0,0,0,0,0,0,0,.400,.400,.400,.800
+25,Riley Adams,Washington Nationals,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Riley Adams,Washington Nationals,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Riley Adams,Washington Nationals,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Riley Adams,Washington Nationals,Javier Assad,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Riley Adams,Washington Nationals,Jameson Taillon,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Riley Adams,Washington Nationals,Brent Honeywell,San Diego Padres,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+31,Riley Adams,Washington Nationals,Blake Snell,San Diego Padres,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+32,Riley Adams,Washington Nationals,Simeon Woods Richardson,Minnesota Twins,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+33,Riley Adams,Washington Nationals,Pablo Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Riley Adams,Washington Nationals,Steven Okert,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+35,Riley Adams,Washington Nationals,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+36,Riley Adams,Washington Nationals,A.J. Puk,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Riley Adams,Washington Nationals,Sean Manaea,San Francisco Giants,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+38,Riley Adams,Washington Nationals,Anthony DeSclafani,San Francisco Giants,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+39,Riley Adams,Washington Nationals,Tristan Beck,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Riley Adams,Washington Nationals,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Riley Adams,Washington Nationals,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Riley Adams,Washington Nationals,Zach Muckenhirn,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+43,Riley Adams,Washington Nationals,Max Scherzer,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+44,Riley Adams,Washington Nationals,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Riley Adams,Washington Nationals,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Riley Adams,Washington Nationals,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Riley Adams,Washington Nationals,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Riley Adams,Washington Nationals,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Riley Adams,Washington Nationals,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Riley Adams,Washington Nationals,Rich Hill,Pittsburgh Pirates,3,2,1,0,0,2,0,0,1,.667,.667,1.000,1.667
+51,Riley Adams,Washington Nationals,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Riley Adams,Washington Nationals,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Riley Adams,Washington Nationals,Daniel Lynch IV,Kansas City Royals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+54,Riley Adams,Washington Nationals,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Riley Adams,Washington Nationals,Tyler Alexander,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+56,Riley Adams,Washington Nationals,Jose Cisnero,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+57,Riley Adams,Washington Nationals,Mason Englert,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+58,Riley Adams,Washington Nationals,Joey Wentz,Detroit Tigers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000

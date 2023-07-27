@@ -1,0 +1,77 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Tucker Barnhart,Chicago Cubs,Jon Gray,Texas Rangers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Tucker Barnhart,Chicago Cubs,Nathan Eovaldi,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Tucker Barnhart,Chicago Cubs,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Tucker Barnhart,Chicago Cubs,Yency Almonte,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+4,Tucker Barnhart,Chicago Cubs,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Tucker Barnhart,Chicago Cubs,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Tucker Barnhart,Chicago Cubs,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Tucker Barnhart,Chicago Cubs,Michael Grove,Los Angeles Dodgers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+8,Tucker Barnhart,Chicago Cubs,Dustin May,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Tucker Barnhart,Chicago Cubs,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Tucker Barnhart,Chicago Cubs,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Tucker Barnhart,Chicago Cubs,Joe La Sorsa,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Tucker Barnhart,Chicago Cubs,Brayan Bello,Boston Red Sox,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+13,Tucker Barnhart,Chicago Cubs,Tayler Scott,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+14,Tucker Barnhart,Chicago Cubs,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Tucker Barnhart,Chicago Cubs,Matthew Liberatore,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Tucker Barnhart,Chicago Cubs,Miles Mikolas,St. Louis Cardinals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+17,Tucker Barnhart,Chicago Cubs,Jake Woodford,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Tucker Barnhart,Chicago Cubs,Connor Overton,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+19,Tucker Barnhart,Chicago Cubs,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Tucker Barnhart,Chicago Cubs,Hunter Greene,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Tucker Barnhart,Chicago Cubs,Eduardo Salazar,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Tucker Barnhart,Chicago Cubs,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Tucker Barnhart,Chicago Cubs,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Tucker Barnhart,Chicago Cubs,Taijuan Walker,Philadelphia Phillies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+25,Tucker Barnhart,Chicago Cubs,Seth Lugo,San Diego Padres,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+26,Tucker Barnhart,Chicago Cubs,Yu Darvish,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+27,Tucker Barnhart,Chicago Cubs,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Tucker Barnhart,Chicago Cubs,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Tucker Barnhart,Chicago Cubs,Matt Gage,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Tucker Barnhart,Chicago Cubs,Cristian Javier,Houston Astros,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+31,Tucker Barnhart,Chicago Cubs,Jovani Moran,Minnesota Twins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+32,Tucker Barnhart,Chicago Cubs,Joe Ryan,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+33,Tucker Barnhart,Chicago Cubs,Cole Sands,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+34,Tucker Barnhart,Chicago Cubs,Andrew Nardi,Miami Marlins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+35,Tucker Barnhart,Chicago Cubs,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Tucker Barnhart,Chicago Cubs,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+37,Tucker Barnhart,Chicago Cubs,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Tucker Barnhart,Chicago Cubs,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Tucker Barnhart,Chicago Cubs,MacKenzie Gore,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+40,Tucker Barnhart,Chicago Cubs,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Tucker Barnhart,Chicago Cubs,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Tucker Barnhart,Chicago Cubs,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Tucker Barnhart,Chicago Cubs,Mason Thompson,Washington Nationals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+44,Tucker Barnhart,Chicago Cubs,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Tucker Barnhart,Chicago Cubs,Jordan Weems,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+46,Tucker Barnhart,Chicago Cubs,Trevor Williams,Washington Nationals,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Tucker Barnhart,Chicago Cubs,Ryan Walker,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+48,Tucker Barnhart,Chicago Cubs,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Tucker Barnhart,Chicago Cubs,Anthony DeSclafani,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Tucker Barnhart,Chicago Cubs,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Tucker Barnhart,Chicago Cubs,Kodai Senga,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+52,Tucker Barnhart,Chicago Cubs,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Tucker Barnhart,Chicago Cubs,Nick Ramirez,New York Yankees,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+54,Tucker Barnhart,Chicago Cubs,Domingo German,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+55,Tucker Barnhart,Chicago Cubs,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Tucker Barnhart,Chicago Cubs,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Tucker Barnhart,Chicago Cubs,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Tucker Barnhart,Chicago Cubs,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Tucker Barnhart,Chicago Cubs,Tanner Bibee,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+60,Tucker Barnhart,Chicago Cubs,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Tucker Barnhart,Chicago Cubs,Yohan Ramirez,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+62,Tucker Barnhart,Chicago Cubs,Luis L. Ortiz,Pittsburgh Pirates,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+63,Tucker Barnhart,Chicago Cubs,Johan Oviedo,Pittsburgh Pirates,4,1,0,0,1,1,0,0,2,.250,.250,1.000,1.250
+64,Tucker Barnhart,Chicago Cubs,Jose Hernandez,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+65,Tucker Barnhart,Chicago Cubs,Carmen Mlodzinski,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Tucker Barnhart,Chicago Cubs,Angel Perdomo,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+67,Tucker Barnhart,Chicago Cubs,Rob Zastryzny,Pittsburgh Pirates,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+68,Tucker Barnhart,Chicago Cubs,Julio Teheran,Milwaukee Brewers,3,2,0,0,0,2,0,0,1,.667,.667,.667,1.334
+69,Tucker Barnhart,Chicago Cubs,Adrian Houser,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Tucker Barnhart,Chicago Cubs,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Tucker Barnhart,Chicago Cubs,Brandon Woodruff,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Tucker Barnhart,Chicago Cubs,Jeurys Familia,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Tucker Barnhart,Chicago Cubs,Zach Jackson,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Tucker Barnhart,Chicago Cubs,Mason Miller,Oakland Athletics,0,0,0,0,0,1,0,0,0,.000,.500,.000,.500
+75,Tucker Barnhart,Chicago Cubs,Adam Oller,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

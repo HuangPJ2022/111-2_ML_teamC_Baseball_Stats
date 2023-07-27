@@ -1,0 +1,36 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Brett Sullivan,San Diego Padres,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Brett Sullivan,San Diego Padres,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Brett Sullivan,San Diego Padres,Brusdar Graterol,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+3,Brett Sullivan,San Diego Padres,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Brett Sullivan,San Diego Padres,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Brett Sullivan,San Diego Padres,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Brett Sullivan,San Diego Padres,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Brett Sullivan,San Diego Padres,Dustin May,Los Angeles Dodgers,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Brett Sullivan,San Diego Padres,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Brett Sullivan,San Diego Padres,Corey Kluber,Boston Red Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+10,Brett Sullivan,San Diego Padres,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Brett Sullivan,San Diego Padres,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Brett Sullivan,San Diego Padres,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Brett Sullivan,San Diego Padres,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Brett Sullivan,San Diego Padres,Luis Cessa,Cincinnati Reds,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+15,Brett Sullivan,San Diego Padres,Luke Weaver,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+16,Brett Sullivan,San Diego Padres,Alex Young,Cincinnati Reds,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+17,Brett Sullivan,San Diego Padres,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Brett Sullivan,San Diego Padres,Reiver Sanmartin,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+19,Brett Sullivan,San Diego Padres,Mark Leiter Jr.,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Brett Sullivan,San Diego Padres,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Brett Sullivan,San Diego Padres,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Brett Sullivan,San Diego Padres,Pablo Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Brett Sullivan,San Diego Padres,Carl Edwards Jr.,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+24,Brett Sullivan,San Diego Padres,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Brett Sullivan,San Diego Padres,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Brett Sullivan,San Diego Padres,Trevor Williams,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Brett Sullivan,San Diego Padres,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Brett Sullivan,San Diego Padres,Clay Holmes,New York Yankees,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+29,Brett Sullivan,San Diego Padres,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Brett Sullivan,San Diego Padres,Luis Severino,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Brett Sullivan,San Diego Padres,Brady Singer,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+32,Brett Sullivan,San Diego Padres,Aroldis Chapman,Kansas City Royals,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Brett Sullivan,San Diego Padres,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Brett Sullivan,San Diego Padres,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

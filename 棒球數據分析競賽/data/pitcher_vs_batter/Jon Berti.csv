@@ -1,0 +1,153 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jon Berti,Miami Marlins,Dylan Dodd,Atlanta Braves,4,2,0,0,0,0,0,0,0,.500,.500,.500,1.000
+1,Jon Berti,Miami Marlins,Bryce Elder,Atlanta Braves,4,2,1,0,0,0,0,0,1,.500,.500,.750,1.250
+2,Jon Berti,Miami Marlins,Collin McHugh,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+3,Jon Berti,Miami Marlins,A.J. Minter,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+4,Jon Berti,Miami Marlins,Charlie Morton,Atlanta Braves,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+5,Jon Berti,Miami Marlins,Michael Soroka,Atlanta Braves,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+6,Jon Berti,Miami Marlins,Spencer Strider,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+7,Jon Berti,Miami Marlins,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+8,Jon Berti,Miami Marlins,Michael Tonkin,Atlanta Braves,1,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+9,Jon Berti,Miami Marlins,Kyle Wright,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Jon Berti,Miami Marlins,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+11,Jon Berti,Miami Marlins,Reid Detmers,Los Angeles Angels,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+12,Jon Berti,Miami Marlins,Shohei Ohtani,Los Angeles Angels,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+13,Jon Berti,Miami Marlins,Jaime Barria,Los Angeles Angels,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+14,Jon Berti,Miami Marlins,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Jon Berti,Miami Marlins,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Jon Berti,Miami Marlins,Chris Martin,Boston Red Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+17,Jon Berti,Miami Marlins,Brayan Bello,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Jon Berti,Miami Marlins,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Jon Berti,Miami Marlins,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Jon Berti,Miami Marlins,Jordan Hicks,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Jon Berti,Miami Marlins,James Naile,St. Louis Cardinals,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+22,Jon Berti,Miami Marlins,Andre Pallante,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Jon Berti,Miami Marlins,Chris Stratton,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+24,Jon Berti,Miami Marlins,Zack Thompson,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+25,Jon Berti,Miami Marlins,Jordan Montgomery,St. Louis Cardinals,2,1,0,1,0,0,0,0,0,.500,.500,1.500,2.000
+26,Jon Berti,Miami Marlins,Dakota Hudson,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+27,Jon Berti,Miami Marlins,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Jon Berti,Miami Marlins,Steven Matz,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Jon Berti,Miami Marlins,Ryan Tepera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Jon Berti,Miami Marlins,Scott McGough,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+31,Jon Berti,Miami Marlins,Madison Bumgarner,Arizona Diamondbacks,3,2,1,0,0,2,0,0,0,.667,.667,1.000,1.667
+32,Jon Berti,Miami Marlins,Brandon Pfaadt,Arizona Diamondbacks,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+33,Jon Berti,Miami Marlins,Ryne Nelson,Arizona Diamondbacks,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+34,Jon Berti,Miami Marlins,Miguel Castro,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Jon Berti,Miami Marlins,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Jon Berti,Miami Marlins,Kevin Ginkel,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Jon Berti,Miami Marlins,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+38,Jon Berti,Miami Marlins,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Jon Berti,Miami Marlins,Peter Solomon,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Jon Berti,Miami Marlins,Luke Weaver,Cincinnati Reds,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+41,Jon Berti,Miami Marlins,Silvino Bracho,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Jon Berti,Miami Marlins,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Jon Berti,Miami Marlins,Nate Pearson,Toronto Blue Jays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+44,Jon Berti,Miami Marlins,Trent Thornton,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+45,Jon Berti,Miami Marlins,Jose Berrios,Toronto Blue Jays,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+46,Jon Berti,Miami Marlins,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Jon Berti,Miami Marlins,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Jon Berti,Miami Marlins,Danny Coulombe,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+49,Jon Berti,Miami Marlins,Kyle Bradish,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Jon Berti,Miami Marlins,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Jon Berti,Miami Marlins,Andrew Bellatti,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+52,Jon Berti,Miami Marlins,Aaron Nola,Philadelphia Phillies,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+53,Jon Berti,Miami Marlins,Matt Strahm,Philadelphia Phillies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+54,Jon Berti,Miami Marlins,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Jon Berti,Miami Marlins,McKinley Moore,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Jon Berti,Miami Marlins,Gregory Soto,Philadelphia Phillies,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+57,Jon Berti,Miami Marlins,Ranger Suarez,Philadelphia Phillies,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+58,Jon Berti,Miami Marlins,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Jon Berti,Miami Marlins,Zack Wheeler,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Jon Berti,Miami Marlins,Brad Boxberger,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+61,Jon Berti,Miami Marlins,Michael Rucker,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+62,Jon Berti,Miami Marlins,Michael Fulmer,Chicago Cubs,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+63,Jon Berti,Miami Marlins,Justin Steele,Chicago Cubs,6,3,0,0,0,0,0,0,1,.500,.500,.500,1.000
+64,Jon Berti,Miami Marlins,Adbert Alzolay,Chicago Cubs,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Jon Berti,Miami Marlins,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Jon Berti,Miami Marlins,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+67,Jon Berti,Miami Marlins,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Jon Berti,Miami Marlins,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+69,Jon Berti,Miami Marlins,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Jon Berti,Miami Marlins,Ryan Weathers,San Diego Padres,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+71,Jon Berti,Miami Marlins,Blake Snell,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Jon Berti,Miami Marlins,Domingo Tapia,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+73,Jon Berti,Miami Marlins,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Jon Berti,Miami Marlins,Griffin Jax,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+75,Jon Berti,Miami Marlins,Cole Sands,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+76,Jon Berti,Miami Marlins,Kenta Maeda,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+77,Jon Berti,Miami Marlins,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Jon Berti,Miami Marlins,Pablo Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Jon Berti,Miami Marlins,Tyler Mahle,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+80,Jon Berti,Miami Marlins,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Jon Berti,Miami Marlins,Andres Machado,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+82,Jon Berti,Miami Marlins,Patrick Corbin,Washington Nationals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+83,Jon Berti,Miami Marlins,Cory Abbott,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+84,Jon Berti,Miami Marlins,Trevor Williams,Washington Nationals,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+85,Jon Berti,Miami Marlins,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Jon Berti,Miami Marlins,MacKenzie Gore,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+87,Jon Berti,Miami Marlins,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Jon Berti,Miami Marlins,Camilo Doval,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+89,Jon Berti,Miami Marlins,Sean Hjelle,San Francisco Giants,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+90,Jon Berti,Miami Marlins,Alex Wood,San Francisco Giants,4,2,0,0,0,0,0,0,1,.500,.500,.500,1.000
+91,Jon Berti,Miami Marlins,Tyler Rogers,San Francisco Giants,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+92,Jon Berti,Miami Marlins,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Jon Berti,Miami Marlins,Alex Cobb,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Jon Berti,Miami Marlins,Jakob Junis,San Francisco Giants,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+95,Jon Berti,Miami Marlins,Ross Stripling,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Jon Berti,Miami Marlins,Logan Webb,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+97,Jon Berti,Miami Marlins,Drew Smith,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+98,Jon Berti,Miami Marlins,Carlos Carrasco,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+99,Jon Berti,Miami Marlins,David Peterson,New York Mets,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+100,Jon Berti,Miami Marlins,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Jon Berti,Miami Marlins,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Jon Berti,Miami Marlins,Tylor Megill,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Jon Berti,Miami Marlins,Stephen Nogosek,New York Mets,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+104,Jon Berti,Miami Marlins,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Jon Berti,Miami Marlins,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Jon Berti,Miami Marlins,Dennis Santana,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Jon Berti,Miami Marlins,Kodai Senga,New York Mets,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Jon Berti,Miami Marlins,Ty Blach,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+109,Jon Berti,Miami Marlins,Gavin Hollowell,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+110,Jon Berti,Miami Marlins,Jake Bird,Colorado Rockies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+111,Jon Berti,Miami Marlins,Brent Suter,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+112,Jon Berti,Miami Marlins,Pierce Johnson,Colorado Rockies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+113,Jon Berti,Miami Marlins,Chase Anderson,Colorado Rockies,4,1,0,0,0,0,1,0,0,.250,.400,.250,.650
+114,Jon Berti,Miami Marlins,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Jon Berti,Miami Marlins,Kyle Freeland,Colorado Rockies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Jon Berti,Miami Marlins,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+117,Jon Berti,Miami Marlins,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Jon Berti,Miami Marlins,Karl Kauffmann,Colorado Rockies,1,0,0,0,0,1,1,0,0,.000,.333,.000,.333
+119,Jon Berti,Miami Marlins,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Jon Berti,Miami Marlins,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Jon Berti,Miami Marlins,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Jon Berti,Miami Marlins,Matt Brash,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+123,Jon Berti,Miami Marlins,Justin Topa,Seattle Mariners,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+124,Jon Berti,Miami Marlins,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Jon Berti,Miami Marlins,Luis Castillo,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+126,Jon Berti,Miami Marlins,George Kirby,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Jon Berti,Miami Marlins,Bryce Miller,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Jon Berti,Miami Marlins,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Jon Berti,Miami Marlins,Zach Plesac,Cleveland Guardians,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+130,Jon Berti,Miami Marlins,Logan Allen,Cleveland Guardians,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+131,Jon Berti,Miami Marlins,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Jon Berti,Miami Marlins,Hunter Gaddis,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Jon Berti,Miami Marlins,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Jon Berti,Miami Marlins,Eli Morgan,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+135,Jon Berti,Miami Marlins,Nick Sandlin,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+136,Jon Berti,Miami Marlins,Angel Perdomo,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+137,Jon Berti,Miami Marlins,Mitch Keller,Pittsburgh Pirates,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+138,Jon Berti,Miami Marlins,Osvaldo Bido,Pittsburgh Pirates,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+139,Jon Berti,Miami Marlins,David Bednar,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Jon Berti,Miami Marlins,Yerry De Los Santos,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Jon Berti,Miami Marlins,Carmen Mlodzinski,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Jon Berti,Miami Marlins,Luis L. Ortiz,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+143,Jon Berti,Miami Marlins,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Jon Berti,Miami Marlins,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Jon Berti,Miami Marlins,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Jon Berti,Miami Marlins,Mike Mayers,Kansas City Royals,2,2,0,1,0,2,0,0,0,1.000,1.000,2.000,3.000
+147,Jon Berti,Miami Marlins,Jordan Lyles,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Jon Berti,Miami Marlins,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Jon Berti,Miami Marlins,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Jon Berti,Miami Marlins,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+151,Jon Berti,Miami Marlins,Hogan Harris,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

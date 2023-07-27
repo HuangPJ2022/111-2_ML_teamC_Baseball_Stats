@@ -1,0 +1,100 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Will Benson,Cincinnati Reds,Raisel Iglesias,Atlanta Braves,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+1,Will Benson,Cincinnati Reds,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Will Benson,Cincinnati Reds,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Will Benson,Cincinnati Reds,Charlie Morton,Atlanta Braves,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+4,Will Benson,Cincinnati Reds,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+5,Will Benson,Cincinnati Reds,Brusdar Graterol,Los Angeles Dodgers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+6,Will Benson,Cincinnati Reds,Evan Phillips,Los Angeles Dodgers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+7,Will Benson,Cincinnati Reds,Noah Syndergaard,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Will Benson,Cincinnati Reds,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Will Benson,Cincinnati Reds,Brayan Bello,Boston Red Sox,2,2,0,1,0,0,0,0,0,1.000,1.000,2.000,3.000
+10,Will Benson,Cincinnati Reds,Justin Garza,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Will Benson,Cincinnati Reds,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Will Benson,Cincinnati Reds,Joely Rodriguez,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Will Benson,Cincinnati Reds,Ryan Sherriff,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Will Benson,Cincinnati Reds,Jordan Hicks,St. Louis Cardinals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+15,Will Benson,Cincinnati Reds,Adam Wainwright,St. Louis Cardinals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+16,Will Benson,Cincinnati Reds,Miles Mikolas,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+17,Will Benson,Cincinnati Reds,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Will Benson,Cincinnati Reds,Giovanny Gallegos,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Will Benson,Cincinnati Reds,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Will Benson,Cincinnati Reds,Justin Martinez,Arizona Diamondbacks,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+21,Will Benson,Cincinnati Reds,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Will Benson,Cincinnati Reds,Luis Frias,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+23,Will Benson,Cincinnati Reds,Tommy Henry,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+24,Will Benson,Cincinnati Reds,Brandon Pfaadt,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+25,Will Benson,Cincinnati Reds,Yennier Cano,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Will Benson,Cincinnati Reds,Keegan Akin,Baltimore Orioles,2,1,0,1,0,1,0,0,0,.500,.500,1.500,2.000
+27,Will Benson,Cincinnati Reds,Kyle Gibson,Baltimore Orioles,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+28,Will Benson,Cincinnati Reds,Tyler Wells,Baltimore Orioles,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+29,Will Benson,Cincinnati Reds,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Will Benson,Cincinnati Reds,Zack Wheeler,Philadelphia Phillies,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+31,Will Benson,Cincinnati Reds,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Will Benson,Cincinnati Reds,Javier Assad,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Will Benson,Cincinnati Reds,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Will Benson,Cincinnati Reds,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Will Benson,Cincinnati Reds,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Will Benson,Cincinnati Reds,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+37,Will Benson,Cincinnati Reds,Luis Garcia,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+38,Will Benson,Cincinnati Reds,Brent Honeywell,San Diego Padres,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+39,Will Benson,Cincinnati Reds,Michael Wacha,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+40,Will Benson,Cincinnati Reds,Pedro Avila,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Will Benson,Cincinnati Reds,Tim Hill,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+42,Will Benson,Cincinnati Reds,Seth Lugo,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Will Benson,Cincinnati Reds,Adrian Morejon,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Will Benson,Cincinnati Reds,Brandon Bielak,Houston Astros,1,1,0,1,0,0,1,0,0,1.000,1.000,3.000,4.000
+45,Will Benson,Cincinnati Reds,Ryne Stanek,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+46,Will Benson,Cincinnati Reds,J.P. France,Houston Astros,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+47,Will Benson,Cincinnati Reds,Phil Maton,Houston Astros,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+48,Will Benson,Cincinnati Reds,Ronel Blanco,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+49,Will Benson,Cincinnati Reds,Rafael Montero,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+50,Will Benson,Cincinnati Reds,Ryan Pressly,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+51,Will Benson,Cincinnati Reds,Kyle Finnegan,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+52,Will Benson,Cincinnati Reds,Josiah Gray,Washington Nationals,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+53,Will Benson,Cincinnati Reds,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Will Benson,Cincinnati Reds,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Will Benson,Cincinnati Reds,Joe La Sorsa,Washington Nationals,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+56,Will Benson,Cincinnati Reds,Mason Thompson,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+57,Will Benson,Cincinnati Reds,Jordan Weems,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Will Benson,Cincinnati Reds,Amos Willingham,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Will Benson,Cincinnati Reds,Alex Cobb,San Francisco Giants,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+60,Will Benson,Cincinnati Reds,Anthony DeSclafani,San Francisco Giants,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+61,Will Benson,Cincinnati Reds,Jakob Junis,San Francisco Giants,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+62,Will Benson,Cincinnati Reds,Ross Stripling,San Francisco Giants,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+63,Will Benson,Cincinnati Reds,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Will Benson,Cincinnati Reds,Mauricio Llovera,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Will Benson,Cincinnati Reds,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Will Benson,Cincinnati Reds,Ryan Walker,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+67,Will Benson,Cincinnati Reds,Logan Webb,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+68,Will Benson,Cincinnati Reds,Peter Lambert,Colorado Rockies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+69,Will Benson,Cincinnati Reds,Daniel Bard,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+70,Will Benson,Cincinnati Reds,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Will Benson,Cincinnati Reds,Noah Davis,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+72,Will Benson,Cincinnati Reds,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Will Benson,Cincinnati Reds,Karl Kauffmann,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+74,Will Benson,Cincinnati Reds,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Will Benson,Cincinnati Reds,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Will Benson,Cincinnati Reds,Luis Severino,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Will Benson,Cincinnati Reds,Wil Crowe,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Will Benson,Cincinnati Reds,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Will Benson,Cincinnati Reds,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+80,Will Benson,Cincinnati Reds,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Will Benson,Cincinnati Reds,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Will Benson,Cincinnati Reds,Vince Velasquez,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Will Benson,Cincinnati Reds,Colin Rea,Milwaukee Brewers,4,3,0,1,1,1,0,0,1,.750,.750,2.000,2.750
+84,Will Benson,Cincinnati Reds,Adrian Houser,Milwaukee Brewers,3,1,0,0,0,0,1,0,0,.333,.500,.333,.833
+85,Will Benson,Cincinnati Reds,Corbin Burnes,Milwaukee Brewers,4,1,0,0,0,0,2,0,2,.250,.500,.250,.750
+86,Will Benson,Cincinnati Reds,Trevor Megill,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+87,Will Benson,Cincinnati Reds,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Will Benson,Cincinnati Reds,Joel Payamps,Milwaukee Brewers,4,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+89,Will Benson,Cincinnati Reds,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Will Benson,Cincinnati Reds,Freddy Peralta,Milwaukee Brewers,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+91,Will Benson,Cincinnati Reds,Julio Teheran,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Will Benson,Cincinnati Reds,Abner Uribe,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Will Benson,Cincinnati Reds,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+94,Will Benson,Cincinnati Reds,Bryse Wilson,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Will Benson,Cincinnati Reds,Taylor Clarke,Kansas City Royals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+96,Will Benson,Cincinnati Reds,Scott Barlow,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+97,Will Benson,Cincinnati Reds,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Will Benson,Cincinnati Reds,Jordan Lyles,Kansas City Royals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333

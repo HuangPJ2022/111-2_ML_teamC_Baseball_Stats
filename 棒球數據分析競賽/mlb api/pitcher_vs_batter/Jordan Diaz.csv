@@ -1,0 +1,71 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jordan Diaz,Oakland Athletics,Brock Burke,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Jordan Diaz,Oakland Athletics,Will Smith,Texas Rangers,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+2,Jordan Diaz,Oakland Athletics,Jon Gray,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+3,Jordan Diaz,Oakland Athletics,Martin Perez,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+4,Jordan Diaz,Oakland Athletics,Andrew Heaney,Texas Rangers,6,1,0,0,0,1,0,0,3,.167,.167,.167,.334
+5,Jordan Diaz,Oakland Athletics,Nathan Eovaldi,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Jordan Diaz,Oakland Athletics,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Jordan Diaz,Oakland Athletics,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Jordan Diaz,Oakland Athletics,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Jordan Diaz,Oakland Athletics,Jacob deGrom,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Jordan Diaz,Oakland Athletics,Aaron Loup,Los Angeles Angels,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+11,Jordan Diaz,Oakland Athletics,Carlos Estevez,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+12,Jordan Diaz,Oakland Athletics,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Jordan Diaz,Oakland Athletics,Jose Quijada,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Jordan Diaz,Oakland Athletics,Patrick Sandoval,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+15,Jordan Diaz,Oakland Athletics,Chase Silseth,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Jordan Diaz,Oakland Athletics,Jose Suarez,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+17,Jordan Diaz,Oakland Athletics,Richard Bleier,Boston Red Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+18,Jordan Diaz,Oakland Athletics,Joe Jacques,Boston Red Sox,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+19,Jordan Diaz,Oakland Athletics,Josh Winckowski,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Jordan Diaz,Oakland Athletics,Joely Rodriguez,Boston Red Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+21,Jordan Diaz,Oakland Athletics,Brayan Bello,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Jordan Diaz,Oakland Athletics,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+23,Jordan Diaz,Oakland Athletics,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Jordan Diaz,Oakland Athletics,Chris Murphy,Boston Red Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+25,Jordan Diaz,Oakland Athletics,James Paxton,Boston Red Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Jordan Diaz,Oakland Athletics,Nick Pivetta,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Jordan Diaz,Oakland Athletics,Brandon Walter,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Jordan Diaz,Oakland Athletics,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Jordan Diaz,Oakland Athletics,Tommy Henry,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Jordan Diaz,Oakland Athletics,Merrill Kelly,Arizona Diamondbacks,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+31,Jordan Diaz,Oakland Athletics,Hunter Greene,Cincinnati Reds,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+32,Jordan Diaz,Oakland Athletics,Luis Cessa,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Jordan Diaz,Oakland Athletics,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Jordan Diaz,Oakland Athletics,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Jordan Diaz,Oakland Athletics,Casey Legumina,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Jordan Diaz,Oakland Athletics,Nick Lodolo,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Jordan Diaz,Oakland Athletics,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Jordan Diaz,Oakland Athletics,Justin Steele,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+39,Jordan Diaz,Oakland Athletics,Hunter Brown,Houston Astros,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+40,Jordan Diaz,Oakland Athletics,Rafael Montero,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+41,Jordan Diaz,Oakland Athletics,Framber Valdez,Houston Astros,5,1,0,0,0,2,1,0,0,.200,.333,.200,.533
+42,Jordan Diaz,Oakland Athletics,Bryan Abreu,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Jordan Diaz,Oakland Athletics,Brandon Bielak,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+44,Jordan Diaz,Oakland Athletics,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Jordan Diaz,Oakland Athletics,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Jordan Diaz,Oakland Athletics,Joe Ryan,Minnesota Twins,2,1,0,0,1,2,0,0,1,.500,.333,2.000,2.333
+47,Jordan Diaz,Oakland Athletics,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Jordan Diaz,Oakland Athletics,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Jordan Diaz,Oakland Athletics,Albert Abreu,New York Yankees,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+50,Jordan Diaz,Oakland Athletics,Greg Weissert,New York Yankees,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+51,Jordan Diaz,Oakland Athletics,Nestor Cortes,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+52,Jordan Diaz,Oakland Athletics,Clarke Schmidt,New York Yankees,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+53,Jordan Diaz,Oakland Athletics,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Jordan Diaz,Oakland Athletics,Jimmy Cordero,New York Yankees,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+55,Jordan Diaz,Oakland Athletics,Deivi Garcia,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Jordan Diaz,Oakland Athletics,Reynaldo Lopez,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+57,Jordan Diaz,Oakland Athletics,Dylan Cease,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+58,Jordan Diaz,Oakland Athletics,Tanner Banks,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Jordan Diaz,Oakland Athletics,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Jordan Diaz,Oakland Athletics,Gregory Santos,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+61,Jordan Diaz,Oakland Athletics,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Jordan Diaz,Oakland Athletics,Ryan Yarbrough,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Jordan Diaz,Oakland Athletics,Eduardo Rodriguez,Detroit Tigers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+64,Jordan Diaz,Oakland Athletics,Brendan White,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+65,Jordan Diaz,Oakland Athletics,Zach Logue,Detroit Tigers,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+66,Jordan Diaz,Oakland Athletics,Michael Lorenzen,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+67,Jordan Diaz,Oakland Athletics,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Jordan Diaz,Oakland Athletics,Reese Olson,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Jordan Diaz,Oakland Athletics,Tarik Skubal,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

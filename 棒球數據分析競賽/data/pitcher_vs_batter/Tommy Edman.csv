@@ -1,0 +1,169 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Tommy Edman,St. Louis Cardinals,Dylan Dodd,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+1,Tommy Edman,St. Louis Cardinals,Charlie Morton,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+2,Tommy Edman,St. Louis Cardinals,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Tommy Edman,St. Louis Cardinals,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Tommy Edman,St. Louis Cardinals,Collin McHugh,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+5,Tommy Edman,St. Louis Cardinals,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Tommy Edman,St. Louis Cardinals,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Tommy Edman,St. Louis Cardinals,Grant Anderson,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Tommy Edman,St. Louis Cardinals,Dane Dunning,Texas Rangers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+9,Tommy Edman,St. Louis Cardinals,Jon Gray,Texas Rangers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+10,Tommy Edman,St. Louis Cardinals,Martin Perez,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Tommy Edman,St. Louis Cardinals,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Tommy Edman,St. Louis Cardinals,Justin Bruihl,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Tommy Edman,St. Louis Cardinals,Victor Gonzalez,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+14,Tommy Edman,St. Louis Cardinals,Wander Suero,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+15,Tommy Edman,St. Louis Cardinals,Noah Syndergaard,Los Angeles Dodgers,4,1,1,0,0,0,0,0,0,.250,.250,.500,.750
+16,Tommy Edman,St. Louis Cardinals,Clayton Kershaw,Los Angeles Dodgers,5,1,1,0,0,1,0,0,0,.200,.200,.400,.600
+17,Tommy Edman,St. Louis Cardinals,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Tommy Edman,St. Louis Cardinals,Julio Urias,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Tommy Edman,St. Louis Cardinals,Alex Vesia,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+20,Tommy Edman,St. Louis Cardinals,Tucker Davidson,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Tommy Edman,St. Louis Cardinals,Matt Moore,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Tommy Edman,St. Louis Cardinals,Griffin Canning,Los Angeles Angels,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+23,Tommy Edman,St. Louis Cardinals,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Tommy Edman,St. Louis Cardinals,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Tommy Edman,St. Louis Cardinals,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Tommy Edman,St. Louis Cardinals,Patrick Sandoval,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Tommy Edman,St. Louis Cardinals,Chase Silseth,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Tommy Edman,St. Louis Cardinals,Kenley Jansen,Boston Red Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+29,Tommy Edman,St. Louis Cardinals,Chris Sale,Boston Red Sox,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+30,Tommy Edman,St. Louis Cardinals,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Tommy Edman,St. Louis Cardinals,James Paxton,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+32,Tommy Edman,St. Louis Cardinals,Madison Bumgarner,Arizona Diamondbacks,2,2,1,0,1,3,1,0,0,1.000,1.000,3.000,4.000
+33,Tommy Edman,St. Louis Cardinals,Peter Solomon,Arizona Diamondbacks,1,1,0,1,0,2,0,0,0,1.000,1.000,3.000,4.000
+34,Tommy Edman,St. Louis Cardinals,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+35,Tommy Edman,St. Louis Cardinals,Drey Jameson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Tommy Edman,St. Louis Cardinals,Merrill Kelly,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Tommy Edman,St. Louis Cardinals,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Tommy Edman,St. Louis Cardinals,Jose Ruiz,Arizona Diamondbacks,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+39,Tommy Edman,St. Louis Cardinals,Graham Ashcraft,Cincinnati Reds,1,1,0,1,0,3,0,0,0,1.000,.500,3.000,3.500
+40,Tommy Edman,St. Louis Cardinals,Alan Busenitz,Cincinnati Reds,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+41,Tommy Edman,St. Louis Cardinals,Andrew Abbott,Cincinnati Reds,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+42,Tommy Edman,St. Louis Cardinals,Ben Lively,Cincinnati Reds,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+43,Tommy Edman,St. Louis Cardinals,Silvino Bracho,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Tommy Edman,St. Louis Cardinals,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+45,Tommy Edman,St. Louis Cardinals,Ian Gibaut,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Tommy Edman,St. Louis Cardinals,Hunter Greene,Cincinnati Reds,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+47,Tommy Edman,St. Louis Cardinals,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Tommy Edman,St. Louis Cardinals,Joel Kuhnel,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Tommy Edman,St. Louis Cardinals,Eduardo Salazar,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Tommy Edman,St. Louis Cardinals,Lucas Sims,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Tommy Edman,St. Louis Cardinals,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Tommy Edman,St. Louis Cardinals,Brandon Williamson,Cincinnati Reds,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Tommy Edman,St. Louis Cardinals,Alek Manoah,Toronto Blue Jays,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+54,Tommy Edman,St. Louis Cardinals,Chris Bassitt,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+55,Tommy Edman,St. Louis Cardinals,Kevin Gausman,Toronto Blue Jays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+56,Tommy Edman,St. Louis Cardinals,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Tommy Edman,St. Louis Cardinals,Adam Cimber,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Tommy Edman,St. Louis Cardinals,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Tommy Edman,St. Louis Cardinals,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Tommy Edman,St. Louis Cardinals,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Tommy Edman,St. Louis Cardinals,Keegan Thompson,Chicago Cubs,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+62,Tommy Edman,St. Louis Cardinals,Marcus Stroman,Chicago Cubs,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+63,Tommy Edman,St. Louis Cardinals,Justin Steele,Chicago Cubs,5,1,1,0,0,0,0,0,2,.200,.200,.400,.600
+64,Tommy Edman,St. Louis Cardinals,Adbert Alzolay,Chicago Cubs,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+65,Tommy Edman,St. Louis Cardinals,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Tommy Edman,St. Louis Cardinals,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Tommy Edman,St. Louis Cardinals,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Tommy Edman,St. Louis Cardinals,Julian Merryweather,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Tommy Edman,St. Louis Cardinals,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Tommy Edman,St. Louis Cardinals,Shawn Dubin,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Tommy Edman,St. Louis Cardinals,J.P. France,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Tommy Edman,St. Louis Cardinals,Cristian Javier,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Tommy Edman,St. Louis Cardinals,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Tommy Edman,St. Louis Cardinals,Framber Valdez,Houston Astros,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+75,Tommy Edman,St. Louis Cardinals,Jesus Luzardo,Miami Marlins,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+76,Tommy Edman,St. Louis Cardinals,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Tommy Edman,St. Louis Cardinals,Braxton Garrett,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Tommy Edman,St. Louis Cardinals,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Tommy Edman,St. Louis Cardinals,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Tommy Edman,St. Louis Cardinals,Jacob Stallings,Miami Marlins,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+81,Tommy Edman,St. Louis Cardinals,Kyle Finnegan,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+82,Tommy Edman,St. Louis Cardinals,Josiah Gray,Washington Nationals,2,2,0,1,0,1,0,0,0,1.000,1.000,2.000,3.000
+83,Tommy Edman,St. Louis Cardinals,MacKenzie Gore,Washington Nationals,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+84,Tommy Edman,St. Louis Cardinals,Carl Edwards Jr.,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+85,Tommy Edman,St. Louis Cardinals,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Tommy Edman,St. Louis Cardinals,Chad Kuhl,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+87,Tommy Edman,St. Louis Cardinals,Thaddeus Ward,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+88,Tommy Edman,St. Louis Cardinals,Trevor Williams,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Tommy Edman,St. Louis Cardinals,Tristan Beck,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+90,Tommy Edman,St. Louis Cardinals,Anthony DeSclafani,San Francisco Giants,1,1,0,0,1,4,0,0,0,1.000,1.000,4.000,5.000
+91,Tommy Edman,St. Louis Cardinals,Sean Manaea,San Francisco Giants,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+92,Tommy Edman,St. Louis Cardinals,Alex Cobb,San Francisco Giants,4,1,0,0,0,0,1,0,0,.250,.400,.250,.650
+93,Tommy Edman,St. Louis Cardinals,Logan Webb,San Francisco Giants,6,1,0,0,0,1,0,0,1,.167,.167,.167,.334
+94,Tommy Edman,St. Louis Cardinals,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Tommy Edman,St. Louis Cardinals,Camilo Doval,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+96,Tommy Edman,St. Louis Cardinals,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Tommy Edman,St. Louis Cardinals,Jakob Junis,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Tommy Edman,St. Louis Cardinals,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Tommy Edman,St. Louis Cardinals,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Tommy Edman,St. Louis Cardinals,Keaton Winn,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Tommy Edman,St. Louis Cardinals,Kodai Senga,New York Mets,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+102,Tommy Edman,St. Louis Cardinals,Carlos Carrasco,New York Mets,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+103,Tommy Edman,St. Louis Cardinals,John Curtiss,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+104,Tommy Edman,St. Louis Cardinals,Tylor Megill,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Tommy Edman,St. Louis Cardinals,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Tommy Edman,St. Louis Cardinals,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Tommy Edman,St. Louis Cardinals,Josh Walker,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Tommy Edman,St. Louis Cardinals,Kyle Freeland,Colorado Rockies,3,3,1,0,1,1,0,0,0,1.000,1.000,2.333,3.333
+109,Tommy Edman,St. Louis Cardinals,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Tommy Edman,St. Louis Cardinals,Pierce Johnson,Colorado Rockies,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Tommy Edman,St. Louis Cardinals,Justin Lawrence,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+112,Tommy Edman,St. Louis Cardinals,German Marquez,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Tommy Edman,St. Louis Cardinals,Jimmy Cordero,New York Yankees,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+114,Tommy Edman,St. Louis Cardinals,Ron Marinaccio,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+115,Tommy Edman,St. Louis Cardinals,Matt Krook,New York Yankees,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+116,Tommy Edman,St. Louis Cardinals,Luis Severino,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+117,Tommy Edman,St. Louis Cardinals,Gerrit Cole,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Tommy Edman,St. Louis Cardinals,Clay Holmes,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+119,Tommy Edman,St. Louis Cardinals,Michael King,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Tommy Edman,St. Louis Cardinals,Paul Sewald,Seattle Mariners,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+121,Tommy Edman,St. Louis Cardinals,Luis Castillo,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+122,Tommy Edman,St. Louis Cardinals,George Kirby,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Tommy Edman,St. Louis Cardinals,Penn Murfee,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Tommy Edman,St. Louis Cardinals,Tayler Saucedo,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+125,Tommy Edman,St. Louis Cardinals,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Tommy Edman,St. Louis Cardinals,Emmanuel Clase,Cleveland Guardians,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+127,Tommy Edman,St. Louis Cardinals,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+128,Tommy Edman,St. Louis Cardinals,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+129,Tommy Edman,St. Louis Cardinals,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Tommy Edman,St. Louis Cardinals,Hunter Gaddis,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+131,Tommy Edman,St. Louis Cardinals,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Tommy Edman,St. Louis Cardinals,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Tommy Edman,St. Louis Cardinals,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Tommy Edman,St. Louis Cardinals,Wil Crowe,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+135,Tommy Edman,St. Louis Cardinals,Rob Zastryzny,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+136,Tommy Edman,St. Louis Cardinals,Rich Hill,Pittsburgh Pirates,3,2,1,0,0,0,1,0,0,.667,.750,1.000,1.750
+137,Tommy Edman,St. Louis Cardinals,Mitch Keller,Pittsburgh Pirates,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+138,Tommy Edman,St. Louis Cardinals,Roansy Contreras,Pittsburgh Pirates,3,1,1,0,0,0,1,1,0,.333,.500,.667,1.167
+139,Tommy Edman,St. Louis Cardinals,David Bednar,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Tommy Edman,St. Louis Cardinals,Cody Bolton,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Tommy Edman,St. Louis Cardinals,Yerry De Los Santos,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Tommy Edman,St. Louis Cardinals,Dauri Moreta,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Tommy Edman,St. Louis Cardinals,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+144,Tommy Edman,St. Louis Cardinals,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Tommy Edman,St. Louis Cardinals,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Tommy Edman,St. Louis Cardinals,Duane Underwood Jr.,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+147,Tommy Edman,St. Louis Cardinals,Vince Velasquez,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Tommy Edman,St. Louis Cardinals,Hoby Milner,Milwaukee Brewers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+149,Tommy Edman,St. Louis Cardinals,Joel Payamps,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+150,Tommy Edman,St. Louis Cardinals,Eric Lauer,Milwaukee Brewers,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+151,Tommy Edman,St. Louis Cardinals,Gus Varland,Milwaukee Brewers,3,2,0,0,1,2,1,0,1,.667,.750,1.667,2.417
+152,Tommy Edman,St. Louis Cardinals,Freddy Peralta,Milwaukee Brewers,4,2,0,0,0,0,1,0,0,.500,.600,.500,1.100
+153,Tommy Edman,St. Louis Cardinals,Peter Strzelecki,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+154,Tommy Edman,St. Louis Cardinals,Corbin Burnes,Milwaukee Brewers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+155,Tommy Edman,St. Louis Cardinals,Matt Bush,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Tommy Edman,St. Louis Cardinals,Javy Guerra,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,Tommy Edman,St. Louis Cardinals,Wade Miley,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Tommy Edman,St. Louis Cardinals,Brandon Woodruff,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+159,Tommy Edman,St. Louis Cardinals,Matthew Boyd,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+160,Tommy Edman,St. Louis Cardinals,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+161,Tommy Edman,St. Louis Cardinals,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Tommy Edman,St. Louis Cardinals,Alex Faedo,Detroit Tigers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+163,Tommy Edman,St. Louis Cardinals,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+164,Tommy Edman,St. Louis Cardinals,Aroldis Chapman,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+165,Tommy Edman,St. Louis Cardinals,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+166,Tommy Edman,St. Louis Cardinals,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Tommy Edman,St. Louis Cardinals,Mike Mayers,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

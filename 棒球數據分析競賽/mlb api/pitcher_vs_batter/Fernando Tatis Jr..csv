@@ -1,0 +1,193 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Fernando Tatis Jr.,San Diego Padres,Caleb Ferguson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Fernando Tatis Jr.,San Diego Padres,Tony Gonsolin,Los Angeles Dodgers,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+2,Fernando Tatis Jr.,San Diego Padres,Brusdar Graterol,Los Angeles Dodgers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+3,Fernando Tatis Jr.,San Diego Padres,Clayton Kershaw,Los Angeles Dodgers,3,2,0,0,2,3,0,0,1,.667,.667,2.667,3.334
+4,Fernando Tatis Jr.,San Diego Padres,Dustin May,Los Angeles Dodgers,6,3,0,0,0,0,0,0,0,.500,.500,.500,1.000
+5,Fernando Tatis Jr.,San Diego Padres,Julio Urias,Los Angeles Dodgers,6,1,1,0,0,0,0,0,1,.167,.167,.333,.500
+6,Fernando Tatis Jr.,San Diego Padres,Yency Almonte,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Fernando Tatis Jr.,San Diego Padres,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Fernando Tatis Jr.,San Diego Padres,Victor Gonzalez,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+9,Fernando Tatis Jr.,San Diego Padres,Evan Phillips,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Fernando Tatis Jr.,San Diego Padres,Wander Suero,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Fernando Tatis Jr.,San Diego Padres,Sam Bachman,Los Angeles Angels,2,2,0,1,0,3,0,0,0,1.000,1.000,2.000,3.000
+12,Fernando Tatis Jr.,San Diego Padres,Victor Mederos,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Fernando Tatis Jr.,San Diego Padres,Jacob Webb,Los Angeles Angels,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+14,Fernando Tatis Jr.,San Diego Padres,Chris Devenski,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+15,Fernando Tatis Jr.,San Diego Padres,Patrick Sandoval,Los Angeles Angels,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+16,Fernando Tatis Jr.,San Diego Padres,Jaime Barria,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Fernando Tatis Jr.,San Diego Padres,Shohei Ohtani,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Fernando Tatis Jr.,San Diego Padres,Gerardo Reyes,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Fernando Tatis Jr.,San Diego Padres,Zack Littell,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Fernando Tatis Jr.,San Diego Padres,Yonny Chirinos,Tampa Bay Rays,2,1,0,0,0,0,0,0,1,.500,.667,.500,1.167
+21,Fernando Tatis Jr.,San Diego Padres,Zach Eflin,Tampa Bay Rays,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+22,Fernando Tatis Jr.,San Diego Padres,Shane McClanahan,Tampa Bay Rays,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+23,Fernando Tatis Jr.,San Diego Padres,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Fernando Tatis Jr.,San Diego Padres,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Fernando Tatis Jr.,San Diego Padres,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Fernando Tatis Jr.,San Diego Padres,James Paxton,Boston Red Sox,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+27,Fernando Tatis Jr.,San Diego Padres,Chris Sale,Boston Red Sox,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+28,Fernando Tatis Jr.,San Diego Padres,Corey Kluber,Boston Red Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+29,Fernando Tatis Jr.,San Diego Padres,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Fernando Tatis Jr.,San Diego Padres,Nick Pivetta,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Fernando Tatis Jr.,San Diego Padres,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Fernando Tatis Jr.,San Diego Padres,Drey Jameson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Fernando Tatis Jr.,San Diego Padres,Merrill Kelly,Arizona Diamondbacks,2,1,0,0,1,1,1,0,1,.500,.667,2.000,2.667
+34,Fernando Tatis Jr.,San Diego Padres,Zac Gallen,Arizona Diamondbacks,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+35,Fernando Tatis Jr.,San Diego Padres,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Fernando Tatis Jr.,San Diego Padres,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Fernando Tatis Jr.,San Diego Padres,Scott McGough,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Fernando Tatis Jr.,San Diego Padres,Anthony Misiewicz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Fernando Tatis Jr.,San Diego Padres,Ryne Nelson,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Fernando Tatis Jr.,San Diego Padres,Jose Ruiz,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Fernando Tatis Jr.,San Diego Padres,Peter Solomon,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Fernando Tatis Jr.,San Diego Padres,Alec Mills,Cincinnati Reds,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+43,Fernando Tatis Jr.,San Diego Padres,Reiver Sanmartin,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+44,Fernando Tatis Jr.,San Diego Padres,Luke Weaver,Cincinnati Reds,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+45,Fernando Tatis Jr.,San Diego Padres,Ian Gibaut,Cincinnati Reds,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+46,Fernando Tatis Jr.,San Diego Padres,Brandon Williamson,Cincinnati Reds,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+47,Fernando Tatis Jr.,San Diego Padres,Andrew Abbott,Cincinnati Reds,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+48,Fernando Tatis Jr.,San Diego Padres,Lucas Sims,Cincinnati Reds,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+49,Fernando Tatis Jr.,San Diego Padres,Graham Ashcraft,Cincinnati Reds,6,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Fernando Tatis Jr.,San Diego Padres,Luis Cessa,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Fernando Tatis Jr.,San Diego Padres,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Fernando Tatis Jr.,San Diego Padres,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Fernando Tatis Jr.,San Diego Padres,Casey Legumina,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+54,Fernando Tatis Jr.,San Diego Padres,Eduardo Salazar,Cincinnati Reds,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+55,Fernando Tatis Jr.,San Diego Padres,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Fernando Tatis Jr.,San Diego Padres,Yimi Garcia,Toronto Blue Jays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+57,Fernando Tatis Jr.,San Diego Padres,Alek Manoah,Toronto Blue Jays,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+58,Fernando Tatis Jr.,San Diego Padres,Trevor Richards,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+59,Fernando Tatis Jr.,San Diego Padres,Erik Swanson,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+60,Fernando Tatis Jr.,San Diego Padres,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Fernando Tatis Jr.,San Diego Padres,Jose Berrios,Toronto Blue Jays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+62,Fernando Tatis Jr.,San Diego Padres,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Fernando Tatis Jr.,San Diego Padres,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Fernando Tatis Jr.,San Diego Padres,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Fernando Tatis Jr.,San Diego Padres,Gregory Soto,Philadelphia Phillies,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+66,Fernando Tatis Jr.,San Diego Padres,Cristopher Sanchez,Philadelphia Phillies,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+67,Fernando Tatis Jr.,San Diego Padres,Ranger Suarez,Philadelphia Phillies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+68,Fernando Tatis Jr.,San Diego Padres,Andrew Bellatti,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Fernando Tatis Jr.,San Diego Padres,Dylan Covey,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Fernando Tatis Jr.,San Diego Padres,Jeff Hoffman,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Fernando Tatis Jr.,San Diego Padres,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Fernando Tatis Jr.,San Diego Padres,Yunior Marte,Philadelphia Phillies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+73,Fernando Tatis Jr.,San Diego Padres,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Fernando Tatis Jr.,San Diego Padres,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+75,Fernando Tatis Jr.,San Diego Padres,Jeremiah Estrada,Chicago Cubs,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+76,Fernando Tatis Jr.,San Diego Padres,Brandon Hughes,Chicago Cubs,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+77,Fernando Tatis Jr.,San Diego Padres,Julian Merryweather,Chicago Cubs,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+78,Fernando Tatis Jr.,San Diego Padres,Justin Steele,Chicago Cubs,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+79,Fernando Tatis Jr.,San Diego Padres,Marcus Stroman,Chicago Cubs,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+80,Fernando Tatis Jr.,San Diego Padres,Jameson Taillon,Chicago Cubs,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+81,Fernando Tatis Jr.,San Diego Padres,Hayden Wesneski,Chicago Cubs,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+82,Fernando Tatis Jr.,San Diego Padres,Drew Smyly,Chicago Cubs,6,1,0,0,1,1,0,0,1,.167,.167,.667,.834
+83,Fernando Tatis Jr.,San Diego Padres,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Fernando Tatis Jr.,San Diego Padres,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Fernando Tatis Jr.,San Diego Padres,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Fernando Tatis Jr.,San Diego Padres,Kyle Hendricks,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Fernando Tatis Jr.,San Diego Padres,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Fernando Tatis Jr.,San Diego Padres,Keegan Thompson,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Fernando Tatis Jr.,San Diego Padres,Jorge Lopez,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+90,Fernando Tatis Jr.,San Diego Padres,Bailey Ober,Minnesota Twins,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+91,Fernando Tatis Jr.,San Diego Padres,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Fernando Tatis Jr.,San Diego Padres,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Fernando Tatis Jr.,San Diego Padres,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Fernando Tatis Jr.,San Diego Padres,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+95,Fernando Tatis Jr.,San Diego Padres,Brock Stewart,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+96,Fernando Tatis Jr.,San Diego Padres,Louie Varland,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Fernando Tatis Jr.,San Diego Padres,Bryan Hoeing,Miami Marlins,1,1,1,0,0,3,0,0,0,1.000,1.000,2.000,3.000
+98,Fernando Tatis Jr.,San Diego Padres,Jacob Stallings,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+99,Fernando Tatis Jr.,San Diego Padres,Jesus Luzardo,Miami Marlins,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+100,Fernando Tatis Jr.,San Diego Padres,Sandy Alcantara,Miami Marlins,4,1,0,0,0,1,0,0,1,.250,.250,.250,.500
+101,Fernando Tatis Jr.,San Diego Padres,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Fernando Tatis Jr.,San Diego Padres,Dylan Floro,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+103,Fernando Tatis Jr.,San Diego Padres,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Fernando Tatis Jr.,San Diego Padres,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Fernando Tatis Jr.,San Diego Padres,Chad Kuhl,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+106,Fernando Tatis Jr.,San Diego Padres,Andres Machado,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+107,Fernando Tatis Jr.,San Diego Padres,Thaddeus Ward,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+108,Fernando Tatis Jr.,San Diego Padres,Patrick Corbin,Washington Nationals,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+109,Fernando Tatis Jr.,San Diego Padres,Josiah Gray,Washington Nationals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+110,Fernando Tatis Jr.,San Diego Padres,MacKenzie Gore,Washington Nationals,5,1,0,0,0,1,1,0,2,.200,.333,.200,.533
+111,Fernando Tatis Jr.,San Diego Padres,Paolo Espino,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,Fernando Tatis Jr.,San Diego Padres,Kyle Finnegan,Washington Nationals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+113,Fernando Tatis Jr.,San Diego Padres,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Fernando Tatis Jr.,San Diego Padres,Jake Irvin,Washington Nationals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+115,Fernando Tatis Jr.,San Diego Padres,Erasmo Ramirez,Washington Nationals,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+116,Fernando Tatis Jr.,San Diego Padres,Mason Thompson,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Fernando Tatis Jr.,San Diego Padres,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Fernando Tatis Jr.,San Diego Padres,Trevor Williams,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Fernando Tatis Jr.,San Diego Padres,Anthony DeSclafani,San Francisco Giants,3,3,0,0,1,1,0,0,0,1.000,1.000,2.000,3.000
+120,Fernando Tatis Jr.,San Diego Padres,Ryan Walker,San Francisco Giants,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+121,Fernando Tatis Jr.,San Diego Padres,Alex Cobb,San Francisco Giants,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+122,Fernando Tatis Jr.,San Diego Padres,Tyler Rogers,San Francisco Giants,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+123,Fernando Tatis Jr.,San Diego Padres,Jakob Junis,San Francisco Giants,5,1,0,0,1,2,0,0,1,.200,.200,.800,1.000
+124,Fernando Tatis Jr.,San Diego Padres,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Fernando Tatis Jr.,San Diego Padres,John Brebbia,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Fernando Tatis Jr.,San Diego Padres,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Fernando Tatis Jr.,San Diego Padres,Sean Hjelle,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Fernando Tatis Jr.,San Diego Padres,Luke Jackson,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Fernando Tatis Jr.,San Diego Padres,Sean Manaea,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Fernando Tatis Jr.,San Diego Padres,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Fernando Tatis Jr.,San Diego Padres,Keaton Winn,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Fernando Tatis Jr.,San Diego Padres,Alex Wood,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+133,Fernando Tatis Jr.,San Diego Padres,Max Scherzer,New York Mets,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+134,Fernando Tatis Jr.,San Diego Padres,David Peterson,New York Mets,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+135,Fernando Tatis Jr.,San Diego Padres,Justin Verlander,New York Mets,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+136,Fernando Tatis Jr.,San Diego Padres,Grant Hartwig,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Fernando Tatis Jr.,San Diego Padres,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Fernando Tatis Jr.,San Diego Padres,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Fernando Tatis Jr.,San Diego Padres,Jake Bird,Colorado Rockies,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+140,Fernando Tatis Jr.,San Diego Padres,Peter Lambert,Colorado Rockies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+141,Fernando Tatis Jr.,San Diego Padres,Dinelson Lamet,Colorado Rockies,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+142,Fernando Tatis Jr.,San Diego Padres,Austin Gomber,Colorado Rockies,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+143,Fernando Tatis Jr.,San Diego Padres,Kyle Freeland,Colorado Rockies,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+144,Fernando Tatis Jr.,San Diego Padres,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Fernando Tatis Jr.,San Diego Padres,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Fernando Tatis Jr.,San Diego Padres,Justin Lawrence,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+147,Fernando Tatis Jr.,San Diego Padres,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Fernando Tatis Jr.,San Diego Padres,Ron Marinaccio,New York Yankees,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+149,Fernando Tatis Jr.,San Diego Padres,Luis Severino,New York Yankees,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+150,Fernando Tatis Jr.,San Diego Padres,Gerrit Cole,New York Yankees,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+151,Fernando Tatis Jr.,San Diego Padres,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Fernando Tatis Jr.,San Diego Padres,Clay Holmes,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Fernando Tatis Jr.,San Diego Padres,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+154,Fernando Tatis Jr.,San Diego Padres,Randy Vasquez,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Fernando Tatis Jr.,San Diego Padres,Ryan Weber,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Fernando Tatis Jr.,San Diego Padres,Logan Gilbert,Seattle Mariners,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+157,Fernando Tatis Jr.,San Diego Padres,George Kirby,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+158,Fernando Tatis Jr.,San Diego Padres,Chris Flexen,Seattle Mariners,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+159,Fernando Tatis Jr.,San Diego Padres,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+160,Fernando Tatis Jr.,San Diego Padres,Tayler Saucedo,Seattle Mariners,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+161,Fernando Tatis Jr.,San Diego Padres,Sam Hentges,Cleveland Guardians,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+162,Fernando Tatis Jr.,San Diego Padres,Aaron Civale,Cleveland Guardians,3,2,1,0,1,1,0,0,0,.667,.667,2.000,2.667
+163,Fernando Tatis Jr.,San Diego Padres,Tanner Bibee,Cleveland Guardians,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+164,Fernando Tatis Jr.,San Diego Padres,Logan Allen,Cleveland Guardians,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+165,Fernando Tatis Jr.,San Diego Padres,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+166,Fernando Tatis Jr.,San Diego Padres,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Fernando Tatis Jr.,San Diego Padres,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+168,Fernando Tatis Jr.,San Diego Padres,Trevor Stephan,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+169,Fernando Tatis Jr.,San Diego Padres,Mitch Keller,Pittsburgh Pirates,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+170,Fernando Tatis Jr.,San Diego Padres,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+171,Fernando Tatis Jr.,San Diego Padres,Roansy Contreras,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+172,Fernando Tatis Jr.,San Diego Padres,Yerry De Los Santos,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Fernando Tatis Jr.,San Diego Padres,Rich Hill,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+174,Fernando Tatis Jr.,San Diego Padres,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+175,Fernando Tatis Jr.,San Diego Padres,Luis L. Ortiz,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Fernando Tatis Jr.,San Diego Padres,Mason Englert,Detroit Tigers,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+177,Fernando Tatis Jr.,San Diego Padres,Reese Olson,Detroit Tigers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+178,Fernando Tatis Jr.,San Diego Padres,Beau Brieske,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Fernando Tatis Jr.,San Diego Padres,Matt Manning,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+180,Fernando Tatis Jr.,San Diego Padres,Zack Short,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Fernando Tatis Jr.,San Diego Padres,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+182,Fernando Tatis Jr.,San Diego Padres,Brendan White,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+183,Fernando Tatis Jr.,San Diego Padres,Brad Keller,Kansas City Royals,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+184,Fernando Tatis Jr.,San Diego Padres,Brady Singer,Kansas City Royals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+185,Fernando Tatis Jr.,San Diego Padres,Max Castillo,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+186,Fernando Tatis Jr.,San Diego Padres,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+187,Fernando Tatis Jr.,San Diego Padres,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+188,Fernando Tatis Jr.,San Diego Padres,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+189,Fernando Tatis Jr.,San Diego Padres,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+190,Fernando Tatis Jr.,San Diego Padres,Mike Mayers,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+191,Fernando Tatis Jr.,San Diego Padres,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

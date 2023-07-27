@@ -1,0 +1,168 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Geraldo Perdomo,Arizona Diamondbacks,Bryce Elder,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Geraldo Perdomo,Arizona Diamondbacks,Raisel Iglesias,Atlanta Braves,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+2,Geraldo Perdomo,Arizona Diamondbacks,Charlie Morton,Atlanta Braves,4,2,0,0,0,0,0,0,0,.500,.500,.500,1.000
+3,Geraldo Perdomo,Arizona Diamondbacks,Michael Soroka,Atlanta Braves,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+4,Geraldo Perdomo,Arizona Diamondbacks,Jesse Chavez,Atlanta Braves,0,0,0,0,0,1,0,0,0,.000,1.000,.000,1.000
+5,Geraldo Perdomo,Arizona Diamondbacks,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Geraldo Perdomo,Arizona Diamondbacks,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Geraldo Perdomo,Arizona Diamondbacks,AJ Smith-Shawver,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Geraldo Perdomo,Arizona Diamondbacks,Spencer Strider,Atlanta Braves,4,0,0,0,0,0,1,0,0,.000,.200,.000,.200
+9,Geraldo Perdomo,Arizona Diamondbacks,Michael Tonkin,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Geraldo Perdomo,Arizona Diamondbacks,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Geraldo Perdomo,Arizona Diamondbacks,Ian Kennedy,Texas Rangers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+12,Geraldo Perdomo,Arizona Diamondbacks,Yerry Rodriguez,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Geraldo Perdomo,Arizona Diamondbacks,Will Smith,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+14,Geraldo Perdomo,Arizona Diamondbacks,Jon Gray,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+15,Geraldo Perdomo,Arizona Diamondbacks,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Geraldo Perdomo,Arizona Diamondbacks,Caleb Ferguson,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+17,Geraldo Perdomo,Arizona Diamondbacks,Evan Phillips,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Geraldo Perdomo,Arizona Diamondbacks,Andre Jackson,Los Angeles Dodgers,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+19,Geraldo Perdomo,Arizona Diamondbacks,Noah Syndergaard,Los Angeles Dodgers,4,2,1,0,1,3,0,0,2,.500,.500,1.500,2.000
+20,Geraldo Perdomo,Arizona Diamondbacks,Michael Grove,Los Angeles Dodgers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+21,Geraldo Perdomo,Arizona Diamondbacks,Yency Almonte,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+22,Geraldo Perdomo,Arizona Diamondbacks,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Geraldo Perdomo,Arizona Diamondbacks,Dustin May,Los Angeles Dodgers,2,0,0,0,0,0,2,0,2,.000,.500,.000,.500
+24,Geraldo Perdomo,Arizona Diamondbacks,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Geraldo Perdomo,Arizona Diamondbacks,Griffin Canning,Los Angeles Angels,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+26,Geraldo Perdomo,Arizona Diamondbacks,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Geraldo Perdomo,Arizona Diamondbacks,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Geraldo Perdomo,Arizona Diamondbacks,Victor Mederos,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Geraldo Perdomo,Arizona Diamondbacks,Jose Soriano,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+30,Geraldo Perdomo,Arizona Diamondbacks,Taj Bradley,Tampa Bay Rays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+31,Geraldo Perdomo,Arizona Diamondbacks,Shawn Armstrong,Tampa Bay Rays,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+32,Geraldo Perdomo,Arizona Diamondbacks,Yonny Chirinos,Tampa Bay Rays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Geraldo Perdomo,Arizona Diamondbacks,Pete Fairbanks,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+34,Geraldo Perdomo,Arizona Diamondbacks,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Geraldo Perdomo,Arizona Diamondbacks,Tanner Houck,Boston Red Sox,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+36,Geraldo Perdomo,Arizona Diamondbacks,Brennan Bernardino,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Geraldo Perdomo,Arizona Diamondbacks,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Geraldo Perdomo,Arizona Diamondbacks,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Geraldo Perdomo,Arizona Diamondbacks,Garrett Whitlock,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Geraldo Perdomo,Arizona Diamondbacks,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Geraldo Perdomo,Arizona Diamondbacks,Genesis Cabrera,St. Louis Cardinals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+42,Geraldo Perdomo,Arizona Diamondbacks,Zack Thompson,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+43,Geraldo Perdomo,Arizona Diamondbacks,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Geraldo Perdomo,Arizona Diamondbacks,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Geraldo Perdomo,Arizona Diamondbacks,Jake Woodford,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Geraldo Perdomo,Arizona Diamondbacks,Fernando Cruz,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+47,Geraldo Perdomo,Arizona Diamondbacks,Ben Lively,Cincinnati Reds,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+48,Geraldo Perdomo,Arizona Diamondbacks,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Geraldo Perdomo,Arizona Diamondbacks,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Geraldo Perdomo,Arizona Diamondbacks,Erik Swanson,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+51,Geraldo Perdomo,Arizona Diamondbacks,Chris Bassitt,Toronto Blue Jays,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+52,Geraldo Perdomo,Arizona Diamondbacks,Jose Berrios,Toronto Blue Jays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+53,Geraldo Perdomo,Arizona Diamondbacks,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+54,Geraldo Perdomo,Arizona Diamondbacks,Mitch White,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+55,Geraldo Perdomo,Arizona Diamondbacks,Craig Kimbrel,Philadelphia Phillies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+56,Geraldo Perdomo,Arizona Diamondbacks,Luis F. Ortiz,Philadelphia Phillies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+57,Geraldo Perdomo,Arizona Diamondbacks,Ranger Suarez,Philadelphia Phillies,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+58,Geraldo Perdomo,Arizona Diamondbacks,Aaron Nola,Philadelphia Phillies,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+59,Geraldo Perdomo,Arizona Diamondbacks,Dylan Covey,Philadelphia Phillies,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+60,Geraldo Perdomo,Arizona Diamondbacks,Zack Wheeler,Philadelphia Phillies,5,1,1,0,0,2,0,0,2,.200,.200,.400,.600
+61,Geraldo Perdomo,Arizona Diamondbacks,Andrew Bellatti,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+62,Geraldo Perdomo,Arizona Diamondbacks,Seranthony Dominguez,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+63,Geraldo Perdomo,Arizona Diamondbacks,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Geraldo Perdomo,Arizona Diamondbacks,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Geraldo Perdomo,Arizona Diamondbacks,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Geraldo Perdomo,Arizona Diamondbacks,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Geraldo Perdomo,Arizona Diamondbacks,Nabil Crismatt,San Diego Padres,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+68,Geraldo Perdomo,Arizona Diamondbacks,Reiss Knehr,San Diego Padres,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+69,Geraldo Perdomo,Arizona Diamondbacks,Michael Wacha,San Diego Padres,2,2,0,1,0,1,0,0,0,1.000,1.000,2.000,3.000
+70,Geraldo Perdomo,Arizona Diamondbacks,Seth Lugo,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+71,Geraldo Perdomo,Arizona Diamondbacks,Yu Darvish,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+72,Geraldo Perdomo,Arizona Diamondbacks,Luis Garcia,San Diego Padres,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+73,Geraldo Perdomo,Arizona Diamondbacks,Josh Hader,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Geraldo Perdomo,Arizona Diamondbacks,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Geraldo Perdomo,Arizona Diamondbacks,Ray Kerr,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Geraldo Perdomo,Arizona Diamondbacks,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Geraldo Perdomo,Arizona Diamondbacks,Ryan Weathers,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Geraldo Perdomo,Arizona Diamondbacks,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Geraldo Perdomo,Arizona Diamondbacks,George Soriano,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+80,Geraldo Perdomo,Arizona Diamondbacks,Edward Cabrera,Miami Marlins,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+81,Geraldo Perdomo,Arizona Diamondbacks,Sandy Alcantara,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Geraldo Perdomo,Arizona Diamondbacks,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Geraldo Perdomo,Arizona Diamondbacks,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Geraldo Perdomo,Arizona Diamondbacks,Cory Abbott,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,Geraldo Perdomo,Arizona Diamondbacks,Erasmo Ramirez,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+86,Geraldo Perdomo,Arizona Diamondbacks,Jake Irvin,Washington Nationals,3,1,0,0,0,0,2,0,0,.333,.600,.333,.933
+87,Geraldo Perdomo,Arizona Diamondbacks,Kyle Finnegan,Washington Nationals,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+88,Geraldo Perdomo,Arizona Diamondbacks,Josiah Gray,Washington Nationals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+89,Geraldo Perdomo,Arizona Diamondbacks,Hobie Harris,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+90,Geraldo Perdomo,Arizona Diamondbacks,Hunter Harvey,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+91,Geraldo Perdomo,Arizona Diamondbacks,Chad Kuhl,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+92,Geraldo Perdomo,Arizona Diamondbacks,Mason Thompson,Washington Nationals,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Geraldo Perdomo,Arizona Diamondbacks,Thaddeus Ward,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Geraldo Perdomo,Arizona Diamondbacks,Jordan Weems,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+95,Geraldo Perdomo,Arizona Diamondbacks,Trevor Williams,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Geraldo Perdomo,Arizona Diamondbacks,Taylor Rogers,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+97,Geraldo Perdomo,Arizona Diamondbacks,Ryan Walker,San Francisco Giants,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+98,Geraldo Perdomo,Arizona Diamondbacks,Keaton Winn,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+99,Geraldo Perdomo,Arizona Diamondbacks,Logan Webb,San Francisco Giants,7,1,1,0,0,0,0,0,1,.143,.143,.286,.429
+100,Geraldo Perdomo,Arizona Diamondbacks,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Geraldo Perdomo,Arizona Diamondbacks,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Geraldo Perdomo,Arizona Diamondbacks,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Geraldo Perdomo,Arizona Diamondbacks,Anthony DeSclafani,San Francisco Giants,5,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Geraldo Perdomo,Arizona Diamondbacks,Camilo Doval,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Geraldo Perdomo,Arizona Diamondbacks,Kodai Senga,New York Mets,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+106,Geraldo Perdomo,Arizona Diamondbacks,Carlos Carrasco,New York Mets,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+107,Geraldo Perdomo,Arizona Diamondbacks,Trevor Gott,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Geraldo Perdomo,Arizona Diamondbacks,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Geraldo Perdomo,Arizona Diamondbacks,Max Scherzer,New York Mets,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+110,Geraldo Perdomo,Arizona Diamondbacks,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Geraldo Perdomo,Arizona Diamondbacks,Connor Seabold,Colorado Rockies,3,2,0,0,0,1,1,0,0,.667,.750,.667,1.417
+112,Geraldo Perdomo,Arizona Diamondbacks,Noah Davis,Colorado Rockies,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+113,Geraldo Perdomo,Arizona Diamondbacks,Dinelson Lamet,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+114,Geraldo Perdomo,Arizona Diamondbacks,Jake Bird,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Geraldo Perdomo,Arizona Diamondbacks,Ty Blach,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Geraldo Perdomo,Arizona Diamondbacks,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Geraldo Perdomo,Arizona Diamondbacks,Brad Hand,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Geraldo Perdomo,Arizona Diamondbacks,Karl Kauffmann,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Geraldo Perdomo,Arizona Diamondbacks,Peter Lambert,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Geraldo Perdomo,Arizona Diamondbacks,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Geraldo Perdomo,Arizona Diamondbacks,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Geraldo Perdomo,Arizona Diamondbacks,Xzavion Curry,Cleveland Guardians,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+123,Geraldo Perdomo,Arizona Diamondbacks,Tanner Bibee,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+124,Geraldo Perdomo,Arizona Diamondbacks,Shane Bieber,Cleveland Guardians,4,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+125,Geraldo Perdomo,Arizona Diamondbacks,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Geraldo Perdomo,Arizona Diamondbacks,Eli Morgan,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+127,Geraldo Perdomo,Arizona Diamondbacks,Daniel Norris,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Geraldo Perdomo,Arizona Diamondbacks,Touki Toussaint,Cleveland Guardians,0,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+129,Geraldo Perdomo,Arizona Diamondbacks,Rob Zastryzny,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+130,Geraldo Perdomo,Arizona Diamondbacks,Colin Holderman,Pittsburgh Pirates,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+131,Geraldo Perdomo,Arizona Diamondbacks,Johan Oviedo,Pittsburgh Pirates,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+132,Geraldo Perdomo,Arizona Diamondbacks,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Geraldo Perdomo,Arizona Diamondbacks,Ryan Borucki,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Geraldo Perdomo,Arizona Diamondbacks,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+135,Geraldo Perdomo,Arizona Diamondbacks,Mitch Keller,Pittsburgh Pirates,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+136,Geraldo Perdomo,Arizona Diamondbacks,Carmen Mlodzinski,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+137,Geraldo Perdomo,Arizona Diamondbacks,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Geraldo Perdomo,Arizona Diamondbacks,Yohan Ramirez,Pittsburgh Pirates,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+139,Geraldo Perdomo,Arizona Diamondbacks,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Geraldo Perdomo,Arizona Diamondbacks,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Geraldo Perdomo,Arizona Diamondbacks,Adrian Houser,Milwaukee Brewers,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+142,Geraldo Perdomo,Arizona Diamondbacks,Janson Junk,Milwaukee Brewers,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+143,Geraldo Perdomo,Arizona Diamondbacks,Trevor Megill,Milwaukee Brewers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+144,Geraldo Perdomo,Arizona Diamondbacks,Hoby Milner,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+145,Geraldo Perdomo,Arizona Diamondbacks,Corbin Burnes,Milwaukee Brewers,4,1,1,0,0,0,1,0,2,.250,.400,.500,.900
+146,Geraldo Perdomo,Arizona Diamondbacks,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Geraldo Perdomo,Arizona Diamondbacks,Colin Rea,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Geraldo Perdomo,Arizona Diamondbacks,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Geraldo Perdomo,Arizona Diamondbacks,Julio Teheran,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+150,Geraldo Perdomo,Arizona Diamondbacks,Gus Varland,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Geraldo Perdomo,Arizona Diamondbacks,Devin Williams,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+152,Geraldo Perdomo,Arizona Diamondbacks,Jason Foley,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+153,Geraldo Perdomo,Arizona Diamondbacks,Garrett Hill,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+154,Geraldo Perdomo,Arizona Diamondbacks,Michael Lorenzen,Detroit Tigers,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+155,Geraldo Perdomo,Arizona Diamondbacks,Tyler Holton,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+156,Geraldo Perdomo,Arizona Diamondbacks,Scott Barlow,Kansas City Royals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+157,Geraldo Perdomo,Arizona Diamondbacks,Carlos Hernandez,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+158,Geraldo Perdomo,Arizona Diamondbacks,Brad Keller,Kansas City Royals,2,1,0,0,0,1,1,0,1,.500,.667,.500,1.167
+159,Geraldo Perdomo,Arizona Diamondbacks,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Geraldo Perdomo,Arizona Diamondbacks,Taylor Clarke,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+161,Geraldo Perdomo,Arizona Diamondbacks,Brady Singer,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+162,Geraldo Perdomo,Arizona Diamondbacks,Sam Long,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+163,Geraldo Perdomo,Arizona Diamondbacks,Drew Rucinski,Oakland Athletics,1,1,0,0,1,2,1,0,0,1.000,1.000,4.000,5.000
+164,Geraldo Perdomo,Arizona Diamondbacks,Adrian Martinez,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+165,Geraldo Perdomo,Arizona Diamondbacks,Luis Medina,Oakland Athletics,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+166,Geraldo Perdomo,Arizona Diamondbacks,Sam Moll,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

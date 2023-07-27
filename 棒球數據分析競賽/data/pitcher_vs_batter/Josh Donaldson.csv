@@ -1,0 +1,71 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Josh Donaldson,New York Yankees,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+1,Josh Donaldson,New York Yankees,Phil Bickford,Los Angeles Dodgers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+2,Josh Donaldson,New York Yankees,Clayton Kershaw,Los Angeles Dodgers,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+3,Josh Donaldson,New York Yankees,Michael Grove,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+4,Josh Donaldson,New York Yankees,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Josh Donaldson,New York Yankees,Tayler Scott,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Josh Donaldson,New York Yankees,Corey Kluber,Boston Red Sox,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+7,Josh Donaldson,New York Yankees,Garrett Whitlock,Boston Red Sox,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+8,Josh Donaldson,New York Yankees,Tanner Houck,Boston Red Sox,5,1,0,0,0,0,0,0,2,.200,.200,.200,.400
+9,Josh Donaldson,New York Yankees,Brayan Bello,Boston Red Sox,4,0,0,0,0,0,2,0,0,.000,.333,.000,.333
+10,Josh Donaldson,New York Yankees,Joe Jacques,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Josh Donaldson,New York Yankees,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Josh Donaldson,New York Yankees,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Josh Donaldson,New York Yankees,Josh Winckowski,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Josh Donaldson,New York Yankees,Dakota Hudson,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Josh Donaldson,New York Yankees,Matthew Liberatore,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Josh Donaldson,New York Yankees,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Josh Donaldson,New York Yankees,Dean Kremer,Baltimore Orioles,3,2,0,0,1,1,0,0,1,.667,.667,1.667,2.334
+18,Josh Donaldson,New York Yankees,Felix Bautista,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+19,Josh Donaldson,New York Yankees,Eduard Bazardo,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Josh Donaldson,New York Yankees,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+21,Josh Donaldson,New York Yankees,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Josh Donaldson,New York Yankees,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+23,Josh Donaldson,New York Yankees,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Josh Donaldson,New York Yankees,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Josh Donaldson,New York Yankees,Aaron Nola,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Josh Donaldson,New York Yankees,Matt Strahm,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Josh Donaldson,New York Yankees,Drew Smyly,Chicago Cubs,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+28,Josh Donaldson,New York Yankees,Kyle Hendricks,Chicago Cubs,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+29,Josh Donaldson,New York Yankees,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Josh Donaldson,New York Yankees,Julian Merryweather,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+31,Josh Donaldson,New York Yankees,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Josh Donaldson,New York Yankees,Jameson Taillon,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Josh Donaldson,New York Yankees,Taylor Rogers,San Francisco Giants,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+34,Josh Donaldson,New York Yankees,Logan Webb,San Francisco Giants,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+35,Josh Donaldson,New York Yankees,Alex Cobb,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Josh Donaldson,New York Yankees,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Josh Donaldson,New York Yankees,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Josh Donaldson,New York Yankees,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Josh Donaldson,New York Yankees,Ross Stripling,San Francisco Giants,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+40,Josh Donaldson,New York Yankees,Jeff Brigham,New York Mets,0,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+41,Josh Donaldson,New York Yankees,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Josh Donaldson,New York Yankees,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Josh Donaldson,New York Yankees,Justin Verlander,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Josh Donaldson,New York Yankees,Tommy Doyle,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Josh Donaldson,New York Yankees,Austin Gomber,Colorado Rockies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Josh Donaldson,New York Yankees,Gavin Hollowell,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Josh Donaldson,New York Yankees,Justin Lawrence,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+48,Josh Donaldson,New York Yankees,Connor Seabold,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Josh Donaldson,New York Yankees,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Josh Donaldson,New York Yankees,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Josh Donaldson,New York Yankees,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Josh Donaldson,New York Yankees,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Josh Donaldson,New York Yankees,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Josh Donaldson,New York Yankees,Bryan Woo,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Josh Donaldson,New York Yankees,Liam Hendriks,Chicago White Sox,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+56,Josh Donaldson,New York Yankees,Mike Clevinger,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Josh Donaldson,New York Yankees,Garrett Crochet,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Josh Donaldson,New York Yankees,Lucas Giolito,Chicago White Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+59,Josh Donaldson,New York Yankees,Kendall Graveman,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+60,Josh Donaldson,New York Yankees,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Josh Donaldson,New York Yankees,Sam Long,Oakland Athletics,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+62,Josh Donaldson,New York Yankees,Paul Blackburn,Oakland Athletics,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+63,Josh Donaldson,New York Yankees,Hogan Harris,Oakland Athletics,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+64,Josh Donaldson,New York Yankees,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Josh Donaldson,New York Yankees,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Josh Donaldson,New York Yankees,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Josh Donaldson,New York Yankees,Austin Pruitt,Oakland Athletics,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+68,Josh Donaldson,New York Yankees,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+69,Josh Donaldson,New York Yankees,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

@@ -1,0 +1,54 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Pablo Reyes,Boston Red Sox,Tyler Anderson,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+1,Pablo Reyes,Boston Red Sox,Jaime Barria,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Pablo Reyes,Boston Red Sox,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Pablo Reyes,Boston Red Sox,Reyes Moronta,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Pablo Reyes,Boston Red Sox,Jalen Beeks,Tampa Bay Rays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+5,Pablo Reyes,Boston Red Sox,Cooper Criswell,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+6,Pablo Reyes,Boston Red Sox,Calvin Faucher,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+7,Pablo Reyes,Boston Red Sox,Tyler Glasnow,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Pablo Reyes,Boston Red Sox,Trevor Kelley,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Pablo Reyes,Boston Red Sox,Joe La Sorsa,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Pablo Reyes,Boston Red Sox,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Pablo Reyes,Boston Red Sox,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Pablo Reyes,Boston Red Sox,Genesis Cabrera,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Pablo Reyes,Boston Red Sox,Steven Matz,St. Louis Cardinals,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+14,Pablo Reyes,Boston Red Sox,Miles Mikolas,St. Louis Cardinals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+15,Pablo Reyes,Boston Red Sox,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Pablo Reyes,Boston Red Sox,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Pablo Reyes,Boston Red Sox,Austin Adams,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Pablo Reyes,Boston Red Sox,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Pablo Reyes,Boston Red Sox,Kyle Nelson,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+20,Pablo Reyes,Boston Red Sox,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Pablo Reyes,Boston Red Sox,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Pablo Reyes,Boston Red Sox,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Pablo Reyes,Boston Red Sox,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Pablo Reyes,Boston Red Sox,Blake Snell,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Pablo Reyes,Boston Red Sox,Jose De Leon,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Pablo Reyes,Boston Red Sox,Pablo Lopez,Minnesota Twins,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+27,Pablo Reyes,Boston Red Sox,Joe Ryan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Pablo Reyes,Boston Red Sox,Brad Hand,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+29,Pablo Reyes,Boston Red Sox,Chase Anderson,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+30,Pablo Reyes,Boston Red Sox,Austin Gomber,Colorado Rockies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+31,Pablo Reyes,Boston Red Sox,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Pablo Reyes,Boston Red Sox,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Pablo Reyes,Boston Red Sox,Brent Suter,Colorado Rockies,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+34,Pablo Reyes,Boston Red Sox,Albert Abreu,New York Yankees,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+35,Pablo Reyes,Boston Red Sox,Matt Krook,New York Yankees,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+36,Pablo Reyes,Boston Red Sox,Domingo German,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Pablo Reyes,Boston Red Sox,Michael King,New York Yankees,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Pablo Reyes,Boston Red Sox,Ron Marinaccio,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Pablo Reyes,Boston Red Sox,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Pablo Reyes,Boston Red Sox,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Pablo Reyes,Boston Red Sox,Luis Severino,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Pablo Reyes,Boston Red Sox,Marco Gonzales,Seattle Mariners,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+43,Pablo Reyes,Boston Red Sox,Trevor Gott,Seattle Mariners,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+44,Pablo Reyes,Boston Red Sox,Juan Then,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+45,Pablo Reyes,Boston Red Sox,Chris Flexen,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+46,Pablo Reyes,Boston Red Sox,George Kirby,Seattle Mariners,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+47,Pablo Reyes,Boston Red Sox,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Pablo Reyes,Boston Red Sox,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Pablo Reyes,Boston Red Sox,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Pablo Reyes,Boston Red Sox,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Pablo Reyes,Boston Red Sox,Nick Sandlin,Cleveland Guardians,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+52,Pablo Reyes,Boston Red Sox,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500

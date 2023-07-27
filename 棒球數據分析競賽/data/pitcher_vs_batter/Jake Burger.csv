@@ -1,0 +1,162 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jake Burger,Chicago White Sox,Kolby Allard,Atlanta Braves,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+1,Jake Burger,Chicago White Sox,Spencer Strider,Atlanta Braves,3,2,1,0,1,1,0,0,1,.667,.667,2.000,2.667
+2,Jake Burger,Chicago White Sox,Ben Heller,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Jake Burger,Chicago White Sox,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Jake Burger,Chicago White Sox,Charlie Morton,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Jake Burger,Chicago White Sox,Michael Soroka,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Jake Burger,Chicago White Sox,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Jake Burger,Chicago White Sox,Andrew Heaney,Texas Rangers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+8,Jake Burger,Chicago White Sox,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Jake Burger,Chicago White Sox,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Jake Burger,Chicago White Sox,Nathan Eovaldi,Texas Rangers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+11,Jake Burger,Chicago White Sox,Martin Perez,Texas Rangers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Jake Burger,Chicago White Sox,Josh Sborz,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Jake Burger,Chicago White Sox,Yency Almonte,Los Angeles Dodgers,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+14,Jake Burger,Chicago White Sox,Michael Grove,Los Angeles Dodgers,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+15,Jake Burger,Chicago White Sox,Clayton Kershaw,Los Angeles Dodgers,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+16,Jake Burger,Chicago White Sox,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Jake Burger,Chicago White Sox,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+18,Jake Burger,Chicago White Sox,Tayler Scott,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+19,Jake Burger,Chicago White Sox,Tucker Davidson,Los Angeles Angels,2,2,1,0,1,1,0,0,0,1.000,1.000,3.000,4.000
+20,Jake Burger,Chicago White Sox,Chase Silseth,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Jake Burger,Chicago White Sox,Tyler Anderson,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+22,Jake Burger,Chicago White Sox,Sam Bachman,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+23,Jake Burger,Chicago White Sox,Carlos Estevez,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+24,Jake Burger,Chicago White Sox,Jaime Barria,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Jake Burger,Chicago White Sox,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+26,Jake Burger,Chicago White Sox,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Jake Burger,Chicago White Sox,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Jake Burger,Chicago White Sox,Patrick Sandoval,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+29,Jake Burger,Chicago White Sox,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Jake Burger,Chicago White Sox,Jacob Webb,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Jake Burger,Chicago White Sox,Calvin Faucher,Tampa Bay Rays,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+32,Jake Burger,Chicago White Sox,Zach Eflin,Tampa Bay Rays,4,2,0,0,1,1,0,0,1,.500,.500,1.250,1.750
+33,Jake Burger,Chicago White Sox,Jalen Beeks,Tampa Bay Rays,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+34,Jake Burger,Chicago White Sox,Kevin Kelly,Tampa Bay Rays,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+35,Jake Burger,Chicago White Sox,Shane McClanahan,Tampa Bay Rays,3,1,0,0,1,1,1,0,2,.333,.500,1.333,1.833
+36,Jake Burger,Chicago White Sox,Zack Burdi,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Jake Burger,Chicago White Sox,Yonny Chirinos,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Jake Burger,Chicago White Sox,Garrett Cleavinger,Tampa Bay Rays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+39,Jake Burger,Chicago White Sox,Cooper Criswell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Jake Burger,Chicago White Sox,Pete Fairbanks,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+41,Jake Burger,Chicago White Sox,Colin Poche,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Jake Burger,Chicago White Sox,Drew Rasmussen,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Jake Burger,Chicago White Sox,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Jake Burger,Chicago White Sox,Josh Winckowski,Boston Red Sox,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+45,Jake Burger,Chicago White Sox,Brayan Bello,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Jake Burger,Chicago White Sox,Kutter Crawford,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Jake Burger,Chicago White Sox,Kenley Jansen,Boston Red Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+48,Jake Burger,Chicago White Sox,James Paxton,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Jake Burger,Chicago White Sox,Dakota Hudson,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+50,Jake Burger,Chicago White Sox,Jordan Montgomery,St. Louis Cardinals,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+51,Jake Burger,Chicago White Sox,Andre Pallante,St. Louis Cardinals,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+52,Jake Burger,Chicago White Sox,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Jake Burger,Chicago White Sox,Kyle Leahy,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+54,Jake Burger,Chicago White Sox,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Jake Burger,Chicago White Sox,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+56,Jake Burger,Chicago White Sox,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Jake Burger,Chicago White Sox,Jose Berrios,Toronto Blue Jays,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+58,Jake Burger,Chicago White Sox,Yusei Kikuchi,Toronto Blue Jays,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+59,Jake Burger,Chicago White Sox,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.400,.000,.400
+60,Jake Burger,Chicago White Sox,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Jake Burger,Chicago White Sox,Nate Pearson,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Jake Burger,Chicago White Sox,Jordan Romano,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Jake Burger,Chicago White Sox,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Jake Burger,Chicago White Sox,Logan Gillaspie,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+65,Jake Burger,Chicago White Sox,Kyle Gibson,Baltimore Orioles,2,1,0,0,1,3,0,0,0,.500,.333,2.000,2.333
+66,Jake Burger,Chicago White Sox,Grayson Rodriguez,Baltimore Orioles,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+67,Jake Burger,Chicago White Sox,Tyler Wells,Baltimore Orioles,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+68,Jake Burger,Chicago White Sox,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Jake Burger,Chicago White Sox,Mike Baumann,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+70,Jake Burger,Chicago White Sox,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Jake Burger,Chicago White Sox,Bailey Falter,Philadelphia Phillies,2,1,0,0,1,3,1,0,0,.500,.667,2.000,2.667
+72,Jake Burger,Chicago White Sox,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Jake Burger,Chicago White Sox,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Jake Burger,Chicago White Sox,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+75,Jake Burger,Chicago White Sox,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+76,Jake Burger,Chicago White Sox,Hunter Brown,Houston Astros,3,2,0,0,1,2,0,0,1,.667,.667,1.667,2.334
+77,Jake Burger,Chicago White Sox,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Jake Burger,Chicago White Sox,Sonny Gray,Minnesota Twins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+79,Jake Burger,Chicago White Sox,Griffin Jax,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Jake Burger,Chicago White Sox,Jorge Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Jake Burger,Chicago White Sox,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+82,Jake Burger,Chicago White Sox,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+83,Jake Burger,Chicago White Sox,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Jake Burger,Chicago White Sox,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Jake Burger,Chicago White Sox,Joe Ryan,Minnesota Twins,5,0,0,0,0,0,0,0,5,.000,.000,.000,.000
+86,Jake Burger,Chicago White Sox,Louie Varland,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Jake Burger,Chicago White Sox,JT Chargois,Miami Marlins,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+88,Jake Burger,Chicago White Sox,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Jake Burger,Chicago White Sox,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Jake Burger,Chicago White Sox,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Jake Burger,Chicago White Sox,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Jake Burger,Chicago White Sox,Eury Perez,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+93,Jake Burger,Chicago White Sox,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Jake Burger,Chicago White Sox,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Jake Burger,Chicago White Sox,Alex Wood,San Francisco Giants,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+96,Jake Burger,Chicago White Sox,Trevor Gott,New York Mets,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+97,Jake Burger,Chicago White Sox,Carlos Carrasco,New York Mets,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+98,Jake Burger,Chicago White Sox,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Jake Burger,Chicago White Sox,Adam Ottavino,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Jake Burger,Chicago White Sox,Jose Quintana,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Jake Burger,Chicago White Sox,Drew Smith,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+102,Jake Burger,Chicago White Sox,Justin Verlander,New York Mets,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+103,Jake Burger,Chicago White Sox,Luis Severino,New York Yankees,3,2,1,0,1,2,0,0,1,.667,.667,2.000,2.667
+104,Jake Burger,Chicago White Sox,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Jake Burger,Chicago White Sox,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Jake Burger,Chicago White Sox,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Jake Burger,Chicago White Sox,Randy Vasquez,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Jake Burger,Chicago White Sox,Bryce Miller,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+109,Jake Burger,Chicago White Sox,Matt Brash,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+110,Jake Burger,Chicago White Sox,Logan Gilbert,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+111,Jake Burger,Chicago White Sox,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Jake Burger,Chicago White Sox,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Jake Burger,Chicago White Sox,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Jake Burger,Chicago White Sox,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Jake Burger,Chicago White Sox,Bryan Woo,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Jake Burger,Chicago White Sox,Peyton Battenfield,Cleveland Guardians,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+117,Jake Burger,Chicago White Sox,Shane Bieber,Cleveland Guardians,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+118,Jake Burger,Chicago White Sox,Xzavion Curry,Cleveland Guardians,2,1,0,1,0,0,0,0,1,.500,.500,1.500,2.000
+119,Jake Burger,Chicago White Sox,Logan Allen,Cleveland Guardians,6,1,0,0,0,0,0,0,3,.167,.167,.167,.334
+120,Jake Burger,Chicago White Sox,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Jake Burger,Chicago White Sox,Hunter Gaddis,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Jake Burger,Chicago White Sox,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Jake Burger,Chicago White Sox,Eli Morgan,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+124,Jake Burger,Chicago White Sox,Cal Quantrill,Cleveland Guardians,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+125,Jake Burger,Chicago White Sox,Nick Sandlin,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Jake Burger,Chicago White Sox,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Jake Burger,Chicago White Sox,Rich Hill,Pittsburgh Pirates,2,2,1,0,1,2,0,0,0,1.000,1.000,3.000,4.000
+128,Jake Burger,Chicago White Sox,Wil Crowe,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Jake Burger,Chicago White Sox,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Jake Burger,Chicago White Sox,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+131,Jake Burger,Chicago White Sox,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Jake Burger,Chicago White Sox,Jose Cuas,Kansas City Royals,1,1,1,0,0,3,0,0,0,1.000,1.000,2.000,3.000
+133,Jake Burger,Chicago White Sox,Zack Greinke,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+134,Jake Burger,Chicago White Sox,Jordan Lyles,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+135,Jake Burger,Chicago White Sox,Max Castillo,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Jake Burger,Chicago White Sox,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Jake Burger,Chicago White Sox,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+138,Jake Burger,Chicago White Sox,Jackson Kowar,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Jake Burger,Chicago White Sox,Tyler Alexander,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+140,Jake Burger,Chicago White Sox,Zack Short,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+141,Jake Burger,Chicago White Sox,Alex Faedo,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+142,Jake Burger,Chicago White Sox,Alex Lange,Detroit Tigers,2,1,0,0,1,4,0,0,0,.500,.500,2.000,2.500
+143,Jake Burger,Chicago White Sox,Eduardo Rodriguez,Detroit Tigers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+144,Jake Burger,Chicago White Sox,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+145,Jake Burger,Chicago White Sox,Jose Cisnero,Detroit Tigers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+146,Jake Burger,Chicago White Sox,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Jake Burger,Chicago White Sox,Jason Foley,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Jake Burger,Chicago White Sox,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+149,Jake Burger,Chicago White Sox,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Jake Burger,Chicago White Sox,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Jake Burger,Chicago White Sox,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Jake Burger,Chicago White Sox,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Jake Burger,Chicago White Sox,Rico Garcia,Oakland Athletics,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+154,Jake Burger,Chicago White Sox,Sam Moll,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+155,Jake Burger,Chicago White Sox,Paul Blackburn,Oakland Athletics,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+156,Jake Burger,Chicago White Sox,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,Jake Burger,Chicago White Sox,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+158,Jake Burger,Chicago White Sox,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Jake Burger,Chicago White Sox,Kyle Muller,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+160,Jake Burger,Chicago White Sox,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

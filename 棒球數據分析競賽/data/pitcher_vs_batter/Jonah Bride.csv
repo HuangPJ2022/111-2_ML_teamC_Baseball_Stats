@@ -1,0 +1,41 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jonah Bride,Oakland Athletics,Michael Soroka,Atlanta Braves,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Jonah Bride,Oakland Athletics,Bryce Elder,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Jonah Bride,Oakland Athletics,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Jonah Bride,Oakland Athletics,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Jonah Bride,Oakland Athletics,Jared Shuster,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Jonah Bride,Oakland Athletics,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Jonah Bride,Oakland Athletics,Zach Eflin,Tampa Bay Rays,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+7,Jonah Bride,Oakland Athletics,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Jonah Bride,Oakland Athletics,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Jonah Bride,Oakland Athletics,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Jonah Bride,Oakland Athletics,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Jonah Bride,Oakland Athletics,Tyler Glasnow,Tampa Bay Rays,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+12,Jonah Bride,Oakland Athletics,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Jonah Bride,Oakland Athletics,Colin Poche,Tampa Bay Rays,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Jonah Bride,Oakland Athletics,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Jonah Bride,Oakland Athletics,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Jonah Bride,Oakland Athletics,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Jonah Bride,Oakland Athletics,Cristopher Sanchez,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Jonah Bride,Oakland Athletics,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Jonah Bride,Oakland Athletics,Taijuan Walker,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Jonah Bride,Oakland Athletics,Framber Valdez,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Jonah Bride,Oakland Athletics,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+22,Jonah Bride,Oakland Athletics,JT Chargois,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+23,Jonah Bride,Oakland Athletics,Domingo German,New York Yankees,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+24,Jonah Bride,Oakland Athletics,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Jonah Bride,Oakland Athletics,Logan Allen,Cleveland Guardians,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+26,Jonah Bride,Oakland Athletics,Roansy Contreras,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+27,Jonah Bride,Oakland Athletics,Chase De Jong,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+28,Jonah Bride,Oakland Athletics,Yohan Ramirez,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+29,Jonah Bride,Oakland Athletics,Luis L. Ortiz,Pittsburgh Pirates,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+30,Jonah Bride,Oakland Athletics,Johan Oviedo,Pittsburgh Pirates,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+31,Jonah Bride,Oakland Athletics,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Jonah Bride,Oakland Athletics,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Jonah Bride,Oakland Athletics,Angel Perdomo,Pittsburgh Pirates,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+34,Jonah Bride,Oakland Athletics,Rob Zastryzny,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Jonah Bride,Oakland Athletics,Adrian Houser,Milwaukee Brewers,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+36,Jonah Bride,Oakland Athletics,Trevor Megill,Milwaukee Brewers,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+37,Jonah Bride,Oakland Athletics,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Jonah Bride,Oakland Athletics,Julio Teheran,Milwaukee Brewers,1,0,0,0,0,0,1,0,1,.000,.667,.000,.667
+39,Jonah Bride,Oakland Athletics,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

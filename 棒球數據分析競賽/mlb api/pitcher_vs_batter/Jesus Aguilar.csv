@@ -1,0 +1,57 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jesus Aguilar,Oakland Athletics,Josh Sborz,Texas Rangers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+1,Jesus Aguilar,Oakland Athletics,Andrew Heaney,Texas Rangers,5,1,0,0,0,0,0,0,1,.200,.333,.200,.533
+2,Jesus Aguilar,Oakland Athletics,Jose Leclerc,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Jesus Aguilar,Oakland Athletics,Martin Perez,Texas Rangers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+4,Jesus Aguilar,Oakland Athletics,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Jesus Aguilar,Oakland Athletics,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Jesus Aguilar,Oakland Athletics,Jacob deGrom,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Jesus Aguilar,Oakland Athletics,Tucker Davidson,Los Angeles Angels,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Jesus Aguilar,Oakland Athletics,Jose Quijada,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Jesus Aguilar,Oakland Athletics,Tyler Anderson,Los Angeles Angels,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+10,Jesus Aguilar,Oakland Athletics,Jose Suarez,Los Angeles Angels,3,2,0,0,2,2,0,0,0,.667,.667,2.667,3.334
+11,Jesus Aguilar,Oakland Athletics,Griffin Canning,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Jesus Aguilar,Oakland Athletics,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Jesus Aguilar,Oakland Athletics,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Jesus Aguilar,Oakland Athletics,Matt Moore,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Jesus Aguilar,Oakland Athletics,Shohei Ohtani,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+16,Jesus Aguilar,Oakland Athletics,Patrick Sandoval,Los Angeles Angels,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+17,Jesus Aguilar,Oakland Athletics,Chase Silseth,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Jesus Aguilar,Oakland Athletics,Ryan Tepera,Los Angeles Angels,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+19,Jesus Aguilar,Oakland Athletics,Zach Eflin,Tampa Bay Rays,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+20,Jesus Aguilar,Oakland Athletics,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Jesus Aguilar,Oakland Athletics,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Jesus Aguilar,Oakland Athletics,Drew Rasmussen,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Jesus Aguilar,Oakland Athletics,Jeffrey Springs,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+24,Jesus Aguilar,Oakland Athletics,Tommy Henry,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+25,Jesus Aguilar,Oakland Athletics,Nick Lodolo,Cincinnati Reds,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+26,Jesus Aguilar,Oakland Athletics,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Jesus Aguilar,Oakland Athletics,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Jesus Aguilar,Oakland Athletics,Mike Baumann,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+29,Jesus Aguilar,Oakland Athletics,Cionel Perez,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,.500,1.000,1.500
+30,Jesus Aguilar,Oakland Athletics,Logan Gillaspie,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+31,Jesus Aguilar,Oakland Athletics,Dean Kremer,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+32,Jesus Aguilar,Oakland Athletics,Cole Irvin,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Jesus Aguilar,Oakland Athletics,Grayson Rodriguez,Baltimore Orioles,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+34,Jesus Aguilar,Oakland Athletics,Austin Voth,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Jesus Aguilar,Oakland Athletics,Hayden Wesneski,Chicago Cubs,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+36,Jesus Aguilar,Oakland Athletics,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Jesus Aguilar,Oakland Athletics,Justin Steele,Chicago Cubs,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+38,Jesus Aguilar,Oakland Athletics,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Jesus Aguilar,Oakland Athletics,Framber Valdez,Houston Astros,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+40,Jesus Aguilar,Oakland Athletics,Carlos Carrasco,New York Mets,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+41,Jesus Aguilar,Oakland Athletics,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Jesus Aguilar,Oakland Athletics,Nestor Cortes,New York Yankees,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+43,Jesus Aguilar,Oakland Athletics,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Jesus Aguilar,Oakland Athletics,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Jesus Aguilar,Oakland Athletics,George Kirby,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+46,Jesus Aguilar,Oakland Athletics,Marco Gonzales,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Jesus Aguilar,Oakland Athletics,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Jesus Aguilar,Oakland Athletics,Penn Murfee,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Jesus Aguilar,Oakland Athletics,Tim Herrin,Cleveland Guardians,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+50,Jesus Aguilar,Oakland Athletics,Hunter Gaddis,Cleveland Guardians,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+51,Jesus Aguilar,Oakland Athletics,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Jesus Aguilar,Oakland Athletics,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Jesus Aguilar,Oakland Athletics,Enyel De Los Santos,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+54,Jesus Aguilar,Oakland Athletics,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,1,1,1,.000,.500,.000,.500
+55,Jesus Aguilar,Oakland Athletics,Ryan Yarbrough,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

@@ -1,0 +1,181 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Orlando Arcia,Atlanta Braves,Cody Bradford,Texas Rangers,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+1,Orlando Arcia,Atlanta Braves,Brock Burke,Texas Rangers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+2,Orlando Arcia,Atlanta Braves,Dane Dunning,Texas Rangers,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+3,Orlando Arcia,Atlanta Braves,Cole Ragans,Texas Rangers,1,1,0,0,1,2,1,0,0,1.000,1.000,4.000,5.000
+4,Orlando Arcia,Atlanta Braves,Nathan Eovaldi,Texas Rangers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+5,Orlando Arcia,Atlanta Braves,John King,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Orlando Arcia,Atlanta Braves,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Orlando Arcia,Atlanta Braves,Gavin Stone,Los Angeles Dodgers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Orlando Arcia,Atlanta Braves,Brusdar Graterol,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+9,Orlando Arcia,Atlanta Braves,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Orlando Arcia,Atlanta Braves,Tony Gonsolin,Los Angeles Dodgers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+11,Orlando Arcia,Atlanta Braves,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Orlando Arcia,Atlanta Braves,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Orlando Arcia,Atlanta Braves,Jake Diekman,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+14,Orlando Arcia,Atlanta Braves,Taj Bradley,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+15,Orlando Arcia,Atlanta Braves,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Orlando Arcia,Atlanta Braves,Tyler Glasnow,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+17,Orlando Arcia,Atlanta Braves,Javy Guerra,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Orlando Arcia,Atlanta Braves,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Orlando Arcia,Atlanta Braves,Elvin Rodriguez,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Orlando Arcia,Atlanta Braves,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Orlando Arcia,Atlanta Braves,Brennan Bernardino,Boston Red Sox,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+22,Orlando Arcia,Atlanta Braves,Nick Pivetta,Boston Red Sox,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Orlando Arcia,Atlanta Braves,Brayan Bello,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Orlando Arcia,Atlanta Braves,Zack Littell,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Orlando Arcia,Atlanta Braves,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Orlando Arcia,Atlanta Braves,Steven Matz,St. Louis Cardinals,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+27,Orlando Arcia,Atlanta Braves,Jake Woodford,St. Louis Cardinals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+28,Orlando Arcia,Atlanta Braves,Miles Mikolas,St. Louis Cardinals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+29,Orlando Arcia,Atlanta Braves,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Orlando Arcia,Atlanta Braves,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Orlando Arcia,Atlanta Braves,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Orlando Arcia,Atlanta Braves,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Orlando Arcia,Atlanta Braves,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Orlando Arcia,Atlanta Braves,Drey Jameson,Arizona Diamondbacks,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+35,Orlando Arcia,Atlanta Braves,Jose Ruiz,Arizona Diamondbacks,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+36,Orlando Arcia,Atlanta Braves,Zach Davies,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+37,Orlando Arcia,Atlanta Braves,Merrill Kelly,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+38,Orlando Arcia,Atlanta Braves,Zac Gallen,Arizona Diamondbacks,5,1,0,0,1,1,0,0,1,.200,.200,.800,1.000
+39,Orlando Arcia,Atlanta Braves,Miguel Castro,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Orlando Arcia,Atlanta Braves,Tyler Gilbert,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Orlando Arcia,Atlanta Braves,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Orlando Arcia,Atlanta Braves,Ryne Nelson,Arizona Diamondbacks,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Orlando Arcia,Atlanta Braves,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Orlando Arcia,Atlanta Braves,Ian Gibaut,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+45,Orlando Arcia,Atlanta Braves,Reiver Sanmartin,Cincinnati Reds,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+46,Orlando Arcia,Atlanta Braves,Fernando Cruz,Cincinnati Reds,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+47,Orlando Arcia,Atlanta Braves,Luke Weaver,Cincinnati Reds,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+48,Orlando Arcia,Atlanta Braves,Graham Ashcraft,Cincinnati Reds,4,1,0,0,0,0,1,0,3,.250,.400,.250,.650
+49,Orlando Arcia,Atlanta Braves,Silvino Bracho,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Orlando Arcia,Atlanta Braves,Luis Cessa,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Orlando Arcia,Atlanta Braves,Alexis Diaz,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Orlando Arcia,Atlanta Braves,Daniel Duarte,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Orlando Arcia,Atlanta Braves,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Orlando Arcia,Atlanta Braves,Hunter Greene,Cincinnati Reds,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+55,Orlando Arcia,Atlanta Braves,Kevin Herget,Cincinnati Reds,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+56,Orlando Arcia,Atlanta Braves,Levi Stoudt,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Orlando Arcia,Atlanta Braves,Randy Wynne,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Orlando Arcia,Atlanta Braves,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Orlando Arcia,Atlanta Braves,Jose Berrios,Toronto Blue Jays,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+60,Orlando Arcia,Atlanta Braves,Yusei Kikuchi,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+61,Orlando Arcia,Atlanta Braves,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Orlando Arcia,Atlanta Braves,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Orlando Arcia,Atlanta Braves,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Orlando Arcia,Atlanta Braves,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Orlando Arcia,Atlanta Braves,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Orlando Arcia,Atlanta Braves,Tyler Wells,Baltimore Orioles,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+67,Orlando Arcia,Atlanta Braves,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Orlando Arcia,Atlanta Braves,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Orlando Arcia,Atlanta Braves,Jeff Hoffman,Philadelphia Phillies,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+70,Orlando Arcia,Atlanta Braves,Andrew Vasquez,Philadelphia Phillies,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+71,Orlando Arcia,Atlanta Braves,Taijuan Walker,Philadelphia Phillies,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+72,Orlando Arcia,Atlanta Braves,Aaron Nola,Philadelphia Phillies,5,1,0,0,0,0,0,0,2,.200,.200,.200,.400
+73,Orlando Arcia,Atlanta Braves,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Orlando Arcia,Atlanta Braves,Dylan Covey,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Orlando Arcia,Atlanta Braves,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Orlando Arcia,Atlanta Braves,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Orlando Arcia,Atlanta Braves,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+78,Orlando Arcia,Atlanta Braves,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Orlando Arcia,Atlanta Braves,Ranger Suarez,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Orlando Arcia,Atlanta Braves,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+81,Orlando Arcia,Atlanta Braves,Nabil Crismatt,San Diego Padres,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+82,Orlando Arcia,Atlanta Braves,Tim Hill,San Diego Padres,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+83,Orlando Arcia,Atlanta Braves,Blake Snell,San Diego Padres,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+84,Orlando Arcia,Atlanta Braves,Seth Lugo,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+85,Orlando Arcia,Atlanta Braves,Luis Garcia,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Orlando Arcia,Atlanta Braves,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Orlando Arcia,Atlanta Braves,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Orlando Arcia,Atlanta Braves,Nick Martinez,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Orlando Arcia,Atlanta Braves,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+90,Orlando Arcia,Atlanta Braves,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+91,Orlando Arcia,Atlanta Braves,Sonny Gray,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Orlando Arcia,Atlanta Braves,Brent Headrick,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Orlando Arcia,Atlanta Braves,Kenta Maeda,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Orlando Arcia,Atlanta Braves,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Orlando Arcia,Atlanta Braves,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Orlando Arcia,Atlanta Braves,Joe Ryan,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Orlando Arcia,Atlanta Braves,Eury Perez,Miami Marlins,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+98,Orlando Arcia,Atlanta Braves,Sandy Alcantara,Miami Marlins,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+99,Orlando Arcia,Atlanta Braves,Archie Bradley,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Orlando Arcia,Atlanta Braves,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Orlando Arcia,Atlanta Braves,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Orlando Arcia,Atlanta Braves,Bryan Hoeing,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Orlando Arcia,Atlanta Braves,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Orlando Arcia,Atlanta Braves,Steven Okert,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Orlando Arcia,Atlanta Braves,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Orlando Arcia,Atlanta Braves,Patrick Corbin,Washington Nationals,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+107,Orlando Arcia,Atlanta Braves,Hobie Harris,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+108,Orlando Arcia,Atlanta Braves,Thaddeus Ward,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+109,Orlando Arcia,Atlanta Braves,Trevor Williams,Washington Nationals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+110,Orlando Arcia,Atlanta Braves,Carl Edwards Jr.,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+111,Orlando Arcia,Atlanta Braves,Kyle Finnegan,Washington Nationals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+112,Orlando Arcia,Atlanta Braves,Josiah Gray,Washington Nationals,4,1,0,0,0,1,0,0,1,.250,.250,.250,.500
+113,Orlando Arcia,Atlanta Braves,MacKenzie Gore,Washington Nationals,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+114,Orlando Arcia,Atlanta Braves,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Orlando Arcia,Atlanta Braves,Chad Kuhl,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Orlando Arcia,Atlanta Braves,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Orlando Arcia,Atlanta Braves,Mason Thompson,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Orlando Arcia,Atlanta Braves,David Robertson,New York Mets,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+119,Orlando Arcia,Atlanta Braves,Drew Smith,New York Mets,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+120,Orlando Arcia,Atlanta Braves,Justin Verlander,New York Mets,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+121,Orlando Arcia,Atlanta Braves,Max Scherzer,New York Mets,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+122,Orlando Arcia,Atlanta Braves,Adam Ottavino,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+123,Orlando Arcia,Atlanta Braves,Carlos Carrasco,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+124,Orlando Arcia,Atlanta Braves,Stephen Nogosek,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Orlando Arcia,Atlanta Braves,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Orlando Arcia,Atlanta Braves,Gavin Hollowell,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+127,Orlando Arcia,Atlanta Braves,Dinelson Lamet,Colorado Rockies,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+128,Orlando Arcia,Atlanta Braves,Connor Seabold,Colorado Rockies,2,2,1,0,1,1,0,0,0,1.000,1.000,3.000,4.000
+129,Orlando Arcia,Atlanta Braves,Brent Suter,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+130,Orlando Arcia,Atlanta Braves,Matt Carasiti,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+131,Orlando Arcia,Atlanta Braves,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Orlando Arcia,Atlanta Braves,Kyle Freeland,Colorado Rockies,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+133,Orlando Arcia,Atlanta Braves,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Orlando Arcia,Atlanta Braves,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Orlando Arcia,Atlanta Braves,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Orlando Arcia,Atlanta Braves,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Orlando Arcia,Atlanta Braves,Trevor Gott,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+138,Orlando Arcia,Atlanta Braves,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Orlando Arcia,Atlanta Braves,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,Orlando Arcia,Atlanta Braves,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Orlando Arcia,Atlanta Braves,Bryce Miller,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Orlando Arcia,Atlanta Braves,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Orlando Arcia,Atlanta Braves,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Orlando Arcia,Atlanta Braves,Sam Hentges,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+145,Orlando Arcia,Atlanta Braves,Trevor Stephan,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+146,Orlando Arcia,Atlanta Braves,Cal Quantrill,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+147,Orlando Arcia,Atlanta Braves,Gavin Williams,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+148,Orlando Arcia,Atlanta Braves,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Orlando Arcia,Atlanta Braves,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Orlando Arcia,Atlanta Braves,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Orlando Arcia,Atlanta Braves,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Orlando Arcia,Atlanta Braves,Bryan Shaw,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+153,Orlando Arcia,Atlanta Braves,Touki Toussaint,Chicago White Sox,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+154,Orlando Arcia,Atlanta Braves,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Orlando Arcia,Atlanta Braves,Michael Kopech,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+156,Orlando Arcia,Atlanta Braves,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,Orlando Arcia,Atlanta Braves,Lance Lynn,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+158,Orlando Arcia,Atlanta Braves,Keynan Middleton,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+159,Orlando Arcia,Atlanta Braves,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Orlando Arcia,Atlanta Braves,Jesse Scholtens,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Orlando Arcia,Atlanta Braves,Freddy Peralta,Milwaukee Brewers,1,1,0,0,1,2,1,0,0,1.000,1.000,4.000,5.000
+162,Orlando Arcia,Atlanta Braves,J.C. Mejia,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+163,Orlando Arcia,Atlanta Braves,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Orlando Arcia,Atlanta Braves,Braden Bristo,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+165,Orlando Arcia,Atlanta Braves,Michael Lorenzen,Detroit Tigers,3,2,0,0,0,2,0,0,0,.667,.667,.667,1.334
+166,Orlando Arcia,Atlanta Braves,Garrett Hill,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+167,Orlando Arcia,Atlanta Braves,Reese Olson,Detroit Tigers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+168,Orlando Arcia,Atlanta Braves,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,Orlando Arcia,Atlanta Braves,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+170,Orlando Arcia,Atlanta Braves,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Orlando Arcia,Atlanta Braves,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+172,Orlando Arcia,Atlanta Braves,James Kaprielian,Oakland Athletics,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+173,Orlando Arcia,Atlanta Braves,Ken Waldichuk,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+174,Orlando Arcia,Atlanta Braves,Paul Blackburn,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+175,Orlando Arcia,Atlanta Braves,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Orlando Arcia,Atlanta Braves,Sam Long,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+177,Orlando Arcia,Atlanta Braves,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+178,Orlando Arcia,Atlanta Braves,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+179,Orlando Arcia,Atlanta Braves,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

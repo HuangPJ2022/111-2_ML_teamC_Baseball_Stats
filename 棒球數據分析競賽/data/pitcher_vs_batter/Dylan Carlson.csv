@@ -1,0 +1,135 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Dylan Carlson,St. Louis Cardinals,Collin McHugh,Atlanta Braves,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+1,Dylan Carlson,St. Louis Cardinals,Dylan Dodd,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Dylan Carlson,St. Louis Cardinals,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Dylan Carlson,St. Louis Cardinals,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Dylan Carlson,St. Louis Cardinals,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Dylan Carlson,St. Louis Cardinals,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Dylan Carlson,St. Louis Cardinals,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Dylan Carlson,St. Louis Cardinals,Evan Phillips,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Dylan Carlson,St. Louis Cardinals,Alex Vesia,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Dylan Carlson,St. Louis Cardinals,Clayton Kershaw,Los Angeles Dodgers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+10,Dylan Carlson,St. Louis Cardinals,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Dylan Carlson,St. Louis Cardinals,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Dylan Carlson,St. Louis Cardinals,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Dylan Carlson,St. Louis Cardinals,Dustin May,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Dylan Carlson,St. Louis Cardinals,Noah Syndergaard,Los Angeles Dodgers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+15,Dylan Carlson,St. Louis Cardinals,Shohei Ohtani,Los Angeles Angels,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+16,Dylan Carlson,St. Louis Cardinals,Griffin Canning,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+17,Dylan Carlson,St. Louis Cardinals,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Dylan Carlson,St. Louis Cardinals,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Dylan Carlson,St. Louis Cardinals,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Dylan Carlson,St. Louis Cardinals,Aaron Loup,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+21,Dylan Carlson,St. Louis Cardinals,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Dylan Carlson,St. Louis Cardinals,Chase Silseth,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Dylan Carlson,St. Louis Cardinals,Corey Kluber,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+24,Dylan Carlson,St. Louis Cardinals,Josh Winckowski,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+25,Dylan Carlson,St. Louis Cardinals,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Dylan Carlson,St. Louis Cardinals,James Paxton,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Dylan Carlson,St. Louis Cardinals,Chris Sale,Boston Red Sox,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+28,Dylan Carlson,St. Louis Cardinals,Peter Solomon,Arizona Diamondbacks,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+29,Dylan Carlson,St. Louis Cardinals,Kevin Ginkel,Arizona Diamondbacks,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+30,Dylan Carlson,St. Louis Cardinals,Madison Bumgarner,Arizona Diamondbacks,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+31,Dylan Carlson,St. Louis Cardinals,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Dylan Carlson,St. Louis Cardinals,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Dylan Carlson,St. Louis Cardinals,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+34,Dylan Carlson,St. Louis Cardinals,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Dylan Carlson,St. Louis Cardinals,Andrew Abbott,Cincinnati Reds,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+36,Dylan Carlson,St. Louis Cardinals,Kevin Herget,Cincinnati Reds,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+37,Dylan Carlson,St. Louis Cardinals,Hunter Greene,Cincinnati Reds,2,1,1,0,0,0,0,0,1,.500,.667,1.000,1.667
+38,Dylan Carlson,St. Louis Cardinals,Alexis Diaz,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+39,Dylan Carlson,St. Louis Cardinals,Joel Kuhnel,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+40,Dylan Carlson,St. Louis Cardinals,Ben Lively,Cincinnati Reds,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+41,Dylan Carlson,St. Louis Cardinals,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Dylan Carlson,St. Louis Cardinals,Anthony Bass,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+43,Dylan Carlson,St. Louis Cardinals,Trevor Richards,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+44,Dylan Carlson,St. Louis Cardinals,Chris Bassitt,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+45,Dylan Carlson,St. Louis Cardinals,Javier Assad,Chicago Cubs,2,1,0,1,0,0,0,0,0,.500,.500,1.500,2.000
+46,Dylan Carlson,St. Louis Cardinals,Marcus Stroman,Chicago Cubs,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+47,Dylan Carlson,St. Louis Cardinals,Brad Boxberger,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Dylan Carlson,St. Louis Cardinals,Anthony Kay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Dylan Carlson,St. Louis Cardinals,Julian Merryweather,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Dylan Carlson,St. Louis Cardinals,Justin Steele,Chicago Cubs,8,0,0,0,0,0,1,0,4,.000,.111,.000,.111
+51,Dylan Carlson,St. Louis Cardinals,Jameson Taillon,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Dylan Carlson,St. Louis Cardinals,Framber Valdez,Houston Astros,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+53,Dylan Carlson,St. Louis Cardinals,Cristian Javier,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+54,Dylan Carlson,St. Louis Cardinals,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Dylan Carlson,St. Louis Cardinals,Shawn Dubin,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Dylan Carlson,St. Louis Cardinals,Seth Martinez,Houston Astros,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Dylan Carlson,St. Louis Cardinals,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Dylan Carlson,St. Louis Cardinals,Jacob Stallings,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+59,Dylan Carlson,St. Louis Cardinals,Dylan Floro,Miami Marlins,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+60,Dylan Carlson,St. Louis Cardinals,Braxton Garrett,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+61,Dylan Carlson,St. Louis Cardinals,Jesus Luzardo,Miami Marlins,3,1,1,0,0,0,2,0,1,.333,.600,.667,1.267
+62,Dylan Carlson,St. Louis Cardinals,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+63,Dylan Carlson,St. Louis Cardinals,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Dylan Carlson,St. Louis Cardinals,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Dylan Carlson,St. Louis Cardinals,Bryan Hoeing,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Dylan Carlson,St. Louis Cardinals,Jeff Lindgren,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+67,Dylan Carlson,St. Louis Cardinals,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Dylan Carlson,St. Louis Cardinals,Steven Okert,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+69,Dylan Carlson,St. Louis Cardinals,Eury Perez,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+70,Dylan Carlson,St. Louis Cardinals,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Dylan Carlson,St. Louis Cardinals,Tanner Scott,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+72,Dylan Carlson,St. Louis Cardinals,George Soriano,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+73,Dylan Carlson,St. Louis Cardinals,MacKenzie Gore,Washington Nationals,2,2,0,0,2,3,1,0,0,1.000,1.000,4.000,5.000
+74,Dylan Carlson,St. Louis Cardinals,Trevor Williams,Washington Nationals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+75,Dylan Carlson,St. Louis Cardinals,Cory Abbott,Washington Nationals,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+76,Dylan Carlson,St. Louis Cardinals,Joan Adon,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+77,Dylan Carlson,St. Louis Cardinals,Kyle Finnegan,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Dylan Carlson,St. Louis Cardinals,Hunter Harvey,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Dylan Carlson,St. Louis Cardinals,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Dylan Carlson,St. Louis Cardinals,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Dylan Carlson,St. Louis Cardinals,Scott Alexander,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+82,Dylan Carlson,St. Louis Cardinals,John Brebbia,San Francisco Giants,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+83,Dylan Carlson,St. Louis Cardinals,Anthony DeSclafani,San Francisco Giants,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+84,Dylan Carlson,St. Louis Cardinals,Taylor Rogers,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,Dylan Carlson,St. Louis Cardinals,Alex Cobb,San Francisco Giants,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+86,Dylan Carlson,St. Louis Cardinals,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Dylan Carlson,St. Louis Cardinals,Sean Hjelle,San Francisco Giants,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+88,Dylan Carlson,St. Louis Cardinals,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Dylan Carlson,St. Louis Cardinals,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Dylan Carlson,St. Louis Cardinals,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Dylan Carlson,St. Louis Cardinals,Logan Webb,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Dylan Carlson,St. Louis Cardinals,Keaton Winn,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+93,Dylan Carlson,St. Louis Cardinals,Brooks Raley,New York Mets,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+94,Dylan Carlson,St. Louis Cardinals,Carlos Carrasco,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Dylan Carlson,St. Louis Cardinals,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Dylan Carlson,St. Louis Cardinals,Dominic Leone,New York Mets,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+97,Dylan Carlson,St. Louis Cardinals,Tylor Megill,New York Mets,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+98,Dylan Carlson,St. Louis Cardinals,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Dylan Carlson,St. Louis Cardinals,German Marquez,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Dylan Carlson,St. Louis Cardinals,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Dylan Carlson,St. Louis Cardinals,Jimmy Cordero,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+102,Dylan Carlson,St. Louis Cardinals,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Dylan Carlson,St. Louis Cardinals,Michael King,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Dylan Carlson,St. Louis Cardinals,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Dylan Carlson,St. Louis Cardinals,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Dylan Carlson,St. Louis Cardinals,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Dylan Carlson,St. Louis Cardinals,Diego Castillo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Dylan Carlson,St. Louis Cardinals,Penn Murfee,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Dylan Carlson,St. Louis Cardinals,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Dylan Carlson,St. Louis Cardinals,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Dylan Carlson,St. Louis Cardinals,Gabe Speier,Seattle Mariners,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Dylan Carlson,St. Louis Cardinals,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Dylan Carlson,St. Louis Cardinals,Mitch Keller,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Dylan Carlson,St. Louis Cardinals,Dauri Moreta,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+115,Dylan Carlson,St. Louis Cardinals,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Dylan Carlson,St. Louis Cardinals,Robert Stephenson,Pittsburgh Pirates,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+117,Dylan Carlson,St. Louis Cardinals,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Dylan Carlson,St. Louis Cardinals,Dylan Cease,Chicago White Sox,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+119,Dylan Carlson,St. Louis Cardinals,Tanner Banks,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+120,Dylan Carlson,St. Louis Cardinals,Reynaldo Lopez,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+121,Dylan Carlson,St. Louis Cardinals,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Dylan Carlson,St. Louis Cardinals,Touki Toussaint,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+123,Dylan Carlson,St. Louis Cardinals,Eric Lauer,Milwaukee Brewers,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+124,Dylan Carlson,St. Louis Cardinals,Javy Guerra,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Dylan Carlson,St. Louis Cardinals,Gus Varland,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Dylan Carlson,St. Louis Cardinals,Mason Englert,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+127,Dylan Carlson,St. Louis Cardinals,Spencer Turnbull,Detroit Tigers,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+128,Dylan Carlson,St. Louis Cardinals,Matthew Boyd,Detroit Tigers,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+129,Dylan Carlson,St. Louis Cardinals,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Dylan Carlson,St. Louis Cardinals,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Dylan Carlson,St. Louis Cardinals,Tyler Holton,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Dylan Carlson,St. Louis Cardinals,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Dylan Carlson,St. Louis Cardinals,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

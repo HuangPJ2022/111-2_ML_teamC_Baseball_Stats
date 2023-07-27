@@ -1,0 +1,50 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Clint Frazier,Chicago White Sox,Martin Perez,Texas Rangers,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+1,Clint Frazier,Chicago White Sox,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Clint Frazier,Chicago White Sox,Nathan Eovaldi,Texas Rangers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+3,Clint Frazier,Chicago White Sox,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Clint Frazier,Chicago White Sox,Will Smith,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+5,Clint Frazier,Chicago White Sox,Alex Vesia,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+6,Clint Frazier,Chicago White Sox,Clayton Kershaw,Los Angeles Dodgers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+7,Clint Frazier,Chicago White Sox,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Clint Frazier,Chicago White Sox,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Clint Frazier,Chicago White Sox,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Clint Frazier,Chicago White Sox,Michael Grove,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Clint Frazier,Chicago White Sox,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Clint Frazier,Chicago White Sox,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Clint Frazier,Chicago White Sox,Tucker Davidson,Los Angeles Angels,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+14,Clint Frazier,Chicago White Sox,Patrick Sandoval,Los Angeles Angels,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+15,Clint Frazier,Chicago White Sox,Reid Detmers,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Clint Frazier,Chicago White Sox,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Clint Frazier,Chicago White Sox,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Clint Frazier,Chicago White Sox,Chris Murphy,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Clint Frazier,Chicago White Sox,James Paxton,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Clint Frazier,Chicago White Sox,Josh Winckowski,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+21,Clint Frazier,Chicago White Sox,Tanner Scott,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Clint Frazier,Chicago White Sox,Braxton Garrett,Miami Marlins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+23,Clint Frazier,Chicago White Sox,Huascar Brazoban,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+24,Clint Frazier,Chicago White Sox,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Clint Frazier,Chicago White Sox,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Clint Frazier,Chicago White Sox,Ron Marinaccio,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+27,Clint Frazier,Chicago White Sox,Randy Vasquez,New York Yankees,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+28,Clint Frazier,Chicago White Sox,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Clint Frazier,Chicago White Sox,Xzavion Curry,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+30,Clint Frazier,Chicago White Sox,Cal Quantrill,Cleveland Guardians,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+31,Clint Frazier,Chicago White Sox,Logan Allen,Cleveland Guardians,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+32,Clint Frazier,Chicago White Sox,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Clint Frazier,Chicago White Sox,Sam Hentges,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+34,Clint Frazier,Chicago White Sox,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Clint Frazier,Chicago White Sox,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Clint Frazier,Chicago White Sox,Max Castillo,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+37,Clint Frazier,Chicago White Sox,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Clint Frazier,Chicago White Sox,Zack Short,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+39,Clint Frazier,Chicago White Sox,Joey Wentz,Detroit Tigers,2,1,0,1,0,0,0,0,0,.500,.500,1.500,2.000
+40,Clint Frazier,Chicago White Sox,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Clint Frazier,Chicago White Sox,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+42,Clint Frazier,Chicago White Sox,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Clint Frazier,Chicago White Sox,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Clint Frazier,Chicago White Sox,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Clint Frazier,Chicago White Sox,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Clint Frazier,Chicago White Sox,Eduardo Rodriguez,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Clint Frazier,Chicago White Sox,Will Vest,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+48,Clint Frazier,Chicago White Sox,Sam Long,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000

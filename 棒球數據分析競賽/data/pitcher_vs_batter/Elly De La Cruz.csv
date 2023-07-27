@@ -1,0 +1,100 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Elly De La Cruz,Cincinnati Reds,Ben Heller,Atlanta Braves,1,1,0,1,0,1,0,0,0,1.000,1.000,3.000,4.000
+1,Elly De La Cruz,Cincinnati Reds,Collin McHugh,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+2,Elly De La Cruz,Cincinnati Reds,AJ Smith-Shawver,Atlanta Braves,2,2,1,0,1,2,0,0,0,1.000,1.000,3.000,4.000
+3,Elly De La Cruz,Cincinnati Reds,Jared Shuster,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+4,Elly De La Cruz,Cincinnati Reds,Nick Anderson,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Elly De La Cruz,Cincinnati Reds,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Elly De La Cruz,Cincinnati Reds,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Elly De La Cruz,Cincinnati Reds,Charlie Morton,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Elly De La Cruz,Cincinnati Reds,Michael Tonkin,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+9,Elly De La Cruz,Cincinnati Reds,Tony Gonsolin,Los Angeles Dodgers,1,1,1,0,0,0,2,0,0,1.000,1.000,2.000,3.000
+10,Elly De La Cruz,Cincinnati Reds,Noah Syndergaard,Los Angeles Dodgers,2,2,0,1,1,2,0,0,0,1.000,1.000,3.500,4.500
+11,Elly De La Cruz,Cincinnati Reds,Clayton Kershaw,Los Angeles Dodgers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+12,Elly De La Cruz,Cincinnati Reds,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Elly De La Cruz,Cincinnati Reds,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Elly De La Cruz,Cincinnati Reds,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Elly De La Cruz,Cincinnati Reds,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Elly De La Cruz,Cincinnati Reds,Tayler Scott,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Elly De La Cruz,Cincinnati Reds,Chris Stratton,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Elly De La Cruz,Cincinnati Reds,Adam Wainwright,St. Louis Cardinals,2,2,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+19,Elly De La Cruz,Cincinnati Reds,Miles Mikolas,St. Louis Cardinals,2,1,0,0,0,1,1,0,1,.500,.667,.500,1.167
+20,Elly De La Cruz,Cincinnati Reds,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Elly De La Cruz,Cincinnati Reds,Jordan Hicks,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+22,Elly De La Cruz,Cincinnati Reds,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+23,Elly De La Cruz,Cincinnati Reds,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Elly De La Cruz,Cincinnati Reds,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Elly De La Cruz,Cincinnati Reds,Tyler Gilbert,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Elly De La Cruz,Cincinnati Reds,Tommy Henry,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.333,.000,.333
+27,Elly De La Cruz,Cincinnati Reds,Justin Martinez,Arizona Diamondbacks,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+28,Elly De La Cruz,Cincinnati Reds,Felix Bautista,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+29,Elly De La Cruz,Cincinnati Reds,Kyle Gibson,Baltimore Orioles,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+30,Elly De La Cruz,Cincinnati Reds,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Elly De La Cruz,Cincinnati Reds,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Elly De La Cruz,Cincinnati Reds,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Elly De La Cruz,Cincinnati Reds,Cole Irvin,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Elly De La Cruz,Cincinnati Reds,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Elly De La Cruz,Cincinnati Reds,Tyler Wells,Baltimore Orioles,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+36,Elly De La Cruz,Cincinnati Reds,Bruce Zimmermann,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Elly De La Cruz,Cincinnati Reds,Drew Carlton,San Diego Padres,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+38,Elly De La Cruz,Cincinnati Reds,Seth Lugo,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+39,Elly De La Cruz,Cincinnati Reds,Pedro Avila,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Elly De La Cruz,Cincinnati Reds,Tom Cosgrove,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Elly De La Cruz,Cincinnati Reds,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Elly De La Cruz,Cincinnati Reds,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Elly De La Cruz,Cincinnati Reds,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Elly De La Cruz,Cincinnati Reds,Adrian Morejon,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Elly De La Cruz,Cincinnati Reds,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Elly De La Cruz,Cincinnati Reds,Seth Martinez,Houston Astros,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+47,Elly De La Cruz,Cincinnati Reds,Ryne Stanek,Houston Astros,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+48,Elly De La Cruz,Cincinnati Reds,Brandon Bielak,Houston Astros,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+49,Elly De La Cruz,Cincinnati Reds,Ronel Blanco,Houston Astros,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+50,Elly De La Cruz,Cincinnati Reds,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Elly De La Cruz,Cincinnati Reds,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Elly De La Cruz,Cincinnati Reds,Cory Abbott,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,.500,1.000,1.500
+53,Elly De La Cruz,Cincinnati Reds,Patrick Corbin,Washington Nationals,3,3,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+54,Elly De La Cruz,Cincinnati Reds,Jose A. Ferrer,Washington Nationals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+55,Elly De La Cruz,Cincinnati Reds,MacKenzie Gore,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+56,Elly De La Cruz,Cincinnati Reds,Jordan Weems,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+57,Elly De La Cruz,Cincinnati Reds,Joe La Sorsa,Washington Nationals,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+58,Elly De La Cruz,Cincinnati Reds,Josiah Gray,Washington Nationals,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+59,Elly De La Cruz,Cincinnati Reds,Jake Irvin,Washington Nationals,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+60,Elly De La Cruz,Cincinnati Reds,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Elly De La Cruz,Cincinnati Reds,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Elly De La Cruz,Cincinnati Reds,Amos Willingham,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Elly De La Cruz,Cincinnati Reds,Sean Manaea,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+64,Elly De La Cruz,Cincinnati Reds,Alex Cobb,San Francisco Giants,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+65,Elly De La Cruz,Cincinnati Reds,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Elly De La Cruz,Cincinnati Reds,Anthony DeSclafani,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+67,Elly De La Cruz,Cincinnati Reds,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Elly De La Cruz,Cincinnati Reds,Mauricio Llovera,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Elly De La Cruz,Cincinnati Reds,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Elly De La Cruz,Cincinnati Reds,Tyler Rogers,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+71,Elly De La Cruz,Cincinnati Reds,Ross Stripling,San Francisco Giants,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Elly De La Cruz,Cincinnati Reds,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Elly De La Cruz,Cincinnati Reds,Logan Webb,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+74,Elly De La Cruz,Cincinnati Reds,Jake Bird,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+75,Elly De La Cruz,Cincinnati Reds,Peter Lambert,Colorado Rockies,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+76,Elly De La Cruz,Cincinnati Reds,Daniel Bard,Colorado Rockies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+77,Elly De La Cruz,Cincinnati Reds,Noah Davis,Colorado Rockies,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+78,Elly De La Cruz,Cincinnati Reds,Austin Gomber,Colorado Rockies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+79,Elly De La Cruz,Cincinnati Reds,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Elly De La Cruz,Cincinnati Reds,Karl Kauffmann,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Elly De La Cruz,Cincinnati Reds,Elvis Peguero,Milwaukee Brewers,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+82,Elly De La Cruz,Cincinnati Reds,Wade Miley,Milwaukee Brewers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+83,Elly De La Cruz,Cincinnati Reds,Colin Rea,Milwaukee Brewers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+84,Elly De La Cruz,Cincinnati Reds,Corbin Burnes,Milwaukee Brewers,5,1,0,0,0,0,1,0,3,.200,.333,.200,.533
+85,Elly De La Cruz,Cincinnati Reds,Adrian Houser,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Elly De La Cruz,Cincinnati Reds,Tyson Miller,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Elly De La Cruz,Cincinnati Reds,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Elly De La Cruz,Cincinnati Reds,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Elly De La Cruz,Cincinnati Reds,Abner Uribe,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Elly De La Cruz,Cincinnati Reds,Devin Williams,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Elly De La Cruz,Cincinnati Reds,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Elly De La Cruz,Cincinnati Reds,Austin Cox,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Elly De La Cruz,Cincinnati Reds,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Elly De La Cruz,Cincinnati Reds,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Elly De La Cruz,Cincinnati Reds,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Elly De La Cruz,Cincinnati Reds,Jordan Lyles,Kansas City Royals,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+97,Elly De La Cruz,Cincinnati Reds,Daniel Lynch IV,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Elly De La Cruz,Cincinnati Reds,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

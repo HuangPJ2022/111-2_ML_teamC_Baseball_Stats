@@ -1,0 +1,216 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Julio Rodriguez,Seattle Mariners,Bryce Elder,Atlanta Braves,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+1,Julio Rodriguez,Seattle Mariners,Jesse Chavez,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+2,Julio Rodriguez,Seattle Mariners,Raisel Iglesias,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Julio Rodriguez,Seattle Mariners,Lucas Luetge,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Julio Rodriguez,Seattle Mariners,Jared Shuster,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Julio Rodriguez,Seattle Mariners,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+6,Julio Rodriguez,Seattle Mariners,Kirby Yates,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+7,Julio Rodriguez,Seattle Mariners,Dane Dunning,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+8,Julio Rodriguez,Seattle Mariners,Andrew Heaney,Texas Rangers,5,1,0,0,0,0,0,0,2,.200,.200,.200,.400
+9,Julio Rodriguez,Seattle Mariners,Jon Gray,Texas Rangers,6,1,0,0,0,0,0,0,3,.167,.167,.167,.334
+10,Julio Rodriguez,Seattle Mariners,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Julio Rodriguez,Seattle Mariners,Nathan Eovaldi,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Julio Rodriguez,Seattle Mariners,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Julio Rodriguez,Seattle Mariners,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Julio Rodriguez,Seattle Mariners,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Julio Rodriguez,Seattle Mariners,Josh Sborz,Texas Rangers,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+16,Julio Rodriguez,Seattle Mariners,Will Smith,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+17,Julio Rodriguez,Seattle Mariners,Tucker Davidson,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Julio Rodriguez,Seattle Mariners,Patrick Sandoval,Los Angeles Angels,3,2,0,0,1,2,0,0,1,.667,.667,1.667,2.334
+19,Julio Rodriguez,Seattle Mariners,Jose Suarez,Los Angeles Angels,3,2,2,0,0,0,0,0,1,.667,.667,1.333,2.000
+20,Julio Rodriguez,Seattle Mariners,Jaime Barria,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Julio Rodriguez,Seattle Mariners,Griffin Canning,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+22,Julio Rodriguez,Seattle Mariners,Reid Detmers,Los Angeles Angels,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+23,Julio Rodriguez,Seattle Mariners,Carlos Estevez,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Julio Rodriguez,Seattle Mariners,Jimmy Herget,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Julio Rodriguez,Seattle Mariners,Aaron Loup,Los Angeles Angels,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Julio Rodriguez,Seattle Mariners,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Julio Rodriguez,Seattle Mariners,Shohei Ohtani,Los Angeles Angels,4,0,0,0,0,0,1,0,3,.000,.333,.000,.333
+28,Julio Rodriguez,Seattle Mariners,Jose Quijada,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Julio Rodriguez,Seattle Mariners,Gerardo Reyes,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Julio Rodriguez,Seattle Mariners,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Julio Rodriguez,Seattle Mariners,Jacob Webb,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+32,Julio Rodriguez,Seattle Mariners,Jalen Beeks,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Julio Rodriguez,Seattle Mariners,Robert Stephenson,Tampa Bay Rays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+34,Julio Rodriguez,Seattle Mariners,Taj Bradley,Tampa Bay Rays,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+35,Julio Rodriguez,Seattle Mariners,Tyler Glasnow,Tampa Bay Rays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+36,Julio Rodriguez,Seattle Mariners,Shawn Armstrong,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Julio Rodriguez,Seattle Mariners,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Julio Rodriguez,Seattle Mariners,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Julio Rodriguez,Seattle Mariners,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Julio Rodriguez,Seattle Mariners,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Julio Rodriguez,Seattle Mariners,Josh Winckowski,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+42,Julio Rodriguez,Seattle Mariners,Tanner Houck,Boston Red Sox,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+43,Julio Rodriguez,Seattle Mariners,Brayan Bello,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Julio Rodriguez,Seattle Mariners,Richard Bleier,Boston Red Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+45,Julio Rodriguez,Seattle Mariners,Nick Pivetta,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Julio Rodriguez,Seattle Mariners,Joely Rodriguez,Boston Red Sox,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+47,Julio Rodriguez,Seattle Mariners,Ryan Sherriff,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Julio Rodriguez,Seattle Mariners,Steven Matz,St. Louis Cardinals,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+49,Julio Rodriguez,Seattle Mariners,Genesis Cabrera,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+50,Julio Rodriguez,Seattle Mariners,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+51,Julio Rodriguez,Seattle Mariners,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Julio Rodriguez,Seattle Mariners,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Julio Rodriguez,Seattle Mariners,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Julio Rodriguez,Seattle Mariners,Erik Swanson,Toronto Blue Jays,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+55,Julio Rodriguez,Seattle Mariners,Alek Manoah,Toronto Blue Jays,5,2,1,0,0,0,0,0,1,.400,.500,.600,1.100
+56,Julio Rodriguez,Seattle Mariners,Kevin Gausman,Toronto Blue Jays,6,2,0,0,1,1,0,0,3,.333,.333,.833,1.166
+57,Julio Rodriguez,Seattle Mariners,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+58,Julio Rodriguez,Seattle Mariners,Yusei Kikuchi,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Julio Rodriguez,Seattle Mariners,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,1,1,1,.000,.500,.000,.500
+60,Julio Rodriguez,Seattle Mariners,Keegan Akin,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+61,Julio Rodriguez,Seattle Mariners,Yennier Cano,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+62,Julio Rodriguez,Seattle Mariners,Dean Kremer,Baltimore Orioles,3,2,0,0,1,1,0,0,1,.667,.667,1.667,2.334
+63,Julio Rodriguez,Seattle Mariners,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Julio Rodriguez,Seattle Mariners,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Julio Rodriguez,Seattle Mariners,Kyle Bradish,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Julio Rodriguez,Seattle Mariners,Kyle Gibson,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+67,Julio Rodriguez,Seattle Mariners,Logan Gillaspie,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Julio Rodriguez,Seattle Mariners,Josh Lester,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+69,Julio Rodriguez,Seattle Mariners,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Julio Rodriguez,Seattle Mariners,Taijuan Walker,Philadelphia Phillies,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+71,Julio Rodriguez,Seattle Mariners,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Julio Rodriguez,Seattle Mariners,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Julio Rodriguez,Seattle Mariners,Seranthony Dominguez,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Julio Rodriguez,Seattle Mariners,Bailey Falter,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+75,Julio Rodriguez,Seattle Mariners,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Julio Rodriguez,Seattle Mariners,Matt Strahm,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Julio Rodriguez,Seattle Mariners,Brad Boxberger,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+78,Julio Rodriguez,Seattle Mariners,Michael Fulmer,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+79,Julio Rodriguez,Seattle Mariners,Adbert Alzolay,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Julio Rodriguez,Seattle Mariners,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Julio Rodriguez,Seattle Mariners,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Julio Rodriguez,Seattle Mariners,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+83,Julio Rodriguez,Seattle Mariners,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Julio Rodriguez,Seattle Mariners,Keegan Thompson,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+85,Julio Rodriguez,Seattle Mariners,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Julio Rodriguez,Seattle Mariners,Drew Carlton,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+87,Julio Rodriguez,Seattle Mariners,Steven Wilson,San Diego Padres,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+88,Julio Rodriguez,Seattle Mariners,Joe Musgrove,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+89,Julio Rodriguez,Seattle Mariners,Michael Wacha,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Julio Rodriguez,Seattle Mariners,Hunter Brown,Houston Astros,3,2,1,0,0,2,0,0,1,.667,.667,1.000,1.667
+91,Julio Rodriguez,Seattle Mariners,Ryne Stanek,Houston Astros,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+92,Julio Rodriguez,Seattle Mariners,Ronel Blanco,Houston Astros,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+93,Julio Rodriguez,Seattle Mariners,Bryan Abreu,Houston Astros,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+94,Julio Rodriguez,Seattle Mariners,Brandon Bielak,Houston Astros,5,1,0,0,1,1,1,0,0,.200,.333,.800,1.133
+95,Julio Rodriguez,Seattle Mariners,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Julio Rodriguez,Seattle Mariners,Cristian Javier,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Julio Rodriguez,Seattle Mariners,Bligh Madris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Julio Rodriguez,Seattle Mariners,Seth Martinez,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+99,Julio Rodriguez,Seattle Mariners,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Julio Rodriguez,Seattle Mariners,Ryan Pressly,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+101,Julio Rodriguez,Seattle Mariners,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+102,Julio Rodriguez,Seattle Mariners,Pablo Lopez,Minnesota Twins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+103,Julio Rodriguez,Seattle Mariners,Jhoan Duran,Minnesota Twins,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+104,Julio Rodriguez,Seattle Mariners,Sonny Gray,Minnesota Twins,2,0,0,0,0,1,1,0,1,.000,.333,.000,.333
+105,Julio Rodriguez,Seattle Mariners,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Julio Rodriguez,Seattle Mariners,Kenta Maeda,Minnesota Twins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+107,Julio Rodriguez,Seattle Mariners,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Julio Rodriguez,Seattle Mariners,Trevor Williams,Washington Nationals,3,3,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+109,Julio Rodriguez,Seattle Mariners,Cory Abbott,Washington Nationals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+110,Julio Rodriguez,Seattle Mariners,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Julio Rodriguez,Seattle Mariners,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Julio Rodriguez,Seattle Mariners,Jake Irvin,Washington Nationals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+113,Julio Rodriguez,Seattle Mariners,Jordan Weems,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+114,Julio Rodriguez,Seattle Mariners,Amos Willingham,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Julio Rodriguez,Seattle Mariners,Jesus Luzardo,Miami Marlins,2,1,0,0,0,1,1,0,1,.500,.667,.500,1.167
+116,Julio Rodriguez,Seattle Mariners,Archie Bradley,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Julio Rodriguez,Seattle Mariners,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Julio Rodriguez,Seattle Mariners,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,Julio Rodriguez,Seattle Mariners,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Julio Rodriguez,Seattle Mariners,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Julio Rodriguez,Seattle Mariners,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Julio Rodriguez,Seattle Mariners,Eury Perez,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Julio Rodriguez,Seattle Mariners,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Julio Rodriguez,Seattle Mariners,Camilo Doval,San Francisco Giants,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+125,Julio Rodriguez,Seattle Mariners,Sean Manaea,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+126,Julio Rodriguez,Seattle Mariners,Alex Cobb,San Francisco Giants,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+127,Julio Rodriguez,Seattle Mariners,Keaton Winn,San Francisco Giants,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+128,Julio Rodriguez,Seattle Mariners,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Julio Rodriguez,Seattle Mariners,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Julio Rodriguez,Seattle Mariners,Logan Webb,San Francisco Giants,3,0,0,0,0,1,1,0,0,.000,.250,.000,.250
+131,Julio Rodriguez,Seattle Mariners,Ryan Feltner,Colorado Rockies,3,1,0,1,0,3,0,0,0,.333,.333,1.000,1.333
+132,Julio Rodriguez,Seattle Mariners,Austin Gomber,Colorado Rockies,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+133,Julio Rodriguez,Seattle Mariners,Jake Bird,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+134,Julio Rodriguez,Seattle Mariners,Noah Davis,Colorado Rockies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Julio Rodriguez,Seattle Mariners,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Julio Rodriguez,Seattle Mariners,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Julio Rodriguez,Seattle Mariners,Brent Suter,Colorado Rockies,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+138,Julio Rodriguez,Seattle Mariners,Clarke Schmidt,New York Yankees,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+139,Julio Rodriguez,Seattle Mariners,Domingo German,New York Yankees,6,3,0,0,1,3,0,0,0,.500,.500,1.000,1.500
+140,Julio Rodriguez,Seattle Mariners,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Julio Rodriguez,Seattle Mariners,Jhony Brito,New York Yankees,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+142,Julio Rodriguez,Seattle Mariners,Gerrit Cole,New York Yankees,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Julio Rodriguez,Seattle Mariners,Nestor Cortes,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Julio Rodriguez,Seattle Mariners,Clay Holmes,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+145,Julio Rodriguez,Seattle Mariners,Michael King,New York Yankees,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+146,Julio Rodriguez,Seattle Mariners,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+147,Julio Rodriguez,Seattle Mariners,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Julio Rodriguez,Seattle Mariners,Ryan Weber,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Julio Rodriguez,Seattle Mariners,Trevor Stephan,Cleveland Guardians,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+150,Julio Rodriguez,Seattle Mariners,Nick Sandlin,Cleveland Guardians,3,2,1,0,1,3,0,0,1,.667,.667,2.000,2.667
+151,Julio Rodriguez,Seattle Mariners,Aaron Civale,Cleveland Guardians,6,3,0,0,0,0,0,0,1,.500,.500,.500,1.000
+152,Julio Rodriguez,Seattle Mariners,Hunter Gaddis,Cleveland Guardians,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+153,Julio Rodriguez,Seattle Mariners,Cal Quantrill,Cleveland Guardians,6,3,0,0,1,1,0,0,0,.500,.500,1.000,1.500
+154,Julio Rodriguez,Seattle Mariners,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Julio Rodriguez,Seattle Mariners,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Julio Rodriguez,Seattle Mariners,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Julio Rodriguez,Seattle Mariners,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+158,Julio Rodriguez,Seattle Mariners,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Julio Rodriguez,Seattle Mariners,James Karinchak,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+160,Julio Rodriguez,Seattle Mariners,Eli Morgan,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+161,Julio Rodriguez,Seattle Mariners,Zach Plesac,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Julio Rodriguez,Seattle Mariners,Dauri Moreta,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+163,Julio Rodriguez,Seattle Mariners,Mitch Keller,Pittsburgh Pirates,3,2,0,0,1,3,0,0,1,.667,.667,1.667,2.334
+164,Julio Rodriguez,Seattle Mariners,Luis L. Ortiz,Pittsburgh Pirates,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+165,Julio Rodriguez,Seattle Mariners,Vince Velasquez,Pittsburgh Pirates,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+166,Julio Rodriguez,Seattle Mariners,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Julio Rodriguez,Seattle Mariners,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Julio Rodriguez,Seattle Mariners,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+169,Julio Rodriguez,Seattle Mariners,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+170,Julio Rodriguez,Seattle Mariners,Lucas Giolito,Chicago White Sox,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+171,Julio Rodriguez,Seattle Mariners,Michael Kopech,Chicago White Sox,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+172,Julio Rodriguez,Seattle Mariners,Lance Lynn,Chicago White Sox,2,1,1,0,0,2,1,0,0,.500,.667,1.000,1.667
+173,Julio Rodriguez,Seattle Mariners,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Julio Rodriguez,Seattle Mariners,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+175,Julio Rodriguez,Seattle Mariners,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+176,Julio Rodriguez,Seattle Mariners,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+177,Julio Rodriguez,Seattle Mariners,Jesse Scholtens,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+178,Julio Rodriguez,Seattle Mariners,Matt Bush,Milwaukee Brewers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+179,Julio Rodriguez,Seattle Mariners,Eric Lauer,Milwaukee Brewers,3,2,0,0,1,2,0,0,1,.667,.667,1.667,2.334
+180,Julio Rodriguez,Seattle Mariners,Colin Rea,Milwaukee Brewers,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+181,Julio Rodriguez,Seattle Mariners,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+182,Julio Rodriguez,Seattle Mariners,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+183,Julio Rodriguez,Seattle Mariners,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+184,Julio Rodriguez,Seattle Mariners,Bryse Wilson,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+185,Julio Rodriguez,Seattle Mariners,Tyler Alexander,Detroit Tigers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+186,Julio Rodriguez,Seattle Mariners,Jason Foley,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+187,Julio Rodriguez,Seattle Mariners,Tyler Holton,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+188,Julio Rodriguez,Seattle Mariners,Matthew Boyd,Detroit Tigers,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+189,Julio Rodriguez,Seattle Mariners,Eduardo Rodriguez,Detroit Tigers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+190,Julio Rodriguez,Seattle Mariners,Joey Wentz,Detroit Tigers,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+191,Julio Rodriguez,Seattle Mariners,Reese Olson,Detroit Tigers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+192,Julio Rodriguez,Seattle Mariners,Beau Brieske,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+193,Julio Rodriguez,Seattle Mariners,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+194,Julio Rodriguez,Seattle Mariners,Mason Englert,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+195,Julio Rodriguez,Seattle Mariners,Alex Faedo,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+196,Julio Rodriguez,Seattle Mariners,Alex Lange,Detroit Tigers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+197,Julio Rodriguez,Seattle Mariners,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+198,Julio Rodriguez,Seattle Mariners,Will Vest,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+199,Julio Rodriguez,Seattle Mariners,Garrett Acton,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+200,Julio Rodriguez,Seattle Mariners,Adrian Martinez,Oakland Athletics,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+201,Julio Rodriguez,Seattle Mariners,Austin Pruitt,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+202,Julio Rodriguez,Seattle Mariners,Kyle Muller,Oakland Athletics,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+203,Julio Rodriguez,Seattle Mariners,Ken Waldichuk,Oakland Athletics,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+204,Julio Rodriguez,Seattle Mariners,Luis Medina,Oakland Athletics,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+205,Julio Rodriguez,Seattle Mariners,JP Sears,Oakland Athletics,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+206,Julio Rodriguez,Seattle Mariners,Domingo Acevedo,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+207,Julio Rodriguez,Seattle Mariners,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+208,Julio Rodriguez,Seattle Mariners,Shintaro Fujinami,Oakland Athletics,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+209,Julio Rodriguez,Seattle Mariners,Rico Garcia,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+210,Julio Rodriguez,Seattle Mariners,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+211,Julio Rodriguez,Seattle Mariners,Trevor May,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+212,Julio Rodriguez,Seattle Mariners,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+213,Julio Rodriguez,Seattle Mariners,Adam Oller,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+214,Julio Rodriguez,Seattle Mariners,Drew Rucinski,Oakland Athletics,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333

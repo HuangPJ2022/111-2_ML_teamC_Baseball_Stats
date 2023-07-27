@@ -1,0 +1,37 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Taylor Trammell,Seattle Mariners,Michael Tonkin,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,Taylor Trammell,Seattle Mariners,Jesse Chavez,Atlanta Braves,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+2,Taylor Trammell,Seattle Mariners,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+3,Taylor Trammell,Seattle Mariners,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Taylor Trammell,Seattle Mariners,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Taylor Trammell,Seattle Mariners,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Taylor Trammell,Seattle Mariners,Jon Gray,Texas Rangers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+7,Taylor Trammell,Seattle Mariners,Nick Pivetta,Boston Red Sox,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+8,Taylor Trammell,Seattle Mariners,Brayan Bello,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Taylor Trammell,Seattle Mariners,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Taylor Trammell,Seattle Mariners,Tanner Houck,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Taylor Trammell,Seattle Mariners,Joely Rodriguez,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Taylor Trammell,Seattle Mariners,Ryan Sherriff,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+13,Taylor Trammell,Seattle Mariners,Chris Bassitt,Toronto Blue Jays,1,1,0,0,1,4,1,0,0,1.000,1.000,4.000,5.000
+14,Taylor Trammell,Seattle Mariners,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Taylor Trammell,Seattle Mariners,Alek Manoah,Toronto Blue Jays,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+16,Taylor Trammell,Seattle Mariners,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Taylor Trammell,Seattle Mariners,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Taylor Trammell,Seattle Mariners,Brandon Bielak,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+19,Taylor Trammell,Seattle Mariners,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Taylor Trammell,Seattle Mariners,Matt Gage,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+21,Taylor Trammell,Seattle Mariners,Cristian Javier,Houston Astros,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+22,Taylor Trammell,Seattle Mariners,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Taylor Trammell,Seattle Mariners,Ryne Stanek,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+24,Taylor Trammell,Seattle Mariners,Albert Abreu,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+25,Taylor Trammell,Seattle Mariners,Domingo German,New York Yankees,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+26,Taylor Trammell,Seattle Mariners,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Taylor Trammell,Seattle Mariners,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+28,Taylor Trammell,Seattle Mariners,Mitch Keller,Pittsburgh Pirates,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+29,Taylor Trammell,Seattle Mariners,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Taylor Trammell,Seattle Mariners,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Taylor Trammell,Seattle Mariners,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Taylor Trammell,Seattle Mariners,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Taylor Trammell,Seattle Mariners,Drew Rucinski,Oakland Athletics,1,1,0,0,1,3,1,0,0,1.000,1.000,4.000,5.000
+34,Taylor Trammell,Seattle Mariners,Sam Long,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Taylor Trammell,Seattle Mariners,Mason Miller,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

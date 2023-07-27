@@ -1,0 +1,127 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jesus Sanchez,Miami Marlins,Jesse Chavez,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Jesus Sanchez,Miami Marlins,Kyle Wright,Atlanta Braves,3,3,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Jesus Sanchez,Miami Marlins,Dylan Lee,Atlanta Braves,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+3,Jesus Sanchez,Miami Marlins,Michael Soroka,Atlanta Braves,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+4,Jesus Sanchez,Miami Marlins,Spencer Strider,Atlanta Braves,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+5,Jesus Sanchez,Miami Marlins,Bryce Elder,Atlanta Braves,4,1,0,0,1,1,0,0,1,.250,.250,1.000,1.250
+6,Jesus Sanchez,Miami Marlins,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Jesus Sanchez,Miami Marlins,Collin McHugh,Atlanta Braves,3,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+8,Jesus Sanchez,Miami Marlins,Michael Tonkin,Atlanta Braves,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+9,Jesus Sanchez,Miami Marlins,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Jesus Sanchez,Miami Marlins,Chris Martin,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Jesus Sanchez,Miami Marlins,Brayan Bello,Boston Red Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+12,Jesus Sanchez,Miami Marlins,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Jesus Sanchez,Miami Marlins,Joe Jacques,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Jesus Sanchez,Miami Marlins,Garrett Whitlock,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Jesus Sanchez,Miami Marlins,Genesis Cabrera,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+16,Jesus Sanchez,Miami Marlins,James Naile,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+17,Jesus Sanchez,Miami Marlins,Jack Flaherty,St. Louis Cardinals,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+18,Jesus Sanchez,Miami Marlins,Dakota Hudson,St. Louis Cardinals,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+19,Jesus Sanchez,Miami Marlins,Adam Wainwright,St. Louis Cardinals,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+20,Jesus Sanchez,Miami Marlins,Miles Mikolas,St. Louis Cardinals,6,2,1,0,1,2,0,0,3,.333,.333,1.000,1.333
+21,Jesus Sanchez,Miami Marlins,Alec Burleson,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Jesus Sanchez,Miami Marlins,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Jesus Sanchez,Miami Marlins,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Jesus Sanchez,Miami Marlins,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Jesus Sanchez,Miami Marlins,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Jesus Sanchez,Miami Marlins,Ryan Tepera,St. Louis Cardinals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+27,Jesus Sanchez,Miami Marlins,Andrew Chafin,Arizona Diamondbacks,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+28,Jesus Sanchez,Miami Marlins,Kevin Ginkel,Arizona Diamondbacks,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+29,Jesus Sanchez,Miami Marlins,Zac Gallen,Arizona Diamondbacks,3,2,2,0,0,1,0,0,0,.667,.667,1.333,2.000
+30,Jesus Sanchez,Miami Marlins,Merrill Kelly,Arizona Diamondbacks,3,1,0,0,1,3,0,0,1,.333,.333,1.333,1.666
+31,Jesus Sanchez,Miami Marlins,Brandon Pfaadt,Arizona Diamondbacks,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+32,Jesus Sanchez,Miami Marlins,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Jesus Sanchez,Miami Marlins,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Jesus Sanchez,Miami Marlins,Peter Solomon,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Jesus Sanchez,Miami Marlins,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Jesus Sanchez,Miami Marlins,Nate Pearson,Toronto Blue Jays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+37,Jesus Sanchez,Miami Marlins,Jose Berrios,Toronto Blue Jays,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+38,Jesus Sanchez,Miami Marlins,Kevin Gausman,Toronto Blue Jays,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+39,Jesus Sanchez,Miami Marlins,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Jesus Sanchez,Miami Marlins,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Jesus Sanchez,Miami Marlins,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Jesus Sanchez,Miami Marlins,Yennier Cano,Baltimore Orioles,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+43,Jesus Sanchez,Miami Marlins,Kyle Gibson,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+44,Jesus Sanchez,Miami Marlins,Dean Kremer,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+45,Jesus Sanchez,Miami Marlins,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Jesus Sanchez,Miami Marlins,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Jesus Sanchez,Miami Marlins,Aaron Nola,Philadelphia Phillies,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+48,Jesus Sanchez,Miami Marlins,Andrew Bellatti,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+49,Jesus Sanchez,Miami Marlins,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Jesus Sanchez,Miami Marlins,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Jesus Sanchez,Miami Marlins,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Jesus Sanchez,Miami Marlins,Zack Wheeler,Philadelphia Phillies,5,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+53,Jesus Sanchez,Miami Marlins,Adbert Alzolay,Chicago Cubs,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+54,Jesus Sanchez,Miami Marlins,Jeremiah Estrada,Chicago Cubs,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+55,Jesus Sanchez,Miami Marlins,Keegan Thompson,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+56,Jesus Sanchez,Miami Marlins,Caleb Kilian,Chicago Cubs,2,1,1,0,0,2,0,0,1,.500,.500,1.000,1.500
+57,Jesus Sanchez,Miami Marlins,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Jesus Sanchez,Miami Marlins,Mark Leiter Jr.,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Jesus Sanchez,Miami Marlins,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Jesus Sanchez,Miami Marlins,Justin Steele,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Jesus Sanchez,Miami Marlins,Marcus Stroman,Chicago Cubs,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+62,Jesus Sanchez,Miami Marlins,Hayden Wesneski,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Jesus Sanchez,Miami Marlins,Nick Martinez,San Diego Padres,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+64,Jesus Sanchez,Miami Marlins,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Jesus Sanchez,Miami Marlins,Joe Musgrove,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Jesus Sanchez,Miami Marlins,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Jesus Sanchez,Miami Marlins,Pablo Lopez,Minnesota Twins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+68,Jesus Sanchez,Miami Marlins,Jake Irvin,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+69,Jesus Sanchez,Miami Marlins,Trevor Williams,Washington Nationals,2,1,0,0,0,2,1,0,0,.500,.667,.500,1.167
+70,Jesus Sanchez,Miami Marlins,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Jesus Sanchez,Miami Marlins,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Jesus Sanchez,Miami Marlins,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Jesus Sanchez,Miami Marlins,Logan Webb,San Francisco Giants,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+74,Jesus Sanchez,Miami Marlins,Tylor Megill,New York Mets,2,1,1,0,0,0,2,0,0,.500,.750,1.000,1.750
+75,Jesus Sanchez,Miami Marlins,Stephen Nogosek,New York Mets,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+76,Jesus Sanchez,Miami Marlins,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Jesus Sanchez,Miami Marlins,Adam Ottavino,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+78,Jesus Sanchez,Miami Marlins,Denyi Reyes,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Jesus Sanchez,Miami Marlins,Dennis Santana,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Jesus Sanchez,Miami Marlins,Kodai Senga,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+81,Jesus Sanchez,Miami Marlins,Peter Lambert,Colorado Rockies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+82,Jesus Sanchez,Miami Marlins,Chase Anderson,Colorado Rockies,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+83,Jesus Sanchez,Miami Marlins,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+84,Jesus Sanchez,Miami Marlins,Ty Blach,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Jesus Sanchez,Miami Marlins,Pierce Johnson,Colorado Rockies,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+86,Jesus Sanchez,Miami Marlins,Matt Koch,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Jesus Sanchez,Miami Marlins,Connor Seabold,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+88,Jesus Sanchez,Miami Marlins,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Jesus Sanchez,Miami Marlins,Justin Topa,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+90,Jesus Sanchez,Miami Marlins,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Jesus Sanchez,Miami Marlins,Luis Castillo,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Jesus Sanchez,Miami Marlins,Bryce Miller,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+93,Jesus Sanchez,Miami Marlins,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Jesus Sanchez,Miami Marlins,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Jesus Sanchez,Miami Marlins,Zach Plesac,Cleveland Guardians,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+96,Jesus Sanchez,Miami Marlins,Luis L. Ortiz,Pittsburgh Pirates,4,1,0,0,0,1,0,0,0,.250,.250,.250,.500
+97,Jesus Sanchez,Miami Marlins,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Jesus Sanchez,Miami Marlins,Osvaldo Bido,Pittsburgh Pirates,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+99,Jesus Sanchez,Miami Marlins,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Jesus Sanchez,Miami Marlins,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Jesus Sanchez,Miami Marlins,Carmen Mlodzinski,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Jesus Sanchez,Miami Marlins,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Jesus Sanchez,Miami Marlins,Dylan Cease,Chicago White Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Jesus Sanchez,Miami Marlins,Lucas Giolito,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Jesus Sanchez,Miami Marlins,Liam Hendriks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Jesus Sanchez,Miami Marlins,Joe Kelly,Chicago White Sox,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+107,Jesus Sanchez,Miami Marlins,Michael Kopech,Chicago White Sox,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+108,Jesus Sanchez,Miami Marlins,Reynaldo Lopez,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+109,Jesus Sanchez,Miami Marlins,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Jesus Sanchez,Miami Marlins,Jose Cuas,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+111,Jesus Sanchez,Miami Marlins,Jordan Lyles,Kansas City Royals,3,2,0,0,1,3,0,0,0,.667,.667,1.667,2.334
+112,Jesus Sanchez,Miami Marlins,Zack Greinke,Kansas City Royals,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+113,Jesus Sanchez,Miami Marlins,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Jesus Sanchez,Miami Marlins,Jackson Kowar,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Jesus Sanchez,Miami Marlins,Mike Mayers,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Jesus Sanchez,Miami Marlins,Nick Wittgren,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Jesus Sanchez,Miami Marlins,Shintaro Fujinami,Oakland Athletics,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+118,Jesus Sanchez,Miami Marlins,Hogan Harris,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+119,Jesus Sanchez,Miami Marlins,Luis Medina,Oakland Athletics,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+120,Jesus Sanchez,Miami Marlins,Sam Moll,Oakland Athletics,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+121,Jesus Sanchez,Miami Marlins,Paul Blackburn,Oakland Athletics,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+122,Jesus Sanchez,Miami Marlins,Lucas Erceg,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+123,Jesus Sanchez,Miami Marlins,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Jesus Sanchez,Miami Marlins,Richard Lovelady,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+125,Jesus Sanchez,Miami Marlins,Ken Waldichuk,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

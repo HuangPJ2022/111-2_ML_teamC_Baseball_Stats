@@ -1,0 +1,63 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Matt Mervis,Chicago Cubs,Tyler Anderson,Los Angeles Angels,2,1,1,0,0,2,0,0,1,.500,.500,1.000,1.500
+1,Matt Mervis,Chicago Cubs,Jaime Barria,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Matt Mervis,Chicago Cubs,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Matt Mervis,Chicago Cubs,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Matt Mervis,Chicago Cubs,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Matt Mervis,Chicago Cubs,Taj Bradley,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+6,Matt Mervis,Chicago Cubs,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Matt Mervis,Chicago Cubs,Joe La Sorsa,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Matt Mervis,Chicago Cubs,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Matt Mervis,Chicago Cubs,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Matt Mervis,Chicago Cubs,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Matt Mervis,Chicago Cubs,Miles Mikolas,St. Louis Cardinals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+12,Matt Mervis,Chicago Cubs,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Matt Mervis,Chicago Cubs,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Matt Mervis,Chicago Cubs,Hunter Greene,Cincinnati Reds,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+15,Matt Mervis,Chicago Cubs,Eduardo Salazar,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Matt Mervis,Chicago Cubs,Aaron Nola,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+17,Matt Mervis,Chicago Cubs,Andrew Bellatti,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+18,Matt Mervis,Chicago Cubs,Erich Uelmen,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Matt Mervis,Chicago Cubs,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Matt Mervis,Chicago Cubs,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Matt Mervis,Chicago Cubs,Yu Darvish,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Matt Mervis,Chicago Cubs,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Matt Mervis,Chicago Cubs,Matt Gage,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+24,Matt Mervis,Chicago Cubs,Cristian Javier,Houston Astros,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+25,Matt Mervis,Chicago Cubs,J.P. France,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Matt Mervis,Chicago Cubs,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Matt Mervis,Chicago Cubs,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Matt Mervis,Chicago Cubs,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Matt Mervis,Chicago Cubs,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Matt Mervis,Chicago Cubs,Griffin Jax,Minnesota Twins,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+31,Matt Mervis,Chicago Cubs,Emilio Pagan,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+32,Matt Mervis,Chicago Cubs,Louie Varland,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+33,Matt Mervis,Chicago Cubs,Jorge Alcala,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Matt Mervis,Chicago Cubs,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Matt Mervis,Chicago Cubs,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Matt Mervis,Chicago Cubs,Joe Ryan,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+37,Matt Mervis,Chicago Cubs,Cole Sands,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+38,Matt Mervis,Chicago Cubs,Bryan Hoeing,Miami Marlins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+39,Matt Mervis,Chicago Cubs,Sandy Alcantara,Miami Marlins,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+40,Matt Mervis,Chicago Cubs,Tanner Scott,Miami Marlins,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+41,Matt Mervis,Chicago Cubs,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Matt Mervis,Chicago Cubs,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Matt Mervis,Chicago Cubs,Andrew Nardi,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Matt Mervis,Chicago Cubs,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Matt Mervis,Chicago Cubs,A.J. Puk,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+46,Matt Mervis,Chicago Cubs,Jakob Junis,San Francisco Giants,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+47,Matt Mervis,Chicago Cubs,Tristan Beck,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Matt Mervis,Chicago Cubs,Anthony DeSclafani,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Matt Mervis,Chicago Cubs,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Matt Mervis,Chicago Cubs,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Matt Mervis,Chicago Cubs,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+52,Matt Mervis,Chicago Cubs,Tylor Megill,New York Mets,2,2,0,0,1,3,0,0,0,1.000,1.000,2.500,3.500
+53,Matt Mervis,Chicago Cubs,Carlos Carrasco,New York Mets,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+54,Matt Mervis,Chicago Cubs,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Matt Mervis,Chicago Cubs,Stephen Nogosek,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+56,Matt Mervis,Chicago Cubs,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Matt Mervis,Chicago Cubs,Kodai Senga,New York Mets,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+58,Matt Mervis,Chicago Cubs,Dauri Moreta,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+59,Matt Mervis,Chicago Cubs,Osvaldo Bido,Pittsburgh Pirates,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+60,Matt Mervis,Chicago Cubs,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Matt Mervis,Chicago Cubs,Luis L. Ortiz,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

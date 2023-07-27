@@ -1,0 +1,167 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Michael Harris II,Atlanta Braves,Cole Ragans,Texas Rangers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+1,Michael Harris II,Atlanta Braves,Cody Bradford,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Michael Harris II,Atlanta Braves,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Michael Harris II,Atlanta Braves,Dane Dunning,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Michael Harris II,Atlanta Braves,Nathan Eovaldi,Texas Rangers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Michael Harris II,Atlanta Braves,John King,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Michael Harris II,Atlanta Braves,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Michael Harris II,Atlanta Braves,Victor Gonzalez,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Michael Harris II,Atlanta Braves,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Michael Harris II,Atlanta Braves,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Michael Harris II,Atlanta Braves,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Michael Harris II,Atlanta Braves,Gavin Stone,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Michael Harris II,Atlanta Braves,Zack Littell,Tampa Bay Rays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+13,Michael Harris II,Atlanta Braves,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Michael Harris II,Atlanta Braves,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Michael Harris II,Atlanta Braves,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Michael Harris II,Atlanta Braves,Tyler Glasnow,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Michael Harris II,Atlanta Braves,Javy Guerra,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Michael Harris II,Atlanta Braves,Elvin Rodriguez,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Michael Harris II,Atlanta Braves,Brayan Bello,Boston Red Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+20,Michael Harris II,Atlanta Braves,Brennan Bernardino,Boston Red Sox,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+21,Michael Harris II,Atlanta Braves,Zack Littell,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Michael Harris II,Atlanta Braves,Nick Pivetta,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Michael Harris II,Atlanta Braves,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Michael Harris II,Atlanta Braves,Jake Woodford,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+25,Michael Harris II,Atlanta Braves,Miles Mikolas,St. Louis Cardinals,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+26,Michael Harris II,Atlanta Braves,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Michael Harris II,Atlanta Braves,Steven Matz,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Michael Harris II,Atlanta Braves,Packy Naughton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Michael Harris II,Atlanta Braves,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Michael Harris II,Atlanta Braves,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Michael Harris II,Atlanta Braves,Miguel Castro,Arizona Diamondbacks,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+32,Michael Harris II,Atlanta Braves,Zach Davies,Arizona Diamondbacks,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+33,Michael Harris II,Atlanta Braves,Drey Jameson,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+34,Michael Harris II,Atlanta Braves,Zac Gallen,Arizona Diamondbacks,4,1,1,0,0,0,0,0,1,.250,.250,.500,.750
+35,Michael Harris II,Atlanta Braves,Ryne Nelson,Arizona Diamondbacks,4,1,0,1,0,0,0,0,1,.250,.250,.750,1.000
+36,Michael Harris II,Atlanta Braves,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Michael Harris II,Atlanta Braves,Tyler Gilbert,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Michael Harris II,Atlanta Braves,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+39,Michael Harris II,Atlanta Braves,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Michael Harris II,Atlanta Braves,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Michael Harris II,Atlanta Braves,Levi Stoudt,Cincinnati Reds,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+42,Michael Harris II,Atlanta Braves,Luke Weaver,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+43,Michael Harris II,Atlanta Braves,Graham Ashcraft,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Michael Harris II,Atlanta Braves,Silvino Bracho,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Michael Harris II,Atlanta Braves,Fernando Cruz,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+46,Michael Harris II,Atlanta Braves,Daniel Duarte,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Michael Harris II,Atlanta Braves,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Michael Harris II,Atlanta Braves,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Michael Harris II,Atlanta Braves,Randy Wynne,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Michael Harris II,Atlanta Braves,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Michael Harris II,Atlanta Braves,Jose Berrios,Toronto Blue Jays,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+52,Michael Harris II,Atlanta Braves,Yusei Kikuchi,Toronto Blue Jays,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+53,Michael Harris II,Atlanta Braves,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Michael Harris II,Atlanta Braves,Chris Bassitt,Toronto Blue Jays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+55,Michael Harris II,Atlanta Braves,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Michael Harris II,Atlanta Braves,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Michael Harris II,Atlanta Braves,Cionel Perez,Baltimore Orioles,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+58,Michael Harris II,Atlanta Braves,Felix Bautista,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+59,Michael Harris II,Atlanta Braves,Kyle Bradish,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+60,Michael Harris II,Atlanta Braves,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Michael Harris II,Atlanta Braves,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Michael Harris II,Atlanta Braves,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Michael Harris II,Atlanta Braves,Jose Alvarado,Philadelphia Phillies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+64,Michael Harris II,Atlanta Braves,Connor Brogdon,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+65,Michael Harris II,Atlanta Braves,Taijuan Walker,Philadelphia Phillies,3,2,0,0,1,2,0,0,1,.667,.667,1.667,2.334
+66,Michael Harris II,Atlanta Braves,Yunior Marte,Philadelphia Phillies,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+67,Michael Harris II,Atlanta Braves,Ranger Suarez,Philadelphia Phillies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+68,Michael Harris II,Atlanta Braves,Dylan Covey,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Michael Harris II,Atlanta Braves,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Michael Harris II,Atlanta Braves,Craig Kimbrel,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+71,Michael Harris II,Atlanta Braves,Aaron Nola,Philadelphia Phillies,4,0,0,0,0,1,0,0,2,.000,.000,.000,.000
+72,Michael Harris II,Atlanta Braves,Andrew Vasquez,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+73,Michael Harris II,Atlanta Braves,Zack Wheeler,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.333,.000,.333
+74,Michael Harris II,Atlanta Braves,Blake Snell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Michael Harris II,Atlanta Braves,Sonny Gray,Minnesota Twins,3,3,1,0,0,0,0,0,0,1.000,1.000,1.333,2.333
+76,Michael Harris II,Atlanta Braves,Kenta Maeda,Minnesota Twins,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+77,Michael Harris II,Atlanta Braves,Joe Ryan,Minnesota Twins,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+78,Michael Harris II,Atlanta Braves,Brent Headrick,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Michael Harris II,Atlanta Braves,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Michael Harris II,Atlanta Braves,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Michael Harris II,Atlanta Braves,Steven Okert,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+82,Michael Harris II,Atlanta Braves,Johan Quezada,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+83,Michael Harris II,Atlanta Braves,Braxton Garrett,Miami Marlins,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+84,Michael Harris II,Atlanta Braves,Sandy Alcantara,Miami Marlins,5,1,0,0,0,0,0,0,2,.200,.200,.200,.400
+85,Michael Harris II,Atlanta Braves,Archie Bradley,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Michael Harris II,Atlanta Braves,Dylan Floro,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+87,Michael Harris II,Atlanta Braves,Bryan Hoeing,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Michael Harris II,Atlanta Braves,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Michael Harris II,Atlanta Braves,Devin Smeltzer,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Michael Harris II,Atlanta Braves,George Soriano,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Michael Harris II,Atlanta Braves,Patrick Corbin,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+92,Michael Harris II,Atlanta Braves,Josiah Gray,Washington Nationals,4,2,0,0,0,1,0,0,0,.500,.500,.500,1.000
+93,Michael Harris II,Atlanta Braves,Erasmo Ramirez,Washington Nationals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+94,Michael Harris II,Atlanta Braves,Trevor Williams,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+95,Michael Harris II,Atlanta Braves,Anthony Banda,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Michael Harris II,Atlanta Braves,Carl Edwards Jr.,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Michael Harris II,Atlanta Braves,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+98,Michael Harris II,Atlanta Braves,MacKenzie Gore,Washington Nationals,3,0,0,0,0,0,1,0,0,.000,.250,.000,.250
+99,Michael Harris II,Atlanta Braves,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Michael Harris II,Atlanta Braves,Chad Kuhl,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Michael Harris II,Atlanta Braves,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Michael Harris II,Atlanta Braves,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Michael Harris II,Atlanta Braves,Brooks Raley,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+104,Michael Harris II,Atlanta Braves,Denyi Reyes,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+105,Michael Harris II,Atlanta Braves,Max Scherzer,New York Mets,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+106,Michael Harris II,Atlanta Braves,Stephen Nogosek,New York Mets,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+107,Michael Harris II,Atlanta Braves,Adam Ottavino,New York Mets,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+108,Michael Harris II,Atlanta Braves,Jeff Brigham,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+109,Michael Harris II,Atlanta Braves,Carlos Carrasco,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+110,Michael Harris II,Atlanta Braves,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Michael Harris II,Atlanta Braves,David Peterson,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Michael Harris II,Atlanta Braves,David Robertson,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+113,Michael Harris II,Atlanta Braves,Drew Smith,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+114,Michael Harris II,Atlanta Braves,Justin Verlander,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+115,Michael Harris II,Atlanta Braves,Chase Anderson,Colorado Rockies,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+116,Michael Harris II,Atlanta Braves,Pierce Johnson,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+117,Michael Harris II,Atlanta Braves,Connor Seabold,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,.500,1.000,1.500
+118,Michael Harris II,Atlanta Braves,Brent Suter,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+119,Michael Harris II,Atlanta Braves,Matt Carasiti,Colorado Rockies,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+120,Michael Harris II,Atlanta Braves,Kyle Freeland,Colorado Rockies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+121,Michael Harris II,Atlanta Braves,Dinelson Lamet,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+122,Michael Harris II,Atlanta Braves,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Michael Harris II,Atlanta Braves,Gavin Hollowell,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Michael Harris II,Atlanta Braves,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Michael Harris II,Atlanta Braves,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Michael Harris II,Atlanta Braves,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Michael Harris II,Atlanta Braves,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Michael Harris II,Atlanta Braves,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Michael Harris II,Atlanta Braves,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Michael Harris II,Atlanta Braves,Bryce Miller,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Michael Harris II,Atlanta Braves,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Michael Harris II,Atlanta Braves,Tim Herrin,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+133,Michael Harris II,Atlanta Braves,Gavin Williams,Cleveland Guardians,2,2,0,0,2,2,0,0,0,1.000,1.000,4.000,5.000
+134,Michael Harris II,Atlanta Braves,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Michael Harris II,Atlanta Braves,Xzavion Curry,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Michael Harris II,Atlanta Braves,Sam Hentges,Cleveland Guardians,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+137,Michael Harris II,Atlanta Braves,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Michael Harris II,Atlanta Braves,Cal Quantrill,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+139,Michael Harris II,Atlanta Braves,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Michael Harris II,Atlanta Braves,Reynaldo Lopez,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+141,Michael Harris II,Atlanta Braves,Bryan Shaw,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+142,Michael Harris II,Atlanta Braves,Touki Toussaint,Chicago White Sox,1,1,1,0,0,0,2,0,0,1.000,1.000,2.000,3.000
+143,Michael Harris II,Atlanta Braves,Dylan Cease,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+144,Michael Harris II,Atlanta Braves,Lance Lynn,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+145,Michael Harris II,Atlanta Braves,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Michael Harris II,Atlanta Braves,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+147,Michael Harris II,Atlanta Braves,Jesse Scholtens,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Michael Harris II,Atlanta Braves,Freddy Peralta,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+149,Michael Harris II,Atlanta Braves,J.C. Mejia,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Michael Harris II,Atlanta Braves,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+151,Michael Harris II,Atlanta Braves,Braden Bristo,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+152,Michael Harris II,Atlanta Braves,Mason Englert,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+153,Michael Harris II,Atlanta Braves,Garrett Hill,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+154,Michael Harris II,Atlanta Braves,Reese Olson,Detroit Tigers,2,2,1,0,0,2,0,0,0,1.000,1.000,1.500,2.500
+155,Michael Harris II,Atlanta Braves,Brendan White,Detroit Tigers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+156,Michael Harris II,Atlanta Braves,Tyler Alexander,Detroit Tigers,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+157,Michael Harris II,Atlanta Braves,Michael Lorenzen,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Michael Harris II,Atlanta Braves,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Michael Harris II,Atlanta Braves,JP Sears,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+160,Michael Harris II,Atlanta Braves,Paul Blackburn,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Michael Harris II,Atlanta Braves,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+162,Michael Harris II,Atlanta Braves,James Kaprielian,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+163,Michael Harris II,Atlanta Braves,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+164,Michael Harris II,Atlanta Braves,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+165,Michael Harris II,Atlanta Braves,Ken Waldichuk,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

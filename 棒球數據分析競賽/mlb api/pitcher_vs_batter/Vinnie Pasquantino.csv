@@ -1,0 +1,126 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Vinnie Pasquantino,Kansas City Royals,Michael Tonkin,Atlanta Braves,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+1,Vinnie Pasquantino,Kansas City Royals,Bryce Elder,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+2,Vinnie Pasquantino,Kansas City Royals,Dylan Lee,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Vinnie Pasquantino,Kansas City Royals,Charlie Morton,Atlanta Braves,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+4,Vinnie Pasquantino,Kansas City Royals,Kyle Wright,Atlanta Braves,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+5,Vinnie Pasquantino,Kansas City Royals,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Vinnie Pasquantino,Kansas City Royals,Jacob deGrom,Texas Rangers,4,3,2,0,0,0,1,0,0,.750,.800,1.250,2.050
+7,Vinnie Pasquantino,Kansas City Royals,Brock Burke,Texas Rangers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+8,Vinnie Pasquantino,Kansas City Royals,Jose Leclerc,Texas Rangers,2,1,0,0,0,0,1,1,0,.500,.667,.500,1.167
+9,Vinnie Pasquantino,Kansas City Royals,Martin Perez,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+10,Vinnie Pasquantino,Kansas City Royals,Nathan Eovaldi,Texas Rangers,6,1,0,0,1,1,0,0,0,.167,.167,.667,.834
+11,Vinnie Pasquantino,Kansas City Royals,Dane Dunning,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+12,Vinnie Pasquantino,Kansas City Royals,Andrew Heaney,Texas Rangers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+13,Vinnie Pasquantino,Kansas City Royals,Taylor Hearn,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+14,Vinnie Pasquantino,Kansas City Royals,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Vinnie Pasquantino,Kansas City Royals,Reid Detmers,Los Angeles Angels,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+16,Vinnie Pasquantino,Kansas City Royals,Shohei Ohtani,Los Angeles Angels,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+17,Vinnie Pasquantino,Kansas City Royals,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+18,Vinnie Pasquantino,Kansas City Royals,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Vinnie Pasquantino,Kansas City Royals,Jose Quijada,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Vinnie Pasquantino,Kansas City Royals,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Vinnie Pasquantino,Kansas City Royals,Giovanny Gallegos,St. Louis Cardinals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+22,Vinnie Pasquantino,Kansas City Royals,Adam Wainwright,St. Louis Cardinals,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+23,Vinnie Pasquantino,Kansas City Royals,Steven Matz,St. Louis Cardinals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+24,Vinnie Pasquantino,Kansas City Royals,Miles Mikolas,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+25,Vinnie Pasquantino,Kansas City Royals,Andrew Chafin,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Vinnie Pasquantino,Kansas City Royals,Tommy Henry,Arizona Diamondbacks,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+27,Vinnie Pasquantino,Kansas City Royals,Kyle Nelson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,Vinnie Pasquantino,Kansas City Royals,Zac Gallen,Arizona Diamondbacks,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+29,Vinnie Pasquantino,Kansas City Royals,Ryne Nelson,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+30,Vinnie Pasquantino,Kansas City Royals,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Vinnie Pasquantino,Kansas City Royals,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Vinnie Pasquantino,Kansas City Royals,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Vinnie Pasquantino,Kansas City Royals,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Vinnie Pasquantino,Kansas City Royals,Tim Mayza,Toronto Blue Jays,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+35,Vinnie Pasquantino,Kansas City Royals,Jose Berrios,Toronto Blue Jays,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+36,Vinnie Pasquantino,Kansas City Royals,Kevin Gausman,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Vinnie Pasquantino,Kansas City Royals,Alek Manoah,Toronto Blue Jays,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+38,Vinnie Pasquantino,Kansas City Royals,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Vinnie Pasquantino,Kansas City Royals,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Vinnie Pasquantino,Kansas City Royals,Keegan Akin,Baltimore Orioles,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+41,Vinnie Pasquantino,Kansas City Royals,Mike Baumann,Baltimore Orioles,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+42,Vinnie Pasquantino,Kansas City Royals,Cionel Perez,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+43,Vinnie Pasquantino,Kansas City Royals,Kyle Gibson,Baltimore Orioles,3,2,1,0,1,2,0,0,0,.667,.667,2.000,2.667
+44,Vinnie Pasquantino,Kansas City Royals,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Vinnie Pasquantino,Kansas City Royals,Yennier Cano,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Vinnie Pasquantino,Kansas City Royals,Grayson Rodriguez,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Vinnie Pasquantino,Kansas City Royals,Tyler Wells,Baltimore Orioles,6,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Vinnie Pasquantino,Kansas City Royals,Nick Martinez,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+49,Vinnie Pasquantino,Kansas City Royals,Steven Wilson,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+50,Vinnie Pasquantino,Kansas City Royals,Yu Darvish,San Diego Padres,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+51,Vinnie Pasquantino,Kansas City Royals,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Vinnie Pasquantino,Kansas City Royals,Seth Lugo,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Vinnie Pasquantino,Kansas City Royals,Michael Wacha,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Vinnie Pasquantino,Kansas City Royals,Emilio Pagan,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Vinnie Pasquantino,Kansas City Royals,Josh Winder,Minnesota Twins,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+56,Vinnie Pasquantino,Kansas City Royals,Sonny Gray,Minnesota Twins,4,2,1,0,0,0,2,0,0,.500,.667,.750,1.417
+57,Vinnie Pasquantino,Kansas City Royals,Tyler Mahle,Minnesota Twins,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+58,Vinnie Pasquantino,Kansas City Royals,Jhoan Duran,Minnesota Twins,0,0,0,0,0,0,2,1,0,.000,1.000,.000,1.000
+59,Vinnie Pasquantino,Kansas City Royals,Griffin Jax,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Vinnie Pasquantino,Kansas City Royals,Pablo Lopez,Minnesota Twins,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+61,Vinnie Pasquantino,Kansas City Royals,Jorge Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Vinnie Pasquantino,Kansas City Royals,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Vinnie Pasquantino,Kansas City Royals,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+64,Vinnie Pasquantino,Kansas City Royals,Joe Ryan,Minnesota Twins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Vinnie Pasquantino,Kansas City Royals,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Vinnie Pasquantino,Kansas City Royals,Caleb Thielbar,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Vinnie Pasquantino,Kansas City Royals,Carl Edwards Jr.,Washington Nationals,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+68,Vinnie Pasquantino,Kansas City Royals,Patrick Corbin,Washington Nationals,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Vinnie Pasquantino,Kansas City Royals,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Vinnie Pasquantino,Kansas City Royals,MacKenzie Gore,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Vinnie Pasquantino,Kansas City Royals,Josiah Gray,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Vinnie Pasquantino,Kansas City Royals,Chad Kuhl,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Vinnie Pasquantino,Kansas City Royals,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Vinnie Pasquantino,Kansas City Royals,A.J. Puk,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+75,Vinnie Pasquantino,Kansas City Royals,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Vinnie Pasquantino,Kansas City Royals,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Vinnie Pasquantino,Kansas City Royals,Jesus Luzardo,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Vinnie Pasquantino,Kansas City Royals,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Vinnie Pasquantino,Kansas City Royals,Camilo Doval,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+80,Vinnie Pasquantino,Kansas City Royals,Alex Cobb,San Francisco Giants,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+81,Vinnie Pasquantino,Kansas City Royals,Anthony DeSclafani,San Francisco Giants,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+82,Vinnie Pasquantino,Kansas City Royals,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Vinnie Pasquantino,Kansas City Royals,Tyler Rogers,San Francisco Giants,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Vinnie Pasquantino,Kansas City Royals,Taylor Rogers,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+85,Vinnie Pasquantino,Kansas City Royals,Ross Stripling,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Vinnie Pasquantino,Kansas City Royals,Chase Anderson,Colorado Rockies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Vinnie Pasquantino,Kansas City Royals,Daniel Bard,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+88,Vinnie Pasquantino,Kansas City Royals,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Vinnie Pasquantino,Kansas City Royals,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Vinnie Pasquantino,Kansas City Royals,Kyle Freeland,Colorado Rockies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Vinnie Pasquantino,Kansas City Royals,Austin Gomber,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+92,Vinnie Pasquantino,Kansas City Royals,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Vinnie Pasquantino,Kansas City Royals,Nicholas Padilla,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+94,Vinnie Pasquantino,Kansas City Royals,Dylan Cease,Chicago White Sox,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+95,Vinnie Pasquantino,Kansas City Royals,Lance Lynn,Chicago White Sox,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+96,Vinnie Pasquantino,Kansas City Royals,Lucas Giolito,Chicago White Sox,6,2,0,0,1,2,0,0,1,.333,.333,.833,1.166
+97,Vinnie Pasquantino,Kansas City Royals,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Vinnie Pasquantino,Kansas City Royals,Mike Clevinger,Chicago White Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Vinnie Pasquantino,Kansas City Royals,Joe Kelly,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Vinnie Pasquantino,Kansas City Royals,Michael Kopech,Chicago White Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+101,Vinnie Pasquantino,Kansas City Royals,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Vinnie Pasquantino,Kansas City Royals,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Vinnie Pasquantino,Kansas City Royals,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Vinnie Pasquantino,Kansas City Royals,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+105,Vinnie Pasquantino,Kansas City Royals,Adrian Houser,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Vinnie Pasquantino,Kansas City Royals,Eric Lauer,Milwaukee Brewers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+107,Vinnie Pasquantino,Kansas City Royals,Joel Payamps,Milwaukee Brewers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+108,Vinnie Pasquantino,Kansas City Royals,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Vinnie Pasquantino,Kansas City Royals,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Vinnie Pasquantino,Kansas City Royals,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Vinnie Pasquantino,Kansas City Royals,Chasen Shreve,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+112,Vinnie Pasquantino,Kansas City Royals,Matthew Boyd,Detroit Tigers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+113,Vinnie Pasquantino,Kansas City Royals,Alex Lange,Detroit Tigers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+114,Vinnie Pasquantino,Kansas City Royals,Michael Lorenzen,Detroit Tigers,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+115,Vinnie Pasquantino,Kansas City Royals,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Vinnie Pasquantino,Kansas City Royals,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Vinnie Pasquantino,Kansas City Royals,Eduardo Rodriguez,Detroit Tigers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+118,Vinnie Pasquantino,Kansas City Royals,Zach Jackson,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+119,Vinnie Pasquantino,Kansas City Royals,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+120,Vinnie Pasquantino,Kansas City Royals,Rico Garcia,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Vinnie Pasquantino,Kansas City Royals,Mason Miller,Oakland Athletics,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+122,Vinnie Pasquantino,Kansas City Royals,Sam Moll,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+123,Vinnie Pasquantino,Kansas City Royals,Kyle Muller,Oakland Athletics,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+124,Vinnie Pasquantino,Kansas City Royals,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333

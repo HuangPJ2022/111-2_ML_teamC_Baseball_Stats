@@ -1,0 +1,117 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Joey Wendle,Miami Marlins,Nick Anderson,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Joey Wendle,Miami Marlins,Ben Heller,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Joey Wendle,Miami Marlins,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Joey Wendle,Miami Marlins,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Joey Wendle,Miami Marlins,Charlie Morton,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Joey Wendle,Miami Marlins,Michael Soroka,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Joey Wendle,Miami Marlins,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+7,Joey Wendle,Miami Marlins,Shohei Ohtani,Los Angeles Angels,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+8,Joey Wendle,Miami Marlins,Sam Bachman,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+9,Joey Wendle,Miami Marlins,Chase Silseth,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+10,Joey Wendle,Miami Marlins,Joe Jacques,Boston Red Sox,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Joey Wendle,Miami Marlins,Kenley Jansen,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+12,Joey Wendle,Miami Marlins,Chris Murphy,Boston Red Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+13,Joey Wendle,Miami Marlins,Nick Pivetta,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+14,Joey Wendle,Miami Marlins,Garrett Whitlock,Boston Red Sox,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+15,Joey Wendle,Miami Marlins,Brayan Bello,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+16,Joey Wendle,Miami Marlins,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Joey Wendle,Miami Marlins,Justin Garza,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+18,Joey Wendle,Miami Marlins,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Joey Wendle,Miami Marlins,James Naile,St. Louis Cardinals,2,2,2,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+20,Joey Wendle,Miami Marlins,Jordan Hicks,St. Louis Cardinals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+21,Joey Wendle,Miami Marlins,Miles Mikolas,St. Louis Cardinals,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+22,Joey Wendle,Miami Marlins,Jack Flaherty,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Joey Wendle,Miami Marlins,Giovanny Gallegos,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Joey Wendle,Miami Marlins,Dakota Hudson,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Joey Wendle,Miami Marlins,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Joey Wendle,Miami Marlins,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Joey Wendle,Miami Marlins,Adam Wainwright,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Joey Wendle,Miami Marlins,Miguel Castro,Arizona Diamondbacks,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+29,Joey Wendle,Miami Marlins,Zac Gallen,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Joey Wendle,Miami Marlins,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Joey Wendle,Miami Marlins,Merrill Kelly,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Joey Wendle,Miami Marlins,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Joey Wendle,Miami Marlins,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Joey Wendle,Miami Marlins,Brandon Pfaadt,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Joey Wendle,Miami Marlins,Graham Ashcraft,Cincinnati Reds,2,1,0,1,0,0,0,0,1,.500,.500,1.500,2.000
+36,Joey Wendle,Miami Marlins,Alexis Diaz,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Joey Wendle,Miami Marlins,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Joey Wendle,Miami Marlins,Levi Stoudt,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Joey Wendle,Miami Marlins,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Joey Wendle,Miami Marlins,Nate Pearson,Toronto Blue Jays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+41,Joey Wendle,Miami Marlins,Erik Swanson,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+42,Joey Wendle,Miami Marlins,Kevin Gausman,Toronto Blue Jays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+43,Joey Wendle,Miami Marlins,Jose Berrios,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+44,Joey Wendle,Miami Marlins,Ernie Clement,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Joey Wendle,Miami Marlins,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Joey Wendle,Miami Marlins,Trent Thornton,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Joey Wendle,Miami Marlins,Bryan Baker,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+48,Joey Wendle,Miami Marlins,Kyle Gibson,Baltimore Orioles,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+49,Joey Wendle,Miami Marlins,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Joey Wendle,Miami Marlins,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Joey Wendle,Miami Marlins,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+52,Joey Wendle,Miami Marlins,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Joey Wendle,Miami Marlins,Dean Kremer,Baltimore Orioles,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+54,Joey Wendle,Miami Marlins,Gregory Soto,Philadelphia Phillies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+55,Joey Wendle,Miami Marlins,Zack Wheeler,Philadelphia Phillies,3,2,2,0,0,0,0,0,0,.667,.667,1.333,2.000
+56,Joey Wendle,Miami Marlins,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Joey Wendle,Miami Marlins,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+58,Joey Wendle,Miami Marlins,Mark Leiter Jr.,Chicago Cubs,1,1,0,1,0,1,0,0,0,1.000,1.000,3.000,4.000
+59,Joey Wendle,Miami Marlins,Drew Carlton,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+60,Joey Wendle,Miami Marlins,Josh Hader,San Diego Padres,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Joey Wendle,Miami Marlins,Joe Musgrove,San Diego Padres,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+62,Joey Wendle,Miami Marlins,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Joey Wendle,Miami Marlins,Carl Edwards Jr.,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+64,Joey Wendle,Miami Marlins,Jake Irvin,Washington Nationals,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+65,Joey Wendle,Miami Marlins,Josiah Gray,Washington Nationals,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+66,Joey Wendle,Miami Marlins,Trevor Williams,Washington Nationals,5,1,0,0,0,0,0,0,0,.200,.200,.200,.400
+67,Joey Wendle,Miami Marlins,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Joey Wendle,Miami Marlins,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Joey Wendle,Miami Marlins,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Joey Wendle,Miami Marlins,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Joey Wendle,Miami Marlins,Jordan Weems,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Joey Wendle,Miami Marlins,Camilo Doval,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+73,Joey Wendle,Miami Marlins,Scott Alexander,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+74,Joey Wendle,Miami Marlins,Anthony DeSclafani,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Joey Wendle,Miami Marlins,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Joey Wendle,Miami Marlins,Logan Webb,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+77,Joey Wendle,Miami Marlins,Tylor Megill,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Joey Wendle,Miami Marlins,Stephen Nogosek,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+79,Joey Wendle,Miami Marlins,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Joey Wendle,Miami Marlins,Max Scherzer,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Joey Wendle,Miami Marlins,Kodai Senga,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Joey Wendle,Miami Marlins,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Joey Wendle,Miami Marlins,Peter Lambert,Colorado Rockies,4,2,1,0,0,2,0,0,1,.500,.500,.750,1.250
+84,Joey Wendle,Miami Marlins,Chase Anderson,Colorado Rockies,5,2,0,0,0,1,1,0,1,.400,.500,.400,.900
+85,Joey Wendle,Miami Marlins,Gavin Hollowell,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Joey Wendle,Miami Marlins,Pierce Johnson,Colorado Rockies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+87,Joey Wendle,Miami Marlins,Karl Kauffmann,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Joey Wendle,Miami Marlins,Justin Lawrence,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Joey Wendle,Miami Marlins,Carmen Mlodzinski,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+90,Joey Wendle,Miami Marlins,Osvaldo Bido,Pittsburgh Pirates,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+91,Joey Wendle,Miami Marlins,David Bednar,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Joey Wendle,Miami Marlins,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Joey Wendle,Miami Marlins,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+94,Joey Wendle,Miami Marlins,Luis L. Ortiz,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Joey Wendle,Miami Marlins,Dylan Cease,Chicago White Sox,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+96,Joey Wendle,Miami Marlins,Michael Kopech,Chicago White Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+97,Joey Wendle,Miami Marlins,Garrett Crochet,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Joey Wendle,Miami Marlins,Lucas Giolito,Chicago White Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+99,Joey Wendle,Miami Marlins,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Joey Wendle,Miami Marlins,Keynan Middleton,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Joey Wendle,Miami Marlins,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Joey Wendle,Miami Marlins,Mike Mayers,Kansas City Royals,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+103,Joey Wendle,Miami Marlins,Zack Greinke,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+104,Joey Wendle,Miami Marlins,Nick Wittgren,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+105,Joey Wendle,Miami Marlins,Jordan Lyles,Kansas City Royals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+106,Joey Wendle,Miami Marlins,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Joey Wendle,Miami Marlins,Jackson Kowar,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Joey Wendle,Miami Marlins,Sam Long,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+109,Joey Wendle,Miami Marlins,Richard Lovelady,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+110,Joey Wendle,Miami Marlins,Luis Medina,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+111,Joey Wendle,Miami Marlins,Austin Pruitt,Oakland Athletics,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+112,Joey Wendle,Miami Marlins,Paul Blackburn,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Joey Wendle,Miami Marlins,Lucas Erceg,Oakland Athletics,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+114,Joey Wendle,Miami Marlins,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Joey Wendle,Miami Marlins,Ken Waldichuk,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

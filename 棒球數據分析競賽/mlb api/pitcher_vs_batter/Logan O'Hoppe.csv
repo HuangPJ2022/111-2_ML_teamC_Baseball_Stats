@@ -1,0 +1,39 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Logan O'Hoppe,Los Angeles Angels,Garrett Whitlock,Boston Red Sox,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+1,Logan O'Hoppe,Los Angeles Angels,Brayan Bello,Boston Red Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+2,Logan O'Hoppe,Los Angeles Angels,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Logan O'Hoppe,Los Angeles Angels,Tanner Houck,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Logan O'Hoppe,Los Angeles Angels,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Logan O'Hoppe,Los Angeles Angels,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Logan O'Hoppe,Los Angeles Angels,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Logan O'Hoppe,Los Angeles Angels,Yusei Kikuchi,Toronto Blue Jays,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+8,Logan O'Hoppe,Los Angeles Angels,Chris Bassitt,Toronto Blue Jays,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+9,Logan O'Hoppe,Los Angeles Angels,Adam Cimber,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Logan O'Hoppe,Los Angeles Angels,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Logan O'Hoppe,Los Angeles Angels,Jordan Romano,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Logan O'Hoppe,Los Angeles Angels,Mason Thompson,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+13,Logan O'Hoppe,Los Angeles Angels,Patrick Corbin,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+14,Logan O'Hoppe,Los Angeles Angels,Josiah Gray,Washington Nationals,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+15,Logan O'Hoppe,Los Angeles Angels,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Logan O'Hoppe,Los Angeles Angels,MacKenzie Gore,Washington Nationals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+17,Logan O'Hoppe,Los Angeles Angels,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Logan O'Hoppe,Los Angeles Angels,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Logan O'Hoppe,Los Angeles Angels,Albert Abreu,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Logan O'Hoppe,Los Angeles Angels,Ron Marinaccio,New York Yankees,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+21,Logan O'Hoppe,Los Angeles Angels,Greg Weissert,New York Yankees,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+22,Logan O'Hoppe,Los Angeles Angels,Nestor Cortes,New York Yankees,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+23,Logan O'Hoppe,Los Angeles Angels,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Logan O'Hoppe,Los Angeles Angels,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Logan O'Hoppe,Los Angeles Angels,Clarke Schmidt,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Logan O'Hoppe,Los Angeles Angels,Chris Flexen,Seattle Mariners,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+27,Logan O'Hoppe,Los Angeles Angels,Diego Castillo,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Logan O'Hoppe,Los Angeles Angels,Matt Festa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Logan O'Hoppe,Los Angeles Angels,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Logan O'Hoppe,Los Angeles Angels,George Kirby,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+31,Logan O'Hoppe,Los Angeles Angels,Penn Murfee,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Logan O'Hoppe,Los Angeles Angels,Shintaro Fujinami,Oakland Athletics,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+33,Logan O'Hoppe,Los Angeles Angels,Adrian Martinez,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+34,Logan O'Hoppe,Los Angeles Angels,Kyle Muller,Oakland Athletics,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+35,Logan O'Hoppe,Los Angeles Angels,Ken Waldichuk,Oakland Athletics,3,1,0,0,1,3,0,0,0,.333,.333,1.333,1.666
+36,Logan O'Hoppe,Los Angeles Angels,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Logan O'Hoppe,Los Angeles Angels,Adam Oller,Oakland Athletics,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000

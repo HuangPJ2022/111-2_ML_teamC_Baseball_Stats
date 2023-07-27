@@ -1,0 +1,177 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Brendan Donovan,St. Louis Cardinals,Dylan Lee,Atlanta Braves,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+1,Brendan Donovan,St. Louis Cardinals,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Brendan Donovan,St. Louis Cardinals,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+3,Brendan Donovan,St. Louis Cardinals,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Brendan Donovan,St. Louis Cardinals,Charlie Morton,Atlanta Braves,3,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+5,Brendan Donovan,St. Louis Cardinals,Dane Dunning,Texas Rangers,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+6,Brendan Donovan,St. Louis Cardinals,Jon Gray,Texas Rangers,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Brendan Donovan,St. Louis Cardinals,Martin Perez,Texas Rangers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+8,Brendan Donovan,St. Louis Cardinals,Cole Ragans,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+9,Brendan Donovan,St. Louis Cardinals,Will Smith,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Brendan Donovan,St. Louis Cardinals,Victor Gonzalez,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Brendan Donovan,St. Louis Cardinals,Clayton Kershaw,Los Angeles Dodgers,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+12,Brendan Donovan,St. Louis Cardinals,Alex Vesia,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Brendan Donovan,St. Louis Cardinals,Dustin May,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+14,Brendan Donovan,St. Louis Cardinals,Noah Syndergaard,Los Angeles Dodgers,4,1,0,0,0,1,0,0,1,.250,.250,.250,.500
+15,Brendan Donovan,St. Louis Cardinals,Justin Bruihl,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Brendan Donovan,St. Louis Cardinals,Tyler Cyr,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Brendan Donovan,St. Louis Cardinals,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Brendan Donovan,St. Louis Cardinals,Andre Jackson,Los Angeles Dodgers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+19,Brendan Donovan,St. Louis Cardinals,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Brendan Donovan,St. Louis Cardinals,Evan Phillips,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Brendan Donovan,St. Louis Cardinals,Wander Suero,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Brendan Donovan,St. Louis Cardinals,Julio Urias,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Brendan Donovan,St. Louis Cardinals,Griffin Canning,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Brendan Donovan,St. Louis Cardinals,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Brendan Donovan,St. Louis Cardinals,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Brendan Donovan,St. Louis Cardinals,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Brendan Donovan,St. Louis Cardinals,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+28,Brendan Donovan,St. Louis Cardinals,Chase Silseth,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Brendan Donovan,St. Louis Cardinals,Josh Winckowski,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+30,Brendan Donovan,St. Louis Cardinals,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Brendan Donovan,St. Louis Cardinals,Ryan Brasier,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Brendan Donovan,St. Louis Cardinals,Kenley Jansen,Boston Red Sox,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+33,Brendan Donovan,St. Louis Cardinals,Corey Kluber,Boston Red Sox,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+34,Brendan Donovan,St. Louis Cardinals,Merrill Kelly,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+35,Brendan Donovan,St. Louis Cardinals,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Brendan Donovan,St. Louis Cardinals,Graham Ashcraft,Cincinnati Reds,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+37,Brendan Donovan,St. Louis Cardinals,Hunter Greene,Cincinnati Reds,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+38,Brendan Donovan,St. Louis Cardinals,Ben Lively,Cincinnati Reds,6,4,0,0,1,2,1,0,0,.667,.714,1.167,1.881
+39,Brendan Donovan,St. Louis Cardinals,Andrew Abbott,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Brendan Donovan,St. Louis Cardinals,Silvino Bracho,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+41,Brendan Donovan,St. Louis Cardinals,Alan Busenitz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Brendan Donovan,St. Louis Cardinals,Alexis Diaz,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Brendan Donovan,St. Louis Cardinals,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+44,Brendan Donovan,St. Louis Cardinals,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+45,Brendan Donovan,St. Louis Cardinals,Joel Kuhnel,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Brendan Donovan,St. Louis Cardinals,Lucas Sims,Cincinnati Reds,0,0,0,0,0,0,2,1,0,.000,1.000,.000,1.000
+47,Brendan Donovan,St. Louis Cardinals,Luke Weaver,Cincinnati Reds,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Brendan Donovan,St. Louis Cardinals,Alek Manoah,Toronto Blue Jays,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+49,Brendan Donovan,St. Louis Cardinals,Chris Bassitt,Toronto Blue Jays,2,1,0,0,1,2,0,0,0,.500,.333,2.000,2.333
+50,Brendan Donovan,St. Louis Cardinals,Tim Mayza,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+51,Brendan Donovan,St. Louis Cardinals,Kevin Gausman,Toronto Blue Jays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+52,Brendan Donovan,St. Louis Cardinals,Adam Cimber,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Brendan Donovan,St. Louis Cardinals,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Brendan Donovan,St. Louis Cardinals,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Brendan Donovan,St. Louis Cardinals,Keegan Thompson,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+56,Brendan Donovan,St. Louis Cardinals,Adbert Alzolay,Chicago Cubs,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+57,Brendan Donovan,St. Louis Cardinals,Marcus Stroman,Chicago Cubs,5,2,0,0,0,2,0,0,0,.400,.500,.400,.900
+58,Brendan Donovan,St. Louis Cardinals,Javier Assad,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Brendan Donovan,St. Louis Cardinals,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Brendan Donovan,St. Louis Cardinals,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+61,Brendan Donovan,St. Louis Cardinals,Julian Merryweather,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+62,Brendan Donovan,St. Louis Cardinals,Justin Steele,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Brendan Donovan,St. Louis Cardinals,Jameson Taillon,Chicago Cubs,1,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+64,Brendan Donovan,St. Louis Cardinals,Shawn Dubin,Houston Astros,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+65,Brendan Donovan,St. Louis Cardinals,Cristian Javier,Houston Astros,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+66,Brendan Donovan,St. Louis Cardinals,J.P. France,Houston Astros,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+67,Brendan Donovan,St. Louis Cardinals,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Brendan Donovan,St. Louis Cardinals,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Brendan Donovan,St. Louis Cardinals,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Brendan Donovan,St. Louis Cardinals,Framber Valdez,Houston Astros,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+71,Brendan Donovan,St. Louis Cardinals,Huascar Brazoban,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+72,Brendan Donovan,St. Louis Cardinals,Jacob Stallings,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+73,Brendan Donovan,St. Louis Cardinals,Edward Cabrera,Miami Marlins,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+74,Brendan Donovan,St. Louis Cardinals,Tanner Scott,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+75,Brendan Donovan,St. Louis Cardinals,George Soriano,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+76,Brendan Donovan,St. Louis Cardinals,Bryan Hoeing,Miami Marlins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+77,Brendan Donovan,St. Louis Cardinals,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Brendan Donovan,St. Louis Cardinals,Jeff Lindgren,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Brendan Donovan,St. Louis Cardinals,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Brendan Donovan,St. Louis Cardinals,Eury Perez,Miami Marlins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+81,Brendan Donovan,St. Louis Cardinals,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Brendan Donovan,St. Louis Cardinals,Cory Abbott,Washington Nationals,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+83,Brendan Donovan,St. Louis Cardinals,Thaddeus Ward,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+84,Brendan Donovan,St. Louis Cardinals,MacKenzie Gore,Washington Nationals,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+85,Brendan Donovan,St. Louis Cardinals,Josiah Gray,Washington Nationals,6,3,1,0,1,4,0,0,1,.500,.500,1.167,1.667
+86,Brendan Donovan,St. Louis Cardinals,Jake Irvin,Washington Nationals,2,1,0,1,0,2,0,0,0,.500,.500,1.500,2.000
+87,Brendan Donovan,St. Louis Cardinals,Trevor Williams,Washington Nationals,4,1,0,0,0,0,0,0,0,.250,.400,.250,.650
+88,Brendan Donovan,St. Louis Cardinals,Joan Adon,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Brendan Donovan,St. Louis Cardinals,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Brendan Donovan,St. Louis Cardinals,Paolo Espino,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Brendan Donovan,St. Louis Cardinals,Jose A. Ferrer,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Brendan Donovan,St. Louis Cardinals,Kyle Finnegan,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+93,Brendan Donovan,St. Louis Cardinals,Hunter Harvey,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Brendan Donovan,St. Louis Cardinals,Chad Kuhl,Washington Nationals,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+95,Brendan Donovan,St. Louis Cardinals,Jordan Weems,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+96,Brendan Donovan,St. Louis Cardinals,Amos Willingham,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Brendan Donovan,St. Louis Cardinals,Alex Cobb,San Francisco Giants,5,3,1,0,0,0,1,0,0,.600,.667,.800,1.467
+98,Brendan Donovan,St. Louis Cardinals,Tyler Rogers,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+99,Brendan Donovan,St. Louis Cardinals,Logan Webb,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+100,Brendan Donovan,St. Louis Cardinals,Anthony DeSclafani,San Francisco Giants,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+101,Brendan Donovan,St. Louis Cardinals,Tristan Beck,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+102,Brendan Donovan,St. Louis Cardinals,Camilo Doval,San Francisco Giants,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+103,Brendan Donovan,St. Louis Cardinals,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Brendan Donovan,St. Louis Cardinals,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Brendan Donovan,St. Louis Cardinals,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Brendan Donovan,St. Louis Cardinals,Taylor Rogers,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Brendan Donovan,St. Louis Cardinals,Keaton Winn,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Brendan Donovan,St. Louis Cardinals,Carlos Carrasco,New York Mets,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+109,Brendan Donovan,St. Louis Cardinals,Brooks Raley,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+110,Brendan Donovan,St. Louis Cardinals,John Curtiss,New York Mets,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+111,Brendan Donovan,St. Louis Cardinals,Tylor Megill,New York Mets,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+112,Brendan Donovan,St. Louis Cardinals,Kodai Senga,New York Mets,4,1,0,0,0,1,0,0,0,.250,.250,.250,.500
+113,Brendan Donovan,St. Louis Cardinals,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Brendan Donovan,St. Louis Cardinals,Josh Walker,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Brendan Donovan,St. Louis Cardinals,German Marquez,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+116,Brendan Donovan,St. Louis Cardinals,Jose Urena,Colorado Rockies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+117,Brendan Donovan,St. Louis Cardinals,Jake Bird,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+118,Brendan Donovan,St. Louis Cardinals,Kyle Freeland,Colorado Rockies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+119,Brendan Donovan,St. Louis Cardinals,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Brendan Donovan,St. Louis Cardinals,Pierce Johnson,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+121,Brendan Donovan,St. Louis Cardinals,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Brendan Donovan,St. Louis Cardinals,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Brendan Donovan,St. Louis Cardinals,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Brendan Donovan,St. Louis Cardinals,Gerrit Cole,New York Yankees,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+125,Brendan Donovan,St. Louis Cardinals,Jimmy Cordero,New York Yankees,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+126,Brendan Donovan,St. Louis Cardinals,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Brendan Donovan,St. Louis Cardinals,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Brendan Donovan,St. Louis Cardinals,Tanner Bibee,Cleveland Guardians,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+129,Brendan Donovan,St. Louis Cardinals,Trevor Stephan,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+130,Brendan Donovan,St. Louis Cardinals,Shane Bieber,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+131,Brendan Donovan,St. Louis Cardinals,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Brendan Donovan,St. Louis Cardinals,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Brendan Donovan,St. Louis Cardinals,Hunter Gaddis,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+134,Brendan Donovan,St. Louis Cardinals,James Karinchak,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+135,Brendan Donovan,St. Louis Cardinals,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Brendan Donovan,St. Louis Cardinals,Roansy Contreras,Pittsburgh Pirates,5,4,1,0,1,2,0,0,1,.800,.800,1.600,2.400
+137,Brendan Donovan,St. Louis Cardinals,Vince Velasquez,Pittsburgh Pirates,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+138,Brendan Donovan,St. Louis Cardinals,David Bednar,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+139,Brendan Donovan,St. Louis Cardinals,Johan Oviedo,Pittsburgh Pirates,4,1,1,0,0,0,0,0,1,.250,.250,.500,.750
+140,Brendan Donovan,St. Louis Cardinals,Cody Bolton,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+141,Brendan Donovan,St. Louis Cardinals,Jose Hernandez,Pittsburgh Pirates,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+142,Brendan Donovan,St. Louis Cardinals,Colin Holderman,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Brendan Donovan,St. Louis Cardinals,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Brendan Donovan,St. Louis Cardinals,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+145,Brendan Donovan,St. Louis Cardinals,Luis L. Ortiz,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Brendan Donovan,St. Louis Cardinals,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Brendan Donovan,St. Louis Cardinals,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Brendan Donovan,St. Louis Cardinals,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Brendan Donovan,St. Louis Cardinals,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+150,Brendan Donovan,St. Louis Cardinals,Gregory Santos,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+151,Brendan Donovan,St. Louis Cardinals,Dylan Cease,Chicago White Sox,4,2,0,0,0,0,0,0,0,.500,.500,.500,1.000
+152,Brendan Donovan,St. Louis Cardinals,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+153,Brendan Donovan,St. Louis Cardinals,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+154,Brendan Donovan,St. Louis Cardinals,Touki Toussaint,Chicago White Sox,3,0,0,0,0,1,0,0,2,.000,.000,.000,.000
+155,Brendan Donovan,St. Louis Cardinals,Corbin Burnes,Milwaukee Brewers,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+156,Brendan Donovan,St. Louis Cardinals,Hoby Milner,Milwaukee Brewers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+157,Brendan Donovan,St. Louis Cardinals,Brandon Woodruff,Milwaukee Brewers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+158,Brendan Donovan,St. Louis Cardinals,Jake Cousins,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Brendan Donovan,St. Louis Cardinals,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Brendan Donovan,St. Louis Cardinals,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Brendan Donovan,St. Louis Cardinals,Freddy Peralta,Milwaukee Brewers,5,0,0,0,0,0,1,0,1,.000,.167,.000,.167
+162,Brendan Donovan,St. Louis Cardinals,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Brendan Donovan,St. Louis Cardinals,Gus Varland,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+164,Brendan Donovan,St. Louis Cardinals,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+165,Brendan Donovan,St. Louis Cardinals,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+166,Brendan Donovan,St. Louis Cardinals,Mason Englert,Detroit Tigers,1,1,0,0,1,3,1,0,0,1.000,1.000,4.000,5.000
+167,Brendan Donovan,St. Louis Cardinals,Alex Faedo,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+168,Brendan Donovan,St. Louis Cardinals,Spencer Turnbull,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+169,Brendan Donovan,St. Louis Cardinals,Tyler Holton,Detroit Tigers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+170,Brendan Donovan,St. Louis Cardinals,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Brendan Donovan,St. Louis Cardinals,Aroldis Chapman,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+172,Brendan Donovan,St. Louis Cardinals,Zack Greinke,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+173,Brendan Donovan,St. Louis Cardinals,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Brendan Donovan,St. Louis Cardinals,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+175,Brendan Donovan,St. Louis Cardinals,Mike Mayers,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

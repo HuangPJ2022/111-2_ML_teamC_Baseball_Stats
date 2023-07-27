@@ -1,0 +1,71 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Luke Maile,Cincinnati Reds,Lucas Luetge,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Luke Maile,Cincinnati Reds,Kirby Yates,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Luke Maile,Cincinnati Reds,Ben Heller,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Luke Maile,Cincinnati Reds,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Luke Maile,Cincinnati Reds,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Luke Maile,Cincinnati Reds,AJ Smith-Shawver,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Luke Maile,Cincinnati Reds,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+7,Luke Maile,Cincinnati Reds,Martin Perez,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+8,Luke Maile,Cincinnati Reds,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Luke Maile,Cincinnati Reds,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Luke Maile,Cincinnati Reds,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Luke Maile,Cincinnati Reds,Josh Fleming,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Luke Maile,Cincinnati Reds,Drew Rasmussen,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Luke Maile,Cincinnati Reds,James Paxton,Boston Red Sox,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+14,Luke Maile,Cincinnati Reds,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Luke Maile,Cincinnati Reds,Chris Stratton,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+16,Luke Maile,Cincinnati Reds,Miles Mikolas,St. Louis Cardinals,5,2,2,0,0,3,0,0,1,.400,.400,.800,1.200
+17,Luke Maile,Cincinnati Reds,Genesis Cabrera,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Luke Maile,Cincinnati Reds,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Luke Maile,Cincinnati Reds,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Luke Maile,Cincinnati Reds,Drew VerHagen,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Luke Maile,Cincinnati Reds,Keegan Akin,Baltimore Orioles,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+22,Luke Maile,Cincinnati Reds,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Luke Maile,Cincinnati Reds,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Luke Maile,Cincinnati Reds,Connor Brogdon,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+25,Luke Maile,Cincinnati Reds,Aaron Nola,Philadelphia Phillies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+26,Luke Maile,Cincinnati Reds,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Luke Maile,Cincinnati Reds,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Luke Maile,Cincinnati Reds,Drew Smyly,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Luke Maile,Cincinnati Reds,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Luke Maile,Cincinnati Reds,Blake Snell,San Diego Padres,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+31,Luke Maile,Cincinnati Reds,Pedro Avila,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Luke Maile,Cincinnati Reds,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Luke Maile,Cincinnati Reds,Ray Kerr,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Luke Maile,Cincinnati Reds,Adrian Morejon,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Luke Maile,Cincinnati Reds,J.P. France,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Luke Maile,Cincinnati Reds,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Luke Maile,Cincinnati Reds,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Luke Maile,Cincinnati Reds,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Luke Maile,Cincinnati Reds,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Luke Maile,Cincinnati Reds,Jose A. Ferrer,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Luke Maile,Cincinnati Reds,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Luke Maile,Cincinnati Reds,Alex Cobb,San Francisco Giants,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+43,Luke Maile,Cincinnati Reds,Mauricio Llovera,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+44,Luke Maile,Cincinnati Reds,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Luke Maile,Cincinnati Reds,David Peterson,New York Mets,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+46,Luke Maile,Cincinnati Reds,Stephen Nogosek,New York Mets,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+47,Luke Maile,Cincinnati Reds,Matt Carasiti,Colorado Rockies,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+48,Luke Maile,Cincinnati Reds,Austin Gomber,Colorado Rockies,2,2,1,0,1,2,0,0,0,1.000,1.000,3.000,4.000
+49,Luke Maile,Cincinnati Reds,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+50,Luke Maile,Cincinnati Reds,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Luke Maile,Cincinnati Reds,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Luke Maile,Cincinnati Reds,Karl Kauffmann,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Luke Maile,Cincinnati Reds,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Luke Maile,Cincinnati Reds,Jhony Brito,New York Yankees,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+55,Luke Maile,Cincinnati Reds,Luis Severino,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+56,Luke Maile,Cincinnati Reds,Clay Holmes,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+57,Luke Maile,Cincinnati Reds,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Luke Maile,Cincinnati Reds,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Luke Maile,Cincinnati Reds,Vince Velasquez,Pittsburgh Pirates,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+60,Luke Maile,Cincinnati Reds,Lance Lynn,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Luke Maile,Cincinnati Reds,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,0,1,0,0,.000,.250,.000,.250
+62,Luke Maile,Cincinnati Reds,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Luke Maile,Cincinnati Reds,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Luke Maile,Cincinnati Reds,Joel Payamps,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Luke Maile,Cincinnati Reds,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Luke Maile,Cincinnati Reds,Julio Teheran,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Luke Maile,Cincinnati Reds,Zack Greinke,Kansas City Royals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+68,Luke Maile,Cincinnati Reds,Taylor Clarke,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+69,Luke Maile,Cincinnati Reds,Kyle Muller,Oakland Athletics,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000

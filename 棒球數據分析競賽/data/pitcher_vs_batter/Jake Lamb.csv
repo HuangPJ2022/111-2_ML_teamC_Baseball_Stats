@@ -1,0 +1,35 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jake Lamb,Los Angeles Angels,Nathan Eovaldi,Texas Rangers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+1,Jake Lamb,Los Angeles Angels,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Jake Lamb,Los Angeles Angels,Brayan Bello,Boston Red Sox,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+3,Jake Lamb,Los Angeles Angels,John Schreiber,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+4,Jake Lamb,Los Angeles Angels,Josh Winckowski,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+5,Jake Lamb,Los Angeles Angels,Kutter Crawford,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+6,Jake Lamb,Los Angeles Angels,Tanner Houck,Boston Red Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+7,Jake Lamb,Los Angeles Angels,Giovanny Gallegos,St. Louis Cardinals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+8,Jake Lamb,Los Angeles Angels,Jack Flaherty,St. Louis Cardinals,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+9,Jake Lamb,Los Angeles Angels,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Jake Lamb,Los Angeles Angels,Jake Woodford,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Jake Lamb,Los Angeles Angels,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Jake Lamb,Los Angeles Angels,Jose Berrios,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Jake Lamb,Los Angeles Angels,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Jake Lamb,Los Angeles Angels,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Jake Lamb,Los Angeles Angels,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Jake Lamb,Los Angeles Angels,Josiah Gray,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Jake Lamb,Los Angeles Angels,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Jake Lamb,Los Angeles Angels,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Jake Lamb,Los Angeles Angels,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+20,Jake Lamb,Los Angeles Angels,George Kirby,Seattle Mariners,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+21,Jake Lamb,Los Angeles Angels,Matt Brash,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Jake Lamb,Los Angeles Angels,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Jake Lamb,Los Angeles Angels,Diego Castillo,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+24,Jake Lamb,Los Angeles Angels,Chris Flexen,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Jake Lamb,Los Angeles Angels,Penn Murfee,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Jake Lamb,Los Angeles Angels,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Jake Lamb,Los Angeles Angels,Colin Rea,Milwaukee Brewers,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+28,Jake Lamb,Los Angeles Angels,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Jake Lamb,Los Angeles Angels,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Jake Lamb,Los Angeles Angels,Jordan Lyles,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Jake Lamb,Los Angeles Angels,Shintaro Fujinami,Oakland Athletics,2,1,0,0,0,2,0,0,1,.500,.500,.500,1.000
+32,Jake Lamb,Los Angeles Angels,Sam Moll,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+33,Jake Lamb,Los Angeles Angels,Adam Oller,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

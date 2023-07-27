@@ -1,0 +1,103 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Seby Zavala,Chicago White Sox,Spencer Strider,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+1,Seby Zavala,Chicago White Sox,Kolby Allard,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Seby Zavala,Chicago White Sox,Joe Jimenez,Atlanta Braves,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Seby Zavala,Chicago White Sox,Collin McHugh,Atlanta Braves,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Seby Zavala,Chicago White Sox,Michael Soroka,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Seby Zavala,Chicago White Sox,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Seby Zavala,Chicago White Sox,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Seby Zavala,Chicago White Sox,Martin Perez,Texas Rangers,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+8,Seby Zavala,Chicago White Sox,Tucker Davidson,Los Angeles Angels,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+9,Seby Zavala,Chicago White Sox,Andrew Wantz,Los Angeles Angels,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+10,Seby Zavala,Chicago White Sox,Jaime Barria,Los Angeles Angels,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+11,Seby Zavala,Chicago White Sox,Griffin Canning,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+12,Seby Zavala,Chicago White Sox,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Seby Zavala,Chicago White Sox,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+14,Seby Zavala,Chicago White Sox,Chris Devenski,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Seby Zavala,Chicago White Sox,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Seby Zavala,Chicago White Sox,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Seby Zavala,Chicago White Sox,Patrick Sandoval,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+18,Seby Zavala,Chicago White Sox,Chase Silseth,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Seby Zavala,Chicago White Sox,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Seby Zavala,Chicago White Sox,Yonny Chirinos,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Seby Zavala,Chicago White Sox,Garrett Cleavinger,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Seby Zavala,Chicago White Sox,Zach Eflin,Tampa Bay Rays,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Seby Zavala,Chicago White Sox,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Seby Zavala,Chicago White Sox,Colin Poche,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Seby Zavala,Chicago White Sox,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Seby Zavala,Chicago White Sox,Brayan Bello,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+27,Seby Zavala,Chicago White Sox,Kutter Crawford,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Seby Zavala,Chicago White Sox,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+29,Seby Zavala,Chicago White Sox,Miles Mikolas,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Seby Zavala,Chicago White Sox,Nick Lodolo,Cincinnati Reds,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+31,Seby Zavala,Chicago White Sox,Graham Ashcraft,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Seby Zavala,Chicago White Sox,Luis Cessa,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Seby Zavala,Chicago White Sox,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Seby Zavala,Chicago White Sox,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Seby Zavala,Chicago White Sox,Casey Legumina,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Seby Zavala,Chicago White Sox,Reiver Sanmartin,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Seby Zavala,Chicago White Sox,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Seby Zavala,Chicago White Sox,Yusei Kikuchi,Toronto Blue Jays,3,2,1,0,0,0,1,0,1,.667,.750,1.000,1.750
+39,Seby Zavala,Chicago White Sox,Chris Bassitt,Toronto Blue Jays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+40,Seby Zavala,Chicago White Sox,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Seby Zavala,Chicago White Sox,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Seby Zavala,Chicago White Sox,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Seby Zavala,Chicago White Sox,Felix Bautista,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+44,Seby Zavala,Chicago White Sox,Grayson Rodriguez,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+45,Seby Zavala,Chicago White Sox,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Seby Zavala,Chicago White Sox,Bailey Falter,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+47,Seby Zavala,Chicago White Sox,Rafael Montero,Houston Astros,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+48,Seby Zavala,Chicago White Sox,Jose Urquidy,Houston Astros,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+49,Seby Zavala,Chicago White Sox,J.P. France,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+50,Seby Zavala,Chicago White Sox,Brandon Bielak,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Seby Zavala,Chicago White Sox,Ronel Blanco,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Seby Zavala,Chicago White Sox,Hunter Brown,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Seby Zavala,Chicago White Sox,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Seby Zavala,Chicago White Sox,Hector Neris,Houston Astros,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+55,Seby Zavala,Chicago White Sox,Jorge Lopez,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+56,Seby Zavala,Chicago White Sox,Jordan Balazovic,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Seby Zavala,Chicago White Sox,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Seby Zavala,Chicago White Sox,Sonny Gray,Minnesota Twins,3,0,0,0,0,0,1,0,2,.000,.250,.000,.250
+59,Seby Zavala,Chicago White Sox,Pablo Lopez,Minnesota Twins,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+60,Seby Zavala,Chicago White Sox,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Seby Zavala,Chicago White Sox,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Seby Zavala,Chicago White Sox,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Seby Zavala,Chicago White Sox,Braxton Garrett,Miami Marlins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+64,Seby Zavala,Chicago White Sox,Alex Wood,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+65,Seby Zavala,Chicago White Sox,Matt Beaty,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Seby Zavala,Chicago White Sox,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Seby Zavala,Chicago White Sox,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Seby Zavala,Chicago White Sox,Carlos Carrasco,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Seby Zavala,Chicago White Sox,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Seby Zavala,Chicago White Sox,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Seby Zavala,Chicago White Sox,Clarke Schmidt,New York Yankees,2,2,0,0,2,3,0,0,0,1.000,1.000,4.000,5.000
+72,Seby Zavala,Chicago White Sox,Jimmy Cordero,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+73,Seby Zavala,Chicago White Sox,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Seby Zavala,Chicago White Sox,Luis Severino,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Seby Zavala,Chicago White Sox,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Seby Zavala,Chicago White Sox,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Seby Zavala,Chicago White Sox,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Seby Zavala,Chicago White Sox,Bryan Woo,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Seby Zavala,Chicago White Sox,Logan Allen,Cleveland Guardians,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+80,Seby Zavala,Chicago White Sox,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Seby Zavala,Chicago White Sox,Xzavion Curry,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Seby Zavala,Chicago White Sox,Cal Quantrill,Cleveland Guardians,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+83,Seby Zavala,Chicago White Sox,Nick Sandlin,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+84,Seby Zavala,Chicago White Sox,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Seby Zavala,Chicago White Sox,Josh Taylor,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+86,Seby Zavala,Chicago White Sox,Jordan Lyles,Kansas City Royals,4,1,0,0,0,1,1,0,1,.250,.400,.250,.650
+87,Seby Zavala,Chicago White Sox,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Seby Zavala,Chicago White Sox,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Seby Zavala,Chicago White Sox,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Seby Zavala,Chicago White Sox,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Seby Zavala,Chicago White Sox,Brad Keller,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Seby Zavala,Chicago White Sox,Jackson Kowar,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Seby Zavala,Chicago White Sox,Brady Singer,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Seby Zavala,Chicago White Sox,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Seby Zavala,Chicago White Sox,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+96,Seby Zavala,Chicago White Sox,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Seby Zavala,Chicago White Sox,Kyle Muller,Oakland Athletics,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+98,Seby Zavala,Chicago White Sox,Paul Blackburn,Oakland Athletics,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+99,Seby Zavala,Chicago White Sox,Rico Garcia,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Seby Zavala,Chicago White Sox,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Seby Zavala,Chicago White Sox,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

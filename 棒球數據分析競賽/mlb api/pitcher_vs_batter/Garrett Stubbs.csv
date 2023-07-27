@@ -1,0 +1,43 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Garrett Stubbs,Philadelphia Phillies,Dane Dunning,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Garrett Stubbs,Philadelphia Phillies,Alex Vesia,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+2,Garrett Stubbs,Philadelphia Phillies,Gavin Stone,Los Angeles Dodgers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+3,Garrett Stubbs,Philadelphia Phillies,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Garrett Stubbs,Philadelphia Phillies,Victor Gonzalez,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+5,Garrett Stubbs,Philadelphia Phillies,Andre Jackson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Garrett Stubbs,Philadelphia Phillies,Adam Kolarek,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Garrett Stubbs,Philadelphia Phillies,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Garrett Stubbs,Philadelphia Phillies,Shawn Armstrong,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Garrett Stubbs,Philadelphia Phillies,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Garrett Stubbs,Philadelphia Phillies,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Garrett Stubbs,Philadelphia Phillies,Ryan Thompson,Tampa Bay Rays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+12,Garrett Stubbs,Philadelphia Phillies,Kyle Nelson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Garrett Stubbs,Philadelphia Phillies,Zac Gallen,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+14,Garrett Stubbs,Philadelphia Phillies,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Garrett Stubbs,Philadelphia Phillies,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Garrett Stubbs,Philadelphia Phillies,Ryne Nelson,Arizona Diamondbacks,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+17,Garrett Stubbs,Philadelphia Phillies,Josh Rojas,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Garrett Stubbs,Philadelphia Phillies,Graham Ashcraft,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Garrett Stubbs,Philadelphia Phillies,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Garrett Stubbs,Philadelphia Phillies,Casey Legumina,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Garrett Stubbs,Philadelphia Phillies,Nick Burdi,Chicago Cubs,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+22,Garrett Stubbs,Philadelphia Phillies,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Garrett Stubbs,Philadelphia Phillies,Jameson Taillon,Chicago Cubs,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+24,Garrett Stubbs,Philadelphia Phillies,Ryan Weathers,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+25,Garrett Stubbs,Philadelphia Phillies,Brent Honeywell,San Diego Padres,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+26,Garrett Stubbs,Philadelphia Phillies,Adrian Morejon,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Garrett Stubbs,Philadelphia Phillies,Devin Smeltzer,Miami Marlins,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+28,Garrett Stubbs,Philadelphia Phillies,Sandy Alcantara,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Garrett Stubbs,Philadelphia Phillies,Max Scherzer,New York Mets,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+30,Garrett Stubbs,Philadelphia Phillies,Jake Bird,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+31,Garrett Stubbs,Philadelphia Phillies,Austin Gomber,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+32,Garrett Stubbs,Philadelphia Phillies,Ryan Feltner,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Garrett Stubbs,Philadelphia Phillies,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Garrett Stubbs,Philadelphia Phillies,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Garrett Stubbs,Philadelphia Phillies,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Garrett Stubbs,Philadelphia Phillies,Domingo German,New York Yankees,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+37,Garrett Stubbs,Philadelphia Phillies,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Garrett Stubbs,Philadelphia Phillies,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Garrett Stubbs,Philadelphia Phillies,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Garrett Stubbs,Philadelphia Phillies,Lucas Giolito,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+41,Garrett Stubbs,Philadelphia Phillies,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000

@@ -1,0 +1,29 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Coco Montes,Colorado Rockies,Michael Tonkin,Atlanta Braves,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+1,Coco Montes,Colorado Rockies,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Coco Montes,Colorado Rockies,Ben Heller,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+3,Coco Montes,Colorado Rockies,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Coco Montes,Colorado Rockies,Jared Shuster,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Coco Montes,Colorado Rockies,AJ Smith-Shawver,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Coco Montes,Colorado Rockies,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Coco Montes,Colorado Rockies,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Coco Montes,Colorado Rockies,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Coco Montes,Colorado Rockies,Kolton Ingram,Los Angeles Angels,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+10,Coco Montes,Colorado Rockies,Patrick Sandoval,Los Angeles Angels,3,3,1,0,0,1,0,0,0,1.000,1.000,1.333,2.333
+11,Coco Montes,Colorado Rockies,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Coco Montes,Colorado Rockies,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Coco Montes,Colorado Rockies,Griffin Canning,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Coco Montes,Colorado Rockies,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Coco Montes,Colorado Rockies,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Coco Montes,Colorado Rockies,James Paxton,Boston Red Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+17,Coco Montes,Colorado Rockies,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Coco Montes,Colorado Rockies,Andrew Abbott,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Coco Montes,Colorado Rockies,Daniel Duarte,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Coco Montes,Colorado Rockies,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Coco Montes,Colorado Rockies,Ben Lively,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+22,Coco Montes,Colorado Rockies,Brandon Williamson,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Coco Montes,Colorado Rockies,Luis Garcia,San Diego Padres,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+24,Coco Montes,Colorado Rockies,Blake Snell,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+25,Coco Montes,Colorado Rockies,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Coco Montes,Colorado Rockies,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Coco Montes,Colorado Rockies,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

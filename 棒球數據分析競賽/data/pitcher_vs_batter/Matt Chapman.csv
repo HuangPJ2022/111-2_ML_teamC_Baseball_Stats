@@ -1,0 +1,204 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Matt Chapman,Toronto Blue Jays,Bryce Elder,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+1,Matt Chapman,Toronto Blue Jays,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Matt Chapman,Toronto Blue Jays,Raisel Iglesias,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+3,Matt Chapman,Toronto Blue Jays,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Matt Chapman,Toronto Blue Jays,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Matt Chapman,Toronto Blue Jays,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Matt Chapman,Toronto Blue Jays,Michael Tonkin,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Matt Chapman,Toronto Blue Jays,Kirby Yates,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Matt Chapman,Toronto Blue Jays,Will Smith,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Matt Chapman,Toronto Blue Jays,Joe Barlow,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Matt Chapman,Toronto Blue Jays,Dane Dunning,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+11,Matt Chapman,Toronto Blue Jays,Martin Perez,Texas Rangers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+12,Matt Chapman,Toronto Blue Jays,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Matt Chapman,Toronto Blue Jays,Reid Detmers,Los Angeles Angels,2,2,0,0,1,4,1,0,0,1.000,1.000,2.500,3.500
+14,Matt Chapman,Toronto Blue Jays,Ryan Tepera,Los Angeles Angels,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+15,Matt Chapman,Toronto Blue Jays,Tyler Anderson,Los Angeles Angels,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+16,Matt Chapman,Toronto Blue Jays,Patrick Sandoval,Los Angeles Angels,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+17,Matt Chapman,Toronto Blue Jays,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Matt Chapman,Toronto Blue Jays,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+19,Matt Chapman,Toronto Blue Jays,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Matt Chapman,Toronto Blue Jays,Luke Raley,Tampa Bay Rays,2,2,0,0,1,3,0,0,0,1.000,1.000,2.500,3.500
+21,Matt Chapman,Toronto Blue Jays,Josh Fleming,Tampa Bay Rays,3,2,0,0,0,0,1,0,1,.667,.750,.667,1.417
+22,Matt Chapman,Toronto Blue Jays,Shane McClanahan,Tampa Bay Rays,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+23,Matt Chapman,Toronto Blue Jays,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Matt Chapman,Toronto Blue Jays,Zack Burdi,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+25,Matt Chapman,Toronto Blue Jays,Yonny Chirinos,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Matt Chapman,Toronto Blue Jays,Garrett Cleavinger,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Matt Chapman,Toronto Blue Jays,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Matt Chapman,Toronto Blue Jays,Calvin Faucher,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Matt Chapman,Toronto Blue Jays,Trevor Kelley,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Matt Chapman,Toronto Blue Jays,Kevin Kelly,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Matt Chapman,Toronto Blue Jays,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Matt Chapman,Toronto Blue Jays,Drew Rasmussen,Tampa Bay Rays,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+33,Matt Chapman,Toronto Blue Jays,Chris Martin,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+34,Matt Chapman,Toronto Blue Jays,Josh Winckowski,Boston Red Sox,2,2,1,0,1,2,1,0,0,1.000,1.000,3.000,4.000
+35,Matt Chapman,Toronto Blue Jays,Tanner Houck,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+36,Matt Chapman,Toronto Blue Jays,Brayan Bello,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+37,Matt Chapman,Toronto Blue Jays,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Matt Chapman,Toronto Blue Jays,Kutter Crawford,Boston Red Sox,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+39,Matt Chapman,Toronto Blue Jays,Joe Jacques,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Matt Chapman,Toronto Blue Jays,Corey Kluber,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+41,Matt Chapman,Toronto Blue Jays,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Matt Chapman,Toronto Blue Jays,James Paxton,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+43,Matt Chapman,Toronto Blue Jays,Nick Pivetta,Boston Red Sox,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+44,Matt Chapman,Toronto Blue Jays,John Schreiber,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Matt Chapman,Toronto Blue Jays,Miles Mikolas,St. Louis Cardinals,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+46,Matt Chapman,Toronto Blue Jays,Packy Naughton,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+47,Matt Chapman,Toronto Blue Jays,Andre Pallante,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+48,Matt Chapman,Toronto Blue Jays,Chris Stratton,St. Louis Cardinals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+49,Matt Chapman,Toronto Blue Jays,Jordan Montgomery,St. Louis Cardinals,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+50,Matt Chapman,Toronto Blue Jays,Jack Flaherty,St. Louis Cardinals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+51,Matt Chapman,Toronto Blue Jays,Jordan Hicks,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Matt Chapman,Toronto Blue Jays,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Matt Chapman,Toronto Blue Jays,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Matt Chapman,Toronto Blue Jays,Austin Adams,Arizona Diamondbacks,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+55,Matt Chapman,Toronto Blue Jays,Scott McGough,Arizona Diamondbacks,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+56,Matt Chapman,Toronto Blue Jays,Ryne Nelson,Arizona Diamondbacks,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+57,Matt Chapman,Toronto Blue Jays,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Matt Chapman,Toronto Blue Jays,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Matt Chapman,Toronto Blue Jays,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Matt Chapman,Toronto Blue Jays,Tommy Henry,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Matt Chapman,Toronto Blue Jays,Justin Martinez,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+62,Matt Chapman,Toronto Blue Jays,Reed Garrett,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+63,Matt Chapman,Toronto Blue Jays,Cionel Perez,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+64,Matt Chapman,Toronto Blue Jays,Grayson Rodriguez,Baltimore Orioles,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+65,Matt Chapman,Toronto Blue Jays,Kyle Bradish,Baltimore Orioles,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+66,Matt Chapman,Toronto Blue Jays,Dean Kremer,Baltimore Orioles,5,1,0,0,1,1,1,0,2,.200,.333,.800,1.133
+67,Matt Chapman,Toronto Blue Jays,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Matt Chapman,Toronto Blue Jays,Felix Bautista,Baltimore Orioles,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+69,Matt Chapman,Toronto Blue Jays,Kyle Gibson,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Matt Chapman,Toronto Blue Jays,Mychal Givens,Baltimore Orioles,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+71,Matt Chapman,Toronto Blue Jays,Cole Irvin,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Matt Chapman,Toronto Blue Jays,Austin Voth,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Matt Chapman,Toronto Blue Jays,Tyler Wells,Baltimore Orioles,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+74,Matt Chapman,Toronto Blue Jays,Aaron Nola,Philadelphia Phillies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+75,Matt Chapman,Toronto Blue Jays,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Matt Chapman,Toronto Blue Jays,Gregory Soto,Philadelphia Phillies,0,0,0,0,0,1,0,0,0,.000,1.000,.000,1.000
+77,Matt Chapman,Toronto Blue Jays,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Matt Chapman,Toronto Blue Jays,Joe Musgrove,San Diego Padres,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+79,Matt Chapman,Toronto Blue Jays,Yu Darvish,San Diego Padres,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+80,Matt Chapman,Toronto Blue Jays,Luis Garcia,San Diego Padres,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+81,Matt Chapman,Toronto Blue Jays,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Matt Chapman,Toronto Blue Jays,Blake Snell,San Diego Padres,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+83,Matt Chapman,Toronto Blue Jays,Cristian Javier,Houston Astros,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+84,Matt Chapman,Toronto Blue Jays,Jose Urquidy,Houston Astros,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+85,Matt Chapman,Toronto Blue Jays,Bryan Abreu,Houston Astros,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+86,Matt Chapman,Toronto Blue Jays,Brandon Bielak,Houston Astros,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+87,Matt Chapman,Toronto Blue Jays,Ronel Blanco,Houston Astros,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+88,Matt Chapman,Toronto Blue Jays,Luis Garcia,Houston Astros,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+89,Matt Chapman,Toronto Blue Jays,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Matt Chapman,Toronto Blue Jays,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Matt Chapman,Toronto Blue Jays,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Matt Chapman,Toronto Blue Jays,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Matt Chapman,Toronto Blue Jays,Framber Valdez,Houston Astros,3,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+94,Matt Chapman,Toronto Blue Jays,Cole Sands,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+95,Matt Chapman,Toronto Blue Jays,Sonny Gray,Minnesota Twins,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+96,Matt Chapman,Toronto Blue Jays,Louie Varland,Minnesota Twins,5,1,0,0,1,3,0,0,2,.200,.167,.800,.967
+97,Matt Chapman,Toronto Blue Jays,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Matt Chapman,Toronto Blue Jays,Jhoan Duran,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Matt Chapman,Toronto Blue Jays,Griffin Jax,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Matt Chapman,Toronto Blue Jays,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Matt Chapman,Toronto Blue Jays,Bailey Ober,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+102,Matt Chapman,Toronto Blue Jays,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+103,Matt Chapman,Toronto Blue Jays,Joe Ryan,Minnesota Twins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+104,Matt Chapman,Toronto Blue Jays,Steven Okert,Miami Marlins,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+105,Matt Chapman,Toronto Blue Jays,Eury Perez,Miami Marlins,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+106,Matt Chapman,Toronto Blue Jays,Sandy Alcantara,Miami Marlins,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+107,Matt Chapman,Toronto Blue Jays,Archie Bradley,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Matt Chapman,Toronto Blue Jays,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Matt Chapman,Toronto Blue Jays,JT Chargois,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+110,Matt Chapman,Toronto Blue Jays,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Matt Chapman,Toronto Blue Jays,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,Matt Chapman,Toronto Blue Jays,Ross Stripling,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+113,Matt Chapman,Toronto Blue Jays,Alex Wood,San Francisco Giants,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+114,Matt Chapman,Toronto Blue Jays,Keaton Winn,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+115,Matt Chapman,Toronto Blue Jays,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Matt Chapman,Toronto Blue Jays,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Matt Chapman,Toronto Blue Jays,Logan Webb,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Matt Chapman,Toronto Blue Jays,Kodai Senga,New York Mets,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+119,Matt Chapman,Toronto Blue Jays,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Matt Chapman,Toronto Blue Jays,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Matt Chapman,Toronto Blue Jays,Tylor Megill,New York Mets,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+122,Matt Chapman,Toronto Blue Jays,Stephen Nogosek,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Matt Chapman,Toronto Blue Jays,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Matt Chapman,Toronto Blue Jays,Justin Verlander,New York Mets,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+125,Matt Chapman,Toronto Blue Jays,Ian Hamilton,New York Yankees,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+126,Matt Chapman,Toronto Blue Jays,Ryan Weber,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+127,Matt Chapman,Toronto Blue Jays,Jhony Brito,New York Yankees,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+128,Matt Chapman,Toronto Blue Jays,Clarke Schmidt,New York Yankees,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+129,Matt Chapman,Toronto Blue Jays,Clay Holmes,New York Yankees,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+130,Matt Chapman,Toronto Blue Jays,Gerrit Cole,New York Yankees,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+131,Matt Chapman,Toronto Blue Jays,Albert Abreu,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+132,Matt Chapman,Toronto Blue Jays,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Matt Chapman,Toronto Blue Jays,Nestor Cortes,New York Yankees,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+134,Matt Chapman,Toronto Blue Jays,Domingo German,New York Yankees,3,0,0,0,0,0,1,0,2,.000,.250,.000,.250
+135,Matt Chapman,Toronto Blue Jays,Michael King,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Matt Chapman,Toronto Blue Jays,Greg Weissert,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+137,Matt Chapman,Toronto Blue Jays,Marco Gonzales,Seattle Mariners,2,2,1,0,0,2,0,0,0,1.000,1.000,1.500,2.500
+138,Matt Chapman,Toronto Blue Jays,Paul Sewald,Seattle Mariners,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+139,Matt Chapman,Toronto Blue Jays,Justin Topa,Seattle Mariners,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+140,Matt Chapman,Toronto Blue Jays,Luis Castillo,Seattle Mariners,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+141,Matt Chapman,Toronto Blue Jays,Easton McGee,Seattle Mariners,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+142,Matt Chapman,Toronto Blue Jays,Logan Gilbert,Seattle Mariners,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+143,Matt Chapman,Toronto Blue Jays,Prelander Berroa,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+144,Matt Chapman,Toronto Blue Jays,Matt Brash,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+145,Matt Chapman,Toronto Blue Jays,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Matt Chapman,Toronto Blue Jays,Trevor Gott,Seattle Mariners,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+147,Matt Chapman,Toronto Blue Jays,Bryce Miller,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Matt Chapman,Toronto Blue Jays,Penn Murfee,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Matt Chapman,Toronto Blue Jays,Cody Bolton,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+150,Matt Chapman,Toronto Blue Jays,Yohan Ramirez,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+151,Matt Chapman,Toronto Blue Jays,Roansy Contreras,Pittsburgh Pirates,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+152,Matt Chapman,Toronto Blue Jays,Rich Hill,Pittsburgh Pirates,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+153,Matt Chapman,Toronto Blue Jays,Chase De Jong,Pittsburgh Pirates,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+154,Matt Chapman,Toronto Blue Jays,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Matt Chapman,Toronto Blue Jays,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Matt Chapman,Toronto Blue Jays,Tanner Banks,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+157,Matt Chapman,Toronto Blue Jays,Keynan Middleton,Chicago White Sox,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+158,Matt Chapman,Toronto Blue Jays,Jesse Scholtens,Chicago White Sox,2,2,1,0,1,1,0,0,0,1.000,1.000,3.000,4.000
+159,Matt Chapman,Toronto Blue Jays,Michael Kopech,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+160,Matt Chapman,Toronto Blue Jays,Bryan Shaw,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+161,Matt Chapman,Toronto Blue Jays,Mike Clevinger,Chicago White Sox,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+162,Matt Chapman,Toronto Blue Jays,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+163,Matt Chapman,Toronto Blue Jays,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Matt Chapman,Toronto Blue Jays,Jimmy Lambert,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+165,Matt Chapman,Toronto Blue Jays,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+166,Matt Chapman,Toronto Blue Jays,Lance Lynn,Chicago White Sox,6,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+167,Matt Chapman,Toronto Blue Jays,Nicholas Padilla,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+168,Matt Chapman,Toronto Blue Jays,Joel Payamps,Milwaukee Brewers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+169,Matt Chapman,Toronto Blue Jays,Julio Teheran,Milwaukee Brewers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+170,Matt Chapman,Toronto Blue Jays,Adrian Houser,Milwaukee Brewers,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+171,Matt Chapman,Toronto Blue Jays,Freddy Peralta,Milwaukee Brewers,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+172,Matt Chapman,Toronto Blue Jays,Elvis Peguero,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+173,Matt Chapman,Toronto Blue Jays,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Matt Chapman,Toronto Blue Jays,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Matt Chapman,Toronto Blue Jays,Mason Englert,Detroit Tigers,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+176,Matt Chapman,Toronto Blue Jays,Reese Olson,Detroit Tigers,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+177,Matt Chapman,Toronto Blue Jays,Eduardo Rodriguez,Detroit Tigers,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+178,Matt Chapman,Toronto Blue Jays,Matt Manning,Detroit Tigers,6,1,0,0,1,1,0,0,2,.167,.167,.667,.834
+179,Matt Chapman,Toronto Blue Jays,Jose Cisnero,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+180,Matt Chapman,Toronto Blue Jays,Alex Faedo,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+181,Matt Chapman,Toronto Blue Jays,Alex Lange,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+182,Matt Chapman,Toronto Blue Jays,Tarik Skubal,Detroit Tigers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+183,Matt Chapman,Toronto Blue Jays,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Matt Chapman,Toronto Blue Jays,Trey Wingenter,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+185,Matt Chapman,Toronto Blue Jays,Taylor Clarke,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+186,Matt Chapman,Toronto Blue Jays,Amir Garrett,Kansas City Royals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+187,Matt Chapman,Toronto Blue Jays,Brady Singer,Kansas City Royals,2,2,2,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+188,Matt Chapman,Toronto Blue Jays,Kris Bubic,Kansas City Royals,3,2,0,0,0,1,0,0,1,.667,.667,.667,1.334
+189,Matt Chapman,Toronto Blue Jays,Jordan Lyles,Kansas City Royals,3,1,1,0,0,2,0,0,1,.333,.333,.667,1.000
+190,Matt Chapman,Toronto Blue Jays,Dylan Coleman,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+191,Matt Chapman,Toronto Blue Jays,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+192,Matt Chapman,Toronto Blue Jays,Zack Greinke,Kansas City Royals,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+193,Matt Chapman,Toronto Blue Jays,Ryan Yarbrough,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+194,Matt Chapman,Toronto Blue Jays,Shintaro Fujinami,Oakland Athletics,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+195,Matt Chapman,Toronto Blue Jays,James Kaprielian,Oakland Athletics,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+196,Matt Chapman,Toronto Blue Jays,Hogan Harris,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+197,Matt Chapman,Toronto Blue Jays,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+198,Matt Chapman,Toronto Blue Jays,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+199,Matt Chapman,Toronto Blue Jays,Luis Medina,Oakland Athletics,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+200,Matt Chapman,Toronto Blue Jays,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+201,Matt Chapman,Toronto Blue Jays,Yacksel Rios,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+202,Matt Chapman,Toronto Blue Jays,Ken Waldichuk,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

@@ -1,0 +1,91 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jonathan Schoop,Detroit Tigers,Dylan Dodd,Atlanta Braves,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+1,Jonathan Schoop,Detroit Tigers,Raisel Iglesias,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Jonathan Schoop,Detroit Tigers,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Jonathan Schoop,Detroit Tigers,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Jonathan Schoop,Detroit Tigers,Martin Perez,Texas Rangers,5,1,0,0,0,0,1,0,0,.200,.333,.200,.533
+5,Jonathan Schoop,Detroit Tigers,Grant Anderson,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Jonathan Schoop,Detroit Tigers,Cody Bradford,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+7,Jonathan Schoop,Detroit Tigers,Brock Burke,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Jonathan Schoop,Detroit Tigers,Dane Dunning,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Jonathan Schoop,Detroit Tigers,Andrew Heaney,Texas Rangers,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+10,Jonathan Schoop,Detroit Tigers,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Jonathan Schoop,Detroit Tigers,John King,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Jonathan Schoop,Detroit Tigers,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Jonathan Schoop,Detroit Tigers,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+14,Jonathan Schoop,Detroit Tigers,Colin Poche,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Jonathan Schoop,Detroit Tigers,Jeffrey Springs,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+16,Jonathan Schoop,Detroit Tigers,Kutter Crawford,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+17,Jonathan Schoop,Detroit Tigers,Kenley Jansen,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+18,Jonathan Schoop,Detroit Tigers,Chris Sale,Boston Red Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+19,Jonathan Schoop,Detroit Tigers,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Jonathan Schoop,Detroit Tigers,Giovanny Gallegos,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Jonathan Schoop,Detroit Tigers,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Jonathan Schoop,Detroit Tigers,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Jonathan Schoop,Detroit Tigers,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Jonathan Schoop,Detroit Tigers,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+25,Jonathan Schoop,Detroit Tigers,Kevin Ginkel,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+26,Jonathan Schoop,Detroit Tigers,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Jonathan Schoop,Detroit Tigers,Tim Mayza,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,Jonathan Schoop,Detroit Tigers,Alek Manoah,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+29,Jonathan Schoop,Detroit Tigers,Anthony Bass,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Jonathan Schoop,Detroit Tigers,Chris Bassitt,Toronto Blue Jays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+31,Jonathan Schoop,Detroit Tigers,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Jonathan Schoop,Detroit Tigers,DL Hall,Baltimore Orioles,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+33,Jonathan Schoop,Detroit Tigers,Grayson Rodriguez,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+34,Jonathan Schoop,Detroit Tigers,Bryan Baker,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Jonathan Schoop,Detroit Tigers,Felix Bautista,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Jonathan Schoop,Detroit Tigers,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Jonathan Schoop,Detroit Tigers,Kyle Gibson,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Jonathan Schoop,Detroit Tigers,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Jonathan Schoop,Detroit Tigers,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Jonathan Schoop,Detroit Tigers,Zack Wheeler,Philadelphia Phillies,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+41,Jonathan Schoop,Detroit Tigers,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Jonathan Schoop,Detroit Tigers,Framber Valdez,Houston Astros,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+43,Jonathan Schoop,Detroit Tigers,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Jonathan Schoop,Detroit Tigers,Brock Stewart,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+45,Jonathan Schoop,Detroit Tigers,Joe Ryan,Minnesota Twins,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+46,Jonathan Schoop,Detroit Tigers,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Jonathan Schoop,Detroit Tigers,Josh Winder,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Jonathan Schoop,Detroit Tigers,Patrick Corbin,Washington Nationals,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+49,Jonathan Schoop,Detroit Tigers,Jakob Junis,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Jonathan Schoop,Detroit Tigers,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Jonathan Schoop,Detroit Tigers,Joey Lucchesi,New York Mets,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+52,Jonathan Schoop,Detroit Tigers,Jake Bird,Colorado Rockies,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+53,Jonathan Schoop,Detroit Tigers,Ty Blach,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+54,Jonathan Schoop,Detroit Tigers,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Jonathan Schoop,Detroit Tigers,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Jonathan Schoop,Detroit Tigers,Gabe Speier,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+57,Jonathan Schoop,Detroit Tigers,Marco Gonzales,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+58,Jonathan Schoop,Detroit Tigers,Juan Then,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Jonathan Schoop,Detroit Tigers,Xzavion Curry,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+60,Jonathan Schoop,Detroit Tigers,Peyton Battenfield,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Jonathan Schoop,Detroit Tigers,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Jonathan Schoop,Detroit Tigers,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Jonathan Schoop,Detroit Tigers,Robert Stephenson,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+64,Jonathan Schoop,Detroit Tigers,Jimmy Lambert,Chicago White Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+65,Jonathan Schoop,Detroit Tigers,Jesse Scholtens,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+66,Jonathan Schoop,Detroit Tigers,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+67,Jonathan Schoop,Detroit Tigers,Garrett Crochet,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+68,Jonathan Schoop,Detroit Tigers,Reynaldo Lopez,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Jonathan Schoop,Detroit Tigers,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Jonathan Schoop,Detroit Tigers,Gregory Santos,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Jonathan Schoop,Detroit Tigers,Alex Claudio,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+72,Jonathan Schoop,Detroit Tigers,Eric Lauer,Milwaukee Brewers,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+73,Jonathan Schoop,Detroit Tigers,Hoby Milner,Milwaukee Brewers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+74,Jonathan Schoop,Detroit Tigers,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Jonathan Schoop,Detroit Tigers,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Jonathan Schoop,Detroit Tigers,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Jonathan Schoop,Detroit Tigers,Nick Wittgren,Kansas City Royals,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+78,Jonathan Schoop,Detroit Tigers,Jordan Lyles,Kansas City Royals,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+79,Jonathan Schoop,Detroit Tigers,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Jonathan Schoop,Detroit Tigers,Aroldis Chapman,Kansas City Royals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+81,Jonathan Schoop,Detroit Tigers,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Jonathan Schoop,Detroit Tigers,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+83,Jonathan Schoop,Detroit Tigers,Daniel Lynch IV,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Jonathan Schoop,Detroit Tigers,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Jonathan Schoop,Detroit Tigers,Sam Moll,Oakland Athletics,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+86,Jonathan Schoop,Detroit Tigers,Hogan Harris,Oakland Athletics,2,1,0,0,0,1,0,0,0,.500,.333,.500,.833
+87,Jonathan Schoop,Detroit Tigers,Rico Garcia,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Jonathan Schoop,Detroit Tigers,JP Sears,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Jonathan Schoop,Detroit Tigers,Ken Waldichuk,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

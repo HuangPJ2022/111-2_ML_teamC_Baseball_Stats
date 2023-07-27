@@ -1,0 +1,72 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,James McCann,Baltimore Orioles,Joe Jimenez,Atlanta Braves,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+1,James McCann,Baltimore Orioles,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,James McCann,Baltimore Orioles,Max Fried,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,James McCann,Baltimore Orioles,Andrew Heaney,Texas Rangers,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+4,James McCann,Baltimore Orioles,Cody Bradford,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,James McCann,Baltimore Orioles,Cole Ragans,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,James McCann,Baltimore Orioles,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,James McCann,Baltimore Orioles,Phil Bickford,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+8,James McCann,Baltimore Orioles,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,James McCann,Baltimore Orioles,Julio Urias,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,James McCann,Baltimore Orioles,Tyler Anderson,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,James McCann,Baltimore Orioles,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,James McCann,Baltimore Orioles,Shane McClanahan,Tampa Bay Rays,5,1,1,0,0,2,0,0,2,.200,.200,.400,.600
+13,James McCann,Baltimore Orioles,Pete Fairbanks,Tampa Bay Rays,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,James McCann,Baltimore Orioles,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,James McCann,Baltimore Orioles,Chris Sale,Boston Red Sox,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+16,James McCann,Baltimore Orioles,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,James McCann,Baltimore Orioles,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,James McCann,Baltimore Orioles,Yimi Garcia,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+19,James McCann,Baltimore Orioles,Kevin Gausman,Toronto Blue Jays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,James McCann,Baltimore Orioles,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,James McCann,Baltimore Orioles,Nate Pearson,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,James McCann,Baltimore Orioles,Justin Steele,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+23,James McCann,Baltimore Orioles,Jhoan Duran,Minnesota Twins,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,James McCann,Baltimore Orioles,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,James McCann,Baltimore Orioles,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,James McCann,Baltimore Orioles,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,James McCann,Baltimore Orioles,Johnny Cueto,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,James McCann,Baltimore Orioles,George Soriano,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,James McCann,Baltimore Orioles,MacKenzie Gore,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+30,James McCann,Baltimore Orioles,Anthony Banda,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,James McCann,Baltimore Orioles,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,James McCann,Baltimore Orioles,Jakob Junis,San Francisco Giants,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+33,James McCann,Baltimore Orioles,Anthony DeSclafani,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+34,James McCann,Baltimore Orioles,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,James McCann,Baltimore Orioles,Jimmy Cordero,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+36,James McCann,Baltimore Orioles,Wandy Peralta,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+37,James McCann,Baltimore Orioles,Albert Abreu,New York Yankees,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+38,James McCann,Baltimore Orioles,Nestor Cortes,New York Yankees,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,James McCann,Baltimore Orioles,Isiah Kiner-Falefa,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,James McCann,Baltimore Orioles,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+41,James McCann,Baltimore Orioles,Logan Allen,Cleveland Guardians,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+42,James McCann,Baltimore Orioles,Mitch Keller,Pittsburgh Pirates,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+43,James McCann,Baltimore Orioles,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,James McCann,Baltimore Orioles,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,James McCann,Baltimore Orioles,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,James McCann,Baltimore Orioles,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,James McCann,Baltimore Orioles,Colin Rea,Milwaukee Brewers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+48,James McCann,Baltimore Orioles,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,James McCann,Baltimore Orioles,Bryse Wilson,Milwaukee Brewers,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,James McCann,Baltimore Orioles,Joey Wentz,Detroit Tigers,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+51,James McCann,Baltimore Orioles,Matthew Boyd,Detroit Tigers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+52,James McCann,Baltimore Orioles,Eduardo Rodriguez,Detroit Tigers,4,1,0,0,1,1,0,0,1,.250,.250,1.000,1.250
+53,James McCann,Baltimore Orioles,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,James McCann,Baltimore Orioles,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,James McCann,Baltimore Orioles,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,James McCann,Baltimore Orioles,Taylor Clarke,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+57,James McCann,Baltimore Orioles,Jose Cuas,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+58,James McCann,Baltimore Orioles,Ryan Yarbrough,Kansas City Royals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+59,James McCann,Baltimore Orioles,Aroldis Chapman,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,James McCann,Baltimore Orioles,Austin Cox,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,James McCann,Baltimore Orioles,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,James McCann,Baltimore Orioles,Jackson Kowar,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,James McCann,Baltimore Orioles,Jordan Lyles,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+64,James McCann,Baltimore Orioles,Daniel Lynch IV,Kansas City Royals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,James McCann,Baltimore Orioles,Mike Mayers,Kansas City Royals,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+66,James McCann,Baltimore Orioles,Josh Staumont,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+67,James McCann,Baltimore Orioles,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,James McCann,Baltimore Orioles,Kyle Muller,Oakland Athletics,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+69,James McCann,Baltimore Orioles,Chad Smith,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,James McCann,Baltimore Orioles,Ken Waldichuk,Oakland Athletics,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000

@@ -1,0 +1,99 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jesse Winker,Milwaukee Brewers,Michael Soroka,Atlanta Braves,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+1,Jesse Winker,Milwaukee Brewers,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Jesse Winker,Milwaukee Brewers,Michael Tonkin,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+3,Jesse Winker,Milwaukee Brewers,Allan Winans,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Jesse Winker,Milwaukee Brewers,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Jesse Winker,Milwaukee Brewers,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Jesse Winker,Milwaukee Brewers,Tony Gonsolin,Los Angeles Dodgers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Jesse Winker,Milwaukee Brewers,Wander Suero,Los Angeles Dodgers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+8,Jesse Winker,Milwaukee Brewers,Noah Syndergaard,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+9,Jesse Winker,Milwaukee Brewers,Andrew Wantz,Los Angeles Angels,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+10,Jesse Winker,Milwaukee Brewers,Pete Fairbanks,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Jesse Winker,Milwaukee Brewers,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Jesse Winker,Milwaukee Brewers,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Jesse Winker,Milwaukee Brewers,Brayan Bello,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+14,Jesse Winker,Milwaukee Brewers,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Jesse Winker,Milwaukee Brewers,Kutter Crawford,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Jesse Winker,Milwaukee Brewers,Kaleb Ort,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+17,Jesse Winker,Milwaukee Brewers,Nick Pivetta,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Jesse Winker,Milwaukee Brewers,Garrett Whitlock,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+19,Jesse Winker,Milwaukee Brewers,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Jesse Winker,Milwaukee Brewers,Giovanny Gallegos,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Jesse Winker,Milwaukee Brewers,James Naile,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+22,Jesse Winker,Milwaukee Brewers,Jack Flaherty,St. Louis Cardinals,6,2,0,0,0,0,0,0,1,.333,.333,.333,.666
+23,Jesse Winker,Milwaukee Brewers,Andre Pallante,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+24,Jesse Winker,Milwaukee Brewers,Ryan Helsley,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+25,Jesse Winker,Milwaukee Brewers,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Jesse Winker,Milwaukee Brewers,Jake Woodford,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+27,Jesse Winker,Milwaukee Brewers,Ryne Nelson,Arizona Diamondbacks,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+28,Jesse Winker,Milwaukee Brewers,Austin Adams,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Jesse Winker,Milwaukee Brewers,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+30,Jesse Winker,Milwaukee Brewers,Lucas Sims,Cincinnati Reds,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+31,Jesse Winker,Milwaukee Brewers,Ben Lively,Cincinnati Reds,4,1,0,0,0,1,1,0,1,.250,.400,.250,.650
+32,Jesse Winker,Milwaukee Brewers,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Jesse Winker,Milwaukee Brewers,Ian Gibaut,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Jesse Winker,Milwaukee Brewers,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Jesse Winker,Milwaukee Brewers,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Jesse Winker,Milwaukee Brewers,Javier Assad,Chicago Cubs,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+37,Jesse Winker,Milwaukee Brewers,Julian Merryweather,Chicago Cubs,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+38,Jesse Winker,Milwaukee Brewers,Jameson Taillon,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+39,Jesse Winker,Milwaukee Brewers,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+40,Jesse Winker,Milwaukee Brewers,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Jesse Winker,Milwaukee Brewers,Kyle Hendricks,Chicago Cubs,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+42,Jesse Winker,Milwaukee Brewers,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+43,Jesse Winker,Milwaukee Brewers,Michael Rucker,Chicago Cubs,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+44,Jesse Winker,Milwaukee Brewers,Marcus Stroman,Chicago Cubs,5,0,0,0,0,0,1,0,3,.000,.167,.000,.167
+45,Jesse Winker,Milwaukee Brewers,Seth Lugo,San Diego Padres,2,1,1,0,0,2,0,0,1,.500,.667,1.000,1.667
+46,Jesse Winker,Milwaukee Brewers,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Jesse Winker,Milwaukee Brewers,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Jesse Winker,Milwaukee Brewers,Rafael Montero,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+49,Jesse Winker,Milwaukee Brewers,Brandon Bielak,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Jesse Winker,Milwaukee Brewers,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+51,Jesse Winker,Milwaukee Brewers,Cristian Javier,Houston Astros,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+52,Jesse Winker,Milwaukee Brewers,Parker Mushinski,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Jesse Winker,Milwaukee Brewers,Ross Stripling,San Francisco Giants,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+54,Jesse Winker,Milwaukee Brewers,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Jesse Winker,Milwaukee Brewers,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Jesse Winker,Milwaukee Brewers,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Jesse Winker,Milwaukee Brewers,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+58,Jesse Winker,Milwaukee Brewers,Jakob Junis,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Jesse Winker,Milwaukee Brewers,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Jesse Winker,Milwaukee Brewers,Taylor Rogers,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+61,Jesse Winker,Milwaukee Brewers,Cole Waites,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Jesse Winker,Milwaukee Brewers,Logan Webb,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+63,Jesse Winker,Milwaukee Brewers,Alex Wood,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Jesse Winker,Milwaukee Brewers,Carlos Carrasco,New York Mets,1,1,0,0,0,1,2,0,0,1.000,1.000,1.000,2.000
+65,Jesse Winker,Milwaukee Brewers,Drew Smith,New York Mets,2,2,1,0,0,2,0,0,0,1.000,1.000,1.500,2.500
+66,Jesse Winker,Milwaukee Brewers,Kodai Senga,New York Mets,3,2,1,0,0,2,0,0,0,.667,.667,1.000,1.667
+67,Jesse Winker,Milwaukee Brewers,David Peterson,New York Mets,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+68,Jesse Winker,Milwaukee Brewers,Max Scherzer,New York Mets,5,1,0,0,0,0,1,0,1,.200,.333,.200,.533
+69,Jesse Winker,Milwaukee Brewers,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Jesse Winker,Milwaukee Brewers,T.J. McFarland,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Jesse Winker,Milwaukee Brewers,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Jesse Winker,Milwaukee Brewers,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Jesse Winker,Milwaukee Brewers,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Jesse Winker,Milwaukee Brewers,Dennis Santana,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Jesse Winker,Milwaukee Brewers,Justin Verlander,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Jesse Winker,Milwaukee Brewers,Pierce Johnson,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+77,Jesse Winker,Milwaukee Brewers,Ryan Feltner,Colorado Rockies,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+78,Jesse Winker,Milwaukee Brewers,Justin Lawrence,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+79,Jesse Winker,Milwaukee Brewers,Connor Seabold,Colorado Rockies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+80,Jesse Winker,Milwaukee Brewers,Nick Mears,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Jesse Winker,Milwaukee Brewers,Marco Gonzales,Seattle Mariners,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+82,Jesse Winker,Milwaukee Brewers,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Jesse Winker,Milwaukee Brewers,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Jesse Winker,Milwaukee Brewers,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+85,Jesse Winker,Milwaukee Brewers,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+86,Jesse Winker,Milwaukee Brewers,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Jesse Winker,Milwaukee Brewers,Luis L. Ortiz,Pittsburgh Pirates,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+88,Jesse Winker,Milwaukee Brewers,Roansy Contreras,Pittsburgh Pirates,3,1,1,0,0,3,0,0,0,.333,.333,.667,1.000
+89,Jesse Winker,Milwaukee Brewers,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+90,Jesse Winker,Milwaukee Brewers,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+91,Jesse Winker,Milwaukee Brewers,Angel Perdomo,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+92,Jesse Winker,Milwaukee Brewers,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Jesse Winker,Milwaukee Brewers,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Jesse Winker,Milwaukee Brewers,Jordan Lyles,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+95,Jesse Winker,Milwaukee Brewers,Michael Lorenzen,Detroit Tigers,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+96,Jesse Winker,Milwaukee Brewers,Spencer Turnbull,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Jesse Winker,Milwaukee Brewers,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

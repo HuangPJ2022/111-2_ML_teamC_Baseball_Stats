@@ -1,0 +1,45 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Henry Ramos,Cincinnati Reds,Cole Ragans,Texas Rangers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,Henry Ramos,Cincinnati Reds,Nathan Eovaldi,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+2,Henry Ramos,Cincinnati Reds,Jon Gray,Texas Rangers,3,1,0,1,0,1,0,0,0,.333,.333,1.000,1.333
+3,Henry Ramos,Cincinnati Reds,Martin Perez,Texas Rangers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+4,Henry Ramos,Cincinnati Reds,Jose Leclerc,Texas Rangers,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+5,Henry Ramos,Cincinnati Reds,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Henry Ramos,Cincinnati Reds,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Henry Ramos,Cincinnati Reds,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Henry Ramos,Cincinnati Reds,Blake Snell,San Diego Padres,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+9,Henry Ramos,Cincinnati Reds,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Henry Ramos,Cincinnati Reds,Michael Wacha,San Diego Padres,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+11,Henry Ramos,Cincinnati Reds,Sandy Alcantara,Miami Marlins,4,2,1,0,0,1,0,0,1,.500,.500,.750,1.250
+12,Henry Ramos,Cincinnati Reds,Eury Perez,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+13,Henry Ramos,Cincinnati Reds,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Henry Ramos,Cincinnati Reds,Braxton Garrett,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+15,Henry Ramos,Cincinnati Reds,Bryan Hoeing,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Henry Ramos,Cincinnati Reds,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Henry Ramos,Cincinnati Reds,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Henry Ramos,Cincinnati Reds,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Henry Ramos,Cincinnati Reds,Kodai Senga,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+20,Henry Ramos,Cincinnati Reds,Justin Verlander,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Henry Ramos,Cincinnati Reds,Brad Hand,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+22,Henry Ramos,Cincinnati Reds,Brent Suter,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Henry Ramos,Cincinnati Reds,Daniel Bard,Colorado Rockies,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Henry Ramos,Cincinnati Reds,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Henry Ramos,Cincinnati Reds,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+26,Henry Ramos,Cincinnati Reds,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Henry Ramos,Cincinnati Reds,Nick Ramirez,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+28,Henry Ramos,Cincinnati Reds,Clarke Schmidt,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+29,Henry Ramos,Cincinnati Reds,Michael Kopech,Chicago White Sox,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+30,Henry Ramos,Cincinnati Reds,Mike Clevinger,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Henry Ramos,Cincinnati Reds,Alex Colome,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Henry Ramos,Cincinnati Reds,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Henry Ramos,Cincinnati Reds,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Henry Ramos,Cincinnati Reds,Lance Lynn,Chicago White Sox,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+35,Henry Ramos,Cincinnati Reds,Adam Oller,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+36,Henry Ramos,Cincinnati Reds,Drew Rucinski,Oakland Athletics,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+37,Henry Ramos,Cincinnati Reds,Kyle Muller,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+38,Henry Ramos,Cincinnati Reds,Ken Waldichuk,Oakland Athletics,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+39,Henry Ramos,Cincinnati Reds,Jeurys Familia,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+40,Henry Ramos,Cincinnati Reds,Shintaro Fujinami,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+41,Henry Ramos,Cincinnati Reds,Zach Jackson,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Henry Ramos,Cincinnati Reds,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Henry Ramos,Cincinnati Reds,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

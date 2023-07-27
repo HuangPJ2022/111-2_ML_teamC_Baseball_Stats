@@ -1,0 +1,130 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Zach Neto,Los Angeles Angels,Jose Leclerc,Texas Rangers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+1,Zach Neto,Los Angeles Angels,Josh Sborz,Texas Rangers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+2,Zach Neto,Los Angeles Angels,Dane Dunning,Texas Rangers,3,1,1,0,0,0,1,0,0,.333,.500,.667,1.167
+3,Zach Neto,Los Angeles Angels,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Zach Neto,Los Angeles Angels,Cody Bradford,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Zach Neto,Los Angeles Angels,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Zach Neto,Los Angeles Angels,Nathan Eovaldi,Texas Rangers,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+7,Zach Neto,Los Angeles Angels,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Zach Neto,Los Angeles Angels,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Zach Neto,Los Angeles Angels,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Zach Neto,Los Angeles Angels,Owen White,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Zach Neto,Los Angeles Angels,James Paxton,Boston Red Sox,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+12,Zach Neto,Los Angeles Angels,Nick Pivetta,Boston Red Sox,4,2,1,0,0,0,0,0,0,.500,.500,.750,1.250
+13,Zach Neto,Los Angeles Angels,Brayan Bello,Boston Red Sox,5,2,0,0,0,0,0,0,2,.400,.400,.400,.800
+14,Zach Neto,Los Angeles Angels,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Zach Neto,Los Angeles Angels,Kutter Crawford,Boston Red Sox,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Zach Neto,Los Angeles Angels,Tanner Houck,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+17,Zach Neto,Los Angeles Angels,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Zach Neto,Los Angeles Angels,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Zach Neto,Los Angeles Angels,Garrett Whitlock,Boston Red Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Zach Neto,Los Angeles Angels,Drew VerHagen,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+21,Zach Neto,Los Angeles Angels,Jake Woodford,St. Louis Cardinals,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+22,Zach Neto,Los Angeles Angels,Steven Matz,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+23,Zach Neto,Los Angeles Angels,Miles Mikolas,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+24,Zach Neto,Los Angeles Angels,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Zach Neto,Los Angeles Angels,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Zach Neto,Los Angeles Angels,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Zach Neto,Los Angeles Angels,Guillermo Zuniga,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Zach Neto,Los Angeles Angels,Mike Baumann,Baltimore Orioles,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+29,Zach Neto,Los Angeles Angels,Dean Kremer,Baltimore Orioles,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+30,Zach Neto,Los Angeles Angels,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+31,Zach Neto,Los Angeles Angels,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Zach Neto,Los Angeles Angels,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Zach Neto,Los Angeles Angels,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Zach Neto,Los Angeles Angels,Logan Gillaspie,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Zach Neto,Los Angeles Angels,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Zach Neto,Los Angeles Angels,Grayson Rodriguez,Baltimore Orioles,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+37,Zach Neto,Los Angeles Angels,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Zach Neto,Los Angeles Angels,Michael Rucker,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+39,Zach Neto,Los Angeles Angels,Drew Smyly,Chicago Cubs,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+40,Zach Neto,Los Angeles Angels,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Zach Neto,Los Angeles Angels,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Zach Neto,Los Angeles Angels,Mark Leiter Jr.,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+43,Zach Neto,Los Angeles Angels,Jameson Taillon,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Zach Neto,Los Angeles Angels,Joel Kuhnel,Houston Astros,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+45,Zach Neto,Los Angeles Angels,Rafael Montero,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+46,Zach Neto,Los Angeles Angels,Hunter Brown,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+47,Zach Neto,Los Angeles Angels,Hector Neris,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+48,Zach Neto,Los Angeles Angels,Framber Valdez,Houston Astros,8,2,0,0,2,3,0,0,4,.250,.333,1.000,1.333
+49,Zach Neto,Los Angeles Angels,Bryan Abreu,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Zach Neto,Los Angeles Angels,Ronel Blanco,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Zach Neto,Los Angeles Angels,J.P. France,Houston Astros,5,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+52,Zach Neto,Los Angeles Angels,Cristian Javier,Houston Astros,5,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+53,Zach Neto,Los Angeles Angels,Seth Martinez,Houston Astros,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+54,Zach Neto,Los Angeles Angels,Phil Maton,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Zach Neto,Los Angeles Angels,Griffin Jax,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+56,Zach Neto,Los Angeles Angels,Jorge Lopez,Minnesota Twins,2,2,2,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+57,Zach Neto,Los Angeles Angels,Joe Ryan,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+58,Zach Neto,Los Angeles Angels,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Zach Neto,Los Angeles Angels,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Zach Neto,Los Angeles Angels,Pablo Lopez,Minnesota Twins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+61,Zach Neto,Los Angeles Angels,Louie Varland,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Zach Neto,Los Angeles Angels,Andrew Nardi,Miami Marlins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+63,Zach Neto,Los Angeles Angels,Matt Barnes,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+64,Zach Neto,Los Angeles Angels,Edward Cabrera,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+65,Zach Neto,Los Angeles Angels,JT Chargois,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+66,Zach Neto,Los Angeles Angels,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Zach Neto,Los Angeles Angels,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Zach Neto,Los Angeles Angels,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+69,Zach Neto,Los Angeles Angels,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Zach Neto,Los Angeles Angels,Jhony Brito,New York Yankees,2,2,2,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+71,Zach Neto,Los Angeles Angels,Domingo German,New York Yankees,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+72,Zach Neto,Los Angeles Angels,Ian Hamilton,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+73,Zach Neto,Los Angeles Angels,Carlos Rodon,New York Yankees,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+74,Zach Neto,Los Angeles Angels,Luis Severino,New York Yankees,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+75,Zach Neto,Los Angeles Angels,Albert Abreu,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Zach Neto,Los Angeles Angels,Nestor Cortes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+77,Zach Neto,Los Angeles Angels,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Zach Neto,Los Angeles Angels,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Zach Neto,Los Angeles Angels,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+80,Zach Neto,Los Angeles Angels,Ron Marinaccio,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Zach Neto,Los Angeles Angels,Clarke Schmidt,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+82,Zach Neto,Los Angeles Angels,Greg Weissert,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Zach Neto,Los Angeles Angels,Chris Flexen,Seattle Mariners,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+84,Zach Neto,Los Angeles Angels,Justin Topa,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,Zach Neto,Los Angeles Angels,Logan Gilbert,Seattle Mariners,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+86,Zach Neto,Los Angeles Angels,Bryan Woo,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+87,Zach Neto,Los Angeles Angels,Matt Brash,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+88,Zach Neto,Los Angeles Angels,Luis Castillo,Seattle Mariners,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+89,Zach Neto,Los Angeles Angels,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Zach Neto,Los Angeles Angels,Emmanuel Clase,Cleveland Guardians,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+91,Zach Neto,Los Angeles Angels,Eli Morgan,Cleveland Guardians,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+92,Zach Neto,Los Angeles Angels,Trevor Stephan,Cleveland Guardians,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+93,Zach Neto,Los Angeles Angels,Logan Allen,Cleveland Guardians,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+94,Zach Neto,Los Angeles Angels,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Zach Neto,Los Angeles Angels,Cal Quantrill,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Zach Neto,Los Angeles Angels,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Zach Neto,Los Angeles Angels,Jose Hernandez,Pittsburgh Pirates,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+98,Zach Neto,Los Angeles Angels,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Zach Neto,Los Angeles Angels,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Zach Neto,Los Angeles Angels,Garrett Crochet,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Zach Neto,Los Angeles Angels,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Zach Neto,Los Angeles Angels,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Zach Neto,Los Angeles Angels,Liam Hendriks,Chicago White Sox,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+104,Zach Neto,Los Angeles Angels,Michael Kopech,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+105,Zach Neto,Los Angeles Angels,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Zach Neto,Los Angeles Angels,Lance Lynn,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Zach Neto,Los Angeles Angels,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Zach Neto,Los Angeles Angels,Jesse Scholtens,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Zach Neto,Los Angeles Angels,Wade Miley,Milwaukee Brewers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+110,Zach Neto,Los Angeles Angels,Elvis Peguero,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+111,Zach Neto,Los Angeles Angels,Corbin Burnes,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+112,Zach Neto,Los Angeles Angels,Joel Payamps,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Zach Neto,Los Angeles Angels,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+114,Zach Neto,Los Angeles Angels,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Zach Neto,Los Angeles Angels,Carlos Hernandez,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+116,Zach Neto,Los Angeles Angels,Amir Garrett,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+117,Zach Neto,Los Angeles Angels,Zack Greinke,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+118,Zach Neto,Los Angeles Angels,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,Zach Neto,Los Angeles Angels,Jordan Lyles,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Zach Neto,Los Angeles Angels,Ryan Yarbrough,Kansas City Royals,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+121,Zach Neto,Los Angeles Angels,James Kaprielian,Oakland Athletics,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+122,Zach Neto,Los Angeles Angels,Adam Oller,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+123,Zach Neto,Los Angeles Angels,Luis Medina,Oakland Athletics,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+124,Zach Neto,Los Angeles Angels,Jeurys Familia,Oakland Athletics,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+125,Zach Neto,Los Angeles Angels,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Zach Neto,Los Angeles Angels,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Zach Neto,Los Angeles Angels,Mason Miller,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Zach Neto,Los Angeles Angels,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

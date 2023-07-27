@@ -1,0 +1,79 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Mitch Garver,Texas Rangers,Bobby Miller,Los Angeles Dodgers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+1,Mitch Garver,Texas Rangers,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Mitch Garver,Texas Rangers,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Mitch Garver,Texas Rangers,Tucker Davidson,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+4,Mitch Garver,Texas Rangers,Reid Detmers,Los Angeles Angels,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+5,Mitch Garver,Texas Rangers,Tyler Anderson,Los Angeles Angels,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+6,Mitch Garver,Texas Rangers,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Mitch Garver,Texas Rangers,Jimmy Herget,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Mitch Garver,Texas Rangers,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Mitch Garver,Texas Rangers,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Mitch Garver,Texas Rangers,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Mitch Garver,Texas Rangers,Pete Fairbanks,Tampa Bay Rays,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Mitch Garver,Texas Rangers,Tyler Glasnow,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Mitch Garver,Texas Rangers,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Mitch Garver,Texas Rangers,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Mitch Garver,Texas Rangers,Chris Murphy,Boston Red Sox,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+16,Mitch Garver,Texas Rangers,Kaleb Ort,Boston Red Sox,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+17,Mitch Garver,Texas Rangers,Brayan Bello,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+18,Mitch Garver,Texas Rangers,Justin Garza,Boston Red Sox,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+19,Mitch Garver,Texas Rangers,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Mitch Garver,Texas Rangers,Matthew Liberatore,St. Louis Cardinals,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+21,Mitch Garver,Texas Rangers,Adam Wainwright,St. Louis Cardinals,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+22,Mitch Garver,Texas Rangers,Ryan Helsley,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Mitch Garver,Texas Rangers,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Mitch Garver,Texas Rangers,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Mitch Garver,Texas Rangers,Chris Bassitt,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Mitch Garver,Texas Rangers,Kevin Gausman,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Mitch Garver,Texas Rangers,Nate Pearson,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+28,Mitch Garver,Texas Rangers,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Mitch Garver,Texas Rangers,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Mitch Garver,Texas Rangers,Austin Voth,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+31,Mitch Garver,Texas Rangers,Kyle Gibson,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+32,Mitch Garver,Texas Rangers,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Mitch Garver,Texas Rangers,Grayson Rodriguez,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Mitch Garver,Texas Rangers,Seranthony Dominguez,Philadelphia Phillies,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+35,Mitch Garver,Texas Rangers,Yunior Marte,Philadelphia Phillies,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+36,Mitch Garver,Texas Rangers,Bailey Falter,Philadelphia Phillies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+37,Mitch Garver,Texas Rangers,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Mitch Garver,Texas Rangers,Craig Kimbrel,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+39,Mitch Garver,Texas Rangers,Zack Wheeler,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Mitch Garver,Texas Rangers,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Mitch Garver,Texas Rangers,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Mitch Garver,Texas Rangers,Justin Steele,Chicago Cubs,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+43,Mitch Garver,Texas Rangers,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Mitch Garver,Texas Rangers,Parker Mushinski,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Mitch Garver,Texas Rangers,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Mitch Garver,Texas Rangers,Patrick Corbin,Washington Nationals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+47,Mitch Garver,Texas Rangers,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Mitch Garver,Texas Rangers,Clay Holmes,New York Yankees,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+49,Mitch Garver,Texas Rangers,Clarke Schmidt,New York Yankees,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+50,Mitch Garver,Texas Rangers,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Mitch Garver,Texas Rangers,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Mitch Garver,Texas Rangers,Ron Marinaccio,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+53,Mitch Garver,Texas Rangers,Luis Severino,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Mitch Garver,Texas Rangers,Chris Flexen,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Mitch Garver,Texas Rangers,Mike Ford,Seattle Mariners,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+56,Mitch Garver,Texas Rangers,Justin Topa,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+57,Mitch Garver,Texas Rangers,Bryce Miller,Seattle Mariners,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+58,Mitch Garver,Texas Rangers,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Mitch Garver,Texas Rangers,Matt Festa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Mitch Garver,Texas Rangers,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Mitch Garver,Texas Rangers,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Mitch Garver,Texas Rangers,Bryan Woo,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Mitch Garver,Texas Rangers,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Mitch Garver,Texas Rangers,Gavin Williams,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Mitch Garver,Texas Rangers,Nicholas Padilla,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+66,Mitch Garver,Texas Rangers,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Mitch Garver,Texas Rangers,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Mitch Garver,Texas Rangers,Jesse Scholtens,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Mitch Garver,Texas Rangers,Tyler Holton,Detroit Tigers,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+70,Mitch Garver,Texas Rangers,Jonathan Schoop,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+71,Mitch Garver,Texas Rangers,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Mitch Garver,Texas Rangers,Mason Englert,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Mitch Garver,Texas Rangers,Garrett Hill,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Mitch Garver,Texas Rangers,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Mitch Garver,Texas Rangers,Reese Olson,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Mitch Garver,Texas Rangers,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Mitch Garver,Texas Rangers,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333

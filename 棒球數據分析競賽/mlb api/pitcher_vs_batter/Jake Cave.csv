@@ -1,0 +1,49 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jake Cave,Philadelphia Phillies,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+1,Jake Cave,Philadelphia Phillies,Dane Dunning,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Jake Cave,Philadelphia Phillies,Nathan Eovaldi,Texas Rangers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+3,Jake Cave,Philadelphia Phillies,Taylor Hearn,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Jake Cave,Philadelphia Phillies,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Jake Cave,Philadelphia Phillies,Jacob deGrom,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Jake Cave,Philadelphia Phillies,Casey Legumina,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+7,Jake Cave,Philadelphia Phillies,Luis Cessa,Cincinnati Reds,3,2,1,0,0,4,0,0,0,.667,.667,1.000,1.667
+8,Jake Cave,Philadelphia Phillies,Reiver Sanmartin,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+9,Jake Cave,Philadelphia Phillies,Graham Ashcraft,Cincinnati Reds,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Jake Cave,Philadelphia Phillies,Fernando Cruz,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Jake Cave,Philadelphia Phillies,Hunter Greene,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+12,Jake Cave,Philadelphia Phillies,Kevin Herget,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Jake Cave,Philadelphia Phillies,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Jake Cave,Philadelphia Phillies,Connor Overton,Cincinnati Reds,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+15,Jake Cave,Philadelphia Phillies,Jason Vosler,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Jake Cave,Philadelphia Phillies,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Jake Cave,Philadelphia Phillies,Cristian Javier,Houston Astros,2,2,2,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+18,Jake Cave,Philadelphia Phillies,Seth Martinez,Houston Astros,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+19,Jake Cave,Philadelphia Phillies,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Jake Cave,Philadelphia Phillies,Sandy Alcantara,Miami Marlins,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+21,Jake Cave,Philadelphia Phillies,Devin Smeltzer,Miami Marlins,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+22,Jake Cave,Philadelphia Phillies,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Jake Cave,Philadelphia Phillies,Noah Davis,Colorado Rockies,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+24,Jake Cave,Philadelphia Phillies,Ryan Feltner,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+25,Jake Cave,Philadelphia Phillies,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Jake Cave,Philadelphia Phillies,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Jake Cave,Philadelphia Phillies,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Jake Cave,Philadelphia Phillies,Michael King,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+29,Jake Cave,Philadelphia Phillies,Domingo German,New York Yankees,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+30,Jake Cave,Philadelphia Phillies,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Jake Cave,Philadelphia Phillies,Gerrit Cole,New York Yankees,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+32,Jake Cave,Philadelphia Phillies,Jonathan Loaisiga,New York Yankees,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+33,Jake Cave,Philadelphia Phillies,Paul Sewald,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+34,Jake Cave,Philadelphia Phillies,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+35,Jake Cave,Philadelphia Phillies,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Jake Cave,Philadelphia Phillies,Penn Murfee,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Jake Cave,Philadelphia Phillies,Gavin Williams,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+38,Jake Cave,Philadelphia Phillies,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Jake Cave,Philadelphia Phillies,Tim Herrin,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+40,Jake Cave,Philadelphia Phillies,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Jake Cave,Philadelphia Phillies,Jimmy Lambert,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+42,Jake Cave,Philadelphia Phillies,Tanner Banks,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Jake Cave,Philadelphia Phillies,Mike Clevinger,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Jake Cave,Philadelphia Phillies,Jake Diekman,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+45,Jake Cave,Philadelphia Phillies,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Jake Cave,Philadelphia Phillies,Lance Lynn,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Jake Cave,Philadelphia Phillies,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

@@ -1,0 +1,87 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Carlos Perez,Oakland Athletics,Jesse Chavez,Atlanta Braves,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+1,Carlos Perez,Oakland Athletics,Jared Shuster,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Carlos Perez,Oakland Athletics,John King,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+3,Carlos Perez,Oakland Athletics,Martin Perez,Texas Rangers,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+4,Carlos Perez,Oakland Athletics,Andrew Heaney,Texas Rangers,5,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+5,Carlos Perez,Oakland Athletics,Jonathan Hernandez,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,Carlos Perez,Oakland Athletics,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Carlos Perez,Oakland Athletics,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Carlos Perez,Oakland Athletics,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Carlos Perez,Oakland Athletics,Tucker Davidson,Los Angeles Angels,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+10,Carlos Perez,Oakland Athletics,Jose Quijada,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+11,Carlos Perez,Oakland Athletics,Jose Suarez,Los Angeles Angels,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+12,Carlos Perez,Oakland Athletics,Patrick Sandoval,Los Angeles Angels,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Carlos Perez,Oakland Athletics,Chase Silseth,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+14,Carlos Perez,Oakland Athletics,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Carlos Perez,Oakland Athletics,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Carlos Perez,Oakland Athletics,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Carlos Perez,Oakland Athletics,Colin Poche,Tampa Bay Rays,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+18,Carlos Perez,Oakland Athletics,Tommy Henry,Arizona Diamondbacks,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+19,Carlos Perez,Oakland Athletics,Luis Frias,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+20,Carlos Perez,Oakland Athletics,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Carlos Perez,Oakland Athletics,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Carlos Perez,Oakland Athletics,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+23,Carlos Perez,Oakland Athletics,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Carlos Perez,Oakland Athletics,Hunter Greene,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Carlos Perez,Oakland Athletics,Nick Lodolo,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Carlos Perez,Oakland Athletics,Yusei Kikuchi,Toronto Blue Jays,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+27,Carlos Perez,Oakland Athletics,Bowden Francis,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+28,Carlos Perez,Oakland Athletics,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Carlos Perez,Oakland Athletics,Danny Coulombe,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+30,Carlos Perez,Oakland Athletics,Dean Kremer,Baltimore Orioles,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+31,Carlos Perez,Oakland Athletics,Cionel Perez,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+32,Carlos Perez,Oakland Athletics,Austin Voth,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Carlos Perez,Oakland Athletics,Cole Irvin,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+34,Carlos Perez,Oakland Athletics,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Carlos Perez,Oakland Athletics,Jose Alvarado,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+36,Carlos Perez,Oakland Athletics,Yunior Marte,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+37,Carlos Perez,Oakland Athletics,Matt Strahm,Philadelphia Phillies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+38,Carlos Perez,Oakland Athletics,Andrew Vasquez,Philadelphia Phillies,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+39,Carlos Perez,Oakland Athletics,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Carlos Perez,Oakland Athletics,Cristopher Sanchez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Carlos Perez,Oakland Athletics,Justin Steele,Chicago Cubs,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+42,Carlos Perez,Oakland Athletics,Brandon Hughes,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Carlos Perez,Oakland Athletics,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Carlos Perez,Oakland Athletics,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Carlos Perez,Oakland Athletics,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Carlos Perez,Oakland Athletics,Hunter Brown,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+47,Carlos Perez,Oakland Athletics,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Carlos Perez,Oakland Athletics,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Carlos Perez,Oakland Athletics,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Carlos Perez,Oakland Athletics,David Robertson,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+51,Carlos Perez,Oakland Athletics,Carlos Carrasco,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+52,Carlos Perez,Oakland Athletics,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Carlos Perez,Oakland Athletics,Jhony Brito,New York Yankees,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+54,Carlos Perez,Oakland Athletics,Clarke Schmidt,New York Yankees,2,1,0,0,0,1,0,0,0,.500,.333,.500,.833
+55,Carlos Perez,Oakland Athletics,Nestor Cortes,New York Yankees,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+56,Carlos Perez,Oakland Athletics,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Carlos Perez,Oakland Athletics,Deivi Garcia,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+58,Carlos Perez,Oakland Athletics,Domingo German,New York Yankees,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Carlos Perez,Oakland Athletics,Ron Marinaccio,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+60,Carlos Perez,Oakland Athletics,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Carlos Perez,Oakland Athletics,Nick Ramirez,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Carlos Perez,Oakland Athletics,Tayler Saucedo,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+63,Carlos Perez,Oakland Athletics,Marco Gonzales,Seattle Mariners,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+64,Carlos Perez,Oakland Athletics,George Kirby,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+65,Carlos Perez,Oakland Athletics,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Carlos Perez,Oakland Athletics,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Carlos Perez,Oakland Athletics,Shane Bieber,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+68,Carlos Perez,Oakland Athletics,Logan Allen,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Carlos Perez,Oakland Athletics,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Carlos Perez,Oakland Athletics,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Carlos Perez,Oakland Athletics,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Carlos Perez,Oakland Athletics,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Carlos Perez,Oakland Athletics,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Carlos Perez,Oakland Athletics,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Carlos Perez,Oakland Athletics,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+76,Carlos Perez,Oakland Athletics,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Carlos Perez,Oakland Athletics,Jesse Scholtens,Chicago White Sox,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+78,Carlos Perez,Oakland Athletics,Tanner Banks,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Carlos Perez,Oakland Athletics,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+80,Carlos Perez,Oakland Athletics,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Carlos Perez,Oakland Athletics,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Carlos Perez,Oakland Athletics,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Carlos Perez,Oakland Athletics,Peter Strzelecki,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+84,Carlos Perez,Oakland Athletics,Ryan Yarbrough,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+85,Carlos Perez,Oakland Athletics,Carlos Hernandez,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

@@ -1,0 +1,62 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,David Hensley,Houston Astros,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,David Hensley,Houston Astros,Max Fried,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,David Hensley,Houston Astros,A.J. Minter,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+3,David Hensley,Houston Astros,Brock Burke,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+4,David Hensley,Houston Astros,Dane Dunning,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,David Hensley,Houston Astros,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+6,David Hensley,Houston Astros,Martin Perez,Texas Rangers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+7,David Hensley,Houston Astros,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,David Hensley,Houston Astros,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,David Hensley,Houston Astros,Shohei Ohtani,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+10,David Hensley,Houston Astros,Patrick Sandoval,Los Angeles Angels,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+11,David Hensley,Houston Astros,Griffin Canning,Los Angeles Angels,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+12,David Hensley,Houston Astros,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,David Hensley,Houston Astros,Jimmy Herget,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,David Hensley,Houston Astros,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,David Hensley,Houston Astros,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,David Hensley,Houston Astros,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,David Hensley,Houston Astros,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,David Hensley,Houston Astros,Josh Fleming,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,David Hensley,Houston Astros,Heath Hembree,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,David Hensley,Houston Astros,Drew Rasmussen,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,David Hensley,Houston Astros,Jose Berrios,Toronto Blue Jays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+22,David Hensley,Houston Astros,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,David Hensley,Houston Astros,Bailey Falter,Philadelphia Phillies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+24,David Hensley,Houston Astros,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,David Hensley,Houston Astros,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,David Hensley,Houston Astros,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,David Hensley,Houston Astros,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,David Hensley,Houston Astros,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,David Hensley,Houston Astros,Jovani Moran,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+30,David Hensley,Houston Astros,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,David Hensley,Houston Astros,Sonny Gray,Minnesota Twins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+32,David Hensley,Houston Astros,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,David Hensley,Houston Astros,Joe Ryan,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+34,David Hensley,Houston Astros,Logan Webb,San Francisco Giants,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+35,David Hensley,Houston Astros,Luis Castillo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,David Hensley,Houston Astros,Marco Gonzales,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,David Hensley,Houston Astros,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,David Hensley,Houston Astros,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,David Hensley,Houston Astros,Juan Then,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,David Hensley,Houston Astros,David Bednar,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+41,David Hensley,Houston Astros,Chase De Jong,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,David Hensley,Houston Astros,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,David Hensley,Houston Astros,Rich Hill,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,David Hensley,Houston Astros,Kendall Graveman,Chicago White Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+45,David Hensley,Houston Astros,Reynaldo Lopez,Chicago White Sox,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+46,David Hensley,Houston Astros,Jose Ruiz,Chicago White Sox,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+47,David Hensley,Houston Astros,Mike Clevinger,Chicago White Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+48,David Hensley,Houston Astros,Lucas Giolito,Chicago White Sox,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,David Hensley,Houston Astros,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,David Hensley,Houston Astros,Lance Lynn,Chicago White Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+51,David Hensley,Houston Astros,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,David Hensley,Houston Astros,Eduardo Rodriguez,Detroit Tigers,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+53,David Hensley,Houston Astros,Matthew Boyd,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+54,David Hensley,Houston Astros,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,David Hensley,Houston Astros,Jose Cisnero,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+56,David Hensley,Houston Astros,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,David Hensley,Houston Astros,Garrett Hill,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,David Hensley,Houston Astros,Trey Wingenter,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,David Hensley,Houston Astros,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,David Hensley,Houston Astros,JP Sears,Oakland Athletics,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333

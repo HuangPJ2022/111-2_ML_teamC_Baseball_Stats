@@ -1,0 +1,63 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Miguel Amaya,Chicago Cubs,Jaime Barria,Los Angeles Angels,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+1,Miguel Amaya,Chicago Cubs,Reid Detmers,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+2,Miguel Amaya,Chicago Cubs,Tyler Anderson,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+3,Miguel Amaya,Chicago Cubs,Chris Devenski,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Miguel Amaya,Chicago Cubs,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Miguel Amaya,Chicago Cubs,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Miguel Amaya,Chicago Cubs,Jose Soriano,Los Angeles Angels,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+7,Miguel Amaya,Chicago Cubs,Tayler Scott,Boston Red Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+8,Miguel Amaya,Chicago Cubs,Brandon Walter,Boston Red Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+9,Miguel Amaya,Chicago Cubs,James Paxton,Boston Red Sox,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+10,Miguel Amaya,Chicago Cubs,Joely Rodriguez,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Miguel Amaya,Chicago Cubs,Matthew Liberatore,St. Louis Cardinals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+12,Miguel Amaya,Chicago Cubs,Jack Flaherty,St. Louis Cardinals,5,2,0,0,0,0,0,0,0,.400,.400,.400,.800
+13,Miguel Amaya,Chicago Cubs,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Miguel Amaya,Chicago Cubs,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Miguel Amaya,Chicago Cubs,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Miguel Amaya,Chicago Cubs,Kyle Leahy,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+17,Miguel Amaya,Chicago Cubs,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Miguel Amaya,Chicago Cubs,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Miguel Amaya,Chicago Cubs,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Miguel Amaya,Chicago Cubs,Cole Irvin,Baltimore Orioles,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+21,Miguel Amaya,Chicago Cubs,Mike Baumann,Baltimore Orioles,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+22,Miguel Amaya,Chicago Cubs,Reed Garrett,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Miguel Amaya,Chicago Cubs,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+24,Miguel Amaya,Chicago Cubs,Cionel Perez,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+25,Miguel Amaya,Chicago Cubs,Jose Alvarado,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Miguel Amaya,Chicago Cubs,Taijuan Walker,Philadelphia Phillies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+27,Miguel Amaya,Chicago Cubs,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Miguel Amaya,Chicago Cubs,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Miguel Amaya,Chicago Cubs,Drew Carlton,San Diego Padres,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+30,Miguel Amaya,Chicago Cubs,Domingo Tapia,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+31,Miguel Amaya,Chicago Cubs,Ryan Weathers,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+32,Miguel Amaya,Chicago Cubs,Tom Cosgrove,San Diego Padres,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+33,Miguel Amaya,Chicago Cubs,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Miguel Amaya,Chicago Cubs,Blake Snell,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+35,Miguel Amaya,Chicago Cubs,Steven Wilson,San Diego Padres,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+36,Miguel Amaya,Chicago Cubs,A.J. Puk,Miami Marlins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+37,Miguel Amaya,Chicago Cubs,Sandy Alcantara,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+38,Miguel Amaya,Chicago Cubs,Matt Barnes,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Miguel Amaya,Chicago Cubs,Edward Cabrera,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+40,Miguel Amaya,Chicago Cubs,Dylan Floro,Miami Marlins,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+41,Miguel Amaya,Chicago Cubs,Paolo Espino,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+42,Miguel Amaya,Chicago Cubs,Jose A. Ferrer,Washington Nationals,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+43,Miguel Amaya,Chicago Cubs,Kyle Finnegan,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+44,Miguel Amaya,Chicago Cubs,Patrick Corbin,Washington Nationals,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Miguel Amaya,Chicago Cubs,MacKenzie Gore,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Miguel Amaya,Chicago Cubs,Hunter Harvey,Washington Nationals,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+47,Miguel Amaya,Chicago Cubs,Amos Willingham,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Miguel Amaya,Chicago Cubs,Luke Jackson,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Miguel Amaya,Chicago Cubs,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+50,Miguel Amaya,Chicago Cubs,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+51,Miguel Amaya,Chicago Cubs,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Miguel Amaya,Chicago Cubs,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Miguel Amaya,Chicago Cubs,Carlos Rodon,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+54,Miguel Amaya,Chicago Cubs,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Miguel Amaya,Chicago Cubs,Rich Hill,Pittsburgh Pirates,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+56,Miguel Amaya,Chicago Cubs,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Miguel Amaya,Chicago Cubs,Angel Perdomo,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+58,Miguel Amaya,Chicago Cubs,Hoby Milner,Milwaukee Brewers,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+59,Miguel Amaya,Chicago Cubs,Clayton Andrews,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Miguel Amaya,Chicago Cubs,Wade Miley,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+61,Miguel Amaya,Chicago Cubs,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

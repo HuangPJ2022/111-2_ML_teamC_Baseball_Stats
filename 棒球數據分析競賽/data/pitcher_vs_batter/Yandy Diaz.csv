@@ -1,0 +1,176 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Yandy Diaz,Tampa Bay Rays,Kolby Allard,Atlanta Braves,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+1,Yandy Diaz,Tampa Bay Rays,Nick Anderson,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Yandy Diaz,Tampa Bay Rays,Bryce Elder,Atlanta Braves,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+3,Yandy Diaz,Tampa Bay Rays,Charlie Morton,Atlanta Braves,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+4,Yandy Diaz,Tampa Bay Rays,Spencer Strider,Atlanta Braves,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+5,Yandy Diaz,Tampa Bay Rays,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Yandy Diaz,Tampa Bay Rays,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Yandy Diaz,Tampa Bay Rays,Jon Gray,Texas Rangers,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+8,Yandy Diaz,Tampa Bay Rays,Martin Perez,Texas Rangers,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+9,Yandy Diaz,Tampa Bay Rays,Andrew Heaney,Texas Rangers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+10,Yandy Diaz,Tampa Bay Rays,Dane Dunning,Texas Rangers,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+11,Yandy Diaz,Tampa Bay Rays,Nathan Eovaldi,Texas Rangers,6,0,0,0,0,0,1,0,0,.000,.143,.000,.143
+12,Yandy Diaz,Tampa Bay Rays,Spencer Howard,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Yandy Diaz,Tampa Bay Rays,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+14,Yandy Diaz,Tampa Bay Rays,Will Smith,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Yandy Diaz,Tampa Bay Rays,Alex Speas,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Yandy Diaz,Tampa Bay Rays,Phil Bickford,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+17,Yandy Diaz,Tampa Bay Rays,Justin Bruihl,Los Angeles Dodgers,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+18,Yandy Diaz,Tampa Bay Rays,Noah Syndergaard,Los Angeles Dodgers,3,2,1,0,1,2,0,0,0,.667,.667,2.000,2.667
+19,Yandy Diaz,Tampa Bay Rays,Brusdar Graterol,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+20,Yandy Diaz,Tampa Bay Rays,Caleb Ferguson,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+21,Yandy Diaz,Tampa Bay Rays,Clayton Kershaw,Los Angeles Dodgers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Yandy Diaz,Tampa Bay Rays,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Yandy Diaz,Tampa Bay Rays,Gavin Stone,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Yandy Diaz,Tampa Bay Rays,Kenley Jansen,Boston Red Sox,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+25,Yandy Diaz,Tampa Bay Rays,Brayan Bello,Boston Red Sox,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+26,Yandy Diaz,Tampa Bay Rays,Garrett Whitlock,Boston Red Sox,6,4,1,0,1,3,0,0,0,.667,.667,1.333,2.000
+27,Yandy Diaz,Tampa Bay Rays,Corey Kluber,Boston Red Sox,4,2,0,0,1,2,0,0,0,.500,.500,1.250,1.750
+28,Yandy Diaz,Tampa Bay Rays,Nick Pivetta,Boston Red Sox,2,1,0,0,0,0,2,0,0,.500,.750,.500,1.250
+29,Yandy Diaz,Tampa Bay Rays,Tanner Houck,Boston Red Sox,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+30,Yandy Diaz,Tampa Bay Rays,Brennan Bernardino,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Yandy Diaz,Tampa Bay Rays,Kutter Crawford,Boston Red Sox,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+32,Yandy Diaz,Tampa Bay Rays,Zack Kelly,Boston Red Sox,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+33,Yandy Diaz,Tampa Bay Rays,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Yandy Diaz,Tampa Bay Rays,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+35,Yandy Diaz,Tampa Bay Rays,Chris Sale,Boston Red Sox,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+36,Yandy Diaz,Tampa Bay Rays,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Yandy Diaz,Tampa Bay Rays,Ryan Sherriff,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Yandy Diaz,Tampa Bay Rays,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Yandy Diaz,Tampa Bay Rays,Scott McGough,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+40,Yandy Diaz,Tampa Bay Rays,Zach Davies,Arizona Diamondbacks,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+41,Yandy Diaz,Tampa Bay Rays,Zac Gallen,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+42,Yandy Diaz,Tampa Bay Rays,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Yandy Diaz,Tampa Bay Rays,Drey Jameson,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+44,Yandy Diaz,Tampa Bay Rays,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Yandy Diaz,Tampa Bay Rays,Brandon Pfaadt,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+46,Yandy Diaz,Tampa Bay Rays,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Yandy Diaz,Tampa Bay Rays,Fernando Cruz,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+48,Yandy Diaz,Tampa Bay Rays,Nick Lodolo,Cincinnati Reds,4,2,0,0,1,3,0,0,0,.500,.500,1.250,1.750
+49,Yandy Diaz,Tampa Bay Rays,Levi Stoudt,Cincinnati Reds,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+50,Yandy Diaz,Tampa Bay Rays,Buck Farmer,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+51,Yandy Diaz,Tampa Bay Rays,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Yandy Diaz,Tampa Bay Rays,Hunter Greene,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Yandy Diaz,Tampa Bay Rays,Derek Law,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+54,Yandy Diaz,Tampa Bay Rays,Alek Manoah,Toronto Blue Jays,2,2,1,0,0,0,1,0,0,1.000,1.000,1.500,2.500
+55,Yandy Diaz,Tampa Bay Rays,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Yandy Diaz,Tampa Bay Rays,Chris Bassitt,Toronto Blue Jays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+57,Yandy Diaz,Tampa Bay Rays,Jose Berrios,Toronto Blue Jays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Yandy Diaz,Tampa Bay Rays,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Yandy Diaz,Tampa Bay Rays,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+60,Yandy Diaz,Tampa Bay Rays,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Yandy Diaz,Tampa Bay Rays,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Yandy Diaz,Tampa Bay Rays,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Yandy Diaz,Tampa Bay Rays,Mike Baumann,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+64,Yandy Diaz,Tampa Bay Rays,Cole Irvin,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+65,Yandy Diaz,Tampa Bay Rays,Austin Voth,Baltimore Orioles,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+66,Yandy Diaz,Tampa Bay Rays,Keegan Akin,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+67,Yandy Diaz,Tampa Bay Rays,Yennier Cano,Baltimore Orioles,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+68,Yandy Diaz,Tampa Bay Rays,Kyle Bradish,Baltimore Orioles,5,1,0,0,0,0,1,0,3,.200,.333,.200,.533
+69,Yandy Diaz,Tampa Bay Rays,Kyle Gibson,Baltimore Orioles,5,1,0,0,0,0,1,0,2,.200,.333,.200,.533
+70,Yandy Diaz,Tampa Bay Rays,Grayson Rodriguez,Baltimore Orioles,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+71,Yandy Diaz,Tampa Bay Rays,Bryan Baker,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+72,Yandy Diaz,Tampa Bay Rays,Felix Bautista,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Yandy Diaz,Tampa Bay Rays,Shintaro Fujinami,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+74,Yandy Diaz,Tampa Bay Rays,Dean Kremer,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Yandy Diaz,Tampa Bay Rays,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+76,Yandy Diaz,Tampa Bay Rays,Cristopher Sanchez,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+77,Yandy Diaz,Tampa Bay Rays,Jose Alvarado,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+78,Yandy Diaz,Tampa Bay Rays,Aaron Nola,Philadelphia Phillies,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Yandy Diaz,Tampa Bay Rays,Matt Strahm,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+80,Yandy Diaz,Tampa Bay Rays,Taijuan Walker,Philadelphia Phillies,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+81,Yandy Diaz,Tampa Bay Rays,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Yandy Diaz,Tampa Bay Rays,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Yandy Diaz,Tampa Bay Rays,Justin Steele,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Yandy Diaz,Tampa Bay Rays,Marcus Stroman,Chicago Cubs,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Yandy Diaz,Tampa Bay Rays,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Yandy Diaz,Tampa Bay Rays,Ronel Blanco,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+87,Yandy Diaz,Tampa Bay Rays,Rafael Montero,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+88,Yandy Diaz,Tampa Bay Rays,Jose Urquidy,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+89,Yandy Diaz,Tampa Bay Rays,Hunter Brown,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+90,Yandy Diaz,Tampa Bay Rays,Luis Garcia,Houston Astros,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+91,Yandy Diaz,Tampa Bay Rays,Seth Martinez,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Yandy Diaz,Tampa Bay Rays,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Yandy Diaz,Tampa Bay Rays,Steven Wilson,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+94,Yandy Diaz,Tampa Bay Rays,Blake Snell,San Diego Padres,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+95,Yandy Diaz,Tampa Bay Rays,Nabil Crismatt,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Yandy Diaz,Tampa Bay Rays,Yu Darvish,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Yandy Diaz,Tampa Bay Rays,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Yandy Diaz,Tampa Bay Rays,Nick Martinez,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Yandy Diaz,Tampa Bay Rays,Joe Musgrove,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Yandy Diaz,Tampa Bay Rays,Louie Varland,Minnesota Twins,3,1,0,0,0,0,1,0,1,.333,.500,.333,.833
+101,Yandy Diaz,Tampa Bay Rays,Kyle Finnegan,Washington Nationals,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+102,Yandy Diaz,Tampa Bay Rays,Patrick Corbin,Washington Nationals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+103,Yandy Diaz,Tampa Bay Rays,Chad Kuhl,Washington Nationals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+104,Yandy Diaz,Tampa Bay Rays,Anthony Banda,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Yandy Diaz,Tampa Bay Rays,Hunter Harvey,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+106,Yandy Diaz,Tampa Bay Rays,Thaddeus Ward,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+107,Yandy Diaz,Tampa Bay Rays,Clarke Schmidt,New York Yankees,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+108,Yandy Diaz,Tampa Bay Rays,Nestor Cortes,New York Yankees,3,2,0,0,1,4,0,0,0,.667,.667,1.667,2.334
+109,Yandy Diaz,Tampa Bay Rays,Domingo German,New York Yankees,4,2,1,0,0,1,1,0,0,.500,.667,.750,1.417
+110,Yandy Diaz,Tampa Bay Rays,Clay Holmes,New York Yankees,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+111,Yandy Diaz,Tampa Bay Rays,Jhony Brito,New York Yankees,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+112,Yandy Diaz,Tampa Bay Rays,Gerrit Cole,New York Yankees,4,1,0,0,0,0,2,0,1,.250,.500,.250,.750
+113,Yandy Diaz,Tampa Bay Rays,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Yandy Diaz,Tampa Bay Rays,Jimmy Cordero,New York Yankees,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+115,Yandy Diaz,Tampa Bay Rays,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Yandy Diaz,Tampa Bay Rays,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Yandy Diaz,Tampa Bay Rays,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+118,Yandy Diaz,Tampa Bay Rays,Ryan Weber,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Yandy Diaz,Tampa Bay Rays,Gabe Speier,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+120,Yandy Diaz,Tampa Bay Rays,Justin Topa,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+121,Yandy Diaz,Tampa Bay Rays,George Kirby,Seattle Mariners,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+122,Yandy Diaz,Tampa Bay Rays,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Yandy Diaz,Tampa Bay Rays,Bryce Miller,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+124,Yandy Diaz,Tampa Bay Rays,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Yandy Diaz,Tampa Bay Rays,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Yandy Diaz,Tampa Bay Rays,Cody Bolton,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+127,Yandy Diaz,Tampa Bay Rays,Robert Stephenson,Pittsburgh Pirates,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+128,Yandy Diaz,Tampa Bay Rays,Vince Velasquez,Pittsburgh Pirates,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+129,Yandy Diaz,Tampa Bay Rays,Mitch Keller,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+130,Yandy Diaz,Tampa Bay Rays,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+131,Yandy Diaz,Tampa Bay Rays,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Yandy Diaz,Tampa Bay Rays,Dauri Moreta,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+133,Yandy Diaz,Tampa Bay Rays,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Yandy Diaz,Tampa Bay Rays,Kendall Graveman,Chicago White Sox,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+135,Yandy Diaz,Tampa Bay Rays,Joe Kelly,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+136,Yandy Diaz,Tampa Bay Rays,Reynaldo Lopez,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+137,Yandy Diaz,Tampa Bay Rays,Gregory Santos,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+138,Yandy Diaz,Tampa Bay Rays,Dylan Cease,Chicago White Sox,5,3,0,0,0,0,1,0,0,.600,.667,.600,1.267
+139,Yandy Diaz,Tampa Bay Rays,Lucas Giolito,Chicago White Sox,6,2,2,0,0,1,0,0,0,.333,.333,.667,1.000
+140,Yandy Diaz,Tampa Bay Rays,Michael Kopech,Chicago White Sox,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+141,Yandy Diaz,Tampa Bay Rays,Aaron Bummer,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+142,Yandy Diaz,Tampa Bay Rays,Jake Diekman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Yandy Diaz,Tampa Bay Rays,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Yandy Diaz,Tampa Bay Rays,Keynan Middleton,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+145,Yandy Diaz,Tampa Bay Rays,Jake Cousins,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+146,Yandy Diaz,Tampa Bay Rays,Joel Payamps,Milwaukee Brewers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+147,Yandy Diaz,Tampa Bay Rays,Bryse Wilson,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+148,Yandy Diaz,Tampa Bay Rays,Eric Lauer,Milwaukee Brewers,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+149,Yandy Diaz,Tampa Bay Rays,Freddy Peralta,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+150,Yandy Diaz,Tampa Bay Rays,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Yandy Diaz,Tampa Bay Rays,Tyler Alexander,Detroit Tigers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+152,Yandy Diaz,Tampa Bay Rays,Spencer Turnbull,Detroit Tigers,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+153,Yandy Diaz,Tampa Bay Rays,Trey Wingenter,Detroit Tigers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+154,Yandy Diaz,Tampa Bay Rays,Garrett Hill,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Yandy Diaz,Tampa Bay Rays,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Yandy Diaz,Tampa Bay Rays,Eduardo Rodriguez,Detroit Tigers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+157,Yandy Diaz,Tampa Bay Rays,Joey Wentz,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Yandy Diaz,Tampa Bay Rays,Taylor Clarke,Kansas City Royals,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+159,Yandy Diaz,Tampa Bay Rays,Jose Cuas,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+160,Yandy Diaz,Tampa Bay Rays,Daniel Lynch IV,Kansas City Royals,3,3,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+161,Yandy Diaz,Tampa Bay Rays,Austin Cox,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+162,Yandy Diaz,Tampa Bay Rays,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Yandy Diaz,Tampa Bay Rays,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Yandy Diaz,Tampa Bay Rays,Jordan Lyles,Kansas City Royals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+165,Yandy Diaz,Tampa Bay Rays,Sam Long,Oakland Athletics,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+166,Yandy Diaz,Tampa Bay Rays,Luis Medina,Oakland Athletics,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+167,Yandy Diaz,Tampa Bay Rays,Domingo Acevedo,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+168,Yandy Diaz,Tampa Bay Rays,Lucas Erceg,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+169,Yandy Diaz,Tampa Bay Rays,Shintaro Fujinami,Oakland Athletics,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Yandy Diaz,Tampa Bay Rays,Hogan Harris,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Yandy Diaz,Tampa Bay Rays,James Kaprielian,Oakland Athletics,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+172,Yandy Diaz,Tampa Bay Rays,Adam Oller,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,Yandy Diaz,Tampa Bay Rays,Carlos Perez,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Yandy Diaz,Tampa Bay Rays,Ken Waldichuk,Oakland Athletics,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000

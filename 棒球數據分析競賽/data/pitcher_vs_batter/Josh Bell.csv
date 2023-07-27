@@ -1,0 +1,187 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Josh Bell,Cleveland Guardians,Collin McHugh,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Josh Bell,Cleveland Guardians,Kolby Allard,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Josh Bell,Cleveland Guardians,Bryce Elder,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Josh Bell,Cleveland Guardians,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Josh Bell,Cleveland Guardians,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Josh Bell,Cleveland Guardians,Michael Soroka,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Josh Bell,Cleveland Guardians,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Josh Bell,Cleveland Guardians,Andrew Heaney,Texas Rangers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+8,Josh Bell,Cleveland Guardians,Jon Gray,Texas Rangers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+9,Josh Bell,Cleveland Guardians,Aroldis Chapman,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Josh Bell,Cleveland Guardians,Carlos Estevez,Los Angeles Angels,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Josh Bell,Cleveland Guardians,Andrew Wantz,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+12,Josh Bell,Cleveland Guardians,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,1,1,0,1,.000,.333,.000,.333
+13,Josh Bell,Cleveland Guardians,Reid Detmers,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+14,Josh Bell,Cleveland Guardians,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Josh Bell,Cleveland Guardians,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Josh Bell,Cleveland Guardians,Patrick Sandoval,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Josh Bell,Cleveland Guardians,Chris Martin,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Josh Bell,Cleveland Guardians,Nick Pivetta,Boston Red Sox,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+19,Josh Bell,Cleveland Guardians,Brayan Bello,Boston Red Sox,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+20,Josh Bell,Cleveland Guardians,Corey Kluber,Boston Red Sox,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+21,Josh Bell,Cleveland Guardians,Kutter Crawford,Boston Red Sox,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+22,Josh Bell,Cleveland Guardians,James Paxton,Boston Red Sox,3,1,1,0,0,1,0,0,2,.333,.333,.667,1.000
+23,Josh Bell,Cleveland Guardians,Brennan Bernardino,Boston Red Sox,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+24,Josh Bell,Cleveland Guardians,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Josh Bell,Cleveland Guardians,Matt Dermody,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Josh Bell,Cleveland Guardians,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Josh Bell,Cleveland Guardians,Chris Murphy,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Josh Bell,Cleveland Guardians,Chris Sale,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Josh Bell,Cleveland Guardians,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Josh Bell,Cleveland Guardians,Jordan Montgomery,St. Louis Cardinals,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+31,Josh Bell,Cleveland Guardians,Jack Flaherty,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Josh Bell,Cleveland Guardians,Matthew Liberatore,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Josh Bell,Cleveland Guardians,Andre Pallante,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Josh Bell,Cleveland Guardians,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Josh Bell,Cleveland Guardians,Zac Gallen,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Josh Bell,Cleveland Guardians,Tommy Henry,Arizona Diamondbacks,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+37,Josh Bell,Cleveland Guardians,Joe Mantiply,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+38,Josh Bell,Cleveland Guardians,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Josh Bell,Cleveland Guardians,Cionel Perez,Baltimore Orioles,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+40,Josh Bell,Cleveland Guardians,Kyle Gibson,Baltimore Orioles,2,1,0,0,0,2,0,0,0,.500,.333,.500,.833
+41,Josh Bell,Cleveland Guardians,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Josh Bell,Cleveland Guardians,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Josh Bell,Cleveland Guardians,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Josh Bell,Cleveland Guardians,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Josh Bell,Cleveland Guardians,Austin Voth,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+46,Josh Bell,Cleveland Guardians,Craig Kimbrel,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+47,Josh Bell,Cleveland Guardians,Ranger Suarez,Philadelphia Phillies,2,1,1,0,0,1,1,0,1,.500,.667,1.000,1.667
+48,Josh Bell,Cleveland Guardians,Zack Wheeler,Philadelphia Phillies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+49,Josh Bell,Cleveland Guardians,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Josh Bell,Cleveland Guardians,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Josh Bell,Cleveland Guardians,Hayden Wesneski,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+52,Josh Bell,Cleveland Guardians,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Josh Bell,Cleveland Guardians,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Josh Bell,Cleveland Guardians,Anthony Kay,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+55,Josh Bell,Cleveland Guardians,Justin Steele,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Josh Bell,Cleveland Guardians,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Josh Bell,Cleveland Guardians,Jameson Taillon,Chicago Cubs,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+58,Josh Bell,Cleveland Guardians,Nick Martinez,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+59,Josh Bell,Cleveland Guardians,Joe Musgrove,San Diego Padres,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+60,Josh Bell,Cleveland Guardians,Michael Wacha,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+61,Josh Bell,Cleveland Guardians,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Josh Bell,Cleveland Guardians,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Josh Bell,Cleveland Guardians,Ryan Weathers,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Josh Bell,Cleveland Guardians,Brandon Bielak,Houston Astros,3,3,1,0,1,1,0,0,0,1.000,1.000,2.333,3.333
+65,Josh Bell,Cleveland Guardians,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Josh Bell,Cleveland Guardians,Cristian Javier,Houston Astros,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+67,Josh Bell,Cleveland Guardians,Rafael Montero,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Josh Bell,Cleveland Guardians,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Josh Bell,Cleveland Guardians,Sonny Gray,Minnesota Twins,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+70,Josh Bell,Cleveland Guardians,Joe Ryan,Minnesota Twins,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+71,Josh Bell,Cleveland Guardians,Pablo Lopez,Minnesota Twins,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+72,Josh Bell,Cleveland Guardians,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Josh Bell,Cleveland Guardians,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Josh Bell,Cleveland Guardians,Bailey Ober,Minnesota Twins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Josh Bell,Cleveland Guardians,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Josh Bell,Cleveland Guardians,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Josh Bell,Cleveland Guardians,Carl Edwards Jr.,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+78,Josh Bell,Cleveland Guardians,Hunter Harvey,Washington Nationals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+79,Josh Bell,Cleveland Guardians,Mason Thompson,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+80,Josh Bell,Cleveland Guardians,Thaddeus Ward,Washington Nationals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+81,Josh Bell,Cleveland Guardians,Chad Kuhl,Washington Nationals,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+82,Josh Bell,Cleveland Guardians,Patrick Corbin,Washington Nationals,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+83,Josh Bell,Cleveland Guardians,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Josh Bell,Cleveland Guardians,Trevor Williams,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Josh Bell,Cleveland Guardians,Jesus Luzardo,Miami Marlins,2,2,1,0,1,2,1,0,0,1.000,1.000,3.000,4.000
+86,Josh Bell,Cleveland Guardians,Braxton Garrett,Miami Marlins,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+87,Josh Bell,Cleveland Guardians,Devin Smeltzer,Miami Marlins,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+88,Josh Bell,Cleveland Guardians,George Soriano,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+89,Josh Bell,Cleveland Guardians,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Josh Bell,Cleveland Guardians,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Josh Bell,Cleveland Guardians,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Josh Bell,Cleveland Guardians,Dominic Leone,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+93,Josh Bell,Cleveland Guardians,Max Scherzer,New York Mets,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+94,Josh Bell,Cleveland Guardians,Carlos Carrasco,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Josh Bell,Cleveland Guardians,Stephen Nogosek,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+96,Josh Bell,Cleveland Guardians,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Josh Bell,Cleveland Guardians,Ryan Feltner,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+98,Josh Bell,Cleveland Guardians,Jake Bird,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Josh Bell,Cleveland Guardians,Austin Gomber,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+100,Josh Bell,Cleveland Guardians,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Josh Bell,Cleveland Guardians,Justin Lawrence,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Josh Bell,Cleveland Guardians,German Marquez,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Josh Bell,Cleveland Guardians,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Josh Bell,Cleveland Guardians,Albert Abreu,New York Yankees,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+105,Josh Bell,Cleveland Guardians,Wandy Peralta,New York Yankees,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+106,Josh Bell,Cleveland Guardians,Clarke Schmidt,New York Yankees,3,2,0,0,0,2,1,0,0,.667,.750,.667,1.417
+107,Josh Bell,Cleveland Guardians,Colten Brewer,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Josh Bell,Cleveland Guardians,Gerrit Cole,New York Yankees,4,0,0,0,0,0,2,0,1,.000,.333,.000,.333
+109,Josh Bell,Cleveland Guardians,Domingo German,New York Yankees,3,0,0,0,0,0,2,0,0,.000,.400,.000,.400
+110,Josh Bell,Cleveland Guardians,Ian Hamilton,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Josh Bell,Cleveland Guardians,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Josh Bell,Cleveland Guardians,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Josh Bell,Cleveland Guardians,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Josh Bell,Cleveland Guardians,Matt Brash,Seattle Mariners,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+115,Josh Bell,Cleveland Guardians,Logan Gilbert,Seattle Mariners,4,1,0,0,0,1,1,0,2,.250,.400,.250,.650
+116,Josh Bell,Cleveland Guardians,J.B. Bukauskas,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Josh Bell,Cleveland Guardians,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Josh Bell,Cleveland Guardians,Diego Castillo,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,Josh Bell,Cleveland Guardians,Matt Festa,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+120,Josh Bell,Cleveland Guardians,Chris Flexen,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Josh Bell,Cleveland Guardians,Marco Gonzales,Seattle Mariners,4,0,0,0,0,0,1,0,2,.000,.200,.000,.200
+122,Josh Bell,Cleveland Guardians,Trevor Gott,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Josh Bell,Cleveland Guardians,George Kirby,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Josh Bell,Cleveland Guardians,Andres Munoz,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Josh Bell,Cleveland Guardians,Penn Murfee,Seattle Mariners,1,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+126,Josh Bell,Cleveland Guardians,Robbie Ray,Seattle Mariners,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+127,Josh Bell,Cleveland Guardians,Paul Sewald,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+128,Josh Bell,Cleveland Guardians,Gabe Speier,Seattle Mariners,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+129,Josh Bell,Cleveland Guardians,Ryan Borucki,Pittsburgh Pirates,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+130,Josh Bell,Cleveland Guardians,Rich Hill,Pittsburgh Pirates,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+131,Josh Bell,Cleveland Guardians,Mitch Keller,Pittsburgh Pirates,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+132,Josh Bell,Cleveland Guardians,Yerry De Los Santos,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+133,Josh Bell,Cleveland Guardians,Dauri Moreta,Pittsburgh Pirates,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+134,Josh Bell,Cleveland Guardians,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Josh Bell,Cleveland Guardians,Quinn Priester,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Josh Bell,Cleveland Guardians,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Josh Bell,Cleveland Guardians,Keynan Middleton,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+138,Josh Bell,Cleveland Guardians,Dylan Cease,Chicago White Sox,6,2,0,0,0,0,0,0,2,.333,.333,.333,.666
+139,Josh Bell,Cleveland Guardians,Mike Clevinger,Chicago White Sox,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+140,Josh Bell,Cleveland Guardians,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Josh Bell,Cleveland Guardians,Kendall Graveman,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+142,Josh Bell,Cleveland Guardians,Michael Kopech,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Josh Bell,Cleveland Guardians,Jimmy Lambert,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+144,Josh Bell,Cleveland Guardians,Reynaldo Lopez,Chicago White Sox,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+145,Josh Bell,Cleveland Guardians,Lance Lynn,Chicago White Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Josh Bell,Cleveland Guardians,Jesse Scholtens,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+147,Josh Bell,Cleveland Guardians,Matt Bush,Milwaukee Brewers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+148,Josh Bell,Cleveland Guardians,Wade Miley,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Josh Bell,Cleveland Guardians,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Josh Bell,Cleveland Guardians,Freddy Peralta,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+151,Josh Bell,Cleveland Guardians,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Josh Bell,Cleveland Guardians,Taylor Clarke,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+153,Josh Bell,Cleveland Guardians,Brooks Kriske,Kansas City Royals,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+154,Josh Bell,Cleveland Guardians,James McArthur,Kansas City Royals,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+155,Josh Bell,Cleveland Guardians,Zack Greinke,Kansas City Royals,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+156,Josh Bell,Cleveland Guardians,Jordan Lyles,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+157,Josh Bell,Cleveland Guardians,Nick Wittgren,Kansas City Royals,2,1,0,0,0,2,0,0,1,.500,.500,.500,1.000
+158,Josh Bell,Cleveland Guardians,Brady Singer,Kansas City Royals,5,2,1,0,0,0,1,0,2,.400,.500,.600,1.100
+159,Josh Bell,Cleveland Guardians,Daniel Lynch IV,Kansas City Royals,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+160,Josh Bell,Cleveland Guardians,Scott Barlow,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+161,Josh Bell,Cleveland Guardians,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+162,Josh Bell,Cleveland Guardians,Austin Cox,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Josh Bell,Cleveland Guardians,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+164,Josh Bell,Cleveland Guardians,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,Josh Bell,Cleveland Guardians,Collin Snider,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+166,Josh Bell,Cleveland Guardians,Chasen Shreve,Detroit Tigers,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+167,Josh Bell,Cleveland Guardians,Matthew Boyd,Detroit Tigers,2,1,1,0,0,1,1,0,1,.500,.667,1.000,1.667
+168,Josh Bell,Cleveland Guardians,Eduardo Rodriguez,Detroit Tigers,5,1,0,0,0,0,1,0,2,.200,.333,.200,.533
+169,Josh Bell,Cleveland Guardians,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Josh Bell,Cleveland Guardians,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+171,Josh Bell,Cleveland Guardians,Michael Lorenzen,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+172,Josh Bell,Cleveland Guardians,Spencer Turnbull,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Josh Bell,Cleveland Guardians,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+174,Josh Bell,Cleveland Guardians,Adrian Martinez,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+175,Josh Bell,Cleveland Guardians,Sam Long,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+176,Josh Bell,Cleveland Guardians,Paul Blackburn,Oakland Athletics,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+177,Josh Bell,Cleveland Guardians,JP Sears,Oakland Athletics,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+178,Josh Bell,Cleveland Guardians,Domingo Acevedo,Oakland Athletics,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+179,Josh Bell,Cleveland Guardians,Jeurys Familia,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+180,Josh Bell,Cleveland Guardians,James Kaprielian,Oakland Athletics,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+181,Josh Bell,Cleveland Guardians,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+182,Josh Bell,Cleveland Guardians,Luis Medina,Oakland Athletics,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+183,Josh Bell,Cleveland Guardians,Kyle Muller,Oakland Athletics,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+184,Josh Bell,Cleveland Guardians,Yacksel Rios,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+185,Josh Bell,Cleveland Guardians,Ken Waldichuk,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

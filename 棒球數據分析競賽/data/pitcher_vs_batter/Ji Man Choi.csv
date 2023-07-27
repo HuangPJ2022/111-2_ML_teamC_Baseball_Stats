@@ -1,0 +1,34 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Ji Man Choi,Pittsburgh Pirates,Shohei Ohtani,Los Angeles Angels,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+1,Ji Man Choi,Pittsburgh Pirates,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Ji Man Choi,Pittsburgh Pirates,Kutter Crawford,Boston Red Sox,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+3,Ji Man Choi,Pittsburgh Pirates,Nick Pivetta,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Ji Man Choi,Pittsburgh Pirates,Josh Winckowski,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Ji Man Choi,Pittsburgh Pirates,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Ji Man Choi,Pittsburgh Pirates,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Ji Man Choi,Pittsburgh Pirates,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Ji Man Choi,Pittsburgh Pirates,Scott McGough,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Ji Man Choi,Pittsburgh Pirates,Jose Ruiz,Arizona Diamondbacks,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+10,Ji Man Choi,Pittsburgh Pirates,Zach Davies,Arizona Diamondbacks,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+11,Ji Man Choi,Pittsburgh Pirates,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Ji Man Choi,Pittsburgh Pirates,Zac Gallen,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Ji Man Choi,Pittsburgh Pirates,Tyler Gilbert,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Ji Man Choi,Pittsburgh Pirates,Justin Martinez,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Ji Man Choi,Pittsburgh Pirates,Kyle Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+16,Ji Man Choi,Pittsburgh Pirates,Graham Ashcraft,Cincinnati Reds,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+17,Ji Man Choi,Pittsburgh Pirates,Alexis Diaz,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Ji Man Choi,Pittsburgh Pirates,Cristian Javier,Houston Astros,3,2,1,0,1,1,0,0,1,.667,.667,2.000,2.667
+19,Ji Man Choi,Pittsburgh Pirates,Framber Valdez,Houston Astros,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+20,Ji Man Choi,Pittsburgh Pirates,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Ji Man Choi,Pittsburgh Pirates,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Ji Man Choi,Pittsburgh Pirates,Ross Stripling,San Francisco Giants,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+23,Ji Man Choi,Pittsburgh Pirates,Alex Cobb,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+24,Ji Man Choi,Pittsburgh Pirates,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+25,Ji Man Choi,Pittsburgh Pirates,Sean Manaea,San Francisco Giants,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+26,Ji Man Choi,Pittsburgh Pirates,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Ji Man Choi,Pittsburgh Pirates,Sam Hentges,Cleveland Guardians,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+28,Ji Man Choi,Pittsburgh Pirates,Aaron Civale,Cleveland Guardians,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+29,Ji Man Choi,Pittsburgh Pirates,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Ji Man Choi,Pittsburgh Pirates,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Ji Man Choi,Pittsburgh Pirates,Mike Clevinger,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Ji Man Choi,Pittsburgh Pirates,Michael Kopech,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000

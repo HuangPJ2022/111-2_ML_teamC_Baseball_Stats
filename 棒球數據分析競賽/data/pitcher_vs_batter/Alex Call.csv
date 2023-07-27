@@ -1,0 +1,170 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Alex Call,Washington Nationals,Collin McHugh,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Alex Call,Washington Nationals,Jared Shuster,Atlanta Braves,2,1,0,0,0,1,2,0,0,.500,.750,.500,1.250
+2,Alex Call,Washington Nationals,Jesse Chavez,Atlanta Braves,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+3,Alex Call,Washington Nationals,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Alex Call,Washington Nationals,Max Fried,Atlanta Braves,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+5,Alex Call,Washington Nationals,Lucas Luetge,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Alex Call,Washington Nationals,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Alex Call,Washington Nationals,AJ Smith-Shawver,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Alex Call,Washington Nationals,Michael Tonkin,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Alex Call,Washington Nationals,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Alex Call,Washington Nationals,Grant Anderson,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Alex Call,Washington Nationals,Josh Sborz,Texas Rangers,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+12,Alex Call,Washington Nationals,Cody Bradford,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+13,Alex Call,Washington Nationals,Andrew Heaney,Texas Rangers,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+14,Alex Call,Washington Nationals,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Alex Call,Washington Nationals,Dane Dunning,Texas Rangers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+16,Alex Call,Washington Nationals,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Alex Call,Washington Nationals,Glenn Otto,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Alex Call,Washington Nationals,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Alex Call,Washington Nationals,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Alex Call,Washington Nationals,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Alex Call,Washington Nationals,Noah Syndergaard,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+22,Alex Call,Washington Nationals,Jose Suarez,Los Angeles Angels,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+23,Alex Call,Washington Nationals,Griffin Canning,Los Angeles Angels,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Alex Call,Washington Nationals,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Alex Call,Washington Nationals,Jimmy Herget,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Alex Call,Washington Nationals,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+27,Alex Call,Washington Nationals,Jose Quijada,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Alex Call,Washington Nationals,Ryan Tepera,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Alex Call,Washington Nationals,Josh Fleming,Tampa Bay Rays,2,2,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+30,Alex Call,Washington Nationals,Kevin Kelly,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+31,Alex Call,Washington Nationals,Jalen Beeks,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+32,Alex Call,Washington Nationals,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Alex Call,Washington Nationals,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+34,Alex Call,Washington Nationals,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Alex Call,Washington Nationals,Steven Matz,St. Louis Cardinals,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+36,Alex Call,Washington Nationals,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Alex Call,Washington Nationals,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Alex Call,Washington Nationals,Dakota Hudson,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+39,Alex Call,Washington Nationals,Miles Mikolas,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Alex Call,Washington Nationals,JoJo Romero,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Alex Call,Washington Nationals,Chris Stratton,St. Louis Cardinals,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+42,Alex Call,Washington Nationals,Kevin Ginkel,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+43,Alex Call,Washington Nationals,Joe Mantiply,Arizona Diamondbacks,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+44,Alex Call,Washington Nationals,Zach Davies,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+45,Alex Call,Washington Nationals,Ryne Nelson,Arizona Diamondbacks,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+46,Alex Call,Washington Nationals,Austin Adams,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Alex Call,Washington Nationals,Miguel Castro,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Alex Call,Washington Nationals,Tommy Henry,Arizona Diamondbacks,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+49,Alex Call,Washington Nationals,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Alex Call,Washington Nationals,Scott McGough,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+51,Alex Call,Washington Nationals,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Alex Call,Washington Nationals,Jose Ruiz,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Alex Call,Washington Nationals,Daniel Duarte,Cincinnati Reds,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+54,Alex Call,Washington Nationals,Graham Ashcraft,Cincinnati Reds,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+55,Alex Call,Washington Nationals,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Alex Call,Washington Nationals,Buck Farmer,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+57,Alex Call,Washington Nationals,Tony Santillan,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Alex Call,Washington Nationals,Brandon Williamson,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+59,Alex Call,Washington Nationals,Kyle Bradish,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+60,Alex Call,Washington Nationals,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Alex Call,Washington Nationals,Yunior Marte,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+62,Alex Call,Washington Nationals,Ranger Suarez,Philadelphia Phillies,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+63,Alex Call,Washington Nationals,Zack Wheeler,Philadelphia Phillies,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+64,Alex Call,Washington Nationals,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+65,Alex Call,Washington Nationals,Dylan Covey,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Alex Call,Washington Nationals,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Alex Call,Washington Nationals,Andrew Vasquez,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+68,Alex Call,Washington Nationals,Brad Boxberger,Chicago Cubs,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+69,Alex Call,Washington Nationals,Keegan Thompson,Chicago Cubs,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+70,Alex Call,Washington Nationals,Jameson Taillon,Chicago Cubs,4,1,1,0,0,0,0,0,0,.250,.250,.500,.750
+71,Alex Call,Washington Nationals,Drew Smyly,Chicago Cubs,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+72,Alex Call,Washington Nationals,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Alex Call,Washington Nationals,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Alex Call,Washington Nationals,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Alex Call,Washington Nationals,Kyle Hendricks,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+76,Alex Call,Washington Nationals,Anthony Kay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Alex Call,Washington Nationals,Mark Leiter Jr.,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+78,Alex Call,Washington Nationals,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Alex Call,Washington Nationals,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Alex Call,Washington Nationals,Hayden Wesneski,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Alex Call,Washington Nationals,Nick Martinez,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+82,Alex Call,Washington Nationals,Ryan Weathers,San Diego Padres,3,2,1,0,0,2,0,0,0,.667,.667,1.000,1.667
+83,Alex Call,Washington Nationals,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Alex Call,Washington Nationals,Yu Darvish,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Alex Call,Washington Nationals,Josh Hader,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+86,Alex Call,Washington Nationals,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Alex Call,Washington Nationals,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Alex Call,Washington Nationals,Blake Snell,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+89,Alex Call,Washington Nationals,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Alex Call,Washington Nationals,Hunter Brown,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Alex Call,Washington Nationals,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Alex Call,Washington Nationals,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Alex Call,Washington Nationals,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Alex Call,Washington Nationals,Bailey Ober,Minnesota Twins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+95,Alex Call,Washington Nationals,Jorge Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Alex Call,Washington Nationals,Pablo Lopez,Minnesota Twins,1,0,0,0,0,0,1,0,1,.000,.667,.000,.667
+97,Alex Call,Washington Nationals,Simeon Woods Richardson,Minnesota Twins,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+98,Alex Call,Washington Nationals,Jesus Luzardo,Miami Marlins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+99,Alex Call,Washington Nationals,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Alex Call,Washington Nationals,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Alex Call,Washington Nationals,JT Chargois,Miami Marlins,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+102,Alex Call,Washington Nationals,Steven Okert,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+103,Alex Call,Washington Nationals,Eury Perez,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Alex Call,Washington Nationals,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Alex Call,Washington Nationals,Tyler Rogers,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+106,Alex Call,Washington Nationals,Logan Webb,San Francisco Giants,4,3,0,1,0,2,0,0,1,.750,.750,1.250,2.000
+107,Alex Call,Washington Nationals,Anthony DeSclafani,San Francisco Giants,5,1,1,0,0,1,0,0,0,.200,.333,.400,.733
+108,Alex Call,Washington Nationals,Tristan Beck,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Alex Call,Washington Nationals,Sean Manaea,San Francisco Giants,3,0,0,0,0,0,2,0,1,.000,.400,.000,.400
+110,Alex Call,Washington Nationals,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Alex Call,Washington Nationals,Cole Waites,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Alex Call,Washington Nationals,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Alex Call,Washington Nationals,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Alex Call,Washington Nationals,Joey Lucchesi,New York Mets,2,2,0,0,1,1,2,0,0,1.000,1.000,2.500,3.500
+115,Alex Call,Washington Nationals,Tylor Megill,New York Mets,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+116,Alex Call,Washington Nationals,Zach Muckenhirn,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+117,Alex Call,Washington Nationals,Adam Ottavino,New York Mets,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+118,Alex Call,Washington Nationals,Jimmy Yacabonis,New York Mets,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+119,Alex Call,Washington Nationals,Jeff Brigham,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Alex Call,Washington Nationals,Jose Butto,New York Mets,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+121,Alex Call,Washington Nationals,Tommy Hunter,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Alex Call,Washington Nationals,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Alex Call,Washington Nationals,Stephen Nogosek,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+124,Alex Call,Washington Nationals,David Peterson,New York Mets,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+125,Alex Call,Washington Nationals,Brooks Raley,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+126,Alex Call,Washington Nationals,David Robertson,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Alex Call,Washington Nationals,Dennis Santana,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Alex Call,Washington Nationals,Max Scherzer,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+129,Alex Call,Washington Nationals,Kodai Senga,New York Mets,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+130,Alex Call,Washington Nationals,Jose Urena,Colorado Rockies,1,1,0,0,1,2,1,0,0,1.000,1.000,4.000,5.000
+131,Alex Call,Washington Nationals,Austin Gomber,Colorado Rockies,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+132,Alex Call,Washington Nationals,Jake Bird,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+133,Alex Call,Washington Nationals,Ty Blach,Colorado Rockies,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+134,Alex Call,Washington Nationals,Ryan Feltner,Colorado Rockies,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+135,Alex Call,Washington Nationals,Kyle Freeland,Colorado Rockies,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+136,Alex Call,Washington Nationals,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Alex Call,Washington Nationals,Justin Lawrence,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Alex Call,Washington Nationals,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Alex Call,Washington Nationals,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Alex Call,Washington Nationals,Cal Quantrill,Cleveland Guardians,4,1,0,0,0,2,0,0,1,.250,.250,.250,.500
+141,Alex Call,Washington Nationals,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Alex Call,Washington Nationals,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Alex Call,Washington Nationals,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Alex Call,Washington Nationals,Zach Plesac,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Alex Call,Washington Nationals,Yohan Ramirez,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+146,Alex Call,Washington Nationals,Rich Hill,Pittsburgh Pirates,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+147,Alex Call,Washington Nationals,Vince Velasquez,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+148,Alex Call,Washington Nationals,Cody Bolton,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Alex Call,Washington Nationals,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+150,Alex Call,Washington Nationals,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Alex Call,Washington Nationals,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Alex Call,Washington Nationals,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+153,Alex Call,Washington Nationals,Daniel Lynch IV,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+154,Alex Call,Washington Nationals,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Alex Call,Washington Nationals,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Alex Call,Washington Nationals,Jose Cuas,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+157,Alex Call,Washington Nationals,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Alex Call,Washington Nationals,Jordan Lyles,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Alex Call,Washington Nationals,Brady Singer,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+160,Alex Call,Washington Nationals,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+161,Alex Call,Washington Nationals,Josh Taylor,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+162,Alex Call,Washington Nationals,Mason Englert,Detroit Tigers,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+163,Alex Call,Washington Nationals,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+164,Alex Call,Washington Nationals,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,Alex Call,Washington Nationals,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Alex Call,Washington Nationals,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Alex Call,Washington Nationals,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Alex Call,Washington Nationals,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

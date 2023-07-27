@@ -1,0 +1,39 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Tyler Wade,Oakland Athletics,Jacob deGrom,Texas Rangers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+1,Tyler Wade,Oakland Athletics,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Tyler Wade,Oakland Athletics,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Tyler Wade,Oakland Athletics,Jaime Barria,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Tyler Wade,Oakland Athletics,Shohei Ohtani,Los Angeles Angels,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+5,Tyler Wade,Oakland Athletics,Nick Pivetta,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+6,Tyler Wade,Oakland Athletics,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Tyler Wade,Oakland Athletics,Chris Murphy,Boston Red Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+8,Tyler Wade,Oakland Athletics,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Tyler Wade,Oakland Athletics,Yimi Garcia,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+10,Tyler Wade,Oakland Athletics,Jose Berrios,Toronto Blue Jays,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+11,Tyler Wade,Oakland Athletics,Chris Bassitt,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Tyler Wade,Oakland Athletics,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Tyler Wade,Oakland Athletics,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Tyler Wade,Oakland Athletics,Craig Kimbrel,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+15,Tyler Wade,Oakland Athletics,Zack Wheeler,Philadelphia Phillies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+16,Tyler Wade,Oakland Athletics,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Tyler Wade,Oakland Athletics,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Tyler Wade,Oakland Athletics,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Tyler Wade,Oakland Athletics,Justin Steele,Chicago Cubs,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+20,Tyler Wade,Oakland Athletics,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Tyler Wade,Oakland Athletics,Keegan Thompson,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+22,Tyler Wade,Oakland Athletics,Dennis Santana,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Tyler Wade,Oakland Athletics,Jhony Brito,New York Yankees,2,1,0,1,0,0,0,0,0,.500,.500,1.500,2.000
+24,Tyler Wade,Oakland Athletics,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Tyler Wade,Oakland Athletics,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Tyler Wade,Oakland Athletics,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Tyler Wade,Oakland Athletics,Enyel De Los Santos,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,Tyler Wade,Oakland Athletics,Gavin Williams,Cleveland Guardians,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+29,Tyler Wade,Oakland Athletics,Gregory Santos,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+30,Tyler Wade,Oakland Athletics,Touki Toussaint,Chicago White Sox,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+31,Tyler Wade,Oakland Athletics,Dylan Cease,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+32,Tyler Wade,Oakland Athletics,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Tyler Wade,Oakland Athletics,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Tyler Wade,Oakland Athletics,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Tyler Wade,Oakland Athletics,Zach Logue,Detroit Tigers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+36,Tyler Wade,Oakland Athletics,Michael Lorenzen,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Tyler Wade,Oakland Athletics,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

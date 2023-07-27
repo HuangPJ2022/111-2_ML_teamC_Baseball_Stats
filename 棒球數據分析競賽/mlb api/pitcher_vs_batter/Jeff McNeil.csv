@@ -1,0 +1,202 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jeff McNeil,New York Mets,Collin McHugh,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Jeff McNeil,New York Mets,Michael Tonkin,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Jeff McNeil,New York Mets,Kirby Yates,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+3,Jeff McNeil,New York Mets,Joe Jimenez,Atlanta Braves,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+4,Jeff McNeil,New York Mets,Charlie Morton,Atlanta Braves,5,1,0,0,0,0,1,0,0,.200,.333,.200,.533
+5,Jeff McNeil,New York Mets,Spencer Strider,Atlanta Braves,5,1,0,0,0,0,0,0,2,.200,.333,.200,.533
+6,Jeff McNeil,New York Mets,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+7,Jeff McNeil,New York Mets,Max Fried,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+8,Jeff McNeil,New York Mets,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Jeff McNeil,New York Mets,A.J. Minter,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Jeff McNeil,New York Mets,Shelby Miller,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+11,Jeff McNeil,New York Mets,Dustin May,Los Angeles Dodgers,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+12,Jeff McNeil,New York Mets,Bobby Miller,Los Angeles Dodgers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+13,Jeff McNeil,New York Mets,Clayton Kershaw,Los Angeles Dodgers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+14,Jeff McNeil,New York Mets,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Jeff McNeil,New York Mets,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Jeff McNeil,New York Mets,Ryan Brasier,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Jeff McNeil,New York Mets,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Jeff McNeil,New York Mets,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Jeff McNeil,New York Mets,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Jeff McNeil,New York Mets,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Jeff McNeil,New York Mets,Noah Syndergaard,Los Angeles Dodgers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+22,Jeff McNeil,New York Mets,Julio Urias,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Jeff McNeil,New York Mets,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Jeff McNeil,New York Mets,Jake Diekman,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+25,Jeff McNeil,New York Mets,Pete Fairbanks,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Jeff McNeil,New York Mets,Zack Littell,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+27,Jeff McNeil,New York Mets,Taj Bradley,Tampa Bay Rays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+28,Jeff McNeil,New York Mets,Yonny Chirinos,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+29,Jeff McNeil,New York Mets,Jalen Beeks,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Jeff McNeil,New York Mets,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Jeff McNeil,New York Mets,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Jeff McNeil,New York Mets,Richard Bleier,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Jeff McNeil,New York Mets,Kutter Crawford,Boston Red Sox,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+34,Jeff McNeil,New York Mets,Chris Murphy,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+35,Jeff McNeil,New York Mets,James Paxton,Boston Red Sox,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+36,Jeff McNeil,New York Mets,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Jeff McNeil,New York Mets,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Jeff McNeil,New York Mets,Joe Jacques,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Jeff McNeil,New York Mets,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Jeff McNeil,New York Mets,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Jeff McNeil,New York Mets,Miles Mikolas,St. Louis Cardinals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+42,Jeff McNeil,New York Mets,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Jeff McNeil,New York Mets,Matthew Liberatore,St. Louis Cardinals,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+44,Jeff McNeil,New York Mets,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Jeff McNeil,New York Mets,Chris Stratton,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+46,Jeff McNeil,New York Mets,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Jeff McNeil,New York Mets,Adam Wainwright,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Jeff McNeil,New York Mets,Zach Davies,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+49,Jeff McNeil,New York Mets,Ryne Nelson,Arizona Diamondbacks,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+50,Jeff McNeil,New York Mets,Austin Adams,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+51,Jeff McNeil,New York Mets,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Jeff McNeil,New York Mets,Tommy Henry,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Jeff McNeil,New York Mets,Drey Jameson,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+54,Jeff McNeil,New York Mets,Carson Kelly,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Jeff McNeil,New York Mets,Kyle Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Jeff McNeil,New York Mets,Jose Ruiz,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+57,Jeff McNeil,New York Mets,Hunter Greene,Cincinnati Reds,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+58,Jeff McNeil,New York Mets,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Jeff McNeil,New York Mets,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Jeff McNeil,New York Mets,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Jeff McNeil,New York Mets,Ben Lively,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Jeff McNeil,New York Mets,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Jeff McNeil,New York Mets,Luke Weaver,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Jeff McNeil,New York Mets,Alex Young,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Jeff McNeil,New York Mets,Jose Berrios,Toronto Blue Jays,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+66,Jeff McNeil,New York Mets,Chris Bassitt,Toronto Blue Jays,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+67,Jeff McNeil,New York Mets,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Jeff McNeil,New York Mets,Nate Pearson,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Jeff McNeil,New York Mets,Jordan Romano,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Jeff McNeil,New York Mets,Aaron Nola,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+71,Jeff McNeil,New York Mets,Taijuan Walker,Philadelphia Phillies,4,1,0,0,0,1,0,0,0,.250,.250,.250,.500
+72,Jeff McNeil,New York Mets,Jose Alvarado,Philadelphia Phillies,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Jeff McNeil,New York Mets,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Jeff McNeil,New York Mets,Gregory Soto,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Jeff McNeil,New York Mets,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Jeff McNeil,New York Mets,Ranger Suarez,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Jeff McNeil,New York Mets,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Jeff McNeil,New York Mets,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+79,Jeff McNeil,New York Mets,Kyle Hendricks,Chicago Cubs,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+80,Jeff McNeil,New York Mets,Michael Rucker,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+81,Jeff McNeil,New York Mets,Mark Leiter Jr.,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Jeff McNeil,New York Mets,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Jeff McNeil,New York Mets,Joe Musgrove,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+84,Jeff McNeil,New York Mets,Tom Cosgrove,San Diego Padres,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+85,Jeff McNeil,New York Mets,Luis Garcia,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+86,Jeff McNeil,New York Mets,Yu Darvish,San Diego Padres,6,1,1,0,0,2,0,0,2,.167,.167,.333,.500
+87,Jeff McNeil,New York Mets,Josh Hader,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+88,Jeff McNeil,New York Mets,Tim Hill,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Jeff McNeil,New York Mets,Brent Honeywell,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+90,Jeff McNeil,New York Mets,Blake Snell,San Diego Padres,3,0,0,0,0,0,2,0,1,.000,.400,.000,.400
+91,Jeff McNeil,New York Mets,Ryan Weathers,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Jeff McNeil,New York Mets,Shawn Dubin,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+93,Jeff McNeil,New York Mets,Hunter Brown,Houston Astros,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+94,Jeff McNeil,New York Mets,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Jeff McNeil,New York Mets,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Jeff McNeil,New York Mets,Phil Maton,Houston Astros,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+97,Jeff McNeil,New York Mets,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Jeff McNeil,New York Mets,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Jeff McNeil,New York Mets,MacKenzie Gore,Washington Nationals,4,4,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+100,Jeff McNeil,New York Mets,Hobie Harris,Washington Nationals,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+101,Jeff McNeil,New York Mets,Mason Thompson,Washington Nationals,2,1,0,1,0,1,0,0,0,.500,.500,1.500,2.000
+102,Jeff McNeil,New York Mets,Patrick Corbin,Washington Nationals,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+103,Jeff McNeil,New York Mets,Trevor Williams,Washington Nationals,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+104,Jeff McNeil,New York Mets,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Jeff McNeil,New York Mets,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Jeff McNeil,New York Mets,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Jeff McNeil,New York Mets,Josiah Gray,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Jeff McNeil,New York Mets,Hunter Harvey,Washington Nationals,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+109,Jeff McNeil,New York Mets,Jake Irvin,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Jeff McNeil,New York Mets,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Jeff McNeil,New York Mets,Erasmo Ramirez,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,Jeff McNeil,New York Mets,Huascar Brazoban,Miami Marlins,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+113,Jeff McNeil,New York Mets,Braxton Garrett,Miami Marlins,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+114,Jeff McNeil,New York Mets,Andrew Nardi,Miami Marlins,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+115,Jeff McNeil,New York Mets,Sandy Alcantara,Miami Marlins,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+116,Jeff McNeil,New York Mets,Trevor Rogers,Miami Marlins,3,1,0,0,0,2,1,0,0,.333,.500,.333,.833
+117,Jeff McNeil,New York Mets,Matt Barnes,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Jeff McNeil,New York Mets,Edward Cabrera,Miami Marlins,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+119,Jeff McNeil,New York Mets,Daniel Castano,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Jeff McNeil,New York Mets,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Jeff McNeil,New York Mets,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Jeff McNeil,New York Mets,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Jeff McNeil,New York Mets,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Jeff McNeil,New York Mets,Tanner Scott,Miami Marlins,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+125,Jeff McNeil,New York Mets,Sean Hjelle,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+126,Jeff McNeil,New York Mets,Ryan Walker,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+127,Jeff McNeil,New York Mets,Alex Wood,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+128,Jeff McNeil,New York Mets,Tristan Beck,San Francisco Giants,4,3,0,0,1,2,0,0,0,.750,.750,1.500,2.250
+129,Jeff McNeil,New York Mets,Alex Cobb,San Francisco Giants,3,2,2,0,0,2,0,0,0,.667,.667,1.333,2.000
+130,Jeff McNeil,New York Mets,Ross Stripling,San Francisco Giants,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+131,Jeff McNeil,New York Mets,Logan Webb,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+132,Jeff McNeil,New York Mets,Anthony DeSclafani,San Francisco Giants,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+133,Jeff McNeil,New York Mets,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Jeff McNeil,New York Mets,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Jeff McNeil,New York Mets,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+136,Jeff McNeil,New York Mets,Tyler Rogers,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Jeff McNeil,New York Mets,Justin Lawrence,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+138,Jeff McNeil,New York Mets,Brent Suter,Colorado Rockies,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+139,Jeff McNeil,New York Mets,Chase Anderson,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+140,Jeff McNeil,New York Mets,Ryan Feltner,Colorado Rockies,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+141,Jeff McNeil,New York Mets,Brad Hand,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+142,Jeff McNeil,New York Mets,Jake Bird,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+143,Jeff McNeil,New York Mets,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Jeff McNeil,New York Mets,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Jeff McNeil,New York Mets,Nick Mears,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Jeff McNeil,New York Mets,Connor Seabold,Colorado Rockies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Jeff McNeil,New York Mets,Antonio Senzatela,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Jeff McNeil,New York Mets,Ron Marinaccio,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+149,Jeff McNeil,New York Mets,Luis Severino,New York Yankees,3,1,0,0,0,2,0,0,0,.333,.333,.333,.666
+150,Jeff McNeil,New York Mets,Gerrit Cole,New York Yankees,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+151,Jeff McNeil,New York Mets,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Jeff McNeil,New York Mets,Wandy Peralta,New York Yankees,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+153,Jeff McNeil,New York Mets,Eli Morgan,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+154,Jeff McNeil,New York Mets,Shane Bieber,Cleveland Guardians,2,1,0,0,0,1,1,0,1,.500,.500,.500,1.000
+155,Jeff McNeil,New York Mets,Tanner Bibee,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+156,Jeff McNeil,New York Mets,Cal Quantrill,Cleveland Guardians,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+157,Jeff McNeil,New York Mets,Sam Hentges,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+158,Jeff McNeil,New York Mets,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Jeff McNeil,New York Mets,Rich Hill,Pittsburgh Pirates,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+160,Jeff McNeil,New York Mets,Mitch Keller,Pittsburgh Pirates,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+161,Jeff McNeil,New York Mets,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Jeff McNeil,New York Mets,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Jeff McNeil,New York Mets,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+164,Jeff McNeil,New York Mets,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,Jeff McNeil,New York Mets,Tanner Banks,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+166,Jeff McNeil,New York Mets,Bryan Shaw,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+167,Jeff McNeil,New York Mets,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Jeff McNeil,New York Mets,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+169,Jeff McNeil,New York Mets,Michael Kopech,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+170,Jeff McNeil,New York Mets,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Jeff McNeil,New York Mets,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+172,Jeff McNeil,New York Mets,Jesse Scholtens,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Jeff McNeil,New York Mets,Touki Toussaint,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+174,Jeff McNeil,New York Mets,Javy Guerra,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+175,Jeff McNeil,New York Mets,Wade Miley,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+176,Jeff McNeil,New York Mets,Peter Strzelecki,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+177,Jeff McNeil,New York Mets,Adrian Houser,Milwaukee Brewers,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+178,Jeff McNeil,New York Mets,Julio Teheran,Milwaukee Brewers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+179,Jeff McNeil,New York Mets,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Jeff McNeil,New York Mets,Matt Bush,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+181,Jeff McNeil,New York Mets,Hoby Milner,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+182,Jeff McNeil,New York Mets,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+183,Jeff McNeil,New York Mets,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+184,Jeff McNeil,New York Mets,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+185,Jeff McNeil,New York Mets,Devin Williams,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+186,Jeff McNeil,New York Mets,Bryse Wilson,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+187,Jeff McNeil,New York Mets,Joey Wentz,Detroit Tigers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+188,Jeff McNeil,New York Mets,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+189,Jeff McNeil,New York Mets,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+190,Jeff McNeil,New York Mets,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+191,Jeff McNeil,New York Mets,Eduardo Rodriguez,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+192,Jeff McNeil,New York Mets,JP Sears,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+193,Jeff McNeil,New York Mets,Jeurys Familia,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+194,Jeff McNeil,New York Mets,Shintaro Fujinami,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+195,Jeff McNeil,New York Mets,Zach Jackson,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+196,Jeff McNeil,New York Mets,Dany Jimenez,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+197,Jeff McNeil,New York Mets,James Kaprielian,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+198,Jeff McNeil,New York Mets,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+199,Jeff McNeil,New York Mets,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+200,Jeff McNeil,New York Mets,Chad Smith,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500

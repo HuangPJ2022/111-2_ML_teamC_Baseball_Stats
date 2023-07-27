@@ -1,0 +1,76 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Willie Calhoun,New York Yankees,Jacob deGrom,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+1,Willie Calhoun,New York Yankees,Nathan Eovaldi,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+2,Willie Calhoun,New York Yankees,Dane Dunning,Texas Rangers,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+3,Willie Calhoun,New York Yankees,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Willie Calhoun,New York Yankees,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Willie Calhoun,New York Yankees,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Willie Calhoun,New York Yankees,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+7,Willie Calhoun,New York Yankees,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Willie Calhoun,New York Yankees,Griffin Canning,Los Angeles Angels,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+9,Willie Calhoun,New York Yankees,Javy Guerra,Tampa Bay Rays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+10,Willie Calhoun,New York Yankees,Drew Rasmussen,Tampa Bay Rays,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+11,Willie Calhoun,New York Yankees,Jalen Beeks,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+12,Willie Calhoun,New York Yankees,Yonny Chirinos,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+13,Willie Calhoun,New York Yankees,Garrett Cleavinger,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Willie Calhoun,New York Yankees,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Willie Calhoun,New York Yankees,Trevor Kelley,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Willie Calhoun,New York Yankees,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Willie Calhoun,New York Yankees,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Willie Calhoun,New York Yankees,Corey Kluber,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+19,Willie Calhoun,New York Yankees,Tanner Houck,Boston Red Sox,5,1,0,0,1,1,0,0,1,.200,.200,.800,1.000
+20,Willie Calhoun,New York Yankees,Brayan Bello,Boston Red Sox,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Willie Calhoun,New York Yankees,Joe Jacques,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Willie Calhoun,New York Yankees,Hunter Greene,Cincinnati Reds,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+23,Willie Calhoun,New York Yankees,Silvino Bracho,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Willie Calhoun,New York Yankees,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Willie Calhoun,New York Yankees,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Willie Calhoun,New York Yankees,Ben Lively,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Willie Calhoun,New York Yankees,Chris Bassitt,Toronto Blue Jays,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+28,Willie Calhoun,New York Yankees,Alek Manoah,Toronto Blue Jays,5,1,0,0,1,2,1,0,2,.200,.333,.800,1.133
+29,Willie Calhoun,New York Yankees,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Willie Calhoun,New York Yankees,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Willie Calhoun,New York Yankees,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+32,Willie Calhoun,New York Yankees,Yennier Cano,Baltimore Orioles,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+33,Willie Calhoun,New York Yankees,Kyle Gibson,Baltimore Orioles,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+34,Willie Calhoun,New York Yankees,Bryan Baker,Baltimore Orioles,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+35,Willie Calhoun,New York Yankees,Kyle Bradish,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Willie Calhoun,New York Yankees,Mychal Givens,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Willie Calhoun,New York Yankees,Brent Honeywell,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+38,Willie Calhoun,New York Yankees,Yu Darvish,San Diego Padres,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+39,Willie Calhoun,New York Yankees,Joe Musgrove,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+40,Willie Calhoun,New York Yankees,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Willie Calhoun,New York Yankees,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Willie Calhoun,New York Yankees,Kenta Maeda,Minnesota Twins,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+43,Willie Calhoun,New York Yankees,Jhoan Duran,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+44,Willie Calhoun,New York Yankees,Pablo Lopez,Minnesota Twins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+45,Willie Calhoun,New York Yankees,Joe Ryan,Minnesota Twins,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+46,Willie Calhoun,New York Yankees,Brent Headrick,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Willie Calhoun,New York Yankees,Emilio Pagan,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Willie Calhoun,New York Yankees,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Willie Calhoun,New York Yankees,Bryce Miller,Seattle Mariners,3,2,2,0,0,2,0,0,0,.667,.667,1.333,2.000
+50,Willie Calhoun,New York Yankees,Luis Castillo,Seattle Mariners,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+51,Willie Calhoun,New York Yankees,Darren McCaughan,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+52,Willie Calhoun,New York Yankees,Logan Gilbert,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+53,Willie Calhoun,New York Yankees,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Willie Calhoun,New York Yankees,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Willie Calhoun,New York Yankees,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Willie Calhoun,New York Yankees,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Willie Calhoun,New York Yankees,Juan Then,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Willie Calhoun,New York Yankees,James Karinchak,Cleveland Guardians,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+59,Willie Calhoun,New York Yankees,Emmanuel Clase,Cleveland Guardians,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+60,Willie Calhoun,New York Yankees,Hunter Gaddis,Cleveland Guardians,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+61,Willie Calhoun,New York Yankees,Shane Bieber,Cleveland Guardians,5,2,1,0,1,1,1,0,0,.400,.500,1.200,1.700
+62,Willie Calhoun,New York Yankees,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Willie Calhoun,New York Yankees,Xzavion Curry,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Willie Calhoun,New York Yankees,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Willie Calhoun,New York Yankees,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Willie Calhoun,New York Yankees,Cal Quantrill,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Willie Calhoun,New York Yankees,Lance Lynn,Chicago White Sox,3,2,0,0,1,3,0,0,0,.667,.667,1.667,2.334
+68,Willie Calhoun,New York Yankees,Mike Clevinger,Chicago White Sox,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+69,Willie Calhoun,New York Yankees,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Willie Calhoun,New York Yankees,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Willie Calhoun,New York Yankees,Liam Hendriks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Willie Calhoun,New York Yankees,Joe Kelly,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+73,Willie Calhoun,New York Yankees,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Willie Calhoun,New York Yankees,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

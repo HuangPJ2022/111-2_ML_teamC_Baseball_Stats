@@ -1,0 +1,117 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Ramon Laureano,Oakland Athletics,Lucas Luetge,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,Ramon Laureano,Oakland Athletics,Jared Shuster,Atlanta Braves,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+2,Ramon Laureano,Oakland Athletics,Bryce Elder,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+3,Ramon Laureano,Oakland Athletics,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+4,Ramon Laureano,Oakland Athletics,Michael Soroka,Atlanta Braves,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+5,Ramon Laureano,Oakland Athletics,Jonathan Hernandez,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+6,Ramon Laureano,Oakland Athletics,Andrew Heaney,Texas Rangers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+7,Ramon Laureano,Oakland Athletics,Jon Gray,Texas Rangers,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+8,Ramon Laureano,Oakland Athletics,Martin Perez,Texas Rangers,3,1,0,1,0,0,0,0,1,.333,.333,1.000,1.333
+9,Ramon Laureano,Oakland Athletics,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Ramon Laureano,Oakland Athletics,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Ramon Laureano,Oakland Athletics,Tyler Anderson,Los Angeles Angels,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+12,Ramon Laureano,Oakland Athletics,Patrick Sandoval,Los Angeles Angels,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+13,Ramon Laureano,Oakland Athletics,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Ramon Laureano,Oakland Athletics,Carlos Estevez,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Ramon Laureano,Oakland Athletics,Jimmy Herget,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Ramon Laureano,Oakland Athletics,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+17,Ramon Laureano,Oakland Athletics,Ryan Tepera,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Ramon Laureano,Oakland Athletics,Colin Poche,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+19,Ramon Laureano,Oakland Athletics,Drew Rasmussen,Tampa Bay Rays,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+20,Ramon Laureano,Oakland Athletics,Zach Eflin,Tampa Bay Rays,5,2,1,0,0,0,0,0,2,.400,.400,.600,1.000
+21,Ramon Laureano,Oakland Athletics,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Ramon Laureano,Oakland Athletics,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Ramon Laureano,Oakland Athletics,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Ramon Laureano,Oakland Athletics,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Ramon Laureano,Oakland Athletics,Jeffrey Springs,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Ramon Laureano,Oakland Athletics,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Ramon Laureano,Oakland Athletics,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Ramon Laureano,Oakland Athletics,Luis Frias,Arizona Diamondbacks,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+29,Ramon Laureano,Oakland Athletics,Tommy Henry,Arizona Diamondbacks,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+30,Ramon Laureano,Oakland Athletics,Andrew Chafin,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Ramon Laureano,Oakland Athletics,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Ramon Laureano,Oakland Athletics,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Ramon Laureano,Oakland Athletics,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Ramon Laureano,Oakland Athletics,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Ramon Laureano,Oakland Athletics,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Ramon Laureano,Oakland Athletics,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Ramon Laureano,Oakland Athletics,Buck Farmer,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+38,Ramon Laureano,Oakland Athletics,Hunter Greene,Cincinnati Reds,2,1,1,0,0,0,0,0,0,.500,.667,1.000,1.667
+39,Ramon Laureano,Oakland Athletics,Nick Lodolo,Cincinnati Reds,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+40,Ramon Laureano,Oakland Athletics,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Ramon Laureano,Oakland Athletics,Cionel Perez,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+42,Ramon Laureano,Oakland Athletics,Kyle Gibson,Baltimore Orioles,3,1,0,1,0,1,0,0,0,.333,.333,1.000,1.333
+43,Ramon Laureano,Oakland Athletics,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Ramon Laureano,Oakland Athletics,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Ramon Laureano,Oakland Athletics,Cole Irvin,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Ramon Laureano,Oakland Athletics,Dean Kremer,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.667,.000,.667
+47,Ramon Laureano,Oakland Athletics,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Ramon Laureano,Oakland Athletics,Zack Wheeler,Philadelphia Phillies,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+49,Ramon Laureano,Oakland Athletics,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Ramon Laureano,Oakland Athletics,Cristopher Sanchez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Ramon Laureano,Oakland Athletics,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Ramon Laureano,Oakland Athletics,Cristian Javier,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+53,Ramon Laureano,Oakland Athletics,Framber Valdez,Houston Astros,7,1,1,0,0,0,0,0,3,.143,.143,.286,.429
+54,Ramon Laureano,Oakland Athletics,Bryan Abreu,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Ramon Laureano,Oakland Athletics,Brandon Bielak,Houston Astros,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+56,Ramon Laureano,Oakland Athletics,Hunter Brown,Houston Astros,5,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Ramon Laureano,Oakland Athletics,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Ramon Laureano,Oakland Athletics,Rafael Montero,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+59,Ramon Laureano,Oakland Athletics,Parker Mushinski,Houston Astros,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+60,Ramon Laureano,Oakland Athletics,Ryan Pressly,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Ramon Laureano,Oakland Athletics,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Ramon Laureano,Oakland Athletics,Sandy Alcantara,Miami Marlins,3,2,1,0,0,2,0,0,1,.667,.667,1.000,1.667
+63,Ramon Laureano,Oakland Athletics,Eury Perez,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+64,Ramon Laureano,Oakland Athletics,Tanner Scott,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+65,Ramon Laureano,Oakland Athletics,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Ramon Laureano,Oakland Athletics,George Soriano,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Ramon Laureano,Oakland Athletics,Kodai Senga,New York Mets,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+68,Ramon Laureano,Oakland Athletics,Carlos Carrasco,New York Mets,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+69,Ramon Laureano,Oakland Athletics,Jose Butto,New York Mets,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+70,Ramon Laureano,Oakland Athletics,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Ramon Laureano,Oakland Athletics,Stephen Nogosek,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Ramon Laureano,Oakland Athletics,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Ramon Laureano,Oakland Athletics,Jimmy Yacabonis,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Ramon Laureano,Oakland Athletics,Nestor Cortes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Ramon Laureano,Oakland Athletics,Justin Topa,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+76,Ramon Laureano,Oakland Athletics,Marco Gonzales,Seattle Mariners,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+77,Ramon Laureano,Oakland Athletics,Matt Brash,Seattle Mariners,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+78,Ramon Laureano,Oakland Athletics,George Kirby,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+79,Ramon Laureano,Oakland Athletics,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Ramon Laureano,Oakland Athletics,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Ramon Laureano,Oakland Athletics,Bryce Miller,Seattle Mariners,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+82,Ramon Laureano,Oakland Athletics,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Ramon Laureano,Oakland Athletics,Paul Sewald,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Ramon Laureano,Oakland Athletics,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Ramon Laureano,Oakland Athletics,Tim Herrin,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+86,Ramon Laureano,Oakland Athletics,Xzavion Curry,Cleveland Guardians,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+87,Ramon Laureano,Oakland Athletics,Trevor Stephan,Cleveland Guardians,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+88,Ramon Laureano,Oakland Athletics,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+89,Ramon Laureano,Oakland Athletics,Aaron Civale,Cleveland Guardians,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+90,Ramon Laureano,Oakland Athletics,Emmanuel Clase,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Ramon Laureano,Oakland Athletics,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Ramon Laureano,Oakland Athletics,Hunter Gaddis,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Ramon Laureano,Oakland Athletics,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Ramon Laureano,Oakland Athletics,Zach Plesac,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Ramon Laureano,Oakland Athletics,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Ramon Laureano,Oakland Athletics,Gavin Williams,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+97,Ramon Laureano,Oakland Athletics,Luis L. Ortiz,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+98,Ramon Laureano,Oakland Athletics,Roansy Contreras,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+99,Ramon Laureano,Oakland Athletics,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Ramon Laureano,Oakland Athletics,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Ramon Laureano,Oakland Athletics,Adrian Houser,Milwaukee Brewers,3,2,0,1,0,2,0,0,0,.667,.667,1.333,2.000
+102,Ramon Laureano,Oakland Athletics,Julio Teheran,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+103,Ramon Laureano,Oakland Athletics,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Ramon Laureano,Oakland Athletics,Tyson Miller,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Ramon Laureano,Oakland Athletics,Hoby Milner,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Ramon Laureano,Oakland Athletics,Freddy Peralta,Milwaukee Brewers,1,0,0,0,0,0,1,0,1,.000,.667,.000,.667
+107,Ramon Laureano,Oakland Athletics,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Ramon Laureano,Oakland Athletics,Ryan Yarbrough,Kansas City Royals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+109,Ramon Laureano,Oakland Athletics,Brad Keller,Kansas City Royals,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+110,Ramon Laureano,Oakland Athletics,Scott Barlow,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Ramon Laureano,Oakland Athletics,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,Ramon Laureano,Oakland Athletics,Jonathan Heasley,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Ramon Laureano,Oakland Athletics,Carlos Hernandez,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Ramon Laureano,Oakland Athletics,Brady Singer,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Ramon Laureano,Oakland Athletics,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

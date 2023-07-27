@@ -1,0 +1,199 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Alec Bohm,Philadelphia Phillies,Dylan Dodd,Atlanta Braves,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+1,Alec Bohm,Philadelphia Phillies,Jared Shuster,Atlanta Braves,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+2,Alec Bohm,Philadelphia Phillies,Kirby Yates,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+3,Alec Bohm,Philadelphia Phillies,Bryce Elder,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+4,Alec Bohm,Philadelphia Phillies,Charlie Morton,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+5,Alec Bohm,Philadelphia Phillies,Nick Anderson,Atlanta Braves,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+6,Alec Bohm,Philadelphia Phillies,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Alec Bohm,Philadelphia Phillies,Joe Jimenez,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+8,Alec Bohm,Philadelphia Phillies,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Alec Bohm,Philadelphia Phillies,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+10,Alec Bohm,Philadelphia Phillies,Brock Burke,Texas Rangers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+11,Alec Bohm,Philadelphia Phillies,Jacob deGrom,Texas Rangers,2,2,1,0,1,2,0,0,0,1.000,1.000,3.000,4.000
+12,Alec Bohm,Philadelphia Phillies,Martin Perez,Texas Rangers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+13,Alec Bohm,Philadelphia Phillies,Dane Dunning,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Alec Bohm,Philadelphia Phillies,Nathan Eovaldi,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Alec Bohm,Philadelphia Phillies,Taylor Hearn,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+16,Alec Bohm,Philadelphia Phillies,Jonathan Hernandez,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Alec Bohm,Philadelphia Phillies,Phil Bickford,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+18,Alec Bohm,Philadelphia Phillies,Gavin Stone,Los Angeles Dodgers,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+19,Alec Bohm,Philadelphia Phillies,Yency Almonte,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Alec Bohm,Philadelphia Phillies,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Alec Bohm,Philadelphia Phillies,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Alec Bohm,Philadelphia Phillies,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Alec Bohm,Philadelphia Phillies,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Alec Bohm,Philadelphia Phillies,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Alec Bohm,Philadelphia Phillies,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Alec Bohm,Philadelphia Phillies,Tayler Scott,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Alec Bohm,Philadelphia Phillies,Julio Urias,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Alec Bohm,Philadelphia Phillies,Alex Vesia,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+29,Alec Bohm,Philadelphia Phillies,Zack Littell,Tampa Bay Rays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+30,Alec Bohm,Philadelphia Phillies,Yonny Chirinos,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+31,Alec Bohm,Philadelphia Phillies,Zach Eflin,Tampa Bay Rays,2,1,1,0,0,1,0,0,1,.500,.667,1.000,1.667
+32,Alec Bohm,Philadelphia Phillies,Colin Poche,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+33,Alec Bohm,Philadelphia Phillies,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Alec Bohm,Philadelphia Phillies,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Alec Bohm,Philadelphia Phillies,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Alec Bohm,Philadelphia Phillies,Luis Patino,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Alec Bohm,Philadelphia Phillies,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Alec Bohm,Philadelphia Phillies,Corey Kluber,Boston Red Sox,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+39,Alec Bohm,Philadelphia Phillies,Chris Sale,Boston Red Sox,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+40,Alec Bohm,Philadelphia Phillies,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Alec Bohm,Philadelphia Phillies,Tanner Houck,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Alec Bohm,Philadelphia Phillies,Zack Littell,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Alec Bohm,Philadelphia Phillies,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Alec Bohm,Philadelphia Phillies,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Alec Bohm,Philadelphia Phillies,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Alec Bohm,Philadelphia Phillies,Kevin Ginkel,Arizona Diamondbacks,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+47,Alec Bohm,Philadelphia Phillies,Josh Rojas,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+48,Alec Bohm,Philadelphia Phillies,Ryne Nelson,Arizona Diamondbacks,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+49,Alec Bohm,Philadelphia Phillies,Jose Ruiz,Arizona Diamondbacks,3,2,0,0,0,2,0,0,0,.667,.667,.667,1.334
+50,Alec Bohm,Philadelphia Phillies,Austin Adams,Arizona Diamondbacks,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+51,Alec Bohm,Philadelphia Phillies,Zach Davies,Arizona Diamondbacks,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+52,Alec Bohm,Philadelphia Phillies,Tommy Henry,Arizona Diamondbacks,4,1,1,0,0,1,0,0,0,.250,.250,.500,.750
+53,Alec Bohm,Philadelphia Phillies,Miguel Castro,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Alec Bohm,Philadelphia Phillies,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Alec Bohm,Philadelphia Phillies,Drey Jameson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Alec Bohm,Philadelphia Phillies,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Alec Bohm,Philadelphia Phillies,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Alec Bohm,Philadelphia Phillies,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Alec Bohm,Philadelphia Phillies,Graham Ashcraft,Cincinnati Reds,1,1,0,0,0,0,2,0,0,1.000,1.000,1.000,2.000
+60,Alec Bohm,Philadelphia Phillies,Alexis Diaz,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+61,Alec Bohm,Philadelphia Phillies,Luis Cessa,Cincinnati Reds,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+62,Alec Bohm,Philadelphia Phillies,Fernando Cruz,Cincinnati Reds,3,2,0,0,0,2,0,0,0,.667,.667,.667,1.334
+63,Alec Bohm,Philadelphia Phillies,Connor Overton,Cincinnati Reds,3,1,0,0,1,2,1,0,1,.333,.500,1.333,1.833
+64,Alec Bohm,Philadelphia Phillies,Reiver Sanmartin,Cincinnati Reds,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+65,Alec Bohm,Philadelphia Phillies,Nick Lodolo,Cincinnati Reds,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+66,Alec Bohm,Philadelphia Phillies,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Alec Bohm,Philadelphia Phillies,Hunter Greene,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Alec Bohm,Philadelphia Phillies,Kevin Herget,Cincinnati Reds,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+69,Alec Bohm,Philadelphia Phillies,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Alec Bohm,Philadelphia Phillies,Casey Legumina,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Alec Bohm,Philadelphia Phillies,Jason Vosler,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Alec Bohm,Philadelphia Phillies,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Alec Bohm,Philadelphia Phillies,Nate Pearson,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+74,Alec Bohm,Philadelphia Phillies,Alek Manoah,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+75,Alec Bohm,Philadelphia Phillies,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Alec Bohm,Philadelphia Phillies,Kevin Gausman,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Alec Bohm,Philadelphia Phillies,Trevor Richards,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+78,Alec Bohm,Philadelphia Phillies,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Alec Bohm,Philadelphia Phillies,Drew Smyly,Chicago Cubs,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+80,Alec Bohm,Philadelphia Phillies,Justin Steele,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+81,Alec Bohm,Philadelphia Phillies,Jameson Taillon,Chicago Cubs,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+82,Alec Bohm,Philadelphia Phillies,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Alec Bohm,Philadelphia Phillies,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Alec Bohm,Philadelphia Phillies,Nick Burdi,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Alec Bohm,Philadelphia Phillies,Jeremiah Estrada,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Alec Bohm,Philadelphia Phillies,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Alec Bohm,Philadelphia Phillies,Michael Rucker,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Alec Bohm,Philadelphia Phillies,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Alec Bohm,Philadelphia Phillies,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Alec Bohm,Philadelphia Phillies,Yu Darvish,San Diego Padres,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+91,Alec Bohm,Philadelphia Phillies,Tim Hill,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+92,Alec Bohm,Philadelphia Phillies,Steven Wilson,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+93,Alec Bohm,Philadelphia Phillies,Luis Garcia,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+94,Alec Bohm,Philadelphia Phillies,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Alec Bohm,Philadelphia Phillies,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+96,Alec Bohm,Philadelphia Phillies,Alek Jacob,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Alec Bohm,Philadelphia Phillies,Nick Martinez,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+98,Alec Bohm,Philadelphia Phillies,Blake Snell,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+99,Alec Bohm,Philadelphia Phillies,Ryan Weathers,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Alec Bohm,Philadelphia Phillies,Seth Martinez,Houston Astros,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+101,Alec Bohm,Philadelphia Phillies,Cristian Javier,Houston Astros,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+102,Alec Bohm,Philadelphia Phillies,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Alec Bohm,Philadelphia Phillies,Rafael Montero,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Alec Bohm,Philadelphia Phillies,Jose Urquidy,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Alec Bohm,Philadelphia Phillies,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Alec Bohm,Philadelphia Phillies,A.J. Puk,Miami Marlins,3,3,1,0,0,1,0,0,0,1.000,1.000,1.333,2.333
+107,Alec Bohm,Philadelphia Phillies,Huascar Brazoban,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+108,Alec Bohm,Philadelphia Phillies,Braxton Garrett,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+109,Alec Bohm,Philadelphia Phillies,Devin Smeltzer,Miami Marlins,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+110,Alec Bohm,Philadelphia Phillies,Sandy Alcantara,Miami Marlins,6,2,0,0,0,3,0,0,2,.333,.333,.333,.666
+111,Alec Bohm,Philadelphia Phillies,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Alec Bohm,Philadelphia Phillies,Dylan Floro,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+113,Alec Bohm,Philadelphia Phillies,Jesus Luzardo,Miami Marlins,6,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+114,Alec Bohm,Philadelphia Phillies,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Alec Bohm,Philadelphia Phillies,MacKenzie Gore,Washington Nationals,2,2,0,0,1,3,0,0,0,1.000,1.000,2.500,3.500
+116,Alec Bohm,Philadelphia Phillies,Mason Thompson,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+117,Alec Bohm,Philadelphia Phillies,Thaddeus Ward,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+118,Alec Bohm,Philadelphia Phillies,Amos Willingham,Washington Nationals,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+119,Alec Bohm,Philadelphia Phillies,Josiah Gray,Washington Nationals,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+120,Alec Bohm,Philadelphia Phillies,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Alec Bohm,Philadelphia Phillies,Jose A. Ferrer,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+122,Alec Bohm,Philadelphia Phillies,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Alec Bohm,Philadelphia Phillies,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Alec Bohm,Philadelphia Phillies,Trevor Williams,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Alec Bohm,Philadelphia Phillies,Jakob Junis,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,.500,1.000,1.500
+126,Alec Bohm,Philadelphia Phillies,Alex Wood,San Francisco Giants,2,2,1,0,1,2,0,0,0,1.000,1.000,3.000,4.000
+127,Alec Bohm,Philadelphia Phillies,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Alec Bohm,Philadelphia Phillies,Alex Cobb,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Alec Bohm,Philadelphia Phillies,Camilo Doval,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Alec Bohm,Philadelphia Phillies,Sean Manaea,San Francisco Giants,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+131,Alec Bohm,Philadelphia Phillies,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Alec Bohm,Philadelphia Phillies,Ross Stripling,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Alec Bohm,Philadelphia Phillies,Carlos Carrasco,New York Mets,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+134,Alec Bohm,Philadelphia Phillies,Grant Hartwig,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+135,Alec Bohm,Philadelphia Phillies,Kodai Senga,New York Mets,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+136,Alec Bohm,Philadelphia Phillies,Jeff Brigham,New York Mets,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+137,Alec Bohm,Philadelphia Phillies,Vinny Nittoli,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Alec Bohm,Philadelphia Phillies,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Alec Bohm,Philadelphia Phillies,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Alec Bohm,Philadelphia Phillies,Max Scherzer,New York Mets,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Alec Bohm,Philadelphia Phillies,Dinelson Lamet,Colorado Rockies,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+142,Alec Bohm,Philadelphia Phillies,Noah Davis,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+143,Alec Bohm,Philadelphia Phillies,Ryan Feltner,Colorado Rockies,2,1,0,0,0,2,1,0,0,.500,.667,.500,1.167
+144,Alec Bohm,Philadelphia Phillies,Justin Lawrence,Colorado Rockies,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+145,Alec Bohm,Philadelphia Phillies,Austin Gomber,Colorado Rockies,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+146,Alec Bohm,Philadelphia Phillies,Kyle Freeland,Colorado Rockies,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+147,Alec Bohm,Philadelphia Phillies,Jake Bird,Colorado Rockies,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+148,Alec Bohm,Philadelphia Phillies,Ty Blach,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Alec Bohm,Philadelphia Phillies,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Alec Bohm,Philadelphia Phillies,Pierce Johnson,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Alec Bohm,Philadelphia Phillies,Peter Lambert,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Alec Bohm,Philadelphia Phillies,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Alec Bohm,Philadelphia Phillies,Jose Urena,Colorado Rockies,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+154,Alec Bohm,Philadelphia Phillies,Nestor Cortes,New York Yankees,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+155,Alec Bohm,Philadelphia Phillies,Ian Hamilton,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+156,Alec Bohm,Philadelphia Phillies,Albert Abreu,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+157,Alec Bohm,Philadelphia Phillies,Gerrit Cole,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+158,Alec Bohm,Philadelphia Phillies,Domingo German,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Alec Bohm,Philadelphia Phillies,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+160,Alec Bohm,Philadelphia Phillies,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Alec Bohm,Philadelphia Phillies,Jonathan Loaisiga,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+162,Alec Bohm,Philadelphia Phillies,Paul Sewald,Seattle Mariners,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+163,Alec Bohm,Philadelphia Phillies,Justin Topa,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+164,Alec Bohm,Philadelphia Phillies,Matt Brash,Seattle Mariners,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+165,Alec Bohm,Philadelphia Phillies,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Alec Bohm,Philadelphia Phillies,Marco Gonzales,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Alec Bohm,Philadelphia Phillies,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+168,Alec Bohm,Philadelphia Phillies,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+169,Alec Bohm,Philadelphia Phillies,Gavin Williams,Cleveland Guardians,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+170,Alec Bohm,Philadelphia Phillies,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+171,Alec Bohm,Philadelphia Phillies,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+172,Alec Bohm,Philadelphia Phillies,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,Alec Bohm,Philadelphia Phillies,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Alec Bohm,Philadelphia Phillies,Lance Lynn,Chicago White Sox,2,2,0,0,0,2,1,0,0,1.000,1.000,1.000,2.000
+175,Alec Bohm,Philadelphia Phillies,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+176,Alec Bohm,Philadelphia Phillies,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+177,Alec Bohm,Philadelphia Phillies,Mike Clevinger,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+178,Alec Bohm,Philadelphia Phillies,Jake Diekman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+179,Alec Bohm,Philadelphia Phillies,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Alec Bohm,Philadelphia Phillies,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Alec Bohm,Philadelphia Phillies,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+182,Alec Bohm,Philadelphia Phillies,J.C. Mejia,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+183,Alec Bohm,Philadelphia Phillies,Julio Teheran,Milwaukee Brewers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+184,Alec Bohm,Philadelphia Phillies,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+185,Alec Bohm,Philadelphia Phillies,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+186,Alec Bohm,Philadelphia Phillies,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+187,Alec Bohm,Philadelphia Phillies,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+188,Alec Bohm,Philadelphia Phillies,Abner Uribe,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+189,Alec Bohm,Philadelphia Phillies,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+190,Alec Bohm,Philadelphia Phillies,Chad Smith,Oakland Athletics,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+191,Alec Bohm,Philadelphia Phillies,James Kaprielian,Oakland Athletics,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+192,Alec Bohm,Philadelphia Phillies,JP Sears,Oakland Athletics,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+193,Alec Bohm,Philadelphia Phillies,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+194,Alec Bohm,Philadelphia Phillies,Shintaro Fujinami,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+195,Alec Bohm,Philadelphia Phillies,Hogan Harris,Oakland Athletics,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+196,Alec Bohm,Philadelphia Phillies,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+197,Alec Bohm,Philadelphia Phillies,Ken Waldichuk,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

@@ -1,0 +1,142 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Yuli Gurriel,Miami Marlins,Jesse Chavez,Atlanta Braves,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+1,Yuli Gurriel,Miami Marlins,Joe Jimenez,Atlanta Braves,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+2,Yuli Gurriel,Miami Marlins,Kyle Wright,Atlanta Braves,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+3,Yuli Gurriel,Miami Marlins,A.J. Minter,Atlanta Braves,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+4,Yuli Gurriel,Miami Marlins,Charlie Morton,Atlanta Braves,4,1,0,0,0,0,1,0,1,.250,.400,.250,.650
+5,Yuli Gurriel,Miami Marlins,Dylan Dodd,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Yuli Gurriel,Miami Marlins,Bryce Elder,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Yuli Gurriel,Miami Marlins,Dylan Lee,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Yuli Gurriel,Miami Marlins,Collin McHugh,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Yuli Gurriel,Miami Marlins,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Yuli Gurriel,Miami Marlins,Kirby Yates,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Yuli Gurriel,Miami Marlins,Reid Detmers,Los Angeles Angels,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+12,Yuli Gurriel,Miami Marlins,Shohei Ohtani,Los Angeles Angels,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+13,Yuli Gurriel,Miami Marlins,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Yuli Gurriel,Miami Marlins,Jaime Barria,Los Angeles Angels,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+15,Yuli Gurriel,Miami Marlins,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,1,1,0,.000,.333,.000,.333
+16,Yuli Gurriel,Miami Marlins,Chase Silseth,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+17,Yuli Gurriel,Miami Marlins,Jacob Webb,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+18,Yuli Gurriel,Miami Marlins,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Yuli Gurriel,Miami Marlins,Jordan Hicks,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Yuli Gurriel,Miami Marlins,Jordan Montgomery,St. Louis Cardinals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+21,Yuli Gurriel,Miami Marlins,Andre Pallante,St. Louis Cardinals,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+22,Yuli Gurriel,Miami Marlins,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Yuli Gurriel,Miami Marlins,Dakota Hudson,St. Louis Cardinals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+24,Yuli Gurriel,Miami Marlins,Matthew Liberatore,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+25,Yuli Gurriel,Miami Marlins,Steven Matz,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Yuli Gurriel,Miami Marlins,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Yuli Gurriel,Miami Marlins,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Yuli Gurriel,Miami Marlins,Ryan Tepera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Yuli Gurriel,Miami Marlins,Jose Ruiz,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+30,Yuli Gurriel,Miami Marlins,Madison Bumgarner,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Yuli Gurriel,Miami Marlins,Zac Gallen,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Yuli Gurriel,Miami Marlins,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Yuli Gurriel,Miami Marlins,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Yuli Gurriel,Miami Marlins,Brandon Pfaadt,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Yuli Gurriel,Miami Marlins,Peter Solomon,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Yuli Gurriel,Miami Marlins,Levi Stoudt,Cincinnati Reds,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+37,Yuli Gurriel,Miami Marlins,Graham Ashcraft,Cincinnati Reds,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Yuli Gurriel,Miami Marlins,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Yuli Gurriel,Miami Marlins,Buck Farmer,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+40,Yuli Gurriel,Miami Marlins,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Yuli Gurriel,Miami Marlins,Casey Legumina,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Yuli Gurriel,Miami Marlins,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Yuli Gurriel,Miami Marlins,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Yuli Gurriel,Miami Marlins,Jordan Romano,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Yuli Gurriel,Miami Marlins,Eduard Bazardo,Baltimore Orioles,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+46,Yuli Gurriel,Miami Marlins,Kyle Gibson,Baltimore Orioles,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+47,Yuli Gurriel,Miami Marlins,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Yuli Gurriel,Miami Marlins,Felix Bautista,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Yuli Gurriel,Miami Marlins,Kyle Bradish,Baltimore Orioles,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Yuli Gurriel,Miami Marlins,Andrew Bellatti,Philadelphia Phillies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+51,Yuli Gurriel,Miami Marlins,Seranthony Dominguez,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+52,Yuli Gurriel,Miami Marlins,McKinley Moore,Philadelphia Phillies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+53,Yuli Gurriel,Miami Marlins,Andrew Vasquez,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+54,Yuli Gurriel,Miami Marlins,Aaron Nola,Philadelphia Phillies,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+55,Yuli Gurriel,Miami Marlins,Craig Kimbrel,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+56,Yuli Gurriel,Miami Marlins,Yunior Marte,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+57,Yuli Gurriel,Miami Marlins,Matt Strahm,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Yuli Gurriel,Miami Marlins,Ranger Suarez,Philadelphia Phillies,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+59,Yuli Gurriel,Miami Marlins,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Yuli Gurriel,Miami Marlins,Caleb Kilian,Chicago Cubs,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+61,Yuli Gurriel,Miami Marlins,Justin Steele,Chicago Cubs,2,1,0,0,0,1,0,0,0,.500,.333,.500,.833
+62,Yuli Gurriel,Miami Marlins,Hayden Wesneski,Chicago Cubs,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+63,Yuli Gurriel,Miami Marlins,Adbert Alzolay,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Yuli Gurriel,Miami Marlins,Jeremiah Estrada,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Yuli Gurriel,Miami Marlins,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Yuli Gurriel,Miami Marlins,Mark Leiter Jr.,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Yuli Gurriel,Miami Marlins,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Yuli Gurriel,Miami Marlins,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Yuli Gurriel,Miami Marlins,Drew Smyly,Chicago Cubs,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+70,Yuli Gurriel,Miami Marlins,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Yuli Gurriel,Miami Marlins,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Yuli Gurriel,Miami Marlins,Josh Hader,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+73,Yuli Gurriel,Miami Marlins,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Yuli Gurriel,Miami Marlins,Joe Musgrove,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Yuli Gurriel,Miami Marlins,Blake Snell,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Yuli Gurriel,Miami Marlins,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Yuli Gurriel,Miami Marlins,Ryan Weathers,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+78,Yuli Gurriel,Miami Marlins,Steven Wilson,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+79,Yuli Gurriel,Miami Marlins,Cole Sands,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+80,Yuli Gurriel,Miami Marlins,Patrick Corbin,Washington Nationals,4,2,0,0,0,0,0,0,0,.500,.500,.500,1.000
+81,Yuli Gurriel,Miami Marlins,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Yuli Gurriel,Miami Marlins,Carl Edwards Jr.,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+83,Yuli Gurriel,Miami Marlins,MacKenzie Gore,Washington Nationals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+84,Yuli Gurriel,Miami Marlins,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Yuli Gurriel,Miami Marlins,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Yuli Gurriel,Miami Marlins,Trevor Williams,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Yuli Gurriel,Miami Marlins,Ryan Walker,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+88,Yuli Gurriel,Miami Marlins,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Yuli Gurriel,Miami Marlins,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Yuli Gurriel,Miami Marlins,Logan Webb,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Yuli Gurriel,Miami Marlins,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Yuli Gurriel,Miami Marlins,Carlos Carrasco,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+93,Yuli Gurriel,Miami Marlins,David Peterson,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+94,Yuli Gurriel,Miami Marlins,Stephen Nogosek,New York Mets,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+95,Yuli Gurriel,Miami Marlins,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Yuli Gurriel,Miami Marlins,Dennis Santana,New York Mets,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+97,Yuli Gurriel,Miami Marlins,Kodai Senga,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Yuli Gurriel,Miami Marlins,Jake Bird,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+99,Yuli Gurriel,Miami Marlins,Pierce Johnson,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+100,Yuli Gurriel,Miami Marlins,Karl Kauffmann,Colorado Rockies,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+101,Yuli Gurriel,Miami Marlins,Peter Lambert,Colorado Rockies,2,2,0,1,0,0,0,0,0,1.000,1.000,2.000,3.000
+102,Yuli Gurriel,Miami Marlins,Brent Suter,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,.500,1.000,1.500
+103,Yuli Gurriel,Miami Marlins,Austin Gomber,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+104,Yuli Gurriel,Miami Marlins,Kyle Freeland,Colorado Rockies,3,1,0,1,0,1,0,0,0,.333,.333,1.000,1.333
+105,Yuli Gurriel,Miami Marlins,Daniel Bard,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+106,Yuli Gurriel,Miami Marlins,Ty Blach,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Yuli Gurriel,Miami Marlins,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+108,Yuli Gurriel,Miami Marlins,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Yuli Gurriel,Miami Marlins,Chris Flexen,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+110,Yuli Gurriel,Miami Marlins,George Kirby,Seattle Mariners,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+111,Yuli Gurriel,Miami Marlins,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Yuli Gurriel,Miami Marlins,Shane Bieber,Cleveland Guardians,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+113,Yuli Gurriel,Miami Marlins,Hunter Gaddis,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Yuli Gurriel,Miami Marlins,Nick Sandlin,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+115,Yuli Gurriel,Miami Marlins,Roansy Contreras,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+116,Yuli Gurriel,Miami Marlins,Carmen Mlodzinski,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+117,Yuli Gurriel,Miami Marlins,Osvaldo Bido,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+118,Yuli Gurriel,Miami Marlins,Johan Oviedo,Pittsburgh Pirates,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+119,Yuli Gurriel,Miami Marlins,David Bednar,Pittsburgh Pirates,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+120,Yuli Gurriel,Miami Marlins,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Yuli Gurriel,Miami Marlins,Dylan Cease,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Yuli Gurriel,Miami Marlins,Liam Hendriks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Yuli Gurriel,Miami Marlins,Joe Kelly,Chicago White Sox,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+124,Yuli Gurriel,Miami Marlins,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Yuli Gurriel,Miami Marlins,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Yuli Gurriel,Miami Marlins,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Yuli Gurriel,Miami Marlins,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Yuli Gurriel,Miami Marlins,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Yuli Gurriel,Miami Marlins,Jordan Lyles,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Yuli Gurriel,Miami Marlins,Mike Mayers,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Yuli Gurriel,Miami Marlins,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Yuli Gurriel,Miami Marlins,Lucas Erceg,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+133,Yuli Gurriel,Miami Marlins,Sam Long,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+134,Yuli Gurriel,Miami Marlins,Ken Waldichuk,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+135,Yuli Gurriel,Miami Marlins,Paul Blackburn,Oakland Athletics,3,2,1,1,0,1,0,0,0,.667,.667,1.667,2.334
+136,Yuli Gurriel,Miami Marlins,Hogan Harris,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+137,Yuli Gurriel,Miami Marlins,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+138,Yuli Gurriel,Miami Marlins,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Yuli Gurriel,Miami Marlins,Luis Medina,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,Yuli Gurriel,Miami Marlins,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

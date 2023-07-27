@@ -1,0 +1,37 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Michael Chavis,Washington Nationals,Jared Shuster,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+1,Michael Chavis,Washington Nationals,Tucker Davidson,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Michael Chavis,Washington Nationals,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Michael Chavis,Washington Nationals,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+4,Michael Chavis,Washington Nationals,Jose Suarez,Los Angeles Angels,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+5,Michael Chavis,Washington Nationals,Josh Fleming,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+6,Michael Chavis,Washington Nationals,Shane McClanahan,Tampa Bay Rays,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+7,Michael Chavis,Washington Nationals,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Michael Chavis,Washington Nationals,Steven Matz,St. Louis Cardinals,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+9,Michael Chavis,Washington Nationals,Dakota Hudson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Michael Chavis,Washington Nationals,Andrew Chafin,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Michael Chavis,Washington Nationals,Tommy Henry,Arizona Diamondbacks,5,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Michael Chavis,Washington Nationals,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Michael Chavis,Washington Nationals,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Michael Chavis,Washington Nationals,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Michael Chavis,Washington Nationals,Ranger Suarez,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+16,Michael Chavis,Washington Nationals,Dylan Covey,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Michael Chavis,Washington Nationals,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Michael Chavis,Washington Nationals,Ray Kerr,San Diego Padres,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+19,Michael Chavis,Washington Nationals,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+20,Michael Chavis,Washington Nationals,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Michael Chavis,Washington Nationals,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Michael Chavis,Washington Nationals,Alex Wood,San Francisco Giants,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+23,Michael Chavis,Washington Nationals,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Michael Chavis,Washington Nationals,Joey Lucchesi,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Michael Chavis,Washington Nationals,Brent Suter,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Michael Chavis,Washington Nationals,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+27,Michael Chavis,Washington Nationals,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Michael Chavis,Washington Nationals,Cody Bolton,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+29,Michael Chavis,Washington Nationals,Josh Staumont,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+30,Michael Chavis,Washington Nationals,Daniel Lynch IV,Kansas City Royals,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+31,Michael Chavis,Washington Nationals,Aroldis Chapman,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+32,Michael Chavis,Washington Nationals,Jose Cisnero,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Michael Chavis,Washington Nationals,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Michael Chavis,Washington Nationals,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Michael Chavis,Washington Nationals,Joey Wentz,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

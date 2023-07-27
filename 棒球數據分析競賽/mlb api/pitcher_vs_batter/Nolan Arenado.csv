@@ -1,0 +1,200 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Nolan Arenado,St. Louis Cardinals,Collin McHugh,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Nolan Arenado,St. Louis Cardinals,A.J. Minter,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Nolan Arenado,St. Louis Cardinals,Kirby Yates,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+3,Nolan Arenado,St. Louis Cardinals,Charlie Morton,Atlanta Braves,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+4,Nolan Arenado,St. Louis Cardinals,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Nolan Arenado,St. Louis Cardinals,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Nolan Arenado,St. Louis Cardinals,Dylan Dodd,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Nolan Arenado,St. Louis Cardinals,Bryce Elder,Atlanta Braves,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+8,Nolan Arenado,St. Louis Cardinals,Grant Anderson,Texas Rangers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+9,Nolan Arenado,St. Louis Cardinals,Jon Gray,Texas Rangers,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+10,Nolan Arenado,St. Louis Cardinals,Dane Dunning,Texas Rangers,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+11,Nolan Arenado,St. Louis Cardinals,Martin Perez,Texas Rangers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Nolan Arenado,St. Louis Cardinals,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Nolan Arenado,St. Louis Cardinals,Phil Bickford,Los Angeles Dodgers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+14,Nolan Arenado,St. Louis Cardinals,Wander Suero,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+15,Nolan Arenado,St. Louis Cardinals,Tyler Cyr,Los Angeles Dodgers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+16,Nolan Arenado,St. Louis Cardinals,Tony Gonsolin,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+17,Nolan Arenado,St. Louis Cardinals,Shelby Miller,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+18,Nolan Arenado,St. Louis Cardinals,Noah Syndergaard,Los Angeles Dodgers,5,2,0,0,0,0,0,0,1,.400,.400,.400,.800
+19,Nolan Arenado,St. Louis Cardinals,Clayton Kershaw,Los Angeles Dodgers,5,1,1,0,0,0,0,0,2,.200,.200,.400,.600
+20,Nolan Arenado,St. Louis Cardinals,Yency Almonte,Los Angeles Dodgers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Nolan Arenado,St. Louis Cardinals,Brusdar Graterol,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Nolan Arenado,St. Louis Cardinals,Andre Jackson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Nolan Arenado,St. Louis Cardinals,Dustin May,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Nolan Arenado,St. Louis Cardinals,Julio Urias,Los Angeles Dodgers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+25,Nolan Arenado,St. Louis Cardinals,Ryan Tepera,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Nolan Arenado,St. Louis Cardinals,Shohei Ohtani,Los Angeles Angels,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+27,Nolan Arenado,St. Louis Cardinals,Griffin Canning,Los Angeles Angels,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+28,Nolan Arenado,St. Louis Cardinals,Chris Devenski,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Nolan Arenado,St. Louis Cardinals,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Nolan Arenado,St. Louis Cardinals,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Nolan Arenado,St. Louis Cardinals,Patrick Sandoval,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+32,Nolan Arenado,St. Louis Cardinals,Ryan Brasier,Boston Red Sox,3,3,0,0,1,4,0,0,0,1.000,1.000,2.000,3.000
+33,Nolan Arenado,St. Louis Cardinals,James Paxton,Boston Red Sox,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+34,Nolan Arenado,St. Louis Cardinals,Josh Winckowski,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+35,Nolan Arenado,St. Louis Cardinals,Chris Sale,Boston Red Sox,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+36,Nolan Arenado,St. Louis Cardinals,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Nolan Arenado,St. Louis Cardinals,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Nolan Arenado,St. Louis Cardinals,Corey Kluber,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+39,Nolan Arenado,St. Louis Cardinals,Madison Bumgarner,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+40,Nolan Arenado,St. Louis Cardinals,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Nolan Arenado,St. Louis Cardinals,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Nolan Arenado,St. Louis Cardinals,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Nolan Arenado,St. Louis Cardinals,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Nolan Arenado,St. Louis Cardinals,Peter Solomon,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Nolan Arenado,St. Louis Cardinals,Andrew Abbott,Cincinnati Reds,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+46,Nolan Arenado,St. Louis Cardinals,Alexis Diaz,Cincinnati Reds,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+47,Nolan Arenado,St. Louis Cardinals,Hunter Greene,Cincinnati Reds,3,1,0,1,0,1,0,0,1,.333,.333,1.000,1.333
+48,Nolan Arenado,St. Louis Cardinals,Ben Lively,Cincinnati Reds,6,2,0,0,1,2,1,0,3,.333,.429,.833,1.262
+49,Nolan Arenado,St. Louis Cardinals,Graham Ashcraft,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Nolan Arenado,St. Louis Cardinals,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Nolan Arenado,St. Louis Cardinals,Ian Gibaut,Cincinnati Reds,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Nolan Arenado,St. Louis Cardinals,Kevin Herget,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Nolan Arenado,St. Louis Cardinals,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+54,Nolan Arenado,St. Louis Cardinals,Brandon Williamson,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Nolan Arenado,St. Louis Cardinals,Yimi Garcia,Toronto Blue Jays,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+56,Nolan Arenado,St. Louis Cardinals,Erik Swanson,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+57,Nolan Arenado,St. Louis Cardinals,Chris Bassitt,Toronto Blue Jays,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+58,Nolan Arenado,St. Louis Cardinals,Alek Manoah,Toronto Blue Jays,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+59,Nolan Arenado,St. Louis Cardinals,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Nolan Arenado,St. Louis Cardinals,Kevin Gausman,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Nolan Arenado,St. Louis Cardinals,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Nolan Arenado,St. Louis Cardinals,Zach Pop,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Nolan Arenado,St. Louis Cardinals,Trevor Richards,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+64,Nolan Arenado,St. Louis Cardinals,Julian Merryweather,Chicago Cubs,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+65,Nolan Arenado,St. Louis Cardinals,Drew Smyly,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+66,Nolan Arenado,St. Louis Cardinals,Jameson Taillon,Chicago Cubs,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+67,Nolan Arenado,St. Louis Cardinals,Justin Steele,Chicago Cubs,8,2,0,1,0,1,1,0,0,.250,.333,.500,.833
+68,Nolan Arenado,St. Louis Cardinals,Marcus Stroman,Chicago Cubs,5,1,1,0,0,2,0,0,1,.200,.200,.400,.600
+69,Nolan Arenado,St. Louis Cardinals,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Nolan Arenado,St. Louis Cardinals,Javier Assad,Chicago Cubs,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Nolan Arenado,St. Louis Cardinals,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Nolan Arenado,St. Louis Cardinals,Michael Fulmer,Chicago Cubs,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+73,Nolan Arenado,St. Louis Cardinals,Daniel Palencia,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Nolan Arenado,St. Louis Cardinals,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Nolan Arenado,St. Louis Cardinals,Hayden Wesneski,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Nolan Arenado,St. Louis Cardinals,Framber Valdez,Houston Astros,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+77,Nolan Arenado,St. Louis Cardinals,J.P. France,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+78,Nolan Arenado,St. Louis Cardinals,Cristian Javier,Houston Astros,3,1,0,0,1,3,0,0,0,.333,.333,1.333,1.666
+79,Nolan Arenado,St. Louis Cardinals,Ryne Stanek,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+80,Nolan Arenado,St. Louis Cardinals,Dylan Floro,Miami Marlins,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+81,Nolan Arenado,St. Louis Cardinals,Bryan Hoeing,Miami Marlins,2,2,2,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+82,Nolan Arenado,St. Louis Cardinals,Tanner Scott,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+83,Nolan Arenado,St. Louis Cardinals,Sandy Alcantara,Miami Marlins,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+84,Nolan Arenado,St. Louis Cardinals,Huascar Brazoban,Miami Marlins,2,1,1,0,0,1,0,0,0,.500,.333,1.000,1.333
+85,Nolan Arenado,St. Louis Cardinals,Braxton Garrett,Miami Marlins,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+86,Nolan Arenado,St. Louis Cardinals,Eury Perez,Miami Marlins,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+87,Nolan Arenado,St. Louis Cardinals,A.J. Puk,Miami Marlins,3,1,0,0,1,3,0,0,1,.333,.333,1.333,1.666
+88,Nolan Arenado,St. Louis Cardinals,Jesus Luzardo,Miami Marlins,5,1,0,0,0,1,0,0,1,.200,.200,.200,.400
+89,Nolan Arenado,St. Louis Cardinals,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+90,Nolan Arenado,St. Louis Cardinals,JT Chargois,Miami Marlins,0,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+91,Nolan Arenado,St. Louis Cardinals,George Soriano,Miami Marlins,1,0,0,0,0,0,1,1,0,.000,.500,.000,.500
+92,Nolan Arenado,St. Louis Cardinals,Luke Jackson,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+93,Nolan Arenado,St. Louis Cardinals,Alex Cobb,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+94,Nolan Arenado,St. Louis Cardinals,Logan Webb,San Francisco Giants,6,3,0,0,0,0,0,0,1,.500,.500,.500,1.000
+95,Nolan Arenado,St. Louis Cardinals,Anthony DeSclafani,San Francisco Giants,5,1,0,0,0,0,0,0,3,.200,.200,.200,.400
+96,Nolan Arenado,St. Louis Cardinals,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Nolan Arenado,St. Louis Cardinals,John Brebbia,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Nolan Arenado,St. Louis Cardinals,Camilo Doval,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+99,Nolan Arenado,St. Louis Cardinals,Jakob Junis,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Nolan Arenado,St. Louis Cardinals,Tyler Rogers,San Francisco Giants,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Nolan Arenado,St. Louis Cardinals,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Nolan Arenado,St. Louis Cardinals,Carlos Carrasco,New York Mets,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+103,Nolan Arenado,St. Louis Cardinals,Adam Ottavino,New York Mets,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+104,Nolan Arenado,St. Louis Cardinals,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Nolan Arenado,St. Louis Cardinals,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Nolan Arenado,St. Louis Cardinals,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Nolan Arenado,St. Louis Cardinals,Tylor Megill,New York Mets,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Nolan Arenado,St. Louis Cardinals,Kodai Senga,New York Mets,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Nolan Arenado,St. Louis Cardinals,Josh Walker,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Nolan Arenado,St. Louis Cardinals,Carl Edwards Jr.,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+111,Nolan Arenado,St. Louis Cardinals,Paolo Espino,Washington Nationals,1,1,0,0,1,2,0,0,0,1.000,.500,4.000,4.500
+112,Nolan Arenado,St. Louis Cardinals,Jake Irvin,Washington Nationals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+113,Nolan Arenado,St. Louis Cardinals,Trevor Williams,Washington Nationals,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+114,Nolan Arenado,St. Louis Cardinals,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Nolan Arenado,St. Louis Cardinals,Joan Adon,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Nolan Arenado,St. Louis Cardinals,Kyle Finnegan,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Nolan Arenado,St. Louis Cardinals,MacKenzie Gore,Washington Nationals,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+118,Nolan Arenado,St. Louis Cardinals,Josiah Gray,Washington Nationals,4,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+119,Nolan Arenado,St. Louis Cardinals,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Nolan Arenado,St. Louis Cardinals,Mason Thompson,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+121,Nolan Arenado,St. Louis Cardinals,Thaddeus Ward,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Nolan Arenado,St. Louis Cardinals,Jordan Weems,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Nolan Arenado,St. Louis Cardinals,Amos Willingham,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Nolan Arenado,St. Louis Cardinals,Dinelson Lamet,Colorado Rockies,1,1,1,0,0,3,0,0,0,1.000,1.000,2.000,3.000
+125,Nolan Arenado,St. Louis Cardinals,Kyle Freeland,Colorado Rockies,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+126,Nolan Arenado,St. Louis Cardinals,Jose Urena,Colorado Rockies,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+127,Nolan Arenado,St. Louis Cardinals,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Nolan Arenado,St. Louis Cardinals,Justin Lawrence,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Nolan Arenado,St. Louis Cardinals,German Marquez,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Nolan Arenado,St. Louis Cardinals,Connor Seabold,Colorado Rockies,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+131,Nolan Arenado,St. Louis Cardinals,Brent Suter,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Nolan Arenado,St. Louis Cardinals,Jimmy Cordero,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+133,Nolan Arenado,St. Louis Cardinals,Gerrit Cole,New York Yankees,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+134,Nolan Arenado,St. Louis Cardinals,Luis Severino,New York Yankees,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+135,Nolan Arenado,St. Louis Cardinals,Matt Krook,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+136,Nolan Arenado,St. Louis Cardinals,Gabe Speier,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+137,Nolan Arenado,St. Louis Cardinals,Luis Castillo,Seattle Mariners,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+138,Nolan Arenado,St. Louis Cardinals,George Kirby,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+139,Nolan Arenado,St. Louis Cardinals,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,Nolan Arenado,St. Louis Cardinals,Chris Flexen,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Nolan Arenado,St. Louis Cardinals,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+142,Nolan Arenado,St. Louis Cardinals,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Nolan Arenado,St. Louis Cardinals,Xzavion Curry,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+144,Nolan Arenado,St. Louis Cardinals,Hunter Gaddis,Cleveland Guardians,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+145,Nolan Arenado,St. Louis Cardinals,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Nolan Arenado,St. Louis Cardinals,Shane Bieber,Cleveland Guardians,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+147,Nolan Arenado,St. Louis Cardinals,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Nolan Arenado,St. Louis Cardinals,James Karinchak,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+149,Nolan Arenado,St. Louis Cardinals,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Nolan Arenado,St. Louis Cardinals,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Nolan Arenado,St. Louis Cardinals,Cody Bolton,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+152,Nolan Arenado,St. Louis Cardinals,Johan Oviedo,Pittsburgh Pirates,3,3,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+153,Nolan Arenado,St. Louis Cardinals,Roansy Contreras,Pittsburgh Pirates,5,2,0,0,1,2,0,0,3,.400,.400,1.000,1.400
+154,Nolan Arenado,St. Louis Cardinals,Colin Holderman,Pittsburgh Pirates,3,1,1,0,0,0,1,0,0,.333,.500,.667,1.167
+155,Nolan Arenado,St. Louis Cardinals,Mitch Keller,Pittsburgh Pirates,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+156,Nolan Arenado,St. Louis Cardinals,Vince Velasquez,Pittsburgh Pirates,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+157,Nolan Arenado,St. Louis Cardinals,Wil Crowe,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Nolan Arenado,St. Louis Cardinals,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+159,Nolan Arenado,St. Louis Cardinals,Dauri Moreta,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+160,Nolan Arenado,St. Louis Cardinals,Luis L. Ortiz,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+161,Nolan Arenado,St. Louis Cardinals,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Nolan Arenado,St. Louis Cardinals,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Nolan Arenado,St. Louis Cardinals,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Nolan Arenado,St. Louis Cardinals,Duane Underwood Jr.,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+165,Nolan Arenado,St. Louis Cardinals,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Nolan Arenado,St. Louis Cardinals,Aaron Bummer,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+167,Nolan Arenado,St. Louis Cardinals,Keynan Middleton,Chicago White Sox,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+168,Nolan Arenado,St. Louis Cardinals,Touki Toussaint,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+169,Nolan Arenado,St. Louis Cardinals,Dylan Cease,Chicago White Sox,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+170,Nolan Arenado,St. Louis Cardinals,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Nolan Arenado,St. Louis Cardinals,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+172,Nolan Arenado,St. Louis Cardinals,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+173,Nolan Arenado,St. Louis Cardinals,Wade Miley,Milwaukee Brewers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+174,Nolan Arenado,St. Louis Cardinals,Joel Payamps,Milwaukee Brewers,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+175,Nolan Arenado,St. Louis Cardinals,Freddy Peralta,Milwaukee Brewers,5,3,0,0,1,3,1,0,0,.600,.667,1.200,1.867
+176,Nolan Arenado,St. Louis Cardinals,Eric Lauer,Milwaukee Brewers,2,1,0,0,1,3,0,0,0,.500,.333,2.000,2.333
+177,Nolan Arenado,St. Louis Cardinals,Brandon Woodruff,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+178,Nolan Arenado,St. Louis Cardinals,Corbin Burnes,Milwaukee Brewers,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+179,Nolan Arenado,St. Louis Cardinals,Matt Bush,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Nolan Arenado,St. Louis Cardinals,Jake Cousins,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Nolan Arenado,St. Louis Cardinals,Javy Guerra,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+182,Nolan Arenado,St. Louis Cardinals,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+183,Nolan Arenado,St. Louis Cardinals,Peter Strzelecki,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+184,Nolan Arenado,St. Louis Cardinals,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,1,1,0,.000,.500,.000,.500
+185,Nolan Arenado,St. Louis Cardinals,Bryse Wilson,Milwaukee Brewers,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+186,Nolan Arenado,St. Louis Cardinals,Jason Foley,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+187,Nolan Arenado,St. Louis Cardinals,Matthew Boyd,Detroit Tigers,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+188,Nolan Arenado,St. Louis Cardinals,Spencer Turnbull,Detroit Tigers,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+189,Nolan Arenado,St. Louis Cardinals,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+190,Nolan Arenado,St. Louis Cardinals,Mason Englert,Detroit Tigers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+191,Nolan Arenado,St. Louis Cardinals,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+192,Nolan Arenado,St. Louis Cardinals,Tyler Holton,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+193,Nolan Arenado,St. Louis Cardinals,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+194,Nolan Arenado,St. Louis Cardinals,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+195,Nolan Arenado,St. Louis Cardinals,Carlos Hernandez,Kansas City Royals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+196,Nolan Arenado,St. Louis Cardinals,Mike Mayers,Kansas City Royals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+197,Nolan Arenado,St. Louis Cardinals,Zack Greinke,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+198,Nolan Arenado,St. Louis Cardinals,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

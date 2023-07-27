@@ -1,0 +1,179 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Gunnar Henderson,Baltimore Orioles,Max Fried,Atlanta Braves,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+1,Gunnar Henderson,Baltimore Orioles,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Gunnar Henderson,Baltimore Orioles,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Gunnar Henderson,Baltimore Orioles,Bryce Elder,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Gunnar Henderson,Baltimore Orioles,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Gunnar Henderson,Baltimore Orioles,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Gunnar Henderson,Baltimore Orioles,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Gunnar Henderson,Baltimore Orioles,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Gunnar Henderson,Baltimore Orioles,Jon Gray,Texas Rangers,6,2,0,0,1,1,0,0,1,.333,.333,.833,1.166
+9,Gunnar Henderson,Baltimore Orioles,Cody Bradford,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+10,Gunnar Henderson,Baltimore Orioles,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Gunnar Henderson,Baltimore Orioles,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Gunnar Henderson,Baltimore Orioles,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Gunnar Henderson,Baltimore Orioles,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Gunnar Henderson,Baltimore Orioles,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Gunnar Henderson,Baltimore Orioles,Jacob deGrom,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Gunnar Henderson,Baltimore Orioles,Julio Urias,Los Angeles Dodgers,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+17,Gunnar Henderson,Baltimore Orioles,Michael Grove,Los Angeles Dodgers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+18,Gunnar Henderson,Baltimore Orioles,Emmet Sheehan,Los Angeles Dodgers,3,1,0,1,0,1,0,0,0,.333,.333,1.000,1.333
+19,Gunnar Henderson,Baltimore Orioles,Phil Bickford,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+20,Gunnar Henderson,Baltimore Orioles,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Gunnar Henderson,Baltimore Orioles,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Gunnar Henderson,Baltimore Orioles,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Gunnar Henderson,Baltimore Orioles,Chase Silseth,Los Angeles Angels,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+24,Gunnar Henderson,Baltimore Orioles,Griffin Canning,Los Angeles Angels,3,2,0,1,0,0,0,0,1,.667,.667,1.333,2.000
+25,Gunnar Henderson,Baltimore Orioles,Tyler Anderson,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+26,Gunnar Henderson,Baltimore Orioles,Shohei Ohtani,Los Angeles Angels,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+27,Gunnar Henderson,Baltimore Orioles,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Gunnar Henderson,Baltimore Orioles,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Gunnar Henderson,Baltimore Orioles,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Gunnar Henderson,Baltimore Orioles,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Gunnar Henderson,Baltimore Orioles,Andrew Wantz,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+32,Gunnar Henderson,Baltimore Orioles,Zack Littell,Tampa Bay Rays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+33,Gunnar Henderson,Baltimore Orioles,Shane McClanahan,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+34,Gunnar Henderson,Baltimore Orioles,Taj Bradley,Tampa Bay Rays,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+35,Gunnar Henderson,Baltimore Orioles,Tyler Glasnow,Tampa Bay Rays,6,2,1,1,0,0,0,0,2,.333,.333,.833,1.166
+36,Gunnar Henderson,Baltimore Orioles,Zach Eflin,Tampa Bay Rays,6,1,0,1,0,0,0,0,1,.167,.167,.500,.667
+37,Gunnar Henderson,Baltimore Orioles,Jason Adam,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Gunnar Henderson,Baltimore Orioles,Shawn Armstrong,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+39,Gunnar Henderson,Baltimore Orioles,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Gunnar Henderson,Baltimore Orioles,Yonny Chirinos,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+41,Gunnar Henderson,Baltimore Orioles,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Gunnar Henderson,Baltimore Orioles,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Gunnar Henderson,Baltimore Orioles,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Gunnar Henderson,Baltimore Orioles,Javy Guerra,Tampa Bay Rays,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+45,Gunnar Henderson,Baltimore Orioles,Kaleb Ort,Boston Red Sox,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+46,Gunnar Henderson,Baltimore Orioles,Corey Kluber,Boston Red Sox,3,1,0,0,0,0,2,0,0,.333,.600,.333,.933
+47,Gunnar Henderson,Baltimore Orioles,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Gunnar Henderson,Baltimore Orioles,Tanner Houck,Boston Red Sox,4,0,0,0,0,0,1,0,2,.000,.200,.000,.200
+49,Gunnar Henderson,Baltimore Orioles,Kenley Jansen,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+50,Gunnar Henderson,Baltimore Orioles,Zack Kelly,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Gunnar Henderson,Baltimore Orioles,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Gunnar Henderson,Baltimore Orioles,Chris Sale,Boston Red Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+53,Gunnar Henderson,Baltimore Orioles,John Schreiber,Boston Red Sox,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+54,Gunnar Henderson,Baltimore Orioles,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Gunnar Henderson,Baltimore Orioles,Buck Farmer,Cincinnati Reds,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+56,Gunnar Henderson,Baltimore Orioles,Luke Weaver,Cincinnati Reds,2,1,0,1,0,3,0,0,1,.500,.500,1.500,2.000
+57,Gunnar Henderson,Baltimore Orioles,Andrew Abbott,Cincinnati Reds,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+58,Gunnar Henderson,Baltimore Orioles,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Gunnar Henderson,Baltimore Orioles,Alex Young,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+60,Gunnar Henderson,Baltimore Orioles,Bowden Francis,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+61,Gunnar Henderson,Baltimore Orioles,Yimi Garcia,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+62,Gunnar Henderson,Baltimore Orioles,Chris Bassitt,Toronto Blue Jays,3,2,0,0,1,4,0,0,1,.667,.667,1.667,2.334
+63,Gunnar Henderson,Baltimore Orioles,Yusei Kikuchi,Toronto Blue Jays,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+64,Gunnar Henderson,Baltimore Orioles,Jose Berrios,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Gunnar Henderson,Baltimore Orioles,Kevin Gausman,Toronto Blue Jays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Gunnar Henderson,Baltimore Orioles,Alek Manoah,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Gunnar Henderson,Baltimore Orioles,Tim Mayza,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Gunnar Henderson,Baltimore Orioles,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Gunnar Henderson,Baltimore Orioles,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Gunnar Henderson,Baltimore Orioles,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Gunnar Henderson,Baltimore Orioles,Justin Steele,Chicago Cubs,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+72,Gunnar Henderson,Baltimore Orioles,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Gunnar Henderson,Baltimore Orioles,Kyle Hendricks,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Gunnar Henderson,Baltimore Orioles,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Gunnar Henderson,Baltimore Orioles,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Gunnar Henderson,Baltimore Orioles,Jordan Balazovic,Minnesota Twins,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+77,Gunnar Henderson,Baltimore Orioles,Joe Ryan,Minnesota Twins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+78,Gunnar Henderson,Baltimore Orioles,Sonny Gray,Minnesota Twins,4,1,0,0,0,1,1,0,1,.250,.500,.250,.750
+79,Gunnar Henderson,Baltimore Orioles,Bailey Ober,Minnesota Twins,5,1,0,0,0,0,1,0,2,.200,.333,.200,.533
+80,Gunnar Henderson,Baltimore Orioles,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Gunnar Henderson,Baltimore Orioles,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+82,Gunnar Henderson,Baltimore Orioles,Jovani Moran,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+83,Gunnar Henderson,Baltimore Orioles,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Gunnar Henderson,Baltimore Orioles,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Gunnar Henderson,Baltimore Orioles,Cole Sands,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+86,Gunnar Henderson,Baltimore Orioles,Huascar Brazoban,Miami Marlins,1,1,0,0,1,2,0,0,0,1.000,.500,4.000,4.500
+87,Gunnar Henderson,Baltimore Orioles,Steven Okert,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+88,Gunnar Henderson,Baltimore Orioles,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Gunnar Henderson,Baltimore Orioles,Johnny Cueto,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Gunnar Henderson,Baltimore Orioles,Dylan Floro,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+91,Gunnar Henderson,Baltimore Orioles,Robert Garcia,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+92,Gunnar Henderson,Baltimore Orioles,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Gunnar Henderson,Baltimore Orioles,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Gunnar Henderson,Baltimore Orioles,Hobie Harris,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+95,Gunnar Henderson,Baltimore Orioles,Anthony Banda,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Gunnar Henderson,Baltimore Orioles,MacKenzie Gore,Washington Nationals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+97,Gunnar Henderson,Baltimore Orioles,Josiah Gray,Washington Nationals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+98,Gunnar Henderson,Baltimore Orioles,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Gunnar Henderson,Baltimore Orioles,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Gunnar Henderson,Baltimore Orioles,Logan Webb,San Francisco Giants,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+101,Gunnar Henderson,Baltimore Orioles,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Gunnar Henderson,Baltimore Orioles,Alex Cobb,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Gunnar Henderson,Baltimore Orioles,Jimmy Cordero,New York Yankees,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+104,Gunnar Henderson,Baltimore Orioles,Luis Severino,New York Yankees,3,3,0,0,1,2,0,0,0,1.000,1.000,2.000,3.000
+105,Gunnar Henderson,Baltimore Orioles,Gerrit Cole,New York Yankees,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+106,Gunnar Henderson,Baltimore Orioles,Ron Marinaccio,New York Yankees,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+107,Gunnar Henderson,Baltimore Orioles,Nick Ramirez,New York Yankees,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+108,Gunnar Henderson,Baltimore Orioles,Albert Abreu,New York Yankees,3,1,0,0,1,3,0,0,1,.333,.333,1.333,1.666
+109,Gunnar Henderson,Baltimore Orioles,Domingo German,New York Yankees,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+110,Gunnar Henderson,Baltimore Orioles,Clarke Schmidt,New York Yankees,6,2,1,0,0,1,1,0,1,.333,.429,.500,.929
+111,Gunnar Henderson,Baltimore Orioles,Randy Vasquez,New York Yankees,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+112,Gunnar Henderson,Baltimore Orioles,Wandy Peralta,New York Yankees,4,1,0,0,0,0,1,0,3,.250,.400,.250,.650
+113,Gunnar Henderson,Baltimore Orioles,Jhony Brito,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+114,Gunnar Henderson,Baltimore Orioles,Nestor Cortes,New York Yankees,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+115,Gunnar Henderson,Baltimore Orioles,Deivi Garcia,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Gunnar Henderson,Baltimore Orioles,Ian Hamilton,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Gunnar Henderson,Baltimore Orioles,Clay Holmes,New York Yankees,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+118,Gunnar Henderson,Baltimore Orioles,Isiah Kiner-Falefa,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Gunnar Henderson,Baltimore Orioles,Michael King,New York Yankees,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Gunnar Henderson,Baltimore Orioles,Ty Adcock,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+121,Gunnar Henderson,Baltimore Orioles,Bryce Miller,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+122,Gunnar Henderson,Baltimore Orioles,George Kirby,Seattle Mariners,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+123,Gunnar Henderson,Baltimore Orioles,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+124,Gunnar Henderson,Baltimore Orioles,Gabe Speier,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Gunnar Henderson,Baltimore Orioles,Cal Quantrill,Cleveland Guardians,3,2,1,0,0,3,0,0,1,.667,.667,1.000,1.667
+126,Gunnar Henderson,Baltimore Orioles,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Gunnar Henderson,Baltimore Orioles,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Gunnar Henderson,Baltimore Orioles,Xzavion Curry,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+129,Gunnar Henderson,Baltimore Orioles,Sam Hentges,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Gunnar Henderson,Baltimore Orioles,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+131,Gunnar Henderson,Baltimore Orioles,Colin Holderman,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+132,Gunnar Henderson,Baltimore Orioles,Roansy Contreras,Pittsburgh Pirates,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+133,Gunnar Henderson,Baltimore Orioles,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+134,Gunnar Henderson,Baltimore Orioles,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Gunnar Henderson,Baltimore Orioles,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Gunnar Henderson,Baltimore Orioles,Duane Underwood Jr.,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+137,Gunnar Henderson,Baltimore Orioles,Jake Diekman,Chicago White Sox,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+138,Gunnar Henderson,Baltimore Orioles,Dylan Cease,Chicago White Sox,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+139,Gunnar Henderson,Baltimore Orioles,Mike Clevinger,Chicago White Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+140,Gunnar Henderson,Baltimore Orioles,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Gunnar Henderson,Baltimore Orioles,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Gunnar Henderson,Baltimore Orioles,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Gunnar Henderson,Baltimore Orioles,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Gunnar Henderson,Baltimore Orioles,Peter Strzelecki,Milwaukee Brewers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+145,Gunnar Henderson,Baltimore Orioles,Corbin Burnes,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+146,Gunnar Henderson,Baltimore Orioles,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Gunnar Henderson,Baltimore Orioles,Colin Rea,Milwaukee Brewers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+148,Gunnar Henderson,Baltimore Orioles,Jason Foley,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+149,Gunnar Henderson,Baltimore Orioles,Michael Lorenzen,Detroit Tigers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+150,Gunnar Henderson,Baltimore Orioles,Joey Wentz,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+151,Gunnar Henderson,Baltimore Orioles,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+152,Gunnar Henderson,Baltimore Orioles,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+153,Gunnar Henderson,Baltimore Orioles,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+154,Gunnar Henderson,Baltimore Orioles,Eduardo Rodriguez,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Gunnar Henderson,Baltimore Orioles,Chasen Shreve,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Gunnar Henderson,Baltimore Orioles,Spencer Turnbull,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,Gunnar Henderson,Baltimore Orioles,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+158,Gunnar Henderson,Baltimore Orioles,Carlos Hernandez,Kansas City Royals,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+159,Gunnar Henderson,Baltimore Orioles,Jackson Kowar,Kansas City Royals,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+160,Gunnar Henderson,Baltimore Orioles,Jordan Lyles,Kansas City Royals,1,1,0,0,1,2,1,0,0,1.000,1.000,4.000,5.000
+161,Gunnar Henderson,Baltimore Orioles,Daniel Lynch IV,Kansas City Royals,3,3,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+162,Gunnar Henderson,Baltimore Orioles,Taylor Clarke,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+163,Gunnar Henderson,Baltimore Orioles,Mike Mayers,Kansas City Royals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+164,Gunnar Henderson,Baltimore Orioles,Brady Singer,Kansas City Royals,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+165,Gunnar Henderson,Baltimore Orioles,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Gunnar Henderson,Baltimore Orioles,Austin Cox,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Gunnar Henderson,Baltimore Orioles,Jose Cuas,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+168,Gunnar Henderson,Baltimore Orioles,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,Gunnar Henderson,Baltimore Orioles,Ryan Yarbrough,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+170,Gunnar Henderson,Baltimore Orioles,Adam Oller,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+171,Gunnar Henderson,Baltimore Orioles,Chad Smith,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+172,Gunnar Henderson,Baltimore Orioles,Zach Jackson,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,Gunnar Henderson,Baltimore Orioles,Dany Jimenez,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+174,Gunnar Henderson,Baltimore Orioles,Adrian Martinez,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+175,Gunnar Henderson,Baltimore Orioles,Sam Moll,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+176,Gunnar Henderson,Baltimore Orioles,Kyle Muller,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+177,Gunnar Henderson,Baltimore Orioles,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333

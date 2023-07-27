@@ -1,0 +1,53 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Trayce Thompson,Los Angeles Dodgers,Josh Fleming,Tampa Bay Rays,3,3,0,0,1,2,0,0,0,1.000,1.000,2.000,3.000
+1,Trayce Thompson,Los Angeles Dodgers,Jalen Beeks,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+2,Trayce Thompson,Los Angeles Dodgers,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Trayce Thompson,Los Angeles Dodgers,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+4,Trayce Thompson,Los Angeles Dodgers,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+5,Trayce Thompson,Los Angeles Dodgers,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+6,Trayce Thompson,Los Angeles Dodgers,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Trayce Thompson,Los Angeles Dodgers,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+8,Trayce Thompson,Los Angeles Dodgers,Kevin Ginkel,Arizona Diamondbacks,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+9,Trayce Thompson,Los Angeles Dodgers,Peter Solomon,Arizona Diamondbacks,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+10,Trayce Thompson,Los Angeles Dodgers,Carlos Vargas,Arizona Diamondbacks,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+11,Trayce Thompson,Los Angeles Dodgers,Madison Bumgarner,Arizona Diamondbacks,4,1,0,0,1,4,1,0,2,.250,.400,1.000,1.400
+12,Trayce Thompson,Los Angeles Dodgers,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Trayce Thompson,Los Angeles Dodgers,Zach Davies,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Trayce Thompson,Los Angeles Dodgers,Drey Jameson,Arizona Diamondbacks,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Trayce Thompson,Los Angeles Dodgers,Kyle Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Trayce Thompson,Los Angeles Dodgers,Adbert Alzolay,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+17,Trayce Thompson,Los Angeles Dodgers,Javier Assad,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Trayce Thompson,Los Angeles Dodgers,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Trayce Thompson,Los Angeles Dodgers,Jeremiah Estrada,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Trayce Thompson,Los Angeles Dodgers,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Trayce Thompson,Los Angeles Dodgers,Brandon Hughes,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Trayce Thompson,Los Angeles Dodgers,Drew Smyly,Chicago Cubs,4,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+23,Trayce Thompson,Los Angeles Dodgers,Justin Steele,Chicago Cubs,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+24,Trayce Thompson,Los Angeles Dodgers,Josh Hader,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Trayce Thompson,Los Angeles Dodgers,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Trayce Thompson,Los Angeles Dodgers,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Trayce Thompson,Los Angeles Dodgers,Blake Snell,San Diego Padres,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+28,Trayce Thompson,Los Angeles Dodgers,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Trayce Thompson,Los Angeles Dodgers,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Trayce Thompson,Los Angeles Dodgers,Jorge Lopez,Minnesota Twins,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+31,Trayce Thompson,Los Angeles Dodgers,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Trayce Thompson,Los Angeles Dodgers,Jakob Junis,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Trayce Thompson,Los Angeles Dodgers,Ross Stripling,San Francisco Giants,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+34,Trayce Thompson,Los Angeles Dodgers,Taylor Rogers,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Trayce Thompson,Los Angeles Dodgers,Alex Wood,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+36,Trayce Thompson,Los Angeles Dodgers,David Peterson,New York Mets,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+37,Trayce Thompson,Los Angeles Dodgers,Adam Ottavino,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Trayce Thompson,Los Angeles Dodgers,Patrick Corbin,Washington Nationals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+39,Trayce Thompson,Los Angeles Dodgers,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Trayce Thompson,Los Angeles Dodgers,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Trayce Thompson,Los Angeles Dodgers,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Trayce Thompson,Los Angeles Dodgers,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Trayce Thompson,Los Angeles Dodgers,Wandy Peralta,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+44,Trayce Thompson,Los Angeles Dodgers,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Trayce Thompson,Los Angeles Dodgers,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+46,Trayce Thompson,Los Angeles Dodgers,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+47,Trayce Thompson,Los Angeles Dodgers,Eric Lauer,Milwaukee Brewers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+48,Trayce Thompson,Los Angeles Dodgers,Wade Miley,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+49,Trayce Thompson,Los Angeles Dodgers,Bennett Sousa,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+50,Trayce Thompson,Los Angeles Dodgers,Gus Varland,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Trayce Thompson,Los Angeles Dodgers,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

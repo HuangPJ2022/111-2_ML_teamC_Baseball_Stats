@@ -1,0 +1,114 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,JJ Bleday,Oakland Athletics,Bryce Elder,Atlanta Braves,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+1,JJ Bleday,Oakland Athletics,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+2,JJ Bleday,Oakland Athletics,Michael Soroka,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,JJ Bleday,Oakland Athletics,Brock Burke,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+4,JJ Bleday,Oakland Athletics,Nathan Eovaldi,Texas Rangers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+5,JJ Bleday,Oakland Athletics,Jon Gray,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,JJ Bleday,Oakland Athletics,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,JJ Bleday,Oakland Athletics,Taj Bradley,Tampa Bay Rays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+8,JJ Bleday,Oakland Athletics,Tyler Glasnow,Tampa Bay Rays,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+9,JJ Bleday,Oakland Athletics,Jason Adam,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,JJ Bleday,Oakland Athletics,Kevin Kelly,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+11,JJ Bleday,Oakland Athletics,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,JJ Bleday,Oakland Athletics,Tayler Scott,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,JJ Bleday,Oakland Athletics,Brandon Walter,Boston Red Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+14,JJ Bleday,Oakland Athletics,Brayan Bello,Boston Red Sox,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+15,JJ Bleday,Oakland Athletics,Brennan Bernardino,Boston Red Sox,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+16,JJ Bleday,Oakland Athletics,Joe Jacques,Boston Red Sox,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+17,JJ Bleday,Oakland Athletics,Joely Rodriguez,Boston Red Sox,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+18,JJ Bleday,Oakland Athletics,James Paxton,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+19,JJ Bleday,Oakland Athletics,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,JJ Bleday,Oakland Athletics,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,JJ Bleday,Oakland Athletics,Chris Murphy,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,JJ Bleday,Oakland Athletics,Nick Pivetta,Boston Red Sox,3,0,0,0,0,0,1,0,2,.000,.250,.000,.250
+23,JJ Bleday,Oakland Athletics,Josh Winckowski,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,JJ Bleday,Oakland Athletics,Luis Frias,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,JJ Bleday,Oakland Athletics,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+26,JJ Bleday,Oakland Athletics,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,JJ Bleday,Oakland Athletics,Jose Ruiz,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+28,JJ Bleday,Oakland Athletics,Chris Bassitt,Toronto Blue Jays,2,1,0,0,1,3,0,0,0,.500,.333,2.000,2.333
+29,JJ Bleday,Oakland Athletics,Jose Berrios,Toronto Blue Jays,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+30,JJ Bleday,Oakland Athletics,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+31,JJ Bleday,Oakland Athletics,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,JJ Bleday,Oakland Athletics,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,JJ Bleday,Oakland Athletics,Zack Wheeler,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+34,JJ Bleday,Oakland Athletics,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,JJ Bleday,Oakland Athletics,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,JJ Bleday,Oakland Athletics,Cristopher Sanchez,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,JJ Bleday,Oakland Athletics,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,JJ Bleday,Oakland Athletics,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,JJ Bleday,Oakland Athletics,Hunter Brown,Houston Astros,5,2,0,0,1,1,0,0,1,.400,.400,1.000,1.400
+40,JJ Bleday,Oakland Athletics,Bryan Abreu,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,JJ Bleday,Oakland Athletics,Brandon Bielak,Houston Astros,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+42,JJ Bleday,Oakland Athletics,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,JJ Bleday,Oakland Athletics,Cristian Javier,Houston Astros,2,0,0,0,0,0,3,0,0,.000,.600,.000,.600
+44,JJ Bleday,Oakland Athletics,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,JJ Bleday,Oakland Athletics,Parker Mushinski,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,JJ Bleday,Oakland Athletics,Hector Neris,Houston Astros,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+47,JJ Bleday,Oakland Athletics,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,JJ Bleday,Oakland Athletics,Ryne Stanek,Houston Astros,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+49,JJ Bleday,Oakland Athletics,Framber Valdez,Houston Astros,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+50,JJ Bleday,Oakland Athletics,Jhoan Duran,Minnesota Twins,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+51,JJ Bleday,Oakland Athletics,Pablo Lopez,Minnesota Twins,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+52,JJ Bleday,Oakland Athletics,Kenta Maeda,Minnesota Twins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+53,JJ Bleday,Oakland Athletics,Jovani Moran,Minnesota Twins,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+54,JJ Bleday,Oakland Athletics,Emilio Pagan,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,JJ Bleday,Oakland Athletics,Joe Ryan,Minnesota Twins,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+56,JJ Bleday,Oakland Athletics,Edward Cabrera,Miami Marlins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+57,JJ Bleday,Oakland Athletics,Eury Perez,Miami Marlins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+58,JJ Bleday,Oakland Athletics,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,JJ Bleday,Oakland Athletics,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,JJ Bleday,Oakland Athletics,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,JJ Bleday,Oakland Athletics,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,JJ Bleday,Oakland Athletics,Nestor Cortes,New York Yankees,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+63,JJ Bleday,Oakland Athletics,Deivi Garcia,New York Yankees,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+64,JJ Bleday,Oakland Athletics,Jhony Brito,New York Yankees,5,2,1,0,0,0,0,0,1,.400,.400,.600,1.000
+65,JJ Bleday,Oakland Athletics,Clarke Schmidt,New York Yankees,3,1,1,0,0,1,2,0,0,.333,.500,.667,1.167
+66,JJ Bleday,Oakland Athletics,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,JJ Bleday,Oakland Athletics,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,JJ Bleday,Oakland Athletics,Nick Ramirez,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+69,JJ Bleday,Oakland Athletics,George Kirby,Seattle Mariners,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+70,JJ Bleday,Oakland Athletics,Matt Brash,Seattle Mariners,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+71,JJ Bleday,Oakland Athletics,Luis Castillo,Seattle Mariners,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+72,JJ Bleday,Oakland Athletics,Logan Gilbert,Seattle Mariners,5,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,JJ Bleday,Oakland Athletics,Bryce Miller,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,JJ Bleday,Oakland Athletics,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,JJ Bleday,Oakland Athletics,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,JJ Bleday,Oakland Athletics,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,JJ Bleday,Oakland Athletics,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,JJ Bleday,Oakland Athletics,Gavin Williams,Cleveland Guardians,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+79,JJ Bleday,Oakland Athletics,Roansy Contreras,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+80,JJ Bleday,Oakland Athletics,Chase De Jong,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+81,JJ Bleday,Oakland Athletics,Luis L. Ortiz,Pittsburgh Pirates,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+82,JJ Bleday,Oakland Athletics,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,JJ Bleday,Oakland Athletics,Mitch Keller,Pittsburgh Pirates,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+84,JJ Bleday,Oakland Athletics,Dauri Moreta,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+85,JJ Bleday,Oakland Athletics,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,JJ Bleday,Oakland Athletics,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,JJ Bleday,Oakland Athletics,Aaron Bummer,Chicago White Sox,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+88,JJ Bleday,Oakland Athletics,Gregory Santos,Chicago White Sox,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+89,JJ Bleday,Oakland Athletics,Dylan Cease,Chicago White Sox,2,1,0,0,0,2,0,0,0,.500,.333,.500,.833
+90,JJ Bleday,Oakland Athletics,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+91,JJ Bleday,Oakland Athletics,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,JJ Bleday,Oakland Athletics,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,JJ Bleday,Oakland Athletics,Keynan Middleton,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,JJ Bleday,Oakland Athletics,Jesse Scholtens,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+95,JJ Bleday,Oakland Athletics,Touki Toussaint,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+96,JJ Bleday,Oakland Athletics,Adrian Houser,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+97,JJ Bleday,Oakland Athletics,Trevor Megill,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+98,JJ Bleday,Oakland Athletics,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,JJ Bleday,Oakland Athletics,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,JJ Bleday,Oakland Athletics,Julio Teheran,Milwaukee Brewers,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+101,JJ Bleday,Oakland Athletics,Jonathan Heasley,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+102,JJ Bleday,Oakland Athletics,Brady Singer,Kansas City Royals,3,2,1,0,1,1,0,0,1,.667,.667,2.000,2.667
+103,JJ Bleday,Oakland Athletics,Scott Barlow,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+104,JJ Bleday,Oakland Athletics,Brad Keller,Kansas City Royals,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+105,JJ Bleday,Oakland Athletics,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,JJ Bleday,Oakland Athletics,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,JJ Bleday,Oakland Athletics,Zach Logue,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+108,JJ Bleday,Oakland Athletics,Tyler Holton,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,JJ Bleday,Oakland Athletics,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+110,JJ Bleday,Oakland Athletics,Reese Olson,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,JJ Bleday,Oakland Athletics,Eduardo Rodriguez,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,JJ Bleday,Oakland Athletics,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

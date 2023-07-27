@@ -1,0 +1,184 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Cal Raleigh,Seattle Mariners,Bryce Elder,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+1,Cal Raleigh,Seattle Mariners,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Cal Raleigh,Seattle Mariners,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Cal Raleigh,Seattle Mariners,Dane Dunning,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+4,Cal Raleigh,Seattle Mariners,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Cal Raleigh,Seattle Mariners,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Cal Raleigh,Seattle Mariners,Nathan Eovaldi,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Cal Raleigh,Seattle Mariners,Jon Gray,Texas Rangers,5,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Cal Raleigh,Seattle Mariners,Jonathan Hernandez,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+9,Cal Raleigh,Seattle Mariners,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Cal Raleigh,Seattle Mariners,Jaime Barria,Los Angeles Angels,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+11,Cal Raleigh,Seattle Mariners,Jose Suarez,Los Angeles Angels,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+12,Cal Raleigh,Seattle Mariners,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Cal Raleigh,Seattle Mariners,Griffin Canning,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+14,Cal Raleigh,Seattle Mariners,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Cal Raleigh,Seattle Mariners,Jimmy Herget,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Cal Raleigh,Seattle Mariners,Shohei Ohtani,Los Angeles Angels,3,0,0,0,0,0,2,0,1,.000,.400,.000,.400
+17,Cal Raleigh,Seattle Mariners,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Cal Raleigh,Seattle Mariners,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Cal Raleigh,Seattle Mariners,Shawn Armstrong,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Cal Raleigh,Seattle Mariners,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Cal Raleigh,Seattle Mariners,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Cal Raleigh,Seattle Mariners,Tyler Glasnow,Tampa Bay Rays,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+23,Cal Raleigh,Seattle Mariners,Shane McClanahan,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+24,Cal Raleigh,Seattle Mariners,Colin Poche,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+25,Cal Raleigh,Seattle Mariners,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Cal Raleigh,Seattle Mariners,Brayan Bello,Boston Red Sox,1,1,1,0,0,0,2,0,0,1.000,1.000,2.000,3.000
+27,Cal Raleigh,Seattle Mariners,Brennan Bernardino,Boston Red Sox,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+28,Cal Raleigh,Seattle Mariners,Richard Bleier,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+29,Cal Raleigh,Seattle Mariners,Tanner Houck,Boston Red Sox,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+30,Cal Raleigh,Seattle Mariners,Nick Pivetta,Boston Red Sox,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+31,Cal Raleigh,Seattle Mariners,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Cal Raleigh,Seattle Mariners,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Cal Raleigh,Seattle Mariners,Pablo Reyes,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Cal Raleigh,Seattle Mariners,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Cal Raleigh,Seattle Mariners,Miles Mikolas,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+36,Cal Raleigh,Seattle Mariners,Jack Flaherty,St. Louis Cardinals,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+37,Cal Raleigh,Seattle Mariners,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Cal Raleigh,Seattle Mariners,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Cal Raleigh,Seattle Mariners,Anthony Bass,Toronto Blue Jays,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+40,Cal Raleigh,Seattle Mariners,Zach Pop,Toronto Blue Jays,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+41,Cal Raleigh,Seattle Mariners,Alek Manoah,Toronto Blue Jays,5,3,0,0,1,2,1,0,1,.600,.667,1.200,1.867
+42,Cal Raleigh,Seattle Mariners,Kevin Gausman,Toronto Blue Jays,5,2,0,0,2,2,0,0,3,.400,.400,1.600,2.000
+43,Cal Raleigh,Seattle Mariners,Chris Bassitt,Toronto Blue Jays,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+44,Cal Raleigh,Seattle Mariners,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Cal Raleigh,Seattle Mariners,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Cal Raleigh,Seattle Mariners,Trevor Richards,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Cal Raleigh,Seattle Mariners,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Cal Raleigh,Seattle Mariners,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Cal Raleigh,Seattle Mariners,Keegan Akin,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+50,Cal Raleigh,Seattle Mariners,Kyle Bradish,Baltimore Orioles,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+51,Cal Raleigh,Seattle Mariners,Kyle Gibson,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+52,Cal Raleigh,Seattle Mariners,Dean Kremer,Baltimore Orioles,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+53,Cal Raleigh,Seattle Mariners,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Cal Raleigh,Seattle Mariners,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Cal Raleigh,Seattle Mariners,Logan Gillaspie,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Cal Raleigh,Seattle Mariners,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Cal Raleigh,Seattle Mariners,Connor Brogdon,Philadelphia Phillies,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+58,Cal Raleigh,Seattle Mariners,Bailey Falter,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Cal Raleigh,Seattle Mariners,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Cal Raleigh,Seattle Mariners,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Cal Raleigh,Seattle Mariners,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Cal Raleigh,Seattle Mariners,Taijuan Walker,Philadelphia Phillies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+63,Cal Raleigh,Seattle Mariners,Hayden Wesneski,Chicago Cubs,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+64,Cal Raleigh,Seattle Mariners,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Cal Raleigh,Seattle Mariners,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Cal Raleigh,Seattle Mariners,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Cal Raleigh,Seattle Mariners,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Cal Raleigh,Seattle Mariners,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Cal Raleigh,Seattle Mariners,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Cal Raleigh,Seattle Mariners,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+71,Cal Raleigh,Seattle Mariners,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Cal Raleigh,Seattle Mariners,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Cal Raleigh,Seattle Mariners,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Cal Raleigh,Seattle Mariners,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+75,Cal Raleigh,Seattle Mariners,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Cal Raleigh,Seattle Mariners,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Cal Raleigh,Seattle Mariners,Seth Martinez,Houston Astros,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+78,Cal Raleigh,Seattle Mariners,Phil Maton,Houston Astros,4,2,1,0,0,1,0,0,0,.500,.500,.750,1.250
+79,Cal Raleigh,Seattle Mariners,Rafael Montero,Houston Astros,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+80,Cal Raleigh,Seattle Mariners,Cristian Javier,Houston Astros,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+81,Cal Raleigh,Seattle Mariners,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Cal Raleigh,Seattle Mariners,Brandon Bielak,Houston Astros,5,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Cal Raleigh,Seattle Mariners,Ronel Blanco,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+84,Cal Raleigh,Seattle Mariners,Hunter Brown,Houston Astros,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+85,Cal Raleigh,Seattle Mariners,J.P. France,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Cal Raleigh,Seattle Mariners,Hector Neris,Houston Astros,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+87,Cal Raleigh,Seattle Mariners,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Cal Raleigh,Seattle Mariners,Sonny Gray,Minnesota Twins,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+89,Cal Raleigh,Seattle Mariners,Jorge Lopez,Minnesota Twins,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+90,Cal Raleigh,Seattle Mariners,Pablo Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Cal Raleigh,Seattle Mariners,Bailey Ober,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Cal Raleigh,Seattle Mariners,Oliver Ortega,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Cal Raleigh,Seattle Mariners,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Cal Raleigh,Seattle Mariners,Jake Irvin,Washington Nationals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+95,Cal Raleigh,Seattle Mariners,Cory Abbott,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Cal Raleigh,Seattle Mariners,Hunter Harvey,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Cal Raleigh,Seattle Mariners,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Cal Raleigh,Seattle Mariners,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Cal Raleigh,Seattle Mariners,Trevor Williams,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Cal Raleigh,Seattle Mariners,Tanner Scott,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+101,Cal Raleigh,Seattle Mariners,Edward Cabrera,Miami Marlins,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+102,Cal Raleigh,Seattle Mariners,Eury Perez,Miami Marlins,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+103,Cal Raleigh,Seattle Mariners,Archie Bradley,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+104,Cal Raleigh,Seattle Mariners,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Cal Raleigh,Seattle Mariners,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Cal Raleigh,Seattle Mariners,Alex Cobb,San Francisco Giants,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+107,Cal Raleigh,Seattle Mariners,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Cal Raleigh,Seattle Mariners,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Cal Raleigh,Seattle Mariners,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Cal Raleigh,Seattle Mariners,Logan Webb,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+111,Cal Raleigh,Seattle Mariners,Ryan Feltner,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+112,Cal Raleigh,Seattle Mariners,Noah Davis,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Cal Raleigh,Seattle Mariners,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Cal Raleigh,Seattle Mariners,Dinelson Lamet,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+115,Cal Raleigh,Seattle Mariners,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Cal Raleigh,Seattle Mariners,Connor Seabold,Colorado Rockies,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+117,Cal Raleigh,Seattle Mariners,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Cal Raleigh,Seattle Mariners,Michael King,New York Yankees,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+119,Cal Raleigh,Seattle Mariners,Ron Marinaccio,New York Yankees,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+120,Cal Raleigh,Seattle Mariners,Gerrit Cole,New York Yankees,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+121,Cal Raleigh,Seattle Mariners,Domingo German,New York Yankees,6,2,0,0,1,1,0,0,0,.333,.333,.833,1.166
+122,Cal Raleigh,Seattle Mariners,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Cal Raleigh,Seattle Mariners,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Cal Raleigh,Seattle Mariners,Isiah Kiner-Falefa,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Cal Raleigh,Seattle Mariners,Wandy Peralta,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Cal Raleigh,Seattle Mariners,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Cal Raleigh,Seattle Mariners,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Cal Raleigh,Seattle Mariners,Ryan Weber,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Cal Raleigh,Seattle Mariners,Hunter Gaddis,Cleveland Guardians,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+130,Cal Raleigh,Seattle Mariners,Cal Quantrill,Cleveland Guardians,5,2,1,0,0,2,1,0,1,.400,.500,.600,1.100
+131,Cal Raleigh,Seattle Mariners,Shane Bieber,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+132,Cal Raleigh,Seattle Mariners,Aaron Civale,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+133,Cal Raleigh,Seattle Mariners,Zach Plesac,Cleveland Guardians,3,1,0,0,1,2,0,0,2,.333,.333,1.333,1.666
+134,Cal Raleigh,Seattle Mariners,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Cal Raleigh,Seattle Mariners,Xzavion Curry,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+136,Cal Raleigh,Seattle Mariners,Enyel De Los Santos,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Cal Raleigh,Seattle Mariners,Tim Herrin,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+138,Cal Raleigh,Seattle Mariners,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Cal Raleigh,Seattle Mariners,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Cal Raleigh,Seattle Mariners,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,1,1,0,.000,.500,.000,.500
+141,Cal Raleigh,Seattle Mariners,Trevor Stephan,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Cal Raleigh,Seattle Mariners,Vince Velasquez,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+143,Cal Raleigh,Seattle Mariners,Mitch Keller,Pittsburgh Pirates,3,2,2,0,0,0,0,0,0,.667,.667,1.333,2.000
+144,Cal Raleigh,Seattle Mariners,Luis L. Ortiz,Pittsburgh Pirates,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+145,Cal Raleigh,Seattle Mariners,Jose Hernandez,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Cal Raleigh,Seattle Mariners,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+147,Cal Raleigh,Seattle Mariners,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Cal Raleigh,Seattle Mariners,Yohan Ramirez,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+149,Cal Raleigh,Seattle Mariners,Lance Lynn,Chicago White Sox,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+150,Cal Raleigh,Seattle Mariners,Tanner Banks,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+151,Cal Raleigh,Seattle Mariners,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Cal Raleigh,Seattle Mariners,Michael Kopech,Chicago White Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+153,Cal Raleigh,Seattle Mariners,Corbin Burnes,Milwaukee Brewers,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+154,Cal Raleigh,Seattle Mariners,Bryse Wilson,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+155,Cal Raleigh,Seattle Mariners,Colin Rea,Milwaukee Brewers,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+156,Cal Raleigh,Seattle Mariners,Matt Bush,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,Cal Raleigh,Seattle Mariners,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+158,Cal Raleigh,Seattle Mariners,Peter Strzelecki,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Cal Raleigh,Seattle Mariners,Jason Foley,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+160,Cal Raleigh,Seattle Mariners,Reese Olson,Detroit Tigers,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+161,Cal Raleigh,Seattle Mariners,Alex Faedo,Detroit Tigers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+162,Cal Raleigh,Seattle Mariners,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+163,Cal Raleigh,Seattle Mariners,Alex Lange,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+164,Cal Raleigh,Seattle Mariners,Michael Lorenzen,Detroit Tigers,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+165,Cal Raleigh,Seattle Mariners,Chasen Shreve,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Cal Raleigh,Seattle Mariners,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Cal Raleigh,Seattle Mariners,Ken Waldichuk,Oakland Athletics,2,2,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+168,Cal Raleigh,Seattle Mariners,Kyle Muller,Oakland Athletics,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+169,Cal Raleigh,Seattle Mariners,Domingo Acevedo,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Cal Raleigh,Seattle Mariners,Garrett Acton,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Cal Raleigh,Seattle Mariners,Shintaro Fujinami,Oakland Athletics,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+172,Cal Raleigh,Seattle Mariners,Zach Jackson,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Cal Raleigh,Seattle Mariners,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Cal Raleigh,Seattle Mariners,Adrian Martinez,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+175,Cal Raleigh,Seattle Mariners,Trevor May,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Cal Raleigh,Seattle Mariners,Luis Medina,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+177,Cal Raleigh,Seattle Mariners,Mason Miller,Oakland Athletics,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+178,Cal Raleigh,Seattle Mariners,Adam Oller,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+179,Cal Raleigh,Seattle Mariners,Spencer Patton,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Cal Raleigh,Seattle Mariners,Austin Pruitt,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Cal Raleigh,Seattle Mariners,Drew Rucinski,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+182,Cal Raleigh,Seattle Mariners,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

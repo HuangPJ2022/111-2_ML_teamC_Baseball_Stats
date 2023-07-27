@@ -1,0 +1,216 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Marcus Semien,Texas Rangers,Jesse Chavez,Atlanta Braves,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+1,Marcus Semien,Texas Rangers,Dylan Lee,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+2,Marcus Semien,Texas Rangers,Danny Young,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+3,Marcus Semien,Texas Rangers,Charlie Morton,Atlanta Braves,4,2,0,0,0,0,0,0,0,.500,.500,.500,1.000
+4,Marcus Semien,Texas Rangers,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Marcus Semien,Texas Rangers,Jared Shuster,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Marcus Semien,Texas Rangers,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Marcus Semien,Texas Rangers,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Marcus Semien,Texas Rangers,Tony Gonsolin,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Marcus Semien,Texas Rangers,Jimmy Herget,Los Angeles Angels,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+10,Marcus Semien,Texas Rangers,Jose Suarez,Los Angeles Angels,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+11,Marcus Semien,Texas Rangers,Reid Detmers,Los Angeles Angels,6,2,0,0,0,1,0,0,2,.333,.333,.333,.666
+12,Marcus Semien,Texas Rangers,Chris Devenski,Los Angeles Angels,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+13,Marcus Semien,Texas Rangers,Jaime Barria,Los Angeles Angels,5,1,0,0,0,0,0,0,0,.200,.200,.200,.400
+14,Marcus Semien,Texas Rangers,Tyler Anderson,Los Angeles Angels,6,1,1,0,0,1,1,0,1,.167,.286,.333,.619
+15,Marcus Semien,Texas Rangers,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Marcus Semien,Texas Rangers,Tucker Davidson,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Marcus Semien,Texas Rangers,Carlos Estevez,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+18,Marcus Semien,Texas Rangers,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Marcus Semien,Texas Rangers,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+20,Marcus Semien,Texas Rangers,Brett Phillips,Los Angeles Angels,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+21,Marcus Semien,Texas Rangers,Chase Silseth,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Marcus Semien,Texas Rangers,Andrew Wantz,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+23,Marcus Semien,Texas Rangers,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+24,Marcus Semien,Texas Rangers,Jalen Beeks,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+25,Marcus Semien,Texas Rangers,Javy Guerra,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Marcus Semien,Texas Rangers,Taj Bradley,Tampa Bay Rays,6,3,0,0,1,1,0,0,0,.500,.500,1.000,1.500
+27,Marcus Semien,Texas Rangers,Shane McClanahan,Tampa Bay Rays,6,2,1,0,0,1,0,0,0,.333,.333,.500,.833
+28,Marcus Semien,Texas Rangers,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Marcus Semien,Texas Rangers,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Marcus Semien,Texas Rangers,Tyler Glasnow,Tampa Bay Rays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+31,Marcus Semien,Texas Rangers,Zack Littell,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Marcus Semien,Texas Rangers,Jose Lopez,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Marcus Semien,Texas Rangers,Luis Patino,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Marcus Semien,Texas Rangers,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+35,Marcus Semien,Texas Rangers,Brayan Bello,Boston Red Sox,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Marcus Semien,Texas Rangers,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Marcus Semien,Texas Rangers,Kutter Crawford,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Marcus Semien,Texas Rangers,Justin Garza,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+39,Marcus Semien,Texas Rangers,Chris Murphy,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Marcus Semien,Texas Rangers,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Marcus Semien,Texas Rangers,Brandon Walter,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Marcus Semien,Texas Rangers,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Marcus Semien,Texas Rangers,Andre Pallante,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+44,Marcus Semien,Texas Rangers,Matthew Liberatore,St. Louis Cardinals,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+45,Marcus Semien,Texas Rangers,Adam Wainwright,St. Louis Cardinals,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+46,Marcus Semien,Texas Rangers,Genesis Cabrera,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+47,Marcus Semien,Texas Rangers,Jack Flaherty,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Marcus Semien,Texas Rangers,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Marcus Semien,Texas Rangers,Steven Matz,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Marcus Semien,Texas Rangers,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Marcus Semien,Texas Rangers,Zac Gallen,Arizona Diamondbacks,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+52,Marcus Semien,Texas Rangers,Brandon Pfaadt,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+53,Marcus Semien,Texas Rangers,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Marcus Semien,Texas Rangers,Kyle Nelson,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+55,Marcus Semien,Texas Rangers,Jose Ruiz,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+56,Marcus Semien,Texas Rangers,Nick Lodolo,Cincinnati Reds,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+57,Marcus Semien,Texas Rangers,Luke Weaver,Cincinnati Reds,3,1,0,0,1,1,1,0,0,.333,.500,1.333,1.833
+58,Marcus Semien,Texas Rangers,Graham Ashcraft,Cincinnati Reds,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+59,Marcus Semien,Texas Rangers,Alexis Diaz,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Marcus Semien,Texas Rangers,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Marcus Semien,Texas Rangers,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Marcus Semien,Texas Rangers,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Marcus Semien,Texas Rangers,Adam Cimber,Toronto Blue Jays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+64,Marcus Semien,Texas Rangers,Kevin Gausman,Toronto Blue Jays,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+65,Marcus Semien,Texas Rangers,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Marcus Semien,Texas Rangers,Bowden Francis,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Marcus Semien,Texas Rangers,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Marcus Semien,Texas Rangers,Nate Pearson,Toronto Blue Jays,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+69,Marcus Semien,Texas Rangers,Trevor Richards,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Marcus Semien,Texas Rangers,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Marcus Semien,Texas Rangers,Keegan Akin,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+72,Marcus Semien,Texas Rangers,Bryan Baker,Baltimore Orioles,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+73,Marcus Semien,Texas Rangers,Cionel Perez,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+74,Marcus Semien,Texas Rangers,Kyle Bradish,Baltimore Orioles,4,1,1,0,0,1,0,0,2,.250,.250,.500,.750
+75,Marcus Semien,Texas Rangers,Grayson Rodriguez,Baltimore Orioles,5,1,0,0,0,0,1,0,1,.200,.333,.200,.533
+76,Marcus Semien,Texas Rangers,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Marcus Semien,Texas Rangers,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Marcus Semien,Texas Rangers,Kyle Gibson,Baltimore Orioles,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Marcus Semien,Texas Rangers,Logan Gillaspie,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Marcus Semien,Texas Rangers,Dean Kremer,Baltimore Orioles,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Marcus Semien,Texas Rangers,Austin Voth,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Marcus Semien,Texas Rangers,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Marcus Semien,Texas Rangers,Andrew Vasquez,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+84,Marcus Semien,Texas Rangers,Bailey Falter,Philadelphia Phillies,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+85,Marcus Semien,Texas Rangers,Gregory Soto,Philadelphia Phillies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+86,Marcus Semien,Texas Rangers,Zack Wheeler,Philadelphia Phillies,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+87,Marcus Semien,Texas Rangers,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Marcus Semien,Texas Rangers,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Marcus Semien,Texas Rangers,Josh Harrison,Philadelphia Phillies,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+90,Marcus Semien,Texas Rangers,Aaron Nola,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Marcus Semien,Texas Rangers,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Marcus Semien,Texas Rangers,Michael Rucker,Chicago Cubs,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+93,Marcus Semien,Texas Rangers,Javier Assad,Chicago Cubs,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+94,Marcus Semien,Texas Rangers,Jameson Taillon,Chicago Cubs,3,1,1,0,0,2,0,0,1,.333,.333,.667,1.000
+95,Marcus Semien,Texas Rangers,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Marcus Semien,Texas Rangers,Justin Steele,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Marcus Semien,Texas Rangers,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Marcus Semien,Texas Rangers,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Marcus Semien,Texas Rangers,Parker Mushinski,Houston Astros,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+100,Marcus Semien,Texas Rangers,Hunter Brown,Houston Astros,6,4,0,0,0,2,0,0,0,.667,.667,.667,1.334
+101,Marcus Semien,Texas Rangers,Ronel Blanco,Houston Astros,4,2,1,0,0,0,1,0,0,.500,.600,.750,1.350
+102,Marcus Semien,Texas Rangers,Luis Garcia,Houston Astros,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+103,Marcus Semien,Texas Rangers,Hector Neris,Houston Astros,3,1,0,0,1,4,0,0,0,.333,.333,1.333,1.666
+104,Marcus Semien,Texas Rangers,Bryan Abreu,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Marcus Semien,Texas Rangers,Shawn Dubin,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+106,Marcus Semien,Texas Rangers,Cristian Javier,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Marcus Semien,Texas Rangers,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Marcus Semien,Texas Rangers,Rafael Montero,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+109,Marcus Semien,Texas Rangers,Ryne Stanek,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+110,Marcus Semien,Texas Rangers,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Marcus Semien,Texas Rangers,Patrick Corbin,Washington Nationals,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+112,Marcus Semien,Texas Rangers,Trevor Williams,Washington Nationals,3,1,1,0,0,0,1,0,1,.333,.500,.667,1.167
+113,Marcus Semien,Texas Rangers,Joan Adon,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Marcus Semien,Texas Rangers,Jose A. Ferrer,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+115,Marcus Semien,Texas Rangers,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Marcus Semien,Texas Rangers,Jake Irvin,Washington Nationals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+117,Marcus Semien,Texas Rangers,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Marcus Semien,Texas Rangers,Matt Carasiti,Colorado Rockies,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+119,Marcus Semien,Texas Rangers,Kyle Freeland,Colorado Rockies,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+120,Marcus Semien,Texas Rangers,Fernando Abad,Colorado Rockies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+121,Marcus Semien,Texas Rangers,Connor Seabold,Colorado Rockies,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+122,Marcus Semien,Texas Rangers,Karl Kauffmann,Colorado Rockies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+123,Marcus Semien,Texas Rangers,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Marcus Semien,Texas Rangers,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Marcus Semien,Texas Rangers,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Marcus Semien,Texas Rangers,Luis Severino,New York Yankees,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+127,Marcus Semien,Texas Rangers,Gerrit Cole,New York Yankees,6,3,2,0,0,0,0,0,1,.500,.500,.833,1.333
+128,Marcus Semien,Texas Rangers,Jimmy Cordero,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+129,Marcus Semien,Texas Rangers,Wandy Peralta,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+130,Marcus Semien,Texas Rangers,Clarke Schmidt,New York Yankees,5,1,1,0,0,1,1,0,0,.200,.333,.400,.733
+131,Marcus Semien,Texas Rangers,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Marcus Semien,Texas Rangers,Jhony Brito,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Marcus Semien,Texas Rangers,Nestor Cortes,New York Yankees,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+134,Marcus Semien,Texas Rangers,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Marcus Semien,Texas Rangers,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Marcus Semien,Texas Rangers,Michael King,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+137,Marcus Semien,Texas Rangers,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Marcus Semien,Texas Rangers,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Marcus Semien,Texas Rangers,Bryan Woo,Seattle Mariners,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+140,Marcus Semien,Texas Rangers,Matt Brash,Seattle Mariners,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+141,Marcus Semien,Texas Rangers,Chris Flexen,Seattle Mariners,2,1,0,0,1,3,0,0,1,.500,.500,2.000,2.500
+142,Marcus Semien,Texas Rangers,Trevor Gott,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+143,Marcus Semien,Texas Rangers,Bryce Miller,Seattle Mariners,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+144,Marcus Semien,Texas Rangers,Tayler Saucedo,Seattle Mariners,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+145,Marcus Semien,Texas Rangers,Luis Castillo,Seattle Mariners,6,2,0,0,1,1,0,0,2,.333,.333,.833,1.166
+146,Marcus Semien,Texas Rangers,Logan Gilbert,Seattle Mariners,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+147,Marcus Semien,Texas Rangers,Matt Festa,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+148,Marcus Semien,Texas Rangers,Mike Ford,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Marcus Semien,Texas Rangers,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+150,Marcus Semien,Texas Rangers,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Marcus Semien,Texas Rangers,Justin Topa,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+152,Marcus Semien,Texas Rangers,Xzavion Curry,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+153,Marcus Semien,Texas Rangers,Tanner Bibee,Cleveland Guardians,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+154,Marcus Semien,Texas Rangers,Gavin Williams,Cleveland Guardians,2,1,0,0,0,1,0,0,0,.500,.333,.500,.833
+155,Marcus Semien,Texas Rangers,Aaron Civale,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Marcus Semien,Texas Rangers,Sam Hentges,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+157,Marcus Semien,Texas Rangers,Cody Morris,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Marcus Semien,Texas Rangers,Trevor Stephan,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+159,Marcus Semien,Texas Rangers,Rich Hill,Pittsburgh Pirates,3,1,0,1,0,0,0,0,1,.333,.333,1.000,1.333
+160,Marcus Semien,Texas Rangers,Johan Oviedo,Pittsburgh Pirates,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+161,Marcus Semien,Texas Rangers,Luis L. Ortiz,Pittsburgh Pirates,4,1,0,0,0,1,0,0,0,.250,.250,.250,.500
+162,Marcus Semien,Texas Rangers,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Marcus Semien,Texas Rangers,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Marcus Semien,Texas Rangers,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+165,Marcus Semien,Texas Rangers,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Marcus Semien,Texas Rangers,Aaron Bummer,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+167,Marcus Semien,Texas Rangers,Dylan Cease,Chicago White Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+168,Marcus Semien,Texas Rangers,Michael Kopech,Chicago White Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+169,Marcus Semien,Texas Rangers,Tanner Banks,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Marcus Semien,Texas Rangers,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Marcus Semien,Texas Rangers,Keynan Middleton,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+172,Marcus Semien,Texas Rangers,Nicholas Padilla,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,Marcus Semien,Texas Rangers,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Marcus Semien,Texas Rangers,Touki Toussaint,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Marcus Semien,Texas Rangers,Jose Cisnero,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+176,Marcus Semien,Texas Rangers,Reese Olson,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+177,Marcus Semien,Texas Rangers,Tyler Alexander,Detroit Tigers,4,2,0,0,0,0,0,0,0,.500,.500,.500,1.000
+178,Marcus Semien,Texas Rangers,Brendan White,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+179,Marcus Semien,Texas Rangers,Matthew Boyd,Detroit Tigers,3,1,0,0,1,1,1,0,1,.333,.500,1.333,1.833
+180,Marcus Semien,Texas Rangers,Alex Faedo,Detroit Tigers,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+181,Marcus Semien,Texas Rangers,Matt Manning,Detroit Tigers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+182,Marcus Semien,Texas Rangers,Joey Wentz,Detroit Tigers,6,2,2,0,0,0,0,0,0,.333,.333,.667,1.000
+183,Marcus Semien,Texas Rangers,Braden Bristo,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Marcus Semien,Texas Rangers,Mason Englert,Detroit Tigers,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+185,Marcus Semien,Texas Rangers,Garrett Hill,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+186,Marcus Semien,Texas Rangers,Tyler Holton,Detroit Tigers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+187,Marcus Semien,Texas Rangers,Alex Lange,Detroit Tigers,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+188,Marcus Semien,Texas Rangers,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+189,Marcus Semien,Texas Rangers,Jose Cuas,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+190,Marcus Semien,Texas Rangers,Carlos Hernandez,Kansas City Royals,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+191,Marcus Semien,Texas Rangers,Brady Singer,Kansas City Royals,3,3,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+192,Marcus Semien,Texas Rangers,Jordan Lyles,Kansas City Royals,7,3,1,0,1,2,1,0,0,.429,.500,1.000,1.500
+193,Marcus Semien,Texas Rangers,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+194,Marcus Semien,Texas Rangers,Aroldis Chapman,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+195,Marcus Semien,Texas Rangers,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+196,Marcus Semien,Texas Rangers,Dylan Coleman,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+197,Marcus Semien,Texas Rangers,Zack Greinke,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+198,Marcus Semien,Texas Rangers,Brad Keller,Kansas City Royals,4,0,0,0,0,0,1,0,0,.000,.200,.000,.200
+199,Marcus Semien,Texas Rangers,Josh Staumont,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+200,Marcus Semien,Texas Rangers,Shintaro Fujinami,Oakland Athletics,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+201,Marcus Semien,Texas Rangers,Zach Jackson,Oakland Athletics,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+202,Marcus Semien,Texas Rangers,Kyle Muller,Oakland Athletics,1,1,0,0,0,0,2,0,0,1.000,1.000,1.000,2.000
+203,Marcus Semien,Texas Rangers,James Kaprielian,Oakland Athletics,2,1,0,0,0,1,0,0,0,.500,.333,.500,.833
+204,Marcus Semien,Texas Rangers,Adrian Martinez,Oakland Athletics,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+205,Marcus Semien,Texas Rangers,Sam Moll,Oakland Athletics,2,1,0,0,0,1,1,1,0,.500,.667,.500,1.167
+206,Marcus Semien,Texas Rangers,Luis Medina,Oakland Athletics,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+207,Marcus Semien,Texas Rangers,Garrett Acton,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+208,Marcus Semien,Texas Rangers,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+209,Marcus Semien,Texas Rangers,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+210,Marcus Semien,Texas Rangers,Zach Neal,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+211,Marcus Semien,Texas Rangers,Spencer Patton,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+212,Marcus Semien,Texas Rangers,JP Sears,Oakland Athletics,5,0,0,0,0,0,0,0,2,.000,.167,.000,.167
+213,Marcus Semien,Texas Rangers,Chad Smith,Oakland Athletics,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+214,Marcus Semien,Texas Rangers,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333

@@ -1,0 +1,128 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jason Heyward,Los Angeles Dodgers,Spencer Strider,Atlanta Braves,2,2,0,0,1,1,1,0,0,1.000,1.000,2.500,3.500
+1,Jason Heyward,Los Angeles Dodgers,Bryce Elder,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+2,Jason Heyward,Los Angeles Dodgers,Nick Anderson,Atlanta Braves,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+3,Jason Heyward,Los Angeles Dodgers,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Jason Heyward,Los Angeles Dodgers,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Jason Heyward,Los Angeles Dodgers,Dane Dunning,Texas Rangers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+6,Jason Heyward,Los Angeles Dodgers,Brad Miller,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Jason Heyward,Los Angeles Dodgers,Glenn Otto,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Jason Heyward,Los Angeles Dodgers,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Jason Heyward,Los Angeles Dodgers,Shohei Ohtani,Los Angeles Angels,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+10,Jason Heyward,Los Angeles Dodgers,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Jason Heyward,Los Angeles Dodgers,Griffin Canning,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Jason Heyward,Los Angeles Dodgers,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Jason Heyward,Los Angeles Dodgers,Tyler Glasnow,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Jason Heyward,Los Angeles Dodgers,Jack Flaherty,St. Louis Cardinals,3,3,2,0,0,2,1,0,0,1.000,1.000,1.667,2.667
+15,Jason Heyward,Los Angeles Dodgers,Ryan Helsley,St. Louis Cardinals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+16,Jason Heyward,Los Angeles Dodgers,Jake Woodford,St. Louis Cardinals,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+17,Jason Heyward,Los Angeles Dodgers,Miles Mikolas,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+18,Jason Heyward,Los Angeles Dodgers,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Jason Heyward,Los Angeles Dodgers,Zack Thompson,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+20,Jason Heyward,Los Angeles Dodgers,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Jason Heyward,Los Angeles Dodgers,Scott McGough,Arizona Diamondbacks,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+22,Jason Heyward,Los Angeles Dodgers,Zach Davies,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+23,Jason Heyward,Los Angeles Dodgers,Merrill Kelly,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+24,Jason Heyward,Los Angeles Dodgers,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Jason Heyward,Los Angeles Dodgers,Cole Sulser,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Jason Heyward,Los Angeles Dodgers,Carlos Vargas,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Jason Heyward,Los Angeles Dodgers,Luke Weaver,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+28,Jason Heyward,Los Angeles Dodgers,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Jason Heyward,Los Angeles Dodgers,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Jason Heyward,Los Angeles Dodgers,Brandon Williamson,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Jason Heyward,Los Angeles Dodgers,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Jason Heyward,Los Angeles Dodgers,Tyler Wells,Baltimore Orioles,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+33,Jason Heyward,Los Angeles Dodgers,Bryan Baker,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+34,Jason Heyward,Los Angeles Dodgers,Dean Kremer,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+35,Jason Heyward,Los Angeles Dodgers,Grayson Rodriguez,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Jason Heyward,Los Angeles Dodgers,Seranthony Dominguez,Philadelphia Phillies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+37,Jason Heyward,Los Angeles Dodgers,Yunior Marte,Philadelphia Phillies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+38,Jason Heyward,Los Angeles Dodgers,Taijuan Walker,Philadelphia Phillies,4,1,0,0,1,1,0,0,2,.250,.250,1.000,1.250
+39,Jason Heyward,Los Angeles Dodgers,Aaron Nola,Philadelphia Phillies,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+40,Jason Heyward,Los Angeles Dodgers,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Jason Heyward,Los Angeles Dodgers,Luis F. Ortiz,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+42,Jason Heyward,Los Angeles Dodgers,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Jason Heyward,Los Angeles Dodgers,Marcus Stroman,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+44,Jason Heyward,Los Angeles Dodgers,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+45,Jason Heyward,Los Angeles Dodgers,Jeremiah Estrada,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Jason Heyward,Los Angeles Dodgers,Michael Fulmer,Chicago Cubs,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+47,Jason Heyward,Los Angeles Dodgers,Brandon Hughes,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Jason Heyward,Los Angeles Dodgers,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Jason Heyward,Los Angeles Dodgers,Jameson Taillon,Chicago Cubs,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+50,Jason Heyward,Los Angeles Dodgers,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Jason Heyward,Los Angeles Dodgers,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Jason Heyward,Los Angeles Dodgers,Ronel Blanco,Houston Astros,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+53,Jason Heyward,Los Angeles Dodgers,Bryan Abreu,Houston Astros,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+54,Jason Heyward,Los Angeles Dodgers,Hunter Brown,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Jason Heyward,Los Angeles Dodgers,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+56,Jason Heyward,Los Angeles Dodgers,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Jason Heyward,Los Angeles Dodgers,Yu Darvish,San Diego Padres,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+58,Jason Heyward,Los Angeles Dodgers,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Jason Heyward,Los Angeles Dodgers,Joe Musgrove,San Diego Padres,4,0,0,0,0,0,1,0,2,.000,.200,.000,.200
+60,Jason Heyward,Los Angeles Dodgers,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Jason Heyward,Los Angeles Dodgers,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Jason Heyward,Los Angeles Dodgers,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Jason Heyward,Los Angeles Dodgers,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Jason Heyward,Los Angeles Dodgers,Pablo Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Jason Heyward,Los Angeles Dodgers,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Jason Heyward,Los Angeles Dodgers,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+67,Jason Heyward,Los Angeles Dodgers,Emilio Pagan,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+68,Jason Heyward,Los Angeles Dodgers,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Jason Heyward,Los Angeles Dodgers,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Jason Heyward,Los Angeles Dodgers,Camilo Doval,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Jason Heyward,Los Angeles Dodgers,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Jason Heyward,Los Angeles Dodgers,Logan Webb,San Francisco Giants,6,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+73,Jason Heyward,Los Angeles Dodgers,Max Scherzer,New York Mets,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+74,Jason Heyward,Los Angeles Dodgers,Jimmy Yacabonis,New York Mets,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+75,Jason Heyward,Los Angeles Dodgers,Tylor Megill,New York Mets,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+76,Jason Heyward,Los Angeles Dodgers,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Jason Heyward,Los Angeles Dodgers,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Jason Heyward,Los Angeles Dodgers,David Peterson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Jason Heyward,Los Angeles Dodgers,Denyi Reyes,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+80,Jason Heyward,Los Angeles Dodgers,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Jason Heyward,Los Angeles Dodgers,Kodai Senga,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+82,Jason Heyward,Los Angeles Dodgers,Justin Verlander,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+83,Jason Heyward,Los Angeles Dodgers,Jake Irvin,Washington Nationals,2,2,0,0,1,2,1,0,0,1.000,1.000,2.500,3.500
+84,Jason Heyward,Los Angeles Dodgers,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Jason Heyward,Los Angeles Dodgers,Andres Machado,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+86,Jason Heyward,Los Angeles Dodgers,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Jason Heyward,Los Angeles Dodgers,Trevor Williams,Washington Nationals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+88,Jason Heyward,Los Angeles Dodgers,Daniel Bard,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+89,Jason Heyward,Los Angeles Dodgers,Jake Bird,Colorado Rockies,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+90,Jason Heyward,Los Angeles Dodgers,Matt Carasiti,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+91,Jason Heyward,Los Angeles Dodgers,Peter Lambert,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+92,Jason Heyward,Los Angeles Dodgers,Connor Seabold,Colorado Rockies,1,1,1,0,0,1,0,0,0,1.000,.667,2.000,2.667
+93,Jason Heyward,Los Angeles Dodgers,Chase Anderson,Colorado Rockies,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+94,Jason Heyward,Los Angeles Dodgers,Ryan Feltner,Colorado Rockies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+95,Jason Heyward,Los Angeles Dodgers,German Marquez,Colorado Rockies,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+96,Jason Heyward,Los Angeles Dodgers,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Jason Heyward,Los Angeles Dodgers,Gavin Hollowell,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Jason Heyward,Los Angeles Dodgers,Matt Koch,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Jason Heyward,Los Angeles Dodgers,Justin Lawrence,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Jason Heyward,Los Angeles Dodgers,Tommy Kahnle,New York Yankees,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+101,Jason Heyward,Los Angeles Dodgers,Luis Severino,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+102,Jason Heyward,Los Angeles Dodgers,Gerrit Cole,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+103,Jason Heyward,Los Angeles Dodgers,Ryan Weber,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Jason Heyward,Los Angeles Dodgers,Luis L. Ortiz,Pittsburgh Pirates,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+105,Jason Heyward,Los Angeles Dodgers,Mitch Keller,Pittsburgh Pirates,6,3,1,0,0,1,0,0,0,.500,.500,.667,1.167
+106,Jason Heyward,Los Angeles Dodgers,Osvaldo Bido,Pittsburgh Pirates,0,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+107,Jason Heyward,Los Angeles Dodgers,Ryan Borucki,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Jason Heyward,Los Angeles Dodgers,Roansy Contreras,Pittsburgh Pirates,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+109,Jason Heyward,Los Angeles Dodgers,Yerry De Los Santos,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Jason Heyward,Los Angeles Dodgers,Dauri Moreta,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Jason Heyward,Los Angeles Dodgers,Johan Oviedo,Pittsburgh Pirates,4,0,0,0,0,0,1,0,2,.000,.200,.000,.200
+112,Jason Heyward,Los Angeles Dodgers,Gregory Santos,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+113,Jason Heyward,Los Angeles Dodgers,Lance Lynn,Chicago White Sox,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+114,Jason Heyward,Los Angeles Dodgers,Dylan Cease,Chicago White Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+115,Jason Heyward,Los Angeles Dodgers,Mike Clevinger,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Jason Heyward,Los Angeles Dodgers,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Jason Heyward,Los Angeles Dodgers,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Jason Heyward,Los Angeles Dodgers,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Jason Heyward,Los Angeles Dodgers,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+120,Jason Heyward,Los Angeles Dodgers,Alec Marsh,Kansas City Royals,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+121,Jason Heyward,Los Angeles Dodgers,Nick Wittgren,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+122,Jason Heyward,Los Angeles Dodgers,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Jason Heyward,Los Angeles Dodgers,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Jason Heyward,Los Angeles Dodgers,Amir Garrett,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+125,Jason Heyward,Los Angeles Dodgers,Brooks Kriske,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Jason Heyward,Los Angeles Dodgers,Brady Singer,Kansas City Royals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333

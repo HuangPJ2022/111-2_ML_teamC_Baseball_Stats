@@ -1,0 +1,77 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jason Delay,Pittsburgh Pirates,Martin Perez,Texas Rangers,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+1,Jason Delay,Pittsburgh Pirates,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Jason Delay,Pittsburgh Pirates,Justin Bruihl,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+3,Jason Delay,Pittsburgh Pirates,Tony Gonsolin,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+4,Jason Delay,Pittsburgh Pirates,Alex Vesia,Los Angeles Dodgers,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+5,Jason Delay,Pittsburgh Pirates,Phil Bickford,Los Angeles Dodgers,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Jason Delay,Pittsburgh Pirates,Julio Urias,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Jason Delay,Pittsburgh Pirates,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Jason Delay,Pittsburgh Pirates,Kaleb Ort,Boston Red Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+9,Jason Delay,Pittsburgh Pirates,Kutter Crawford,Boston Red Sox,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+10,Jason Delay,Pittsburgh Pirates,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Jason Delay,Pittsburgh Pirates,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Jason Delay,Pittsburgh Pirates,Zack Kelly,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Jason Delay,Pittsburgh Pirates,Corey Kluber,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Jason Delay,Pittsburgh Pirates,Chris Stratton,St. Louis Cardinals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+15,Jason Delay,Pittsburgh Pirates,Jordan Montgomery,St. Louis Cardinals,3,1,0,0,0,0,1,0,1,.333,.500,.333,.833
+16,Jason Delay,Pittsburgh Pirates,Steven Matz,St. Louis Cardinals,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+17,Jason Delay,Pittsburgh Pirates,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Jason Delay,Pittsburgh Pirates,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Jason Delay,Pittsburgh Pirates,Tyler Gilbert,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+20,Jason Delay,Pittsburgh Pirates,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Jason Delay,Pittsburgh Pirates,Merrill Kelly,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Jason Delay,Pittsburgh Pirates,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Jason Delay,Pittsburgh Pirates,Hunter Greene,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+24,Jason Delay,Pittsburgh Pirates,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Jason Delay,Pittsburgh Pirates,Nate Pearson,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Jason Delay,Pittsburgh Pirates,Yusei Kikuchi,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+27,Jason Delay,Pittsburgh Pirates,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Jason Delay,Pittsburgh Pirates,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Jason Delay,Pittsburgh Pirates,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Jason Delay,Pittsburgh Pirates,Marcus Stroman,Chicago Cubs,4,2,0,0,0,0,0,0,0,.500,.500,.500,1.000
+31,Jason Delay,Pittsburgh Pirates,Anthony Kay,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Jason Delay,Pittsburgh Pirates,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Jason Delay,Pittsburgh Pirates,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Jason Delay,Pittsburgh Pirates,Cristian Javier,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+35,Jason Delay,Pittsburgh Pirates,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Jason Delay,Pittsburgh Pirates,Framber Valdez,Houston Astros,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+37,Jason Delay,Pittsburgh Pirates,Hobie Harris,Washington Nationals,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+38,Jason Delay,Pittsburgh Pirates,Lane Thomas,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+39,Jason Delay,Pittsburgh Pirates,Chad Kuhl,Washington Nationals,0,0,0,0,0,1,0,0,0,.000,.500,.000,.500
+40,Jason Delay,Pittsburgh Pirates,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Jason Delay,Pittsburgh Pirates,Tanner Scott,Miami Marlins,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+42,Jason Delay,Pittsburgh Pirates,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Jason Delay,Pittsburgh Pirates,Bryan Hoeing,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Jason Delay,Pittsburgh Pirates,Andrew Nardi,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+45,Jason Delay,Pittsburgh Pirates,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Jason Delay,Pittsburgh Pirates,Alex Wood,San Francisco Giants,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+47,Jason Delay,Pittsburgh Pirates,Sean Manaea,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+48,Jason Delay,Pittsburgh Pirates,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Jason Delay,Pittsburgh Pirates,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Jason Delay,Pittsburgh Pirates,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Jason Delay,Pittsburgh Pirates,Kodai Senga,New York Mets,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+52,Jason Delay,Pittsburgh Pirates,Jake Bird,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+53,Jason Delay,Pittsburgh Pirates,Ty Blach,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+54,Jason Delay,Pittsburgh Pirates,Austin Gomber,Colorado Rockies,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+55,Jason Delay,Pittsburgh Pirates,Harold Castro,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Jason Delay,Pittsburgh Pirates,Nick Mears,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+57,Jason Delay,Pittsburgh Pirates,Connor Seabold,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Jason Delay,Pittsburgh Pirates,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Jason Delay,Pittsburgh Pirates,Luis Castillo,Seattle Mariners,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+60,Jason Delay,Pittsburgh Pirates,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Jason Delay,Pittsburgh Pirates,Jake Diekman,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+62,Jason Delay,Pittsburgh Pirates,Lucas Giolito,Chicago White Sox,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+63,Jason Delay,Pittsburgh Pirates,Mike Clevinger,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Jason Delay,Pittsburgh Pirates,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Jason Delay,Pittsburgh Pirates,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Jason Delay,Pittsburgh Pirates,Jesse Scholtens,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Jason Delay,Pittsburgh Pirates,Clayton Andrews,Milwaukee Brewers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+68,Jason Delay,Pittsburgh Pirates,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Jason Delay,Pittsburgh Pirates,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Jason Delay,Pittsburgh Pirates,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+71,Jason Delay,Pittsburgh Pirates,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Jason Delay,Pittsburgh Pirates,Michael Lorenzen,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+73,Jason Delay,Pittsburgh Pirates,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Jason Delay,Pittsburgh Pirates,Hogan Harris,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Jason Delay,Pittsburgh Pirates,Ken Waldichuk,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

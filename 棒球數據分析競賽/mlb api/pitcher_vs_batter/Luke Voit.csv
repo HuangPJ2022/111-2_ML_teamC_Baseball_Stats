@@ -1,0 +1,53 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Luke Voit,Milwaukee Brewers,Brusdar Graterol,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Luke Voit,Milwaukee Brewers,Clayton Kershaw,Los Angeles Dodgers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+2,Luke Voit,Milwaukee Brewers,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Luke Voit,Milwaukee Brewers,Wander Suero,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Luke Voit,Milwaukee Brewers,Tyler Anderson,Los Angeles Angels,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Luke Voit,Milwaukee Brewers,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Luke Voit,Milwaukee Brewers,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Luke Voit,Milwaukee Brewers,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Luke Voit,Milwaukee Brewers,Chase Silseth,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+9,Luke Voit,Milwaukee Brewers,Jose Suarez,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+10,Luke Voit,Milwaukee Brewers,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Luke Voit,Milwaukee Brewers,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+12,Luke Voit,Milwaukee Brewers,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Luke Voit,Milwaukee Brewers,Luis Frias,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+14,Luke Voit,Milwaukee Brewers,Drey Jameson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+15,Luke Voit,Milwaukee Brewers,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Luke Voit,Milwaukee Brewers,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Luke Voit,Milwaukee Brewers,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Luke Voit,Milwaukee Brewers,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Luke Voit,Milwaukee Brewers,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Luke Voit,Milwaukee Brewers,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Luke Voit,Milwaukee Brewers,Justin Steele,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+22,Luke Voit,Milwaukee Brewers,Michael Wacha,San Diego Padres,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+23,Luke Voit,Milwaukee Brewers,Nabil Crismatt,San Diego Padres,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+24,Luke Voit,Milwaukee Brewers,Nick Martinez,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+25,Luke Voit,Milwaukee Brewers,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Luke Voit,Milwaukee Brewers,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Luke Voit,Milwaukee Brewers,Sean Manaea,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+28,Luke Voit,Milwaukee Brewers,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Luke Voit,Milwaukee Brewers,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Luke Voit,Milwaukee Brewers,Drew Smith,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+31,Luke Voit,Milwaukee Brewers,David Peterson,New York Mets,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+32,Luke Voit,Milwaukee Brewers,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Luke Voit,Milwaukee Brewers,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Luke Voit,Milwaukee Brewers,Daniel Bard,Colorado Rockies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+35,Luke Voit,Milwaukee Brewers,Kyle Freeland,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Luke Voit,Milwaukee Brewers,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Luke Voit,Milwaukee Brewers,Dinelson Lamet,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+38,Luke Voit,Milwaukee Brewers,Matt Brash,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+39,Luke Voit,Milwaukee Brewers,Chris Flexen,Seattle Mariners,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+40,Luke Voit,Milwaukee Brewers,Diego Castillo,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+41,Luke Voit,Milwaukee Brewers,Marco Gonzales,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Luke Voit,Milwaukee Brewers,Darren McCaughan,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Luke Voit,Milwaukee Brewers,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Luke Voit,Milwaukee Brewers,Max Castillo,Kansas City Royals,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+45,Luke Voit,Milwaukee Brewers,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Luke Voit,Milwaukee Brewers,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Luke Voit,Milwaukee Brewers,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Luke Voit,Milwaukee Brewers,Mason Englert,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+49,Luke Voit,Milwaukee Brewers,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Luke Voit,Milwaukee Brewers,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Luke Voit,Milwaukee Brewers,Jose Cisnero,Detroit Tigers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000

@@ -1,0 +1,88 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Nick Ahmed,Arizona Diamondbacks,Collin McHugh,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,Nick Ahmed,Arizona Diamondbacks,Charlie Morton,Atlanta Braves,5,2,2,0,0,1,1,0,2,.400,.500,.800,1.300
+2,Nick Ahmed,Arizona Diamondbacks,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Nick Ahmed,Arizona Diamondbacks,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Nick Ahmed,Arizona Diamondbacks,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Nick Ahmed,Arizona Diamondbacks,Yency Almonte,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+6,Nick Ahmed,Arizona Diamondbacks,Caleb Ferguson,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+7,Nick Ahmed,Arizona Diamondbacks,Michael Grove,Los Angeles Dodgers,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+8,Nick Ahmed,Arizona Diamondbacks,Julio Urias,Los Angeles Dodgers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+9,Nick Ahmed,Arizona Diamondbacks,Clayton Kershaw,Los Angeles Dodgers,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+10,Nick Ahmed,Arizona Diamondbacks,Phil Bickford,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+11,Nick Ahmed,Arizona Diamondbacks,Andre Jackson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Nick Ahmed,Arizona Diamondbacks,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Nick Ahmed,Arizona Diamondbacks,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Nick Ahmed,Arizona Diamondbacks,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Nick Ahmed,Arizona Diamondbacks,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Nick Ahmed,Arizona Diamondbacks,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+17,Nick Ahmed,Arizona Diamondbacks,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Nick Ahmed,Arizona Diamondbacks,Zach Eflin,Tampa Bay Rays,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+19,Nick Ahmed,Arizona Diamondbacks,Chris Sale,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Nick Ahmed,Arizona Diamondbacks,Jordan Montgomery,St. Louis Cardinals,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+21,Nick Ahmed,Arizona Diamondbacks,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Nick Ahmed,Arizona Diamondbacks,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Nick Ahmed,Arizona Diamondbacks,Brandon Williamson,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Nick Ahmed,Arizona Diamondbacks,Yusei Kikuchi,Toronto Blue Jays,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+25,Nick Ahmed,Arizona Diamondbacks,Ranger Suarez,Philadelphia Phillies,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+26,Nick Ahmed,Arizona Diamondbacks,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Nick Ahmed,Arizona Diamondbacks,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Nick Ahmed,Arizona Diamondbacks,Gregory Soto,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Nick Ahmed,Arizona Diamondbacks,Brent Honeywell,San Diego Padres,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+30,Nick Ahmed,Arizona Diamondbacks,Tim Hill,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+31,Nick Ahmed,Arizona Diamondbacks,Ryan Weathers,San Diego Padres,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+32,Nick Ahmed,Arizona Diamondbacks,Yu Darvish,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Nick Ahmed,Arizona Diamondbacks,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Nick Ahmed,Arizona Diamondbacks,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Nick Ahmed,Arizona Diamondbacks,Chi Chi Gonzalez,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+36,Nick Ahmed,Arizona Diamondbacks,A.J. Puk,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+37,Nick Ahmed,Arizona Diamondbacks,Matt Barnes,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+38,Nick Ahmed,Arizona Diamondbacks,Trevor Rogers,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+39,Nick Ahmed,Arizona Diamondbacks,Jesus Luzardo,Miami Marlins,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+40,Nick Ahmed,Arizona Diamondbacks,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Nick Ahmed,Arizona Diamondbacks,Braxton Garrett,Miami Marlins,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+42,Nick Ahmed,Arizona Diamondbacks,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Nick Ahmed,Arizona Diamondbacks,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Nick Ahmed,Arizona Diamondbacks,Patrick Corbin,Washington Nationals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+45,Nick Ahmed,Arizona Diamondbacks,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Nick Ahmed,Arizona Diamondbacks,MacKenzie Gore,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Nick Ahmed,Arizona Diamondbacks,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+48,Nick Ahmed,Arizona Diamondbacks,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Nick Ahmed,Arizona Diamondbacks,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Nick Ahmed,Arizona Diamondbacks,Ross Stripling,San Francisco Giants,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+51,Nick Ahmed,Arizona Diamondbacks,Jakob Junis,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+52,Nick Ahmed,Arizona Diamondbacks,Alex Wood,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+53,Nick Ahmed,Arizona Diamondbacks,Trevor Gott,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+54,Nick Ahmed,Arizona Diamondbacks,Drew Smith,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Nick Ahmed,Arizona Diamondbacks,Brooks Raley,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+56,Nick Ahmed,Arizona Diamondbacks,Max Scherzer,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Nick Ahmed,Arizona Diamondbacks,Kodai Senga,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Nick Ahmed,Arizona Diamondbacks,Kyle Freeland,Colorado Rockies,5,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Nick Ahmed,Arizona Diamondbacks,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Nick Ahmed,Arizona Diamondbacks,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Nick Ahmed,Arizona Diamondbacks,Nick Mears,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+62,Nick Ahmed,Arizona Diamondbacks,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Nick Ahmed,Arizona Diamondbacks,Tanner Bibee,Cleveland Guardians,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+64,Nick Ahmed,Arizona Diamondbacks,Eli Morgan,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+65,Nick Ahmed,Arizona Diamondbacks,Daniel Norris,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+66,Nick Ahmed,Arizona Diamondbacks,Yohan Ramirez,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+67,Nick Ahmed,Arizona Diamondbacks,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Nick Ahmed,Arizona Diamondbacks,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Nick Ahmed,Arizona Diamondbacks,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Nick Ahmed,Arizona Diamondbacks,Javy Guerra,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+71,Nick Ahmed,Arizona Diamondbacks,Bryse Wilson,Milwaukee Brewers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+72,Nick Ahmed,Arizona Diamondbacks,Wade Miley,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+73,Nick Ahmed,Arizona Diamondbacks,Matthew Boyd,Detroit Tigers,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+74,Nick Ahmed,Arizona Diamondbacks,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Nick Ahmed,Arizona Diamondbacks,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Nick Ahmed,Arizona Diamondbacks,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Nick Ahmed,Arizona Diamondbacks,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Nick Ahmed,Arizona Diamondbacks,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Nick Ahmed,Arizona Diamondbacks,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+80,Nick Ahmed,Arizona Diamondbacks,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Nick Ahmed,Arizona Diamondbacks,Ryan Yarbrough,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Nick Ahmed,Arizona Diamondbacks,Shintaro Fujinami,Oakland Athletics,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+83,Nick Ahmed,Arizona Diamondbacks,Garrett Acton,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Nick Ahmed,Arizona Diamondbacks,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Nick Ahmed,Arizona Diamondbacks,Kyle Muller,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Nick Ahmed,Arizona Diamondbacks,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

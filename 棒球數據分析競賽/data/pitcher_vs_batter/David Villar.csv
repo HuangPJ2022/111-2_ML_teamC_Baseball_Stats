@@ -1,0 +1,81 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,David Villar,San Francisco Giants,Bryan Hudson,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+1,David Villar,San Francisco Giants,Evan Phillips,Los Angeles Dodgers,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+2,David Villar,San Francisco Giants,Yency Almonte,Los Angeles Dodgers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+3,David Villar,San Francisco Giants,Caleb Ferguson,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,David Villar,San Francisco Giants,Clayton Kershaw,Los Angeles Dodgers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,David Villar,San Francisco Giants,Dustin May,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,David Villar,San Francisco Giants,Julio Urias,Los Angeles Dodgers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+7,David Villar,San Francisco Giants,Miles Mikolas,St. Louis Cardinals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+8,David Villar,San Francisco Giants,Jordan Montgomery,St. Louis Cardinals,5,1,1,0,0,0,0,0,1,.200,.333,.400,.733
+9,David Villar,San Francisco Giants,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,David Villar,San Francisco Giants,Jordan Hicks,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,David Villar,San Francisco Giants,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,David Villar,San Francisco Giants,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,David Villar,San Francisco Giants,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,David Villar,San Francisco Giants,Jake Woodford,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,David Villar,San Francisco Giants,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,David Villar,San Francisco Giants,Andrew Abbott,Cincinnati Reds,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,David Villar,San Francisco Giants,Graham Ashcraft,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+18,David Villar,San Francisco Giants,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,David Villar,San Francisco Giants,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,David Villar,San Francisco Giants,Steven Wilson,San Diego Padres,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+21,David Villar,San Francisco Giants,Seth Lugo,San Diego Padres,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+22,David Villar,San Francisco Giants,Blake Snell,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+23,David Villar,San Francisco Giants,Michael Wacha,San Diego Padres,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+24,David Villar,San Francisco Giants,Drew Carlton,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+25,David Villar,San Francisco Giants,Yu Darvish,San Diego Padres,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+26,David Villar,San Francisco Giants,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,David Villar,San Francisco Giants,Tim Hill,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,David Villar,San Francisco Giants,Ray Kerr,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,David Villar,San Francisco Giants,Nick Martinez,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,David Villar,San Francisco Giants,Brandon Bielak,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,David Villar,San Francisco Giants,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,David Villar,San Francisco Giants,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,David Villar,San Francisco Giants,Framber Valdez,Houston Astros,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+34,David Villar,San Francisco Giants,Patrick Corbin,Washington Nationals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+35,David Villar,San Francisco Giants,Rico Garcia,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,David Villar,San Francisco Giants,MacKenzie Gore,Washington Nationals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+37,David Villar,San Francisco Giants,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,David Villar,San Francisco Giants,Devin Smeltzer,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+39,David Villar,San Francisco Giants,Jesus Luzardo,Miami Marlins,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+40,David Villar,San Francisco Giants,Matt Barnes,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,David Villar,San Francisco Giants,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,David Villar,San Francisco Giants,Edward Cabrera,Miami Marlins,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+43,David Villar,San Francisco Giants,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,David Villar,San Francisco Giants,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,David Villar,San Francisco Giants,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,David Villar,San Francisco Giants,Trevor Rogers,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,David Villar,San Francisco Giants,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,David Villar,San Francisco Giants,Joey Lucchesi,New York Mets,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+49,David Villar,San Francisco Giants,David Peterson,New York Mets,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+50,David Villar,San Francisco Giants,Edwin Uceta,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+51,David Villar,San Francisco Giants,Michael King,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+52,David Villar,San Francisco Giants,Clarke Schmidt,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+53,David Villar,San Francisco Giants,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,David Villar,San Francisco Giants,Colten Brewer,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,David Villar,San Francisco Giants,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,David Villar,San Francisco Giants,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,David Villar,San Francisco Giants,Jonathan Loaisiga,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,David Villar,San Francisco Giants,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,David Villar,San Francisco Giants,Cody Bolton,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,David Villar,San Francisco Giants,Rich Hill,Pittsburgh Pirates,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+61,David Villar,San Francisco Giants,Chris Owings,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,David Villar,San Francisco Giants,Hanser Alberto,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+63,David Villar,San Francisco Giants,Jose Ruiz,Chicago White Sox,2,1,0,0,1,4,0,0,0,.500,.500,2.000,2.500
+64,David Villar,San Francisco Giants,Michael Kopech,Chicago White Sox,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+65,David Villar,San Francisco Giants,Lance Lynn,Chicago White Sox,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+66,David Villar,San Francisco Giants,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+67,David Villar,San Francisco Giants,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,David Villar,San Francisco Giants,Jimmy Lambert,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+69,David Villar,San Francisco Giants,Reynaldo Lopez,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+70,David Villar,San Francisco Giants,Gregory Santos,Chicago White Sox,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+71,David Villar,San Francisco Giants,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,David Villar,San Francisco Giants,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,David Villar,San Francisco Giants,Kris Bubic,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+74,David Villar,San Francisco Giants,Aroldis Chapman,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,David Villar,San Francisco Giants,Brad Keller,Kansas City Royals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+76,David Villar,San Francisco Giants,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,David Villar,San Francisco Giants,Mason Englert,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,David Villar,San Francisco Giants,Chasen Shreve,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+79,David Villar,San Francisco Giants,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

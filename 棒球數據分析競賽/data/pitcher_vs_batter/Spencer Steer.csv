@@ -1,0 +1,205 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Spencer Steer,Cincinnati Reds,Kyle Wright,Atlanta Braves,2,2,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+1,Spencer Steer,Cincinnati Reds,Charlie Morton,Atlanta Braves,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+2,Spencer Steer,Cincinnati Reds,Bryce Elder,Atlanta Braves,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+3,Spencer Steer,Cincinnati Reds,Joe Jimenez,Atlanta Braves,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+4,Spencer Steer,Cincinnati Reds,Jared Shuster,Atlanta Braves,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+5,Spencer Steer,Cincinnati Reds,A.J. Minter,Atlanta Braves,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+6,Spencer Steer,Cincinnati Reds,Nick Anderson,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+7,Spencer Steer,Cincinnati Reds,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Spencer Steer,Cincinnati Reds,Ben Heller,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+9,Spencer Steer,Cincinnati Reds,AJ Smith-Shawver,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+10,Spencer Steer,Cincinnati Reds,Michael Tonkin,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Spencer Steer,Cincinnati Reds,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Spencer Steer,Cincinnati Reds,Dane Dunning,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Spencer Steer,Cincinnati Reds,Nathan Eovaldi,Texas Rangers,3,1,0,1,0,2,0,0,1,.333,.333,1.000,1.333
+14,Spencer Steer,Cincinnati Reds,Jon Gray,Texas Rangers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+15,Spencer Steer,Cincinnati Reds,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Spencer Steer,Cincinnati Reds,Martin Perez,Texas Rangers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Spencer Steer,Cincinnati Reds,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Spencer Steer,Cincinnati Reds,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Spencer Steer,Cincinnati Reds,Brusdar Graterol,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Spencer Steer,Cincinnati Reds,Noah Syndergaard,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+21,Spencer Steer,Cincinnati Reds,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Spencer Steer,Cincinnati Reds,Caleb Ferguson,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+23,Spencer Steer,Cincinnati Reds,Tony Gonsolin,Los Angeles Dodgers,1,0,0,0,0,1,1,0,0,.000,.667,.000,.667
+24,Spencer Steer,Cincinnati Reds,Clayton Kershaw,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Spencer Steer,Cincinnati Reds,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Spencer Steer,Cincinnati Reds,Tayler Scott,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Spencer Steer,Cincinnati Reds,Joely Rodriguez,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,Spencer Steer,Cincinnati Reds,Josh Winckowski,Boston Red Sox,1,1,0,0,1,2,1,0,0,1.000,1.000,4.000,5.000
+29,Spencer Steer,Cincinnati Reds,Brayan Bello,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+30,Spencer Steer,Cincinnati Reds,Chris Sale,Boston Red Sox,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+31,Spencer Steer,Cincinnati Reds,Kutter Crawford,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+32,Spencer Steer,Cincinnati Reds,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Spencer Steer,Cincinnati Reds,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Spencer Steer,Cincinnati Reds,James Paxton,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Spencer Steer,Cincinnati Reds,Ryan Sherriff,Boston Red Sox,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+36,Spencer Steer,Cincinnati Reds,Chris Stratton,St. Louis Cardinals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+37,Spencer Steer,Cincinnati Reds,Drew VerHagen,St. Louis Cardinals,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+38,Spencer Steer,Cincinnati Reds,Steven Matz,St. Louis Cardinals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+39,Spencer Steer,Cincinnati Reds,Genesis Cabrera,St. Louis Cardinals,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+40,Spencer Steer,Cincinnati Reds,Giovanny Gallegos,St. Louis Cardinals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+41,Spencer Steer,Cincinnati Reds,Jordan Hicks,St. Louis Cardinals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+42,Spencer Steer,Cincinnati Reds,Miles Mikolas,St. Louis Cardinals,4,1,0,0,0,1,1,0,0,.250,.333,.250,.583
+43,Spencer Steer,Cincinnati Reds,Jordan Montgomery,St. Louis Cardinals,5,1,0,0,1,2,0,0,1,.200,.200,.800,1.000
+44,Spencer Steer,Cincinnati Reds,Adam Wainwright,St. Louis Cardinals,6,1,0,0,0,0,0,0,0,.167,.167,.167,.334
+45,Spencer Steer,Cincinnati Reds,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Spencer Steer,Cincinnati Reds,Scott McGough,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+47,Spencer Steer,Cincinnati Reds,Tommy Henry,Arizona Diamondbacks,3,2,1,0,0,3,0,0,0,.667,.667,1.000,1.667
+48,Spencer Steer,Cincinnati Reds,Brandon Pfaadt,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+49,Spencer Steer,Cincinnati Reds,Austin Adams,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Spencer Steer,Cincinnati Reds,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Spencer Steer,Cincinnati Reds,Cole Irvin,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+52,Spencer Steer,Cincinnati Reds,Bruce Zimmermann,Baltimore Orioles,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+53,Spencer Steer,Cincinnati Reds,Kyle Gibson,Baltimore Orioles,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+54,Spencer Steer,Cincinnati Reds,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Spencer Steer,Cincinnati Reds,Mike Baumann,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+56,Spencer Steer,Cincinnati Reds,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Spencer Steer,Cincinnati Reds,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Spencer Steer,Cincinnati Reds,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Spencer Steer,Cincinnati Reds,Tyler Wells,Baltimore Orioles,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+60,Spencer Steer,Cincinnati Reds,Bailey Falter,Philadelphia Phillies,4,3,0,0,1,2,1,0,0,.750,.800,1.500,2.300
+61,Spencer Steer,Cincinnati Reds,Aaron Nola,Philadelphia Phillies,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+62,Spencer Steer,Cincinnati Reds,Zack Wheeler,Philadelphia Phillies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+63,Spencer Steer,Cincinnati Reds,Craig Kimbrel,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+64,Spencer Steer,Cincinnati Reds,Taijuan Walker,Philadelphia Phillies,3,1,0,0,0,0,1,0,0,.333,.500,.333,.833
+65,Spencer Steer,Cincinnati Reds,Andrew Bellatti,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+66,Spencer Steer,Cincinnati Reds,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Spencer Steer,Cincinnati Reds,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+68,Spencer Steer,Cincinnati Reds,Josh Harrison,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Spencer Steer,Cincinnati Reds,McKinley Moore,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Spencer Steer,Cincinnati Reds,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Spencer Steer,Cincinnati Reds,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+72,Spencer Steer,Cincinnati Reds,Andrew Vasquez,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Spencer Steer,Cincinnati Reds,Brandon Hughes,Chicago Cubs,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+74,Spencer Steer,Cincinnati Reds,Michael Rucker,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+75,Spencer Steer,Cincinnati Reds,Keegan Thompson,Chicago Cubs,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+76,Spencer Steer,Cincinnati Reds,Justin Steele,Chicago Cubs,3,2,0,1,0,1,0,0,1,.667,.667,1.333,2.000
+77,Spencer Steer,Cincinnati Reds,Javier Assad,Chicago Cubs,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+78,Spencer Steer,Cincinnati Reds,Drew Smyly,Chicago Cubs,5,1,0,0,0,0,1,0,0,.200,.333,.200,.533
+79,Spencer Steer,Cincinnati Reds,Adbert Alzolay,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Spencer Steer,Cincinnati Reds,Michael Fulmer,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+81,Spencer Steer,Cincinnati Reds,Julian Merryweather,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+82,Spencer Steer,Cincinnati Reds,Jameson Taillon,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Spencer Steer,Cincinnati Reds,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Spencer Steer,Cincinnati Reds,Pedro Avila,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,Spencer Steer,Cincinnati Reds,Drew Carlton,San Diego Padres,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+86,Spencer Steer,Cincinnati Reds,Seth Lugo,San Diego Padres,5,2,0,0,1,1,0,0,1,.400,.400,1.000,1.400
+87,Spencer Steer,Cincinnati Reds,Tim Hill,San Diego Padres,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+88,Spencer Steer,Cincinnati Reds,Blake Snell,San Diego Padres,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+89,Spencer Steer,Cincinnati Reds,Luis Garcia,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Spencer Steer,Cincinnati Reds,Josh Hader,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+91,Spencer Steer,Cincinnati Reds,Brent Honeywell,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+92,Spencer Steer,Cincinnati Reds,Nick Martinez,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Spencer Steer,Cincinnati Reds,Adrian Morejon,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+94,Spencer Steer,Cincinnati Reds,Michael Wacha,San Diego Padres,5,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Spencer Steer,Cincinnati Reds,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Spencer Steer,Cincinnati Reds,Rafael Montero,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+97,Spencer Steer,Cincinnati Reds,Brandon Bielak,Houston Astros,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+98,Spencer Steer,Cincinnati Reds,Ronel Blanco,Houston Astros,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+99,Spencer Steer,Cincinnati Reds,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Spencer Steer,Cincinnati Reds,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Spencer Steer,Cincinnati Reds,Ryan Pressly,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+102,Spencer Steer,Cincinnati Reds,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Spencer Steer,Cincinnati Reds,Huascar Brazoban,Miami Marlins,1,1,1,0,0,2,1,0,0,1.000,1.000,2.000,3.000
+104,Spencer Steer,Cincinnati Reds,Bryan Hoeing,Miami Marlins,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+105,Spencer Steer,Cincinnati Reds,Sandy Alcantara,Miami Marlins,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Spencer Steer,Cincinnati Reds,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Spencer Steer,Cincinnati Reds,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Spencer Steer,Cincinnati Reds,Eury Perez,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+109,Spencer Steer,Cincinnati Reds,Cory Abbott,Washington Nationals,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+110,Spencer Steer,Cincinnati Reds,Patrick Corbin,Washington Nationals,2,2,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+111,Spencer Steer,Cincinnati Reds,Joe La Sorsa,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+112,Spencer Steer,Cincinnati Reds,Jake Irvin,Washington Nationals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+113,Spencer Steer,Cincinnati Reds,Jose A. Ferrer,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Spencer Steer,Cincinnati Reds,MacKenzie Gore,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Spencer Steer,Cincinnati Reds,Josiah Gray,Washington Nationals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+116,Spencer Steer,Cincinnati Reds,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Spencer Steer,Cincinnati Reds,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Spencer Steer,Cincinnati Reds,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Spencer Steer,Cincinnati Reds,Amos Willingham,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Spencer Steer,Cincinnati Reds,Anthony DeSclafani,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+121,Spencer Steer,Cincinnati Reds,Jakob Junis,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+122,Spencer Steer,Cincinnati Reds,Alex Cobb,San Francisco Giants,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+123,Spencer Steer,Cincinnati Reds,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Spencer Steer,Cincinnati Reds,Mauricio Llovera,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Spencer Steer,Cincinnati Reds,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Spencer Steer,Cincinnati Reds,Ross Stripling,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Spencer Steer,Cincinnati Reds,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Spencer Steer,Cincinnati Reds,Kodai Senga,New York Mets,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+129,Spencer Steer,Cincinnati Reds,Jeff Brigham,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+130,Spencer Steer,Cincinnati Reds,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Spencer Steer,Cincinnati Reds,Stephen Nogosek,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+132,Spencer Steer,Cincinnati Reds,David Peterson,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+133,Spencer Steer,Cincinnati Reds,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Spencer Steer,Cincinnati Reds,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Spencer Steer,Cincinnati Reds,Justin Verlander,New York Mets,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Spencer Steer,Cincinnati Reds,Brad Hand,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+137,Spencer Steer,Cincinnati Reds,Connor Seabold,Colorado Rockies,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+138,Spencer Steer,Cincinnati Reds,Jake Bird,Colorado Rockies,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+139,Spencer Steer,Cincinnati Reds,Noah Davis,Colorado Rockies,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+140,Spencer Steer,Cincinnati Reds,Pierce Johnson,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+141,Spencer Steer,Cincinnati Reds,Austin Gomber,Colorado Rockies,5,1,1,0,0,0,0,0,1,.200,.200,.400,.600
+142,Spencer Steer,Cincinnati Reds,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Spencer Steer,Cincinnati Reds,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Spencer Steer,Cincinnati Reds,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+145,Spencer Steer,Cincinnati Reds,Karl Kauffmann,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Spencer Steer,Cincinnati Reds,Peter Lambert,Colorado Rockies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+147,Spencer Steer,Cincinnati Reds,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Spencer Steer,Cincinnati Reds,Riley Pint,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+149,Spencer Steer,Cincinnati Reds,Clay Holmes,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+150,Spencer Steer,Cincinnati Reds,Jhony Brito,New York Yankees,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+151,Spencer Steer,Cincinnati Reds,Clarke Schmidt,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+152,Spencer Steer,Cincinnati Reds,Luis Severino,New York Yankees,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+153,Spencer Steer,Cincinnati Reds,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+154,Spencer Steer,Cincinnati Reds,Jimmy Cordero,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+155,Spencer Steer,Cincinnati Reds,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Spencer Steer,Cincinnati Reds,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Spencer Steer,Cincinnati Reds,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+158,Spencer Steer,Cincinnati Reds,Ryan Weber,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Spencer Steer,Cincinnati Reds,Yohan Ramirez,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+160,Spencer Steer,Cincinnati Reds,Mitch Keller,Pittsburgh Pirates,3,2,0,0,1,1,1,0,0,.667,.800,1.667,2.467
+161,Spencer Steer,Cincinnati Reds,Vince Velasquez,Pittsburgh Pirates,5,1,0,0,0,0,0,0,3,.200,.200,.200,.400
+162,Spencer Steer,Cincinnati Reds,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+163,Spencer Steer,Cincinnati Reds,Roansy Contreras,Pittsburgh Pirates,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+164,Spencer Steer,Cincinnati Reds,Wil Crowe,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+165,Spencer Steer,Cincinnati Reds,Chase De Jong,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Spencer Steer,Cincinnati Reds,Rich Hill,Pittsburgh Pirates,5,0,0,0,0,0,1,0,4,.000,.167,.000,.167
+167,Spencer Steer,Cincinnati Reds,Colin Holderman,Pittsburgh Pirates,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+168,Spencer Steer,Cincinnati Reds,Dauri Moreta,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+169,Spencer Steer,Cincinnati Reds,Duane Underwood Jr.,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Spencer Steer,Cincinnati Reds,Jimmy Lambert,Chicago White Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+171,Spencer Steer,Cincinnati Reds,Michael Kopech,Chicago White Sox,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+172,Spencer Steer,Cincinnati Reds,Mike Clevinger,Chicago White Sox,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+173,Spencer Steer,Cincinnati Reds,Lance Lynn,Chicago White Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+174,Spencer Steer,Cincinnati Reds,Alex Colome,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Spencer Steer,Cincinnati Reds,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+176,Spencer Steer,Cincinnati Reds,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+177,Spencer Steer,Cincinnati Reds,Jake Cousins,Milwaukee Brewers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+178,Spencer Steer,Cincinnati Reds,Julio Teheran,Milwaukee Brewers,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+179,Spencer Steer,Cincinnati Reds,Colin Rea,Milwaukee Brewers,4,1,0,0,0,1,1,0,1,.250,.400,.250,.650
+180,Spencer Steer,Cincinnati Reds,Adrian Houser,Milwaukee Brewers,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+181,Spencer Steer,Cincinnati Reds,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,2,0,1,.000,.500,.000,.500
+182,Spencer Steer,Cincinnati Reds,Wade Miley,Milwaukee Brewers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+183,Spencer Steer,Cincinnati Reds,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+184,Spencer Steer,Cincinnati Reds,Elvis Peguero,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+185,Spencer Steer,Cincinnati Reds,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+186,Spencer Steer,Cincinnati Reds,Abner Uribe,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+187,Spencer Steer,Cincinnati Reds,Devin Williams,Milwaukee Brewers,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+188,Spencer Steer,Cincinnati Reds,Bryse Wilson,Milwaukee Brewers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+189,Spencer Steer,Cincinnati Reds,Jordan Lyles,Kansas City Royals,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+190,Spencer Steer,Cincinnati Reds,Daniel Lynch IV,Kansas City Royals,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+191,Spencer Steer,Cincinnati Reds,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+192,Spencer Steer,Cincinnati Reds,Austin Cox,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+193,Spencer Steer,Cincinnati Reds,Jose Cuas,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+194,Spencer Steer,Cincinnati Reds,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+195,Spencer Steer,Cincinnati Reds,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+196,Spencer Steer,Cincinnati Reds,Zach Jackson,Oakland Athletics,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+197,Spencer Steer,Cincinnati Reds,Kyle Muller,Oakland Athletics,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+198,Spencer Steer,Cincinnati Reds,Domingo Acevedo,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+199,Spencer Steer,Cincinnati Reds,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+200,Spencer Steer,Cincinnati Reds,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+201,Spencer Steer,Cincinnati Reds,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+202,Spencer Steer,Cincinnati Reds,Drew Rucinski,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+203,Spencer Steer,Cincinnati Reds,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333

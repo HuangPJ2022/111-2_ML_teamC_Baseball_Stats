@@ -1,0 +1,41 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Mike Brosseau,Milwaukee Brewers,Clayton Kershaw,Los Angeles Dodgers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+1,Mike Brosseau,Milwaukee Brewers,Aaron Loup,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Mike Brosseau,Milwaukee Brewers,Tyler Anderson,Los Angeles Angels,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+3,Mike Brosseau,Milwaukee Brewers,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Mike Brosseau,Milwaukee Brewers,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Mike Brosseau,Milwaukee Brewers,Jose Suarez,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Mike Brosseau,Milwaukee Brewers,Shane McClanahan,Tampa Bay Rays,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+7,Mike Brosseau,Milwaukee Brewers,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Mike Brosseau,Milwaukee Brewers,Jordan Montgomery,St. Louis Cardinals,6,1,0,0,0,0,0,0,3,.167,.167,.167,.334
+9,Mike Brosseau,Milwaukee Brewers,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Mike Brosseau,Milwaukee Brewers,Miguel Castro,Arizona Diamondbacks,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+11,Mike Brosseau,Milwaukee Brewers,Luis Frias,Arizona Diamondbacks,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+12,Mike Brosseau,Milwaukee Brewers,Carlos Vargas,Arizona Diamondbacks,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+13,Mike Brosseau,Milwaukee Brewers,Kevin Ginkel,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+14,Mike Brosseau,Milwaukee Brewers,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Mike Brosseau,Milwaukee Brewers,Merrill Kelly,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+16,Mike Brosseau,Milwaukee Brewers,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Mike Brosseau,Milwaukee Brewers,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Mike Brosseau,Milwaukee Brewers,Ben Lively,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Mike Brosseau,Milwaukee Brewers,Brandon Williamson,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+20,Mike Brosseau,Milwaukee Brewers,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Mike Brosseau,Milwaukee Brewers,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Mike Brosseau,Milwaukee Brewers,Justin Steele,Chicago Cubs,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+23,Mike Brosseau,Milwaukee Brewers,Nick Martinez,San Diego Padres,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+24,Mike Brosseau,Milwaukee Brewers,Michael Wacha,San Diego Padres,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+25,Mike Brosseau,Milwaukee Brewers,Nabil Crismatt,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Mike Brosseau,Milwaukee Brewers,Yu Darvish,San Diego Padres,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+27,Mike Brosseau,Milwaukee Brewers,Brandon Dixon,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Mike Brosseau,Milwaukee Brewers,Tim Hill,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+29,Mike Brosseau,Milwaukee Brewers,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Mike Brosseau,Milwaukee Brewers,Parker Mushinski,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Mike Brosseau,Milwaukee Brewers,Alex Wood,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+32,Mike Brosseau,Milwaukee Brewers,Tristan Beck,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Mike Brosseau,Milwaukee Brewers,David Peterson,New York Mets,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+34,Mike Brosseau,Milwaukee Brewers,Kyle Freeland,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Mike Brosseau,Milwaukee Brewers,Marco Gonzales,Seattle Mariners,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+36,Mike Brosseau,Milwaukee Brewers,Amir Garrett,Kansas City Royals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+37,Mike Brosseau,Milwaukee Brewers,Matthew Boyd,Detroit Tigers,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+38,Mike Brosseau,Milwaukee Brewers,Michael Lorenzen,Detroit Tigers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+39,Mike Brosseau,Milwaukee Brewers,Tyler Holton,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

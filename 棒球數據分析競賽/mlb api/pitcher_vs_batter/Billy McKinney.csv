@@ -1,0 +1,59 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Billy McKinney,New York Yankees,Jon Gray,Texas Rangers,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+1,Billy McKinney,New York Yankees,Dane Dunning,Texas Rangers,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+2,Billy McKinney,New York Yankees,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Billy McKinney,New York Yankees,Nathan Eovaldi,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Billy McKinney,New York Yankees,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Billy McKinney,New York Yankees,Joe Jacques,Boston Red Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+6,Billy McKinney,New York Yankees,Kenley Jansen,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+7,Billy McKinney,New York Yankees,Brayan Bello,Boston Red Sox,6,2,1,0,0,0,0,0,1,.333,.333,.500,.833
+8,Billy McKinney,New York Yankees,Tanner Houck,Boston Red Sox,4,1,1,0,0,0,0,0,1,.250,.250,.500,.750
+9,Billy McKinney,New York Yankees,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Billy McKinney,New York Yankees,Corey Kluber,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Billy McKinney,New York Yankees,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Billy McKinney,New York Yankees,Chris Murphy,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Billy McKinney,New York Yankees,Kaleb Ort,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+14,Billy McKinney,New York Yankees,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Billy McKinney,New York Yankees,Garrett Whitlock,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Billy McKinney,New York Yankees,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Billy McKinney,New York Yankees,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Billy McKinney,New York Yankees,James Naile,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Billy McKinney,New York Yankees,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Billy McKinney,New York Yankees,Eduard Bazardo,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+21,Billy McKinney,New York Yankees,Yennier Cano,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Billy McKinney,New York Yankees,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+23,Billy McKinney,New York Yankees,Nick Vespi,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Billy McKinney,New York Yankees,Kyle Hendricks,Chicago Cubs,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+25,Billy McKinney,New York Yankees,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Billy McKinney,New York Yankees,Jameson Taillon,Chicago Cubs,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+27,Billy McKinney,New York Yankees,Brooks Raley,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,Billy McKinney,New York Yankees,Josh Walker,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+29,Billy McKinney,New York Yankees,Justin Verlander,New York Mets,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+30,Billy McKinney,New York Yankees,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Billy McKinney,New York Yankees,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Billy McKinney,New York Yankees,Max Scherzer,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Billy McKinney,New York Yankees,Daniel Bard,Colorado Rockies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+34,Billy McKinney,New York Yankees,Tommy Doyle,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Billy McKinney,New York Yankees,Matt Koch,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Billy McKinney,New York Yankees,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Billy McKinney,New York Yankees,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+38,Billy McKinney,New York Yankees,Luis Castillo,Seattle Mariners,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+39,Billy McKinney,New York Yankees,Chris Flexen,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+40,Billy McKinney,New York Yankees,George Kirby,Seattle Mariners,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+41,Billy McKinney,New York Yankees,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Billy McKinney,New York Yankees,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Billy McKinney,New York Yankees,Bryan Woo,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+44,Billy McKinney,New York Yankees,Mike Clevinger,Chicago White Sox,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+45,Billy McKinney,New York Yankees,Lance Lynn,Chicago White Sox,3,1,0,1,0,0,0,0,0,.333,.333,1.000,1.333
+46,Billy McKinney,New York Yankees,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Billy McKinney,New York Yankees,Alec Marsh,Kansas City Royals,1,1,0,0,1,3,1,0,0,1.000,1.000,4.000,5.000
+48,Billy McKinney,New York Yankees,Brady Singer,Kansas City Royals,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+49,Billy McKinney,New York Yankees,Scott Barlow,Kansas City Royals,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+50,Billy McKinney,New York Yankees,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Billy McKinney,New York Yankees,Austin Cox,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+52,Billy McKinney,New York Yankees,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Billy McKinney,New York Yankees,Jordan Lyles,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+54,Billy McKinney,New York Yankees,Paul Blackburn,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Billy McKinney,New York Yankees,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Billy McKinney,New York Yankees,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Billy McKinney,New York Yankees,Ken Waldichuk,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

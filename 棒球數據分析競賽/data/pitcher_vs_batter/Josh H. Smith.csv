@@ -1,0 +1,84 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Josh H. Smith,Texas Rangers,Spencer Strider,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+1,Josh H. Smith,Texas Rangers,Charlie Morton,Atlanta Braves,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+2,Josh H. Smith,Texas Rangers,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Josh H. Smith,Texas Rangers,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Josh H. Smith,Texas Rangers,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Josh H. Smith,Texas Rangers,Danny Young,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Josh H. Smith,Texas Rangers,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Josh H. Smith,Texas Rangers,Jose Suarez,Los Angeles Angels,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+8,Josh H. Smith,Texas Rangers,Chris Devenski,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Josh H. Smith,Texas Rangers,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Josh H. Smith,Texas Rangers,Chase Silseth,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+11,Josh H. Smith,Texas Rangers,Jack Flaherty,St. Louis Cardinals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+12,Josh H. Smith,Texas Rangers,Luke Weaver,Cincinnati Reds,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+13,Josh H. Smith,Texas Rangers,Graham Ashcraft,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Josh H. Smith,Texas Rangers,Reiver Sanmartin,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Josh H. Smith,Texas Rangers,Lucas Sims,Cincinnati Reds,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+16,Josh H. Smith,Texas Rangers,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Josh H. Smith,Texas Rangers,Ryan McKenna,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Josh H. Smith,Texas Rangers,Grayson Rodriguez,Baltimore Orioles,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+19,Josh H. Smith,Texas Rangers,Austin Voth,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+20,Josh H. Smith,Texas Rangers,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Josh H. Smith,Texas Rangers,Danny Coulombe,Baltimore Orioles,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+22,Josh H. Smith,Texas Rangers,Dean Kremer,Baltimore Orioles,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Josh H. Smith,Texas Rangers,Zack Wheeler,Philadelphia Phillies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+24,Josh H. Smith,Texas Rangers,Seranthony Dominguez,Philadelphia Phillies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+25,Josh H. Smith,Texas Rangers,Craig Kimbrel,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+26,Josh H. Smith,Texas Rangers,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Josh H. Smith,Texas Rangers,Aaron Nola,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Josh H. Smith,Texas Rangers,Gregory Soto,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+29,Josh H. Smith,Texas Rangers,Marcus Stroman,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+30,Josh H. Smith,Texas Rangers,Jameson Taillon,Chicago Cubs,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+31,Josh H. Smith,Texas Rangers,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Josh H. Smith,Texas Rangers,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Josh H. Smith,Texas Rangers,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Josh H. Smith,Texas Rangers,Keegan Thompson,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Josh H. Smith,Texas Rangers,Hunter Brown,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+36,Josh H. Smith,Texas Rangers,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Josh H. Smith,Texas Rangers,Ronel Blanco,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Josh H. Smith,Texas Rangers,Shawn Dubin,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Josh H. Smith,Texas Rangers,Luis Garcia,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Josh H. Smith,Texas Rangers,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Josh H. Smith,Texas Rangers,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Josh H. Smith,Texas Rangers,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Josh H. Smith,Texas Rangers,Alan Trejo,Colorado Rockies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+44,Josh H. Smith,Texas Rangers,Brad Hand,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+45,Josh H. Smith,Texas Rangers,Gerrit Cole,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Josh H. Smith,Texas Rangers,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Josh H. Smith,Texas Rangers,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Josh H. Smith,Texas Rangers,Matt Brash,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+49,Josh H. Smith,Texas Rangers,George Kirby,Seattle Mariners,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+50,Josh H. Smith,Texas Rangers,Luis Castillo,Seattle Mariners,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+51,Josh H. Smith,Texas Rangers,Chris Flexen,Seattle Mariners,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+52,Josh H. Smith,Texas Rangers,Matt Festa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Josh H. Smith,Texas Rangers,Mike Ford,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+54,Josh H. Smith,Texas Rangers,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Josh H. Smith,Texas Rangers,Luis L. Ortiz,Pittsburgh Pirates,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+56,Josh H. Smith,Texas Rangers,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Josh H. Smith,Texas Rangers,Garrett Hill,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+58,Josh H. Smith,Texas Rangers,Alex Lange,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+59,Josh H. Smith,Texas Rangers,Reese Olson,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+60,Josh H. Smith,Texas Rangers,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Josh H. Smith,Texas Rangers,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Josh H. Smith,Texas Rangers,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Josh H. Smith,Texas Rangers,Matt Manning,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Josh H. Smith,Texas Rangers,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Josh H. Smith,Texas Rangers,Joey Wentz,Detroit Tigers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+66,Josh H. Smith,Texas Rangers,Taylor Clarke,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.667,.500,1.167
+67,Josh H. Smith,Texas Rangers,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+68,Josh H. Smith,Texas Rangers,Dylan Coleman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Josh H. Smith,Texas Rangers,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Josh H. Smith,Texas Rangers,Amir Garrett,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+71,Josh H. Smith,Texas Rangers,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Josh H. Smith,Texas Rangers,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Josh H. Smith,Texas Rangers,Brad Keller,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+74,Josh H. Smith,Texas Rangers,Jordan Lyles,Kansas City Royals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Josh H. Smith,Texas Rangers,Brady Singer,Kansas City Royals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+76,Josh H. Smith,Texas Rangers,James Kaprielian,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+77,Josh H. Smith,Texas Rangers,Adrian Martinez,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+78,Josh H. Smith,Texas Rangers,Jeurys Familia,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Josh H. Smith,Texas Rangers,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+80,Josh H. Smith,Texas Rangers,Zach Jackson,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+81,Josh H. Smith,Texas Rangers,Luis Medina,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Josh H. Smith,Texas Rangers,Jace Peterson,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

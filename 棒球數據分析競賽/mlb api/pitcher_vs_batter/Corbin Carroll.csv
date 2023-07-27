@@ -1,0 +1,191 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Corbin Carroll,Arizona Diamondbacks,Michael Soroka,Atlanta Braves,2,2,1,0,1,1,1,0,0,1.000,1.000,3.000,4.000
+1,Corbin Carroll,Arizona Diamondbacks,Kirby Yates,Atlanta Braves,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+2,Corbin Carroll,Arizona Diamondbacks,Bryce Elder,Atlanta Braves,2,1,0,1,0,1,0,0,1,.500,.500,1.500,2.000
+3,Corbin Carroll,Arizona Diamondbacks,Michael Tonkin,Atlanta Braves,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+4,Corbin Carroll,Arizona Diamondbacks,Charlie Morton,Atlanta Braves,4,1,0,0,0,0,2,0,2,.250,.500,.250,.750
+5,Corbin Carroll,Arizona Diamondbacks,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Corbin Carroll,Arizona Diamondbacks,Raisel Iglesias,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Corbin Carroll,Arizona Diamondbacks,Lucas Luetge,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Corbin Carroll,Arizona Diamondbacks,Collin McHugh,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+9,Corbin Carroll,Arizona Diamondbacks,AJ Smith-Shawver,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Corbin Carroll,Arizona Diamondbacks,Spencer Strider,Atlanta Braves,5,0,0,0,0,0,1,0,3,.000,.167,.000,.167
+11,Corbin Carroll,Arizona Diamondbacks,Josh Sborz,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+12,Corbin Carroll,Arizona Diamondbacks,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Corbin Carroll,Arizona Diamondbacks,Michael Grove,Los Angeles Dodgers,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+14,Corbin Carroll,Arizona Diamondbacks,Alex Vesia,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+15,Corbin Carroll,Arizona Diamondbacks,Clayton Kershaw,Los Angeles Dodgers,5,2,0,0,1,2,0,0,1,.400,.400,1.000,1.400
+16,Corbin Carroll,Arizona Diamondbacks,Caleb Ferguson,Los Angeles Dodgers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+17,Corbin Carroll,Arizona Diamondbacks,Noah Syndergaard,Los Angeles Dodgers,3,1,0,0,0,0,0,0,0,.333,.500,.333,.833
+18,Corbin Carroll,Arizona Diamondbacks,Dustin May,Los Angeles Dodgers,5,1,1,0,0,0,0,0,0,.200,.200,.400,.600
+19,Corbin Carroll,Arizona Diamondbacks,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Corbin Carroll,Arizona Diamondbacks,Phil Bickford,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Corbin Carroll,Arizona Diamondbacks,Brusdar Graterol,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Corbin Carroll,Arizona Diamondbacks,Andre Jackson,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+23,Corbin Carroll,Arizona Diamondbacks,Shelby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Corbin Carroll,Arizona Diamondbacks,Julio Urias,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Corbin Carroll,Arizona Diamondbacks,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Corbin Carroll,Arizona Diamondbacks,Colin Poche,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+27,Corbin Carroll,Arizona Diamondbacks,Taj Bradley,Tampa Bay Rays,3,2,0,0,1,3,0,0,1,.667,.667,1.667,2.334
+28,Corbin Carroll,Arizona Diamondbacks,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Corbin Carroll,Arizona Diamondbacks,Yonny Chirinos,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Corbin Carroll,Arizona Diamondbacks,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+31,Corbin Carroll,Arizona Diamondbacks,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Corbin Carroll,Arizona Diamondbacks,Tanner Houck,Boston Red Sox,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+33,Corbin Carroll,Arizona Diamondbacks,Chris Sale,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+34,Corbin Carroll,Arizona Diamondbacks,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Corbin Carroll,Arizona Diamondbacks,Kutter Crawford,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Corbin Carroll,Arizona Diamondbacks,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Corbin Carroll,Arizona Diamondbacks,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Corbin Carroll,Arizona Diamondbacks,Joely Rodriguez,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Corbin Carroll,Arizona Diamondbacks,Garrett Whitlock,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Corbin Carroll,Arizona Diamondbacks,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Corbin Carroll,Arizona Diamondbacks,Jake Woodford,St. Louis Cardinals,3,2,2,0,0,0,0,0,0,.667,.667,1.333,2.000
+42,Corbin Carroll,Arizona Diamondbacks,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Corbin Carroll,Arizona Diamondbacks,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Corbin Carroll,Arizona Diamondbacks,Jordan Hicks,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+45,Corbin Carroll,Arizona Diamondbacks,Andre Pallante,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+46,Corbin Carroll,Arizona Diamondbacks,Drew VerHagen,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+47,Corbin Carroll,Arizona Diamondbacks,Alexis Diaz,Cincinnati Reds,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+48,Corbin Carroll,Arizona Diamondbacks,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Corbin Carroll,Arizona Diamondbacks,Ben Lively,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+50,Corbin Carroll,Arizona Diamondbacks,Brandon Williamson,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Corbin Carroll,Arizona Diamondbacks,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Corbin Carroll,Arizona Diamondbacks,Jose Berrios,Toronto Blue Jays,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+53,Corbin Carroll,Arizona Diamondbacks,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Corbin Carroll,Arizona Diamondbacks,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Corbin Carroll,Arizona Diamondbacks,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Corbin Carroll,Arizona Diamondbacks,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Corbin Carroll,Arizona Diamondbacks,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Corbin Carroll,Arizona Diamondbacks,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Corbin Carroll,Arizona Diamondbacks,Dylan Covey,Philadelphia Phillies,2,2,2,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+60,Corbin Carroll,Arizona Diamondbacks,Seranthony Dominguez,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+61,Corbin Carroll,Arizona Diamondbacks,Luis F. Ortiz,Philadelphia Phillies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+62,Corbin Carroll,Arizona Diamondbacks,Yunior Marte,Philadelphia Phillies,2,1,0,1,0,1,0,0,0,.500,.500,1.500,2.000
+63,Corbin Carroll,Arizona Diamondbacks,Ranger Suarez,Philadelphia Phillies,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+64,Corbin Carroll,Arizona Diamondbacks,Andrew Vasquez,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+65,Corbin Carroll,Arizona Diamondbacks,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Corbin Carroll,Arizona Diamondbacks,Andrew Bellatti,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Corbin Carroll,Arizona Diamondbacks,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Corbin Carroll,Arizona Diamondbacks,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Corbin Carroll,Arizona Diamondbacks,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Corbin Carroll,Arizona Diamondbacks,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.667,.000,.667
+71,Corbin Carroll,Arizona Diamondbacks,Zack Wheeler,Philadelphia Phillies,5,0,0,0,0,0,1,0,1,.000,.167,.000,.167
+72,Corbin Carroll,Arizona Diamondbacks,Luis Garcia,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+73,Corbin Carroll,Arizona Diamondbacks,Tim Hill,San Diego Padres,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+74,Corbin Carroll,Arizona Diamondbacks,Joe Musgrove,San Diego Padres,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+75,Corbin Carroll,Arizona Diamondbacks,Ryan Weathers,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+76,Corbin Carroll,Arizona Diamondbacks,Brent Honeywell,San Diego Padres,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+77,Corbin Carroll,Arizona Diamondbacks,Yu Darvish,San Diego Padres,4,1,0,0,0,0,1,0,1,.250,.400,.250,.650
+78,Corbin Carroll,Arizona Diamondbacks,Nabil Crismatt,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Corbin Carroll,Arizona Diamondbacks,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Corbin Carroll,Arizona Diamondbacks,Reiss Knehr,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Corbin Carroll,Arizona Diamondbacks,Seth Lugo,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Corbin Carroll,Arizona Diamondbacks,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Corbin Carroll,Arizona Diamondbacks,Michael Wacha,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Corbin Carroll,Arizona Diamondbacks,A.J. Puk,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,Corbin Carroll,Arizona Diamondbacks,Matt Barnes,Miami Marlins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+86,Corbin Carroll,Arizona Diamondbacks,Sandy Alcantara,Miami Marlins,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+87,Corbin Carroll,Arizona Diamondbacks,Jesus Luzardo,Miami Marlins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+88,Corbin Carroll,Arizona Diamondbacks,Trevor Rogers,Miami Marlins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+89,Corbin Carroll,Arizona Diamondbacks,Huascar Brazoban,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Corbin Carroll,Arizona Diamondbacks,Edward Cabrera,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+91,Corbin Carroll,Arizona Diamondbacks,Braxton Garrett,Miami Marlins,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+92,Corbin Carroll,Arizona Diamondbacks,Chi Chi Gonzalez,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Corbin Carroll,Arizona Diamondbacks,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Corbin Carroll,Arizona Diamondbacks,Steven Okert,Miami Marlins,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Corbin Carroll,Arizona Diamondbacks,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Corbin Carroll,Arizona Diamondbacks,Carl Edwards Jr.,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+97,Corbin Carroll,Arizona Diamondbacks,Chad Kuhl,Washington Nationals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+98,Corbin Carroll,Arizona Diamondbacks,Mason Thompson,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+99,Corbin Carroll,Arizona Diamondbacks,Patrick Corbin,Washington Nationals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+100,Corbin Carroll,Arizona Diamondbacks,Jordan Weems,Washington Nationals,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+101,Corbin Carroll,Arizona Diamondbacks,Josiah Gray,Washington Nationals,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+102,Corbin Carroll,Arizona Diamondbacks,Trevor Williams,Washington Nationals,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+103,Corbin Carroll,Arizona Diamondbacks,Jake Irvin,Washington Nationals,5,1,0,0,0,0,0,0,1,.200,.333,.200,.533
+104,Corbin Carroll,Arizona Diamondbacks,Kyle Finnegan,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+105,Corbin Carroll,Arizona Diamondbacks,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Corbin Carroll,Arizona Diamondbacks,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+107,Corbin Carroll,Arizona Diamondbacks,Tristan Beck,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+108,Corbin Carroll,Arizona Diamondbacks,Tyler Rogers,San Francisco Giants,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+109,Corbin Carroll,Arizona Diamondbacks,Logan Webb,San Francisco Giants,5,1,0,0,0,1,1,0,0,.200,.333,.200,.533
+110,Corbin Carroll,Arizona Diamondbacks,Scott Alexander,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Corbin Carroll,Arizona Diamondbacks,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,Corbin Carroll,Arizona Diamondbacks,Anthony DeSclafani,San Francisco Giants,4,0,0,0,0,0,1,0,1,.000,.200,.000,.200
+113,Corbin Carroll,Arizona Diamondbacks,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Corbin Carroll,Arizona Diamondbacks,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Corbin Carroll,Arizona Diamondbacks,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Corbin Carroll,Arizona Diamondbacks,Ross Stripling,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Corbin Carroll,Arizona Diamondbacks,Ryan Walker,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+118,Corbin Carroll,Arizona Diamondbacks,Keaton Winn,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Corbin Carroll,Arizona Diamondbacks,Alex Wood,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Corbin Carroll,Arizona Diamondbacks,David Robertson,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+121,Corbin Carroll,Arizona Diamondbacks,Max Scherzer,New York Mets,2,1,0,0,1,2,1,0,0,.500,.667,2.000,2.667
+122,Corbin Carroll,Arizona Diamondbacks,Kodai Senga,New York Mets,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+123,Corbin Carroll,Arizona Diamondbacks,Carlos Carrasco,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Corbin Carroll,Arizona Diamondbacks,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Corbin Carroll,Arizona Diamondbacks,Matt Carasiti,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+126,Corbin Carroll,Arizona Diamondbacks,Pierce Johnson,Colorado Rockies,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+127,Corbin Carroll,Arizona Diamondbacks,Dinelson Lamet,Colorado Rockies,3,3,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+128,Corbin Carroll,Arizona Diamondbacks,Noah Davis,Colorado Rockies,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+129,Corbin Carroll,Arizona Diamondbacks,Karl Kauffmann,Colorado Rockies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+130,Corbin Carroll,Arizona Diamondbacks,Kyle Freeland,Colorado Rockies,4,1,0,0,1,1,1,0,0,.250,.400,1.000,1.400
+131,Corbin Carroll,Arizona Diamondbacks,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Corbin Carroll,Arizona Diamondbacks,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Corbin Carroll,Arizona Diamondbacks,Peter Lambert,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Corbin Carroll,Arizona Diamondbacks,Justin Lawrence,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+135,Corbin Carroll,Arizona Diamondbacks,Connor Seabold,Colorado Rockies,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+136,Corbin Carroll,Arizona Diamondbacks,Xzavion Curry,Cleveland Guardians,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+137,Corbin Carroll,Arizona Diamondbacks,Touki Toussaint,Cleveland Guardians,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+138,Corbin Carroll,Arizona Diamondbacks,Tanner Bibee,Cleveland Guardians,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+139,Corbin Carroll,Arizona Diamondbacks,Shane Bieber,Cleveland Guardians,4,1,0,0,1,2,0,0,0,.250,.250,1.000,1.250
+140,Corbin Carroll,Arizona Diamondbacks,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Corbin Carroll,Arizona Diamondbacks,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Corbin Carroll,Arizona Diamondbacks,Daniel Norris,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Corbin Carroll,Arizona Diamondbacks,David Bednar,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+144,Corbin Carroll,Arizona Diamondbacks,Roansy Contreras,Pittsburgh Pirates,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+145,Corbin Carroll,Arizona Diamondbacks,Jose Hernandez,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+146,Corbin Carroll,Arizona Diamondbacks,Yohan Ramirez,Pittsburgh Pirates,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+147,Corbin Carroll,Arizona Diamondbacks,Rich Hill,Pittsburgh Pirates,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+148,Corbin Carroll,Arizona Diamondbacks,Mitch Keller,Pittsburgh Pirates,4,1,0,0,0,1,2,0,1,.250,.500,.250,.750
+149,Corbin Carroll,Arizona Diamondbacks,Ryan Borucki,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+150,Corbin Carroll,Arizona Diamondbacks,Colin Holderman,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Corbin Carroll,Arizona Diamondbacks,Carmen Mlodzinski,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Corbin Carroll,Arizona Diamondbacks,Dauri Moreta,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+153,Corbin Carroll,Arizona Diamondbacks,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+154,Corbin Carroll,Arizona Diamondbacks,Angel Perdomo,Pittsburgh Pirates,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Corbin Carroll,Arizona Diamondbacks,Robert Stephenson,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+156,Corbin Carroll,Arizona Diamondbacks,Gus Varland,Milwaukee Brewers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+157,Corbin Carroll,Arizona Diamondbacks,Adrian Houser,Milwaukee Brewers,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+158,Corbin Carroll,Arizona Diamondbacks,Janson Junk,Milwaukee Brewers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+159,Corbin Carroll,Arizona Diamondbacks,Colin Rea,Milwaukee Brewers,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+160,Corbin Carroll,Arizona Diamondbacks,Corbin Burnes,Milwaukee Brewers,5,0,0,0,0,0,1,0,1,.000,.167,.000,.167
+161,Corbin Carroll,Arizona Diamondbacks,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+162,Corbin Carroll,Arizona Diamondbacks,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Corbin Carroll,Arizona Diamondbacks,Peter Strzelecki,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+164,Corbin Carroll,Arizona Diamondbacks,Julio Teheran,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,Corbin Carroll,Arizona Diamondbacks,Jason Foley,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+166,Corbin Carroll,Arizona Diamondbacks,Garrett Hill,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+167,Corbin Carroll,Arizona Diamondbacks,Alex Lange,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+168,Corbin Carroll,Arizona Diamondbacks,Will Vest,Detroit Tigers,2,2,0,1,1,4,0,0,0,1.000,1.000,3.500,4.500
+169,Corbin Carroll,Arizona Diamondbacks,Michael Lorenzen,Detroit Tigers,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+170,Corbin Carroll,Arizona Diamondbacks,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Corbin Carroll,Arizona Diamondbacks,Matthew Boyd,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+172,Corbin Carroll,Arizona Diamondbacks,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Corbin Carroll,Arizona Diamondbacks,Aroldis Chapman,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+174,Corbin Carroll,Arizona Diamondbacks,Ryan Yarbrough,Kansas City Royals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+175,Corbin Carroll,Arizona Diamondbacks,Brady Singer,Kansas City Royals,3,2,1,1,0,0,0,0,0,.667,.667,1.667,2.334
+176,Corbin Carroll,Arizona Diamondbacks,Brad Keller,Kansas City Royals,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+177,Corbin Carroll,Arizona Diamondbacks,Scott Barlow,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+178,Corbin Carroll,Arizona Diamondbacks,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Corbin Carroll,Arizona Diamondbacks,Josh Staumont,Kansas City Royals,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+180,Corbin Carroll,Arizona Diamondbacks,Shintaro Fujinami,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+181,Corbin Carroll,Arizona Diamondbacks,Sam Long,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+182,Corbin Carroll,Arizona Diamondbacks,Luis Medina,Oakland Athletics,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+183,Corbin Carroll,Arizona Diamondbacks,Garrett Acton,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+184,Corbin Carroll,Arizona Diamondbacks,Richard Lovelady,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+185,Corbin Carroll,Arizona Diamondbacks,Adrian Martinez,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+186,Corbin Carroll,Arizona Diamondbacks,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+187,Corbin Carroll,Arizona Diamondbacks,Kyle Muller,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+188,Corbin Carroll,Arizona Diamondbacks,Austin Pruitt,Oakland Athletics,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+189,Corbin Carroll,Arizona Diamondbacks,Drew Rucinski,Oakland Athletics,1,0,0,0,0,1,1,0,0,.000,.333,.000,.333

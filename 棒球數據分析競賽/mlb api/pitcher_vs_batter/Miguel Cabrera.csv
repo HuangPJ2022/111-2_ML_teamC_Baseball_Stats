@@ -1,0 +1,124 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Miguel Cabrera,Detroit Tigers,Jesse Chavez,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Miguel Cabrera,Detroit Tigers,Raisel Iglesias,Atlanta Braves,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+2,Miguel Cabrera,Detroit Tigers,Spencer Strider,Atlanta Braves,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+3,Miguel Cabrera,Detroit Tigers,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Miguel Cabrera,Detroit Tigers,Dylan Dodd,Atlanta Braves,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+5,Miguel Cabrera,Detroit Tigers,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Miguel Cabrera,Detroit Tigers,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Miguel Cabrera,Detroit Tigers,Andrew Heaney,Texas Rangers,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+8,Miguel Cabrera,Detroit Tigers,Martin Perez,Texas Rangers,3,3,1,0,0,3,1,0,0,1.000,.800,1.333,2.133
+9,Miguel Cabrera,Detroit Tigers,Grant Anderson,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+10,Miguel Cabrera,Detroit Tigers,Dane Dunning,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Miguel Cabrera,Detroit Tigers,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Miguel Cabrera,Detroit Tigers,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Miguel Cabrera,Detroit Tigers,Colin Poche,Tampa Bay Rays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+14,Miguel Cabrera,Detroit Tigers,Zach Eflin,Tampa Bay Rays,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+15,Miguel Cabrera,Detroit Tigers,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Miguel Cabrera,Detroit Tigers,Calvin Faucher,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+17,Miguel Cabrera,Detroit Tigers,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Miguel Cabrera,Detroit Tigers,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Miguel Cabrera,Detroit Tigers,Jeffrey Springs,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+20,Miguel Cabrera,Detroit Tigers,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Miguel Cabrera,Detroit Tigers,Kenley Jansen,Boston Red Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+22,Miguel Cabrera,Detroit Tigers,Chris Sale,Boston Red Sox,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+23,Miguel Cabrera,Detroit Tigers,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Miguel Cabrera,Detroit Tigers,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Miguel Cabrera,Detroit Tigers,John Schreiber,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+26,Miguel Cabrera,Detroit Tigers,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Miguel Cabrera,Detroit Tigers,James Naile,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+28,Miguel Cabrera,Detroit Tigers,Steven Matz,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+29,Miguel Cabrera,Detroit Tigers,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Miguel Cabrera,Detroit Tigers,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Miguel Cabrera,Detroit Tigers,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Miguel Cabrera,Detroit Tigers,Jose Ruiz,Arizona Diamondbacks,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+33,Miguel Cabrera,Detroit Tigers,Ryne Nelson,Arizona Diamondbacks,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+34,Miguel Cabrera,Detroit Tigers,Zac Gallen,Arizona Diamondbacks,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+35,Miguel Cabrera,Detroit Tigers,Austin Adams,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Miguel Cabrera,Detroit Tigers,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Miguel Cabrera,Detroit Tigers,Chris Bassitt,Toronto Blue Jays,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+38,Miguel Cabrera,Detroit Tigers,Kevin Gausman,Toronto Blue Jays,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+39,Miguel Cabrera,Detroit Tigers,Alek Manoah,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Miguel Cabrera,Detroit Tigers,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Miguel Cabrera,Detroit Tigers,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Miguel Cabrera,Detroit Tigers,Mitch White,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+43,Miguel Cabrera,Detroit Tigers,Grayson Rodriguez,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+44,Miguel Cabrera,Detroit Tigers,Bryan Baker,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Miguel Cabrera,Detroit Tigers,Mike Baumann,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Miguel Cabrera,Detroit Tigers,Felix Bautista,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Miguel Cabrera,Detroit Tigers,Kyle Gibson,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Miguel Cabrera,Detroit Tigers,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Miguel Cabrera,Detroit Tigers,Taijuan Walker,Philadelphia Phillies,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+50,Miguel Cabrera,Detroit Tigers,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Miguel Cabrera,Detroit Tigers,Aaron Nola,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Miguel Cabrera,Detroit Tigers,Jackson Wolf,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+53,Miguel Cabrera,Detroit Tigers,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Miguel Cabrera,Detroit Tigers,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Miguel Cabrera,Detroit Tigers,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Miguel Cabrera,Detroit Tigers,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Miguel Cabrera,Detroit Tigers,Brent Headrick,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+58,Miguel Cabrera,Detroit Tigers,Sonny Gray,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+59,Miguel Cabrera,Detroit Tigers,Kenta Maeda,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+60,Miguel Cabrera,Detroit Tigers,Jordan Balazovic,Minnesota Twins,1,0,0,0,0,1,1,0,0,.000,.333,.000,.333
+61,Miguel Cabrera,Detroit Tigers,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Miguel Cabrera,Detroit Tigers,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Miguel Cabrera,Detroit Tigers,Pablo Lopez,Minnesota Twins,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+64,Miguel Cabrera,Detroit Tigers,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Miguel Cabrera,Detroit Tigers,Emilio Pagan,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Miguel Cabrera,Detroit Tigers,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Miguel Cabrera,Detroit Tigers,Louie Varland,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+68,Miguel Cabrera,Detroit Tigers,Patrick Corbin,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Miguel Cabrera,Detroit Tigers,Carl Edwards Jr.,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+70,Miguel Cabrera,Detroit Tigers,Taylor Rogers,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+71,Miguel Cabrera,Detroit Tigers,Jakob Junis,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+72,Miguel Cabrera,Detroit Tigers,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Miguel Cabrera,Detroit Tigers,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Miguel Cabrera,Detroit Tigers,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Miguel Cabrera,Detroit Tigers,Jake Bird,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+76,Miguel Cabrera,Detroit Tigers,Austin Gomber,Colorado Rockies,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+77,Miguel Cabrera,Detroit Tigers,Ty Blach,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Miguel Cabrera,Detroit Tigers,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Miguel Cabrera,Detroit Tigers,George Kirby,Seattle Mariners,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+80,Miguel Cabrera,Detroit Tigers,Marco Gonzales,Seattle Mariners,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+81,Miguel Cabrera,Detroit Tigers,Trevor Gott,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+82,Miguel Cabrera,Detroit Tigers,Tayler Saucedo,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Miguel Cabrera,Detroit Tigers,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Miguel Cabrera,Detroit Tigers,Xzavion Curry,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,Miguel Cabrera,Detroit Tigers,Peyton Battenfield,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Miguel Cabrera,Detroit Tigers,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Miguel Cabrera,Detroit Tigers,Hunter Gaddis,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Miguel Cabrera,Detroit Tigers,Eli Morgan,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Miguel Cabrera,Detroit Tigers,Nick Sandlin,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+90,Miguel Cabrera,Detroit Tigers,Duane Underwood Jr.,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+91,Miguel Cabrera,Detroit Tigers,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Miguel Cabrera,Detroit Tigers,Luis L. Ortiz,Pittsburgh Pirates,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+93,Miguel Cabrera,Detroit Tigers,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Miguel Cabrera,Detroit Tigers,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Miguel Cabrera,Detroit Tigers,Mike Clevinger,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+96,Miguel Cabrera,Detroit Tigers,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Miguel Cabrera,Detroit Tigers,Garrett Crochet,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+98,Miguel Cabrera,Detroit Tigers,Lucas Giolito,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+99,Miguel Cabrera,Detroit Tigers,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+100,Miguel Cabrera,Detroit Tigers,Lance Lynn,Chicago White Sox,2,0,0,0,0,1,1,0,1,.000,.333,.000,.333
+101,Miguel Cabrera,Detroit Tigers,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Miguel Cabrera,Detroit Tigers,Joel Payamps,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+103,Miguel Cabrera,Detroit Tigers,Eric Lauer,Milwaukee Brewers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+104,Miguel Cabrera,Detroit Tigers,Jake Cousins,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+105,Miguel Cabrera,Detroit Tigers,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Miguel Cabrera,Detroit Tigers,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Miguel Cabrera,Detroit Tigers,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Miguel Cabrera,Detroit Tigers,Carlos Hernandez,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+109,Miguel Cabrera,Detroit Tigers,Jordan Lyles,Kansas City Royals,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+110,Miguel Cabrera,Detroit Tigers,Jose Cuas,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+111,Miguel Cabrera,Detroit Tigers,Max Castillo,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Miguel Cabrera,Detroit Tigers,Aroldis Chapman,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+113,Miguel Cabrera,Detroit Tigers,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Miguel Cabrera,Detroit Tigers,Dylan Coleman,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+115,Miguel Cabrera,Detroit Tigers,Jonathan Heasley,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Miguel Cabrera,Detroit Tigers,Daniel Lynch IV,Kansas City Royals,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+117,Miguel Cabrera,Detroit Tigers,Mike Mayers,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Miguel Cabrera,Detroit Tigers,Ryan Yarbrough,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Miguel Cabrera,Detroit Tigers,Ken Waldichuk,Oakland Athletics,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+120,Miguel Cabrera,Detroit Tigers,JP Sears,Oakland Athletics,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+121,Miguel Cabrera,Detroit Tigers,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Miguel Cabrera,Detroit Tigers,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

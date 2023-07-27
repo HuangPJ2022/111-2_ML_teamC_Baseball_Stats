@@ -1,0 +1,204 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Vladimir Guerrero Jr.,Toronto Blue Jays,Raisel Iglesias,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Vladimir Guerrero Jr.,Toronto Blue Jays,Bryce Elder,Atlanta Braves,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+2,Vladimir Guerrero Jr.,Toronto Blue Jays,Collin McHugh,Atlanta Braves,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+3,Vladimir Guerrero Jr.,Toronto Blue Jays,Spencer Strider,Atlanta Braves,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+4,Vladimir Guerrero Jr.,Toronto Blue Jays,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Vladimir Guerrero Jr.,Toronto Blue Jays,A.J. Minter,Atlanta Braves,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+6,Vladimir Guerrero Jr.,Toronto Blue Jays,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Vladimir Guerrero Jr.,Toronto Blue Jays,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Vladimir Guerrero Jr.,Toronto Blue Jays,Joe Barlow,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Vladimir Guerrero Jr.,Toronto Blue Jays,Will Smith,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+10,Vladimir Guerrero Jr.,Toronto Blue Jays,Dane Dunning,Texas Rangers,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+11,Vladimir Guerrero Jr.,Toronto Blue Jays,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Vladimir Guerrero Jr.,Toronto Blue Jays,Jon Gray,Texas Rangers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+13,Vladimir Guerrero Jr.,Toronto Blue Jays,John King,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Vladimir Guerrero Jr.,Toronto Blue Jays,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Vladimir Guerrero Jr.,Toronto Blue Jays,Martin Perez,Texas Rangers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Vladimir Guerrero Jr.,Toronto Blue Jays,Carlos Estevez,Los Angeles Angels,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+17,Vladimir Guerrero Jr.,Toronto Blue Jays,Tyler Anderson,Los Angeles Angels,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+18,Vladimir Guerrero Jr.,Toronto Blue Jays,Patrick Sandoval,Los Angeles Angels,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+19,Vladimir Guerrero Jr.,Toronto Blue Jays,Ryan Tepera,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+20,Vladimir Guerrero Jr.,Toronto Blue Jays,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Vladimir Guerrero Jr.,Toronto Blue Jays,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+22,Vladimir Guerrero Jr.,Toronto Blue Jays,Jimmy Herget,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Vladimir Guerrero Jr.,Toronto Blue Jays,Zack Burdi,Tampa Bay Rays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+24,Vladimir Guerrero Jr.,Toronto Blue Jays,Trevor Kelley,Tampa Bay Rays,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+25,Vladimir Guerrero Jr.,Toronto Blue Jays,Luke Raley,Tampa Bay Rays,2,1,0,0,1,4,0,0,1,.500,.500,2.000,2.500
+26,Vladimir Guerrero Jr.,Toronto Blue Jays,Taj Bradley,Tampa Bay Rays,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+27,Vladimir Guerrero Jr.,Toronto Blue Jays,Zach Eflin,Tampa Bay Rays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+28,Vladimir Guerrero Jr.,Toronto Blue Jays,Shane McClanahan,Tampa Bay Rays,6,2,0,0,0,2,0,0,2,.333,.333,.333,.666
+29,Vladimir Guerrero Jr.,Toronto Blue Jays,Drew Rasmussen,Tampa Bay Rays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+30,Vladimir Guerrero Jr.,Toronto Blue Jays,Josh Fleming,Tampa Bay Rays,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+31,Vladimir Guerrero Jr.,Toronto Blue Jays,Jason Adam,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+32,Vladimir Guerrero Jr.,Toronto Blue Jays,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Vladimir Guerrero Jr.,Toronto Blue Jays,Garrett Cleavinger,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+34,Vladimir Guerrero Jr.,Toronto Blue Jays,Calvin Faucher,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Vladimir Guerrero Jr.,Toronto Blue Jays,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Vladimir Guerrero Jr.,Toronto Blue Jays,Kenley Jansen,Boston Red Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+37,Vladimir Guerrero Jr.,Toronto Blue Jays,Brayan Bello,Boston Red Sox,3,2,1,0,1,2,0,0,0,.667,.667,2.000,2.667
+38,Vladimir Guerrero Jr.,Toronto Blue Jays,John Schreiber,Boston Red Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+39,Vladimir Guerrero Jr.,Toronto Blue Jays,Kutter Crawford,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+40,Vladimir Guerrero Jr.,Toronto Blue Jays,Tanner Houck,Boston Red Sox,3,1,0,0,0,2,0,0,1,.333,.333,.333,.666
+41,Vladimir Guerrero Jr.,Toronto Blue Jays,Corey Kluber,Boston Red Sox,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+42,Vladimir Guerrero Jr.,Toronto Blue Jays,Nick Pivetta,Boston Red Sox,4,1,0,0,1,1,1,0,0,.250,.400,1.000,1.400
+43,Vladimir Guerrero Jr.,Toronto Blue Jays,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Vladimir Guerrero Jr.,Toronto Blue Jays,Chris Martin,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Vladimir Guerrero Jr.,Toronto Blue Jays,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Vladimir Guerrero Jr.,Toronto Blue Jays,James Paxton,Boston Red Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Vladimir Guerrero Jr.,Toronto Blue Jays,Garrett Whitlock,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Vladimir Guerrero Jr.,Toronto Blue Jays,Josh Winckowski,Boston Red Sox,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+49,Vladimir Guerrero Jr.,Toronto Blue Jays,Jordan Hicks,St. Louis Cardinals,1,1,0,0,0,2,1,0,0,1.000,1.000,1.000,2.000
+50,Vladimir Guerrero Jr.,Toronto Blue Jays,Miles Mikolas,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+51,Vladimir Guerrero Jr.,Toronto Blue Jays,Jordan Montgomery,St. Louis Cardinals,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+52,Vladimir Guerrero Jr.,Toronto Blue Jays,Jack Flaherty,St. Louis Cardinals,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+53,Vladimir Guerrero Jr.,Toronto Blue Jays,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+54,Vladimir Guerrero Jr.,Toronto Blue Jays,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Vladimir Guerrero Jr.,Toronto Blue Jays,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Vladimir Guerrero Jr.,Toronto Blue Jays,Austin Adams,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+57,Vladimir Guerrero Jr.,Toronto Blue Jays,Scott McGough,Arizona Diamondbacks,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+58,Vladimir Guerrero Jr.,Toronto Blue Jays,Ryne Nelson,Arizona Diamondbacks,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+59,Vladimir Guerrero Jr.,Toronto Blue Jays,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+60,Vladimir Guerrero Jr.,Toronto Blue Jays,Kevin Ginkel,Arizona Diamondbacks,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+61,Vladimir Guerrero Jr.,Toronto Blue Jays,Tommy Henry,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Vladimir Guerrero Jr.,Toronto Blue Jays,Justin Martinez,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Vladimir Guerrero Jr.,Toronto Blue Jays,Yennier Cano,Baltimore Orioles,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+64,Vladimir Guerrero Jr.,Toronto Blue Jays,Kyle Gibson,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+65,Vladimir Guerrero Jr.,Toronto Blue Jays,Tyler Wells,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+66,Vladimir Guerrero Jr.,Toronto Blue Jays,Dean Kremer,Baltimore Orioles,6,1,0,0,0,1,0,0,3,.167,.167,.167,.334
+67,Vladimir Guerrero Jr.,Toronto Blue Jays,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+68,Vladimir Guerrero Jr.,Toronto Blue Jays,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Vladimir Guerrero Jr.,Toronto Blue Jays,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+70,Vladimir Guerrero Jr.,Toronto Blue Jays,Mychal Givens,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Vladimir Guerrero Jr.,Toronto Blue Jays,Grayson Rodriguez,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Vladimir Guerrero Jr.,Toronto Blue Jays,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Vladimir Guerrero Jr.,Toronto Blue Jays,Zack Wheeler,Philadelphia Phillies,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+74,Vladimir Guerrero Jr.,Toronto Blue Jays,Seranthony Dominguez,Philadelphia Phillies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+75,Vladimir Guerrero Jr.,Toronto Blue Jays,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Vladimir Guerrero Jr.,Toronto Blue Jays,Aaron Nola,Philadelphia Phillies,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+77,Vladimir Guerrero Jr.,Toronto Blue Jays,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Vladimir Guerrero Jr.,Toronto Blue Jays,Luis Garcia,San Diego Padres,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+79,Vladimir Guerrero Jr.,Toronto Blue Jays,Yu Darvish,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+80,Vladimir Guerrero Jr.,Toronto Blue Jays,Alek Jacob,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Vladimir Guerrero Jr.,Toronto Blue Jays,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Vladimir Guerrero Jr.,Toronto Blue Jays,Joe Musgrove,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Vladimir Guerrero Jr.,Toronto Blue Jays,Blake Snell,San Diego Padres,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+84,Vladimir Guerrero Jr.,Toronto Blue Jays,Jose Urquidy,Houston Astros,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+85,Vladimir Guerrero Jr.,Toronto Blue Jays,Framber Valdez,Houston Astros,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+86,Vladimir Guerrero Jr.,Toronto Blue Jays,Ronel Blanco,Houston Astros,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+87,Vladimir Guerrero Jr.,Toronto Blue Jays,Brandon Bielak,Houston Astros,4,1,1,0,0,1,0,0,0,.250,.250,.500,.750
+88,Vladimir Guerrero Jr.,Toronto Blue Jays,Bryan Abreu,Houston Astros,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Vladimir Guerrero Jr.,Toronto Blue Jays,Hunter Brown,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Vladimir Guerrero Jr.,Toronto Blue Jays,Luis Garcia,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Vladimir Guerrero Jr.,Toronto Blue Jays,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Vladimir Guerrero Jr.,Toronto Blue Jays,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Vladimir Guerrero Jr.,Toronto Blue Jays,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Vladimir Guerrero Jr.,Toronto Blue Jays,Rafael Montero,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+95,Vladimir Guerrero Jr.,Toronto Blue Jays,Jhoan Duran,Minnesota Twins,1,1,0,0,0,0,1,1,0,1.000,1.000,1.000,2.000
+96,Vladimir Guerrero Jr.,Toronto Blue Jays,Joe Ryan,Minnesota Twins,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+97,Vladimir Guerrero Jr.,Toronto Blue Jays,Louie Varland,Minnesota Twins,6,2,0,0,0,1,0,0,0,.333,.333,.333,.666
+98,Vladimir Guerrero Jr.,Toronto Blue Jays,Jose De Leon,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Vladimir Guerrero Jr.,Toronto Blue Jays,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+100,Vladimir Guerrero Jr.,Toronto Blue Jays,Griffin Jax,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Vladimir Guerrero Jr.,Toronto Blue Jays,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Vladimir Guerrero Jr.,Toronto Blue Jays,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Vladimir Guerrero Jr.,Toronto Blue Jays,Emilio Pagan,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Vladimir Guerrero Jr.,Toronto Blue Jays,Brock Stewart,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Vladimir Guerrero Jr.,Toronto Blue Jays,Dylan Floro,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+106,Vladimir Guerrero Jr.,Toronto Blue Jays,Sandy Alcantara,Miami Marlins,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Vladimir Guerrero Jr.,Toronto Blue Jays,Archie Bradley,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Vladimir Guerrero Jr.,Toronto Blue Jays,JT Chargois,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Vladimir Guerrero Jr.,Toronto Blue Jays,Bryan Hoeing,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Vladimir Guerrero Jr.,Toronto Blue Jays,Eury Perez,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Vladimir Guerrero Jr.,Toronto Blue Jays,Ross Stripling,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+112,Vladimir Guerrero Jr.,Toronto Blue Jays,Keaton Winn,San Francisco Giants,2,1,0,0,1,2,0,0,0,.500,.667,2.000,2.667
+113,Vladimir Guerrero Jr.,Toronto Blue Jays,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Vladimir Guerrero Jr.,Toronto Blue Jays,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Vladimir Guerrero Jr.,Toronto Blue Jays,Logan Webb,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+116,Vladimir Guerrero Jr.,Toronto Blue Jays,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Vladimir Guerrero Jr.,Toronto Blue Jays,Dominic Leone,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+118,Vladimir Guerrero Jr.,Toronto Blue Jays,David Robertson,New York Mets,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+119,Vladimir Guerrero Jr.,Toronto Blue Jays,Kodai Senga,New York Mets,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+120,Vladimir Guerrero Jr.,Toronto Blue Jays,Drew Smith,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+121,Vladimir Guerrero Jr.,Toronto Blue Jays,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Vladimir Guerrero Jr.,Toronto Blue Jays,Tylor Megill,New York Mets,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+123,Vladimir Guerrero Jr.,Toronto Blue Jays,Stephen Nogosek,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Vladimir Guerrero Jr.,Toronto Blue Jays,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Vladimir Guerrero Jr.,Toronto Blue Jays,Justin Verlander,New York Mets,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+126,Vladimir Guerrero Jr.,Toronto Blue Jays,Albert Abreu,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+127,Vladimir Guerrero Jr.,Toronto Blue Jays,Ron Marinaccio,New York Yankees,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+128,Vladimir Guerrero Jr.,Toronto Blue Jays,Gerrit Cole,New York Yankees,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+129,Vladimir Guerrero Jr.,Toronto Blue Jays,Ian Hamilton,New York Yankees,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+130,Vladimir Guerrero Jr.,Toronto Blue Jays,Clarke Schmidt,New York Yankees,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+131,Vladimir Guerrero Jr.,Toronto Blue Jays,Domingo German,New York Yankees,4,1,0,0,1,2,0,0,1,.250,.250,1.000,1.250
+132,Vladimir Guerrero Jr.,Toronto Blue Jays,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Vladimir Guerrero Jr.,Toronto Blue Jays,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Vladimir Guerrero Jr.,Toronto Blue Jays,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Vladimir Guerrero Jr.,Toronto Blue Jays,Ryan Weber,New York Yankees,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+136,Vladimir Guerrero Jr.,Toronto Blue Jays,Greg Weissert,New York Yankees,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+137,Vladimir Guerrero Jr.,Toronto Blue Jays,Trevor Gott,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+138,Vladimir Guerrero Jr.,Toronto Blue Jays,Logan Gilbert,Seattle Mariners,3,2,1,0,1,1,0,0,1,.667,.667,2.000,2.667
+139,Vladimir Guerrero Jr.,Toronto Blue Jays,Prelander Berroa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Vladimir Guerrero Jr.,Toronto Blue Jays,Matt Brash,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Vladimir Guerrero Jr.,Toronto Blue Jays,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+142,Vladimir Guerrero Jr.,Toronto Blue Jays,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Vladimir Guerrero Jr.,Toronto Blue Jays,Marco Gonzales,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+144,Vladimir Guerrero Jr.,Toronto Blue Jays,Easton McGee,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Vladimir Guerrero Jr.,Toronto Blue Jays,Bryce Miller,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+146,Vladimir Guerrero Jr.,Toronto Blue Jays,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Vladimir Guerrero Jr.,Toronto Blue Jays,Penn Murfee,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+148,Vladimir Guerrero Jr.,Toronto Blue Jays,Justin Topa,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Vladimir Guerrero Jr.,Toronto Blue Jays,Rich Hill,Pittsburgh Pirates,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+150,Vladimir Guerrero Jr.,Toronto Blue Jays,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Vladimir Guerrero Jr.,Toronto Blue Jays,Aaron Bummer,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+152,Vladimir Guerrero Jr.,Toronto Blue Jays,Joe Kelly,Chicago White Sox,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+153,Vladimir Guerrero Jr.,Toronto Blue Jays,Keynan Middleton,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+154,Vladimir Guerrero Jr.,Toronto Blue Jays,Nicholas Padilla,Chicago White Sox,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+155,Vladimir Guerrero Jr.,Toronto Blue Jays,Jimmy Lambert,Chicago White Sox,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+156,Vladimir Guerrero Jr.,Toronto Blue Jays,Mike Clevinger,Chicago White Sox,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+157,Vladimir Guerrero Jr.,Toronto Blue Jays,Lucas Giolito,Chicago White Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+158,Vladimir Guerrero Jr.,Toronto Blue Jays,Michael Kopech,Chicago White Sox,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+159,Vladimir Guerrero Jr.,Toronto Blue Jays,Jesse Scholtens,Chicago White Sox,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+160,Vladimir Guerrero Jr.,Toronto Blue Jays,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+161,Vladimir Guerrero Jr.,Toronto Blue Jays,Jake Diekman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Vladimir Guerrero Jr.,Toronto Blue Jays,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+163,Vladimir Guerrero Jr.,Toronto Blue Jays,Lance Lynn,Chicago White Sox,6,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+164,Vladimir Guerrero Jr.,Toronto Blue Jays,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,Vladimir Guerrero Jr.,Toronto Blue Jays,Jake Cousins,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+166,Vladimir Guerrero Jr.,Toronto Blue Jays,Elvis Peguero,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+167,Vladimir Guerrero Jr.,Toronto Blue Jays,Bryse Wilson,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+168,Vladimir Guerrero Jr.,Toronto Blue Jays,Adrian Houser,Milwaukee Brewers,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+169,Vladimir Guerrero Jr.,Toronto Blue Jays,Freddy Peralta,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Vladimir Guerrero Jr.,Toronto Blue Jays,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Vladimir Guerrero Jr.,Toronto Blue Jays,Julio Teheran,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+172,Vladimir Guerrero Jr.,Toronto Blue Jays,Jose Cisnero,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+173,Vladimir Guerrero Jr.,Toronto Blue Jays,Trey Wingenter,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+174,Vladimir Guerrero Jr.,Toronto Blue Jays,Alex Faedo,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+175,Vladimir Guerrero Jr.,Toronto Blue Jays,Eduardo Rodriguez,Detroit Tigers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+176,Vladimir Guerrero Jr.,Toronto Blue Jays,Spencer Turnbull,Detroit Tigers,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+177,Vladimir Guerrero Jr.,Toronto Blue Jays,Mason Englert,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+178,Vladimir Guerrero Jr.,Toronto Blue Jays,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Vladimir Guerrero Jr.,Toronto Blue Jays,Alex Lange,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Vladimir Guerrero Jr.,Toronto Blue Jays,Matt Manning,Detroit Tigers,6,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Vladimir Guerrero Jr.,Toronto Blue Jays,Reese Olson,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+182,Vladimir Guerrero Jr.,Toronto Blue Jays,Tarik Skubal,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+183,Vladimir Guerrero Jr.,Toronto Blue Jays,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Vladimir Guerrero Jr.,Toronto Blue Jays,Jose Cuas,Kansas City Royals,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+185,Vladimir Guerrero Jr.,Toronto Blue Jays,Ryan Yarbrough,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+186,Vladimir Guerrero Jr.,Toronto Blue Jays,Zack Greinke,Kansas City Royals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+187,Vladimir Guerrero Jr.,Toronto Blue Jays,Jordan Lyles,Kansas City Royals,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+188,Vladimir Guerrero Jr.,Toronto Blue Jays,Kris Bubic,Kansas City Royals,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+189,Vladimir Guerrero Jr.,Toronto Blue Jays,Taylor Clarke,Kansas City Royals,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+190,Vladimir Guerrero Jr.,Toronto Blue Jays,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+191,Vladimir Guerrero Jr.,Toronto Blue Jays,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+192,Vladimir Guerrero Jr.,Toronto Blue Jays,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+193,Vladimir Guerrero Jr.,Toronto Blue Jays,Brady Singer,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+194,Vladimir Guerrero Jr.,Toronto Blue Jays,Sam Long,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+195,Vladimir Guerrero Jr.,Toronto Blue Jays,Trevor May,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+196,Vladimir Guerrero Jr.,Toronto Blue Jays,Austin Pruitt,Oakland Athletics,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+197,Vladimir Guerrero Jr.,Toronto Blue Jays,Ken Waldichuk,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+198,Vladimir Guerrero Jr.,Toronto Blue Jays,James Kaprielian,Oakland Athletics,3,1,0,0,1,3,0,0,2,.333,.333,1.333,1.666
+199,Vladimir Guerrero Jr.,Toronto Blue Jays,Luis Medina,Oakland Athletics,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+200,Vladimir Guerrero Jr.,Toronto Blue Jays,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+201,Vladimir Guerrero Jr.,Toronto Blue Jays,Hogan Harris,Oakland Athletics,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+202,Vladimir Guerrero Jr.,Toronto Blue Jays,Yacksel Rios,Oakland Athletics,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000

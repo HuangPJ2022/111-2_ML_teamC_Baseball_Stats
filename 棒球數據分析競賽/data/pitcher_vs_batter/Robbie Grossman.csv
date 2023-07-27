@@ -1,0 +1,145 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Robbie Grossman,Texas Rangers,Spencer Strider,Atlanta Braves,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+1,Robbie Grossman,Texas Rangers,Dylan Lee,Atlanta Braves,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+2,Robbie Grossman,Texas Rangers,Jared Shuster,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+3,Robbie Grossman,Texas Rangers,Charlie Morton,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+4,Robbie Grossman,Texas Rangers,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Robbie Grossman,Texas Rangers,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Robbie Grossman,Texas Rangers,Danny Young,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Robbie Grossman,Texas Rangers,Tucker Davidson,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+8,Robbie Grossman,Texas Rangers,Tyler Anderson,Los Angeles Angels,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+9,Robbie Grossman,Texas Rangers,Jimmy Herget,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+10,Robbie Grossman,Texas Rangers,Reid Detmers,Los Angeles Angels,5,1,0,0,0,0,0,0,4,.200,.200,.200,.400
+11,Robbie Grossman,Texas Rangers,Jaime Barria,Los Angeles Angels,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+12,Robbie Grossman,Texas Rangers,Chris Devenski,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Robbie Grossman,Texas Rangers,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+14,Robbie Grossman,Texas Rangers,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Robbie Grossman,Texas Rangers,Shohei Ohtani,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Robbie Grossman,Texas Rangers,Chase Silseth,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Robbie Grossman,Texas Rangers,Jose Suarez,Los Angeles Angels,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+18,Robbie Grossman,Texas Rangers,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Robbie Grossman,Texas Rangers,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Robbie Grossman,Texas Rangers,Colin Poche,Tampa Bay Rays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+21,Robbie Grossman,Texas Rangers,Shane McClanahan,Tampa Bay Rays,5,2,0,0,1,1,0,0,1,.400,.400,1.000,1.400
+22,Robbie Grossman,Texas Rangers,Jake Diekman,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+23,Robbie Grossman,Texas Rangers,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Robbie Grossman,Texas Rangers,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Robbie Grossman,Texas Rangers,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Robbie Grossman,Texas Rangers,Chris Murphy,Boston Red Sox,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+27,Robbie Grossman,Texas Rangers,Kaleb Ort,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,Robbie Grossman,Texas Rangers,Brayan Bello,Boston Red Sox,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+29,Robbie Grossman,Texas Rangers,Kutter Crawford,Boston Red Sox,0,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+30,Robbie Grossman,Texas Rangers,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Robbie Grossman,Texas Rangers,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Robbie Grossman,Texas Rangers,Brandon Walter,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Robbie Grossman,Texas Rangers,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Robbie Grossman,Texas Rangers,Jack Flaherty,St. Louis Cardinals,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+35,Robbie Grossman,Texas Rangers,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Robbie Grossman,Texas Rangers,Matthew Liberatore,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Robbie Grossman,Texas Rangers,Chris Stratton,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+38,Robbie Grossman,Texas Rangers,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Robbie Grossman,Texas Rangers,Zac Gallen,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+40,Robbie Grossman,Texas Rangers,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Robbie Grossman,Texas Rangers,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Robbie Grossman,Texas Rangers,Ian Gibaut,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+43,Robbie Grossman,Texas Rangers,Nick Lodolo,Cincinnati Reds,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+44,Robbie Grossman,Texas Rangers,Graham Ashcraft,Cincinnati Reds,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Robbie Grossman,Texas Rangers,Adam Cimber,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Robbie Grossman,Texas Rangers,Bowden Francis,Toronto Blue Jays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+47,Robbie Grossman,Texas Rangers,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Robbie Grossman,Texas Rangers,Yennier Cano,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+49,Robbie Grossman,Texas Rangers,Grayson Rodriguez,Baltimore Orioles,3,2,0,0,1,2,1,0,0,.667,.750,1.667,2.417
+50,Robbie Grossman,Texas Rangers,Kyle Bradish,Baltimore Orioles,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+51,Robbie Grossman,Texas Rangers,Dean Kremer,Baltimore Orioles,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+52,Robbie Grossman,Texas Rangers,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Robbie Grossman,Texas Rangers,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Robbie Grossman,Texas Rangers,Kyle Gibson,Baltimore Orioles,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+55,Robbie Grossman,Texas Rangers,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Robbie Grossman,Texas Rangers,Austin Voth,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+57,Robbie Grossman,Texas Rangers,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Robbie Grossman,Texas Rangers,Seranthony Dominguez,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+59,Robbie Grossman,Texas Rangers,Zack Wheeler,Philadelphia Phillies,1,1,0,0,0,2,0,0,0,1.000,.500,1.000,1.500
+60,Robbie Grossman,Texas Rangers,Connor Brogdon,Philadelphia Phillies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+61,Robbie Grossman,Texas Rangers,Aaron Nola,Philadelphia Phillies,2,1,0,0,1,3,0,0,1,.500,.500,2.000,2.500
+62,Robbie Grossman,Texas Rangers,Andrew Bellatti,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+63,Robbie Grossman,Texas Rangers,Bailey Falter,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Robbie Grossman,Texas Rangers,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Robbie Grossman,Texas Rangers,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Robbie Grossman,Texas Rangers,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Robbie Grossman,Texas Rangers,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Robbie Grossman,Texas Rangers,Justin Steele,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Robbie Grossman,Texas Rangers,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Robbie Grossman,Texas Rangers,Framber Valdez,Houston Astros,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+71,Robbie Grossman,Texas Rangers,Ronel Blanco,Houston Astros,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+72,Robbie Grossman,Texas Rangers,Hunter Brown,Houston Astros,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+73,Robbie Grossman,Texas Rangers,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Robbie Grossman,Texas Rangers,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Robbie Grossman,Texas Rangers,Kyle Freeland,Colorado Rockies,1,1,0,0,0,3,0,0,0,1.000,.500,1.000,1.500
+76,Robbie Grossman,Texas Rangers,Peter Lambert,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+77,Robbie Grossman,Texas Rangers,Fernando Abad,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Robbie Grossman,Texas Rangers,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Robbie Grossman,Texas Rangers,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Robbie Grossman,Texas Rangers,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Robbie Grossman,Texas Rangers,Karl Kauffmann,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Robbie Grossman,Texas Rangers,Connor Seabold,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Robbie Grossman,Texas Rangers,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Robbie Grossman,Texas Rangers,Clarke Schmidt,New York Yankees,6,4,3,0,1,2,0,0,0,.667,.667,1.667,2.334
+85,Robbie Grossman,Texas Rangers,Albert Abreu,New York Yankees,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+86,Robbie Grossman,Texas Rangers,Jhony Brito,New York Yankees,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+87,Robbie Grossman,Texas Rangers,Gerrit Cole,New York Yankees,5,1,0,0,0,0,0,0,2,.200,.200,.200,.400
+88,Robbie Grossman,Texas Rangers,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Robbie Grossman,Texas Rangers,Nestor Cortes,New York Yankees,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+90,Robbie Grossman,Texas Rangers,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Robbie Grossman,Texas Rangers,Michael King,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Robbie Grossman,Texas Rangers,Ron Marinaccio,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Robbie Grossman,Texas Rangers,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Robbie Grossman,Texas Rangers,Bryce Miller,Seattle Mariners,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+95,Robbie Grossman,Texas Rangers,Luis Castillo,Seattle Mariners,6,2,0,0,0,0,0,0,2,.333,.333,.333,.666
+96,Robbie Grossman,Texas Rangers,Matt Brash,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Robbie Grossman,Texas Rangers,Matt Festa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Robbie Grossman,Texas Rangers,Mike Ford,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Robbie Grossman,Texas Rangers,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Robbie Grossman,Texas Rangers,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Robbie Grossman,Texas Rangers,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Robbie Grossman,Texas Rangers,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Robbie Grossman,Texas Rangers,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Robbie Grossman,Texas Rangers,Rich Hill,Pittsburgh Pirates,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+105,Robbie Grossman,Texas Rangers,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Robbie Grossman,Texas Rangers,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Robbie Grossman,Texas Rangers,Luis L. Ortiz,Pittsburgh Pirates,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+108,Robbie Grossman,Texas Rangers,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+109,Robbie Grossman,Texas Rangers,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Robbie Grossman,Texas Rangers,Matthew Boyd,Detroit Tigers,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+111,Robbie Grossman,Texas Rangers,Braden Bristo,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Robbie Grossman,Texas Rangers,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Robbie Grossman,Texas Rangers,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Robbie Grossman,Texas Rangers,Alex Faedo,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+115,Robbie Grossman,Texas Rangers,Tyler Holton,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+116,Robbie Grossman,Texas Rangers,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Robbie Grossman,Texas Rangers,Matt Manning,Detroit Tigers,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+118,Robbie Grossman,Texas Rangers,Anthony Misiewicz,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Robbie Grossman,Texas Rangers,Chasen Shreve,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+120,Robbie Grossman,Texas Rangers,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Robbie Grossman,Texas Rangers,Taylor Clarke,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+122,Robbie Grossman,Texas Rangers,Carlos Hernandez,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+123,Robbie Grossman,Texas Rangers,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Robbie Grossman,Texas Rangers,Dylan Coleman,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+125,Robbie Grossman,Texas Rangers,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Robbie Grossman,Texas Rangers,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Robbie Grossman,Texas Rangers,Brad Keller,Kansas City Royals,4,0,0,0,0,0,1,0,1,.000,.200,.000,.200
+128,Robbie Grossman,Texas Rangers,Jordan Lyles,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Robbie Grossman,Texas Rangers,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Robbie Grossman,Texas Rangers,Ryan Yarbrough,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Robbie Grossman,Texas Rangers,Zach Jackson,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+132,Robbie Grossman,Texas Rangers,Spencer Patton,Oakland Athletics,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+133,Robbie Grossman,Texas Rangers,Sam Moll,Oakland Athletics,2,1,0,0,0,1,1,0,1,.500,.667,.500,1.167
+134,Robbie Grossman,Texas Rangers,Kyle Muller,Oakland Athletics,2,1,0,0,1,4,0,0,0,.500,.333,2.000,2.333
+135,Robbie Grossman,Texas Rangers,JP Sears,Oakland Athletics,6,3,1,0,1,2,0,0,3,.500,.500,1.167,1.667
+136,Robbie Grossman,Texas Rangers,Luis Medina,Oakland Athletics,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+137,Robbie Grossman,Texas Rangers,Ken Waldichuk,Oakland Athletics,3,1,1,0,0,1,0,0,2,.333,.333,.667,1.000
+138,Robbie Grossman,Texas Rangers,Garrett Acton,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Robbie Grossman,Texas Rangers,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,Robbie Grossman,Texas Rangers,James Kaprielian,Oakland Athletics,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+141,Robbie Grossman,Texas Rangers,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+142,Robbie Grossman,Texas Rangers,Richard Lovelady,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+143,Robbie Grossman,Texas Rangers,Zach Neal,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

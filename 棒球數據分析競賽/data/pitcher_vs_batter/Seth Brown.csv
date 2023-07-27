@@ -1,0 +1,105 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Seth Brown,Oakland Athletics,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Seth Brown,Oakland Athletics,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+2,Seth Brown,Oakland Athletics,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+3,Seth Brown,Oakland Athletics,Lucas Luetge,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Seth Brown,Oakland Athletics,Michael Soroka,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Seth Brown,Oakland Athletics,Ryan Tepera,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+6,Seth Brown,Oakland Athletics,Shohei Ohtani,Los Angeles Angels,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+7,Seth Brown,Oakland Athletics,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+8,Seth Brown,Oakland Athletics,Tucker Davidson,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Seth Brown,Oakland Athletics,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Seth Brown,Oakland Athletics,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Seth Brown,Oakland Athletics,Yonny Chirinos,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+12,Seth Brown,Oakland Athletics,Taj Bradley,Tampa Bay Rays,3,1,0,0,0,2,0,0,2,.333,.333,.333,.666
+13,Seth Brown,Oakland Athletics,Tyler Glasnow,Tampa Bay Rays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+14,Seth Brown,Oakland Athletics,Zach Eflin,Tampa Bay Rays,5,1,0,0,0,0,0,0,3,.200,.200,.200,.400
+15,Seth Brown,Oakland Athletics,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Seth Brown,Oakland Athletics,Jake Diekman,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Seth Brown,Oakland Athletics,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Seth Brown,Oakland Athletics,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Seth Brown,Oakland Athletics,Jeffrey Springs,Tampa Bay Rays,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+20,Seth Brown,Oakland Athletics,Josh Winckowski,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+21,Seth Brown,Oakland Athletics,Nick Pivetta,Boston Red Sox,4,1,0,0,1,2,1,0,1,.250,.400,1.000,1.400
+22,Seth Brown,Oakland Athletics,Brayan Bello,Boston Red Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+23,Seth Brown,Oakland Athletics,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Seth Brown,Oakland Athletics,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Seth Brown,Oakland Athletics,Chris Murphy,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Seth Brown,Oakland Athletics,Tayler Scott,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Seth Brown,Oakland Athletics,Jose Berrios,Toronto Blue Jays,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+28,Seth Brown,Oakland Athletics,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Seth Brown,Oakland Athletics,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Seth Brown,Oakland Athletics,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Seth Brown,Oakland Athletics,Taijuan Walker,Philadelphia Phillies,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+32,Seth Brown,Oakland Athletics,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Seth Brown,Oakland Athletics,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Seth Brown,Oakland Athletics,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Seth Brown,Oakland Athletics,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Seth Brown,Oakland Athletics,Joel Kuhnel,Houston Astros,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+37,Seth Brown,Oakland Athletics,J.P. France,Houston Astros,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+38,Seth Brown,Oakland Athletics,Cristian Javier,Houston Astros,4,1,0,0,0,0,1,0,1,.250,.400,.250,.650
+39,Seth Brown,Oakland Athletics,Hunter Brown,Houston Astros,5,1,0,0,1,2,1,0,3,.200,.333,.800,1.133
+40,Seth Brown,Oakland Athletics,Bryan Abreu,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+41,Seth Brown,Oakland Athletics,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Seth Brown,Oakland Athletics,Parker Mushinski,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Seth Brown,Oakland Athletics,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Seth Brown,Oakland Athletics,Ryan Pressly,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Seth Brown,Oakland Athletics,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Seth Brown,Oakland Athletics,Framber Valdez,Houston Astros,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+47,Seth Brown,Oakland Athletics,Pablo Lopez,Minnesota Twins,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+48,Seth Brown,Oakland Athletics,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Seth Brown,Oakland Athletics,Kenta Maeda,Minnesota Twins,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+50,Seth Brown,Oakland Athletics,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Seth Brown,Oakland Athletics,Emilio Pagan,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Seth Brown,Oakland Athletics,Joe Ryan,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.667,.000,.667
+53,Seth Brown,Oakland Athletics,Edward Cabrera,Miami Marlins,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+54,Seth Brown,Oakland Athletics,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Seth Brown,Oakland Athletics,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Seth Brown,Oakland Athletics,Eury Perez,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+57,Seth Brown,Oakland Athletics,George Soriano,Miami Marlins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+58,Seth Brown,Oakland Athletics,Nick Ramirez,New York Yankees,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+59,Seth Brown,Oakland Athletics,Clarke Schmidt,New York Yankees,3,2,0,0,0,1,0,0,1,.667,.667,.667,1.334
+60,Seth Brown,Oakland Athletics,Jhony Brito,New York Yankees,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+61,Seth Brown,Oakland Athletics,Domingo German,New York Yankees,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Seth Brown,Oakland Athletics,Luis Castillo,Seattle Mariners,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+63,Seth Brown,Oakland Athletics,Logan Gilbert,Seattle Mariners,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+64,Seth Brown,Oakland Athletics,Bryce Miller,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Seth Brown,Oakland Athletics,Gabe Speier,Seattle Mariners,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+66,Seth Brown,Oakland Athletics,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Seth Brown,Oakland Athletics,Enyel De Los Santos,Cleveland Guardians,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+68,Seth Brown,Oakland Athletics,Zach Plesac,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+69,Seth Brown,Oakland Athletics,Trevor Stephan,Cleveland Guardians,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+70,Seth Brown,Oakland Athletics,Emmanuel Clase,Cleveland Guardians,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+71,Seth Brown,Oakland Athletics,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+72,Seth Brown,Oakland Athletics,Aaron Civale,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+73,Seth Brown,Oakland Athletics,Xzavion Curry,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Seth Brown,Oakland Athletics,Hunter Gaddis,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Seth Brown,Oakland Athletics,Tim Herrin,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Seth Brown,Oakland Athletics,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Seth Brown,Oakland Athletics,Gavin Williams,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Seth Brown,Oakland Athletics,Roansy Contreras,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+79,Seth Brown,Oakland Athletics,Luis L. Ortiz,Pittsburgh Pirates,2,2,1,0,0,0,1,0,0,1.000,1.000,1.500,2.500
+80,Seth Brown,Oakland Athletics,Mitch Keller,Pittsburgh Pirates,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+81,Seth Brown,Oakland Athletics,Johan Oviedo,Pittsburgh Pirates,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+82,Seth Brown,Oakland Athletics,Chase De Jong,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Seth Brown,Oakland Athletics,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Seth Brown,Oakland Athletics,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Seth Brown,Oakland Athletics,Rob Zastryzny,Pittsburgh Pirates,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+86,Seth Brown,Oakland Athletics,Keynan Middleton,Chicago White Sox,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+87,Seth Brown,Oakland Athletics,Gregory Santos,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+88,Seth Brown,Oakland Athletics,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Seth Brown,Oakland Athletics,Dylan Cease,Chicago White Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+90,Seth Brown,Oakland Athletics,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Seth Brown,Oakland Athletics,Jesse Scholtens,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Seth Brown,Oakland Athletics,Bryan Shaw,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Seth Brown,Oakland Athletics,Touki Toussaint,Chicago White Sox,1,0,0,0,0,1,1,0,1,.000,.500,.000,.500
+94,Seth Brown,Oakland Athletics,Freddy Peralta,Milwaukee Brewers,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+95,Seth Brown,Oakland Athletics,Julio Teheran,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+96,Seth Brown,Oakland Athletics,Adrian Houser,Milwaukee Brewers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+97,Seth Brown,Oakland Athletics,Tyson Miller,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Seth Brown,Oakland Athletics,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+99,Seth Brown,Oakland Athletics,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Seth Brown,Oakland Athletics,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Seth Brown,Oakland Athletics,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Seth Brown,Oakland Athletics,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Seth Brown,Oakland Athletics,Reese Olson,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

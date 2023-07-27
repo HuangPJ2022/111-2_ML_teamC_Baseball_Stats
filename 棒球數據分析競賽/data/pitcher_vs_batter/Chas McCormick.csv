@@ -1,0 +1,136 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Chas McCormick,Houston Astros,Martin Perez,Texas Rangers,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+1,Chas McCormick,Houston Astros,Josh Sborz,Texas Rangers,1,1,0,1,0,3,0,0,0,1.000,1.000,3.000,4.000
+2,Chas McCormick,Houston Astros,Will Smith,Texas Rangers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+3,Chas McCormick,Houston Astros,Jon Gray,Texas Rangers,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+4,Chas McCormick,Houston Astros,Andrew Heaney,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+5,Chas McCormick,Houston Astros,Cody Bradford,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Chas McCormick,Houston Astros,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Chas McCormick,Houston Astros,Aroldis Chapman,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Chas McCormick,Houston Astros,Glenn Otto,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Chas McCormick,Houston Astros,Evan Phillips,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+10,Chas McCormick,Houston Astros,Emmet Sheehan,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+11,Chas McCormick,Houston Astros,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Chas McCormick,Houston Astros,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Chas McCormick,Houston Astros,Tony Gonsolin,Los Angeles Dodgers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+14,Chas McCormick,Houston Astros,Michael Grove,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Chas McCormick,Houston Astros,Tyler Anderson,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+16,Chas McCormick,Houston Astros,Tucker Davidson,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+17,Chas McCormick,Houston Astros,Chris Devenski,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Chas McCormick,Houston Astros,Ben Joyce,Los Angeles Angels,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+19,Chas McCormick,Houston Astros,Aaron Loup,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Chas McCormick,Houston Astros,Matt Moore,Los Angeles Angels,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+21,Chas McCormick,Houston Astros,Chase Silseth,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Chas McCormick,Houston Astros,Carlos Estevez,Los Angeles Angels,2,1,0,0,1,2,1,0,1,.500,.667,2.000,2.667
+23,Chas McCormick,Houston Astros,Shohei Ohtani,Los Angeles Angels,5,2,0,0,0,0,1,0,3,.400,.500,.400,.900
+24,Chas McCormick,Houston Astros,Jacob Webb,Los Angeles Angels,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+25,Chas McCormick,Houston Astros,Patrick Sandoval,Los Angeles Angels,5,1,1,0,0,1,0,0,0,.200,.200,.400,.600
+26,Chas McCormick,Houston Astros,Griffin Canning,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+27,Chas McCormick,Houston Astros,Reid Detmers,Los Angeles Angels,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+28,Chas McCormick,Houston Astros,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Chas McCormick,Houston Astros,Zack Weiss,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Chas McCormick,Houston Astros,Alec Burleson,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+31,Chas McCormick,Houston Astros,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+32,Chas McCormick,Houston Astros,Jordan Montgomery,St. Louis Cardinals,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+33,Chas McCormick,Houston Astros,Drew VerHagen,St. Louis Cardinals,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+34,Chas McCormick,Houston Astros,Adam Wainwright,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Chas McCormick,Houston Astros,Jake Woodford,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Chas McCormick,Houston Astros,Buck Farmer,Cincinnati Reds,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+37,Chas McCormick,Houston Astros,Ian Gibaut,Cincinnati Reds,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+38,Chas McCormick,Houston Astros,Andrew Abbott,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+39,Chas McCormick,Houston Astros,Luke Weaver,Cincinnati Reds,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+40,Chas McCormick,Houston Astros,Alexis Diaz,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+41,Chas McCormick,Houston Astros,Daniel Duarte,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Chas McCormick,Houston Astros,Yimi Garcia,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+43,Chas McCormick,Houston Astros,Jose Berrios,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+44,Chas McCormick,Houston Astros,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Chas McCormick,Houston Astros,Adam Cimber,Toronto Blue Jays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+46,Chas McCormick,Houston Astros,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Chas McCormick,Houston Astros,Jeremiah Estrada,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+48,Chas McCormick,Houston Astros,Julian Merryweather,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+49,Chas McCormick,Houston Astros,Justin Steele,Chicago Cubs,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+50,Chas McCormick,Houston Astros,Jameson Taillon,Chicago Cubs,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+51,Chas McCormick,Houston Astros,Adbert Alzolay,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Chas McCormick,Houston Astros,Nick Burdi,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Chas McCormick,Houston Astros,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Chas McCormick,Houston Astros,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Chas McCormick,Houston Astros,Tyler Mahle,Minnesota Twins,3,2,0,0,1,4,0,0,0,.667,.667,1.667,2.334
+56,Chas McCormick,Houston Astros,Joe Ryan,Minnesota Twins,5,2,0,0,1,2,0,0,2,.400,.400,1.000,1.400
+57,Chas McCormick,Houston Astros,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Chas McCormick,Houston Astros,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Chas McCormick,Houston Astros,Sonny Gray,Minnesota Twins,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+60,Chas McCormick,Houston Astros,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Chas McCormick,Houston Astros,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Chas McCormick,Houston Astros,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Chas McCormick,Houston Astros,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Chas McCormick,Houston Astros,Louie Varland,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Chas McCormick,Houston Astros,Kyle Finnegan,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+66,Chas McCormick,Houston Astros,Thaddeus Ward,Washington Nationals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+67,Chas McCormick,Houston Astros,MacKenzie Gore,Washington Nationals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+68,Chas McCormick,Houston Astros,Patrick Corbin,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Chas McCormick,Houston Astros,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Chas McCormick,Houston Astros,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Chas McCormick,Houston Astros,Dominic Leone,New York Mets,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+72,Chas McCormick,Houston Astros,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Chas McCormick,Houston Astros,Tylor Megill,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+74,Chas McCormick,Houston Astros,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Chas McCormick,Houston Astros,Max Scherzer,New York Mets,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Chas McCormick,Houston Astros,Jake Bird,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+77,Chas McCormick,Houston Astros,Austin Gomber,Colorado Rockies,3,2,0,0,1,2,0,0,1,.667,.667,1.667,2.334
+78,Chas McCormick,Houston Astros,Gavin Hollowell,Colorado Rockies,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+79,Chas McCormick,Houston Astros,Fernando Abad,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+80,Chas McCormick,Houston Astros,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Chas McCormick,Houston Astros,Kyle Freeland,Colorado Rockies,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+82,Chas McCormick,Houston Astros,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Chas McCormick,Houston Astros,Logan Gilbert,Seattle Mariners,2,1,0,0,0,0,0,0,1,.500,.667,.500,1.167
+84,Chas McCormick,Houston Astros,Luis Castillo,Seattle Mariners,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+85,Chas McCormick,Houston Astros,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Chas McCormick,Houston Astros,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Chas McCormick,Houston Astros,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Chas McCormick,Houston Astros,Bryan Woo,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+89,Chas McCormick,Houston Astros,Logan Allen,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+90,Chas McCormick,Houston Astros,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Chas McCormick,Houston Astros,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Chas McCormick,Houston Astros,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Chas McCormick,Houston Astros,James Karinchak,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+94,Chas McCormick,Houston Astros,David Bednar,Pittsburgh Pirates,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+95,Chas McCormick,Houston Astros,Chase De Jong,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+96,Chas McCormick,Houston Astros,Jose Hernandez,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+97,Chas McCormick,Houston Astros,Rich Hill,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+98,Chas McCormick,Houston Astros,Roansy Contreras,Pittsburgh Pirates,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+99,Chas McCormick,Houston Astros,Wil Crowe,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+100,Chas McCormick,Houston Astros,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+101,Chas McCormick,Houston Astros,Dauri Moreta,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+102,Chas McCormick,Houston Astros,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Chas McCormick,Houston Astros,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Chas McCormick,Houston Astros,Kendall Graveman,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+105,Chas McCormick,Houston Astros,Lucas Giolito,Chicago White Sox,4,1,0,0,0,1,0,0,1,.250,.250,.250,.500
+106,Chas McCormick,Houston Astros,Mike Clevinger,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+107,Chas McCormick,Houston Astros,Jimmy Lambert,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+108,Chas McCormick,Houston Astros,Reynaldo Lopez,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Chas McCormick,Houston Astros,Jose Ruiz,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+110,Chas McCormick,Houston Astros,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+111,Chas McCormick,Houston Astros,Adrian Houser,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,Chas McCormick,Houston Astros,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Chas McCormick,Houston Astros,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Chas McCormick,Houston Astros,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Chas McCormick,Houston Astros,Bryse Wilson,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Chas McCormick,Houston Astros,Eduardo Rodriguez,Detroit Tigers,2,2,1,0,1,2,0,0,0,1.000,1.000,3.000,4.000
+117,Chas McCormick,Houston Astros,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Chas McCormick,Houston Astros,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Chas McCormick,Houston Astros,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Chas McCormick,Houston Astros,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Chas McCormick,Houston Astros,Garrett Hill,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Chas McCormick,Houston Astros,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Chas McCormick,Houston Astros,Luis Medina,Oakland Athletics,2,1,0,0,1,1,1,0,1,.500,.667,2.000,2.667
+124,Chas McCormick,Houston Astros,JP Sears,Oakland Athletics,4,2,1,0,0,0,1,0,0,.500,.600,.750,1.350
+125,Chas McCormick,Houston Astros,Hogan Harris,Oakland Athletics,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+126,Chas McCormick,Houston Astros,Garrett Acton,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Chas McCormick,Houston Astros,Paul Blackburn,Oakland Athletics,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+128,Chas McCormick,Houston Astros,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Chas McCormick,Houston Astros,James Kaprielian,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Chas McCormick,Houston Astros,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+131,Chas McCormick,Houston Astros,Adrian Martinez,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Chas McCormick,Houston Astros,Trevor May,Oakland Athletics,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+133,Chas McCormick,Houston Astros,Austin Pruitt,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+134,Chas McCormick,Houston Astros,Freddy Tarnok,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500

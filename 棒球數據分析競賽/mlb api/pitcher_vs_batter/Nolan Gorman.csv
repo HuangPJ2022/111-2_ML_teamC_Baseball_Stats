@@ -1,0 +1,184 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Nolan Gorman,St. Louis Cardinals,Charlie Morton,Atlanta Braves,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+1,Nolan Gorman,St. Louis Cardinals,Bryce Elder,Atlanta Braves,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+2,Nolan Gorman,St. Louis Cardinals,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Nolan Gorman,St. Louis Cardinals,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Nolan Gorman,St. Louis Cardinals,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Nolan Gorman,St. Louis Cardinals,Grant Anderson,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+6,Nolan Gorman,St. Louis Cardinals,Dane Dunning,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Nolan Gorman,St. Louis Cardinals,Jon Gray,Texas Rangers,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+8,Nolan Gorman,St. Louis Cardinals,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Nolan Gorman,St. Louis Cardinals,Victor Gonzalez,Los Angeles Dodgers,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+10,Nolan Gorman,St. Louis Cardinals,Brusdar Graterol,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Nolan Gorman,St. Louis Cardinals,Julio Urias,Los Angeles Dodgers,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+12,Nolan Gorman,St. Louis Cardinals,Yency Almonte,Los Angeles Dodgers,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+13,Nolan Gorman,St. Louis Cardinals,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Nolan Gorman,St. Louis Cardinals,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+15,Nolan Gorman,St. Louis Cardinals,Andre Jackson,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Nolan Gorman,St. Louis Cardinals,Dustin May,Los Angeles Dodgers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+17,Nolan Gorman,St. Louis Cardinals,Shelby Miller,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+18,Nolan Gorman,St. Louis Cardinals,Noah Syndergaard,Los Angeles Dodgers,4,0,0,0,0,0,1,0,0,.000,.200,.000,.200
+19,Nolan Gorman,St. Louis Cardinals,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Nolan Gorman,St. Louis Cardinals,Shohei Ohtani,Los Angeles Angels,3,2,0,0,1,1,0,0,1,.667,.667,1.667,2.334
+21,Nolan Gorman,St. Louis Cardinals,Griffin Canning,Los Angeles Angels,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Nolan Gorman,St. Louis Cardinals,Ryan Tepera,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Nolan Gorman,St. Louis Cardinals,Ryan Brasier,Boston Red Sox,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+24,Nolan Gorman,St. Louis Cardinals,Kenley Jansen,Boston Red Sox,2,2,1,0,1,3,0,0,0,1.000,1.000,3.000,4.000
+25,Nolan Gorman,St. Louis Cardinals,Brennan Bernardino,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+26,Nolan Gorman,St. Louis Cardinals,Corey Kluber,Boston Red Sox,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+27,Nolan Gorman,St. Louis Cardinals,Merrill Kelly,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+28,Nolan Gorman,St. Louis Cardinals,Peter Solomon,Arizona Diamondbacks,2,1,0,0,1,4,0,0,1,.500,.500,2.000,2.500
+29,Nolan Gorman,St. Louis Cardinals,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Nolan Gorman,St. Louis Cardinals,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+31,Nolan Gorman,St. Louis Cardinals,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Nolan Gorman,St. Louis Cardinals,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Nolan Gorman,St. Louis Cardinals,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Nolan Gorman,St. Louis Cardinals,Alex Young,Cincinnati Reds,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+35,Nolan Gorman,St. Louis Cardinals,Lucas Sims,Cincinnati Reds,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+36,Nolan Gorman,St. Louis Cardinals,Graham Ashcraft,Cincinnati Reds,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+37,Nolan Gorman,St. Louis Cardinals,Ben Lively,Cincinnati Reds,7,2,0,0,1,2,0,0,3,.286,.286,.714,1.000
+38,Nolan Gorman,St. Louis Cardinals,Silvino Bracho,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Nolan Gorman,St. Louis Cardinals,Alan Busenitz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Nolan Gorman,St. Louis Cardinals,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Nolan Gorman,St. Louis Cardinals,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Nolan Gorman,St. Louis Cardinals,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Nolan Gorman,St. Louis Cardinals,Hunter Greene,Cincinnati Reds,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+44,Nolan Gorman,St. Louis Cardinals,Kevin Herget,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+45,Nolan Gorman,St. Louis Cardinals,Eduardo Salazar,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Nolan Gorman,St. Louis Cardinals,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+47,Nolan Gorman,St. Louis Cardinals,Brandon Williamson,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+48,Nolan Gorman,St. Louis Cardinals,Chris Bassitt,Toronto Blue Jays,2,2,0,0,2,4,0,0,0,1.000,1.000,4.000,5.000
+49,Nolan Gorman,St. Louis Cardinals,Kevin Gausman,Toronto Blue Jays,2,1,0,0,0,2,1,0,0,.500,.667,.500,1.167
+50,Nolan Gorman,St. Louis Cardinals,Alek Manoah,Toronto Blue Jays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+51,Nolan Gorman,St. Louis Cardinals,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Nolan Gorman,St. Louis Cardinals,Adam Cimber,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+53,Nolan Gorman,St. Louis Cardinals,Yimi Garcia,Toronto Blue Jays,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+54,Nolan Gorman,St. Louis Cardinals,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Nolan Gorman,St. Louis Cardinals,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+56,Nolan Gorman,St. Louis Cardinals,Michael Fulmer,Chicago Cubs,3,3,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+57,Nolan Gorman,St. Louis Cardinals,Drew Smyly,Chicago Cubs,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+58,Nolan Gorman,St. Louis Cardinals,Jameson Taillon,Chicago Cubs,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+59,Nolan Gorman,St. Louis Cardinals,Marcus Stroman,Chicago Cubs,7,1,0,0,0,0,1,0,1,.143,.250,.143,.393
+60,Nolan Gorman,St. Louis Cardinals,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Nolan Gorman,St. Louis Cardinals,Javier Assad,Chicago Cubs,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+62,Nolan Gorman,St. Louis Cardinals,Daniel Palencia,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+63,Nolan Gorman,St. Louis Cardinals,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Nolan Gorman,St. Louis Cardinals,Hayden Wesneski,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+65,Nolan Gorman,St. Louis Cardinals,Cristian Javier,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+66,Nolan Gorman,St. Louis Cardinals,Shawn Dubin,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Nolan Gorman,St. Louis Cardinals,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Nolan Gorman,St. Louis Cardinals,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Nolan Gorman,St. Louis Cardinals,Dylan Floro,Miami Marlins,2,2,2,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+70,Nolan Gorman,St. Louis Cardinals,Steven Okert,Miami Marlins,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+71,Nolan Gorman,St. Louis Cardinals,George Soriano,Miami Marlins,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+72,Nolan Gorman,St. Louis Cardinals,Bryan Hoeing,Miami Marlins,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+73,Nolan Gorman,St. Louis Cardinals,Sandy Alcantara,Miami Marlins,3,1,0,0,1,3,0,0,0,.333,.333,1.333,1.666
+74,Nolan Gorman,St. Louis Cardinals,Huascar Brazoban,Miami Marlins,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+75,Nolan Gorman,St. Louis Cardinals,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Nolan Gorman,St. Louis Cardinals,JT Chargois,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+77,Nolan Gorman,St. Louis Cardinals,Jeff Lindgren,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Nolan Gorman,St. Louis Cardinals,Eury Perez,Miami Marlins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+79,Nolan Gorman,St. Louis Cardinals,A.J. Puk,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+80,Nolan Gorman,St. Louis Cardinals,John Brebbia,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+81,Nolan Gorman,St. Louis Cardinals,Tyler Rogers,San Francisco Giants,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+82,Nolan Gorman,St. Louis Cardinals,Anthony DeSclafani,San Francisco Giants,4,1,0,0,0,0,1,0,2,.250,.400,.250,.650
+83,Nolan Gorman,St. Louis Cardinals,Alex Cobb,San Francisco Giants,5,1,0,0,0,0,1,0,1,.200,.333,.200,.533
+84,Nolan Gorman,St. Louis Cardinals,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Nolan Gorman,St. Louis Cardinals,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+86,Nolan Gorman,St. Louis Cardinals,Luke Jackson,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Nolan Gorman,St. Louis Cardinals,Jakob Junis,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Nolan Gorman,St. Louis Cardinals,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Nolan Gorman,St. Louis Cardinals,Logan Webb,San Francisco Giants,6,0,0,0,0,0,0,0,6,.000,.000,.000,.000
+90,Nolan Gorman,St. Louis Cardinals,Keaton Winn,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Nolan Gorman,St. Louis Cardinals,Carlos Carrasco,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Nolan Gorman,St. Louis Cardinals,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Nolan Gorman,St. Louis Cardinals,Tylor Megill,New York Mets,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+94,Nolan Gorman,St. Louis Cardinals,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Nolan Gorman,St. Louis Cardinals,Brooks Raley,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+96,Nolan Gorman,St. Louis Cardinals,Kodai Senga,New York Mets,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Nolan Gorman,St. Louis Cardinals,Josh Walker,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Nolan Gorman,St. Louis Cardinals,Jose A. Ferrer,Washington Nationals,2,2,1,0,0,3,0,0,0,1.000,1.000,1.500,2.500
+99,Nolan Gorman,St. Louis Cardinals,Hunter Harvey,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+100,Nolan Gorman,St. Louis Cardinals,Jake Irvin,Washington Nationals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+101,Nolan Gorman,St. Louis Cardinals,Josiah Gray,Washington Nationals,5,2,0,0,1,1,0,0,1,.400,.400,1.000,1.400
+102,Nolan Gorman,St. Louis Cardinals,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Nolan Gorman,St. Louis Cardinals,Joan Adon,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Nolan Gorman,St. Louis Cardinals,Paolo Espino,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Nolan Gorman,St. Louis Cardinals,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Nolan Gorman,St. Louis Cardinals,Chad Kuhl,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Nolan Gorman,St. Louis Cardinals,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Nolan Gorman,St. Louis Cardinals,Jordan Weems,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Nolan Gorman,St. Louis Cardinals,Trevor Williams,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Nolan Gorman,St. Louis Cardinals,Pierce Johnson,Colorado Rockies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+111,Nolan Gorman,St. Louis Cardinals,Justin Lawrence,Colorado Rockies,2,2,1,0,1,3,0,0,0,1.000,1.000,3.000,4.000
+112,Nolan Gorman,St. Louis Cardinals,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Nolan Gorman,St. Louis Cardinals,German Marquez,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Nolan Gorman,St. Louis Cardinals,Brent Suter,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Nolan Gorman,St. Louis Cardinals,Jose Urena,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Nolan Gorman,St. Louis Cardinals,Nick Ramirez,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+117,Nolan Gorman,St. Louis Cardinals,Luis Severino,New York Yankees,2,1,0,0,1,2,1,0,1,.500,.667,2.000,2.667
+118,Nolan Gorman,St. Louis Cardinals,Gerrit Cole,New York Yankees,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+119,Nolan Gorman,St. Louis Cardinals,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Nolan Gorman,St. Louis Cardinals,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Nolan Gorman,St. Louis Cardinals,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Nolan Gorman,St. Louis Cardinals,Matt Krook,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Nolan Gorman,St. Louis Cardinals,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Nolan Gorman,St. Louis Cardinals,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Nolan Gorman,St. Louis Cardinals,Chris Flexen,Seattle Mariners,3,2,0,0,1,3,0,0,1,.667,.667,1.667,2.334
+126,Nolan Gorman,St. Louis Cardinals,Luis Castillo,Seattle Mariners,2,1,1,0,0,1,1,0,1,.500,.667,1.000,1.667
+127,Nolan Gorman,St. Louis Cardinals,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Nolan Gorman,St. Louis Cardinals,George Kirby,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+129,Nolan Gorman,St. Louis Cardinals,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Nolan Gorman,St. Louis Cardinals,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Nolan Gorman,St. Louis Cardinals,Hunter Gaddis,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+132,Nolan Gorman,St. Louis Cardinals,Tanner Bibee,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Nolan Gorman,St. Louis Cardinals,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+134,Nolan Gorman,St. Louis Cardinals,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Nolan Gorman,St. Louis Cardinals,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Nolan Gorman,St. Louis Cardinals,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Nolan Gorman,St. Louis Cardinals,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Nolan Gorman,St. Louis Cardinals,Wil Crowe,Pittsburgh Pirates,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+139,Nolan Gorman,St. Louis Cardinals,Duane Underwood Jr.,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+140,Nolan Gorman,St. Louis Cardinals,Rob Zastryzny,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+141,Nolan Gorman,St. Louis Cardinals,Johan Oviedo,Pittsburgh Pirates,3,2,0,0,0,1,0,0,1,.667,.667,.667,1.334
+142,Nolan Gorman,St. Louis Cardinals,Roansy Contreras,Pittsburgh Pirates,4,2,0,0,0,2,0,0,2,.500,.400,.500,.900
+143,Nolan Gorman,St. Louis Cardinals,Mitch Keller,Pittsburgh Pirates,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+144,Nolan Gorman,St. Louis Cardinals,Colin Holderman,Pittsburgh Pirates,5,1,0,0,1,2,0,0,2,.200,.200,.800,1.000
+145,Nolan Gorman,St. Louis Cardinals,Cody Bolton,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+146,Nolan Gorman,St. Louis Cardinals,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Nolan Gorman,St. Louis Cardinals,Rich Hill,Pittsburgh Pirates,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+148,Nolan Gorman,St. Louis Cardinals,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Nolan Gorman,St. Louis Cardinals,Luis L. Ortiz,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+150,Nolan Gorman,St. Louis Cardinals,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+151,Nolan Gorman,St. Louis Cardinals,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Nolan Gorman,St. Louis Cardinals,Vince Velasquez,Pittsburgh Pirates,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+153,Nolan Gorman,St. Louis Cardinals,Dylan Cease,Chicago White Sox,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+154,Nolan Gorman,St. Louis Cardinals,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Nolan Gorman,St. Louis Cardinals,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Nolan Gorman,St. Louis Cardinals,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,Nolan Gorman,St. Louis Cardinals,Kendall Graveman,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+158,Nolan Gorman,St. Louis Cardinals,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Nolan Gorman,St. Louis Cardinals,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+160,Nolan Gorman,St. Louis Cardinals,Touki Toussaint,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+161,Nolan Gorman,St. Louis Cardinals,Joel Payamps,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+162,Nolan Gorman,St. Louis Cardinals,Gus Varland,Milwaukee Brewers,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+163,Nolan Gorman,St. Louis Cardinals,Bryse Wilson,Milwaukee Brewers,2,1,1,0,0,2,0,0,1,.500,.500,1.000,1.500
+164,Nolan Gorman,St. Louis Cardinals,Corbin Burnes,Milwaukee Brewers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+165,Nolan Gorman,St. Louis Cardinals,Freddy Peralta,Milwaukee Brewers,4,1,0,0,0,0,2,0,0,.250,.500,.250,.750
+166,Nolan Gorman,St. Louis Cardinals,Mike Brosseau,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Nolan Gorman,St. Louis Cardinals,Matt Bush,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+168,Nolan Gorman,St. Louis Cardinals,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+169,Nolan Gorman,St. Louis Cardinals,Wade Miley,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Nolan Gorman,St. Louis Cardinals,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+171,Nolan Gorman,St. Louis Cardinals,Peter Strzelecki,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+172,Nolan Gorman,St. Louis Cardinals,Brandon Woodruff,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Nolan Gorman,St. Louis Cardinals,Tyler Alexander,Detroit Tigers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+174,Nolan Gorman,St. Louis Cardinals,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Nolan Gorman,St. Louis Cardinals,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+176,Nolan Gorman,St. Louis Cardinals,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+177,Nolan Gorman,St. Louis Cardinals,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+178,Nolan Gorman,St. Louis Cardinals,Aroldis Chapman,Kansas City Royals,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+179,Nolan Gorman,St. Louis Cardinals,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+180,Nolan Gorman,St. Louis Cardinals,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Nolan Gorman,St. Louis Cardinals,Mike Mayers,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+182,Nolan Gorman,St. Louis Cardinals,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

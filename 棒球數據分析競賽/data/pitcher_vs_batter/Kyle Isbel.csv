@@ -1,0 +1,83 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Kyle Isbel,Kansas City Royals,Joe Jimenez,Atlanta Braves,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+1,Kyle Isbel,Kansas City Royals,Bryce Elder,Atlanta Braves,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+2,Kyle Isbel,Kansas City Royals,Kyle Wright,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+3,Kyle Isbel,Kansas City Royals,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Kyle Isbel,Kansas City Royals,Charlie Morton,Atlanta Braves,2,0,0,0,0,1,0,0,1,.000,.333,.000,.333
+5,Kyle Isbel,Kansas City Royals,Will Smith,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+6,Kyle Isbel,Kansas City Royals,Nathan Eovaldi,Texas Rangers,5,1,0,0,0,1,0,0,0,.200,.200,.200,.400
+7,Kyle Isbel,Kansas City Royals,Jacob deGrom,Texas Rangers,5,1,1,0,0,0,0,0,1,.200,.200,.400,.600
+8,Kyle Isbel,Kansas City Royals,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Kyle Isbel,Kansas City Royals,Dane Dunning,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Kyle Isbel,Kansas City Royals,Taylor Hearn,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+11,Kyle Isbel,Kansas City Royals,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Kyle Isbel,Kansas City Royals,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Kyle Isbel,Kansas City Royals,Tony Gonsolin,Los Angeles Dodgers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+14,Kyle Isbel,Kansas City Royals,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Kyle Isbel,Kansas City Royals,Victor Gonzalez,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+16,Kyle Isbel,Kansas City Royals,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Kyle Isbel,Kansas City Royals,Yonny Hernandez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Kyle Isbel,Kansas City Royals,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Kyle Isbel,Kansas City Royals,Jose Quijada,Los Angeles Angels,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+20,Kyle Isbel,Kansas City Royals,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Kyle Isbel,Kansas City Royals,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Kyle Isbel,Kansas City Royals,Carlos Estevez,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Kyle Isbel,Kansas City Royals,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Kyle Isbel,Kansas City Royals,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Kyle Isbel,Kansas City Royals,Austin Warren,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Kyle Isbel,Kansas City Royals,Zach Eflin,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+27,Kyle Isbel,Kansas City Royals,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Kyle Isbel,Kansas City Royals,Tyler Glasnow,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Kyle Isbel,Kansas City Royals,Javy Guerra,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Kyle Isbel,Kansas City Royals,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Kyle Isbel,Kansas City Royals,Andrew Chafin,Arizona Diamondbacks,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+32,Kyle Isbel,Kansas City Royals,Anthony Misiewicz,Arizona Diamondbacks,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+33,Kyle Isbel,Kansas City Royals,Ryne Nelson,Arizona Diamondbacks,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+34,Kyle Isbel,Kansas City Royals,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+35,Kyle Isbel,Kansas City Royals,Scott McGough,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Kyle Isbel,Kansas City Royals,Jose Berrios,Toronto Blue Jays,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+37,Kyle Isbel,Kansas City Royals,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Kyle Isbel,Kansas City Royals,Danny Coulombe,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+39,Kyle Isbel,Kansas City Royals,Kyle Gibson,Baltimore Orioles,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+40,Kyle Isbel,Kansas City Royals,Grayson Rodriguez,Baltimore Orioles,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+41,Kyle Isbel,Kansas City Royals,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Kyle Isbel,Kansas City Royals,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Kyle Isbel,Kansas City Royals,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Kyle Isbel,Kansas City Royals,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Kyle Isbel,Kansas City Royals,Sonny Gray,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+46,Kyle Isbel,Kansas City Royals,Tyler Mahle,Minnesota Twins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+47,Kyle Isbel,Kansas City Royals,Pablo Lopez,Minnesota Twins,7,2,2,0,0,0,1,0,2,.286,.375,.571,.946
+48,Kyle Isbel,Kansas City Royals,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Kyle Isbel,Kansas City Royals,Jhoan Duran,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+50,Kyle Isbel,Kansas City Royals,Jorge Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Kyle Isbel,Kansas City Royals,Kenta Maeda,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Kyle Isbel,Kansas City Royals,Jovani Moran,Minnesota Twins,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+53,Kyle Isbel,Kansas City Royals,Bailey Ober,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+54,Kyle Isbel,Kansas City Royals,Emilio Pagan,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Kyle Isbel,Kansas City Royals,Joe Ryan,Minnesota Twins,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Kyle Isbel,Kansas City Royals,Caleb Thielbar,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Kyle Isbel,Kansas City Royals,Alex Cobb,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+58,Kyle Isbel,Kansas City Royals,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Kyle Isbel,Kansas City Royals,Anthony DeSclafani,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Kyle Isbel,Kansas City Royals,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Kyle Isbel,Kansas City Royals,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Kyle Isbel,Kansas City Royals,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Kyle Isbel,Kansas City Royals,Ross Stripling,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Kyle Isbel,Kansas City Royals,Ron Marinaccio,New York Yankees,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+65,Kyle Isbel,Kansas City Royals,Wandy Peralta,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+66,Kyle Isbel,Kansas City Royals,Clarke Schmidt,New York Yankees,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+67,Kyle Isbel,Kansas City Royals,Gerrit Cole,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+68,Kyle Isbel,Kansas City Royals,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Kyle Isbel,Kansas City Royals,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Kyle Isbel,Kansas City Royals,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Kyle Isbel,Kansas City Royals,Shane Bieber,Cleveland Guardians,5,2,0,0,1,1,0,0,2,.400,.400,1.000,1.400
+72,Kyle Isbel,Kansas City Royals,Gavin Williams,Cleveland Guardians,5,2,1,0,0,1,1,0,1,.400,.500,.600,1.100
+73,Kyle Isbel,Kansas City Royals,Aaron Civale,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Kyle Isbel,Kansas City Royals,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+75,Kyle Isbel,Kansas City Royals,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Kyle Isbel,Kansas City Royals,Trevor Stephan,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Kyle Isbel,Kansas City Royals,Michael Lorenzen,Detroit Tigers,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+78,Kyle Isbel,Kansas City Royals,Eduardo Rodriguez,Detroit Tigers,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+79,Kyle Isbel,Kansas City Royals,Jason Foley,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Kyle Isbel,Kansas City Royals,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Kyle Isbel,Kansas City Royals,Matt Manning,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000

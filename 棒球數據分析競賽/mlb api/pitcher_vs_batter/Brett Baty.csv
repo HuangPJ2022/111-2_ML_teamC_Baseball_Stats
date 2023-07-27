@@ -1,0 +1,155 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Brett Baty,New York Mets,Dylan Lee,Atlanta Braves,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+1,Brett Baty,New York Mets,Charlie Morton,Atlanta Braves,3,2,1,0,0,1,1,0,1,.667,.750,1.000,1.750
+2,Brett Baty,New York Mets,Bryce Elder,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+3,Brett Baty,New York Mets,Max Fried,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+4,Brett Baty,New York Mets,Collin McHugh,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+5,Brett Baty,New York Mets,Spencer Strider,Atlanta Braves,4,2,0,0,0,1,0,0,1,.500,.500,.500,1.000
+6,Brett Baty,New York Mets,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+7,Brett Baty,New York Mets,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Brett Baty,New York Mets,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Brett Baty,New York Mets,Michael Tonkin,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Brett Baty,New York Mets,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Brett Baty,New York Mets,Dustin May,Los Angeles Dodgers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+12,Brett Baty,New York Mets,Bobby Miller,Los Angeles Dodgers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+13,Brett Baty,New York Mets,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Brett Baty,New York Mets,Justin Bruihl,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Brett Baty,New York Mets,Caleb Ferguson,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Brett Baty,New York Mets,Tony Gonsolin,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Brett Baty,New York Mets,Evan Phillips,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Brett Baty,New York Mets,Noah Syndergaard,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Brett Baty,New York Mets,Julio Urias,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Brett Baty,New York Mets,Alex Vesia,Los Angeles Dodgers,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+21,Brett Baty,New York Mets,Yonny Chirinos,Tampa Bay Rays,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+22,Brett Baty,New York Mets,Zack Littell,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Brett Baty,New York Mets,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Brett Baty,New York Mets,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Brett Baty,New York Mets,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+26,Brett Baty,New York Mets,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Brett Baty,New York Mets,Trevor Kelley,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Brett Baty,New York Mets,Kenley Jansen,Boston Red Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+29,Brett Baty,New York Mets,Brennan Bernardino,Boston Red Sox,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+30,Brett Baty,New York Mets,Kutter Crawford,Boston Red Sox,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+31,Brett Baty,New York Mets,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Brett Baty,New York Mets,Chris Murphy,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Brett Baty,New York Mets,James Paxton,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Brett Baty,New York Mets,Joely Rodriguez,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Brett Baty,New York Mets,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Brett Baty,New York Mets,Giovanny Gallegos,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+37,Brett Baty,New York Mets,Miles Mikolas,St. Louis Cardinals,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+38,Brett Baty,New York Mets,Adam Wainwright,St. Louis Cardinals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+39,Brett Baty,New York Mets,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Brett Baty,New York Mets,Andrew Chafin,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+41,Brett Baty,New York Mets,Jose Ruiz,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+42,Brett Baty,New York Mets,Zach Davies,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+43,Brett Baty,New York Mets,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Brett Baty,New York Mets,Tommy Henry,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+45,Brett Baty,New York Mets,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Brett Baty,New York Mets,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Brett Baty,New York Mets,Hunter Greene,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+48,Brett Baty,New York Mets,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Brett Baty,New York Mets,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Brett Baty,New York Mets,Ben Lively,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Brett Baty,New York Mets,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+52,Brett Baty,New York Mets,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+53,Brett Baty,New York Mets,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+54,Brett Baty,New York Mets,Jose Berrios,Toronto Blue Jays,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+55,Brett Baty,New York Mets,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Brett Baty,New York Mets,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Brett Baty,New York Mets,Matt Strahm,Philadelphia Phillies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+58,Brett Baty,New York Mets,Zack Wheeler,Philadelphia Phillies,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+59,Brett Baty,New York Mets,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Brett Baty,New York Mets,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Brett Baty,New York Mets,Aaron Nola,Philadelphia Phillies,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+62,Brett Baty,New York Mets,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Brett Baty,New York Mets,Taijuan Walker,Philadelphia Phillies,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Brett Baty,New York Mets,Kyle Hendricks,Chicago Cubs,1,1,0,0,0,2,0,0,0,1.000,.500,1.000,1.500
+65,Brett Baty,New York Mets,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Brett Baty,New York Mets,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Brett Baty,New York Mets,Brandon Hughes,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Brett Baty,New York Mets,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Brett Baty,New York Mets,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Brett Baty,New York Mets,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Brett Baty,New York Mets,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Brett Baty,New York Mets,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Brett Baty,New York Mets,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Brett Baty,New York Mets,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Brett Baty,New York Mets,Joe Musgrove,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+76,Brett Baty,New York Mets,Blake Snell,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Brett Baty,New York Mets,Cristian Javier,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+78,Brett Baty,New York Mets,Shawn Dubin,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+79,Brett Baty,New York Mets,Hunter Brown,Houston Astros,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+80,Brett Baty,New York Mets,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Brett Baty,New York Mets,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Brett Baty,New York Mets,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Brett Baty,New York Mets,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Brett Baty,New York Mets,Trevor Williams,Washington Nationals,4,3,0,0,1,1,0,0,1,.750,.750,1.500,2.250
+85,Brett Baty,New York Mets,Josiah Gray,Washington Nationals,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+86,Brett Baty,New York Mets,Andres Machado,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+87,Brett Baty,New York Mets,Erasmo Ramirez,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+88,Brett Baty,New York Mets,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Brett Baty,New York Mets,Carl Edwards Jr.,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+90,Brett Baty,New York Mets,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Brett Baty,New York Mets,Hobie Harris,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+92,Brett Baty,New York Mets,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Brett Baty,New York Mets,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Brett Baty,New York Mets,Mason Thompson,Washington Nationals,1,0,0,0,0,1,1,0,1,.000,.500,.000,.500
+95,Brett Baty,New York Mets,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Brett Baty,New York Mets,Tristan Beck,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+97,Brett Baty,New York Mets,Camilo Doval,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+98,Brett Baty,New York Mets,Scott Alexander,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+99,Brett Baty,New York Mets,Alex Cobb,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+100,Brett Baty,New York Mets,Ross Stripling,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+101,Brett Baty,New York Mets,Anthony DeSclafani,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+102,Brett Baty,New York Mets,Sean Hjelle,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Brett Baty,New York Mets,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Brett Baty,New York Mets,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Brett Baty,New York Mets,Tyler Rogers,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Brett Baty,New York Mets,Taylor Rogers,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Brett Baty,New York Mets,Logan Webb,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+108,Brett Baty,New York Mets,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+109,Brett Baty,New York Mets,Matt Carasiti,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+110,Brett Baty,New York Mets,Brent Suter,Colorado Rockies,3,2,2,0,0,1,0,0,0,.667,.667,1.333,2.000
+111,Brett Baty,New York Mets,Ryan Feltner,Colorado Rockies,2,1,0,0,0,2,0,0,1,.500,.500,.500,1.000
+112,Brett Baty,New York Mets,Connor Seabold,Colorado Rockies,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+113,Brett Baty,New York Mets,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+114,Brett Baty,New York Mets,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Brett Baty,New York Mets,Austin Gomber,Colorado Rockies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Brett Baty,New York Mets,Pierce Johnson,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Brett Baty,New York Mets,Justin Lawrence,Colorado Rockies,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+118,Brett Baty,New York Mets,Nick Mears,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Brett Baty,New York Mets,Antonio Senzatela,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+120,Brett Baty,New York Mets,Luis Severino,New York Yankees,2,2,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+121,Brett Baty,New York Mets,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Brett Baty,New York Mets,Gerrit Cole,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Brett Baty,New York Mets,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Brett Baty,New York Mets,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Brett Baty,New York Mets,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Brett Baty,New York Mets,Cal Quantrill,Cleveland Guardians,3,2,1,0,1,1,0,0,0,.667,.667,2.000,2.667
+127,Brett Baty,New York Mets,Tanner Bibee,Cleveland Guardians,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+128,Brett Baty,New York Mets,Shane Bieber,Cleveland Guardians,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+129,Brett Baty,New York Mets,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Brett Baty,New York Mets,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+131,Brett Baty,New York Mets,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Brett Baty,New York Mets,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+133,Brett Baty,New York Mets,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+134,Brett Baty,New York Mets,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Brett Baty,New York Mets,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Brett Baty,New York Mets,Lucas Giolito,Chicago White Sox,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+137,Brett Baty,New York Mets,Touki Toussaint,Chicago White Sox,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+138,Brett Baty,New York Mets,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Brett Baty,New York Mets,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Brett Baty,New York Mets,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Brett Baty,New York Mets,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+142,Brett Baty,New York Mets,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Brett Baty,New York Mets,Bryan Shaw,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Brett Baty,New York Mets,Colin Rea,Milwaukee Brewers,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+145,Brett Baty,New York Mets,Adrian Houser,Milwaukee Brewers,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+146,Brett Baty,New York Mets,Wade Miley,Milwaukee Brewers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+147,Brett Baty,New York Mets,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Brett Baty,New York Mets,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Brett Baty,New York Mets,Julio Teheran,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Brett Baty,New York Mets,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+151,Brett Baty,New York Mets,Joey Wentz,Detroit Tigers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+152,Brett Baty,New York Mets,Alex Lange,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+153,Brett Baty,New York Mets,Michael Lorenzen,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000

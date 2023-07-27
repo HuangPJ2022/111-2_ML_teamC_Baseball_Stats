@@ -1,0 +1,186 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Lourdes Gurriel Jr.,Arizona Diamondbacks,Nick Anderson,Atlanta Braves,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+1,Lourdes Gurriel Jr.,Arizona Diamondbacks,Charlie Morton,Atlanta Braves,6,2,2,0,0,4,0,0,1,.333,.333,.667,1.000
+2,Lourdes Gurriel Jr.,Arizona Diamondbacks,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Lourdes Gurriel Jr.,Arizona Diamondbacks,Ben Heller,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Lourdes Gurriel Jr.,Arizona Diamondbacks,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Lourdes Gurriel Jr.,Arizona Diamondbacks,Lucas Luetge,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Lourdes Gurriel Jr.,Arizona Diamondbacks,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Lourdes Gurriel Jr.,Arizona Diamondbacks,Dereck Rodriguez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Lourdes Gurriel Jr.,Arizona Diamondbacks,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+9,Lourdes Gurriel Jr.,Arizona Diamondbacks,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Lourdes Gurriel Jr.,Arizona Diamondbacks,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Lourdes Gurriel Jr.,Arizona Diamondbacks,Ian Kennedy,Texas Rangers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+12,Lourdes Gurriel Jr.,Arizona Diamondbacks,Andrew Heaney,Texas Rangers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+13,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jon Gray,Texas Rangers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+14,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jose Leclerc,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+16,Lourdes Gurriel Jr.,Arizona Diamondbacks,Alex Vesia,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+17,Lourdes Gurriel Jr.,Arizona Diamondbacks,Brusdar Graterol,Los Angeles Dodgers,3,2,0,1,0,1,0,0,1,.667,.667,1.333,2.000
+18,Lourdes Gurriel Jr.,Arizona Diamondbacks,Andre Jackson,Los Angeles Dodgers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+19,Lourdes Gurriel Jr.,Arizona Diamondbacks,Noah Syndergaard,Los Angeles Dodgers,5,2,1,0,0,1,0,0,1,.400,.500,.600,1.100
+20,Lourdes Gurriel Jr.,Arizona Diamondbacks,Julio Urias,Los Angeles Dodgers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+21,Lourdes Gurriel Jr.,Arizona Diamondbacks,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Lourdes Gurriel Jr.,Arizona Diamondbacks,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Lourdes Gurriel Jr.,Arizona Diamondbacks,Clayton Kershaw,Los Angeles Dodgers,5,0,0,0,0,1,1,0,1,.000,.167,.000,.167
+24,Lourdes Gurriel Jr.,Arizona Diamondbacks,Dustin May,Los Angeles Dodgers,6,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+25,Lourdes Gurriel Jr.,Arizona Diamondbacks,Griffin Canning,Los Angeles Angels,3,2,0,0,1,4,0,0,0,.667,.667,1.667,2.334
+26,Lourdes Gurriel Jr.,Arizona Diamondbacks,Reid Detmers,Los Angeles Angels,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+27,Lourdes Gurriel Jr.,Arizona Diamondbacks,Tyler Anderson,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Lourdes Gurriel Jr.,Arizona Diamondbacks,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Lourdes Gurriel Jr.,Arizona Diamondbacks,Aaron Loup,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Lourdes Gurriel Jr.,Arizona Diamondbacks,Victor Mederos,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Lourdes Gurriel Jr.,Arizona Diamondbacks,Yonny Chirinos,Tampa Bay Rays,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+33,Lourdes Gurriel Jr.,Arizona Diamondbacks,Zach Eflin,Tampa Bay Rays,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+34,Lourdes Gurriel Jr.,Arizona Diamondbacks,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Lourdes Gurriel Jr.,Arizona Diamondbacks,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Lourdes Gurriel Jr.,Arizona Diamondbacks,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Lourdes Gurriel Jr.,Arizona Diamondbacks,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Lourdes Gurriel Jr.,Arizona Diamondbacks,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Lourdes Gurriel Jr.,Arizona Diamondbacks,Tanner Houck,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+40,Lourdes Gurriel Jr.,Arizona Diamondbacks,Nick Pivetta,Boston Red Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+41,Lourdes Gurriel Jr.,Arizona Diamondbacks,Chris Sale,Boston Red Sox,2,1,0,1,0,1,0,0,0,.500,.500,1.500,2.000
+42,Lourdes Gurriel Jr.,Arizona Diamondbacks,Kutter Crawford,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Lourdes Gurriel Jr.,Arizona Diamondbacks,Garrett Whitlock,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Lourdes Gurriel Jr.,Arizona Diamondbacks,Josh Winckowski,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Lourdes Gurriel Jr.,Arizona Diamondbacks,Chris Stratton,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+46,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jordan Montgomery,St. Louis Cardinals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+47,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jack Flaherty,St. Louis Cardinals,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+48,Lourdes Gurriel Jr.,Arizona Diamondbacks,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jordan Hicks,St. Louis Cardinals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+50,Lourdes Gurriel Jr.,Arizona Diamondbacks,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jake Woodford,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Lourdes Gurriel Jr.,Arizona Diamondbacks,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Lourdes Gurriel Jr.,Arizona Diamondbacks,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Lourdes Gurriel Jr.,Arizona Diamondbacks,Ben Lively,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Lourdes Gurriel Jr.,Arizona Diamondbacks,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Lourdes Gurriel Jr.,Arizona Diamondbacks,Brandon Williamson,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Lourdes Gurriel Jr.,Arizona Diamondbacks,Yimi Garcia,Toronto Blue Jays,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+58,Lourdes Gurriel Jr.,Arizona Diamondbacks,Yusei Kikuchi,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+59,Lourdes Gurriel Jr.,Arizona Diamondbacks,Trevor Richards,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+60,Lourdes Gurriel Jr.,Arizona Diamondbacks,Chris Bassitt,Toronto Blue Jays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+61,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jose Berrios,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Lourdes Gurriel Jr.,Arizona Diamondbacks,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jeff Hoffman,Philadelphia Phillies,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+65,Lourdes Gurriel Jr.,Arizona Diamondbacks,Zack Wheeler,Philadelphia Phillies,6,3,0,0,1,1,0,0,3,.500,.500,1.000,1.500
+66,Lourdes Gurriel Jr.,Arizona Diamondbacks,Seranthony Dominguez,Philadelphia Phillies,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+67,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Lourdes Gurriel Jr.,Arizona Diamondbacks,Dylan Covey,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+69,Lourdes Gurriel Jr.,Arizona Diamondbacks,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Lourdes Gurriel Jr.,Arizona Diamondbacks,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+71,Lourdes Gurriel Jr.,Arizona Diamondbacks,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Lourdes Gurriel Jr.,Arizona Diamondbacks,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Lourdes Gurriel Jr.,Arizona Diamondbacks,Ranger Suarez,Philadelphia Phillies,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+74,Lourdes Gurriel Jr.,Arizona Diamondbacks,Luis Garcia,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+75,Lourdes Gurriel Jr.,Arizona Diamondbacks,Michael Wacha,San Diego Padres,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+76,Lourdes Gurriel Jr.,Arizona Diamondbacks,Tim Hill,San Diego Padres,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+77,Lourdes Gurriel Jr.,Arizona Diamondbacks,Ryan Weathers,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+78,Lourdes Gurriel Jr.,Arizona Diamondbacks,Yu Darvish,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Lourdes Gurriel Jr.,Arizona Diamondbacks,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Lourdes Gurriel Jr.,Arizona Diamondbacks,Brent Honeywell,San Diego Padres,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+81,Lourdes Gurriel Jr.,Arizona Diamondbacks,Seth Lugo,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Lourdes Gurriel Jr.,Arizona Diamondbacks,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Lourdes Gurriel Jr.,Arizona Diamondbacks,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Lourdes Gurriel Jr.,Arizona Diamondbacks,Steven Wilson,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Lourdes Gurriel Jr.,Arizona Diamondbacks,Edward Cabrera,Miami Marlins,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+86,Lourdes Gurriel Jr.,Arizona Diamondbacks,Braxton Garrett,Miami Marlins,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+87,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jesus Luzardo,Miami Marlins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+88,Lourdes Gurriel Jr.,Arizona Diamondbacks,Trevor Rogers,Miami Marlins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+89,Lourdes Gurriel Jr.,Arizona Diamondbacks,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Lourdes Gurriel Jr.,Arizona Diamondbacks,Dylan Floro,Miami Marlins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+91,Lourdes Gurriel Jr.,Arizona Diamondbacks,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+92,Lourdes Gurriel Jr.,Arizona Diamondbacks,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Lourdes Gurriel Jr.,Arizona Diamondbacks,Cory Abbott,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+94,Lourdes Gurriel Jr.,Arizona Diamondbacks,Kyle Finnegan,Washington Nationals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+95,Lourdes Gurriel Jr.,Arizona Diamondbacks,MacKenzie Gore,Washington Nationals,3,3,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+96,Lourdes Gurriel Jr.,Arizona Diamondbacks,Andres Machado,Washington Nationals,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+97,Lourdes Gurriel Jr.,Arizona Diamondbacks,Trevor Williams,Washington Nationals,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+98,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jake Irvin,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+99,Lourdes Gurriel Jr.,Arizona Diamondbacks,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Lourdes Gurriel Jr.,Arizona Diamondbacks,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Lourdes Gurriel Jr.,Arizona Diamondbacks,Thaddeus Ward,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+102,Lourdes Gurriel Jr.,Arizona Diamondbacks,Camilo Doval,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+103,Lourdes Gurriel Jr.,Arizona Diamondbacks,Alex Wood,San Francisco Giants,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+104,Lourdes Gurriel Jr.,Arizona Diamondbacks,Anthony DeSclafani,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+105,Lourdes Gurriel Jr.,Arizona Diamondbacks,Ross Stripling,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+106,Lourdes Gurriel Jr.,Arizona Diamondbacks,Alex Cobb,San Francisco Giants,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+107,Lourdes Gurriel Jr.,Arizona Diamondbacks,Tyler Rogers,San Francisco Giants,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+108,Lourdes Gurriel Jr.,Arizona Diamondbacks,Tristan Beck,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Lourdes Gurriel Jr.,Arizona Diamondbacks,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Lourdes Gurriel Jr.,Arizona Diamondbacks,Cole Waites,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Lourdes Gurriel Jr.,Arizona Diamondbacks,Ryan Walker,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+113,Lourdes Gurriel Jr.,Arizona Diamondbacks,Logan Webb,San Francisco Giants,6,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Lourdes Gurriel Jr.,Arizona Diamondbacks,Keaton Winn,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Lourdes Gurriel Jr.,Arizona Diamondbacks,Max Scherzer,New York Mets,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+116,Lourdes Gurriel Jr.,Arizona Diamondbacks,Carlos Carrasco,New York Mets,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+117,Lourdes Gurriel Jr.,Arizona Diamondbacks,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Lourdes Gurriel Jr.,Arizona Diamondbacks,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Lourdes Gurriel Jr.,Arizona Diamondbacks,Kodai Senga,New York Mets,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+120,Lourdes Gurriel Jr.,Arizona Diamondbacks,Ty Blach,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+121,Lourdes Gurriel Jr.,Arizona Diamondbacks,Brad Hand,Colorado Rockies,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+122,Lourdes Gurriel Jr.,Arizona Diamondbacks,Karl Kauffmann,Colorado Rockies,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+123,Lourdes Gurriel Jr.,Arizona Diamondbacks,Dinelson Lamet,Colorado Rockies,2,1,0,0,0,2,0,0,1,.500,.500,.500,1.000
+124,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jake Bird,Colorado Rockies,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+125,Lourdes Gurriel Jr.,Arizona Diamondbacks,Kyle Freeland,Colorado Rockies,5,1,0,0,0,0,1,0,0,.200,.333,.200,.533
+126,Lourdes Gurriel Jr.,Arizona Diamondbacks,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Lourdes Gurriel Jr.,Arizona Diamondbacks,Blair Calvo,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Lourdes Gurriel Jr.,Arizona Diamondbacks,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Lourdes Gurriel Jr.,Arizona Diamondbacks,Austin Gomber,Colorado Rockies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Lourdes Gurriel Jr.,Arizona Diamondbacks,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Lourdes Gurriel Jr.,Arizona Diamondbacks,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Lourdes Gurriel Jr.,Arizona Diamondbacks,Connor Seabold,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Lourdes Gurriel Jr.,Arizona Diamondbacks,Tim Herrin,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+134,Lourdes Gurriel Jr.,Arizona Diamondbacks,Nick Sandlin,Cleveland Guardians,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+135,Lourdes Gurriel Jr.,Arizona Diamondbacks,Tanner Bibee,Cleveland Guardians,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+136,Lourdes Gurriel Jr.,Arizona Diamondbacks,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Lourdes Gurriel Jr.,Arizona Diamondbacks,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Lourdes Gurriel Jr.,Arizona Diamondbacks,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Lourdes Gurriel Jr.,Arizona Diamondbacks,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Lourdes Gurriel Jr.,Arizona Diamondbacks,Daniel Norris,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+141,Lourdes Gurriel Jr.,Arizona Diamondbacks,Touki Toussaint,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Lourdes Gurriel Jr.,Arizona Diamondbacks,Rich Hill,Pittsburgh Pirates,3,2,1,0,1,4,0,0,0,.667,.667,2.000,2.667
+143,Lourdes Gurriel Jr.,Arizona Diamondbacks,Dauri Moreta,Pittsburgh Pirates,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+144,Lourdes Gurriel Jr.,Arizona Diamondbacks,Yohan Ramirez,Pittsburgh Pirates,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+145,Lourdes Gurriel Jr.,Arizona Diamondbacks,Robert Stephenson,Pittsburgh Pirates,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+146,Lourdes Gurriel Jr.,Arizona Diamondbacks,David Bednar,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Lourdes Gurriel Jr.,Arizona Diamondbacks,Osvaldo Bido,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Lourdes Gurriel Jr.,Arizona Diamondbacks,Roansy Contreras,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Lourdes Gurriel Jr.,Arizona Diamondbacks,Yerry De Los Santos,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Lourdes Gurriel Jr.,Arizona Diamondbacks,Mitch Keller,Pittsburgh Pirates,4,0,0,0,0,0,1,0,0,.000,.200,.000,.200
+151,Lourdes Gurriel Jr.,Arizona Diamondbacks,Carmen Mlodzinski,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Lourdes Gurriel Jr.,Arizona Diamondbacks,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+153,Lourdes Gurriel Jr.,Arizona Diamondbacks,Gus Varland,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+154,Lourdes Gurriel Jr.,Arizona Diamondbacks,Janson Junk,Milwaukee Brewers,3,2,1,0,1,3,0,0,0,.667,.667,2.000,2.667
+155,Lourdes Gurriel Jr.,Arizona Diamondbacks,Corbin Burnes,Milwaukee Brewers,3,1,0,0,0,2,0,0,0,.333,.333,.333,.666
+156,Lourdes Gurriel Jr.,Arizona Diamondbacks,Javy Guerra,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Lourdes Gurriel Jr.,Arizona Diamondbacks,Adrian Houser,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+158,Lourdes Gurriel Jr.,Arizona Diamondbacks,Wade Miley,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Lourdes Gurriel Jr.,Arizona Diamondbacks,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+160,Lourdes Gurriel Jr.,Arizona Diamondbacks,Colin Rea,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Lourdes Gurriel Jr.,Arizona Diamondbacks,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Lourdes Gurriel Jr.,Arizona Diamondbacks,Matthew Boyd,Detroit Tigers,3,1,0,0,1,3,0,0,0,.333,.333,1.333,1.666
+163,Lourdes Gurriel Jr.,Arizona Diamondbacks,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+164,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Lourdes Gurriel Jr.,Arizona Diamondbacks,Alex Lange,Detroit Tigers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+167,Lourdes Gurriel Jr.,Arizona Diamondbacks,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Lourdes Gurriel Jr.,Arizona Diamondbacks,Joey Wentz,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,Lourdes Gurriel Jr.,Arizona Diamondbacks,Aroldis Chapman,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+170,Lourdes Gurriel Jr.,Arizona Diamondbacks,Ryan Yarbrough,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+171,Lourdes Gurriel Jr.,Arizona Diamondbacks,Brady Singer,Kansas City Royals,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+172,Lourdes Gurriel Jr.,Arizona Diamondbacks,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Lourdes Gurriel Jr.,Arizona Diamondbacks,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+174,Lourdes Gurriel Jr.,Arizona Diamondbacks,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Lourdes Gurriel Jr.,Arizona Diamondbacks,Brad Keller,Kansas City Royals,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+176,Lourdes Gurriel Jr.,Arizona Diamondbacks,Shintaro Fujinami,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+177,Lourdes Gurriel Jr.,Arizona Diamondbacks,Zach Jackson,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+178,Lourdes Gurriel Jr.,Arizona Diamondbacks,Drew Rucinski,Oakland Athletics,1,1,0,0,1,2,2,0,0,1.000,1.000,4.000,5.000
+179,Lourdes Gurriel Jr.,Arizona Diamondbacks,Garrett Acton,Oakland Athletics,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+180,Lourdes Gurriel Jr.,Arizona Diamondbacks,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Lourdes Gurriel Jr.,Arizona Diamondbacks,Adrian Martinez,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+182,Lourdes Gurriel Jr.,Arizona Diamondbacks,Luis Medina,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+183,Lourdes Gurriel Jr.,Arizona Diamondbacks,Kyle Muller,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+184,Lourdes Gurriel Jr.,Arizona Diamondbacks,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

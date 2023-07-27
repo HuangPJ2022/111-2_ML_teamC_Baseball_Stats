@@ -1,0 +1,135 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Aledmys Diaz,Oakland Athletics,Bryce Elder,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Aledmys Diaz,Oakland Athletics,Lucas Luetge,Atlanta Braves,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+2,Aledmys Diaz,Oakland Athletics,Jared Shuster,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Aledmys Diaz,Oakland Athletics,Michael Soroka,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Aledmys Diaz,Oakland Athletics,Jose Leclerc,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+5,Aledmys Diaz,Oakland Athletics,Will Smith,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+6,Aledmys Diaz,Oakland Athletics,Andrew Heaney,Texas Rangers,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+7,Aledmys Diaz,Oakland Athletics,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Aledmys Diaz,Oakland Athletics,Jon Gray,Texas Rangers,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+9,Aledmys Diaz,Oakland Athletics,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Aledmys Diaz,Oakland Athletics,Jose Suarez,Los Angeles Angels,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+11,Aledmys Diaz,Oakland Athletics,Ryan Tepera,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+12,Aledmys Diaz,Oakland Athletics,Shohei Ohtani,Los Angeles Angels,4,1,0,0,0,0,1,0,2,.250,.500,.250,.750
+13,Aledmys Diaz,Oakland Athletics,Patrick Sandoval,Los Angeles Angels,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+14,Aledmys Diaz,Oakland Athletics,Tyler Anderson,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Aledmys Diaz,Oakland Athletics,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Aledmys Diaz,Oakland Athletics,Tucker Davidson,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Aledmys Diaz,Oakland Athletics,Jose Quijada,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Aledmys Diaz,Oakland Athletics,Chase Silseth,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Aledmys Diaz,Oakland Athletics,Andrew Wantz,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Aledmys Diaz,Oakland Athletics,Calvin Faucher,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Aledmys Diaz,Oakland Athletics,Tyler Glasnow,Tampa Bay Rays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+22,Aledmys Diaz,Oakland Athletics,Zach Eflin,Tampa Bay Rays,3,1,1,0,0,1,0,0,2,.333,.333,.667,1.000
+23,Aledmys Diaz,Oakland Athletics,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Aledmys Diaz,Oakland Athletics,Jalen Beeks,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+25,Aledmys Diaz,Oakland Athletics,Yonny Chirinos,Tampa Bay Rays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+26,Aledmys Diaz,Oakland Athletics,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Aledmys Diaz,Oakland Athletics,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Aledmys Diaz,Oakland Athletics,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Aledmys Diaz,Oakland Athletics,Drew Rasmussen,Tampa Bay Rays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+30,Aledmys Diaz,Oakland Athletics,Jeffrey Springs,Tampa Bay Rays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Aledmys Diaz,Oakland Athletics,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Aledmys Diaz,Oakland Athletics,Brandon Walter,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Aledmys Diaz,Oakland Athletics,Joe Jacques,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+34,Aledmys Diaz,Oakland Athletics,James Paxton,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+35,Aledmys Diaz,Oakland Athletics,Richard Bleier,Boston Red Sox,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+36,Aledmys Diaz,Oakland Athletics,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Aledmys Diaz,Oakland Athletics,Chris Murphy,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Aledmys Diaz,Oakland Athletics,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Aledmys Diaz,Oakland Athletics,Kevin Ginkel,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+40,Aledmys Diaz,Oakland Athletics,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Aledmys Diaz,Oakland Athletics,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Aledmys Diaz,Oakland Athletics,Tommy Henry,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Aledmys Diaz,Oakland Athletics,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Aledmys Diaz,Oakland Athletics,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Aledmys Diaz,Oakland Athletics,Hunter Greene,Cincinnati Reds,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+46,Aledmys Diaz,Oakland Athletics,Chris Bassitt,Toronto Blue Jays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+47,Aledmys Diaz,Oakland Athletics,Jose Berrios,Toronto Blue Jays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Aledmys Diaz,Oakland Athletics,Bowden Francis,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Aledmys Diaz,Oakland Athletics,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+50,Aledmys Diaz,Oakland Athletics,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Aledmys Diaz,Oakland Athletics,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Aledmys Diaz,Oakland Athletics,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Aledmys Diaz,Oakland Athletics,Cionel Perez,Baltimore Orioles,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+54,Aledmys Diaz,Oakland Athletics,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Aledmys Diaz,Oakland Athletics,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Aledmys Diaz,Oakland Athletics,Kyle Gibson,Baltimore Orioles,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+57,Aledmys Diaz,Oakland Athletics,Cole Irvin,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Aledmys Diaz,Oakland Athletics,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Aledmys Diaz,Oakland Athletics,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Aledmys Diaz,Oakland Athletics,Yunior Marte,Philadelphia Phillies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+61,Aledmys Diaz,Oakland Athletics,Matt Strahm,Philadelphia Phillies,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+62,Aledmys Diaz,Oakland Athletics,Taijuan Walker,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+63,Aledmys Diaz,Oakland Athletics,Cristopher Sanchez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Aledmys Diaz,Oakland Athletics,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Aledmys Diaz,Oakland Athletics,Brandon Hughes,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Aledmys Diaz,Oakland Athletics,Justin Steele,Chicago Cubs,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+67,Aledmys Diaz,Oakland Athletics,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Aledmys Diaz,Oakland Athletics,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Aledmys Diaz,Oakland Athletics,Hayden Wesneski,Chicago Cubs,3,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+70,Aledmys Diaz,Oakland Athletics,Parker Mushinski,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+71,Aledmys Diaz,Oakland Athletics,Ryan Pressly,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+72,Aledmys Diaz,Oakland Athletics,Brandon Bielak,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+73,Aledmys Diaz,Oakland Athletics,J.P. France,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+74,Aledmys Diaz,Oakland Athletics,Framber Valdez,Houston Astros,7,2,1,0,0,2,0,0,2,.286,.222,.429,.651
+75,Aledmys Diaz,Oakland Athletics,Hunter Brown,Houston Astros,4,1,0,0,0,0,0,0,1,.250,.400,.250,.650
+76,Aledmys Diaz,Oakland Athletics,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+77,Aledmys Diaz,Oakland Athletics,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Aledmys Diaz,Oakland Athletics,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Aledmys Diaz,Oakland Athletics,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Aledmys Diaz,Oakland Athletics,Joe Ryan,Minnesota Twins,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+81,Aledmys Diaz,Oakland Athletics,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Aledmys Diaz,Oakland Athletics,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Aledmys Diaz,Oakland Athletics,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Aledmys Diaz,Oakland Athletics,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Aledmys Diaz,Oakland Athletics,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Aledmys Diaz,Oakland Athletics,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Aledmys Diaz,Oakland Athletics,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Aledmys Diaz,Oakland Athletics,John Curtiss,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+89,Aledmys Diaz,Oakland Athletics,Dennis Santana,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+90,Aledmys Diaz,Oakland Athletics,Carlos Carrasco,New York Mets,2,1,1,0,0,0,0,0,0,.500,.667,1.000,1.667
+91,Aledmys Diaz,Oakland Athletics,Kodai Senga,New York Mets,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+92,Aledmys Diaz,Oakland Athletics,Jose Butto,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+93,Aledmys Diaz,Oakland Athletics,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Aledmys Diaz,Oakland Athletics,Denyi Reyes,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Aledmys Diaz,Oakland Athletics,Jimmy Yacabonis,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Aledmys Diaz,Oakland Athletics,Domingo German,New York Yankees,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Aledmys Diaz,Oakland Athletics,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Aledmys Diaz,Oakland Athletics,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Aledmys Diaz,Oakland Athletics,Matt Brash,Seattle Mariners,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+100,Aledmys Diaz,Oakland Athletics,Bryce Miller,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+101,Aledmys Diaz,Oakland Athletics,Marco Gonzales,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Aledmys Diaz,Oakland Athletics,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Aledmys Diaz,Oakland Athletics,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Aledmys Diaz,Oakland Athletics,Sam Hentges,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+105,Aledmys Diaz,Oakland Athletics,Logan Allen,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+106,Aledmys Diaz,Oakland Athletics,Aaron Civale,Cleveland Guardians,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+107,Aledmys Diaz,Oakland Athletics,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Aledmys Diaz,Oakland Athletics,Emmanuel Clase,Cleveland Guardians,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+109,Aledmys Diaz,Oakland Athletics,Xzavion Curry,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Aledmys Diaz,Oakland Athletics,Enyel De Los Santos,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Aledmys Diaz,Oakland Athletics,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+112,Aledmys Diaz,Oakland Athletics,Zach Plesac,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Aledmys Diaz,Oakland Athletics,Nick Sandlin,Cleveland Guardians,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+114,Aledmys Diaz,Oakland Athletics,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Aledmys Diaz,Oakland Athletics,Rob Zastryzny,Pittsburgh Pirates,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+116,Aledmys Diaz,Oakland Athletics,Mitch Keller,Pittsburgh Pirates,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+117,Aledmys Diaz,Oakland Athletics,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Aledmys Diaz,Oakland Athletics,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Aledmys Diaz,Oakland Athletics,Tanner Banks,Chicago White Sox,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+120,Aledmys Diaz,Oakland Athletics,Jesse Scholtens,Chicago White Sox,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+121,Aledmys Diaz,Oakland Athletics,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Aledmys Diaz,Oakland Athletics,Bryan Shaw,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Aledmys Diaz,Oakland Athletics,Joel Payamps,Milwaukee Brewers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+124,Aledmys Diaz,Oakland Athletics,Julio Teheran,Milwaukee Brewers,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+125,Aledmys Diaz,Oakland Athletics,Elvis Peguero,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+126,Aledmys Diaz,Oakland Athletics,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+127,Aledmys Diaz,Oakland Athletics,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Aledmys Diaz,Oakland Athletics,Michael Lorenzen,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+129,Aledmys Diaz,Oakland Athletics,Eduardo Rodriguez,Detroit Tigers,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+130,Aledmys Diaz,Oakland Athletics,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Aledmys Diaz,Oakland Athletics,Zach Logue,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Aledmys Diaz,Oakland Athletics,Tarik Skubal,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Aledmys Diaz,Oakland Athletics,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

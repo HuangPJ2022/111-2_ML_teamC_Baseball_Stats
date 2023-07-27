@@ -1,0 +1,196 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Andrew Vaughn,Chicago White Sox,Kolby Allard,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Andrew Vaughn,Chicago White Sox,Ben Heller,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+2,Andrew Vaughn,Chicago White Sox,Charlie Morton,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+3,Andrew Vaughn,Chicago White Sox,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Andrew Vaughn,Chicago White Sox,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Andrew Vaughn,Chicago White Sox,Michael Soroka,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Andrew Vaughn,Chicago White Sox,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Andrew Vaughn,Chicago White Sox,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Andrew Vaughn,Chicago White Sox,Andrew Heaney,Texas Rangers,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+9,Andrew Vaughn,Chicago White Sox,Nathan Eovaldi,Texas Rangers,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+10,Andrew Vaughn,Chicago White Sox,Martin Perez,Texas Rangers,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+11,Andrew Vaughn,Chicago White Sox,Grant Anderson,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+12,Andrew Vaughn,Chicago White Sox,Josh Sborz,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Andrew Vaughn,Chicago White Sox,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Andrew Vaughn,Chicago White Sox,Tayler Scott,Los Angeles Dodgers,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+15,Andrew Vaughn,Chicago White Sox,Michael Grove,Los Angeles Dodgers,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+16,Andrew Vaughn,Chicago White Sox,Tony Gonsolin,Los Angeles Dodgers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+17,Andrew Vaughn,Chicago White Sox,Clayton Kershaw,Los Angeles Dodgers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+18,Andrew Vaughn,Chicago White Sox,Yency Almonte,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Andrew Vaughn,Chicago White Sox,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Andrew Vaughn,Chicago White Sox,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Andrew Vaughn,Chicago White Sox,Tyler Anderson,Los Angeles Angels,1,1,1,0,0,3,1,0,0,1.000,1.000,2.000,3.000
+22,Andrew Vaughn,Chicago White Sox,Sam Bachman,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Andrew Vaughn,Chicago White Sox,Carlos Estevez,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+24,Andrew Vaughn,Chicago White Sox,Ben Joyce,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+25,Andrew Vaughn,Chicago White Sox,Aaron Loup,Los Angeles Angels,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+26,Andrew Vaughn,Chicago White Sox,Andrew Wantz,Los Angeles Angels,1,1,1,0,0,3,0,0,0,1.000,1.000,2.000,3.000
+27,Andrew Vaughn,Chicago White Sox,Jaime Barria,Los Angeles Angels,3,2,1,0,0,0,1,0,0,.667,.750,1.000,1.750
+28,Andrew Vaughn,Chicago White Sox,Griffin Canning,Los Angeles Angels,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+29,Andrew Vaughn,Chicago White Sox,Tucker Davidson,Los Angeles Angels,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+30,Andrew Vaughn,Chicago White Sox,Reid Detmers,Los Angeles Angels,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+31,Andrew Vaughn,Chicago White Sox,Jacob Webb,Los Angeles Angels,2,1,0,1,0,1,0,0,0,.500,.500,1.500,2.000
+32,Andrew Vaughn,Chicago White Sox,Shohei Ohtani,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Andrew Vaughn,Chicago White Sox,Patrick Sandoval,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Andrew Vaughn,Chicago White Sox,Chase Silseth,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Andrew Vaughn,Chicago White Sox,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Andrew Vaughn,Chicago White Sox,Garrett Cleavinger,Tampa Bay Rays,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+37,Andrew Vaughn,Chicago White Sox,Cooper Criswell,Tampa Bay Rays,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+38,Andrew Vaughn,Chicago White Sox,Drew Rasmussen,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+39,Andrew Vaughn,Chicago White Sox,Zach Eflin,Tampa Bay Rays,5,2,0,0,1,1,0,0,1,.400,.400,1.000,1.400
+40,Andrew Vaughn,Chicago White Sox,Yonny Chirinos,Tampa Bay Rays,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+41,Andrew Vaughn,Chicago White Sox,Shane McClanahan,Tampa Bay Rays,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+42,Andrew Vaughn,Chicago White Sox,Jason Adam,Tampa Bay Rays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+43,Andrew Vaughn,Chicago White Sox,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+44,Andrew Vaughn,Chicago White Sox,Zack Burdi,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Andrew Vaughn,Chicago White Sox,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+46,Andrew Vaughn,Chicago White Sox,Calvin Faucher,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Andrew Vaughn,Chicago White Sox,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Andrew Vaughn,Chicago White Sox,Colin Poche,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+49,Andrew Vaughn,Chicago White Sox,Luke Raley,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Andrew Vaughn,Chicago White Sox,Chris Martin,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+51,Andrew Vaughn,Chicago White Sox,Josh Winckowski,Boston Red Sox,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+52,Andrew Vaughn,Chicago White Sox,Brayan Bello,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+53,Andrew Vaughn,Chicago White Sox,Kutter Crawford,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+54,Andrew Vaughn,Chicago White Sox,Chris Murphy,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Andrew Vaughn,Chicago White Sox,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Andrew Vaughn,Chicago White Sox,James Paxton,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Andrew Vaughn,Chicago White Sox,Jordan Hicks,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+58,Andrew Vaughn,Chicago White Sox,JoJo Romero,St. Louis Cardinals,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+59,Andrew Vaughn,Chicago White Sox,Miles Mikolas,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+60,Andrew Vaughn,Chicago White Sox,Dakota Hudson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Andrew Vaughn,Chicago White Sox,Kyle Leahy,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Andrew Vaughn,Chicago White Sox,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Andrew Vaughn,Chicago White Sox,Jordan Montgomery,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Andrew Vaughn,Chicago White Sox,Casey Legumina,Cincinnati Reds,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+65,Andrew Vaughn,Chicago White Sox,Luke Maile,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+66,Andrew Vaughn,Chicago White Sox,Graham Ashcraft,Cincinnati Reds,2,1,0,1,0,2,0,0,1,.500,.500,1.500,2.000
+67,Andrew Vaughn,Chicago White Sox,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Andrew Vaughn,Chicago White Sox,Buck Farmer,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Andrew Vaughn,Chicago White Sox,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Andrew Vaughn,Chicago White Sox,Hunter Greene,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Andrew Vaughn,Chicago White Sox,Nick Lodolo,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Andrew Vaughn,Chicago White Sox,Reiver Sanmartin,Cincinnati Reds,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+73,Andrew Vaughn,Chicago White Sox,Thomas Hatch,Toronto Blue Jays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+74,Andrew Vaughn,Chicago White Sox,Yusei Kikuchi,Toronto Blue Jays,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+75,Andrew Vaughn,Chicago White Sox,Chris Bassitt,Toronto Blue Jays,6,1,1,0,0,2,0,0,3,.167,.167,.333,.500
+76,Andrew Vaughn,Chicago White Sox,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Andrew Vaughn,Chicago White Sox,Jose Berrios,Toronto Blue Jays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+78,Andrew Vaughn,Chicago White Sox,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Andrew Vaughn,Chicago White Sox,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Andrew Vaughn,Chicago White Sox,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Andrew Vaughn,Chicago White Sox,Trevor Richards,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+82,Andrew Vaughn,Chicago White Sox,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Andrew Vaughn,Chicago White Sox,Bryan Baker,Baltimore Orioles,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+84,Andrew Vaughn,Chicago White Sox,Kyle Gibson,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+85,Andrew Vaughn,Chicago White Sox,Grayson Rodriguez,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+86,Andrew Vaughn,Chicago White Sox,Yennier Cano,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Andrew Vaughn,Chicago White Sox,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Andrew Vaughn,Chicago White Sox,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+89,Andrew Vaughn,Chicago White Sox,Taijuan Walker,Philadelphia Phillies,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+90,Andrew Vaughn,Chicago White Sox,Zack Wheeler,Philadelphia Phillies,2,1,0,0,0,2,0,0,0,.500,.667,.500,1.167
+91,Andrew Vaughn,Chicago White Sox,Bailey Falter,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Andrew Vaughn,Chicago White Sox,Craig Kimbrel,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Andrew Vaughn,Chicago White Sox,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Andrew Vaughn,Chicago White Sox,Seth Martinez,Houston Astros,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+95,Andrew Vaughn,Chicago White Sox,Luis Garcia,Houston Astros,2,1,0,0,0,1,0,0,0,.500,.667,.500,1.167
+96,Andrew Vaughn,Chicago White Sox,Ryan Pressly,Houston Astros,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+97,Andrew Vaughn,Chicago White Sox,Brandon Bielak,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Andrew Vaughn,Chicago White Sox,Ronel Blanco,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+99,Andrew Vaughn,Chicago White Sox,Hunter Brown,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Andrew Vaughn,Chicago White Sox,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Andrew Vaughn,Chicago White Sox,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Andrew Vaughn,Chicago White Sox,Hector Neris,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Andrew Vaughn,Chicago White Sox,Ryne Stanek,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Andrew Vaughn,Chicago White Sox,Jose Urquidy,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Andrew Vaughn,Chicago White Sox,Framber Valdez,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+106,Andrew Vaughn,Chicago White Sox,Sonny Gray,Minnesota Twins,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+107,Andrew Vaughn,Chicago White Sox,Jorge Lopez,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+108,Andrew Vaughn,Chicago White Sox,Kenta Maeda,Minnesota Twins,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+109,Andrew Vaughn,Chicago White Sox,Louie Varland,Minnesota Twins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+110,Andrew Vaughn,Chicago White Sox,Pablo Lopez,Minnesota Twins,6,1,1,0,0,2,0,0,2,.167,.167,.333,.500
+111,Andrew Vaughn,Chicago White Sox,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Andrew Vaughn,Chicago White Sox,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+113,Andrew Vaughn,Chicago White Sox,Griffin Jax,Minnesota Twins,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+114,Andrew Vaughn,Chicago White Sox,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Andrew Vaughn,Chicago White Sox,Joe Ryan,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+116,Andrew Vaughn,Chicago White Sox,Brock Stewart,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+117,Andrew Vaughn,Chicago White Sox,Sandy Alcantara,Miami Marlins,2,1,0,0,1,1,0,0,0,.500,.667,2.000,2.667
+118,Andrew Vaughn,Chicago White Sox,JT Chargois,Miami Marlins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+119,Andrew Vaughn,Chicago White Sox,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Andrew Vaughn,Chicago White Sox,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Andrew Vaughn,Chicago White Sox,Eury Perez,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Andrew Vaughn,Chicago White Sox,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Andrew Vaughn,Chicago White Sox,Jakob Junis,San Francisco Giants,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+124,Andrew Vaughn,Chicago White Sox,Sean Manaea,San Francisco Giants,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+125,Andrew Vaughn,Chicago White Sox,Logan Webb,San Francisco Giants,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+126,Andrew Vaughn,Chicago White Sox,Matt Beaty,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Andrew Vaughn,Chicago White Sox,Anthony DeSclafani,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Andrew Vaughn,Chicago White Sox,Sean Hjelle,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Andrew Vaughn,Chicago White Sox,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Andrew Vaughn,Chicago White Sox,Alex Wood,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+131,Andrew Vaughn,Chicago White Sox,Adam Ottavino,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+132,Andrew Vaughn,Chicago White Sox,Carlos Carrasco,New York Mets,3,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+133,Andrew Vaughn,Chicago White Sox,Trevor Gott,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Andrew Vaughn,Chicago White Sox,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Andrew Vaughn,Chicago White Sox,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Andrew Vaughn,Chicago White Sox,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Andrew Vaughn,Chicago White Sox,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Andrew Vaughn,Chicago White Sox,Luis Severino,New York Yankees,1,0,0,0,0,0,1,0,1,.000,.667,.000,.667
+139,Andrew Vaughn,Chicago White Sox,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Andrew Vaughn,Chicago White Sox,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Andrew Vaughn,Chicago White Sox,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Andrew Vaughn,Chicago White Sox,Bryce Miller,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Andrew Vaughn,Chicago White Sox,Andres Munoz,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+144,Andrew Vaughn,Chicago White Sox,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Andrew Vaughn,Chicago White Sox,Bryan Woo,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+146,Andrew Vaughn,Chicago White Sox,Peyton Battenfield,Cleveland Guardians,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+147,Andrew Vaughn,Chicago White Sox,Xzavion Curry,Cleveland Guardians,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+148,Andrew Vaughn,Chicago White Sox,Sam Hentges,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+149,Andrew Vaughn,Chicago White Sox,Cal Quantrill,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+150,Andrew Vaughn,Chicago White Sox,Shane Bieber,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+151,Andrew Vaughn,Chicago White Sox,Logan Allen,Cleveland Guardians,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+152,Andrew Vaughn,Chicago White Sox,Enyel De Los Santos,Cleveland Guardians,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+153,Andrew Vaughn,Chicago White Sox,Hunter Gaddis,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+154,Andrew Vaughn,Chicago White Sox,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Andrew Vaughn,Chicago White Sox,Eli Morgan,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Andrew Vaughn,Chicago White Sox,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Andrew Vaughn,Chicago White Sox,Vince Velasquez,Pittsburgh Pirates,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+158,Andrew Vaughn,Chicago White Sox,Rob Zastryzny,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+159,Andrew Vaughn,Chicago White Sox,Johan Oviedo,Pittsburgh Pirates,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+160,Andrew Vaughn,Chicago White Sox,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+161,Andrew Vaughn,Chicago White Sox,Wil Crowe,Pittsburgh Pirates,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+162,Andrew Vaughn,Chicago White Sox,Chase De Jong,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+163,Andrew Vaughn,Chicago White Sox,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Andrew Vaughn,Chicago White Sox,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+165,Andrew Vaughn,Chicago White Sox,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Andrew Vaughn,Chicago White Sox,Aroldis Chapman,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+167,Andrew Vaughn,Chicago White Sox,Jose Cuas,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+168,Andrew Vaughn,Chicago White Sox,Brady Singer,Kansas City Royals,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+169,Andrew Vaughn,Chicago White Sox,Zack Greinke,Kansas City Royals,5,2,1,0,0,2,0,0,1,.400,.400,.600,1.000
+170,Andrew Vaughn,Chicago White Sox,Jordan Lyles,Kansas City Royals,6,1,0,0,1,2,0,0,2,.167,.167,.667,.834
+171,Andrew Vaughn,Chicago White Sox,Max Castillo,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+172,Andrew Vaughn,Chicago White Sox,Brad Keller,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Andrew Vaughn,Chicago White Sox,Jackson Kowar,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+174,Andrew Vaughn,Chicago White Sox,Josh Staumont,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Andrew Vaughn,Chicago White Sox,Mason Englert,Detroit Tigers,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+176,Andrew Vaughn,Chicago White Sox,Jason Foley,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+177,Andrew Vaughn,Chicago White Sox,Will Vest,Detroit Tigers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+178,Andrew Vaughn,Chicago White Sox,Joey Wentz,Detroit Tigers,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+179,Andrew Vaughn,Chicago White Sox,Eduardo Rodriguez,Detroit Tigers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+180,Andrew Vaughn,Chicago White Sox,Tyler Alexander,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Andrew Vaughn,Chicago White Sox,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+182,Andrew Vaughn,Chicago White Sox,Jose Cisnero,Detroit Tigers,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+183,Andrew Vaughn,Chicago White Sox,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Andrew Vaughn,Chicago White Sox,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+185,Andrew Vaughn,Chicago White Sox,Michael Lorenzen,Detroit Tigers,5,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+186,Andrew Vaughn,Chicago White Sox,Reese Olson,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+187,Andrew Vaughn,Chicago White Sox,Sam Moll,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+188,Andrew Vaughn,Chicago White Sox,Luis Medina,Oakland Athletics,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+189,Andrew Vaughn,Chicago White Sox,Paul Blackburn,Oakland Athletics,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+190,Andrew Vaughn,Chicago White Sox,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+191,Andrew Vaughn,Chicago White Sox,Rico Garcia,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+192,Andrew Vaughn,Chicago White Sox,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+193,Andrew Vaughn,Chicago White Sox,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+194,Andrew Vaughn,Chicago White Sox,Kyle Muller,Oakland Athletics,3,0,0,0,0,1,0,0,1,.000,.000,.000,.000

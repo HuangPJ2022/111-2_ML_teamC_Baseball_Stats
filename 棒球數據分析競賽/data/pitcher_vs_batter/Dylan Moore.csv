@@ -1,0 +1,31 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Dylan Moore,Seattle Mariners,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+1,Dylan Moore,Seattle Mariners,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Dylan Moore,Seattle Mariners,Gerardo Reyes,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Dylan Moore,Seattle Mariners,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Dylan Moore,Seattle Mariners,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Dylan Moore,Seattle Mariners,Tim Mayza,Toronto Blue Jays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+6,Dylan Moore,Seattle Mariners,Nate Pearson,Toronto Blue Jays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+7,Dylan Moore,Seattle Mariners,Kevin Gausman,Toronto Blue Jays,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+8,Dylan Moore,Seattle Mariners,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Dylan Moore,Seattle Mariners,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Dylan Moore,Seattle Mariners,Jordan Romano,Toronto Blue Jays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+11,Dylan Moore,Seattle Mariners,Drew Carlton,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+12,Dylan Moore,Seattle Mariners,Josh Hader,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+13,Dylan Moore,Seattle Mariners,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Dylan Moore,Seattle Mariners,Framber Valdez,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Dylan Moore,Seattle Mariners,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Dylan Moore,Seattle Mariners,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Dylan Moore,Seattle Mariners,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Dylan Moore,Seattle Mariners,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Dylan Moore,Seattle Mariners,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Dylan Moore,Seattle Mariners,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Dylan Moore,Seattle Mariners,Logan Webb,San Francisco Giants,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+22,Dylan Moore,Seattle Mariners,Wandy Peralta,New York Yankees,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+23,Dylan Moore,Seattle Mariners,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Dylan Moore,Seattle Mariners,Gerrit Cole,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+25,Dylan Moore,Seattle Mariners,Lucas Giolito,Chicago White Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+26,Dylan Moore,Seattle Mariners,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Dylan Moore,Seattle Mariners,Eduardo Rodriguez,Detroit Tigers,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+28,Dylan Moore,Seattle Mariners,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Dylan Moore,Seattle Mariners,Alex Lange,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

@@ -1,0 +1,181 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,MJ Melendez,Kansas City Royals,Charlie Morton,Atlanta Braves,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+1,MJ Melendez,Kansas City Royals,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,MJ Melendez,Kansas City Royals,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+3,MJ Melendez,Kansas City Royals,Dylan Lee,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,MJ Melendez,Kansas City Royals,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,MJ Melendez,Kansas City Royals,Kyle Wright,Atlanta Braves,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+6,MJ Melendez,Kansas City Royals,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,MJ Melendez,Kansas City Royals,Danny Young,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,MJ Melendez,Kansas City Royals,Jose Leclerc,Texas Rangers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+9,MJ Melendez,Kansas City Royals,Nathan Eovaldi,Texas Rangers,5,2,1,0,0,4,0,0,2,.400,.333,.600,.933
+10,MJ Melendez,Kansas City Royals,Martin Perez,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+11,MJ Melendez,Kansas City Royals,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,MJ Melendez,Kansas City Royals,Dane Dunning,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,MJ Melendez,Kansas City Royals,Taylor Hearn,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,MJ Melendez,Kansas City Royals,Jonathan Hernandez,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,MJ Melendez,Kansas City Royals,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,MJ Melendez,Kansas City Royals,Jacob deGrom,Texas Rangers,5,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+17,MJ Melendez,Kansas City Royals,Victor Gonzalez,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+18,MJ Melendez,Kansas City Royals,Yency Almonte,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+19,MJ Melendez,Kansas City Royals,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,MJ Melendez,Kansas City Royals,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,MJ Melendez,Kansas City Royals,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,MJ Melendez,Kansas City Royals,Bobby Miller,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,MJ Melendez,Kansas City Royals,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,MJ Melendez,Kansas City Royals,Tyler Anderson,Los Angeles Angels,3,2,0,1,0,1,0,0,0,.667,.667,1.333,2.000
+25,MJ Melendez,Kansas City Royals,Griffin Canning,Los Angeles Angels,2,1,0,0,1,2,1,0,1,.500,.667,2.000,2.667
+26,MJ Melendez,Kansas City Royals,Reid Detmers,Los Angeles Angels,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+27,MJ Melendez,Kansas City Royals,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,MJ Melendez,Kansas City Royals,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,MJ Melendez,Kansas City Royals,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,MJ Melendez,Kansas City Royals,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,MJ Melendez,Kansas City Royals,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+32,MJ Melendez,Kansas City Royals,Jose Quijada,Los Angeles Angels,1,0,0,0,0,1,0,0,1,.000,.500,.000,.500
+33,MJ Melendez,Kansas City Royals,Patrick Sandoval,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,MJ Melendez,Kansas City Royals,Jacob Webb,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,MJ Melendez,Kansas City Royals,Jason Adam,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+36,MJ Melendez,Kansas City Royals,Shawn Armstrong,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+37,MJ Melendez,Kansas City Royals,Shane McClanahan,Tampa Bay Rays,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+38,MJ Melendez,Kansas City Royals,Pete Fairbanks,Tampa Bay Rays,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+39,MJ Melendez,Kansas City Royals,Tyler Glasnow,Tampa Bay Rays,5,2,0,0,0,0,0,0,3,.400,.400,.400,.800
+40,MJ Melendez,Kansas City Royals,Yonny Chirinos,Tampa Bay Rays,5,1,0,0,1,1,0,0,1,.200,.200,.800,1.000
+41,MJ Melendez,Kansas City Royals,Zach Eflin,Tampa Bay Rays,5,1,1,0,0,1,0,0,0,.200,.200,.400,.600
+42,MJ Melendez,Kansas City Royals,Cooper Criswell,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,MJ Melendez,Kansas City Royals,Jake Diekman,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+44,MJ Melendez,Kansas City Royals,Javy Guerra,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,MJ Melendez,Kansas City Royals,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+46,MJ Melendez,Kansas City Royals,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,MJ Melendez,Kansas City Royals,Adam Wainwright,St. Louis Cardinals,2,1,0,1,0,1,1,0,0,.500,.667,1.500,2.167
+48,MJ Melendez,Kansas City Royals,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,MJ Melendez,Kansas City Royals,Steven Matz,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,MJ Melendez,Kansas City Royals,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,MJ Melendez,Kansas City Royals,Drew VerHagen,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+52,MJ Melendez,Kansas City Royals,Zac Gallen,Arizona Diamondbacks,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+53,MJ Melendez,Kansas City Royals,Andrew Chafin,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+54,MJ Melendez,Kansas City Royals,Brandon Williamson,Cincinnati Reds,1,1,0,0,0,1,0,0,0,1.000,.500,1.000,1.500
+55,MJ Melendez,Kansas City Royals,Ben Lively,Cincinnati Reds,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+56,MJ Melendez,Kansas City Royals,Luke Weaver,Cincinnati Reds,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+57,MJ Melendez,Kansas City Royals,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,MJ Melendez,Kansas City Royals,Daniel Duarte,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,MJ Melendez,Kansas City Royals,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,MJ Melendez,Kansas City Royals,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,MJ Melendez,Kansas City Royals,Alex Young,Cincinnati Reds,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+62,MJ Melendez,Kansas City Royals,Zach Pop,Toronto Blue Jays,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+63,MJ Melendez,Kansas City Royals,Jose Berrios,Toronto Blue Jays,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+64,MJ Melendez,Kansas City Royals,Adam Cimber,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+65,MJ Melendez,Kansas City Royals,Kevin Gausman,Toronto Blue Jays,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+66,MJ Melendez,Kansas City Royals,Alek Manoah,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,MJ Melendez,Kansas City Royals,Trevor Richards,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+68,MJ Melendez,Kansas City Royals,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,MJ Melendez,Kansas City Royals,Grayson Rodriguez,Baltimore Orioles,2,2,2,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+70,MJ Melendez,Kansas City Royals,Keegan Akin,Baltimore Orioles,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+71,MJ Melendez,Kansas City Royals,Cole Irvin,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+72,MJ Melendez,Kansas City Royals,Cionel Perez,Baltimore Orioles,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+73,MJ Melendez,Kansas City Royals,Tyler Wells,Baltimore Orioles,6,2,0,0,1,2,0,0,2,.333,.333,.833,1.166
+74,MJ Melendez,Kansas City Royals,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,MJ Melendez,Kansas City Royals,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,MJ Melendez,Kansas City Royals,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,MJ Melendez,Kansas City Royals,Kyle Gibson,Baltimore Orioles,6,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,MJ Melendez,Kansas City Royals,Yu Darvish,San Diego Padres,3,2,2,0,0,1,0,0,1,.667,.667,1.333,2.000
+79,MJ Melendez,Kansas City Royals,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,MJ Melendez,Kansas City Royals,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,MJ Melendez,Kansas City Royals,Seth Lugo,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+82,MJ Melendez,Kansas City Royals,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,MJ Melendez,Kansas City Royals,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,MJ Melendez,Kansas City Royals,Jorge Lopez,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,MJ Melendez,Kansas City Royals,Josh Winder,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+86,MJ Melendez,Kansas City Royals,Kenta Maeda,Minnesota Twins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+87,MJ Melendez,Kansas City Royals,Pablo Lopez,Minnesota Twins,9,1,1,0,0,0,1,0,3,.111,.200,.222,.422
+88,MJ Melendez,Kansas City Royals,Jhoan Duran,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,MJ Melendez,Kansas City Royals,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+90,MJ Melendez,Kansas City Royals,Brent Headrick,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,MJ Melendez,Kansas City Royals,Griffin Jax,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,MJ Melendez,Kansas City Royals,Tyler Mahle,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,MJ Melendez,Kansas City Royals,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,MJ Melendez,Kansas City Royals,Bailey Ober,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,MJ Melendez,Kansas City Royals,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,MJ Melendez,Kansas City Royals,Joe Ryan,Minnesota Twins,4,0,0,0,0,0,2,0,4,.000,.333,.000,.333
+97,MJ Melendez,Kansas City Royals,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,MJ Melendez,Kansas City Royals,Caleb Thielbar,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,MJ Melendez,Kansas City Royals,Erasmo Ramirez,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+100,MJ Melendez,Kansas City Royals,MacKenzie Gore,Washington Nationals,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+101,MJ Melendez,Kansas City Royals,Patrick Corbin,Washington Nationals,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+102,MJ Melendez,Kansas City Royals,Josiah Gray,Washington Nationals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+103,MJ Melendez,Kansas City Royals,Hunter Harvey,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+104,MJ Melendez,Kansas City Royals,Chad Kuhl,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,MJ Melendez,Kansas City Royals,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,MJ Melendez,Kansas City Royals,Braxton Garrett,Miami Marlins,3,2,1,0,0,2,0,0,0,.667,.667,1.000,1.667
+107,MJ Melendez,Kansas City Royals,Tanner Scott,Miami Marlins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+108,MJ Melendez,Kansas City Royals,Edward Cabrera,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+109,MJ Melendez,Kansas City Royals,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,MJ Melendez,Kansas City Royals,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,MJ Melendez,Kansas City Royals,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,MJ Melendez,Kansas City Royals,Ross Stripling,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+113,MJ Melendez,Kansas City Royals,Taylor Rogers,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+114,MJ Melendez,Kansas City Royals,Sean Manaea,San Francisco Giants,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+115,MJ Melendez,Kansas City Royals,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,MJ Melendez,Kansas City Royals,Anthony DeSclafani,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+117,MJ Melendez,Kansas City Royals,Daniel Bard,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+118,MJ Melendez,Kansas City Royals,Matt Carasiti,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+119,MJ Melendez,Kansas City Royals,Brent Suter,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+120,MJ Melendez,Kansas City Royals,Kyle Freeland,Colorado Rockies,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+121,MJ Melendez,Kansas City Royals,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,MJ Melendez,Kansas City Royals,Austin Gomber,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+123,MJ Melendez,Kansas City Royals,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+124,MJ Melendez,Kansas City Royals,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,MJ Melendez,Kansas City Royals,Michael King,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+126,MJ Melendez,Kansas City Royals,Clarke Schmidt,New York Yankees,2,1,1,0,0,0,0,0,0,.500,.667,1.000,1.667
+127,MJ Melendez,Kansas City Royals,Gerrit Cole,New York Yankees,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+128,MJ Melendez,Kansas City Royals,Luis Severino,New York Yankees,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+129,MJ Melendez,Kansas City Royals,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,MJ Melendez,Kansas City Royals,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,MJ Melendez,Kansas City Royals,Logan Allen,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+132,MJ Melendez,Kansas City Royals,Aaron Civale,Cleveland Guardians,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+133,MJ Melendez,Kansas City Royals,Shane Bieber,Cleveland Guardians,4,1,1,0,0,0,1,0,2,.250,.400,.500,.900
+134,MJ Melendez,Kansas City Royals,Gavin Williams,Cleveland Guardians,6,1,1,0,0,0,0,0,1,.167,.167,.333,.500
+135,MJ Melendez,Kansas City Royals,Tanner Bibee,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+136,MJ Melendez,Kansas City Royals,Emmanuel Clase,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,MJ Melendez,Kansas City Royals,Enyel De Los Santos,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,MJ Melendez,Kansas City Royals,Sam Hentges,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,MJ Melendez,Kansas City Royals,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,MJ Melendez,Kansas City Royals,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,MJ Melendez,Kansas City Royals,Nick Sandlin,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+142,MJ Melendez,Kansas City Royals,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,MJ Melendez,Kansas City Royals,Aaron Bummer,Chicago White Sox,2,1,0,0,0,2,0,0,1,.500,.500,.500,1.000
+144,MJ Melendez,Kansas City Royals,Lucas Giolito,Chicago White Sox,5,2,0,0,0,0,1,0,1,.400,.500,.400,.900
+145,MJ Melendez,Kansas City Royals,Dylan Cease,Chicago White Sox,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+146,MJ Melendez,Kansas City Royals,Mike Clevinger,Chicago White Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+147,MJ Melendez,Kansas City Royals,Lance Lynn,Chicago White Sox,5,1,0,0,0,0,1,0,2,.200,.333,.200,.533
+148,MJ Melendez,Kansas City Royals,Kendall Graveman,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,MJ Melendez,Kansas City Royals,Joe Kelly,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+150,MJ Melendez,Kansas City Royals,Michael Kopech,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+151,MJ Melendez,Kansas City Royals,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,MJ Melendez,Kansas City Royals,Nicholas Padilla,Chicago White Sox,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+153,MJ Melendez,Kansas City Royals,Adrian Houser,Milwaukee Brewers,1,1,1,0,0,1,0,0,0,1.000,.500,2.000,2.500
+154,MJ Melendez,Kansas City Royals,Colin Rea,Milwaukee Brewers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+155,MJ Melendez,Kansas City Royals,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+156,MJ Melendez,Kansas City Royals,Eric Lauer,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+157,MJ Melendez,Kansas City Royals,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,MJ Melendez,Kansas City Royals,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,MJ Melendez,Kansas City Royals,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,MJ Melendez,Kansas City Royals,Jason Foley,Detroit Tigers,2,1,0,0,0,1,1,1,0,.500,.667,.500,1.167
+161,MJ Melendez,Kansas City Royals,Matt Manning,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+162,MJ Melendez,Kansas City Royals,Tarik Skubal,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+163,MJ Melendez,Kansas City Royals,Michael Lorenzen,Detroit Tigers,8,1,1,0,0,0,1,0,3,.125,.222,.250,.472
+164,MJ Melendez,Kansas City Royals,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+165,MJ Melendez,Kansas City Royals,Matthew Boyd,Detroit Tigers,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+166,MJ Melendez,Kansas City Royals,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+167,MJ Melendez,Kansas City Royals,Tyler Holton,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,MJ Melendez,Kansas City Royals,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,MJ Melendez,Kansas City Royals,Reese Olson,Detroit Tigers,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+170,MJ Melendez,Kansas City Royals,Eduardo Rodriguez,Detroit Tigers,6,0,0,0,0,0,0,0,5,.000,.000,.000,.000
+171,MJ Melendez,Kansas City Royals,Chasen Shreve,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+172,MJ Melendez,Kansas City Royals,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,MJ Melendez,Kansas City Royals,Shintaro Fujinami,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+174,MJ Melendez,Kansas City Royals,Kyle Muller,Oakland Athletics,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+175,MJ Melendez,Kansas City Royals,Zach Jackson,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+176,MJ Melendez,Kansas City Royals,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+177,MJ Melendez,Kansas City Royals,Mason Miller,Oakland Athletics,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+178,MJ Melendez,Kansas City Royals,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,MJ Melendez,Kansas City Royals,Spencer Patton,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

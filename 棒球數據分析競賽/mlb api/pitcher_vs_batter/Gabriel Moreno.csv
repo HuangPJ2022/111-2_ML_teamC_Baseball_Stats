@@ -1,0 +1,141 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Gabriel Moreno,Arizona Diamondbacks,Raisel Iglesias,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Gabriel Moreno,Arizona Diamondbacks,Charlie Morton,Atlanta Braves,6,2,1,0,0,1,0,0,1,.333,.333,.500,.833
+2,Gabriel Moreno,Arizona Diamondbacks,Jesse Chavez,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+3,Gabriel Moreno,Arizona Diamondbacks,Collin McHugh,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+4,Gabriel Moreno,Arizona Diamondbacks,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Gabriel Moreno,Arizona Diamondbacks,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Gabriel Moreno,Arizona Diamondbacks,Jon Gray,Texas Rangers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Gabriel Moreno,Arizona Diamondbacks,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Gabriel Moreno,Arizona Diamondbacks,Yency Almonte,Los Angeles Dodgers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+9,Gabriel Moreno,Arizona Diamondbacks,Noah Syndergaard,Los Angeles Dodgers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+10,Gabriel Moreno,Arizona Diamondbacks,Alex Vesia,Los Angeles Dodgers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+11,Gabriel Moreno,Arizona Diamondbacks,Clayton Kershaw,Los Angeles Dodgers,5,2,1,0,0,0,0,0,1,.400,.400,.600,1.000
+12,Gabriel Moreno,Arizona Diamondbacks,Dustin May,Los Angeles Dodgers,5,1,0,0,0,0,0,0,0,.200,.200,.200,.400
+13,Gabriel Moreno,Arizona Diamondbacks,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Gabriel Moreno,Arizona Diamondbacks,Andre Jackson,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Gabriel Moreno,Arizona Diamondbacks,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Gabriel Moreno,Arizona Diamondbacks,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Gabriel Moreno,Arizona Diamondbacks,Julio Urias,Los Angeles Dodgers,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+18,Gabriel Moreno,Arizona Diamondbacks,Tyler Anderson,Los Angeles Angels,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+19,Gabriel Moreno,Arizona Diamondbacks,Chris Devenski,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Gabriel Moreno,Arizona Diamondbacks,Sam Bachman,Los Angeles Angels,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+21,Gabriel Moreno,Arizona Diamondbacks,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Gabriel Moreno,Arizona Diamondbacks,Shawn Armstrong,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Gabriel Moreno,Arizona Diamondbacks,Yonny Chirinos,Tampa Bay Rays,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+24,Gabriel Moreno,Arizona Diamondbacks,Taj Bradley,Tampa Bay Rays,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+25,Gabriel Moreno,Arizona Diamondbacks,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Gabriel Moreno,Arizona Diamondbacks,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Gabriel Moreno,Arizona Diamondbacks,Nick Pivetta,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,Gabriel Moreno,Arizona Diamondbacks,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Gabriel Moreno,Arizona Diamondbacks,Kutter Crawford,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Gabriel Moreno,Arizona Diamondbacks,Tanner Houck,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Gabriel Moreno,Arizona Diamondbacks,Garrett Whitlock,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Gabriel Moreno,Arizona Diamondbacks,Genesis Cabrera,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+33,Gabriel Moreno,Arizona Diamondbacks,Jordan Montgomery,St. Louis Cardinals,2,2,1,0,1,3,0,0,0,1.000,1.000,3.000,4.000
+34,Gabriel Moreno,Arizona Diamondbacks,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Gabriel Moreno,Arizona Diamondbacks,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Gabriel Moreno,Arizona Diamondbacks,JoJo Romero,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Gabriel Moreno,Arizona Diamondbacks,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Gabriel Moreno,Arizona Diamondbacks,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Gabriel Moreno,Arizona Diamondbacks,Ben Lively,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Gabriel Moreno,Arizona Diamondbacks,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Gabriel Moreno,Arizona Diamondbacks,Trevor Richards,Toronto Blue Jays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+42,Gabriel Moreno,Arizona Diamondbacks,Jose Berrios,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+43,Gabriel Moreno,Arizona Diamondbacks,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Gabriel Moreno,Arizona Diamondbacks,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Gabriel Moreno,Arizona Diamondbacks,Matt Strahm,Philadelphia Phillies,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+46,Gabriel Moreno,Arizona Diamondbacks,Aaron Nola,Philadelphia Phillies,3,2,0,0,0,1,0,0,1,.667,.667,.667,1.334
+47,Gabriel Moreno,Arizona Diamondbacks,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Gabriel Moreno,Arizona Diamondbacks,Dylan Covey,Philadelphia Phillies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+49,Gabriel Moreno,Arizona Diamondbacks,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Gabriel Moreno,Arizona Diamondbacks,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Gabriel Moreno,Arizona Diamondbacks,Gregory Soto,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+52,Gabriel Moreno,Arizona Diamondbacks,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Gabriel Moreno,Arizona Diamondbacks,Luis Garcia,San Diego Padres,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+54,Gabriel Moreno,Arizona Diamondbacks,Seth Lugo,San Diego Padres,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+55,Gabriel Moreno,Arizona Diamondbacks,Joe Musgrove,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+56,Gabriel Moreno,Arizona Diamondbacks,Ryan Weathers,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+57,Gabriel Moreno,Arizona Diamondbacks,Josh Hader,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Gabriel Moreno,Arizona Diamondbacks,Tim Hill,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Gabriel Moreno,Arizona Diamondbacks,Brent Honeywell,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Gabriel Moreno,Arizona Diamondbacks,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Gabriel Moreno,Arizona Diamondbacks,Andrew Nardi,Miami Marlins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+62,Gabriel Moreno,Arizona Diamondbacks,Matt Barnes,Miami Marlins,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+63,Gabriel Moreno,Arizona Diamondbacks,Braxton Garrett,Miami Marlins,4,2,1,0,0,0,0,0,2,.500,.500,.750,1.250
+64,Gabriel Moreno,Arizona Diamondbacks,Jesus Luzardo,Miami Marlins,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+65,Gabriel Moreno,Arizona Diamondbacks,Huascar Brazoban,Miami Marlins,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+66,Gabriel Moreno,Arizona Diamondbacks,Chi Chi Gonzalez,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Gabriel Moreno,Arizona Diamondbacks,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Gabriel Moreno,Arizona Diamondbacks,Trevor Rogers,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+69,Gabriel Moreno,Arizona Diamondbacks,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Gabriel Moreno,Arizona Diamondbacks,Josiah Gray,Washington Nationals,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+71,Gabriel Moreno,Arizona Diamondbacks,Jake Irvin,Washington Nationals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+72,Gabriel Moreno,Arizona Diamondbacks,Erasmo Ramirez,Washington Nationals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+73,Gabriel Moreno,Arizona Diamondbacks,MacKenzie Gore,Washington Nationals,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+74,Gabriel Moreno,Arizona Diamondbacks,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+75,Gabriel Moreno,Arizona Diamondbacks,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Gabriel Moreno,Arizona Diamondbacks,Chad Kuhl,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Gabriel Moreno,Arizona Diamondbacks,Mason Thompson,Washington Nationals,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+78,Gabriel Moreno,Arizona Diamondbacks,Thaddeus Ward,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+79,Gabriel Moreno,Arizona Diamondbacks,Jakob Junis,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+80,Gabriel Moreno,Arizona Diamondbacks,Alex Wood,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+81,Gabriel Moreno,Arizona Diamondbacks,Logan Webb,San Francisco Giants,6,2,0,0,0,0,0,0,0,.333,.333,.333,.666
+82,Gabriel Moreno,Arizona Diamondbacks,Tristan Beck,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Gabriel Moreno,Arizona Diamondbacks,Alex Cobb,San Francisco Giants,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+84,Gabriel Moreno,Arizona Diamondbacks,Anthony DeSclafani,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Gabriel Moreno,Arizona Diamondbacks,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Gabriel Moreno,Arizona Diamondbacks,Ross Stripling,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Gabriel Moreno,Arizona Diamondbacks,Carlos Carrasco,New York Mets,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Gabriel Moreno,Arizona Diamondbacks,Austin Gomber,Colorado Rockies,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+89,Gabriel Moreno,Arizona Diamondbacks,Peter Lambert,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+90,Gabriel Moreno,Arizona Diamondbacks,Brad Hand,Colorado Rockies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+91,Gabriel Moreno,Arizona Diamondbacks,Kyle Freeland,Colorado Rockies,3,1,0,0,0,1,0,0,1,.333,.250,.333,.583
+92,Gabriel Moreno,Arizona Diamondbacks,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Gabriel Moreno,Arizona Diamondbacks,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Gabriel Moreno,Arizona Diamondbacks,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Gabriel Moreno,Arizona Diamondbacks,Pierce Johnson,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+96,Gabriel Moreno,Arizona Diamondbacks,Karl Kauffmann,Colorado Rockies,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+97,Gabriel Moreno,Arizona Diamondbacks,Dinelson Lamet,Colorado Rockies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Gabriel Moreno,Arizona Diamondbacks,Justin Lawrence,Colorado Rockies,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+99,Gabriel Moreno,Arizona Diamondbacks,Nick Mears,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Gabriel Moreno,Arizona Diamondbacks,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Gabriel Moreno,Arizona Diamondbacks,Tanner Bibee,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Gabriel Moreno,Arizona Diamondbacks,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Gabriel Moreno,Arizona Diamondbacks,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Gabriel Moreno,Arizona Diamondbacks,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Gabriel Moreno,Arizona Diamondbacks,Touki Toussaint,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+106,Gabriel Moreno,Arizona Diamondbacks,David Bednar,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+107,Gabriel Moreno,Arizona Diamondbacks,Rich Hill,Pittsburgh Pirates,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+108,Gabriel Moreno,Arizona Diamondbacks,Mitch Keller,Pittsburgh Pirates,4,0,0,0,0,0,1,0,1,.000,.200,.000,.200
+109,Gabriel Moreno,Arizona Diamondbacks,Dauri Moreta,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+110,Gabriel Moreno,Arizona Diamondbacks,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Gabriel Moreno,Arizona Diamondbacks,Yohan Ramirez,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Gabriel Moreno,Arizona Diamondbacks,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Gabriel Moreno,Arizona Diamondbacks,Duane Underwood Jr.,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+114,Gabriel Moreno,Arizona Diamondbacks,Trevor Megill,Milwaukee Brewers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+115,Gabriel Moreno,Arizona Diamondbacks,Corbin Burnes,Milwaukee Brewers,6,2,0,0,0,0,0,0,2,.333,.333,.333,.666
+116,Gabriel Moreno,Arizona Diamondbacks,Javy Guerra,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Gabriel Moreno,Arizona Diamondbacks,Adrian Houser,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Gabriel Moreno,Arizona Diamondbacks,Wade Miley,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,Gabriel Moreno,Arizona Diamondbacks,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Gabriel Moreno,Arizona Diamondbacks,Julio Teheran,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Gabriel Moreno,Arizona Diamondbacks,Bryse Wilson,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Gabriel Moreno,Arizona Diamondbacks,Matthew Boyd,Detroit Tigers,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+123,Gabriel Moreno,Arizona Diamondbacks,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+124,Gabriel Moreno,Arizona Diamondbacks,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Gabriel Moreno,Arizona Diamondbacks,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Gabriel Moreno,Arizona Diamondbacks,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Gabriel Moreno,Arizona Diamondbacks,Aroldis Chapman,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+128,Gabriel Moreno,Arizona Diamondbacks,Taylor Clarke,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+129,Gabriel Moreno,Arizona Diamondbacks,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Gabriel Moreno,Arizona Diamondbacks,Carlos Hernandez,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+131,Gabriel Moreno,Arizona Diamondbacks,Brad Keller,Kansas City Royals,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+132,Gabriel Moreno,Arizona Diamondbacks,Brady Singer,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Gabriel Moreno,Arizona Diamondbacks,Shintaro Fujinami,Oakland Athletics,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+134,Gabriel Moreno,Arizona Diamondbacks,Sam Long,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+135,Gabriel Moreno,Arizona Diamondbacks,Kyle Muller,Oakland Athletics,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+136,Gabriel Moreno,Arizona Diamondbacks,Garrett Acton,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Gabriel Moreno,Arizona Diamondbacks,Richard Lovelady,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+138,Gabriel Moreno,Arizona Diamondbacks,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Gabriel Moreno,Arizona Diamondbacks,Drew Rucinski,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500

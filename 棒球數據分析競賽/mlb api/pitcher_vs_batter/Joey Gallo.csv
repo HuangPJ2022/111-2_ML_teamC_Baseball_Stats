@@ -1,0 +1,152 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Joey Gallo,Minnesota Twins,Bryce Elder,Atlanta Braves,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+1,Joey Gallo,Minnesota Twins,Spencer Strider,Atlanta Braves,2,1,0,0,1,1,1,0,1,.500,.667,2.000,2.667
+2,Joey Gallo,Minnesota Twins,Kolby Allard,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+3,Joey Gallo,Minnesota Twins,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Joey Gallo,Minnesota Twins,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Joey Gallo,Minnesota Twins,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Joey Gallo,Minnesota Twins,Justin Bruihl,Los Angeles Dodgers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+7,Joey Gallo,Minnesota Twins,Dylan Covey,Los Angeles Dodgers,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+8,Joey Gallo,Minnesota Twins,Clayton Kershaw,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+9,Joey Gallo,Minnesota Twins,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Joey Gallo,Minnesota Twins,Dustin May,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Joey Gallo,Minnesota Twins,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Joey Gallo,Minnesota Twins,Noah Syndergaard,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Joey Gallo,Minnesota Twins,Zack Weiss,Los Angeles Angels,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+14,Joey Gallo,Minnesota Twins,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Joey Gallo,Minnesota Twins,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Joey Gallo,Minnesota Twins,Jimmy Herget,Los Angeles Angels,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+17,Joey Gallo,Minnesota Twins,Shohei Ohtani,Los Angeles Angels,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+18,Joey Gallo,Minnesota Twins,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Joey Gallo,Minnesota Twins,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Joey Gallo,Minnesota Twins,Corey Kluber,Boston Red Sox,4,2,0,0,1,3,0,0,1,.500,.500,1.250,1.750
+21,Joey Gallo,Minnesota Twins,James Paxton,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+22,Joey Gallo,Minnesota Twins,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Joey Gallo,Minnesota Twins,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Joey Gallo,Minnesota Twins,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Joey Gallo,Minnesota Twins,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Joey Gallo,Minnesota Twins,Tanner Houck,Boston Red Sox,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+27,Joey Gallo,Minnesota Twins,Kaleb Ort,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Joey Gallo,Minnesota Twins,Garrett Whitlock,Boston Red Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+29,Joey Gallo,Minnesota Twins,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Joey Gallo,Minnesota Twins,Jose Berrios,Toronto Blue Jays,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+31,Joey Gallo,Minnesota Twins,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Joey Gallo,Minnesota Twins,Chris Bassitt,Toronto Blue Jays,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+33,Joey Gallo,Minnesota Twins,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Joey Gallo,Minnesota Twins,Nate Pearson,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Joey Gallo,Minnesota Twins,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+36,Joey Gallo,Minnesota Twins,Kyle Bradish,Baltimore Orioles,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+37,Joey Gallo,Minnesota Twins,Yennier Cano,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+38,Joey Gallo,Minnesota Twins,Dean Kremer,Baltimore Orioles,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+39,Joey Gallo,Minnesota Twins,Bryan Baker,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Joey Gallo,Minnesota Twins,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Joey Gallo,Minnesota Twins,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Joey Gallo,Minnesota Twins,Kyle Gibson,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Joey Gallo,Minnesota Twins,Nick Vespi,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Joey Gallo,Minnesota Twins,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+45,Joey Gallo,Minnesota Twins,Bruce Zimmermann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Joey Gallo,Minnesota Twins,Brad Boxberger,Chicago Cubs,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+47,Joey Gallo,Minnesota Twins,Michael Rucker,Chicago Cubs,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+48,Joey Gallo,Minnesota Twins,Hayden Wesneski,Chicago Cubs,3,1,0,0,1,3,0,0,0,.333,.333,1.333,1.666
+49,Joey Gallo,Minnesota Twins,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Joey Gallo,Minnesota Twins,Brandon Hughes,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Joey Gallo,Minnesota Twins,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Joey Gallo,Minnesota Twins,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Joey Gallo,Minnesota Twins,Yu Darvish,San Diego Padres,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+54,Joey Gallo,Minnesota Twins,Luis Garcia,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Joey Gallo,Minnesota Twins,Brent Honeywell,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+56,Joey Gallo,Minnesota Twins,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Joey Gallo,Minnesota Twins,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Joey Gallo,Minnesota Twins,Seth Lugo,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+59,Joey Gallo,Minnesota Twins,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Joey Gallo,Minnesota Twins,J.P. France,Houston Astros,4,1,0,0,0,0,0,0,2,.250,.250,.250,.500
+61,Joey Gallo,Minnesota Twins,Bryan Abreu,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+62,Joey Gallo,Minnesota Twins,Brandon Bielak,Houston Astros,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+63,Joey Gallo,Minnesota Twins,Hunter Brown,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Joey Gallo,Minnesota Twins,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Joey Gallo,Minnesota Twins,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Joey Gallo,Minnesota Twins,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Joey Gallo,Minnesota Twins,Parker Mushinski,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+68,Joey Gallo,Minnesota Twins,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Joey Gallo,Minnesota Twins,Jose Urquidy,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+70,Joey Gallo,Minnesota Twins,Trevor Williams,Washington Nationals,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+71,Joey Gallo,Minnesota Twins,Anthony Banda,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+72,Joey Gallo,Minnesota Twins,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+73,Joey Gallo,Minnesota Twins,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Joey Gallo,Minnesota Twins,Chad Kuhl,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Joey Gallo,Minnesota Twins,Erasmo Ramirez,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+76,Joey Gallo,Minnesota Twins,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Joey Gallo,Minnesota Twins,Johnny Cueto,Miami Marlins,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+78,Joey Gallo,Minnesota Twins,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+79,Joey Gallo,Minnesota Twins,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Joey Gallo,Minnesota Twins,Jeff Lindgren,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Joey Gallo,Minnesota Twins,Alex Cobb,San Francisco Giants,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+82,Joey Gallo,Minnesota Twins,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Joey Gallo,Minnesota Twins,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Joey Gallo,Minnesota Twins,Nick Ramirez,New York Yankees,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+85,Joey Gallo,Minnesota Twins,Greg Weissert,New York Yankees,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+86,Joey Gallo,Minnesota Twins,Domingo German,New York Yankees,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+87,Joey Gallo,Minnesota Twins,Albert Abreu,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+88,Joey Gallo,Minnesota Twins,Jhony Brito,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Joey Gallo,Minnesota Twins,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Joey Gallo,Minnesota Twins,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Joey Gallo,Minnesota Twins,Gabe Speier,Seattle Mariners,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+92,Joey Gallo,Minnesota Twins,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Joey Gallo,Minnesota Twins,Isaiah Campbell,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Joey Gallo,Minnesota Twins,Luis Castillo,Seattle Mariners,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+95,Joey Gallo,Minnesota Twins,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Joey Gallo,Minnesota Twins,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Joey Gallo,Minnesota Twins,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Joey Gallo,Minnesota Twins,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Joey Gallo,Minnesota Twins,Bryan Woo,Seattle Mariners,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+100,Joey Gallo,Minnesota Twins,Peyton Battenfield,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+101,Joey Gallo,Minnesota Twins,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Joey Gallo,Minnesota Twins,Emmanuel Clase,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Joey Gallo,Minnesota Twins,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Joey Gallo,Minnesota Twins,Cal Quantrill,Cleveland Guardians,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+105,Joey Gallo,Minnesota Twins,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Joey Gallo,Minnesota Twins,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Joey Gallo,Minnesota Twins,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Joey Gallo,Minnesota Twins,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Joey Gallo,Minnesota Twins,Alex Colome,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+110,Joey Gallo,Minnesota Twins,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+111,Joey Gallo,Minnesota Twins,Kendall Graveman,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+112,Joey Gallo,Minnesota Twins,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Joey Gallo,Minnesota Twins,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Joey Gallo,Minnesota Twins,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Joey Gallo,Minnesota Twins,Hoby Milner,Milwaukee Brewers,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+116,Joey Gallo,Minnesota Twins,Colin Rea,Milwaukee Brewers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+117,Joey Gallo,Minnesota Twins,Corbin Burnes,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+118,Joey Gallo,Minnesota Twins,Tyson Miller,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Joey Gallo,Minnesota Twins,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Joey Gallo,Minnesota Twins,Dylan Coleman,Kansas City Royals,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+121,Joey Gallo,Minnesota Twins,Amir Garrett,Kansas City Royals,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+122,Joey Gallo,Minnesota Twins,Zack Greinke,Kansas City Royals,4,2,1,0,0,0,0,0,1,.500,.500,.750,1.250
+123,Joey Gallo,Minnesota Twins,Jordan Lyles,Kansas City Royals,3,1,0,1,0,0,1,0,2,.333,.500,1.000,1.500
+124,Joey Gallo,Minnesota Twins,Brad Keller,Kansas City Royals,5,1,1,0,0,0,0,0,2,.200,.200,.400,.600
+125,Joey Gallo,Minnesota Twins,Scott Barlow,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+126,Joey Gallo,Minnesota Twins,Aroldis Chapman,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+127,Joey Gallo,Minnesota Twins,Taylor Clarke,Kansas City Royals,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+128,Joey Gallo,Minnesota Twins,Jose Cuas,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Joey Gallo,Minnesota Twins,Jonathan Heasley,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Joey Gallo,Minnesota Twins,Carlos Hernandez,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+131,Joey Gallo,Minnesota Twins,Alec Marsh,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Joey Gallo,Minnesota Twins,Brady Singer,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+133,Joey Gallo,Minnesota Twins,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Joey Gallo,Minnesota Twins,Ryan Yarbrough,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Joey Gallo,Minnesota Twins,Mason Englert,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+136,Joey Gallo,Minnesota Twins,Chasen Shreve,Detroit Tigers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+137,Joey Gallo,Minnesota Twins,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Joey Gallo,Minnesota Twins,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Joey Gallo,Minnesota Twins,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,Joey Gallo,Minnesota Twins,Tyler Holton,Detroit Tigers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+141,Joey Gallo,Minnesota Twins,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+142,Joey Gallo,Minnesota Twins,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Joey Gallo,Minnesota Twins,Reese Olson,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+144,Joey Gallo,Minnesota Twins,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Joey Gallo,Minnesota Twins,Brendan White,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+146,Joey Gallo,Minnesota Twins,Shintaro Fujinami,Oakland Athletics,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+147,Joey Gallo,Minnesota Twins,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Joey Gallo,Minnesota Twins,Hogan Harris,Oakland Athletics,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+149,Joey Gallo,Minnesota Twins,Sam Long,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+150,Joey Gallo,Minnesota Twins,Freddy Tarnok,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

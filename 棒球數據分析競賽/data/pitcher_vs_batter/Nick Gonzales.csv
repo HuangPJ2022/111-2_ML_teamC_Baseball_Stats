@@ -1,0 +1,59 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Nick Gonzales,Pittsburgh Pirates,Phil Bickford,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Nick Gonzales,Pittsburgh Pirates,Ryan Brasier,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Nick Gonzales,Pittsburgh Pirates,Caleb Ferguson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+3,Nick Gonzales,Pittsburgh Pirates,Emmet Sheehan,Los Angeles Dodgers,2,2,2,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+4,Nick Gonzales,Pittsburgh Pirates,Michael Grove,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+5,Nick Gonzales,Pittsburgh Pirates,Gavin Stone,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+6,Nick Gonzales,Pittsburgh Pirates,Julio Urias,Los Angeles Dodgers,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+7,Nick Gonzales,Pittsburgh Pirates,Daniel Hudson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Nick Gonzales,Pittsburgh Pirates,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Nick Gonzales,Pittsburgh Pirates,Evan Phillips,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+10,Nick Gonzales,Pittsburgh Pirates,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Nick Gonzales,Pittsburgh Pirates,Reid Detmers,Los Angeles Angels,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+12,Nick Gonzales,Pittsburgh Pirates,Tyler Anderson,Los Angeles Angels,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+13,Nick Gonzales,Pittsburgh Pirates,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Nick Gonzales,Pittsburgh Pirates,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Nick Gonzales,Pittsburgh Pirates,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Nick Gonzales,Pittsburgh Pirates,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+17,Nick Gonzales,Pittsburgh Pirates,Gerardo Reyes,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Nick Gonzales,Pittsburgh Pirates,Zach Davies,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+19,Nick Gonzales,Pittsburgh Pirates,Miguel Castro,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Nick Gonzales,Pittsburgh Pirates,Zac Gallen,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Nick Gonzales,Pittsburgh Pirates,Tyler Gilbert,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Nick Gonzales,Pittsburgh Pirates,Kevin Ginkel,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Nick Gonzales,Pittsburgh Pirates,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Nick Gonzales,Pittsburgh Pirates,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Nick Gonzales,Pittsburgh Pirates,Reiss Knehr,San Diego Padres,1,1,0,1,0,1,0,0,0,1.000,1.000,3.000,4.000
+26,Nick Gonzales,Pittsburgh Pirates,Nick Martinez,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+27,Nick Gonzales,Pittsburgh Pirates,Adrian Morejon,San Diego Padres,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+28,Nick Gonzales,Pittsburgh Pirates,Drew Carlton,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Nick Gonzales,Pittsburgh Pirates,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+30,Nick Gonzales,Pittsburgh Pirates,Joe Musgrove,San Diego Padres,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+31,Nick Gonzales,Pittsburgh Pirates,Blake Snell,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+32,Nick Gonzales,Pittsburgh Pirates,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Nick Gonzales,Pittsburgh Pirates,Dylan Floro,Miami Marlins,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Nick Gonzales,Pittsburgh Pirates,Bryan Hoeing,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Nick Gonzales,Pittsburgh Pirates,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+36,Nick Gonzales,Pittsburgh Pirates,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Nick Gonzales,Pittsburgh Pirates,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Nick Gonzales,Pittsburgh Pirates,Tanner Scott,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+39,Nick Gonzales,Pittsburgh Pirates,Camilo Doval,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+40,Nick Gonzales,Pittsburgh Pirates,Scott Alexander,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Nick Gonzales,Pittsburgh Pirates,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Nick Gonzales,Pittsburgh Pirates,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Nick Gonzales,Pittsburgh Pirates,Mauricio Llovera,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Nick Gonzales,Pittsburgh Pirates,Taylor Rogers,San Francisco Giants,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+45,Nick Gonzales,Pittsburgh Pirates,Ross Stripling,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+46,Nick Gonzales,Pittsburgh Pirates,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Nick Gonzales,Pittsburgh Pirates,Aaron Civale,Cleveland Guardians,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+48,Nick Gonzales,Pittsburgh Pirates,Michael Kelly,Cleveland Guardians,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+49,Nick Gonzales,Pittsburgh Pirates,Logan Allen,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+50,Nick Gonzales,Pittsburgh Pirates,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Nick Gonzales,Pittsburgh Pirates,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+52,Nick Gonzales,Pittsburgh Pirates,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Nick Gonzales,Pittsburgh Pirates,Colin Rea,Milwaukee Brewers,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+54,Nick Gonzales,Pittsburgh Pirates,Freddy Peralta,Milwaukee Brewers,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+55,Nick Gonzales,Pittsburgh Pirates,Thomas Pannone,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Nick Gonzales,Pittsburgh Pirates,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Nick Gonzales,Pittsburgh Pirates,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

@@ -1,0 +1,188 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Leody Taveras,Texas Rangers,Dylan Lee,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Leody Taveras,Texas Rangers,Spencer Strider,Atlanta Braves,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+2,Leody Taveras,Texas Rangers,Charlie Morton,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+3,Leody Taveras,Texas Rangers,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Leody Taveras,Texas Rangers,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Leody Taveras,Texas Rangers,Jared Shuster,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+6,Leody Taveras,Texas Rangers,Danny Young,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Leody Taveras,Texas Rangers,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Leody Taveras,Texas Rangers,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Leody Taveras,Texas Rangers,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Leody Taveras,Texas Rangers,Aaron Loup,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Leody Taveras,Texas Rangers,Chase Silseth,Los Angeles Angels,2,2,1,0,0,2,0,0,0,1.000,1.000,1.500,2.500
+12,Leody Taveras,Texas Rangers,Jose Suarez,Los Angeles Angels,2,2,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+13,Leody Taveras,Texas Rangers,Tyler Anderson,Los Angeles Angels,4,2,2,0,0,0,2,0,1,.500,.667,1.000,1.667
+14,Leody Taveras,Texas Rangers,Tucker Davidson,Los Angeles Angels,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+15,Leody Taveras,Texas Rangers,Reid Detmers,Los Angeles Angels,4,2,0,0,1,1,0,0,0,.500,.500,1.250,1.750
+16,Leody Taveras,Texas Rangers,Jimmy Herget,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+17,Leody Taveras,Texas Rangers,Jacob Webb,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+18,Leody Taveras,Texas Rangers,Jaime Barria,Los Angeles Angels,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+19,Leody Taveras,Texas Rangers,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Leody Taveras,Texas Rangers,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Leody Taveras,Texas Rangers,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Leody Taveras,Texas Rangers,Shohei Ohtani,Los Angeles Angels,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Leody Taveras,Texas Rangers,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Leody Taveras,Texas Rangers,Ryan Tepera,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Leody Taveras,Texas Rangers,Calvin Faucher,Tampa Bay Rays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+26,Leody Taveras,Texas Rangers,Tyler Glasnow,Tampa Bay Rays,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+27,Leody Taveras,Texas Rangers,Zack Littell,Tampa Bay Rays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+28,Leody Taveras,Texas Rangers,Luis Patino,Tampa Bay Rays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+29,Leody Taveras,Texas Rangers,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Leody Taveras,Texas Rangers,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Leody Taveras,Texas Rangers,Taj Bradley,Tampa Bay Rays,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+32,Leody Taveras,Texas Rangers,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Leody Taveras,Texas Rangers,Javy Guerra,Tampa Bay Rays,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+34,Leody Taveras,Texas Rangers,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Leody Taveras,Texas Rangers,Jose Lopez,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Leody Taveras,Texas Rangers,Shane McClanahan,Tampa Bay Rays,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+37,Leody Taveras,Texas Rangers,Colin Poche,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Leody Taveras,Texas Rangers,Kutter Crawford,Boston Red Sox,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+39,Leody Taveras,Texas Rangers,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Leody Taveras,Texas Rangers,Chris Murphy,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Leody Taveras,Texas Rangers,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Leody Taveras,Texas Rangers,Brandon Walter,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Leody Taveras,Texas Rangers,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Leody Taveras,Texas Rangers,Matthew Liberatore,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+45,Leody Taveras,Texas Rangers,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Leody Taveras,Texas Rangers,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Leody Taveras,Texas Rangers,Steven Matz,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Leody Taveras,Texas Rangers,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Leody Taveras,Texas Rangers,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Leody Taveras,Texas Rangers,Adam Wainwright,St. Louis Cardinals,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+51,Leody Taveras,Texas Rangers,Brandon Pfaadt,Arizona Diamondbacks,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+52,Leody Taveras,Texas Rangers,Jose Ruiz,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+53,Leody Taveras,Texas Rangers,Miguel Castro,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+54,Leody Taveras,Texas Rangers,Graham Ashcraft,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Leody Taveras,Texas Rangers,Nick Lodolo,Cincinnati Reds,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+56,Leody Taveras,Texas Rangers,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Leody Taveras,Texas Rangers,Reiver Sanmartin,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Leody Taveras,Texas Rangers,Lucas Sims,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Leody Taveras,Texas Rangers,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+60,Leody Taveras,Texas Rangers,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Leody Taveras,Texas Rangers,Adam Cimber,Toronto Blue Jays,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+62,Leody Taveras,Texas Rangers,Nate Pearson,Toronto Blue Jays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+63,Leody Taveras,Texas Rangers,Chris Bassitt,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+64,Leody Taveras,Texas Rangers,Kevin Gausman,Toronto Blue Jays,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+65,Leody Taveras,Texas Rangers,Bowden Francis,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Leody Taveras,Texas Rangers,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Leody Taveras,Texas Rangers,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Leody Taveras,Texas Rangers,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Leody Taveras,Texas Rangers,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Leody Taveras,Texas Rangers,Keegan Akin,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+71,Leody Taveras,Texas Rangers,Bryan Baker,Baltimore Orioles,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+72,Leody Taveras,Texas Rangers,Ryan McKenna,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+73,Leody Taveras,Texas Rangers,Grayson Rodriguez,Baltimore Orioles,1,1,0,0,1,2,1,0,0,1.000,1.000,4.000,5.000
+74,Leody Taveras,Texas Rangers,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Leody Taveras,Texas Rangers,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Leody Taveras,Texas Rangers,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Leody Taveras,Texas Rangers,Austin Voth,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Leody Taveras,Texas Rangers,Bryan Abreu,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+79,Leody Taveras,Texas Rangers,Cristian Javier,Houston Astros,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+80,Leody Taveras,Texas Rangers,Shawn Dubin,Houston Astros,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+81,Leody Taveras,Texas Rangers,Luis Garcia,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+82,Leody Taveras,Texas Rangers,Rafael Montero,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+83,Leody Taveras,Texas Rangers,Ronel Blanco,Houston Astros,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+84,Leody Taveras,Texas Rangers,Hector Neris,Houston Astros,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+85,Leody Taveras,Texas Rangers,Hunter Brown,Houston Astros,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+86,Leody Taveras,Texas Rangers,Seth Martinez,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Leody Taveras,Texas Rangers,Phil Maton,Houston Astros,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+88,Leody Taveras,Texas Rangers,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Leody Taveras,Texas Rangers,Framber Valdez,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Leody Taveras,Texas Rangers,Hunter Harvey,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+91,Leody Taveras,Texas Rangers,Jordan Weems,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+92,Leody Taveras,Texas Rangers,Joan Adon,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Leody Taveras,Texas Rangers,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Leody Taveras,Texas Rangers,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Leody Taveras,Texas Rangers,Trevor Williams,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Leody Taveras,Texas Rangers,Amos Willingham,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Leody Taveras,Texas Rangers,Matt Carasiti,Colorado Rockies,1,1,1,0,0,3,0,0,0,1.000,1.000,2.000,3.000
+98,Leody Taveras,Texas Rangers,Fernando Abad,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+99,Leody Taveras,Texas Rangers,Connor Seabold,Colorado Rockies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+100,Leody Taveras,Texas Rangers,Daniel Bard,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+101,Leody Taveras,Texas Rangers,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Leody Taveras,Texas Rangers,Kyle Freeland,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Leody Taveras,Texas Rangers,Karl Kauffmann,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Leody Taveras,Texas Rangers,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Leody Taveras,Texas Rangers,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Leody Taveras,Texas Rangers,Gerrit Cole,New York Yankees,5,2,1,0,0,1,0,0,3,.400,.400,.600,1.000
+107,Leody Taveras,Texas Rangers,Clarke Schmidt,New York Yankees,5,1,0,0,0,0,0,0,3,.200,.200,.200,.400
+108,Leody Taveras,Texas Rangers,Albert Abreu,New York Yankees,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+109,Leody Taveras,Texas Rangers,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+110,Leody Taveras,Texas Rangers,Nestor Cortes,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Leody Taveras,Texas Rangers,Tommy Kahnle,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Leody Taveras,Texas Rangers,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Leody Taveras,Texas Rangers,Ron Marinaccio,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Leody Taveras,Texas Rangers,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Leody Taveras,Texas Rangers,Luis Severino,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Leody Taveras,Texas Rangers,Mike Ford,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+117,Leody Taveras,Texas Rangers,Tayler Saucedo,Seattle Mariners,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+118,Leody Taveras,Texas Rangers,Juan Then,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+119,Leody Taveras,Texas Rangers,Chris Flexen,Seattle Mariners,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+120,Leody Taveras,Texas Rangers,Luis Castillo,Seattle Mariners,5,1,0,0,0,0,0,0,0,.200,.200,.200,.400
+121,Leody Taveras,Texas Rangers,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Leody Taveras,Texas Rangers,Matt Festa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Leody Taveras,Texas Rangers,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+124,Leody Taveras,Texas Rangers,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Leody Taveras,Texas Rangers,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Leody Taveras,Texas Rangers,Bryan Woo,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Leody Taveras,Texas Rangers,Enyel De Los Santos,Cleveland Guardians,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+128,Leody Taveras,Texas Rangers,Aaron Civale,Cleveland Guardians,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+129,Leody Taveras,Texas Rangers,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Leody Taveras,Texas Rangers,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+131,Leody Taveras,Texas Rangers,Cody Morris,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Leody Taveras,Texas Rangers,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Leody Taveras,Texas Rangers,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Leody Taveras,Texas Rangers,Gavin Williams,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+135,Leody Taveras,Texas Rangers,Colin Holderman,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+136,Leody Taveras,Texas Rangers,Duane Underwood Jr.,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+137,Leody Taveras,Texas Rangers,Luis L. Ortiz,Pittsburgh Pirates,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+138,Leody Taveras,Texas Rangers,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Leody Taveras,Texas Rangers,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+140,Leody Taveras,Texas Rangers,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+141,Leody Taveras,Texas Rangers,Joe Kelly,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+142,Leody Taveras,Texas Rangers,Keynan Middleton,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+143,Leody Taveras,Texas Rangers,Gregory Santos,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+144,Leody Taveras,Texas Rangers,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+145,Leody Taveras,Texas Rangers,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+146,Leody Taveras,Texas Rangers,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+147,Leody Taveras,Texas Rangers,Nicholas Padilla,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Leody Taveras,Texas Rangers,Jesse Scholtens,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Leody Taveras,Texas Rangers,Touki Toussaint,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Leody Taveras,Texas Rangers,Garrett Hill,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+151,Leody Taveras,Texas Rangers,Chasen Shreve,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+152,Leody Taveras,Texas Rangers,Matthew Boyd,Detroit Tigers,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+153,Leody Taveras,Texas Rangers,Mason Englert,Detroit Tigers,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+154,Leody Taveras,Texas Rangers,Jason Foley,Detroit Tigers,2,1,0,1,0,0,0,0,0,.500,.500,1.500,2.000
+155,Leody Taveras,Texas Rangers,Joey Wentz,Detroit Tigers,5,1,0,0,0,1,0,0,0,.200,.200,.200,.400
+156,Leody Taveras,Texas Rangers,Tyler Alexander,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+157,Leody Taveras,Texas Rangers,Braden Bristo,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Leody Taveras,Texas Rangers,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Leody Taveras,Texas Rangers,Tyler Holton,Detroit Tigers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+160,Leody Taveras,Texas Rangers,Reese Olson,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Leody Taveras,Texas Rangers,Jonathan Schoop,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Leody Taveras,Texas Rangers,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Leody Taveras,Texas Rangers,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Leody Taveras,Texas Rangers,Scott Barlow,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+165,Leody Taveras,Texas Rangers,Brady Singer,Kansas City Royals,2,2,1,1,0,2,0,0,0,1.000,1.000,2.500,3.500
+166,Leody Taveras,Texas Rangers,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+167,Leody Taveras,Texas Rangers,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Leody Taveras,Texas Rangers,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+169,Leody Taveras,Texas Rangers,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Leody Taveras,Texas Rangers,Brad Keller,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+171,Leody Taveras,Texas Rangers,Jordan Lyles,Kansas City Royals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+172,Leody Taveras,Texas Rangers,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Leody Taveras,Texas Rangers,Zach Neal,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+174,Leody Taveras,Texas Rangers,Kyle Muller,Oakland Athletics,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+175,Leody Taveras,Texas Rangers,Shintaro Fujinami,Oakland Athletics,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+176,Leody Taveras,Texas Rangers,Luis Medina,Oakland Athletics,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+177,Leody Taveras,Texas Rangers,Austin Pruitt,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+178,Leody Taveras,Texas Rangers,Chad Smith,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+179,Leody Taveras,Texas Rangers,James Kaprielian,Oakland Athletics,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+180,Leody Taveras,Texas Rangers,Garrett Acton,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+181,Leody Taveras,Texas Rangers,Zach Jackson,Oakland Athletics,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+182,Leody Taveras,Texas Rangers,Sam Long,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+183,Leody Taveras,Texas Rangers,Adrian Martinez,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Leody Taveras,Texas Rangers,Sam Moll,Oakland Athletics,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+185,Leody Taveras,Texas Rangers,JP Sears,Oakland Athletics,3,0,0,0,0,0,0,0,1,.000,.250,.000,.250
+186,Leody Taveras,Texas Rangers,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000

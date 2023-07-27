@@ -1,0 +1,60 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Eric Hosmer,Chicago Cubs,Brock Burke,Texas Rangers,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+1,Eric Hosmer,Chicago Cubs,Nathan Eovaldi,Texas Rangers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+2,Eric Hosmer,Chicago Cubs,Jon Gray,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Eric Hosmer,Chicago Cubs,Taylor Hearn,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Eric Hosmer,Chicago Cubs,Cole Ragans,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+5,Eric Hosmer,Chicago Cubs,Dustin May,Los Angeles Dodgers,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+6,Eric Hosmer,Chicago Cubs,Noah Syndergaard,Los Angeles Dodgers,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+7,Eric Hosmer,Chicago Cubs,Michael Grove,Los Angeles Dodgers,3,0,0,0,0,0,1,0,0,.000,.250,.000,.250
+8,Eric Hosmer,Chicago Cubs,Andre Jackson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Eric Hosmer,Chicago Cubs,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Eric Hosmer,Chicago Cubs,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Eric Hosmer,Chicago Cubs,Jack Flaherty,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+12,Eric Hosmer,Chicago Cubs,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Eric Hosmer,Chicago Cubs,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Eric Hosmer,Chicago Cubs,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Eric Hosmer,Chicago Cubs,Ian Gibaut,Cincinnati Reds,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+16,Eric Hosmer,Chicago Cubs,Joel Kuhnel,Cincinnati Reds,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+17,Eric Hosmer,Chicago Cubs,Derek Law,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Eric Hosmer,Chicago Cubs,Alex Young,Cincinnati Reds,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+19,Eric Hosmer,Chicago Cubs,Connor Overton,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+20,Eric Hosmer,Chicago Cubs,Luis Cessa,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Eric Hosmer,Chicago Cubs,Reiver Sanmartin,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Eric Hosmer,Chicago Cubs,Nick Martinez,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Eric Hosmer,Chicago Cubs,Seth Lugo,San Diego Padres,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+24,Eric Hosmer,Chicago Cubs,Luis Garcia,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Eric Hosmer,Chicago Cubs,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Eric Hosmer,Chicago Cubs,Blake Snell,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+27,Eric Hosmer,Chicago Cubs,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Eric Hosmer,Chicago Cubs,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Eric Hosmer,Chicago Cubs,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Eric Hosmer,Chicago Cubs,Jovani Moran,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+31,Eric Hosmer,Chicago Cubs,Joe Ryan,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Eric Hosmer,Chicago Cubs,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Eric Hosmer,Chicago Cubs,Huascar Brazoban,Miami Marlins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+34,Eric Hosmer,Chicago Cubs,Bryan Hoeing,Miami Marlins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+35,Eric Hosmer,Chicago Cubs,Andrew Nardi,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+36,Eric Hosmer,Chicago Cubs,Sandy Alcantara,Miami Marlins,4,1,0,0,0,1,0,0,1,.250,.250,.250,.500
+37,Eric Hosmer,Chicago Cubs,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+38,Eric Hosmer,Chicago Cubs,Trevor Williams,Washington Nationals,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+39,Eric Hosmer,Chicago Cubs,Carl Edwards Jr.,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Eric Hosmer,Chicago Cubs,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Eric Hosmer,Chicago Cubs,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Eric Hosmer,Chicago Cubs,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Eric Hosmer,Chicago Cubs,Luis Castillo,Seattle Mariners,2,2,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+44,Eric Hosmer,Chicago Cubs,Chris Flexen,Seattle Mariners,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+45,Eric Hosmer,Chicago Cubs,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+46,Eric Hosmer,Chicago Cubs,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Eric Hosmer,Chicago Cubs,Jose Rodriguez,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+48,Eric Hosmer,Chicago Cubs,Paul Sewald,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Eric Hosmer,Chicago Cubs,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Eric Hosmer,Chicago Cubs,Javy Guerra,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Eric Hosmer,Chicago Cubs,Peter Strzelecki,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Eric Hosmer,Chicago Cubs,Brandon Woodruff,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+53,Eric Hosmer,Chicago Cubs,Adam Oller,Oakland Athletics,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+54,Eric Hosmer,Chicago Cubs,Mason Miller,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+55,Eric Hosmer,Chicago Cubs,Zach Jackson,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Eric Hosmer,Chicago Cubs,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Eric Hosmer,Chicago Cubs,Sam Moll,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Eric Hosmer,Chicago Cubs,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

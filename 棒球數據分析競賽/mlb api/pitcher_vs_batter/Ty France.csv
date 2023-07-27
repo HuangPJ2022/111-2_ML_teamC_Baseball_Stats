@@ -1,0 +1,212 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Ty France,Seattle Mariners,Nick Anderson,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+1,Ty France,Seattle Mariners,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Ty France,Seattle Mariners,Bryce Elder,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Ty France,Seattle Mariners,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Ty France,Seattle Mariners,Lucas Luetge,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Ty France,Seattle Mariners,Jared Shuster,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Ty France,Seattle Mariners,Michael Tonkin,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Ty France,Seattle Mariners,Jonathan Hernandez,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Ty France,Seattle Mariners,Ian Kennedy,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Ty France,Seattle Mariners,John King,Texas Rangers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+10,Ty France,Seattle Mariners,Jose Leclerc,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Ty France,Seattle Mariners,Brock Burke,Texas Rangers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+12,Ty France,Seattle Mariners,Andrew Heaney,Texas Rangers,5,2,1,0,0,2,0,0,3,.400,.400,.600,1.000
+13,Ty France,Seattle Mariners,Dane Dunning,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+14,Ty France,Seattle Mariners,Jon Gray,Texas Rangers,6,1,0,0,1,1,0,0,1,.167,.167,.667,.834
+15,Ty France,Seattle Mariners,Nathan Eovaldi,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+16,Ty France,Seattle Mariners,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Ty France,Seattle Mariners,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Ty France,Seattle Mariners,Jaime Barria,Los Angeles Angels,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+19,Ty France,Seattle Mariners,Griffin Canning,Los Angeles Angels,3,3,1,0,0,0,0,0,0,1.000,1.000,1.333,2.333
+20,Ty France,Seattle Mariners,Jimmy Herget,Los Angeles Angels,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+21,Ty France,Seattle Mariners,Shohei Ohtani,Los Angeles Angels,4,2,0,0,0,1,1,0,0,.500,.667,.500,1.167
+22,Ty France,Seattle Mariners,Reid Detmers,Los Angeles Angels,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+23,Ty France,Seattle Mariners,Patrick Sandoval,Los Angeles Angels,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+24,Ty France,Seattle Mariners,Jose Suarez,Los Angeles Angels,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+25,Ty France,Seattle Mariners,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Ty France,Seattle Mariners,Carlos Estevez,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Ty France,Seattle Mariners,Jose Quijada,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Ty France,Seattle Mariners,Gerardo Reyes,Los Angeles Angels,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+29,Ty France,Seattle Mariners,Jose Soriano,Los Angeles Angels,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+30,Ty France,Seattle Mariners,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Ty France,Seattle Mariners,Jalen Beeks,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+32,Ty France,Seattle Mariners,Taj Bradley,Tampa Bay Rays,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+33,Ty France,Seattle Mariners,Shawn Armstrong,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Ty France,Seattle Mariners,Tyler Glasnow,Tampa Bay Rays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+35,Ty France,Seattle Mariners,Kevin Kelly,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Ty France,Seattle Mariners,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Ty France,Seattle Mariners,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Ty France,Seattle Mariners,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Ty France,Seattle Mariners,Richard Bleier,Boston Red Sox,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+40,Ty France,Seattle Mariners,Joely Rodriguez,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+41,Ty France,Seattle Mariners,Tanner Houck,Boston Red Sox,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+42,Ty France,Seattle Mariners,Nick Pivetta,Boston Red Sox,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+43,Ty France,Seattle Mariners,Brayan Bello,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Ty France,Seattle Mariners,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Ty France,Seattle Mariners,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Ty France,Seattle Mariners,Ryan Sherriff,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Ty France,Seattle Mariners,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Ty France,Seattle Mariners,Jack Flaherty,St. Louis Cardinals,2,1,0,0,0,2,0,0,0,.500,.667,.500,1.167
+49,Ty France,Seattle Mariners,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Ty France,Seattle Mariners,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Ty France,Seattle Mariners,Steven Matz,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Ty France,Seattle Mariners,Miles Mikolas,St. Louis Cardinals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+53,Ty France,Seattle Mariners,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Ty France,Seattle Mariners,Yusei Kikuchi,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+55,Ty France,Seattle Mariners,Yimi Garcia,Toronto Blue Jays,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+56,Ty France,Seattle Mariners,Alek Manoah,Toronto Blue Jays,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+57,Ty France,Seattle Mariners,Kevin Gausman,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Ty France,Seattle Mariners,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Ty France,Seattle Mariners,Nate Pearson,Toronto Blue Jays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+60,Ty France,Seattle Mariners,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+61,Ty France,Seattle Mariners,Erik Swanson,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+62,Ty France,Seattle Mariners,Keegan Akin,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+63,Ty France,Seattle Mariners,Felix Bautista,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+64,Ty France,Seattle Mariners,Kyle Gibson,Baltimore Orioles,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+65,Ty France,Seattle Mariners,Cionel Perez,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+66,Ty France,Seattle Mariners,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Ty France,Seattle Mariners,Kyle Bradish,Baltimore Orioles,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+68,Ty France,Seattle Mariners,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Ty France,Seattle Mariners,Logan Gillaspie,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Ty France,Seattle Mariners,Dean Kremer,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Ty France,Seattle Mariners,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Ty France,Seattle Mariners,Seranthony Dominguez,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Ty France,Seattle Mariners,Bailey Falter,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Ty France,Seattle Mariners,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Ty France,Seattle Mariners,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Ty France,Seattle Mariners,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+77,Ty France,Seattle Mariners,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Ty France,Seattle Mariners,Julian Merryweather,Chicago Cubs,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+79,Ty France,Seattle Mariners,Michael Rucker,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+80,Ty France,Seattle Mariners,Hayden Wesneski,Chicago Cubs,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+81,Ty France,Seattle Mariners,Brad Boxberger,Chicago Cubs,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+82,Ty France,Seattle Mariners,Drew Smyly,Chicago Cubs,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+83,Ty France,Seattle Mariners,Marcus Stroman,Chicago Cubs,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+84,Ty France,Seattle Mariners,Adbert Alzolay,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Ty France,Seattle Mariners,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Ty France,Seattle Mariners,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Ty France,Seattle Mariners,Steven Wilson,San Diego Padres,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+88,Ty France,Seattle Mariners,Joe Musgrove,San Diego Padres,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+89,Ty France,Seattle Mariners,Michael Wacha,San Diego Padres,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+90,Ty France,Seattle Mariners,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Ty France,Seattle Mariners,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Ty France,Seattle Mariners,Hunter Brown,Houston Astros,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+93,Ty France,Seattle Mariners,J.P. France,Houston Astros,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+94,Ty France,Seattle Mariners,Bryan Abreu,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+95,Ty France,Seattle Mariners,Ryne Stanek,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+96,Ty France,Seattle Mariners,Brandon Bielak,Houston Astros,5,2,1,0,0,0,0,0,1,.400,.500,.600,1.100
+97,Ty France,Seattle Mariners,Ronel Blanco,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+98,Ty France,Seattle Mariners,Cristian Javier,Houston Astros,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+99,Ty France,Seattle Mariners,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+100,Ty France,Seattle Mariners,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Ty France,Seattle Mariners,Rafael Montero,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Ty France,Seattle Mariners,Hector Neris,Houston Astros,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+103,Ty France,Seattle Mariners,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Ty France,Seattle Mariners,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Ty France,Seattle Mariners,Bailey Ober,Minnesota Twins,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+106,Ty France,Seattle Mariners,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+107,Ty France,Seattle Mariners,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+108,Ty France,Seattle Mariners,Pablo Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Ty France,Seattle Mariners,Kenta Maeda,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Ty France,Seattle Mariners,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Ty France,Seattle Mariners,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Ty France,Seattle Mariners,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Ty France,Seattle Mariners,Thaddeus Ward,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+114,Ty France,Seattle Mariners,Jake Irvin,Washington Nationals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+115,Ty France,Seattle Mariners,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Ty France,Seattle Mariners,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+117,Ty France,Seattle Mariners,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Ty France,Seattle Mariners,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Ty France,Seattle Mariners,Trevor Williams,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Ty France,Seattle Mariners,Amos Willingham,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Ty France,Seattle Mariners,A.J. Puk,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+122,Ty France,Seattle Mariners,Jesus Luzardo,Miami Marlins,3,1,0,0,1,3,0,0,1,.333,.333,1.333,1.666
+123,Ty France,Seattle Mariners,Archie Bradley,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+124,Ty France,Seattle Mariners,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Ty France,Seattle Mariners,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Ty France,Seattle Mariners,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Ty France,Seattle Mariners,Eury Perez,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Ty France,Seattle Mariners,Camilo Doval,San Francisco Giants,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+129,Ty France,Seattle Mariners,Austin Gomber,Colorado Rockies,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+130,Ty France,Seattle Mariners,Jake Bird,Colorado Rockies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+131,Ty France,Seattle Mariners,Noah Davis,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+132,Ty France,Seattle Mariners,Ryan Feltner,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Ty France,Seattle Mariners,Pierce Johnson,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+134,Ty France,Seattle Mariners,Dinelson Lamet,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+135,Ty France,Seattle Mariners,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Ty France,Seattle Mariners,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+137,Ty France,Seattle Mariners,Ryan Weber,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+138,Ty France,Seattle Mariners,Nestor Cortes,New York Yankees,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+139,Ty France,Seattle Mariners,Michael King,New York Yankees,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+140,Ty France,Seattle Mariners,Domingo German,New York Yankees,6,2,0,0,1,1,0,0,1,.333,.429,.833,1.262
+141,Ty France,Seattle Mariners,Albert Abreu,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Ty France,Seattle Mariners,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Ty France,Seattle Mariners,Gerrit Cole,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+144,Ty France,Seattle Mariners,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Ty France,Seattle Mariners,Clay Holmes,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+146,Ty France,Seattle Mariners,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Ty France,Seattle Mariners,Clarke Schmidt,New York Yankees,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+148,Ty France,Seattle Mariners,Shane Bieber,Cleveland Guardians,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+149,Ty France,Seattle Mariners,Cal Quantrill,Cleveland Guardians,6,4,1,0,0,0,0,0,0,.667,.667,.833,1.500
+150,Ty France,Seattle Mariners,Hunter Gaddis,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+151,Ty France,Seattle Mariners,James Karinchak,Cleveland Guardians,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+152,Ty France,Seattle Mariners,Zach Plesac,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+153,Ty France,Seattle Mariners,Aaron Civale,Cleveland Guardians,6,1,0,0,0,1,0,0,0,.167,.167,.167,.334
+154,Ty France,Seattle Mariners,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Ty France,Seattle Mariners,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Ty France,Seattle Mariners,Enyel De Los Santos,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+157,Ty France,Seattle Mariners,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+158,Ty France,Seattle Mariners,Nick Sandlin,Cleveland Guardians,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+159,Ty France,Seattle Mariners,Trevor Stephan,Cleveland Guardians,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+160,Ty France,Seattle Mariners,Jose Hernandez,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+161,Ty France,Seattle Mariners,Vince Velasquez,Pittsburgh Pirates,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+162,Ty France,Seattle Mariners,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Ty France,Seattle Mariners,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+164,Ty France,Seattle Mariners,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+165,Ty France,Seattle Mariners,Luis L. Ortiz,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+166,Ty France,Seattle Mariners,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Ty France,Seattle Mariners,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Ty France,Seattle Mariners,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+169,Ty France,Seattle Mariners,Tanner Banks,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+170,Ty France,Seattle Mariners,Lucas Giolito,Chicago White Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+171,Ty France,Seattle Mariners,Michael Kopech,Chicago White Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+172,Ty France,Seattle Mariners,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,Ty France,Seattle Mariners,Reynaldo Lopez,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+174,Ty France,Seattle Mariners,Lance Lynn,Chicago White Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+175,Ty France,Seattle Mariners,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Ty France,Seattle Mariners,Peter Strzelecki,Milwaukee Brewers,2,2,2,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+177,Ty France,Seattle Mariners,Colin Rea,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+178,Ty France,Seattle Mariners,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+179,Ty France,Seattle Mariners,Matt Bush,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Ty France,Seattle Mariners,Eric Lauer,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+181,Ty France,Seattle Mariners,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+182,Ty France,Seattle Mariners,Bryse Wilson,Milwaukee Brewers,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+183,Ty France,Seattle Mariners,Tyler Alexander,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+184,Ty France,Seattle Mariners,Matthew Boyd,Detroit Tigers,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+185,Ty France,Seattle Mariners,Will Vest,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+186,Ty France,Seattle Mariners,Joey Wentz,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+187,Ty France,Seattle Mariners,Beau Brieske,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+188,Ty France,Seattle Mariners,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+189,Ty France,Seattle Mariners,Mason Englert,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+190,Ty France,Seattle Mariners,Alex Faedo,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+191,Ty France,Seattle Mariners,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+192,Ty France,Seattle Mariners,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+193,Ty France,Seattle Mariners,Michael Lorenzen,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+194,Ty France,Seattle Mariners,Reese Olson,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+195,Ty France,Seattle Mariners,Eduardo Rodriguez,Detroit Tigers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+196,Ty France,Seattle Mariners,Sam Long,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+197,Ty France,Seattle Mariners,Adrian Martinez,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+198,Ty France,Seattle Mariners,Trevor May,Oakland Athletics,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+199,Ty France,Seattle Mariners,Sam Moll,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+200,Ty France,Seattle Mariners,Kyle Muller,Oakland Athletics,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+201,Ty France,Seattle Mariners,Luis Medina,Oakland Athletics,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+202,Ty France,Seattle Mariners,JP Sears,Oakland Athletics,5,1,0,0,1,1,0,0,1,.200,.200,.800,1.000
+203,Ty France,Seattle Mariners,Jeurys Familia,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+204,Ty France,Seattle Mariners,Shintaro Fujinami,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+205,Ty France,Seattle Mariners,Rico Garcia,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+206,Ty France,Seattle Mariners,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+207,Ty France,Seattle Mariners,Mason Miller,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+208,Ty France,Seattle Mariners,Adam Oller,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+209,Ty France,Seattle Mariners,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+210,Ty France,Seattle Mariners,Drew Rucinski,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

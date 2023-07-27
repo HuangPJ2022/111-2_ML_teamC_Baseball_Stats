@@ -1,0 +1,48 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Yu Chang,Boston Red Sox,Ryan Tepera,Los Angeles Angels,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+1,Yu Chang,Boston Red Sox,Tyler Anderson,Los Angeles Angels,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+2,Yu Chang,Boston Red Sox,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Yu Chang,Boston Red Sox,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Yu Chang,Boston Red Sox,Aaron Loup,Los Angeles Angels,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+5,Yu Chang,Boston Red Sox,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Yu Chang,Boston Red Sox,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Yu Chang,Boston Red Sox,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Yu Chang,Boston Red Sox,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Yu Chang,Boston Red Sox,Braden Bristo,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+10,Yu Chang,Boston Red Sox,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Yu Chang,Boston Red Sox,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Yu Chang,Boston Red Sox,Jeffrey Springs,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Yu Chang,Boston Red Sox,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Yu Chang,Boston Red Sox,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Yu Chang,Boston Red Sox,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Yu Chang,Boston Red Sox,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Yu Chang,Boston Red Sox,Javier Assad,Chicago Cubs,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+18,Yu Chang,Boston Red Sox,Justin Steele,Chicago Cubs,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+19,Yu Chang,Boston Red Sox,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Yu Chang,Boston Red Sox,Kyle Hendricks,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+21,Yu Chang,Boston Red Sox,Anthony Kay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Yu Chang,Boston Red Sox,Jorge Alcala,Minnesota Twins,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+23,Yu Chang,Boston Red Sox,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Yu Chang,Boston Red Sox,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Yu Chang,Boston Red Sox,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Yu Chang,Boston Red Sox,Emilio Pagan,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Yu Chang,Boston Red Sox,Kodai Senga,New York Mets,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+28,Yu Chang,Boston Red Sox,Max Scherzer,New York Mets,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+29,Yu Chang,Boston Red Sox,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Yu Chang,Boston Red Sox,Roansy Contreras,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Yu Chang,Boston Red Sox,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+32,Yu Chang,Boston Red Sox,Elvis Peguero,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Yu Chang,Boston Red Sox,Javy Guerra,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+34,Yu Chang,Boston Red Sox,Wade Miley,Milwaukee Brewers,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+35,Yu Chang,Boston Red Sox,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Yu Chang,Boston Red Sox,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Yu Chang,Boston Red Sox,Freddy Peralta,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Yu Chang,Boston Red Sox,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Yu Chang,Boston Red Sox,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Yu Chang,Boston Red Sox,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Yu Chang,Boston Red Sox,Luis Medina,Oakland Athletics,5,1,0,0,0,2,0,0,3,.200,.200,.200,.400
+42,Yu Chang,Boston Red Sox,Paul Blackburn,Oakland Athletics,3,0,0,0,0,1,1,0,1,.000,.250,.000,.250
+43,Yu Chang,Boston Red Sox,Angel Felipe,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Yu Chang,Boston Red Sox,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Yu Chang,Boston Red Sox,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Yu Chang,Boston Red Sox,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

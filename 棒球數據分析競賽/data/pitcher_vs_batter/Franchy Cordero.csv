@@ -1,0 +1,41 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Franchy Cordero,New York Yankees,Dane Dunning,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+1,Franchy Cordero,New York Yankees,Jacob deGrom,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Franchy Cordero,New York Yankees,Matt Moore,Los Angeles Angels,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+3,Franchy Cordero,New York Yankees,Jose Soriano,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+4,Franchy Cordero,New York Yankees,Chase Silseth,Los Angeles Angels,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+5,Franchy Cordero,New York Yankees,Jaime Barria,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Franchy Cordero,New York Yankees,Griffin Canning,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Franchy Cordero,New York Yankees,Alek Manoah,Toronto Blue Jays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Franchy Cordero,New York Yankees,Danny Coulombe,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Franchy Cordero,New York Yankees,Dean Kremer,Baltimore Orioles,1,1,0,0,1,3,1,0,0,1.000,1.000,4.000,5.000
+10,Franchy Cordero,New York Yankees,Tyler Wells,Baltimore Orioles,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+11,Franchy Cordero,New York Yankees,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Franchy Cordero,New York Yankees,Yunior Marte,Philadelphia Phillies,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+13,Franchy Cordero,New York Yankees,Aaron Nola,Philadelphia Phillies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+14,Franchy Cordero,New York Yankees,Seranthony Dominguez,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Franchy Cordero,New York Yankees,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Franchy Cordero,New York Yankees,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Franchy Cordero,New York Yankees,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Franchy Cordero,New York Yankees,Adbert Alzolay,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+19,Franchy Cordero,New York Yankees,Jameson Taillon,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Franchy Cordero,New York Yankees,Jhoan Duran,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+21,Franchy Cordero,New York Yankees,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Franchy Cordero,New York Yankees,Sonny Gray,Minnesota Twins,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+23,Franchy Cordero,New York Yankees,Tyler Mahle,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Franchy Cordero,New York Yankees,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Franchy Cordero,New York Yankees,Joe Ryan,Minnesota Twins,5,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+26,Franchy Cordero,New York Yankees,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Franchy Cordero,New York Yankees,Louie Varland,Minnesota Twins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+28,Franchy Cordero,New York Yankees,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Franchy Cordero,New York Yankees,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Franchy Cordero,New York Yankees,Trevor Stephan,Cleveland Guardians,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+31,Franchy Cordero,New York Yankees,Hunter Gaddis,Cleveland Guardians,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+32,Franchy Cordero,New York Yankees,Peyton Battenfield,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Franchy Cordero,New York Yankees,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+34,Franchy Cordero,New York Yankees,Emmanuel Clase,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+35,Franchy Cordero,New York Yankees,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Franchy Cordero,New York Yankees,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Franchy Cordero,New York Yankees,Alec Marsh,Kansas City Royals,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+38,Franchy Cordero,New York Yankees,Jonathan Heasley,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Franchy Cordero,New York Yankees,Brady Singer,Kansas City Royals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000

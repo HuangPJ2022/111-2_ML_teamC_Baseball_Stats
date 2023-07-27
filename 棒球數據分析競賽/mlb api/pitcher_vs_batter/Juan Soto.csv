@@ -1,0 +1,213 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Juan Soto,San Diego Padres,Dylan Dodd,Atlanta Braves,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+1,Juan Soto,San Diego Padres,Charlie Morton,Atlanta Braves,6,3,0,0,2,2,0,0,2,.500,.500,1.500,2.000
+2,Juan Soto,San Diego Padres,Dylan Lee,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+3,Juan Soto,San Diego Padres,Spencer Strider,Atlanta Braves,3,1,0,0,0,0,3,0,0,.333,.667,.333,1.000
+4,Juan Soto,San Diego Padres,Nick Anderson,Atlanta Braves,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+5,Juan Soto,San Diego Padres,Jesse Chavez,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,Juan Soto,San Diego Padres,Max Fried,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Juan Soto,San Diego Padres,Lucas Luetge,Atlanta Braves,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+8,Juan Soto,San Diego Padres,A.J. Minter,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+9,Juan Soto,San Diego Padres,Jared Shuster,Atlanta Braves,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+10,Juan Soto,San Diego Padres,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Juan Soto,San Diego Padres,Kirby Yates,Atlanta Braves,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+12,Juan Soto,San Diego Padres,Victor Gonzalez,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Juan Soto,San Diego Padres,Clayton Kershaw,Los Angeles Dodgers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+14,Juan Soto,San Diego Padres,Julio Urias,Los Angeles Dodgers,6,2,0,0,1,1,0,0,0,.333,.333,.833,1.166
+15,Juan Soto,San Diego Padres,Dustin May,Los Angeles Dodgers,6,1,1,0,0,0,0,0,1,.167,.167,.333,.500
+16,Juan Soto,San Diego Padres,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Juan Soto,San Diego Padres,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Juan Soto,San Diego Padres,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Juan Soto,San Diego Padres,Brusdar Graterol,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Juan Soto,San Diego Padres,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Juan Soto,San Diego Padres,Evan Phillips,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Juan Soto,San Diego Padres,Wander Suero,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+23,Juan Soto,San Diego Padres,Sam Bachman,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+24,Juan Soto,San Diego Padres,Jaime Barria,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Juan Soto,San Diego Padres,Tucker Davidson,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+26,Juan Soto,San Diego Padres,Chris Devenski,Los Angeles Angels,1,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+27,Juan Soto,San Diego Padres,Victor Mederos,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+28,Juan Soto,San Diego Padres,Shohei Ohtani,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+29,Juan Soto,San Diego Padres,Gerardo Reyes,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+30,Juan Soto,San Diego Padres,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+31,Juan Soto,San Diego Padres,Jacob Webb,Los Angeles Angels,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+32,Juan Soto,San Diego Padres,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+33,Juan Soto,San Diego Padres,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,1,0,0,2,.000,.000,.000,.000
+34,Juan Soto,San Diego Padres,Zack Littell,Tampa Bay Rays,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+35,Juan Soto,San Diego Padres,Shane McClanahan,Tampa Bay Rays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Juan Soto,San Diego Padres,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Juan Soto,San Diego Padres,Corey Kluber,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+38,Juan Soto,San Diego Padres,Chris Sale,Boston Red Sox,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+39,Juan Soto,San Diego Padres,Kenley Jansen,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+40,Juan Soto,San Diego Padres,James Paxton,Boston Red Sox,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+41,Juan Soto,San Diego Padres,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Juan Soto,San Diego Padres,Joely Rodriguez,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Juan Soto,San Diego Padres,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Juan Soto,San Diego Padres,Drey Jameson,Arizona Diamondbacks,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+45,Juan Soto,San Diego Padres,Scott McGough,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+46,Juan Soto,San Diego Padres,Merrill Kelly,Arizona Diamondbacks,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+47,Juan Soto,San Diego Padres,Ryne Nelson,Arizona Diamondbacks,4,1,0,0,1,2,2,0,1,.250,.500,1.000,1.500
+48,Juan Soto,San Diego Padres,Zac Gallen,Arizona Diamondbacks,6,1,1,0,0,0,0,0,2,.167,.167,.333,.500
+49,Juan Soto,San Diego Padres,Kevin Ginkel,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Juan Soto,San Diego Padres,Anthony Misiewicz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Juan Soto,San Diego Padres,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Juan Soto,San Diego Padres,Peter Solomon,Arizona Diamondbacks,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+53,Juan Soto,San Diego Padres,Cole Sulser,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+54,Juan Soto,San Diego Padres,Buck Farmer,Cincinnati Reds,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+55,Juan Soto,San Diego Padres,Andrew Abbott,Cincinnati Reds,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+56,Juan Soto,San Diego Padres,Luke Weaver,Cincinnati Reds,3,2,1,0,0,2,0,0,0,.667,.667,1.000,1.667
+57,Juan Soto,San Diego Padres,Graham Ashcraft,Cincinnati Reds,6,3,2,0,0,1,0,0,1,.500,.500,.833,1.333
+58,Juan Soto,San Diego Padres,Casey Legumina,Cincinnati Reds,2,1,1,0,0,3,0,0,1,.500,.500,1.000,1.500
+59,Juan Soto,San Diego Padres,Lucas Sims,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+60,Juan Soto,San Diego Padres,Ian Gibaut,Cincinnati Reds,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+61,Juan Soto,San Diego Padres,Luis Cessa,Cincinnati Reds,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+62,Juan Soto,San Diego Padres,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Juan Soto,San Diego Padres,Alec Mills,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Juan Soto,San Diego Padres,Eduardo Salazar,Cincinnati Reds,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+65,Juan Soto,San Diego Padres,Reiver Sanmartin,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+66,Juan Soto,San Diego Padres,Brandon Williamson,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Juan Soto,San Diego Padres,Alex Young,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+68,Juan Soto,San Diego Padres,Alek Manoah,Toronto Blue Jays,2,2,1,0,1,3,0,0,0,1.000,1.000,3.000,4.000
+69,Juan Soto,San Diego Padres,Chris Bassitt,Toronto Blue Jays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+70,Juan Soto,San Diego Padres,Jose Berrios,Toronto Blue Jays,0,0,0,0,0,0,3,1,0,.000,1.000,.000,1.000
+71,Juan Soto,San Diego Padres,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Juan Soto,San Diego Padres,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Juan Soto,San Diego Padres,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Juan Soto,San Diego Padres,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Juan Soto,San Diego Padres,Erik Swanson,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+76,Juan Soto,San Diego Padres,Mitch White,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+77,Juan Soto,San Diego Padres,Dylan Covey,Philadelphia Phillies,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+78,Juan Soto,San Diego Padres,Luis F. Ortiz,Philadelphia Phillies,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+79,Juan Soto,San Diego Padres,Taijuan Walker,Philadelphia Phillies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+80,Juan Soto,San Diego Padres,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Juan Soto,San Diego Padres,Craig Kimbrel,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+82,Juan Soto,San Diego Padres,Cristopher Sanchez,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+83,Juan Soto,San Diego Padres,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Juan Soto,San Diego Padres,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+85,Juan Soto,San Diego Padres,Ranger Suarez,Philadelphia Phillies,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+86,Juan Soto,San Diego Padres,Andrew Vasquez,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+87,Juan Soto,San Diego Padres,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Juan Soto,San Diego Padres,Keegan Thompson,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+89,Juan Soto,San Diego Padres,Drew Smyly,Chicago Cubs,5,1,1,0,0,0,1,0,2,.200,.333,.400,.733
+90,Juan Soto,San Diego Padres,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Juan Soto,San Diego Padres,Jeremiah Estrada,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Juan Soto,San Diego Padres,Michael Fulmer,Chicago Cubs,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+93,Juan Soto,San Diego Padres,Kyle Hendricks,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Juan Soto,San Diego Padres,Brandon Hughes,Chicago Cubs,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+95,Juan Soto,San Diego Padres,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Juan Soto,San Diego Padres,Julian Merryweather,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Juan Soto,San Diego Padres,Justin Steele,Chicago Cubs,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+98,Juan Soto,San Diego Padres,Marcus Stroman,Chicago Cubs,2,0,0,0,0,1,1,0,1,.000,.333,.000,.333
+99,Juan Soto,San Diego Padres,Jameson Taillon,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Juan Soto,San Diego Padres,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Juan Soto,San Diego Padres,Jorge Alcala,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+102,Juan Soto,San Diego Padres,Emilio Pagan,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+103,Juan Soto,San Diego Padres,Louie Varland,Minnesota Twins,2,2,1,0,0,0,1,0,0,1.000,1.000,1.500,2.500
+104,Juan Soto,San Diego Padres,Bailey Ober,Minnesota Twins,3,2,2,0,0,1,0,0,1,.667,.667,1.333,2.000
+105,Juan Soto,San Diego Padres,Pablo Lopez,Minnesota Twins,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+106,Juan Soto,San Diego Padres,Griffin Jax,Minnesota Twins,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+107,Juan Soto,San Diego Padres,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Juan Soto,San Diego Padres,Brock Stewart,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+109,Juan Soto,San Diego Padres,Tanner Scott,Miami Marlins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+110,Juan Soto,San Diego Padres,Sandy Alcantara,Miami Marlins,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+111,Juan Soto,San Diego Padres,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Juan Soto,San Diego Padres,Dylan Floro,Miami Marlins,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+113,Juan Soto,San Diego Padres,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Juan Soto,San Diego Padres,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Juan Soto,San Diego Padres,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.333,.000,.333
+116,Juan Soto,San Diego Padres,Paolo Espino,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+117,Juan Soto,San Diego Padres,Josiah Gray,Washington Nationals,1,1,0,0,0,0,2,0,0,1.000,1.000,1.000,2.000
+118,Juan Soto,San Diego Padres,Chad Kuhl,Washington Nationals,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+119,Juan Soto,San Diego Padres,Erasmo Ramirez,Washington Nationals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+120,Juan Soto,San Diego Padres,Thaddeus Ward,Washington Nationals,1,1,0,0,1,2,1,0,0,1.000,1.000,4.000,5.000
+121,Juan Soto,San Diego Padres,Hunter Harvey,Washington Nationals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+122,Juan Soto,San Diego Padres,MacKenzie Gore,Washington Nationals,6,2,0,0,0,0,0,0,4,.333,.333,.333,.666
+123,Juan Soto,San Diego Padres,Patrick Corbin,Washington Nationals,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+124,Juan Soto,San Diego Padres,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Juan Soto,San Diego Padres,Jake Irvin,Washington Nationals,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+126,Juan Soto,San Diego Padres,Andres Machado,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+127,Juan Soto,San Diego Padres,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Juan Soto,San Diego Padres,Trevor Williams,Washington Nationals,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+129,Juan Soto,San Diego Padres,Alex Wood,San Francisco Giants,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+130,Juan Soto,San Diego Padres,Alex Cobb,San Francisco Giants,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+131,Juan Soto,San Diego Padres,Jakob Junis,San Francisco Giants,3,2,0,0,1,1,0,0,1,.667,.667,1.667,2.334
+132,Juan Soto,San Diego Padres,Tyler Rogers,San Francisco Giants,3,2,0,0,0,0,1,0,1,.667,.750,.667,1.417
+133,Juan Soto,San Diego Padres,Anthony DeSclafani,San Francisco Giants,2,1,1,0,0,1,1,0,1,.500,.667,1.000,1.667
+134,Juan Soto,San Diego Padres,Taylor Rogers,San Francisco Giants,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+135,Juan Soto,San Diego Padres,Ryan Walker,San Francisco Giants,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+136,Juan Soto,San Diego Padres,Keaton Winn,San Francisco Giants,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+137,Juan Soto,San Diego Padres,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Juan Soto,San Diego Padres,John Brebbia,San Francisco Giants,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+139,Juan Soto,San Diego Padres,Camilo Doval,San Francisco Giants,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+140,Juan Soto,San Diego Padres,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Juan Soto,San Diego Padres,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+142,Juan Soto,San Diego Padres,Brooks Raley,New York Mets,3,2,2,0,0,0,0,0,0,.667,.667,1.333,2.000
+143,Juan Soto,San Diego Padres,Tylor Megill,New York Mets,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+144,Juan Soto,San Diego Padres,John Curtiss,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+145,Juan Soto,San Diego Padres,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Juan Soto,San Diego Padres,T.J. McFarland,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+147,Juan Soto,San Diego Padres,David Peterson,New York Mets,5,0,0,0,0,0,1,0,3,.000,.167,.000,.167
+148,Juan Soto,San Diego Padres,David Robertson,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Juan Soto,San Diego Padres,Max Scherzer,New York Mets,4,0,0,0,0,0,1,0,1,.000,.200,.000,.200
+150,Juan Soto,San Diego Padres,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Juan Soto,San Diego Padres,Justin Verlander,New York Mets,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+152,Juan Soto,San Diego Padres,Austin Gomber,Colorado Rockies,6,2,0,0,0,0,0,0,1,.333,.333,.333,.666
+153,Juan Soto,San Diego Padres,Dinelson Lamet,Colorado Rockies,4,1,0,0,0,3,0,0,0,.250,.200,.250,.450
+154,Juan Soto,San Diego Padres,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Juan Soto,San Diego Padres,Ty Blach,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Juan Soto,San Diego Padres,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Juan Soto,San Diego Padres,Kyle Freeland,Colorado Rockies,5,0,0,0,0,0,1,0,1,.000,.167,.000,.167
+158,Juan Soto,San Diego Padres,Brad Hand,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Juan Soto,San Diego Padres,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+160,Juan Soto,San Diego Padres,Justin Lawrence,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Juan Soto,San Diego Padres,German Marquez,Colorado Rockies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+162,Juan Soto,San Diego Padres,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Juan Soto,San Diego Padres,Jose Urena,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+164,Juan Soto,San Diego Padres,Ryan Weber,New York Yankees,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+165,Juan Soto,San Diego Padres,Randy Vasquez,New York Yankees,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+166,Juan Soto,San Diego Padres,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Juan Soto,San Diego Padres,Michael King,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+168,Juan Soto,San Diego Padres,Luis Severino,New York Yankees,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+169,Juan Soto,San Diego Padres,Chris Flexen,Seattle Mariners,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+170,Juan Soto,San Diego Padres,George Kirby,Seattle Mariners,3,3,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+171,Juan Soto,San Diego Padres,Tayler Saucedo,Seattle Mariners,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+172,Juan Soto,San Diego Padres,Paul Sewald,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+173,Juan Soto,San Diego Padres,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Juan Soto,San Diego Padres,Sam Hentges,Cleveland Guardians,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+175,Juan Soto,San Diego Padres,Tanner Bibee,Cleveland Guardians,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+176,Juan Soto,San Diego Padres,Cody Morris,Cleveland Guardians,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+177,Juan Soto,San Diego Padres,Logan Allen,Cleveland Guardians,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+178,Juan Soto,San Diego Padres,Aaron Civale,Cleveland Guardians,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+179,Juan Soto,San Diego Padres,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Juan Soto,San Diego Padres,Nick Sandlin,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+181,Juan Soto,San Diego Padres,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+182,Juan Soto,San Diego Padres,Luis L. Ortiz,Pittsburgh Pirates,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+183,Juan Soto,San Diego Padres,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+184,Juan Soto,San Diego Padres,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+185,Juan Soto,San Diego Padres,Yerry De Los Santos,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+186,Juan Soto,San Diego Padres,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+187,Juan Soto,San Diego Padres,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+188,Juan Soto,San Diego Padres,Dauri Moreta,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+189,Juan Soto,San Diego Padres,Javy Guerra,Milwaukee Brewers,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+190,Juan Soto,San Diego Padres,Eric Lauer,Milwaukee Brewers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+191,Juan Soto,San Diego Padres,Wade Miley,Milwaukee Brewers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+192,Juan Soto,San Diego Padres,Hoby Milner,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+193,Juan Soto,San Diego Padres,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+194,Juan Soto,San Diego Padres,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+195,Juan Soto,San Diego Padres,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+196,Juan Soto,San Diego Padres,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+197,Juan Soto,San Diego Padres,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+198,Juan Soto,San Diego Padres,Reese Olson,Detroit Tigers,2,2,0,0,2,3,1,0,0,1.000,1.000,4.000,5.000
+199,Juan Soto,San Diego Padres,Mason Englert,Detroit Tigers,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+200,Juan Soto,San Diego Padres,Brendan White,Detroit Tigers,2,1,0,0,0,2,0,0,1,.500,.500,.500,1.000
+201,Juan Soto,San Diego Padres,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+202,Juan Soto,San Diego Padres,Matt Manning,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+203,Juan Soto,San Diego Padres,Brady Singer,Kansas City Royals,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+204,Juan Soto,San Diego Padres,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+205,Juan Soto,San Diego Padres,Max Castillo,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+206,Juan Soto,San Diego Padres,Aroldis Chapman,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+207,Juan Soto,San Diego Padres,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+208,Juan Soto,San Diego Padres,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+209,Juan Soto,San Diego Padres,Brad Keller,Kansas City Royals,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+210,Juan Soto,San Diego Padres,Mike Mayers,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+211,Juan Soto,San Diego Padres,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

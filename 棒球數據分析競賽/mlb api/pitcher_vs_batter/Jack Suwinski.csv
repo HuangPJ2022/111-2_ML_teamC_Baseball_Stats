@@ -1,0 +1,173 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jack Suwinski,Pittsburgh Pirates,Dane Dunning,Texas Rangers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+1,Jack Suwinski,Pittsburgh Pirates,Nathan Eovaldi,Texas Rangers,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+2,Jack Suwinski,Pittsburgh Pirates,Martin Perez,Texas Rangers,3,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+3,Jack Suwinski,Pittsburgh Pirates,Josh Sborz,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+4,Jack Suwinski,Pittsburgh Pirates,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Jack Suwinski,Pittsburgh Pirates,Emmet Sheehan,Los Angeles Dodgers,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+6,Jack Suwinski,Pittsburgh Pirates,Yency Almonte,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+7,Jack Suwinski,Pittsburgh Pirates,Victor Gonzalez,Los Angeles Dodgers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+8,Jack Suwinski,Pittsburgh Pirates,Bobby Miller,Los Angeles Dodgers,2,1,0,0,1,3,1,0,0,.500,.667,2.000,2.667
+9,Jack Suwinski,Pittsburgh Pirates,Gavin Stone,Los Angeles Dodgers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+10,Jack Suwinski,Pittsburgh Pirates,Noah Syndergaard,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+11,Jack Suwinski,Pittsburgh Pirates,Julio Urias,Los Angeles Dodgers,5,2,1,0,0,1,0,0,3,.400,.400,.600,1.000
+12,Jack Suwinski,Pittsburgh Pirates,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Jack Suwinski,Pittsburgh Pirates,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+14,Jack Suwinski,Pittsburgh Pirates,Tony Gonsolin,Los Angeles Dodgers,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+15,Jack Suwinski,Pittsburgh Pirates,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Jack Suwinski,Pittsburgh Pirates,Michael Grove,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+17,Jack Suwinski,Pittsburgh Pirates,Daniel Hudson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Jack Suwinski,Pittsburgh Pirates,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Jack Suwinski,Pittsburgh Pirates,Evan Phillips,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+20,Jack Suwinski,Pittsburgh Pirates,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Jack Suwinski,Pittsburgh Pirates,Shohei Ohtani,Los Angeles Angels,3,1,0,0,1,2,0,0,2,.333,.333,1.333,1.666
+22,Jack Suwinski,Pittsburgh Pirates,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Jack Suwinski,Pittsburgh Pirates,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Jack Suwinski,Pittsburgh Pirates,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Jack Suwinski,Pittsburgh Pirates,Jason Adam,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+26,Jack Suwinski,Pittsburgh Pirates,Chase Anderson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Jack Suwinski,Pittsburgh Pirates,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Jack Suwinski,Pittsburgh Pirates,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+29,Jack Suwinski,Pittsburgh Pirates,Josh Fleming,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Jack Suwinski,Pittsburgh Pirates,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Jack Suwinski,Pittsburgh Pirates,Kutter Crawford,Boston Red Sox,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+32,Jack Suwinski,Pittsburgh Pirates,Richard Bleier,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+33,Jack Suwinski,Pittsburgh Pirates,Zack Kelly,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Jack Suwinski,Pittsburgh Pirates,Corey Kluber,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Jack Suwinski,Pittsburgh Pirates,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Jack Suwinski,Pittsburgh Pirates,John Schreiber,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Jack Suwinski,Pittsburgh Pirates,Miles Mikolas,St. Louis Cardinals,6,3,1,0,0,0,0,0,2,.500,.500,.667,1.167
+38,Jack Suwinski,Pittsburgh Pirates,Jake Woodford,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+39,Jack Suwinski,Pittsburgh Pirates,Genesis Cabrera,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Jack Suwinski,Pittsburgh Pirates,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+41,Jack Suwinski,Pittsburgh Pirates,Giovanny Gallegos,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+42,Jack Suwinski,Pittsburgh Pirates,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Jack Suwinski,Pittsburgh Pirates,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Jack Suwinski,Pittsburgh Pirates,Anthony Misiewicz,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+45,Jack Suwinski,Pittsburgh Pirates,Andrew Chafin,Arizona Diamondbacks,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+46,Jack Suwinski,Pittsburgh Pirates,Tyler Gilbert,Arizona Diamondbacks,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+47,Jack Suwinski,Pittsburgh Pirates,Zac Gallen,Arizona Diamondbacks,6,2,1,0,0,2,0,0,3,.333,.333,.500,.833
+48,Jack Suwinski,Pittsburgh Pirates,Zach Davies,Arizona Diamondbacks,2,0,0,0,0,1,0,0,2,.000,.000,.000,.000
+49,Jack Suwinski,Pittsburgh Pirates,Luis Frias,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+50,Jack Suwinski,Pittsburgh Pirates,Kevin Ginkel,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+51,Jack Suwinski,Pittsburgh Pirates,Merrill Kelly,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Jack Suwinski,Pittsburgh Pirates,Justin Martinez,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+53,Jack Suwinski,Pittsburgh Pirates,Scott McGough,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Jack Suwinski,Pittsburgh Pirates,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Jack Suwinski,Pittsburgh Pirates,Brandon Pfaadt,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Jack Suwinski,Pittsburgh Pirates,Fernando Cruz,Cincinnati Reds,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+57,Jack Suwinski,Pittsburgh Pirates,Luis Cessa,Cincinnati Reds,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+58,Jack Suwinski,Pittsburgh Pirates,Luke Weaver,Cincinnati Reds,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+59,Jack Suwinski,Pittsburgh Pirates,Graham Ashcraft,Cincinnati Reds,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+60,Jack Suwinski,Pittsburgh Pirates,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Jack Suwinski,Pittsburgh Pirates,Hunter Greene,Cincinnati Reds,3,0,0,0,0,0,2,0,2,.000,.400,.000,.400
+62,Jack Suwinski,Pittsburgh Pirates,Derek Law,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Jack Suwinski,Pittsburgh Pirates,Reiver Sanmartin,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Jack Suwinski,Pittsburgh Pirates,Alex Young,Cincinnati Reds,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+65,Jack Suwinski,Pittsburgh Pirates,Jose Berrios,Toronto Blue Jays,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+66,Jack Suwinski,Pittsburgh Pirates,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+67,Jack Suwinski,Pittsburgh Pirates,Jay Jackson,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+68,Jack Suwinski,Pittsburgh Pirates,Yusei Kikuchi,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Jack Suwinski,Pittsburgh Pirates,Jordan Romano,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+70,Jack Suwinski,Pittsburgh Pirates,Kyle Gibson,Baltimore Orioles,1,1,0,0,0,0,2,0,0,1.000,1.000,1.000,2.000
+71,Jack Suwinski,Pittsburgh Pirates,Austin Voth,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+72,Jack Suwinski,Pittsburgh Pirates,Kyle Bradish,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+73,Jack Suwinski,Pittsburgh Pirates,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Jack Suwinski,Pittsburgh Pirates,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Jack Suwinski,Pittsburgh Pirates,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Jack Suwinski,Pittsburgh Pirates,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+77,Jack Suwinski,Pittsburgh Pirates,Jameson Taillon,Chicago Cubs,2,2,0,0,2,2,1,0,0,1.000,1.000,4.000,5.000
+78,Jack Suwinski,Pittsburgh Pirates,Kyle Hendricks,Chicago Cubs,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+79,Jack Suwinski,Pittsburgh Pirates,Mark Leiter Jr.,Chicago Cubs,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+80,Jack Suwinski,Pittsburgh Pirates,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+81,Jack Suwinski,Pittsburgh Pirates,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Jack Suwinski,Pittsburgh Pirates,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+83,Jack Suwinski,Pittsburgh Pirates,Marcus Stroman,Chicago Cubs,6,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+84,Jack Suwinski,Pittsburgh Pirates,Tim Hill,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+85,Jack Suwinski,Pittsburgh Pirates,Reiss Knehr,San Diego Padres,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+86,Jack Suwinski,Pittsburgh Pirates,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Jack Suwinski,Pittsburgh Pirates,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Jack Suwinski,Pittsburgh Pirates,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Jack Suwinski,Pittsburgh Pirates,Nick Martinez,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+90,Jack Suwinski,Pittsburgh Pirates,Adrian Morejon,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Jack Suwinski,Pittsburgh Pirates,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+92,Jack Suwinski,Pittsburgh Pirates,Blake Snell,San Diego Padres,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+93,Jack Suwinski,Pittsburgh Pirates,Cristian Javier,Houston Astros,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+94,Jack Suwinski,Pittsburgh Pirates,Jose Urquidy,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+95,Jack Suwinski,Pittsburgh Pirates,Ronel Blanco,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Jack Suwinski,Pittsburgh Pirates,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Jack Suwinski,Pittsburgh Pirates,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Jack Suwinski,Pittsburgh Pirates,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Jack Suwinski,Pittsburgh Pirates,Jordan Weems,Washington Nationals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+100,Jack Suwinski,Pittsburgh Pirates,Hobie Harris,Washington Nationals,2,1,0,0,1,4,0,0,0,.500,.500,2.000,2.500
+101,Jack Suwinski,Pittsburgh Pirates,Chad Kuhl,Washington Nationals,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+102,Jack Suwinski,Pittsburgh Pirates,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Jack Suwinski,Pittsburgh Pirates,Josiah Gray,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+104,Jack Suwinski,Pittsburgh Pirates,Lane Thomas,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Jack Suwinski,Pittsburgh Pirates,Braxton Garrett,Miami Marlins,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+106,Jack Suwinski,Pittsburgh Pirates,Bryan Hoeing,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Jack Suwinski,Pittsburgh Pirates,Eury Perez,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Jack Suwinski,Pittsburgh Pirates,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Jack Suwinski,Pittsburgh Pirates,Brett Wisely,San Francisco Giants,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+110,Jack Suwinski,Pittsburgh Pirates,Camilo Doval,San Francisco Giants,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+111,Jack Suwinski,Pittsburgh Pirates,Anthony DeSclafani,San Francisco Giants,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+112,Jack Suwinski,Pittsburgh Pirates,Sean Manaea,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+113,Jack Suwinski,Pittsburgh Pirates,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Jack Suwinski,Pittsburgh Pirates,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+115,Jack Suwinski,Pittsburgh Pirates,Luke Jackson,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Jack Suwinski,Pittsburgh Pirates,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Jack Suwinski,Pittsburgh Pirates,Taylor Rogers,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+118,Jack Suwinski,Pittsburgh Pirates,Ross Stripling,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Jack Suwinski,Pittsburgh Pirates,Alex Wood,San Francisco Giants,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+120,Jack Suwinski,Pittsburgh Pirates,Carlos Carrasco,New York Mets,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+121,Jack Suwinski,Pittsburgh Pirates,Tommy Hunter,New York Mets,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+122,Jack Suwinski,Pittsburgh Pirates,Zach Muckenhirn,New York Mets,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+123,Jack Suwinski,Pittsburgh Pirates,Tylor Megill,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+124,Jack Suwinski,Pittsburgh Pirates,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Jack Suwinski,Pittsburgh Pirates,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Jack Suwinski,Pittsburgh Pirates,Kodai Senga,New York Mets,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+127,Jack Suwinski,Pittsburgh Pirates,Josh Walker,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Jack Suwinski,Pittsburgh Pirates,Alan Trejo,Colorado Rockies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+129,Jack Suwinski,Pittsburgh Pirates,Jose Urena,Colorado Rockies,2,2,0,0,2,3,0,0,0,1.000,1.000,4.000,5.000
+130,Jack Suwinski,Pittsburgh Pirates,Kyle Freeland,Colorado Rockies,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+131,Jack Suwinski,Pittsburgh Pirates,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Jack Suwinski,Pittsburgh Pirates,Jake Bird,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+133,Jack Suwinski,Pittsburgh Pirates,Ty Blach,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Jack Suwinski,Pittsburgh Pirates,Austin Gomber,Colorado Rockies,0,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+135,Jack Suwinski,Pittsburgh Pirates,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Jack Suwinski,Pittsburgh Pirates,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Jack Suwinski,Pittsburgh Pirates,Nick Mears,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Jack Suwinski,Pittsburgh Pirates,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+139,Jack Suwinski,Pittsburgh Pirates,Antonio Senzatela,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Jack Suwinski,Pittsburgh Pirates,Brent Suter,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+141,Jack Suwinski,Pittsburgh Pirates,Gabe Speier,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+142,Jack Suwinski,Pittsburgh Pirates,Juan Then,Seattle Mariners,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+143,Jack Suwinski,Pittsburgh Pirates,George Kirby,Seattle Mariners,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+144,Jack Suwinski,Pittsburgh Pirates,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+145,Jack Suwinski,Pittsburgh Pirates,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+146,Jack Suwinski,Pittsburgh Pirates,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+147,Jack Suwinski,Pittsburgh Pirates,Paul Sewald,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+148,Jack Suwinski,Pittsburgh Pirates,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Jack Suwinski,Pittsburgh Pirates,Aaron Civale,Cleveland Guardians,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+150,Jack Suwinski,Pittsburgh Pirates,Xzavion Curry,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+151,Jack Suwinski,Pittsburgh Pirates,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Jack Suwinski,Pittsburgh Pirates,Cody Morris,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+153,Jack Suwinski,Pittsburgh Pirates,Jake Diekman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+154,Jack Suwinski,Pittsburgh Pirates,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+155,Jack Suwinski,Pittsburgh Pirates,Michael Kopech,Chicago White Sox,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+156,Jack Suwinski,Pittsburgh Pirates,Jimmy Lambert,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+157,Jack Suwinski,Pittsburgh Pirates,Jesse Scholtens,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+158,Jack Suwinski,Pittsburgh Pirates,Clayton Andrews,Milwaukee Brewers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+159,Jack Suwinski,Pittsburgh Pirates,Thomas Pannone,Milwaukee Brewers,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+160,Jack Suwinski,Pittsburgh Pirates,Colin Rea,Milwaukee Brewers,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+161,Jack Suwinski,Pittsburgh Pirates,Corbin Burnes,Milwaukee Brewers,3,1,0,0,0,2,0,0,2,.333,.333,.333,.666
+162,Jack Suwinski,Pittsburgh Pirates,Trevor Megill,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+163,Jack Suwinski,Pittsburgh Pirates,Elvis Peguero,Milwaukee Brewers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+164,Jack Suwinski,Pittsburgh Pirates,Freddy Peralta,Milwaukee Brewers,4,0,0,0,0,0,1,0,2,.000,.200,.000,.200
+165,Jack Suwinski,Pittsburgh Pirates,Julio Teheran,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+166,Jack Suwinski,Pittsburgh Pirates,Devin Williams,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+167,Jack Suwinski,Pittsburgh Pirates,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Jack Suwinski,Pittsburgh Pirates,Michael Lorenzen,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+169,Jack Suwinski,Pittsburgh Pirates,Shintaro Fujinami,Oakland Athletics,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+170,Jack Suwinski,Pittsburgh Pirates,James Kaprielian,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Jack Suwinski,Pittsburgh Pirates,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

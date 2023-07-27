@@ -1,0 +1,189 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Luis Arraez,Miami Marlins,A.J. Minter,Atlanta Braves,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,Luis Arraez,Miami Marlins,Collin McHugh,Atlanta Braves,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+2,Luis Arraez,Miami Marlins,Dylan Dodd,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+3,Luis Arraez,Miami Marlins,Charlie Morton,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+4,Luis Arraez,Miami Marlins,Spencer Strider,Atlanta Braves,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+5,Luis Arraez,Miami Marlins,Kyle Wright,Atlanta Braves,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+6,Luis Arraez,Miami Marlins,Bryce Elder,Atlanta Braves,6,1,0,0,0,0,0,0,0,.167,.167,.167,.334
+7,Luis Arraez,Miami Marlins,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Luis Arraez,Miami Marlins,Dylan Lee,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Luis Arraez,Miami Marlins,Michael Soroka,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Luis Arraez,Miami Marlins,Michael Tonkin,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Luis Arraez,Miami Marlins,Sam Bachman,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+12,Luis Arraez,Miami Marlins,Patrick Sandoval,Los Angeles Angels,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+13,Luis Arraez,Miami Marlins,Reid Detmers,Los Angeles Angels,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+14,Luis Arraez,Miami Marlins,Shohei Ohtani,Los Angeles Angels,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+15,Luis Arraez,Miami Marlins,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Luis Arraez,Miami Marlins,Chase Silseth,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+17,Luis Arraez,Miami Marlins,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+18,Luis Arraez,Miami Marlins,Brennan Bernardino,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+19,Luis Arraez,Miami Marlins,Joe Jacques,Boston Red Sox,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+20,Luis Arraez,Miami Marlins,Garrett Whitlock,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+21,Luis Arraez,Miami Marlins,Brayan Bello,Boston Red Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Luis Arraez,Miami Marlins,Chris Martin,Boston Red Sox,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+23,Luis Arraez,Miami Marlins,Chris Murphy,Boston Red Sox,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+24,Luis Arraez,Miami Marlins,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Luis Arraez,Miami Marlins,Nick Pivetta,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Luis Arraez,Miami Marlins,Matthew Liberatore,St. Louis Cardinals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+27,Luis Arraez,Miami Marlins,Zack Thompson,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,Luis Arraez,Miami Marlins,Jack Flaherty,St. Louis Cardinals,4,3,0,0,0,0,0,0,0,.750,.750,.750,1.500
+29,Luis Arraez,Miami Marlins,Jordan Montgomery,St. Louis Cardinals,2,1,0,0,0,1,0,0,0,.500,.333,.500,.833
+30,Luis Arraez,Miami Marlins,Chris Stratton,St. Louis Cardinals,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+31,Luis Arraez,Miami Marlins,Adam Wainwright,St. Louis Cardinals,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+32,Luis Arraez,Miami Marlins,Miles Mikolas,St. Louis Cardinals,6,2,0,0,0,1,0,0,0,.333,.333,.333,.666
+33,Luis Arraez,Miami Marlins,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Luis Arraez,Miami Marlins,Jordan Hicks,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Luis Arraez,Miami Marlins,Dakota Hudson,St. Louis Cardinals,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Luis Arraez,Miami Marlins,Steven Matz,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Luis Arraez,Miami Marlins,James Naile,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+38,Luis Arraez,Miami Marlins,Andre Pallante,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Luis Arraez,Miami Marlins,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Luis Arraez,Miami Marlins,Ryan Tepera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Luis Arraez,Miami Marlins,Andrew Chafin,Arizona Diamondbacks,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+42,Luis Arraez,Miami Marlins,Brandon Pfaadt,Arizona Diamondbacks,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+43,Luis Arraez,Miami Marlins,Zac Gallen,Arizona Diamondbacks,6,1,0,0,0,0,0,0,0,.167,.167,.167,.334
+44,Luis Arraez,Miami Marlins,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Luis Arraez,Miami Marlins,Merrill Kelly,Arizona Diamondbacks,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+46,Luis Arraez,Miami Marlins,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Luis Arraez,Miami Marlins,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Luis Arraez,Miami Marlins,Alan Busenitz,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+49,Luis Arraez,Miami Marlins,Alexis Diaz,Cincinnati Reds,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+50,Luis Arraez,Miami Marlins,Luke Weaver,Cincinnati Reds,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+51,Luis Arraez,Miami Marlins,Graham Ashcraft,Cincinnati Reds,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Luis Arraez,Miami Marlins,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Luis Arraez,Miami Marlins,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Luis Arraez,Miami Marlins,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Luis Arraez,Miami Marlins,Levi Stoudt,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Luis Arraez,Miami Marlins,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Luis Arraez,Miami Marlins,Jose Berrios,Toronto Blue Jays,3,3,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+58,Luis Arraez,Miami Marlins,Trent Thornton,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+59,Luis Arraez,Miami Marlins,Mitch White,Toronto Blue Jays,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+60,Luis Arraez,Miami Marlins,Kevin Gausman,Toronto Blue Jays,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+61,Luis Arraez,Miami Marlins,Yusei Kikuchi,Toronto Blue Jays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+62,Luis Arraez,Miami Marlins,Jordan Romano,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Luis Arraez,Miami Marlins,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Luis Arraez,Miami Marlins,Kyle Gibson,Baltimore Orioles,4,3,0,0,0,1,0,0,0,.750,.750,.750,1.500
+65,Luis Arraez,Miami Marlins,Yennier Cano,Baltimore Orioles,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+66,Luis Arraez,Miami Marlins,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Luis Arraez,Miami Marlins,Kyle Bradish,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Luis Arraez,Miami Marlins,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Luis Arraez,Miami Marlins,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+70,Luis Arraez,Miami Marlins,Andrew Bellatti,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+71,Luis Arraez,Miami Marlins,Connor Brogdon,Philadelphia Phillies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+72,Luis Arraez,Miami Marlins,Jeff Hoffman,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+73,Luis Arraez,Miami Marlins,Yunior Marte,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+74,Luis Arraez,Miami Marlins,Matt Strahm,Philadelphia Phillies,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+75,Luis Arraez,Miami Marlins,Aaron Nola,Philadelphia Phillies,6,2,1,1,0,0,0,0,0,.333,.333,.833,1.166
+76,Luis Arraez,Miami Marlins,Zack Wheeler,Philadelphia Phillies,6,1,1,0,0,0,0,0,1,.167,.167,.333,.500
+77,Luis Arraez,Miami Marlins,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Luis Arraez,Miami Marlins,McKinley Moore,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+79,Luis Arraez,Miami Marlins,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Luis Arraez,Miami Marlins,Caleb Kilian,Chicago Cubs,3,3,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+81,Luis Arraez,Miami Marlins,Michael Rucker,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+82,Luis Arraez,Miami Marlins,Mark Leiter Jr.,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+83,Luis Arraez,Miami Marlins,Justin Steele,Chicago Cubs,6,3,0,0,0,1,0,0,1,.500,.500,.500,1.000
+84,Luis Arraez,Miami Marlins,Marcus Stroman,Chicago Cubs,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+85,Luis Arraez,Miami Marlins,Hayden Wesneski,Chicago Cubs,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+86,Luis Arraez,Miami Marlins,Adbert Alzolay,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Luis Arraez,Miami Marlins,Brad Boxberger,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+88,Luis Arraez,Miami Marlins,Jeremiah Estrada,Chicago Cubs,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+89,Luis Arraez,Miami Marlins,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Luis Arraez,Miami Marlins,Keegan Thompson,Chicago Cubs,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+91,Luis Arraez,Miami Marlins,Brent Honeywell,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+92,Luis Arraez,Miami Marlins,Blake Snell,San Diego Padres,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+93,Luis Arraez,Miami Marlins,Joe Musgrove,San Diego Padres,2,1,0,0,0,1,0,0,0,.500,.333,.500,.833
+94,Luis Arraez,Miami Marlins,Ryan Weathers,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+95,Luis Arraez,Miami Marlins,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Luis Arraez,Miami Marlins,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Luis Arraez,Miami Marlins,Cole Sands,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+98,Luis Arraez,Miami Marlins,Tyler Mahle,Minnesota Twins,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+99,Luis Arraez,Miami Marlins,Kenta Maeda,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Luis Arraez,Miami Marlins,Emilio Pagan,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+101,Luis Arraez,Miami Marlins,Caleb Thielbar,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Luis Arraez,Miami Marlins,Carl Edwards Jr.,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+103,Luis Arraez,Miami Marlins,Hunter Harvey,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+104,Luis Arraez,Miami Marlins,Chad Kuhl,Washington Nationals,1,1,0,0,0,0,1,1,0,1.000,1.000,1.000,2.000
+105,Luis Arraez,Miami Marlins,Thaddeus Ward,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+106,Luis Arraez,Miami Marlins,Mason Thompson,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+107,Luis Arraez,Miami Marlins,Trevor Williams,Washington Nationals,6,3,0,0,1,3,0,0,0,.500,.500,1.000,1.500
+108,Luis Arraez,Miami Marlins,MacKenzie Gore,Washington Nationals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+109,Luis Arraez,Miami Marlins,Josiah Gray,Washington Nationals,3,1,1,0,0,0,1,1,0,.333,.500,.667,1.167
+110,Luis Arraez,Miami Marlins,Jake Irvin,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Luis Arraez,Miami Marlins,Anthony DeSclafani,San Francisco Giants,3,3,1,0,0,0,0,0,0,1.000,1.000,1.333,2.333
+112,Luis Arraez,Miami Marlins,Ross Stripling,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+113,Luis Arraez,Miami Marlins,Jakob Junis,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+114,Luis Arraez,Miami Marlins,Alex Cobb,San Francisco Giants,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+115,Luis Arraez,Miami Marlins,Logan Webb,San Francisco Giants,6,2,0,0,0,1,0,0,0,.333,.333,.333,.666
+116,Luis Arraez,Miami Marlins,Scott Alexander,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Luis Arraez,Miami Marlins,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,1,1,0,.000,.500,.000,.500
+118,Luis Arraez,Miami Marlins,Tyler Rogers,San Francisco Giants,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+119,Luis Arraez,Miami Marlins,Taylor Rogers,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Luis Arraez,Miami Marlins,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Luis Arraez,Miami Marlins,Alex Wood,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Luis Arraez,Miami Marlins,David Robertson,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+123,Luis Arraez,Miami Marlins,Dennis Santana,New York Mets,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+124,Luis Arraez,Miami Marlins,Tylor Megill,New York Mets,6,4,1,0,0,0,0,0,0,.667,.667,.833,1.500
+125,Luis Arraez,Miami Marlins,Max Scherzer,New York Mets,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+126,Luis Arraez,Miami Marlins,Kodai Senga,New York Mets,5,3,0,0,0,0,1,0,0,.600,.667,.600,1.267
+127,Luis Arraez,Miami Marlins,Stephen Nogosek,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+128,Luis Arraez,Miami Marlins,David Peterson,New York Mets,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+129,Luis Arraez,Miami Marlins,Brooks Raley,New York Mets,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+130,Luis Arraez,Miami Marlins,Carlos Carrasco,New York Mets,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+131,Luis Arraez,Miami Marlins,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Luis Arraez,Miami Marlins,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Luis Arraez,Miami Marlins,Connor Seabold,Colorado Rockies,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+134,Luis Arraez,Miami Marlins,Pierce Johnson,Colorado Rockies,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+135,Luis Arraez,Miami Marlins,Chase Anderson,Colorado Rockies,6,3,1,1,0,2,0,0,0,.500,.500,1.000,1.500
+136,Luis Arraez,Miami Marlins,Ty Blach,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+137,Luis Arraez,Miami Marlins,Karl Kauffmann,Colorado Rockies,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+138,Luis Arraez,Miami Marlins,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Luis Arraez,Miami Marlins,Jake Bird,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Luis Arraez,Miami Marlins,Austin Gomber,Colorado Rockies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Luis Arraez,Miami Marlins,Brad Hand,Colorado Rockies,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Luis Arraez,Miami Marlins,Peter Lambert,Colorado Rockies,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+143,Luis Arraez,Miami Marlins,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Luis Arraez,Miami Marlins,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Luis Arraez,Miami Marlins,Matt Brash,Seattle Mariners,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+146,Luis Arraez,Miami Marlins,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+147,Luis Arraez,Miami Marlins,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Luis Arraez,Miami Marlins,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Luis Arraez,Miami Marlins,Bryce Miller,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Luis Arraez,Miami Marlins,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Luis Arraez,Miami Marlins,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Luis Arraez,Miami Marlins,Tim Herrin,Cleveland Guardians,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+153,Luis Arraez,Miami Marlins,Zach Plesac,Cleveland Guardians,3,3,1,0,0,0,0,0,0,1.000,1.000,1.333,2.333
+154,Luis Arraez,Miami Marlins,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+155,Luis Arraez,Miami Marlins,Hunter Gaddis,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Luis Arraez,Miami Marlins,James Karinchak,Cleveland Guardians,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+157,Luis Arraez,Miami Marlins,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Luis Arraez,Miami Marlins,Luis L. Ortiz,Pittsburgh Pirates,4,3,0,0,0,0,0,0,0,.750,.750,.750,1.500
+159,Luis Arraez,Miami Marlins,Osvaldo Bido,Pittsburgh Pirates,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+160,Luis Arraez,Miami Marlins,Mitch Keller,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+161,Luis Arraez,Miami Marlins,Johan Oviedo,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+162,Luis Arraez,Miami Marlins,David Bednar,Pittsburgh Pirates,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+163,Luis Arraez,Miami Marlins,Ryan Borucki,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Luis Arraez,Miami Marlins,Yerry De Los Santos,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+165,Luis Arraez,Miami Marlins,Dauri Moreta,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+166,Luis Arraez,Miami Marlins,Joe Kelly,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+167,Luis Arraez,Miami Marlins,Michael Kopech,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+168,Luis Arraez,Miami Marlins,Dylan Cease,Chicago White Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+169,Luis Arraez,Miami Marlins,Lucas Giolito,Chicago White Sox,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+170,Luis Arraez,Miami Marlins,Kendall Graveman,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Luis Arraez,Miami Marlins,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+172,Luis Arraez,Miami Marlins,Jackson Kowar,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+173,Luis Arraez,Miami Marlins,Mike Mayers,Kansas City Royals,2,2,1,0,0,2,0,0,0,1.000,1.000,1.500,2.500
+174,Luis Arraez,Miami Marlins,Josh Staumont,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+175,Luis Arraez,Miami Marlins,Jordan Lyles,Kansas City Royals,4,2,0,0,0,0,0,0,0,.500,.500,.500,1.000
+176,Luis Arraez,Miami Marlins,Zack Greinke,Kansas City Royals,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+177,Luis Arraez,Miami Marlins,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+178,Luis Arraez,Miami Marlins,Lucas Erceg,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+179,Luis Arraez,Miami Marlins,Sam Long,Oakland Athletics,1,1,1,0,0,3,0,0,0,1.000,1.000,2.000,3.000
+180,Luis Arraez,Miami Marlins,Richard Lovelady,Oakland Athletics,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+181,Luis Arraez,Miami Marlins,Luis Medina,Oakland Athletics,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+182,Luis Arraez,Miami Marlins,Sam Moll,Oakland Athletics,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+183,Luis Arraez,Miami Marlins,Paul Blackburn,Oakland Athletics,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+184,Luis Arraez,Miami Marlins,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+185,Luis Arraez,Miami Marlins,Hogan Harris,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+186,Luis Arraez,Miami Marlins,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+187,Luis Arraez,Miami Marlins,Ken Waldichuk,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

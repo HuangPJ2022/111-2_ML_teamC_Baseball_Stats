@@ -1,0 +1,195 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jarred Kelenic,Seattle Mariners,Michael Tonkin,Atlanta Braves,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Jarred Kelenic,Seattle Mariners,Bryce Elder,Atlanta Braves,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+2,Jarred Kelenic,Seattle Mariners,Jared Shuster,Atlanta Braves,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+3,Jarred Kelenic,Seattle Mariners,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Jarred Kelenic,Seattle Mariners,Raisel Iglesias,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Jarred Kelenic,Seattle Mariners,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Jarred Kelenic,Seattle Mariners,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Jarred Kelenic,Seattle Mariners,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Jarred Kelenic,Seattle Mariners,Ian Kennedy,Texas Rangers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+9,Jarred Kelenic,Seattle Mariners,Brock Burke,Texas Rangers,3,1,0,1,0,1,0,0,2,.333,.333,1.000,1.333
+10,Jarred Kelenic,Seattle Mariners,Dane Dunning,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+11,Jarred Kelenic,Seattle Mariners,Andrew Heaney,Texas Rangers,4,1,0,0,0,1,1,0,0,.250,.400,.250,.650
+12,Jarred Kelenic,Seattle Mariners,Nathan Eovaldi,Texas Rangers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+13,Jarred Kelenic,Seattle Mariners,Jon Gray,Texas Rangers,5,0,0,0,0,0,1,0,1,.000,.167,.000,.167
+14,Jarred Kelenic,Seattle Mariners,John King,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Jarred Kelenic,Seattle Mariners,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Jarred Kelenic,Seattle Mariners,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Jarred Kelenic,Seattle Mariners,Gerardo Reyes,Los Angeles Angels,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+18,Jarred Kelenic,Seattle Mariners,Shohei Ohtani,Los Angeles Angels,5,2,0,0,1,2,0,0,2,.400,.400,1.000,1.400
+19,Jarred Kelenic,Seattle Mariners,Sam Bachman,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+20,Jarred Kelenic,Seattle Mariners,Griffin Canning,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Jarred Kelenic,Seattle Mariners,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Jarred Kelenic,Seattle Mariners,Patrick Sandoval,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Jarred Kelenic,Seattle Mariners,Jose Soriano,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+24,Jarred Kelenic,Seattle Mariners,Shane McClanahan,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+25,Jarred Kelenic,Seattle Mariners,Tyler Glasnow,Tampa Bay Rays,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+26,Jarred Kelenic,Seattle Mariners,Taj Bradley,Tampa Bay Rays,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+27,Jarred Kelenic,Seattle Mariners,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Jarred Kelenic,Seattle Mariners,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Jarred Kelenic,Seattle Mariners,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Jarred Kelenic,Seattle Mariners,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Jarred Kelenic,Seattle Mariners,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Jarred Kelenic,Seattle Mariners,Richard Bleier,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Jarred Kelenic,Seattle Mariners,Pablo Reyes,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+34,Jarred Kelenic,Seattle Mariners,Brayan Bello,Boston Red Sox,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+35,Jarred Kelenic,Seattle Mariners,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+36,Jarred Kelenic,Seattle Mariners,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Jarred Kelenic,Seattle Mariners,Tanner Houck,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Jarred Kelenic,Seattle Mariners,Nick Pivetta,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+39,Jarred Kelenic,Seattle Mariners,Joely Rodriguez,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Jarred Kelenic,Seattle Mariners,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Jarred Kelenic,Seattle Mariners,Miles Mikolas,St. Louis Cardinals,2,2,1,0,1,1,0,0,0,1.000,1.000,3.000,4.000
+42,Jarred Kelenic,Seattle Mariners,Steven Matz,St. Louis Cardinals,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+43,Jarred Kelenic,Seattle Mariners,Jack Flaherty,St. Louis Cardinals,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+44,Jarred Kelenic,Seattle Mariners,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Jarred Kelenic,Seattle Mariners,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Jarred Kelenic,Seattle Mariners,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Jarred Kelenic,Seattle Mariners,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Jarred Kelenic,Seattle Mariners,Drew VerHagen,St. Louis Cardinals,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+49,Jarred Kelenic,Seattle Mariners,Alek Manoah,Toronto Blue Jays,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+50,Jarred Kelenic,Seattle Mariners,Kevin Gausman,Toronto Blue Jays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+51,Jarred Kelenic,Seattle Mariners,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Jarred Kelenic,Seattle Mariners,Chris Bassitt,Toronto Blue Jays,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+53,Jarred Kelenic,Seattle Mariners,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Jarred Kelenic,Seattle Mariners,Zach Pop,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Jarred Kelenic,Seattle Mariners,Keegan Akin,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+56,Jarred Kelenic,Seattle Mariners,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+57,Jarred Kelenic,Seattle Mariners,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Jarred Kelenic,Seattle Mariners,Kyle Gibson,Baltimore Orioles,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+59,Jarred Kelenic,Seattle Mariners,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+60,Jarred Kelenic,Seattle Mariners,Josh Lester,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Jarred Kelenic,Seattle Mariners,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Jarred Kelenic,Seattle Mariners,Andrew Vasquez,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+63,Jarred Kelenic,Seattle Mariners,Bailey Falter,Philadelphia Phillies,3,2,1,0,1,1,0,0,0,.667,.667,2.000,2.667
+64,Jarred Kelenic,Seattle Mariners,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Jarred Kelenic,Seattle Mariners,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Jarred Kelenic,Seattle Mariners,Gregory Soto,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+67,Jarred Kelenic,Seattle Mariners,Matt Strahm,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Jarred Kelenic,Seattle Mariners,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Jarred Kelenic,Seattle Mariners,Michael Fulmer,Chicago Cubs,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+70,Jarred Kelenic,Seattle Mariners,Michael Rucker,Chicago Cubs,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+71,Jarred Kelenic,Seattle Mariners,Mark Leiter Jr.,Chicago Cubs,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+72,Jarred Kelenic,Seattle Mariners,Julian Merryweather,Chicago Cubs,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+73,Jarred Kelenic,Seattle Mariners,Marcus Stroman,Chicago Cubs,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+74,Jarred Kelenic,Seattle Mariners,Hayden Wesneski,Chicago Cubs,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+75,Jarred Kelenic,Seattle Mariners,Josh Hader,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+76,Jarred Kelenic,Seattle Mariners,Michael Wacha,San Diego Padres,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+77,Jarred Kelenic,Seattle Mariners,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Jarred Kelenic,Seattle Mariners,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Jarred Kelenic,Seattle Mariners,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Jarred Kelenic,Seattle Mariners,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Jarred Kelenic,Seattle Mariners,Ryne Stanek,Houston Astros,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+82,Jarred Kelenic,Seattle Mariners,Bryan Abreu,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+83,Jarred Kelenic,Seattle Mariners,Hunter Brown,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+84,Jarred Kelenic,Seattle Mariners,Brandon Bielak,Houston Astros,5,2,2,0,0,2,0,0,0,.400,.400,.800,1.200
+85,Jarred Kelenic,Seattle Mariners,Ronel Blanco,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+86,Jarred Kelenic,Seattle Mariners,J.P. France,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+87,Jarred Kelenic,Seattle Mariners,Cristian Javier,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Jarred Kelenic,Seattle Mariners,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Jarred Kelenic,Seattle Mariners,Phil Maton,Houston Astros,2,0,0,0,0,1,1,0,1,.000,.333,.000,.333
+90,Jarred Kelenic,Seattle Mariners,Rafael Montero,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Jarred Kelenic,Seattle Mariners,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Jarred Kelenic,Seattle Mariners,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Jarred Kelenic,Seattle Mariners,Oliver Ortega,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+94,Jarred Kelenic,Seattle Mariners,Sonny Gray,Minnesota Twins,3,1,0,0,0,2,0,0,1,.333,.333,.333,.666
+95,Jarred Kelenic,Seattle Mariners,Kenta Maeda,Minnesota Twins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+96,Jarred Kelenic,Seattle Mariners,Bailey Ober,Minnesota Twins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+97,Jarred Kelenic,Seattle Mariners,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Jarred Kelenic,Seattle Mariners,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Jarred Kelenic,Seattle Mariners,Trevor Williams,Washington Nationals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+100,Jarred Kelenic,Seattle Mariners,Cory Abbott,Washington Nationals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+101,Jarred Kelenic,Seattle Mariners,Hunter Harvey,Washington Nationals,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+102,Jarred Kelenic,Seattle Mariners,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+103,Jarred Kelenic,Seattle Mariners,Mason Thompson,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+104,Jarred Kelenic,Seattle Mariners,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Jarred Kelenic,Seattle Mariners,Steven Okert,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+106,Jarred Kelenic,Seattle Mariners,Archie Bradley,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Jarred Kelenic,Seattle Mariners,Edward Cabrera,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+108,Jarred Kelenic,Seattle Mariners,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Jarred Kelenic,Seattle Mariners,Eury Perez,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+110,Jarred Kelenic,Seattle Mariners,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Jarred Kelenic,Seattle Mariners,Alex Cobb,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+112,Jarred Kelenic,Seattle Mariners,Logan Webb,San Francisco Giants,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+113,Jarred Kelenic,Seattle Mariners,Camilo Doval,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+114,Jarred Kelenic,Seattle Mariners,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Jarred Kelenic,Seattle Mariners,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Jarred Kelenic,Seattle Mariners,Taylor Rogers,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Jarred Kelenic,Seattle Mariners,Keaton Winn,San Francisco Giants,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+118,Jarred Kelenic,Seattle Mariners,Austin Gomber,Colorado Rockies,2,2,1,0,1,2,0,0,0,1.000,1.000,3.000,4.000
+119,Jarred Kelenic,Seattle Mariners,Brad Hand,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+120,Jarred Kelenic,Seattle Mariners,Brent Suter,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+121,Jarred Kelenic,Seattle Mariners,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Jarred Kelenic,Seattle Mariners,Noah Davis,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+123,Jarred Kelenic,Seattle Mariners,Ryan Feltner,Colorado Rockies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+124,Jarred Kelenic,Seattle Mariners,Dinelson Lamet,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Jarred Kelenic,Seattle Mariners,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Jarred Kelenic,Seattle Mariners,Jhony Brito,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+127,Jarred Kelenic,Seattle Mariners,Gerrit Cole,New York Yankees,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+128,Jarred Kelenic,Seattle Mariners,Domingo German,New York Yankees,6,2,0,0,0,0,0,0,2,.333,.333,.333,.666
+129,Jarred Kelenic,Seattle Mariners,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Jarred Kelenic,Seattle Mariners,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+131,Jarred Kelenic,Seattle Mariners,Clay Holmes,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Jarred Kelenic,Seattle Mariners,Tommy Kahnle,New York Yankees,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+133,Jarred Kelenic,Seattle Mariners,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Jarred Kelenic,Seattle Mariners,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Jarred Kelenic,Seattle Mariners,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Jarred Kelenic,Seattle Mariners,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Jarred Kelenic,Seattle Mariners,Enyel De Los Santos,Cleveland Guardians,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+138,Jarred Kelenic,Seattle Mariners,Cal Quantrill,Cleveland Guardians,3,2,0,0,0,1,1,0,1,.667,.750,.667,1.417
+139,Jarred Kelenic,Seattle Mariners,Shane Bieber,Cleveland Guardians,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+140,Jarred Kelenic,Seattle Mariners,Hunter Gaddis,Cleveland Guardians,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+141,Jarred Kelenic,Seattle Mariners,Aaron Civale,Cleveland Guardians,6,1,1,0,0,0,0,0,0,.167,.167,.333,.500
+142,Jarred Kelenic,Seattle Mariners,Emmanuel Clase,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+143,Jarred Kelenic,Seattle Mariners,Tim Herrin,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Jarred Kelenic,Seattle Mariners,Eli Morgan,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+145,Jarred Kelenic,Seattle Mariners,Zach Plesac,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+146,Jarred Kelenic,Seattle Mariners,Trevor Stephan,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+147,Jarred Kelenic,Seattle Mariners,Jose Hernandez,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+148,Jarred Kelenic,Seattle Mariners,Luis L. Ortiz,Pittsburgh Pirates,2,1,1,0,0,1,1,0,1,.500,.667,1.000,1.667
+149,Jarred Kelenic,Seattle Mariners,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Jarred Kelenic,Seattle Mariners,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+151,Jarred Kelenic,Seattle Mariners,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Jarred Kelenic,Seattle Mariners,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+153,Jarred Kelenic,Seattle Mariners,Robert Stephenson,Pittsburgh Pirates,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+154,Jarred Kelenic,Seattle Mariners,Vince Velasquez,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Jarred Kelenic,Seattle Mariners,Michael Kopech,Chicago White Sox,1,1,0,0,0,0,2,0,0,1.000,1.000,1.000,2.000
+156,Jarred Kelenic,Seattle Mariners,Reynaldo Lopez,Chicago White Sox,1,1,0,1,0,3,0,0,0,1.000,1.000,3.000,4.000
+157,Jarred Kelenic,Seattle Mariners,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+158,Jarred Kelenic,Seattle Mariners,Lucas Giolito,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Jarred Kelenic,Seattle Mariners,Lance Lynn,Chicago White Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+160,Jarred Kelenic,Seattle Mariners,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+161,Jarred Kelenic,Seattle Mariners,Peter Strzelecki,Milwaukee Brewers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+162,Jarred Kelenic,Seattle Mariners,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Jarred Kelenic,Seattle Mariners,Eric Lauer,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Jarred Kelenic,Seattle Mariners,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+165,Jarred Kelenic,Seattle Mariners,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Jarred Kelenic,Seattle Mariners,Colin Rea,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+167,Jarred Kelenic,Seattle Mariners,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+168,Jarred Kelenic,Seattle Mariners,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,Jarred Kelenic,Seattle Mariners,Matthew Boyd,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+170,Jarred Kelenic,Seattle Mariners,Jason Foley,Detroit Tigers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+171,Jarred Kelenic,Seattle Mariners,Reese Olson,Detroit Tigers,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+172,Jarred Kelenic,Seattle Mariners,Alex Faedo,Detroit Tigers,3,1,0,0,1,2,0,0,2,.333,.333,1.333,1.666
+173,Jarred Kelenic,Seattle Mariners,Michael Lorenzen,Detroit Tigers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+174,Jarred Kelenic,Seattle Mariners,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+175,Jarred Kelenic,Seattle Mariners,Mason Englert,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Jarred Kelenic,Seattle Mariners,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+177,Jarred Kelenic,Seattle Mariners,Chasen Shreve,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+178,Jarred Kelenic,Seattle Mariners,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+179,Jarred Kelenic,Seattle Mariners,Brendan White,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+180,Jarred Kelenic,Seattle Mariners,Jeurys Familia,Oakland Athletics,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+181,Jarred Kelenic,Seattle Mariners,Shintaro Fujinami,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+182,Jarred Kelenic,Seattle Mariners,Rico Garcia,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+183,Jarred Kelenic,Seattle Mariners,Kyle Muller,Oakland Athletics,3,2,0,0,1,3,0,0,1,.667,.667,1.667,2.334
+184,Jarred Kelenic,Seattle Mariners,Luis Medina,Oakland Athletics,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+185,Jarred Kelenic,Seattle Mariners,JP Sears,Oakland Athletics,5,1,0,0,0,0,0,0,2,.200,.200,.200,.400
+186,Jarred Kelenic,Seattle Mariners,Garrett Acton,Oakland Athletics,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+187,Jarred Kelenic,Seattle Mariners,Sam Long,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+188,Jarred Kelenic,Seattle Mariners,Adrian Martinez,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+189,Jarred Kelenic,Seattle Mariners,Trevor May,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+190,Jarred Kelenic,Seattle Mariners,Mason Miller,Oakland Athletics,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+191,Jarred Kelenic,Seattle Mariners,Austin Pruitt,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+192,Jarred Kelenic,Seattle Mariners,Drew Rucinski,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+193,Jarred Kelenic,Seattle Mariners,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000

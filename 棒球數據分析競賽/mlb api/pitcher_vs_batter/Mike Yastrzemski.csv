@@ -1,0 +1,146 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Mike Yastrzemski,San Francisco Giants,Caleb Ferguson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Mike Yastrzemski,San Francisco Giants,Tony Gonsolin,Los Angeles Dodgers,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+2,Mike Yastrzemski,San Francisco Giants,Evan Phillips,Los Angeles Dodgers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+3,Mike Yastrzemski,San Francisco Giants,Julio Urias,Los Angeles Dodgers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+4,Mike Yastrzemski,San Francisco Giants,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Mike Yastrzemski,San Francisco Giants,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Mike Yastrzemski,San Francisco Giants,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Mike Yastrzemski,San Francisco Giants,Bryan Hudson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Mike Yastrzemski,San Francisco Giants,Clayton Kershaw,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Mike Yastrzemski,San Francisco Giants,Dustin May,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Mike Yastrzemski,San Francisco Giants,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+11,Mike Yastrzemski,San Francisco Giants,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Mike Yastrzemski,San Francisco Giants,Tayler Scott,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Mike Yastrzemski,San Francisco Giants,Emmet Sheehan,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Mike Yastrzemski,San Francisco Giants,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Mike Yastrzemski,San Francisco Giants,Giovanny Gallegos,St. Louis Cardinals,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+16,Mike Yastrzemski,San Francisco Giants,Ryan Helsley,St. Louis Cardinals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+17,Mike Yastrzemski,San Francisco Giants,Genesis Cabrera,St. Louis Cardinals,2,1,0,0,1,2,1,0,0,.500,.667,2.000,2.667
+18,Mike Yastrzemski,San Francisco Giants,Jordan Montgomery,St. Louis Cardinals,6,3,0,0,0,1,0,0,1,.500,.500,.500,1.000
+19,Mike Yastrzemski,San Francisco Giants,Miles Mikolas,St. Louis Cardinals,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+20,Mike Yastrzemski,San Francisco Giants,Jake Woodford,St. Louis Cardinals,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+21,Mike Yastrzemski,San Francisco Giants,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+22,Mike Yastrzemski,San Francisco Giants,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Mike Yastrzemski,San Francisco Giants,Derek Law,Cincinnati Reds,2,1,1,0,0,2,0,0,1,.500,.500,1.000,1.500
+24,Mike Yastrzemski,San Francisco Giants,Andrew Abbott,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Mike Yastrzemski,San Francisco Giants,Graham Ashcraft,Cincinnati Reds,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Mike Yastrzemski,San Francisco Giants,Buck Farmer,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+27,Mike Yastrzemski,San Francisco Giants,Tony Santillan,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Mike Yastrzemski,San Francisco Giants,Lucas Sims,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Mike Yastrzemski,San Francisco Giants,Luke Weaver,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Mike Yastrzemski,San Francisco Giants,Brandon Williamson,Cincinnati Reds,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+31,Mike Yastrzemski,San Francisco Giants,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Mike Yastrzemski,San Francisco Giants,Kyle Bradish,Baltimore Orioles,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+33,Mike Yastrzemski,San Francisco Giants,Dean Kremer,Baltimore Orioles,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+34,Mike Yastrzemski,San Francisco Giants,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Mike Yastrzemski,San Francisco Giants,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Mike Yastrzemski,San Francisco Giants,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Mike Yastrzemski,San Francisco Giants,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Mike Yastrzemski,San Francisco Giants,Gregory Soto,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+39,Mike Yastrzemski,San Francisco Giants,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Mike Yastrzemski,San Francisco Giants,Taijuan Walker,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+41,Mike Yastrzemski,San Francisco Giants,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+42,Mike Yastrzemski,San Francisco Giants,Javier Assad,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+43,Mike Yastrzemski,San Francisco Giants,Marcus Stroman,Chicago Cubs,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+44,Mike Yastrzemski,San Francisco Giants,Jeremiah Estrada,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Mike Yastrzemski,San Francisco Giants,Kyle Hendricks,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Mike Yastrzemski,San Francisco Giants,Brandon Hughes,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Mike Yastrzemski,San Francisco Giants,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Mike Yastrzemski,San Francisco Giants,Hayden Wesneski,Chicago Cubs,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+49,Mike Yastrzemski,San Francisco Giants,Tim Hill,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+50,Mike Yastrzemski,San Francisco Giants,Ray Kerr,San Diego Padres,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+51,Mike Yastrzemski,San Francisco Giants,Yu Darvish,San Diego Padres,6,3,0,0,0,2,0,0,1,.500,.500,.500,1.000
+52,Mike Yastrzemski,San Francisco Giants,Luis Garcia,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+53,Mike Yastrzemski,San Francisco Giants,Michael Wacha,San Diego Padres,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+54,Mike Yastrzemski,San Francisco Giants,Brent Honeywell,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+55,Mike Yastrzemski,San Francisco Giants,Seth Lugo,San Diego Padres,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+56,Mike Yastrzemski,San Francisco Giants,Nick Martinez,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Mike Yastrzemski,San Francisco Giants,Joe Musgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+58,Mike Yastrzemski,San Francisco Giants,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Mike Yastrzemski,San Francisco Giants,Sonny Gray,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+60,Mike Yastrzemski,San Francisco Giants,Joe Ryan,Minnesota Twins,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+61,Mike Yastrzemski,San Francisco Giants,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Mike Yastrzemski,San Francisco Giants,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+63,Mike Yastrzemski,San Francisco Giants,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Mike Yastrzemski,San Francisco Giants,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Mike Yastrzemski,San Francisco Giants,MacKenzie Gore,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Mike Yastrzemski,San Francisco Giants,Josiah Gray,Washington Nationals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+67,Mike Yastrzemski,San Francisco Giants,Jake Irvin,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Mike Yastrzemski,San Francisco Giants,Joe La Sorsa,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Mike Yastrzemski,San Francisco Giants,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Mike Yastrzemski,San Francisco Giants,Devin Smeltzer,Miami Marlins,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+71,Mike Yastrzemski,San Francisco Giants,Edward Cabrera,Miami Marlins,2,1,0,0,1,2,1,0,0,.500,.667,2.000,2.667
+72,Mike Yastrzemski,San Francisco Giants,Sandy Alcantara,Miami Marlins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+73,Mike Yastrzemski,San Francisco Giants,Dylan Floro,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Mike Yastrzemski,San Francisco Giants,Bryan Hoeing,Miami Marlins,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+75,Mike Yastrzemski,San Francisco Giants,Jesus Luzardo,Miami Marlins,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+76,Mike Yastrzemski,San Francisco Giants,Andrew Nardi,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Mike Yastrzemski,San Francisco Giants,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Mike Yastrzemski,San Francisco Giants,Trevor Rogers,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Mike Yastrzemski,San Francisco Giants,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Mike Yastrzemski,San Francisco Giants,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Mike Yastrzemski,San Francisco Giants,Drew Smith,New York Mets,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+82,Mike Yastrzemski,San Francisco Giants,Kodai Senga,New York Mets,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+83,Mike Yastrzemski,San Francisco Giants,Tylor Megill,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+84,Mike Yastrzemski,San Francisco Giants,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Mike Yastrzemski,San Francisco Giants,Joey Lucchesi,New York Mets,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+86,Mike Yastrzemski,San Francisco Giants,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Mike Yastrzemski,San Francisco Giants,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Mike Yastrzemski,San Francisco Giants,Kyle Freeland,Colorado Rockies,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+89,Mike Yastrzemski,San Francisco Giants,Pierce Johnson,Colorado Rockies,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+90,Mike Yastrzemski,San Francisco Giants,Peter Lambert,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+91,Mike Yastrzemski,San Francisco Giants,Dinelson Lamet,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Mike Yastrzemski,San Francisco Giants,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Mike Yastrzemski,San Francisco Giants,Connor Seabold,Colorado Rockies,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+94,Mike Yastrzemski,San Francisco Giants,Clay Holmes,New York Yankees,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+95,Mike Yastrzemski,San Francisco Giants,Jhony Brito,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+96,Mike Yastrzemski,San Francisco Giants,Clarke Schmidt,New York Yankees,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+97,Mike Yastrzemski,San Francisco Giants,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Mike Yastrzemski,San Francisco Giants,Colten Brewer,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Mike Yastrzemski,San Francisco Giants,Gerrit Cole,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+100,Mike Yastrzemski,San Francisco Giants,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Mike Yastrzemski,San Francisco Giants,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Mike Yastrzemski,San Francisco Giants,Paul Sewald,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+103,Mike Yastrzemski,San Francisco Giants,Logan Gilbert,Seattle Mariners,4,1,1,0,0,0,0,0,1,.250,.250,.500,.750
+104,Mike Yastrzemski,San Francisco Giants,Matt Festa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Mike Yastrzemski,San Francisco Giants,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Mike Yastrzemski,San Francisco Giants,Bryan Woo,Seattle Mariners,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+107,Mike Yastrzemski,San Francisco Giants,Mitch Keller,Pittsburgh Pirates,3,1,0,1,0,0,0,0,2,.333,.333,1.000,1.333
+108,Mike Yastrzemski,San Francisco Giants,Johan Oviedo,Pittsburgh Pirates,4,1,0,0,1,1,2,0,2,.250,.500,1.000,1.500
+109,Mike Yastrzemski,San Francisco Giants,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Mike Yastrzemski,San Francisco Giants,Osvaldo Bido,Pittsburgh Pirates,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+111,Mike Yastrzemski,San Francisco Giants,Cody Bolton,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,Mike Yastrzemski,San Francisco Giants,Ryan Borucki,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Mike Yastrzemski,San Francisco Giants,Yerry De Los Santos,Pittsburgh Pirates,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+114,Mike Yastrzemski,San Francisco Giants,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Mike Yastrzemski,San Francisco Giants,Colin Holderman,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+116,Mike Yastrzemski,San Francisco Giants,Michael Kopech,Chicago White Sox,2,2,1,0,1,2,1,0,0,1.000,1.000,3.000,4.000
+117,Mike Yastrzemski,San Francisco Giants,Lance Lynn,Chicago White Sox,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+118,Mike Yastrzemski,San Francisco Giants,Hanser Alberto,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Mike Yastrzemski,San Francisco Giants,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+120,Mike Yastrzemski,San Francisco Giants,Jake Diekman,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Mike Yastrzemski,San Francisco Giants,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Mike Yastrzemski,San Francisco Giants,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Mike Yastrzemski,San Francisco Giants,Jose Ruiz,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+124,Mike Yastrzemski,San Francisco Giants,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Mike Yastrzemski,San Francisco Giants,Elvis Peguero,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+126,Mike Yastrzemski,San Francisco Giants,Tyson Miller,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+127,Mike Yastrzemski,San Francisco Giants,Freddy Peralta,Milwaukee Brewers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+128,Mike Yastrzemski,San Francisco Giants,Colin Rea,Milwaukee Brewers,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+129,Mike Yastrzemski,San Francisco Giants,Ethan Small,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+130,Mike Yastrzemski,San Francisco Giants,Corbin Burnes,Milwaukee Brewers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+131,Mike Yastrzemski,San Francisco Giants,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Mike Yastrzemski,San Francisco Giants,Peter Strzelecki,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Mike Yastrzemski,San Francisco Giants,Julio Teheran,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Mike Yastrzemski,San Francisco Giants,Taylor Clarke,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+135,Mike Yastrzemski,San Francisco Giants,Brad Keller,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+136,Mike Yastrzemski,San Francisco Giants,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Mike Yastrzemski,San Francisco Giants,Brady Singer,Kansas City Royals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+138,Mike Yastrzemski,San Francisco Giants,Ryan Yarbrough,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Mike Yastrzemski,San Francisco Giants,Garrett Hill,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+140,Mike Yastrzemski,San Francisco Giants,Michael Lorenzen,Detroit Tigers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+141,Mike Yastrzemski,San Francisco Giants,Joey Wentz,Detroit Tigers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+142,Mike Yastrzemski,San Francisco Giants,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Mike Yastrzemski,San Francisco Giants,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Mike Yastrzemski,San Francisco Giants,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

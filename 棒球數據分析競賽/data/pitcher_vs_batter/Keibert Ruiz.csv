@@ -1,0 +1,178 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Keibert Ruiz,Washington Nationals,Max Fried,Atlanta Braves,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+1,Keibert Ruiz,Washington Nationals,Lucas Luetge,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Keibert Ruiz,Washington Nationals,Kirby Yates,Atlanta Braves,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+3,Keibert Ruiz,Washington Nationals,Bryce Elder,Atlanta Braves,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+4,Keibert Ruiz,Washington Nationals,Spencer Strider,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+5,Keibert Ruiz,Washington Nationals,Jesse Chavez,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Keibert Ruiz,Washington Nationals,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Keibert Ruiz,Washington Nationals,Collin McHugh,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Keibert Ruiz,Washington Nationals,Jared Shuster,Atlanta Braves,1,0,0,0,0,1,2,0,0,.000,.667,.000,.667
+9,Keibert Ruiz,Washington Nationals,AJ Smith-Shawver,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+10,Keibert Ruiz,Washington Nationals,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Keibert Ruiz,Washington Nationals,Dane Dunning,Texas Rangers,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+12,Keibert Ruiz,Washington Nationals,Grant Anderson,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Keibert Ruiz,Washington Nationals,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Keibert Ruiz,Washington Nationals,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Keibert Ruiz,Washington Nationals,Phil Bickford,Los Angeles Dodgers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+16,Keibert Ruiz,Washington Nationals,Caleb Ferguson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+17,Keibert Ruiz,Washington Nationals,Alex Vesia,Los Angeles Dodgers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+18,Keibert Ruiz,Washington Nationals,Noah Syndergaard,Los Angeles Dodgers,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+19,Keibert Ruiz,Washington Nationals,Tony Gonsolin,Los Angeles Dodgers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+20,Keibert Ruiz,Washington Nationals,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Keibert Ruiz,Washington Nationals,Brusdar Graterol,Los Angeles Dodgers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+22,Keibert Ruiz,Washington Nationals,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Keibert Ruiz,Washington Nationals,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Keibert Ruiz,Washington Nationals,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Keibert Ruiz,Washington Nationals,Griffin Canning,Los Angeles Angels,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Keibert Ruiz,Washington Nationals,Tucker Davidson,Los Angeles Angels,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+27,Keibert Ruiz,Washington Nationals,Carlos Estevez,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+28,Keibert Ruiz,Washington Nationals,Matt Moore,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Keibert Ruiz,Washington Nationals,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+30,Keibert Ruiz,Washington Nationals,Jose Quijada,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Keibert Ruiz,Washington Nationals,Jose Suarez,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Keibert Ruiz,Washington Nationals,Shane McClanahan,Tampa Bay Rays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+33,Keibert Ruiz,Washington Nationals,Garrett Cleavinger,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Keibert Ruiz,Washington Nationals,Calvin Faucher,Tampa Bay Rays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+35,Keibert Ruiz,Washington Nationals,Drew Rasmussen,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+36,Keibert Ruiz,Washington Nationals,Giovanny Gallegos,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+37,Keibert Ruiz,Washington Nationals,Jack Flaherty,St. Louis Cardinals,5,1,0,0,1,1,1,0,1,.200,.333,.800,1.133
+38,Keibert Ruiz,Washington Nationals,Miles Mikolas,St. Louis Cardinals,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Keibert Ruiz,Washington Nationals,Andre Pallante,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Keibert Ruiz,Washington Nationals,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+41,Keibert Ruiz,Washington Nationals,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Keibert Ruiz,Washington Nationals,Miguel Castro,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+43,Keibert Ruiz,Washington Nationals,Joe Mantiply,Arizona Diamondbacks,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+44,Keibert Ruiz,Washington Nationals,Scott McGough,Arizona Diamondbacks,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+45,Keibert Ruiz,Washington Nationals,Tommy Henry,Arizona Diamondbacks,8,4,2,0,0,2,0,0,0,.500,.500,.750,1.250
+46,Keibert Ruiz,Washington Nationals,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Keibert Ruiz,Washington Nationals,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+48,Keibert Ruiz,Washington Nationals,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+49,Keibert Ruiz,Washington Nationals,Ryne Nelson,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Keibert Ruiz,Washington Nationals,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Keibert Ruiz,Washington Nationals,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Keibert Ruiz,Washington Nationals,Alex Young,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+53,Keibert Ruiz,Washington Nationals,Ian Gibaut,Cincinnati Reds,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+54,Keibert Ruiz,Washington Nationals,Graham Ashcraft,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Keibert Ruiz,Washington Nationals,Alexis Diaz,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Keibert Ruiz,Washington Nationals,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Keibert Ruiz,Washington Nationals,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Keibert Ruiz,Washington Nationals,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Keibert Ruiz,Washington Nationals,Brandon Williamson,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Keibert Ruiz,Washington Nationals,Mike Baumann,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+61,Keibert Ruiz,Washington Nationals,Kyle Bradish,Baltimore Orioles,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+62,Keibert Ruiz,Washington Nationals,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Keibert Ruiz,Washington Nationals,Dean Kremer,Baltimore Orioles,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Keibert Ruiz,Washington Nationals,Dylan Covey,Philadelphia Phillies,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+65,Keibert Ruiz,Washington Nationals,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Keibert Ruiz,Washington Nationals,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Keibert Ruiz,Washington Nationals,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Keibert Ruiz,Washington Nationals,Cristopher Sanchez,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Keibert Ruiz,Washington Nationals,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Keibert Ruiz,Washington Nationals,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Keibert Ruiz,Washington Nationals,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Keibert Ruiz,Washington Nationals,Zack Wheeler,Philadelphia Phillies,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+73,Keibert Ruiz,Washington Nationals,Adbert Alzolay,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+74,Keibert Ruiz,Washington Nationals,Daniel Palencia,Chicago Cubs,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+75,Keibert Ruiz,Washington Nationals,Jameson Taillon,Chicago Cubs,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+76,Keibert Ruiz,Washington Nationals,Drew Smyly,Chicago Cubs,5,2,1,0,0,0,1,0,0,.400,.500,.600,1.100
+77,Keibert Ruiz,Washington Nationals,Kyle Hendricks,Chicago Cubs,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+78,Keibert Ruiz,Washington Nationals,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Keibert Ruiz,Washington Nationals,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Keibert Ruiz,Washington Nationals,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Keibert Ruiz,Washington Nationals,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Keibert Ruiz,Washington Nationals,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Keibert Ruiz,Washington Nationals,Hayden Wesneski,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Keibert Ruiz,Washington Nationals,Nick Martinez,San Diego Padres,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+85,Keibert Ruiz,Washington Nationals,Ryan Weathers,San Diego Padres,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+86,Keibert Ruiz,Washington Nationals,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Keibert Ruiz,Washington Nationals,Yu Darvish,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Keibert Ruiz,Washington Nationals,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Keibert Ruiz,Washington Nationals,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Keibert Ruiz,Washington Nationals,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Keibert Ruiz,Washington Nationals,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Keibert Ruiz,Washington Nationals,Ray Kerr,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Keibert Ruiz,Washington Nationals,Seth Lugo,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Keibert Ruiz,Washington Nationals,Adrian Morejon,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Keibert Ruiz,Washington Nationals,Joe Musgrove,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Keibert Ruiz,Washington Nationals,Matt Waldron,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Keibert Ruiz,Washington Nationals,Cristian Javier,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+98,Keibert Ruiz,Washington Nationals,Phil Maton,Houston Astros,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+99,Keibert Ruiz,Washington Nationals,Ryan Pressly,Houston Astros,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+100,Keibert Ruiz,Washington Nationals,Framber Valdez,Houston Astros,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+101,Keibert Ruiz,Washington Nationals,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Keibert Ruiz,Washington Nationals,Hunter Brown,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Keibert Ruiz,Washington Nationals,Griffin Jax,Minnesota Twins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+104,Keibert Ruiz,Washington Nationals,Bailey Ober,Minnesota Twins,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+105,Keibert Ruiz,Washington Nationals,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Keibert Ruiz,Washington Nationals,Tyler Mahle,Minnesota Twins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Keibert Ruiz,Washington Nationals,Caleb Thielbar,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Keibert Ruiz,Washington Nationals,Andrew Nardi,Miami Marlins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+109,Keibert Ruiz,Washington Nationals,Jesus Luzardo,Miami Marlins,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+110,Keibert Ruiz,Washington Nationals,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Keibert Ruiz,Washington Nationals,Matt Barnes,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Keibert Ruiz,Washington Nationals,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Keibert Ruiz,Washington Nationals,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Keibert Ruiz,Washington Nationals,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Keibert Ruiz,Washington Nationals,Eury Perez,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+116,Keibert Ruiz,Washington Nationals,Tanner Scott,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Keibert Ruiz,Washington Nationals,Sean Manaea,San Francisco Giants,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+118,Keibert Ruiz,Washington Nationals,Alex Wood,San Francisco Giants,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+119,Keibert Ruiz,Washington Nationals,Logan Webb,San Francisco Giants,3,1,0,0,0,0,2,0,0,.333,.600,.333,.933
+120,Keibert Ruiz,Washington Nationals,Anthony DeSclafani,San Francisco Giants,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+121,Keibert Ruiz,Washington Nationals,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Keibert Ruiz,Washington Nationals,Mauricio Llovera,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Keibert Ruiz,Washington Nationals,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Keibert Ruiz,Washington Nationals,Jeff Brigham,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+125,Keibert Ruiz,Washington Nationals,Jimmy Yacabonis,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+126,Keibert Ruiz,Washington Nationals,Jose Butto,New York Mets,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+127,Keibert Ruiz,Washington Nationals,Joey Lucchesi,New York Mets,4,2,1,0,0,0,0,0,0,.500,.500,.750,1.250
+128,Keibert Ruiz,Washington Nationals,Stephen Nogosek,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+129,Keibert Ruiz,Washington Nationals,Tommy Hunter,New York Mets,3,1,0,0,0,0,0,0,0,.333,.500,.333,.833
+130,Keibert Ruiz,Washington Nationals,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Keibert Ruiz,Washington Nationals,Tylor Megill,New York Mets,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+132,Keibert Ruiz,Washington Nationals,David Peterson,New York Mets,1,0,0,0,0,1,0,0,0,.000,.333,.000,.333
+133,Keibert Ruiz,Washington Nationals,David Robertson,New York Mets,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Keibert Ruiz,Washington Nationals,Kodai Senga,New York Mets,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+135,Keibert Ruiz,Washington Nationals,Jake Bird,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+136,Keibert Ruiz,Washington Nationals,Ty Blach,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Keibert Ruiz,Washington Nationals,Ryan Feltner,Colorado Rockies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Keibert Ruiz,Washington Nationals,Kyle Freeland,Colorado Rockies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Keibert Ruiz,Washington Nationals,Brad Hand,Colorado Rockies,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+140,Keibert Ruiz,Washington Nationals,Pierce Johnson,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Keibert Ruiz,Washington Nationals,Dinelson Lamet,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Keibert Ruiz,Washington Nationals,Jose Urena,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Keibert Ruiz,Washington Nationals,Logan Gilbert,Seattle Mariners,2,2,0,0,0,2,1,0,0,1.000,1.000,1.000,2.000
+144,Keibert Ruiz,Washington Nationals,Tayler Saucedo,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+145,Keibert Ruiz,Washington Nationals,Paul Sewald,Seattle Mariners,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+146,Keibert Ruiz,Washington Nationals,Bryan Woo,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+147,Keibert Ruiz,Washington Nationals,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Keibert Ruiz,Washington Nationals,Luis Castillo,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Keibert Ruiz,Washington Nationals,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Keibert Ruiz,Washington Nationals,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Keibert Ruiz,Washington Nationals,James Karinchak,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+152,Keibert Ruiz,Washington Nationals,Zach Plesac,Cleveland Guardians,2,2,1,0,0,2,0,0,0,1.000,1.000,1.500,2.500
+153,Keibert Ruiz,Washington Nationals,Cal Quantrill,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+154,Keibert Ruiz,Washington Nationals,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Keibert Ruiz,Washington Nationals,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Keibert Ruiz,Washington Nationals,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Keibert Ruiz,Washington Nationals,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Keibert Ruiz,Washington Nationals,Dauri Moreta,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+159,Keibert Ruiz,Washington Nationals,Johan Oviedo,Pittsburgh Pirates,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+160,Keibert Ruiz,Washington Nationals,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Keibert Ruiz,Washington Nationals,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Keibert Ruiz,Washington Nationals,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Keibert Ruiz,Washington Nationals,Vince Velasquez,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Keibert Ruiz,Washington Nationals,Josh Taylor,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+165,Keibert Ruiz,Washington Nationals,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+166,Keibert Ruiz,Washington Nationals,Amir Garrett,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+167,Keibert Ruiz,Washington Nationals,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Keibert Ruiz,Washington Nationals,Jordan Lyles,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,Keibert Ruiz,Washington Nationals,Brady Singer,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+170,Keibert Ruiz,Washington Nationals,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Keibert Ruiz,Washington Nationals,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+172,Keibert Ruiz,Washington Nationals,Matthew Boyd,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+173,Keibert Ruiz,Washington Nationals,Mason Englert,Detroit Tigers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+174,Keibert Ruiz,Washington Nationals,Tyler Holton,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+175,Keibert Ruiz,Washington Nationals,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Keibert Ruiz,Washington Nationals,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

@@ -1,0 +1,147 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Luke Raley,Tampa Bay Rays,Spencer Strider,Atlanta Braves,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+1,Luke Raley,Tampa Bay Rays,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Luke Raley,Tampa Bay Rays,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Luke Raley,Tampa Bay Rays,Ben Heller,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Luke Raley,Tampa Bay Rays,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Luke Raley,Tampa Bay Rays,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Luke Raley,Tampa Bay Rays,Dane Dunning,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+7,Luke Raley,Tampa Bay Rays,Nathan Eovaldi,Texas Rangers,6,2,1,0,0,1,0,0,2,.333,.333,.500,.833
+8,Luke Raley,Tampa Bay Rays,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Luke Raley,Tampa Bay Rays,Jon Gray,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+10,Luke Raley,Tampa Bay Rays,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Luke Raley,Tampa Bay Rays,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Luke Raley,Tampa Bay Rays,Victor Gonzalez,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Luke Raley,Tampa Bay Rays,Gavin Stone,Los Angeles Dodgers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+14,Luke Raley,Tampa Bay Rays,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+15,Luke Raley,Tampa Bay Rays,Noah Syndergaard,Los Angeles Dodgers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+16,Luke Raley,Tampa Bay Rays,Tanner Houck,Boston Red Sox,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+17,Luke Raley,Tampa Bay Rays,Nick Pivetta,Boston Red Sox,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+18,Luke Raley,Tampa Bay Rays,Brayan Bello,Boston Red Sox,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+19,Luke Raley,Tampa Bay Rays,Corey Kluber,Boston Red Sox,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+20,Luke Raley,Tampa Bay Rays,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Luke Raley,Tampa Bay Rays,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Luke Raley,Tampa Bay Rays,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Luke Raley,Tampa Bay Rays,Garrett Whitlock,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Luke Raley,Tampa Bay Rays,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Luke Raley,Tampa Bay Rays,Drey Jameson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Luke Raley,Tampa Bay Rays,Scott McGough,Arizona Diamondbacks,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+27,Luke Raley,Tampa Bay Rays,Brandon Pfaadt,Arizona Diamondbacks,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+28,Luke Raley,Tampa Bay Rays,Zach Davies,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Luke Raley,Tampa Bay Rays,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+30,Luke Raley,Tampa Bay Rays,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Luke Raley,Tampa Bay Rays,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Luke Raley,Tampa Bay Rays,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Luke Raley,Tampa Bay Rays,Casey Legumina,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Luke Raley,Tampa Bay Rays,Luke Maile,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Luke Raley,Tampa Bay Rays,Lucas Sims,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+36,Luke Raley,Tampa Bay Rays,Levi Stoudt,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Luke Raley,Tampa Bay Rays,Jason Vosler,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Luke Raley,Tampa Bay Rays,Jose Berrios,Toronto Blue Jays,5,2,1,0,0,1,0,0,1,.400,.400,.600,1.000
+39,Luke Raley,Tampa Bay Rays,Chris Bassitt,Toronto Blue Jays,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+40,Luke Raley,Tampa Bay Rays,Yusei Kikuchi,Toronto Blue Jays,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+41,Luke Raley,Tampa Bay Rays,Alek Manoah,Toronto Blue Jays,3,1,0,0,0,0,2,0,2,.333,.600,.333,.933
+42,Luke Raley,Tampa Bay Rays,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Luke Raley,Tampa Bay Rays,Yimi Garcia,Toronto Blue Jays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+44,Luke Raley,Tampa Bay Rays,Tim Mayza,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Luke Raley,Tampa Bay Rays,Trevor Richards,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+46,Luke Raley,Tampa Bay Rays,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Luke Raley,Tampa Bay Rays,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Luke Raley,Tampa Bay Rays,Keegan Akin,Baltimore Orioles,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+49,Luke Raley,Tampa Bay Rays,Kyle Bradish,Baltimore Orioles,6,2,0,0,0,0,0,0,2,.333,.333,.333,.666
+50,Luke Raley,Tampa Bay Rays,Yennier Cano,Baltimore Orioles,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+51,Luke Raley,Tampa Bay Rays,Dean Kremer,Baltimore Orioles,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+52,Luke Raley,Tampa Bay Rays,Kyle Gibson,Baltimore Orioles,4,1,0,0,0,0,2,0,2,.250,.500,.250,.750
+53,Luke Raley,Tampa Bay Rays,Grayson Rodriguez,Baltimore Orioles,4,1,0,0,0,0,1,0,2,.250,.400,.250,.650
+54,Luke Raley,Tampa Bay Rays,Felix Bautista,Baltimore Orioles,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+55,Luke Raley,Tampa Bay Rays,Danny Coulombe,Baltimore Orioles,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Luke Raley,Tampa Bay Rays,Taijuan Walker,Philadelphia Phillies,2,1,0,0,1,1,1,0,1,.500,.667,2.000,2.667
+57,Luke Raley,Tampa Bay Rays,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+58,Luke Raley,Tampa Bay Rays,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Luke Raley,Tampa Bay Rays,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Luke Raley,Tampa Bay Rays,Kyle Hendricks,Chicago Cubs,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+61,Luke Raley,Tampa Bay Rays,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Luke Raley,Tampa Bay Rays,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+63,Luke Raley,Tampa Bay Rays,Luis Garcia,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Luke Raley,Tampa Bay Rays,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Luke Raley,Tampa Bay Rays,Yu Darvish,San Diego Padres,3,2,2,0,0,0,0,0,1,.667,.667,1.333,2.000
+66,Luke Raley,Tampa Bay Rays,Joe Musgrove,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+67,Luke Raley,Tampa Bay Rays,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Luke Raley,Tampa Bay Rays,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Luke Raley,Tampa Bay Rays,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Luke Raley,Tampa Bay Rays,Louie Varland,Minnesota Twins,2,2,0,1,1,2,1,0,0,1.000,1.000,3.500,4.500
+71,Luke Raley,Tampa Bay Rays,Bailey Ober,Minnesota Twins,2,1,0,1,0,1,0,0,1,.500,.500,1.500,2.000
+72,Luke Raley,Tampa Bay Rays,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Luke Raley,Tampa Bay Rays,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Luke Raley,Tampa Bay Rays,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Luke Raley,Tampa Bay Rays,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Luke Raley,Tampa Bay Rays,Tylor Megill,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Luke Raley,Tampa Bay Rays,Adam Ottavino,New York Mets,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+78,Luke Raley,Tampa Bay Rays,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Luke Raley,Tampa Bay Rays,Kodai Senga,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+80,Luke Raley,Tampa Bay Rays,Kyle Finnegan,Washington Nationals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+81,Luke Raley,Tampa Bay Rays,Mason Thompson,Washington Nationals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+82,Luke Raley,Tampa Bay Rays,Trevor Williams,Washington Nationals,2,1,0,0,1,2,1,0,0,.500,.667,2.000,2.667
+83,Luke Raley,Tampa Bay Rays,Chad Kuhl,Washington Nationals,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+84,Luke Raley,Tampa Bay Rays,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Luke Raley,Tampa Bay Rays,Ian Hamilton,New York Yankees,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+86,Luke Raley,Tampa Bay Rays,Clay Holmes,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+87,Luke Raley,Tampa Bay Rays,Ron Marinaccio,New York Yankees,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+88,Luke Raley,Tampa Bay Rays,Ryan Weber,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+89,Luke Raley,Tampa Bay Rays,Albert Abreu,New York Yankees,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+90,Luke Raley,Tampa Bay Rays,Domingo German,New York Yankees,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+91,Luke Raley,Tampa Bay Rays,Clarke Schmidt,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+92,Luke Raley,Tampa Bay Rays,Matt Brash,Seattle Mariners,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+93,Luke Raley,Tampa Bay Rays,Andres Munoz,Seattle Mariners,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+94,Luke Raley,Tampa Bay Rays,Luis Castillo,Seattle Mariners,3,1,1,0,0,2,0,0,2,.333,.333,.667,1.000
+95,Luke Raley,Tampa Bay Rays,George Kirby,Seattle Mariners,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+96,Luke Raley,Tampa Bay Rays,Mike Ford,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Luke Raley,Tampa Bay Rays,Bryce Miller,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+98,Luke Raley,Tampa Bay Rays,Tayler Saucedo,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+99,Luke Raley,Tampa Bay Rays,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Luke Raley,Tampa Bay Rays,Cody Bolton,Pittsburgh Pirates,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+101,Luke Raley,Tampa Bay Rays,Jose Hernandez,Pittsburgh Pirates,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+102,Luke Raley,Tampa Bay Rays,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Luke Raley,Tampa Bay Rays,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Luke Raley,Tampa Bay Rays,Vince Velasquez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Luke Raley,Tampa Bay Rays,Jake Diekman,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+106,Luke Raley,Tampa Bay Rays,Joe Kelly,Chicago White Sox,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+107,Luke Raley,Tampa Bay Rays,Reynaldo Lopez,Chicago White Sox,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+108,Luke Raley,Tampa Bay Rays,Dylan Cease,Chicago White Sox,2,1,1,0,0,2,0,0,1,.500,.500,1.000,1.500
+109,Luke Raley,Tampa Bay Rays,Mike Clevinger,Chicago White Sox,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+110,Luke Raley,Tampa Bay Rays,Lucas Giolito,Chicago White Sox,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+111,Luke Raley,Tampa Bay Rays,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Luke Raley,Tampa Bay Rays,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+113,Luke Raley,Tampa Bay Rays,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Luke Raley,Tampa Bay Rays,Lance Lynn,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Luke Raley,Tampa Bay Rays,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+116,Luke Raley,Tampa Bay Rays,Adrian Houser,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Luke Raley,Tampa Bay Rays,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Luke Raley,Tampa Bay Rays,Peter Strzelecki,Milwaukee Brewers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+119,Luke Raley,Tampa Bay Rays,Jason Foley,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+120,Luke Raley,Tampa Bay Rays,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Luke Raley,Tampa Bay Rays,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Luke Raley,Tampa Bay Rays,Garrett Hill,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Luke Raley,Tampa Bay Rays,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Luke Raley,Tampa Bay Rays,Spencer Turnbull,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+125,Luke Raley,Tampa Bay Rays,Trey Wingenter,Detroit Tigers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+126,Luke Raley,Tampa Bay Rays,Carlos Hernandez,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+127,Luke Raley,Tampa Bay Rays,Collin Snider,Kansas City Royals,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+128,Luke Raley,Tampa Bay Rays,Scott Barlow,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+129,Luke Raley,Tampa Bay Rays,Cole Ragans,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+130,Luke Raley,Tampa Bay Rays,Brady Singer,Kansas City Royals,2,1,1,0,0,0,0,0,0,.500,.667,1.000,1.667
+131,Luke Raley,Tampa Bay Rays,Jordan Lyles,Kansas City Royals,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+132,Luke Raley,Tampa Bay Rays,Alec Marsh,Kansas City Royals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+133,Luke Raley,Tampa Bay Rays,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Luke Raley,Tampa Bay Rays,Austin Cox,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+135,Luke Raley,Tampa Bay Rays,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+136,Luke Raley,Tampa Bay Rays,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Luke Raley,Tampa Bay Rays,Austin Pruitt,Oakland Athletics,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+138,Luke Raley,Tampa Bay Rays,James Kaprielian,Oakland Athletics,4,2,0,0,0,0,1,0,1,.500,.667,.500,1.167
+139,Luke Raley,Tampa Bay Rays,Paul Blackburn,Oakland Athletics,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+140,Luke Raley,Tampa Bay Rays,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Luke Raley,Tampa Bay Rays,Shintaro Fujinami,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Luke Raley,Tampa Bay Rays,Adrian Martinez,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Luke Raley,Tampa Bay Rays,Trevor May,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+144,Luke Raley,Tampa Bay Rays,Luis Medina,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+145,Luke Raley,Tampa Bay Rays,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

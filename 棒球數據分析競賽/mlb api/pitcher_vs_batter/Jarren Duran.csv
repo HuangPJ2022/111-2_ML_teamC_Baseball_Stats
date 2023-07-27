@@ -1,0 +1,156 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jarren Duran,Boston Red Sox,Raisel Iglesias,Atlanta Braves,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+1,Jarren Duran,Boston Red Sox,Collin McHugh,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+2,Jarren Duran,Boston Red Sox,Charlie Morton,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+3,Jarren Duran,Boston Red Sox,Dylan Lee,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Jarren Duran,Boston Red Sox,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+5,Jarren Duran,Boston Red Sox,Dane Dunning,Texas Rangers,3,2,1,1,0,0,0,0,0,.667,.667,1.667,2.334
+6,Jarren Duran,Boston Red Sox,Jon Gray,Texas Rangers,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+7,Jarren Duran,Boston Red Sox,Tucker Davidson,Los Angeles Angels,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+8,Jarren Duran,Boston Red Sox,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+9,Jarren Duran,Boston Red Sox,Jaime Barria,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+10,Jarren Duran,Boston Red Sox,Griffin Canning,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Jarren Duran,Boston Red Sox,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Jarren Duran,Boston Red Sox,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Jarren Duran,Boston Red Sox,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Jarren Duran,Boston Red Sox,Matt Moore,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Jarren Duran,Boston Red Sox,Reyes Moronta,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Jarren Duran,Boston Red Sox,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Jarren Duran,Boston Red Sox,Cooper Criswell,Tampa Bay Rays,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+18,Jarren Duran,Boston Red Sox,Taj Bradley,Tampa Bay Rays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+19,Jarren Duran,Boston Red Sox,Jason Adam,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Jarren Duran,Boston Red Sox,Shawn Armstrong,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+21,Jarren Duran,Boston Red Sox,Calvin Faucher,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Jarren Duran,Boston Red Sox,Tyler Glasnow,Tampa Bay Rays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+23,Jarren Duran,Boston Red Sox,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Jarren Duran,Boston Red Sox,Adam Wainwright,St. Louis Cardinals,1,1,0,0,0,2,1,0,0,1.000,1.000,1.000,2.000
+25,Jarren Duran,Boston Red Sox,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Jarren Duran,Boston Red Sox,Jordan Hicks,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+27,Jarren Duran,Boston Red Sox,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Jarren Duran,Boston Red Sox,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Jarren Duran,Boston Red Sox,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Jarren Duran,Boston Red Sox,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Jarren Duran,Boston Red Sox,Tommy Henry,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+32,Jarren Duran,Boston Red Sox,Zach Davies,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+33,Jarren Duran,Boston Red Sox,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+34,Jarren Duran,Boston Red Sox,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Jarren Duran,Boston Red Sox,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Jarren Duran,Boston Red Sox,Lucas Sims,Cincinnati Reds,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+37,Jarren Duran,Boston Red Sox,Ben Lively,Cincinnati Reds,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+38,Jarren Duran,Boston Red Sox,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+39,Jarren Duran,Boston Red Sox,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Jarren Duran,Boston Red Sox,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Jarren Duran,Boston Red Sox,Hunter Greene,Cincinnati Reds,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+42,Jarren Duran,Boston Red Sox,Kevin Herget,Cincinnati Reds,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+43,Jarren Duran,Boston Red Sox,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Jarren Duran,Boston Red Sox,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Jarren Duran,Boston Red Sox,Alek Manoah,Toronto Blue Jays,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+46,Jarren Duran,Boston Red Sox,Tim Mayza,Toronto Blue Jays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+47,Jarren Duran,Boston Red Sox,Trevor Richards,Toronto Blue Jays,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+48,Jarren Duran,Boston Red Sox,Kevin Gausman,Toronto Blue Jays,5,4,3,0,0,0,0,0,1,.800,.800,1.400,2.200
+49,Jarren Duran,Boston Red Sox,Erik Swanson,Toronto Blue Jays,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+50,Jarren Duran,Boston Red Sox,Jose Berrios,Toronto Blue Jays,6,3,0,0,2,3,0,0,2,.500,.500,1.500,2.000
+51,Jarren Duran,Boston Red Sox,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Jarren Duran,Boston Red Sox,Nate Pearson,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Jarren Duran,Boston Red Sox,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Jarren Duran,Boston Red Sox,Trent Thornton,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Jarren Duran,Boston Red Sox,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Jarren Duran,Boston Red Sox,Kyle Bradish,Baltimore Orioles,2,2,1,0,1,4,0,0,0,1.000,1.000,3.000,4.000
+57,Jarren Duran,Boston Red Sox,Danny Coulombe,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+58,Jarren Duran,Boston Red Sox,Austin Voth,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+59,Jarren Duran,Boston Red Sox,Tyler Wells,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+60,Jarren Duran,Boston Red Sox,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Jarren Duran,Boston Red Sox,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Jarren Duran,Boston Red Sox,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Jarren Duran,Boston Red Sox,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Jarren Duran,Boston Red Sox,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Jarren Duran,Boston Red Sox,Zack Wheeler,Philadelphia Phillies,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+66,Jarren Duran,Boston Red Sox,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Jarren Duran,Boston Red Sox,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Jarren Duran,Boston Red Sox,Seranthony Dominguez,Philadelphia Phillies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+69,Jarren Duran,Boston Red Sox,Bailey Falter,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Jarren Duran,Boston Red Sox,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Jarren Duran,Boston Red Sox,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Jarren Duran,Boston Red Sox,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Jarren Duran,Boston Red Sox,Javier Assad,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+74,Jarren Duran,Boston Red Sox,Kyle Hendricks,Chicago Cubs,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+75,Jarren Duran,Boston Red Sox,Tucker Barnhart,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Jarren Duran,Boston Red Sox,Michael Fulmer,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+77,Jarren Duran,Boston Red Sox,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Jarren Duran,Boston Red Sox,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+79,Jarren Duran,Boston Red Sox,Tom Cosgrove,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+80,Jarren Duran,Boston Red Sox,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Jarren Duran,Boston Red Sox,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Jarren Duran,Boston Red Sox,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Jarren Duran,Boston Red Sox,Joe Musgrove,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Jarren Duran,Boston Red Sox,Blake Snell,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Jarren Duran,Boston Red Sox,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Jarren Duran,Boston Red Sox,Pablo Lopez,Minnesota Twins,3,3,3,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+87,Jarren Duran,Boston Red Sox,Jovani Moran,Minnesota Twins,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+88,Jarren Duran,Boston Red Sox,Emilio Pagan,Minnesota Twins,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+89,Jarren Duran,Boston Red Sox,Sonny Gray,Minnesota Twins,5,1,1,0,0,0,0,0,2,.200,.200,.400,.600
+90,Jarren Duran,Boston Red Sox,Joe Ryan,Minnesota Twins,6,1,1,0,0,0,0,0,3,.167,.167,.333,.500
+91,Jarren Duran,Boston Red Sox,Jorge Alcala,Minnesota Twins,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+92,Jarren Duran,Boston Red Sox,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Jarren Duran,Boston Red Sox,Brent Headrick,Minnesota Twins,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+94,Jarren Duran,Boston Red Sox,Griffin Jax,Minnesota Twins,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+95,Jarren Duran,Boston Red Sox,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Jarren Duran,Boston Red Sox,Kenta Maeda,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Jarren Duran,Boston Red Sox,Huascar Brazoban,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+98,Jarren Duran,Boston Red Sox,Dylan Floro,Miami Marlins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+99,Jarren Duran,Boston Red Sox,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+100,Jarren Duran,Boston Red Sox,Archie Bradley,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Jarren Duran,Boston Red Sox,Dominic Leone,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+102,Jarren Duran,Boston Red Sox,Kodai Senga,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+103,Jarren Duran,Boston Red Sox,Max Scherzer,New York Mets,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+104,Jarren Duran,Boston Red Sox,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Jarren Duran,Boston Red Sox,Peter Lambert,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+106,Jarren Duran,Boston Red Sox,Connor Seabold,Colorado Rockies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+107,Jarren Duran,Boston Red Sox,Matt Carasiti,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+108,Jarren Duran,Boston Red Sox,Isiah Kiner-Falefa,New York Yankees,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+109,Jarren Duran,Boston Red Sox,Clarke Schmidt,New York Yankees,4,2,1,0,0,0,1,0,0,.500,.600,.750,1.350
+110,Jarren Duran,Boston Red Sox,Luis Severino,New York Yankees,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+111,Jarren Duran,Boston Red Sox,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,Jarren Duran,Boston Red Sox,Michael King,New York Yankees,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+113,Jarren Duran,Boston Red Sox,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Jarren Duran,Boston Red Sox,Chris Flexen,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+115,Jarren Duran,Boston Red Sox,Trevor Gott,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+116,Jarren Duran,Boston Red Sox,Paul Sewald,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+117,Jarren Duran,Boston Red Sox,Luis Castillo,Seattle Mariners,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+118,Jarren Duran,Boston Red Sox,George Kirby,Seattle Mariners,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+119,Jarren Duran,Boston Red Sox,Matt Brash,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+120,Jarren Duran,Boston Red Sox,Marco Gonzales,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Jarren Duran,Boston Red Sox,Emmanuel Clase,Cleveland Guardians,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+122,Jarren Duran,Boston Red Sox,Aaron Civale,Cleveland Guardians,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+123,Jarren Duran,Boston Red Sox,Shane Bieber,Cleveland Guardians,5,3,3,0,0,0,0,0,0,.600,.600,1.200,1.800
+124,Jarren Duran,Boston Red Sox,Logan Allen,Cleveland Guardians,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+125,Jarren Duran,Boston Red Sox,Eli Morgan,Cleveland Guardians,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+126,Jarren Duran,Boston Red Sox,Peyton Battenfield,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Jarren Duran,Boston Red Sox,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Jarren Duran,Boston Red Sox,Xzavion Curry,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Jarren Duran,Boston Red Sox,Enyel De Los Santos,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Jarren Duran,Boston Red Sox,Zach Plesac,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Jarren Duran,Boston Red Sox,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Jarren Duran,Boston Red Sox,Kendall Graveman,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+133,Jarren Duran,Boston Red Sox,Jesse Scholtens,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+134,Jarren Duran,Boston Red Sox,Lance Lynn,Chicago White Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+135,Jarren Duran,Boston Red Sox,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Jarren Duran,Boston Red Sox,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Jarren Duran,Boston Red Sox,Javy Guerra,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+138,Jarren Duran,Boston Red Sox,Corbin Burnes,Milwaukee Brewers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+139,Jarren Duran,Boston Red Sox,Hoby Milner,Milwaukee Brewers,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+140,Jarren Duran,Boston Red Sox,Freddy Peralta,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+141,Jarren Duran,Boston Red Sox,Matt Bush,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+142,Jarren Duran,Boston Red Sox,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Jarren Duran,Boston Red Sox,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Jarren Duran,Boston Red Sox,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+145,Jarren Duran,Boston Red Sox,Lucas Erceg,Oakland Athletics,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+146,Jarren Duran,Boston Red Sox,Austin Pruitt,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+147,Jarren Duran,Boston Red Sox,Ken Waldichuk,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+148,Jarren Duran,Boston Red Sox,Sam Moll,Oakland Athletics,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+149,Jarren Duran,Boston Red Sox,Luis Medina,Oakland Athletics,6,2,0,1,0,1,0,0,1,.333,.333,.667,1.000
+150,Jarren Duran,Boston Red Sox,Paul Blackburn,Oakland Athletics,4,1,1,0,0,0,0,0,0,.250,.250,.500,.750
+151,Jarren Duran,Boston Red Sox,Angel Felipe,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+152,Jarren Duran,Boston Red Sox,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+153,Jarren Duran,Boston Red Sox,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+154,Jarren Duran,Boston Red Sox,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

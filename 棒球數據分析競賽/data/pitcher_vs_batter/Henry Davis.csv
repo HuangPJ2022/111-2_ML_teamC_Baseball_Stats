@@ -1,0 +1,70 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Henry Davis,Pittsburgh Pirates,Gavin Stone,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,Henry Davis,Pittsburgh Pirates,Ryan Brasier,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Henry Davis,Pittsburgh Pirates,Bobby Miller,Los Angeles Dodgers,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+3,Henry Davis,Pittsburgh Pirates,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Henry Davis,Pittsburgh Pirates,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Henry Davis,Pittsburgh Pirates,Michael Grove,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Henry Davis,Pittsburgh Pirates,Daniel Hudson,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Henry Davis,Pittsburgh Pirates,Emmet Sheehan,Los Angeles Dodgers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+8,Henry Davis,Pittsburgh Pirates,Julio Urias,Los Angeles Dodgers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Henry Davis,Pittsburgh Pirates,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Henry Davis,Pittsburgh Pirates,Shohei Ohtani,Los Angeles Angels,3,3,0,0,2,2,0,0,0,1.000,1.000,3.000,4.000
+11,Henry Davis,Pittsburgh Pirates,Tyler Anderson,Los Angeles Angels,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+12,Henry Davis,Pittsburgh Pirates,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,1,1,1,.000,.333,.000,.333
+13,Henry Davis,Pittsburgh Pirates,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Henry Davis,Pittsburgh Pirates,Gerardo Reyes,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Henry Davis,Pittsburgh Pirates,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Henry Davis,Pittsburgh Pirates,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+17,Henry Davis,Pittsburgh Pirates,Zach Davies,Arizona Diamondbacks,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+18,Henry Davis,Pittsburgh Pirates,Zac Gallen,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Henry Davis,Pittsburgh Pirates,Tyler Gilbert,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Henry Davis,Pittsburgh Pirates,Kevin Ginkel,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+21,Henry Davis,Pittsburgh Pirates,Justin Martinez,Arizona Diamondbacks,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+22,Henry Davis,Pittsburgh Pirates,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Henry Davis,Pittsburgh Pirates,Drew Smyly,Chicago Cubs,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+24,Henry Davis,Pittsburgh Pirates,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Henry Davis,Pittsburgh Pirates,Michael Fulmer,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+26,Henry Davis,Pittsburgh Pirates,Kyle Hendricks,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+27,Henry Davis,Pittsburgh Pirates,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Henry Davis,Pittsburgh Pirates,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Henry Davis,Pittsburgh Pirates,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Henry Davis,Pittsburgh Pirates,Drew Carlton,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+31,Henry Davis,Pittsburgh Pirates,Luis Garcia,San Diego Padres,2,2,0,0,0,3,0,0,0,1.000,1.000,1.000,2.000
+32,Henry Davis,Pittsburgh Pirates,Brent Honeywell,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Henry Davis,Pittsburgh Pirates,Joe Musgrove,San Diego Padres,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+34,Henry Davis,Pittsburgh Pirates,Blake Snell,San Diego Padres,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+35,Henry Davis,Pittsburgh Pirates,Reiss Knehr,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Henry Davis,Pittsburgh Pirates,Adrian Morejon,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Henry Davis,Pittsburgh Pirates,JT Chargois,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+38,Henry Davis,Pittsburgh Pirates,Dylan Floro,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+39,Henry Davis,Pittsburgh Pirates,Andrew Nardi,Miami Marlins,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+40,Henry Davis,Pittsburgh Pirates,Jesus Luzardo,Miami Marlins,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+41,Henry Davis,Pittsburgh Pirates,Eury Perez,Miami Marlins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+42,Henry Davis,Pittsburgh Pirates,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Henry Davis,Pittsburgh Pirates,Braxton Garrett,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+44,Henry Davis,Pittsburgh Pirates,Bryan Hoeing,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Henry Davis,Pittsburgh Pirates,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Henry Davis,Pittsburgh Pirates,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Henry Davis,Pittsburgh Pirates,Scott Alexander,San Francisco Giants,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+48,Henry Davis,Pittsburgh Pirates,Tristan Beck,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+49,Henry Davis,Pittsburgh Pirates,Tyler Rogers,San Francisco Giants,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+50,Henry Davis,Pittsburgh Pirates,Ross Stripling,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+51,Henry Davis,Pittsburgh Pirates,Alex Cobb,San Francisco Giants,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+52,Henry Davis,Pittsburgh Pirates,Sean Manaea,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+53,Henry Davis,Pittsburgh Pirates,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Henry Davis,Pittsburgh Pirates,Trevor Stephan,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Henry Davis,Pittsburgh Pirates,Aaron Civale,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+56,Henry Davis,Pittsburgh Pirates,Logan Allen,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+57,Henry Davis,Pittsburgh Pirates,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Henry Davis,Pittsburgh Pirates,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Henry Davis,Pittsburgh Pirates,Enyel De Los Santos,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+60,Henry Davis,Pittsburgh Pirates,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Henry Davis,Pittsburgh Pirates,Michael Kelly,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Henry Davis,Pittsburgh Pirates,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+63,Henry Davis,Pittsburgh Pirates,Clayton Andrews,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+64,Henry Davis,Pittsburgh Pirates,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Henry Davis,Pittsburgh Pirates,Matt Bush,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Henry Davis,Pittsburgh Pirates,Thomas Pannone,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Henry Davis,Pittsburgh Pirates,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+68,Henry Davis,Pittsburgh Pirates,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

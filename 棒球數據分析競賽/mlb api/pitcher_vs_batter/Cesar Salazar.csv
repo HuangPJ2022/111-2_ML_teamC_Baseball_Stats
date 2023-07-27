@@ -1,0 +1,15 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Cesar Salazar,Houston Astros,Josh Sborz,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Cesar Salazar,Houston Astros,Zach Pop,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Cesar Salazar,Houston Astros,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Cesar Salazar,Houston Astros,Joe Ryan,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+4,Cesar Salazar,Houston Astros,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Cesar Salazar,Houston Astros,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Cesar Salazar,Houston Astros,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Cesar Salazar,Houston Astros,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Cesar Salazar,Houston Astros,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Cesar Salazar,Houston Astros,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+10,Cesar Salazar,Houston Astros,Mike Brosseau,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Cesar Salazar,Houston Astros,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Cesar Salazar,Houston Astros,Garrett Hill,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Cesar Salazar,Houston Astros,Eduardo Rodriguez,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

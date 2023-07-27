@@ -1,0 +1,108 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Kerry Carpenter,Detroit Tigers,Raisel Iglesias,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Kerry Carpenter,Detroit Tigers,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Kerry Carpenter,Detroit Tigers,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Kerry Carpenter,Detroit Tigers,Charlie Morton,Atlanta Braves,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+4,Kerry Carpenter,Detroit Tigers,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Kerry Carpenter,Detroit Tigers,Cody Bradford,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+6,Kerry Carpenter,Detroit Tigers,Dane Dunning,Texas Rangers,4,1,0,0,1,2,0,0,2,.250,.250,1.000,1.250
+7,Kerry Carpenter,Detroit Tigers,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Kerry Carpenter,Detroit Tigers,John King,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Kerry Carpenter,Detroit Tigers,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Kerry Carpenter,Detroit Tigers,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Kerry Carpenter,Detroit Tigers,Kevin Kelly,Tampa Bay Rays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+12,Kerry Carpenter,Detroit Tigers,Zach Eflin,Tampa Bay Rays,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+13,Kerry Carpenter,Detroit Tigers,Garrett Cleavinger,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Kerry Carpenter,Detroit Tigers,Ryan Brasier,Boston Red Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+15,Kerry Carpenter,Detroit Tigers,Kaleb Ort,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+16,Kerry Carpenter,Detroit Tigers,Tanner Houck,Boston Red Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+17,Kerry Carpenter,Detroit Tigers,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Kerry Carpenter,Detroit Tigers,Zack Kelly,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+19,Kerry Carpenter,Detroit Tigers,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Kerry Carpenter,Detroit Tigers,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Kerry Carpenter,Detroit Tigers,Zac Gallen,Arizona Diamondbacks,3,3,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Kerry Carpenter,Detroit Tigers,Merrill Kelly,Arizona Diamondbacks,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+23,Kerry Carpenter,Detroit Tigers,Ryne Nelson,Arizona Diamondbacks,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+24,Kerry Carpenter,Detroit Tigers,Kyle Nelson,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+25,Kerry Carpenter,Detroit Tigers,Andrew Chafin,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+26,Kerry Carpenter,Detroit Tigers,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Kerry Carpenter,Detroit Tigers,Kevin Gausman,Toronto Blue Jays,6,2,0,1,1,3,0,0,2,.333,.333,1.167,1.500
+28,Kerry Carpenter,Detroit Tigers,Chris Bassitt,Toronto Blue Jays,4,0,0,0,0,0,0,0,2,.000,.200,.000,.200
+29,Kerry Carpenter,Detroit Tigers,Bowden Francis,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Kerry Carpenter,Detroit Tigers,Yimi Garcia,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+31,Kerry Carpenter,Detroit Tigers,Alek Manoah,Toronto Blue Jays,5,0,0,0,0,0,1,0,1,.000,.167,.000,.167
+32,Kerry Carpenter,Detroit Tigers,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Kerry Carpenter,Detroit Tigers,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Kerry Carpenter,Detroit Tigers,Erik Swanson,Toronto Blue Jays,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Kerry Carpenter,Detroit Tigers,Kyle Gibson,Baltimore Orioles,5,2,1,0,0,0,1,0,2,.400,.500,.600,1.100
+36,Kerry Carpenter,Detroit Tigers,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Kerry Carpenter,Detroit Tigers,Grayson Rodriguez,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Kerry Carpenter,Detroit Tigers,Tyler Wells,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Kerry Carpenter,Detroit Tigers,Joe Musgrove,San Diego Padres,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+40,Kerry Carpenter,Detroit Tigers,Seth Lugo,San Diego Padres,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+41,Kerry Carpenter,Detroit Tigers,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Kerry Carpenter,Detroit Tigers,Bryan Abreu,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+43,Kerry Carpenter,Detroit Tigers,Hunter Brown,Houston Astros,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+44,Kerry Carpenter,Detroit Tigers,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Kerry Carpenter,Detroit Tigers,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Kerry Carpenter,Detroit Tigers,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Kerry Carpenter,Detroit Tigers,Jordan Balazovic,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+48,Kerry Carpenter,Detroit Tigers,Jovani Moran,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+49,Kerry Carpenter,Detroit Tigers,Josh Winder,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+50,Kerry Carpenter,Detroit Tigers,Louie Varland,Minnesota Twins,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+51,Kerry Carpenter,Detroit Tigers,Bailey Ober,Minnesota Twins,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+52,Kerry Carpenter,Detroit Tigers,Pablo Lopez,Minnesota Twins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+53,Kerry Carpenter,Detroit Tigers,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Kerry Carpenter,Detroit Tigers,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Kerry Carpenter,Detroit Tigers,Brent Headrick,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Kerry Carpenter,Detroit Tigers,Kenta Maeda,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Kerry Carpenter,Detroit Tigers,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+58,Kerry Carpenter,Detroit Tigers,Joe Ryan,Minnesota Twins,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+59,Kerry Carpenter,Detroit Tigers,Brock Stewart,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Kerry Carpenter,Detroit Tigers,Anthony DeSclafani,San Francisco Giants,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+61,Kerry Carpenter,Detroit Tigers,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Kerry Carpenter,Detroit Tigers,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Kerry Carpenter,Detroit Tigers,Connor Seabold,Colorado Rockies,3,2,0,0,1,3,0,0,0,.667,.667,1.667,2.334
+64,Kerry Carpenter,Detroit Tigers,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Kerry Carpenter,Detroit Tigers,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Kerry Carpenter,Detroit Tigers,Ty Blach,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+67,Kerry Carpenter,Detroit Tigers,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Kerry Carpenter,Detroit Tigers,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Kerry Carpenter,Detroit Tigers,Paul Sewald,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+70,Kerry Carpenter,Detroit Tigers,George Kirby,Seattle Mariners,3,2,0,0,2,4,0,0,1,.667,.667,2.667,3.334
+71,Kerry Carpenter,Detroit Tigers,Luis Castillo,Seattle Mariners,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+72,Kerry Carpenter,Detroit Tigers,Bryce Miller,Seattle Mariners,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+73,Kerry Carpenter,Detroit Tigers,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Kerry Carpenter,Detroit Tigers,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Kerry Carpenter,Detroit Tigers,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Kerry Carpenter,Detroit Tigers,Emmanuel Clase,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+77,Kerry Carpenter,Detroit Tigers,James Karinchak,Cleveland Guardians,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+78,Kerry Carpenter,Detroit Tigers,Eli Morgan,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+79,Kerry Carpenter,Detroit Tigers,Hunter Gaddis,Cleveland Guardians,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+80,Kerry Carpenter,Detroit Tigers,Cal Quantrill,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+81,Kerry Carpenter,Detroit Tigers,Peyton Battenfield,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Kerry Carpenter,Detroit Tigers,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Kerry Carpenter,Detroit Tigers,Eric Lauer,Milwaukee Brewers,2,1,0,0,1,3,0,0,1,.500,.500,2.000,2.500
+84,Kerry Carpenter,Detroit Tigers,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Kerry Carpenter,Detroit Tigers,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Kerry Carpenter,Detroit Tigers,Freddy Peralta,Milwaukee Brewers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+87,Kerry Carpenter,Detroit Tigers,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Kerry Carpenter,Detroit Tigers,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Kerry Carpenter,Detroit Tigers,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Kerry Carpenter,Detroit Tigers,Taylor Clarke,Kansas City Royals,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+91,Kerry Carpenter,Detroit Tigers,Brady Singer,Kansas City Royals,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+92,Kerry Carpenter,Detroit Tigers,Ryan Yarbrough,Kansas City Royals,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+93,Kerry Carpenter,Detroit Tigers,Jordan Lyles,Kansas City Royals,4,1,0,0,0,0,1,0,0,.250,.400,.250,.650
+94,Kerry Carpenter,Detroit Tigers,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+95,Kerry Carpenter,Detroit Tigers,Max Castillo,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Kerry Carpenter,Detroit Tigers,Austin Cox,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Kerry Carpenter,Detroit Tigers,Jose Cuas,Kansas City Royals,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+98,Kerry Carpenter,Detroit Tigers,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Kerry Carpenter,Detroit Tigers,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+100,Kerry Carpenter,Detroit Tigers,Jackson Kowar,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Kerry Carpenter,Detroit Tigers,Daniel Lynch IV,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Kerry Carpenter,Detroit Tigers,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Kerry Carpenter,Detroit Tigers,Rico Garcia,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+104,Kerry Carpenter,Detroit Tigers,Hogan Harris,Oakland Athletics,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+105,Kerry Carpenter,Detroit Tigers,Lucas Erceg,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+106,Kerry Carpenter,Detroit Tigers,Jace Peterson,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

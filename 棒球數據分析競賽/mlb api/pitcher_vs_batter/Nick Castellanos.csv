@@ -1,0 +1,200 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Nick Castellanos,Philadelphia Phillies,Joe Jimenez,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Nick Castellanos,Philadelphia Phillies,Lucas Luetge,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Nick Castellanos,Philadelphia Phillies,Collin McHugh,Atlanta Braves,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+3,Nick Castellanos,Philadelphia Phillies,A.J. Minter,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+4,Nick Castellanos,Philadelphia Phillies,Kirby Yates,Atlanta Braves,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+5,Nick Castellanos,Philadelphia Phillies,Dylan Dodd,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+6,Nick Castellanos,Philadelphia Phillies,Jared Shuster,Atlanta Braves,3,1,0,1,0,2,0,0,0,.333,.333,1.000,1.333
+7,Nick Castellanos,Philadelphia Phillies,Spencer Strider,Atlanta Braves,5,1,0,0,0,1,0,0,3,.200,.200,.200,.400
+8,Nick Castellanos,Philadelphia Phillies,Nick Anderson,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+9,Nick Castellanos,Philadelphia Phillies,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Nick Castellanos,Philadelphia Phillies,Bryce Elder,Atlanta Braves,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+11,Nick Castellanos,Philadelphia Phillies,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Nick Castellanos,Philadelphia Phillies,Charlie Morton,Atlanta Braves,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+13,Nick Castellanos,Philadelphia Phillies,Dereck Rodriguez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Nick Castellanos,Philadelphia Phillies,Brock Burke,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+15,Nick Castellanos,Philadelphia Phillies,Dane Dunning,Texas Rangers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+16,Nick Castellanos,Philadelphia Phillies,Nathan Eovaldi,Texas Rangers,2,1,1,0,0,2,0,0,1,.500,.500,1.000,1.500
+17,Nick Castellanos,Philadelphia Phillies,Jacob deGrom,Texas Rangers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+18,Nick Castellanos,Philadelphia Phillies,Jonathan Hernandez,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+19,Nick Castellanos,Philadelphia Phillies,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Nick Castellanos,Philadelphia Phillies,Martin Perez,Texas Rangers,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+21,Nick Castellanos,Philadelphia Phillies,Phil Bickford,Los Angeles Dodgers,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+22,Nick Castellanos,Philadelphia Phillies,Caleb Ferguson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Nick Castellanos,Philadelphia Phillies,Nick Robertson,Los Angeles Dodgers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+24,Nick Castellanos,Philadelphia Phillies,Tony Gonsolin,Los Angeles Dodgers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+25,Nick Castellanos,Philadelphia Phillies,Michael Grove,Los Angeles Dodgers,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+26,Nick Castellanos,Philadelphia Phillies,Gavin Stone,Los Angeles Dodgers,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+27,Nick Castellanos,Philadelphia Phillies,Yency Almonte,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+28,Nick Castellanos,Philadelphia Phillies,Victor Gonzalez,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Nick Castellanos,Philadelphia Phillies,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+30,Nick Castellanos,Philadelphia Phillies,Bobby Miller,Los Angeles Dodgers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Nick Castellanos,Philadelphia Phillies,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Nick Castellanos,Philadelphia Phillies,Tayler Scott,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Nick Castellanos,Philadelphia Phillies,Julio Urias,Los Angeles Dodgers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+34,Nick Castellanos,Philadelphia Phillies,Robert Stephenson,Tampa Bay Rays,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+35,Nick Castellanos,Philadelphia Phillies,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Nick Castellanos,Philadelphia Phillies,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Nick Castellanos,Philadelphia Phillies,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Nick Castellanos,Philadelphia Phillies,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+39,Nick Castellanos,Philadelphia Phillies,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Nick Castellanos,Philadelphia Phillies,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Nick Castellanos,Philadelphia Phillies,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Nick Castellanos,Philadelphia Phillies,Luis Patino,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Nick Castellanos,Philadelphia Phillies,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Nick Castellanos,Philadelphia Phillies,Zack Littell,Boston Red Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+45,Nick Castellanos,Philadelphia Phillies,Chris Sale,Boston Red Sox,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+46,Nick Castellanos,Philadelphia Phillies,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Nick Castellanos,Philadelphia Phillies,Tanner Houck,Boston Red Sox,3,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+48,Nick Castellanos,Philadelphia Phillies,Corey Kluber,Boston Red Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Nick Castellanos,Philadelphia Phillies,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Nick Castellanos,Philadelphia Phillies,Austin Adams,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+51,Nick Castellanos,Philadelphia Phillies,Kyle Nelson,Arizona Diamondbacks,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+52,Nick Castellanos,Philadelphia Phillies,Zach Davies,Arizona Diamondbacks,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+53,Nick Castellanos,Philadelphia Phillies,Drey Jameson,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+54,Nick Castellanos,Philadelphia Phillies,Joe Mantiply,Arizona Diamondbacks,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+55,Nick Castellanos,Philadelphia Phillies,Tommy Henry,Arizona Diamondbacks,6,2,0,0,0,0,0,0,2,.333,.333,.333,.666
+56,Nick Castellanos,Philadelphia Phillies,Ryne Nelson,Arizona Diamondbacks,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+57,Nick Castellanos,Philadelphia Phillies,Miguel Castro,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+58,Nick Castellanos,Philadelphia Phillies,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+59,Nick Castellanos,Philadelphia Phillies,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+60,Nick Castellanos,Philadelphia Phillies,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+61,Nick Castellanos,Philadelphia Phillies,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,1,1,0,1,.000,.333,.000,.333
+62,Nick Castellanos,Philadelphia Phillies,Josh Rojas,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Nick Castellanos,Philadelphia Phillies,Jose Ruiz,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Nick Castellanos,Philadelphia Phillies,Hunter Greene,Cincinnati Reds,3,2,2,0,0,0,0,0,1,.667,.667,1.333,2.000
+65,Nick Castellanos,Philadelphia Phillies,Connor Overton,Cincinnati Reds,3,2,2,0,0,2,1,0,1,.667,.750,1.333,2.083
+66,Nick Castellanos,Philadelphia Phillies,Luis Cessa,Cincinnati Reds,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+67,Nick Castellanos,Philadelphia Phillies,Reiver Sanmartin,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+68,Nick Castellanos,Philadelphia Phillies,Nick Lodolo,Cincinnati Reds,5,1,0,0,0,1,1,0,2,.200,.333,.200,.533
+69,Nick Castellanos,Philadelphia Phillies,Graham Ashcraft,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Nick Castellanos,Philadelphia Phillies,Fernando Cruz,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Nick Castellanos,Philadelphia Phillies,Alexis Diaz,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+72,Nick Castellanos,Philadelphia Phillies,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Nick Castellanos,Philadelphia Phillies,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Nick Castellanos,Philadelphia Phillies,Derek Law,Cincinnati Reds,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+75,Nick Castellanos,Philadelphia Phillies,Casey Legumina,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Nick Castellanos,Philadelphia Phillies,Alek Manoah,Toronto Blue Jays,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+77,Nick Castellanos,Philadelphia Phillies,Tim Mayza,Toronto Blue Jays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+78,Nick Castellanos,Philadelphia Phillies,Jordan Romano,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+79,Nick Castellanos,Philadelphia Phillies,Kevin Gausman,Toronto Blue Jays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+80,Nick Castellanos,Philadelphia Phillies,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Nick Castellanos,Philadelphia Phillies,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Nick Castellanos,Philadelphia Phillies,Drew Smyly,Chicago Cubs,3,2,1,0,1,4,0,0,0,.667,.667,2.000,2.667
+83,Nick Castellanos,Philadelphia Phillies,Justin Steele,Chicago Cubs,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+84,Nick Castellanos,Philadelphia Phillies,Jameson Taillon,Chicago Cubs,5,2,0,0,0,1,0,0,0,.400,.400,.400,.800
+85,Nick Castellanos,Philadelphia Phillies,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Nick Castellanos,Philadelphia Phillies,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Nick Castellanos,Philadelphia Phillies,Nick Burdi,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Nick Castellanos,Philadelphia Phillies,Kyle Hendricks,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Nick Castellanos,Philadelphia Phillies,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Nick Castellanos,Philadelphia Phillies,Michael Rucker,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Nick Castellanos,Philadelphia Phillies,Marcus Stroman,Chicago Cubs,1,0,0,0,0,1,1,0,0,.000,.333,.000,.333
+92,Nick Castellanos,Philadelphia Phillies,Hayden Wesneski,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Nick Castellanos,Philadelphia Phillies,Yu Darvish,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+94,Nick Castellanos,Philadelphia Phillies,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Nick Castellanos,Philadelphia Phillies,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Nick Castellanos,Philadelphia Phillies,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Nick Castellanos,Philadelphia Phillies,Brent Honeywell,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Nick Castellanos,Philadelphia Phillies,Nick Martinez,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Nick Castellanos,Philadelphia Phillies,Blake Snell,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Nick Castellanos,Philadelphia Phillies,Ryan Weathers,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Nick Castellanos,Philadelphia Phillies,Ronel Blanco,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+102,Nick Castellanos,Philadelphia Phillies,Cristian Javier,Houston Astros,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+103,Nick Castellanos,Philadelphia Phillies,Bryan Abreu,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Nick Castellanos,Philadelphia Phillies,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Nick Castellanos,Philadelphia Phillies,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Nick Castellanos,Philadelphia Phillies,Jose Urquidy,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Nick Castellanos,Philadelphia Phillies,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Nick Castellanos,Philadelphia Phillies,Sandy Alcantara,Miami Marlins,6,3,1,0,0,2,0,0,1,.500,.500,.667,1.167
+109,Nick Castellanos,Philadelphia Phillies,Jesus Luzardo,Miami Marlins,4,2,0,0,0,0,2,0,2,.500,.667,.500,1.167
+110,Nick Castellanos,Philadelphia Phillies,Devin Smeltzer,Miami Marlins,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+111,Nick Castellanos,Philadelphia Phillies,Edward Cabrera,Miami Marlins,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+112,Nick Castellanos,Philadelphia Phillies,Braxton Garrett,Miami Marlins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+113,Nick Castellanos,Philadelphia Phillies,Huascar Brazoban,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Nick Castellanos,Philadelphia Phillies,Dylan Floro,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+115,Nick Castellanos,Philadelphia Phillies,Tanner Scott,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Nick Castellanos,Philadelphia Phillies,Joe La Sorsa,Washington Nationals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+117,Nick Castellanos,Philadelphia Phillies,Mason Thompson,Washington Nationals,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+118,Nick Castellanos,Philadelphia Phillies,Amos Willingham,Washington Nationals,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+119,Nick Castellanos,Philadelphia Phillies,Kyle Finnegan,Washington Nationals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+120,Nick Castellanos,Philadelphia Phillies,Josiah Gray,Washington Nationals,6,3,0,0,2,3,0,0,2,.500,.500,1.500,2.000
+121,Nick Castellanos,Philadelphia Phillies,Hunter Harvey,Washington Nationals,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+122,Nick Castellanos,Philadelphia Phillies,Trevor Williams,Washington Nationals,6,3,0,0,1,1,0,0,0,.500,.500,1.000,1.500
+123,Nick Castellanos,Philadelphia Phillies,MacKenzie Gore,Washington Nationals,5,2,0,0,0,0,0,0,0,.400,.400,.400,.800
+124,Nick Castellanos,Philadelphia Phillies,Andres Machado,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+125,Nick Castellanos,Philadelphia Phillies,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Nick Castellanos,Philadelphia Phillies,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Nick Castellanos,Philadelphia Phillies,Tyler Rogers,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+128,Nick Castellanos,Philadelphia Phillies,Ross Stripling,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+129,Nick Castellanos,Philadelphia Phillies,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Nick Castellanos,Philadelphia Phillies,Alex Cobb,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+131,Nick Castellanos,Philadelphia Phillies,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Nick Castellanos,Philadelphia Phillies,Jakob Junis,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+133,Nick Castellanos,Philadelphia Phillies,Taylor Rogers,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Nick Castellanos,Philadelphia Phillies,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Nick Castellanos,Philadelphia Phillies,Brooks Raley,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+136,Nick Castellanos,Philadelphia Phillies,Max Scherzer,New York Mets,5,5,0,0,1,2,0,0,0,1.000,.833,1.600,2.433
+137,Nick Castellanos,Philadelphia Phillies,Kodai Senga,New York Mets,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+138,Nick Castellanos,Philadelphia Phillies,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Nick Castellanos,Philadelphia Phillies,Carlos Carrasco,New York Mets,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+140,Nick Castellanos,Philadelphia Phillies,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Nick Castellanos,Philadelphia Phillies,Dominic Leone,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+142,Nick Castellanos,Philadelphia Phillies,Vinny Nittoli,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Nick Castellanos,Philadelphia Phillies,Adam Ottavino,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+144,Nick Castellanos,Philadelphia Phillies,Jake Bird,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+145,Nick Castellanos,Philadelphia Phillies,Peter Lambert,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+146,Nick Castellanos,Philadelphia Phillies,Ryan Feltner,Colorado Rockies,5,3,0,0,0,1,0,0,0,.600,.600,.600,1.200
+147,Nick Castellanos,Philadelphia Phillies,Jose Urena,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+148,Nick Castellanos,Philadelphia Phillies,Noah Davis,Colorado Rockies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+149,Nick Castellanos,Philadelphia Phillies,Kyle Freeland,Colorado Rockies,6,2,0,0,2,2,0,0,1,.333,.333,1.333,1.666
+150,Nick Castellanos,Philadelphia Phillies,Ty Blach,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Nick Castellanos,Philadelphia Phillies,Austin Gomber,Colorado Rockies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Nick Castellanos,Philadelphia Phillies,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Nick Castellanos,Philadelphia Phillies,Pierce Johnson,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+154,Nick Castellanos,Philadelphia Phillies,Dinelson Lamet,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Nick Castellanos,Philadelphia Phillies,Justin Lawrence,Colorado Rockies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+156,Nick Castellanos,Philadelphia Phillies,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,Nick Castellanos,Philadelphia Phillies,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Nick Castellanos,Philadelphia Phillies,Gerrit Cole,New York Yankees,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+159,Nick Castellanos,Philadelphia Phillies,Nestor Cortes,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+160,Nick Castellanos,Philadelphia Phillies,Domingo German,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Nick Castellanos,Philadelphia Phillies,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+162,Nick Castellanos,Philadelphia Phillies,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+163,Nick Castellanos,Philadelphia Phillies,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+164,Nick Castellanos,Philadelphia Phillies,Jonathan Loaisiga,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,Nick Castellanos,Philadelphia Phillies,Matt Brash,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+166,Nick Castellanos,Philadelphia Phillies,Logan Gilbert,Seattle Mariners,3,2,0,0,1,3,0,0,0,.667,.667,1.667,2.334
+167,Nick Castellanos,Philadelphia Phillies,Marco Gonzales,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+168,Nick Castellanos,Philadelphia Phillies,Justin Topa,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+169,Nick Castellanos,Philadelphia Phillies,George Kirby,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+170,Nick Castellanos,Philadelphia Phillies,Tanner Bibee,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+171,Nick Castellanos,Philadelphia Phillies,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+172,Nick Castellanos,Philadelphia Phillies,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,Nick Castellanos,Philadelphia Phillies,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Nick Castellanos,Philadelphia Phillies,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Nick Castellanos,Philadelphia Phillies,Gavin Williams,Cleveland Guardians,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+176,Nick Castellanos,Philadelphia Phillies,Jimmy Lambert,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+177,Nick Castellanos,Philadelphia Phillies,Lance Lynn,Chicago White Sox,3,2,0,0,0,1,0,0,1,.667,.667,.667,1.334
+178,Nick Castellanos,Philadelphia Phillies,Mike Clevinger,Chicago White Sox,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+179,Nick Castellanos,Philadelphia Phillies,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Nick Castellanos,Philadelphia Phillies,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Nick Castellanos,Philadelphia Phillies,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+182,Nick Castellanos,Philadelphia Phillies,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+183,Nick Castellanos,Philadelphia Phillies,Gregory Santos,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+184,Nick Castellanos,Philadelphia Phillies,Corbin Burnes,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+185,Nick Castellanos,Philadelphia Phillies,Colin Rea,Milwaukee Brewers,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+186,Nick Castellanos,Philadelphia Phillies,Julio Teheran,Milwaukee Brewers,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+187,Nick Castellanos,Philadelphia Phillies,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+188,Nick Castellanos,Philadelphia Phillies,Abner Uribe,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+189,Nick Castellanos,Philadelphia Phillies,Joey Wentz,Detroit Tigers,2,2,1,0,0,1,1,0,0,1.000,1.000,1.500,2.500
+190,Nick Castellanos,Philadelphia Phillies,Reese Olson,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+191,Nick Castellanos,Philadelphia Phillies,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+192,Nick Castellanos,Philadelphia Phillies,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+193,Nick Castellanos,Philadelphia Phillies,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+194,Nick Castellanos,Philadelphia Phillies,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+195,Nick Castellanos,Philadelphia Phillies,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+196,Nick Castellanos,Philadelphia Phillies,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+197,Nick Castellanos,Philadelphia Phillies,Chad Smith,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+198,Nick Castellanos,Philadelphia Phillies,JP Sears,Oakland Athletics,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000

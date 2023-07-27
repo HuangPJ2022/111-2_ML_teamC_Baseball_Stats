@@ -1,0 +1,190 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Tyler Stephenson,Cincinnati Reds,Charlie Morton,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+1,Tyler Stephenson,Cincinnati Reds,Spencer Strider,Atlanta Braves,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+2,Tyler Stephenson,Cincinnati Reds,Nick Anderson,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Tyler Stephenson,Cincinnati Reds,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Tyler Stephenson,Cincinnati Reds,Bryce Elder,Atlanta Braves,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+5,Tyler Stephenson,Cincinnati Reds,Ben Heller,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Tyler Stephenson,Cincinnati Reds,Dylan Lee,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Tyler Stephenson,Cincinnati Reds,Lucas Luetge,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Tyler Stephenson,Cincinnati Reds,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Tyler Stephenson,Cincinnati Reds,AJ Smith-Shawver,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+10,Tyler Stephenson,Cincinnati Reds,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Tyler Stephenson,Cincinnati Reds,Kyle Wright,Atlanta Braves,0,0,0,0,0,1,0,0,0,.000,1.000,.000,1.000
+12,Tyler Stephenson,Cincinnati Reds,Kirby Yates,Atlanta Braves,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+13,Tyler Stephenson,Cincinnati Reds,Cole Ragans,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+14,Tyler Stephenson,Cincinnati Reds,Josh Sborz,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+15,Tyler Stephenson,Cincinnati Reds,Jon Gray,Texas Rangers,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+16,Tyler Stephenson,Cincinnati Reds,Martin Perez,Texas Rangers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+17,Tyler Stephenson,Cincinnati Reds,Dane Dunning,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+18,Tyler Stephenson,Cincinnati Reds,Nathan Eovaldi,Texas Rangers,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+19,Tyler Stephenson,Cincinnati Reds,Caleb Ferguson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Tyler Stephenson,Cincinnati Reds,Brusdar Graterol,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Tyler Stephenson,Cincinnati Reds,Noah Syndergaard,Los Angeles Dodgers,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+22,Tyler Stephenson,Cincinnati Reds,Tony Gonsolin,Los Angeles Dodgers,3,1,0,0,0,2,0,0,1,.333,.333,.333,.666
+23,Tyler Stephenson,Cincinnati Reds,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Tyler Stephenson,Cincinnati Reds,Clayton Kershaw,Los Angeles Dodgers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Tyler Stephenson,Cincinnati Reds,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Tyler Stephenson,Cincinnati Reds,Tayler Scott,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Tyler Stephenson,Cincinnati Reds,Pete Fairbanks,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,Tyler Stephenson,Cincinnati Reds,Cooper Criswell,Tampa Bay Rays,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+29,Tyler Stephenson,Cincinnati Reds,Jalen Beeks,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Tyler Stephenson,Cincinnati Reds,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+31,Tyler Stephenson,Cincinnati Reds,Yonny Chirinos,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+32,Tyler Stephenson,Cincinnati Reds,Josh Fleming,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Tyler Stephenson,Cincinnati Reds,Drew Rasmussen,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+34,Tyler Stephenson,Cincinnati Reds,Ryan Sherriff,Boston Red Sox,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+35,Tyler Stephenson,Cincinnati Reds,Chris Sale,Boston Red Sox,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+36,Tyler Stephenson,Cincinnati Reds,Brayan Bello,Boston Red Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+37,Tyler Stephenson,Cincinnati Reds,Kutter Crawford,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Tyler Stephenson,Cincinnati Reds,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Tyler Stephenson,Cincinnati Reds,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Tyler Stephenson,Cincinnati Reds,James Paxton,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Tyler Stephenson,Cincinnati Reds,Joely Rodriguez,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+42,Tyler Stephenson,Cincinnati Reds,Josh Winckowski,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Tyler Stephenson,Cincinnati Reds,Chris Stratton,St. Louis Cardinals,1,1,1,0,0,1,0,0,0,1.000,.500,2.000,2.500
+44,Tyler Stephenson,Cincinnati Reds,Jordan Montgomery,St. Louis Cardinals,3,2,0,0,0,1,1,0,0,.667,.750,.667,1.417
+45,Tyler Stephenson,Cincinnati Reds,Genesis Cabrera,St. Louis Cardinals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+46,Tyler Stephenson,Cincinnati Reds,Steven Matz,St. Louis Cardinals,3,1,0,0,0,2,0,0,1,.333,.333,.333,.666
+47,Tyler Stephenson,Cincinnati Reds,Miles Mikolas,St. Louis Cardinals,6,1,0,0,0,0,0,0,0,.167,.167,.167,.334
+48,Tyler Stephenson,Cincinnati Reds,Adam Wainwright,St. Louis Cardinals,6,1,0,0,0,1,0,0,0,.167,.167,.167,.334
+49,Tyler Stephenson,Cincinnati Reds,Giovanny Gallegos,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Tyler Stephenson,Cincinnati Reds,Ryan Helsley,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+51,Tyler Stephenson,Cincinnati Reds,Jordan Hicks,St. Louis Cardinals,2,0,0,0,0,1,1,0,0,.000,.333,.000,.333
+52,Tyler Stephenson,Cincinnati Reds,Andre Pallante,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+53,Tyler Stephenson,Cincinnati Reds,Drew VerHagen,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+54,Tyler Stephenson,Cincinnati Reds,Justin Martinez,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Tyler Stephenson,Cincinnati Reds,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Tyler Stephenson,Cincinnati Reds,Luis Frias,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Tyler Stephenson,Cincinnati Reds,Tommy Henry,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+58,Tyler Stephenson,Cincinnati Reds,Brandon Pfaadt,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Tyler Stephenson,Cincinnati Reds,Yennier Cano,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+60,Tyler Stephenson,Cincinnati Reds,Kyle Gibson,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+61,Tyler Stephenson,Cincinnati Reds,Bruce Zimmermann,Baltimore Orioles,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+62,Tyler Stephenson,Cincinnati Reds,Mike Baumann,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Tyler Stephenson,Cincinnati Reds,Cole Irvin,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Tyler Stephenson,Cincinnati Reds,Andrew Bellatti,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+65,Tyler Stephenson,Cincinnati Reds,Josh Harrison,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+66,Tyler Stephenson,Cincinnati Reds,Bailey Falter,Philadelphia Phillies,5,3,0,0,0,1,0,0,1,.600,.600,.600,1.200
+67,Tyler Stephenson,Cincinnati Reds,Zack Wheeler,Philadelphia Phillies,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+68,Tyler Stephenson,Cincinnati Reds,Taijuan Walker,Philadelphia Phillies,4,1,0,0,0,1,1,0,1,.250,.400,.250,.650
+69,Tyler Stephenson,Cincinnati Reds,Jose Alvarado,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+70,Tyler Stephenson,Cincinnati Reds,Connor Brogdon,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+71,Tyler Stephenson,Cincinnati Reds,Seranthony Dominguez,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Tyler Stephenson,Cincinnati Reds,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Tyler Stephenson,Cincinnati Reds,McKinley Moore,Philadelphia Phillies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+74,Tyler Stephenson,Cincinnati Reds,Matt Strahm,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Tyler Stephenson,Cincinnati Reds,Andrew Vasquez,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+76,Tyler Stephenson,Cincinnati Reds,Justin Steele,Chicago Cubs,3,3,1,0,0,2,0,0,0,1.000,1.000,1.333,2.333
+77,Tyler Stephenson,Cincinnati Reds,Jameson Taillon,Chicago Cubs,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+78,Tyler Stephenson,Cincinnati Reds,Hayden Wesneski,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+79,Tyler Stephenson,Cincinnati Reds,Drew Smyly,Chicago Cubs,5,2,0,0,0,0,1,0,1,.400,.500,.400,.900
+80,Tyler Stephenson,Cincinnati Reds,Adbert Alzolay,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+81,Tyler Stephenson,Cincinnati Reds,Javier Assad,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Tyler Stephenson,Cincinnati Reds,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Tyler Stephenson,Cincinnati Reds,Brandon Hughes,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Tyler Stephenson,Cincinnati Reds,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Tyler Stephenson,Cincinnati Reds,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Tyler Stephenson,Cincinnati Reds,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Tyler Stephenson,Cincinnati Reds,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Tyler Stephenson,Cincinnati Reds,Brent Honeywell,San Diego Padres,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+89,Tyler Stephenson,Cincinnati Reds,Nick Martinez,San Diego Padres,1,1,0,0,1,2,1,0,0,1.000,1.000,4.000,5.000
+90,Tyler Stephenson,Cincinnati Reds,Seth Lugo,San Diego Padres,4,2,0,0,0,0,1,0,0,.500,.600,.500,1.100
+91,Tyler Stephenson,Cincinnati Reds,Luis Garcia,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+92,Tyler Stephenson,Cincinnati Reds,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Tyler Stephenson,Cincinnati Reds,Tim Hill,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Tyler Stephenson,Cincinnati Reds,Blake Snell,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Tyler Stephenson,Cincinnati Reds,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Tyler Stephenson,Cincinnati Reds,Michael Wacha,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+97,Tyler Stephenson,Cincinnati Reds,Rafael Montero,Houston Astros,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+98,Tyler Stephenson,Cincinnati Reds,Ryne Stanek,Houston Astros,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+99,Tyler Stephenson,Cincinnati Reds,J.P. France,Houston Astros,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+100,Tyler Stephenson,Cincinnati Reds,Brandon Bielak,Houston Astros,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+101,Tyler Stephenson,Cincinnati Reds,Ronel Blanco,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Tyler Stephenson,Cincinnati Reds,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Tyler Stephenson,Cincinnati Reds,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Tyler Stephenson,Cincinnati Reds,Dylan Floro,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+105,Tyler Stephenson,Cincinnati Reds,Eury Perez,Miami Marlins,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+106,Tyler Stephenson,Cincinnati Reds,Sandy Alcantara,Miami Marlins,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+107,Tyler Stephenson,Cincinnati Reds,Huascar Brazoban,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Tyler Stephenson,Cincinnati Reds,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+109,Tyler Stephenson,Cincinnati Reds,Bryan Hoeing,Miami Marlins,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+110,Tyler Stephenson,Cincinnati Reds,Jake Irvin,Washington Nationals,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+111,Tyler Stephenson,Cincinnati Reds,Amos Willingham,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+112,Tyler Stephenson,Cincinnati Reds,Cory Abbott,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+113,Tyler Stephenson,Cincinnati Reds,Josiah Gray,Washington Nationals,2,1,1,0,0,1,0,0,1,.500,.667,1.000,1.667
+114,Tyler Stephenson,Cincinnati Reds,Patrick Corbin,Washington Nationals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+115,Tyler Stephenson,Cincinnati Reds,Jose A. Ferrer,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Tyler Stephenson,Cincinnati Reds,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Tyler Stephenson,Cincinnati Reds,Joe La Sorsa,Washington Nationals,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+118,Tyler Stephenson,Cincinnati Reds,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Tyler Stephenson,Cincinnati Reds,Jordan Weems,Washington Nationals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+120,Tyler Stephenson,Cincinnati Reds,Taylor Rogers,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+121,Tyler Stephenson,Cincinnati Reds,Ross Stripling,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+122,Tyler Stephenson,Cincinnati Reds,Ryan Walker,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Tyler Stephenson,Cincinnati Reds,Logan Webb,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Tyler Stephenson,Cincinnati Reds,Kodai Senga,New York Mets,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+125,Tyler Stephenson,Cincinnati Reds,David Peterson,New York Mets,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+126,Tyler Stephenson,Cincinnati Reds,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Tyler Stephenson,Cincinnati Reds,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Tyler Stephenson,Cincinnati Reds,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Tyler Stephenson,Cincinnati Reds,Stephen Nogosek,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Tyler Stephenson,Cincinnati Reds,Justin Verlander,New York Mets,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+131,Tyler Stephenson,Cincinnati Reds,Karl Kauffmann,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+132,Tyler Stephenson,Cincinnati Reds,Daniel Bard,Colorado Rockies,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+133,Tyler Stephenson,Cincinnati Reds,Jake Bird,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+134,Tyler Stephenson,Cincinnati Reds,Connor Seabold,Colorado Rockies,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+135,Tyler Stephenson,Cincinnati Reds,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Tyler Stephenson,Cincinnati Reds,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Tyler Stephenson,Cincinnati Reds,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Tyler Stephenson,Cincinnati Reds,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Tyler Stephenson,Cincinnati Reds,Peter Lambert,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+140,Tyler Stephenson,Cincinnati Reds,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Tyler Stephenson,Cincinnati Reds,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+142,Tyler Stephenson,Cincinnati Reds,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Tyler Stephenson,Cincinnati Reds,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Tyler Stephenson,Cincinnati Reds,Ron Marinaccio,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+145,Tyler Stephenson,Cincinnati Reds,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Tyler Stephenson,Cincinnati Reds,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Tyler Stephenson,Cincinnati Reds,Chase De Jong,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+148,Tyler Stephenson,Cincinnati Reds,Roansy Contreras,Pittsburgh Pirates,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+149,Tyler Stephenson,Cincinnati Reds,Vince Velasquez,Pittsburgh Pirates,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+150,Tyler Stephenson,Cincinnati Reds,Rich Hill,Pittsburgh Pirates,5,2,1,0,0,0,0,0,1,.400,.400,.600,1.000
+151,Tyler Stephenson,Cincinnati Reds,Colin Holderman,Pittsburgh Pirates,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+152,Tyler Stephenson,Cincinnati Reds,Mitch Keller,Pittsburgh Pirates,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+153,Tyler Stephenson,Cincinnati Reds,Wil Crowe,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+154,Tyler Stephenson,Cincinnati Reds,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Tyler Stephenson,Cincinnati Reds,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Tyler Stephenson,Cincinnati Reds,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,1,1,0,.000,.500,.000,.500
+157,Tyler Stephenson,Cincinnati Reds,Michael Kopech,Chicago White Sox,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+158,Tyler Stephenson,Cincinnati Reds,Lance Lynn,Chicago White Sox,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+159,Tyler Stephenson,Cincinnati Reds,Mike Clevinger,Chicago White Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+160,Tyler Stephenson,Cincinnati Reds,Alex Colome,Chicago White Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+161,Tyler Stephenson,Cincinnati Reds,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+162,Tyler Stephenson,Cincinnati Reds,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Tyler Stephenson,Cincinnati Reds,Julio Teheran,Milwaukee Brewers,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+164,Tyler Stephenson,Cincinnati Reds,Corbin Burnes,Milwaukee Brewers,4,0,0,0,0,0,1,0,1,.000,.200,.000,.200
+165,Tyler Stephenson,Cincinnati Reds,Adrian Houser,Milwaukee Brewers,5,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Tyler Stephenson,Cincinnati Reds,Wade Miley,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+167,Tyler Stephenson,Cincinnati Reds,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+168,Tyler Stephenson,Cincinnati Reds,Elvis Peguero,Milwaukee Brewers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+169,Tyler Stephenson,Cincinnati Reds,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+170,Tyler Stephenson,Cincinnati Reds,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+171,Tyler Stephenson,Cincinnati Reds,Abner Uribe,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+172,Tyler Stephenson,Cincinnati Reds,Devin Williams,Milwaukee Brewers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+173,Tyler Stephenson,Cincinnati Reds,Bryse Wilson,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Tyler Stephenson,Cincinnati Reds,Scott Barlow,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+175,Tyler Stephenson,Cincinnati Reds,Zack Greinke,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+176,Tyler Stephenson,Cincinnati Reds,Austin Cox,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+177,Tyler Stephenson,Cincinnati Reds,Jose Cuas,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+178,Tyler Stephenson,Cincinnati Reds,Jordan Lyles,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Tyler Stephenson,Cincinnati Reds,Daniel Lynch IV,Kansas City Royals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+180,Tyler Stephenson,Cincinnati Reds,Shintaro Fujinami,Oakland Athletics,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+181,Tyler Stephenson,Cincinnati Reds,Sam Long,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+182,Tyler Stephenson,Cincinnati Reds,Kyle Muller,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+183,Tyler Stephenson,Cincinnati Reds,Domingo Acevedo,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Tyler Stephenson,Cincinnati Reds,Jeurys Familia,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+185,Tyler Stephenson,Cincinnati Reds,Zach Jackson,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+186,Tyler Stephenson,Cincinnati Reds,Adam Oller,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+187,Tyler Stephenson,Cincinnati Reds,Drew Rucinski,Oakland Athletics,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+188,Tyler Stephenson,Cincinnati Reds,Ken Waldichuk,Oakland Athletics,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000

@@ -1,0 +1,35 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jose Azocar,San Diego Padres,Max Fried,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+1,Jose Azocar,San Diego Padres,Charlie Morton,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Jose Azocar,San Diego Padres,Jared Shuster,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+3,Jose Azocar,San Diego Padres,Kirby Yates,Atlanta Braves,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+4,Jose Azocar,San Diego Padres,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Jose Azocar,San Diego Padres,Dylan Dodd,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Jose Azocar,San Diego Padres,Joe Jimenez,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+7,Jose Azocar,San Diego Padres,Dylan Lee,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Jose Azocar,San Diego Padres,Lucas Luetge,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Jose Azocar,San Diego Padres,Michael Tonkin,Atlanta Braves,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Jose Azocar,San Diego Padres,Danny Young,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Jose Azocar,San Diego Padres,Chris Sale,Boston Red Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Jose Azocar,San Diego Padres,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Jose Azocar,San Diego Padres,Graham Ashcraft,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Jose Azocar,San Diego Padres,Drew Smyly,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+15,Jose Azocar,San Diego Padres,Brandon Hughes,Chicago Cubs,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Jose Azocar,San Diego Padres,Matt Barnes,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+17,Jose Azocar,San Diego Padres,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Jose Azocar,San Diego Padres,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Jose Azocar,San Diego Padres,Dennis Santana,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Jose Azocar,San Diego Padres,Ty Blach,Colorado Rockies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+21,Jose Azocar,San Diego Padres,Austin Gomber,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+22,Jose Azocar,San Diego Padres,Kyle Freeland,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Jose Azocar,San Diego Padres,Brad Hand,Colorado Rockies,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Jose Azocar,San Diego Padres,Dinelson Lamet,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+25,Jose Azocar,San Diego Padres,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Jose Azocar,San Diego Padres,Gerrit Cole,New York Yankees,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+27,Jose Azocar,San Diego Padres,Jimmy Cordero,New York Yankees,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+28,Jose Azocar,San Diego Padres,Eric Lauer,Milwaukee Brewers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+29,Jose Azocar,San Diego Padres,Joel Payamps,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+30,Jose Azocar,San Diego Padres,Bryse Wilson,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+31,Jose Azocar,San Diego Padres,Wade Miley,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Jose Azocar,San Diego Padres,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Jose Azocar,San Diego Padres,Gus Varland,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

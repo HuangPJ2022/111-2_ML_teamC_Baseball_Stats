@@ -1,0 +1,147 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Ji Hwan Bae,Pittsburgh Pirates,Nathan Eovaldi,Texas Rangers,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+1,Ji Hwan Bae,Pittsburgh Pirates,Dane Dunning,Texas Rangers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+2,Ji Hwan Bae,Pittsburgh Pirates,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Ji Hwan Bae,Pittsburgh Pirates,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Ji Hwan Bae,Pittsburgh Pirates,Phil Bickford,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+5,Ji Hwan Bae,Pittsburgh Pirates,Justin Bruihl,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+6,Ji Hwan Bae,Pittsburgh Pirates,Noah Syndergaard,Los Angeles Dodgers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+7,Ji Hwan Bae,Pittsburgh Pirates,Alex Vesia,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+8,Ji Hwan Bae,Pittsburgh Pirates,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Ji Hwan Bae,Pittsburgh Pirates,Tony Gonsolin,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Ji Hwan Bae,Pittsburgh Pirates,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Ji Hwan Bae,Pittsburgh Pirates,Shane McClanahan,Tampa Bay Rays,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+12,Ji Hwan Bae,Pittsburgh Pirates,Chase Anderson,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+13,Ji Hwan Bae,Pittsburgh Pirates,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Ji Hwan Bae,Pittsburgh Pirates,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Ji Hwan Bae,Pittsburgh Pirates,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Ji Hwan Bae,Pittsburgh Pirates,Richard Bleier,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+17,Ji Hwan Bae,Pittsburgh Pirates,Nick Pivetta,Boston Red Sox,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+18,Ji Hwan Bae,Pittsburgh Pirates,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Ji Hwan Bae,Pittsburgh Pirates,Corey Kluber,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Ji Hwan Bae,Pittsburgh Pirates,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Ji Hwan Bae,Pittsburgh Pirates,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Ji Hwan Bae,Pittsburgh Pirates,Zack Thompson,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Ji Hwan Bae,Pittsburgh Pirates,Miles Mikolas,St. Louis Cardinals,3,2,0,0,0,2,0,0,0,.667,.667,.667,1.334
+24,Ji Hwan Bae,Pittsburgh Pirates,Jordan Montgomery,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+25,Ji Hwan Bae,Pittsburgh Pirates,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Ji Hwan Bae,Pittsburgh Pirates,Jack Flaherty,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Ji Hwan Bae,Pittsburgh Pirates,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Ji Hwan Bae,Pittsburgh Pirates,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Ji Hwan Bae,Pittsburgh Pirates,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Ji Hwan Bae,Pittsburgh Pirates,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Ji Hwan Bae,Pittsburgh Pirates,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Ji Hwan Bae,Pittsburgh Pirates,Jake Woodford,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+33,Ji Hwan Bae,Pittsburgh Pirates,Jose Herrera,Arizona Diamondbacks,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+34,Ji Hwan Bae,Pittsburgh Pirates,Anthony Misiewicz,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+35,Ji Hwan Bae,Pittsburgh Pirates,Zac Gallen,Arizona Diamondbacks,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+36,Ji Hwan Bae,Pittsburgh Pirates,Brandon Pfaadt,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+37,Ji Hwan Bae,Pittsburgh Pirates,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Ji Hwan Bae,Pittsburgh Pirates,Luis Frias,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+39,Ji Hwan Bae,Pittsburgh Pirates,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Ji Hwan Bae,Pittsburgh Pirates,Hunter Greene,Cincinnati Reds,4,2,1,0,0,0,0,0,0,.500,.500,.750,1.250
+41,Ji Hwan Bae,Pittsburgh Pirates,Graham Ashcraft,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Ji Hwan Bae,Pittsburgh Pirates,Luis Cessa,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Ji Hwan Bae,Pittsburgh Pirates,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Ji Hwan Bae,Pittsburgh Pirates,Buck Farmer,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+45,Ji Hwan Bae,Pittsburgh Pirates,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Ji Hwan Bae,Pittsburgh Pirates,Nick Lodolo,Cincinnati Reds,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+47,Ji Hwan Bae,Pittsburgh Pirates,Reiver Sanmartin,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Ji Hwan Bae,Pittsburgh Pirates,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Ji Hwan Bae,Pittsburgh Pirates,Alex Young,Cincinnati Reds,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+50,Ji Hwan Bae,Pittsburgh Pirates,Chris Bassitt,Toronto Blue Jays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+51,Ji Hwan Bae,Pittsburgh Pirates,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Ji Hwan Bae,Pittsburgh Pirates,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Ji Hwan Bae,Pittsburgh Pirates,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Ji Hwan Bae,Pittsburgh Pirates,Danny Coulombe,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Ji Hwan Bae,Pittsburgh Pirates,Kyle Bradish,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+56,Ji Hwan Bae,Pittsburgh Pirates,Kyle Gibson,Baltimore Orioles,3,1,0,0,0,2,0,0,1,.333,.333,.333,.666
+57,Ji Hwan Bae,Pittsburgh Pirates,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Ji Hwan Bae,Pittsburgh Pirates,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Ji Hwan Bae,Pittsburgh Pirates,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Ji Hwan Bae,Pittsburgh Pirates,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+61,Ji Hwan Bae,Pittsburgh Pirates,Jameson Taillon,Chicago Cubs,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+62,Ji Hwan Bae,Pittsburgh Pirates,Marcus Stroman,Chicago Cubs,4,1,0,0,0,0,1,0,1,.250,.400,.250,.650
+63,Ji Hwan Bae,Pittsburgh Pirates,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Ji Hwan Bae,Pittsburgh Pirates,Kyle Hendricks,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Ji Hwan Bae,Pittsburgh Pirates,Mark Leiter Jr.,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Ji Hwan Bae,Pittsburgh Pirates,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Ji Hwan Bae,Pittsburgh Pirates,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Ji Hwan Bae,Pittsburgh Pirates,Drew Carlton,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+69,Ji Hwan Bae,Pittsburgh Pirates,Reiss Knehr,San Diego Padres,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+70,Ji Hwan Bae,Pittsburgh Pirates,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+71,Ji Hwan Bae,Pittsburgh Pirates,Ryan Pressly,Houston Astros,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+72,Ji Hwan Bae,Pittsburgh Pirates,Bryan Abreu,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+73,Ji Hwan Bae,Pittsburgh Pirates,Cristian Javier,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Ji Hwan Bae,Pittsburgh Pirates,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Ji Hwan Bae,Pittsburgh Pirates,Jose Urquidy,Houston Astros,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+76,Ji Hwan Bae,Pittsburgh Pirates,Anthony Banda,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+77,Ji Hwan Bae,Pittsburgh Pirates,Josiah Gray,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+78,Ji Hwan Bae,Pittsburgh Pirates,Patrick Corbin,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Ji Hwan Bae,Pittsburgh Pirates,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Ji Hwan Bae,Pittsburgh Pirates,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Ji Hwan Bae,Pittsburgh Pirates,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Ji Hwan Bae,Pittsburgh Pirates,Lane Thomas,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Ji Hwan Bae,Pittsburgh Pirates,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Ji Hwan Bae,Pittsburgh Pirates,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Ji Hwan Bae,Pittsburgh Pirates,Andrew Nardi,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Ji Hwan Bae,Pittsburgh Pirates,Eury Perez,Miami Marlins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+87,Ji Hwan Bae,Pittsburgh Pirates,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Ji Hwan Bae,Pittsburgh Pirates,Ryan Walker,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+89,Ji Hwan Bae,Pittsburgh Pirates,Alex Wood,San Francisco Giants,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+90,Ji Hwan Bae,Pittsburgh Pirates,Anthony DeSclafani,San Francisco Giants,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+91,Ji Hwan Bae,Pittsburgh Pirates,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Ji Hwan Bae,Pittsburgh Pirates,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Ji Hwan Bae,Pittsburgh Pirates,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Ji Hwan Bae,Pittsburgh Pirates,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Ji Hwan Bae,Pittsburgh Pirates,Brett Wisely,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Ji Hwan Bae,Pittsburgh Pirates,Tylor Megill,New York Mets,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+97,Ji Hwan Bae,Pittsburgh Pirates,Carlos Carrasco,New York Mets,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+98,Ji Hwan Bae,Pittsburgh Pirates,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Ji Hwan Bae,Pittsburgh Pirates,Zach Muckenhirn,New York Mets,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+100,Ji Hwan Bae,Pittsburgh Pirates,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Ji Hwan Bae,Pittsburgh Pirates,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Ji Hwan Bae,Pittsburgh Pirates,Kodai Senga,New York Mets,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+103,Ji Hwan Bae,Pittsburgh Pirates,Josh Walker,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Ji Hwan Bae,Pittsburgh Pirates,Pierce Johnson,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+105,Ji Hwan Bae,Pittsburgh Pirates,Ty Blach,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+106,Ji Hwan Bae,Pittsburgh Pirates,Connor Seabold,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+107,Ji Hwan Bae,Pittsburgh Pirates,Jose Urena,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+108,Ji Hwan Bae,Pittsburgh Pirates,Jake Bird,Colorado Rockies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+109,Ji Hwan Bae,Pittsburgh Pirates,Harold Castro,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+110,Ji Hwan Bae,Pittsburgh Pirates,Kyle Freeland,Colorado Rockies,1,0,0,0,0,2,0,0,0,.000,.000,.000,.000
+111,Ji Hwan Bae,Pittsburgh Pirates,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,Ji Hwan Bae,Pittsburgh Pirates,Nick Mears,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Ji Hwan Bae,Pittsburgh Pirates,Brent Suter,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+114,Ji Hwan Bae,Pittsburgh Pirates,Trevor Gott,Seattle Mariners,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+115,Ji Hwan Bae,Pittsburgh Pirates,Tayler Saucedo,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+116,Ji Hwan Bae,Pittsburgh Pirates,Juan Then,Seattle Mariners,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+117,Ji Hwan Bae,Pittsburgh Pirates,Marco Gonzales,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+118,Ji Hwan Bae,Pittsburgh Pirates,Luis Castillo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+119,Ji Hwan Bae,Pittsburgh Pirates,George Kirby,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Ji Hwan Bae,Pittsburgh Pirates,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Ji Hwan Bae,Pittsburgh Pirates,Lucas Giolito,Chicago White Sox,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+122,Ji Hwan Bae,Pittsburgh Pirates,Jake Diekman,Chicago White Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+123,Ji Hwan Bae,Pittsburgh Pirates,Mike Clevinger,Chicago White Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Ji Hwan Bae,Pittsburgh Pirates,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Ji Hwan Bae,Pittsburgh Pirates,Jesse Scholtens,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Ji Hwan Bae,Pittsburgh Pirates,Matt Bush,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+127,Ji Hwan Bae,Pittsburgh Pirates,Hoby Milner,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+128,Ji Hwan Bae,Pittsburgh Pirates,Clayton Andrews,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Ji Hwan Bae,Pittsburgh Pirates,Corbin Burnes,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+130,Ji Hwan Bae,Pittsburgh Pirates,Trevor Megill,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+131,Ji Hwan Bae,Pittsburgh Pirates,Wade Miley,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Ji Hwan Bae,Pittsburgh Pirates,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Ji Hwan Bae,Pittsburgh Pirates,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+134,Ji Hwan Bae,Pittsburgh Pirates,Julio Teheran,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+135,Ji Hwan Bae,Pittsburgh Pirates,Devin Williams,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+136,Ji Hwan Bae,Pittsburgh Pirates,Tyler Alexander,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+137,Ji Hwan Bae,Pittsburgh Pirates,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+138,Ji Hwan Bae,Pittsburgh Pirates,Michael Lorenzen,Detroit Tigers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+139,Ji Hwan Bae,Pittsburgh Pirates,Eduardo Rodriguez,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Ji Hwan Bae,Pittsburgh Pirates,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Ji Hwan Bae,Pittsburgh Pirates,Sam Moll,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+142,Ji Hwan Bae,Pittsburgh Pirates,Hogan Harris,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+143,Ji Hwan Bae,Pittsburgh Pirates,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Ji Hwan Bae,Pittsburgh Pirates,JP Sears,Oakland Athletics,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+145,Ji Hwan Bae,Pittsburgh Pirates,Ken Waldichuk,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500

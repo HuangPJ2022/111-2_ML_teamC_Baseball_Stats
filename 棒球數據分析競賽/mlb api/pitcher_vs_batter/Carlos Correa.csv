@@ -1,0 +1,188 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Carlos Correa,Minnesota Twins,Bryce Elder,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+1,Carlos Correa,Minnesota Twins,Ben Heller,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Carlos Correa,Minnesota Twins,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Carlos Correa,Minnesota Twins,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Carlos Correa,Minnesota Twins,Victor Gonzalez,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+5,Carlos Correa,Minnesota Twins,Dylan Covey,Los Angeles Dodgers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+6,Carlos Correa,Minnesota Twins,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Carlos Correa,Minnesota Twins,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Carlos Correa,Minnesota Twins,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Carlos Correa,Minnesota Twins,Clayton Kershaw,Los Angeles Dodgers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+10,Carlos Correa,Minnesota Twins,Dustin May,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Carlos Correa,Minnesota Twins,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Carlos Correa,Minnesota Twins,Evan Phillips,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+13,Carlos Correa,Minnesota Twins,Noah Syndergaard,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+14,Carlos Correa,Minnesota Twins,Zack Weiss,Los Angeles Angels,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+15,Carlos Correa,Minnesota Twins,Shohei Ohtani,Los Angeles Angels,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+16,Carlos Correa,Minnesota Twins,Reid Detmers,Los Angeles Angels,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+17,Carlos Correa,Minnesota Twins,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Carlos Correa,Minnesota Twins,Patrick Sandoval,Los Angeles Angels,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+19,Carlos Correa,Minnesota Twins,Andrew Wantz,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+20,Carlos Correa,Minnesota Twins,Yonny Chirinos,Tampa Bay Rays,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+21,Carlos Correa,Minnesota Twins,Zach Eflin,Tampa Bay Rays,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+22,Carlos Correa,Minnesota Twins,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Carlos Correa,Minnesota Twins,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Carlos Correa,Minnesota Twins,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Carlos Correa,Minnesota Twins,Cooper Criswell,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+26,Carlos Correa,Minnesota Twins,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Carlos Correa,Minnesota Twins,Justin Garza,Boston Red Sox,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+28,Carlos Correa,Minnesota Twins,Chris Sale,Boston Red Sox,1,1,0,0,0,1,1,0,0,1.000,.667,1.000,1.667
+29,Carlos Correa,Minnesota Twins,Kutter Crawford,Boston Red Sox,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+30,Carlos Correa,Minnesota Twins,Tanner Houck,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+31,Carlos Correa,Minnesota Twins,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Carlos Correa,Minnesota Twins,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Carlos Correa,Minnesota Twins,Corey Kluber,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Carlos Correa,Minnesota Twins,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Carlos Correa,Minnesota Twins,James Paxton,Boston Red Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Carlos Correa,Minnesota Twins,John Schreiber,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Carlos Correa,Minnesota Twins,Brandon Walter,Boston Red Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Carlos Correa,Minnesota Twins,Garrett Whitlock,Boston Red Sox,3,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+39,Carlos Correa,Minnesota Twins,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Carlos Correa,Minnesota Twins,Adam Cimber,Toronto Blue Jays,1,1,0,0,1,4,0,0,0,1.000,1.000,4.000,5.000
+41,Carlos Correa,Minnesota Twins,Nate Pearson,Toronto Blue Jays,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+42,Carlos Correa,Minnesota Twins,Kevin Gausman,Toronto Blue Jays,4,2,1,0,0,0,2,0,1,.500,.667,.750,1.417
+43,Carlos Correa,Minnesota Twins,Jose Berrios,Toronto Blue Jays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+44,Carlos Correa,Minnesota Twins,Bowden Francis,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Carlos Correa,Minnesota Twins,Yusei Kikuchi,Toronto Blue Jays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+46,Carlos Correa,Minnesota Twins,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Carlos Correa,Minnesota Twins,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Carlos Correa,Minnesota Twins,Jordan Romano,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Carlos Correa,Minnesota Twins,Erik Swanson,Toronto Blue Jays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+50,Carlos Correa,Minnesota Twins,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Carlos Correa,Minnesota Twins,Dean Kremer,Baltimore Orioles,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+52,Carlos Correa,Minnesota Twins,Bryan Baker,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+53,Carlos Correa,Minnesota Twins,Kyle Bradish,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+54,Carlos Correa,Minnesota Twins,Cole Irvin,Baltimore Orioles,6,2,0,0,0,0,0,0,0,.333,.333,.333,.666
+55,Carlos Correa,Minnesota Twins,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Carlos Correa,Minnesota Twins,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Carlos Correa,Minnesota Twins,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Carlos Correa,Minnesota Twins,Kyle Gibson,Baltimore Orioles,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+59,Carlos Correa,Minnesota Twins,Nick Vespi,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Carlos Correa,Minnesota Twins,Tyler Wells,Baltimore Orioles,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Carlos Correa,Minnesota Twins,Brad Boxberger,Chicago Cubs,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+62,Carlos Correa,Minnesota Twins,Brandon Hughes,Chicago Cubs,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+63,Carlos Correa,Minnesota Twins,Marcus Stroman,Chicago Cubs,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+64,Carlos Correa,Minnesota Twins,Drew Smyly,Chicago Cubs,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+65,Carlos Correa,Minnesota Twins,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Carlos Correa,Minnesota Twins,Michael Fulmer,Chicago Cubs,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+67,Carlos Correa,Minnesota Twins,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Carlos Correa,Minnesota Twins,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Carlos Correa,Minnesota Twins,Hayden Wesneski,Chicago Cubs,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+70,Carlos Correa,Minnesota Twins,Seth Lugo,San Diego Padres,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+71,Carlos Correa,Minnesota Twins,Steven Wilson,San Diego Padres,2,1,1,0,0,2,0,0,1,.500,.500,1.000,1.500
+72,Carlos Correa,Minnesota Twins,Yu Darvish,San Diego Padres,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+73,Carlos Correa,Minnesota Twins,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Carlos Correa,Minnesota Twins,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Carlos Correa,Minnesota Twins,Domingo Tapia,San Diego Padres,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+76,Carlos Correa,Minnesota Twins,Michael Wacha,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Carlos Correa,Minnesota Twins,Brandon Bielak,Houston Astros,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+78,Carlos Correa,Minnesota Twins,Luis Garcia,Houston Astros,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+79,Carlos Correa,Minnesota Twins,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Carlos Correa,Minnesota Twins,Ronel Blanco,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+81,Carlos Correa,Minnesota Twins,J.P. France,Houston Astros,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+82,Carlos Correa,Minnesota Twins,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Carlos Correa,Minnesota Twins,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Carlos Correa,Minnesota Twins,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Carlos Correa,Minnesota Twins,Ryne Stanek,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Carlos Correa,Minnesota Twins,Jose Urquidy,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+87,Carlos Correa,Minnesota Twins,Anthony Banda,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+88,Carlos Correa,Minnesota Twins,Hobie Harris,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+89,Carlos Correa,Minnesota Twins,Mason Thompson,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+90,Carlos Correa,Minnesota Twins,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Carlos Correa,Minnesota Twins,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Carlos Correa,Minnesota Twins,Chad Kuhl,Washington Nationals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+93,Carlos Correa,Minnesota Twins,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Carlos Correa,Minnesota Twins,Trevor Williams,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Carlos Correa,Minnesota Twins,Andrew Nardi,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+96,Carlos Correa,Minnesota Twins,Jeff Lindgren,Miami Marlins,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+97,Carlos Correa,Minnesota Twins,Sandy Alcantara,Miami Marlins,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+98,Carlos Correa,Minnesota Twins,Johnny Cueto,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Carlos Correa,Minnesota Twins,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Carlos Correa,Minnesota Twins,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+101,Carlos Correa,Minnesota Twins,Sean Manaea,San Francisco Giants,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+102,Carlos Correa,Minnesota Twins,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Carlos Correa,Minnesota Twins,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Carlos Correa,Minnesota Twins,Jimmy Cordero,New York Yankees,1,1,0,1,0,1,0,0,0,1.000,1.000,3.000,4.000
+105,Carlos Correa,Minnesota Twins,Clay Holmes,New York Yankees,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+106,Carlos Correa,Minnesota Twins,Colten Brewer,New York Yankees,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+107,Carlos Correa,Minnesota Twins,Jhony Brito,New York Yankees,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+108,Carlos Correa,Minnesota Twins,Nestor Cortes,New York Yankees,6,1,0,0,1,1,0,0,2,.167,.167,.667,.834
+109,Carlos Correa,Minnesota Twins,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Carlos Correa,Minnesota Twins,Gerrit Cole,New York Yankees,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Carlos Correa,Minnesota Twins,Domingo German,New York Yankees,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+112,Carlos Correa,Minnesota Twins,Ian Hamilton,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+113,Carlos Correa,Minnesota Twins,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Carlos Correa,Minnesota Twins,Nick Ramirez,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+115,Carlos Correa,Minnesota Twins,Greg Weissert,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Carlos Correa,Minnesota Twins,Ty Adcock,Seattle Mariners,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+117,Carlos Correa,Minnesota Twins,Logan Gilbert,Seattle Mariners,3,1,1,0,0,1,0,0,2,.333,.333,.667,1.000
+118,Carlos Correa,Minnesota Twins,Bryan Woo,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+119,Carlos Correa,Minnesota Twins,Matt Brash,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+120,Carlos Correa,Minnesota Twins,Isaiah Campbell,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Carlos Correa,Minnesota Twins,Luis Castillo,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Carlos Correa,Minnesota Twins,Andres Munoz,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Carlos Correa,Minnesota Twins,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Carlos Correa,Minnesota Twins,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Carlos Correa,Minnesota Twins,Trevor Stephan,Cleveland Guardians,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+126,Carlos Correa,Minnesota Twins,Logan Allen,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Carlos Correa,Minnesota Twins,Peyton Battenfield,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Carlos Correa,Minnesota Twins,Tanner Bibee,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+129,Carlos Correa,Minnesota Twins,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Carlos Correa,Minnesota Twins,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Carlos Correa,Minnesota Twins,Cal Quantrill,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Carlos Correa,Minnesota Twins,Alex Colome,Chicago White Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+133,Carlos Correa,Minnesota Twins,Dylan Cease,Chicago White Sox,5,3,2,0,0,3,1,0,1,.600,.667,1.000,1.667
+134,Carlos Correa,Minnesota Twins,Lucas Giolito,Chicago White Sox,6,2,0,0,1,1,0,0,3,.333,.333,.833,1.166
+135,Carlos Correa,Minnesota Twins,Tanner Banks,Chicago White Sox,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+136,Carlos Correa,Minnesota Twins,Kendall Graveman,Chicago White Sox,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+137,Carlos Correa,Minnesota Twins,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+138,Carlos Correa,Minnesota Twins,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Carlos Correa,Minnesota Twins,Reynaldo Lopez,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,Carlos Correa,Minnesota Twins,Lance Lynn,Chicago White Sox,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Carlos Correa,Minnesota Twins,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+142,Carlos Correa,Minnesota Twins,Sammy Peralta,Chicago White Sox,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+143,Carlos Correa,Minnesota Twins,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+144,Carlos Correa,Minnesota Twins,Bryan Shaw,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Carlos Correa,Minnesota Twins,Devin Williams,Milwaukee Brewers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+146,Carlos Correa,Minnesota Twins,Colin Rea,Milwaukee Brewers,3,1,0,1,0,2,0,0,1,.333,.333,1.000,1.333
+147,Carlos Correa,Minnesota Twins,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+148,Carlos Correa,Minnesota Twins,Tyson Miller,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+149,Carlos Correa,Minnesota Twins,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Carlos Correa,Minnesota Twins,Scott Barlow,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+151,Carlos Correa,Minnesota Twins,Austin Cox,Kansas City Royals,3,3,1,0,0,0,0,0,0,1.000,1.000,1.333,2.333
+152,Carlos Correa,Minnesota Twins,Taylor Clarke,Kansas City Royals,2,1,0,0,0,1,1,0,1,.500,.667,.500,1.167
+153,Carlos Correa,Minnesota Twins,Jose Cuas,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+154,Carlos Correa,Minnesota Twins,Zack Greinke,Kansas City Royals,8,3,0,0,1,1,1,0,2,.375,.444,.750,1.194
+155,Carlos Correa,Minnesota Twins,Brad Keller,Kansas City Royals,5,1,0,0,0,0,1,0,2,.200,.333,.200,.533
+156,Carlos Correa,Minnesota Twins,Dylan Coleman,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,Carlos Correa,Minnesota Twins,Jonathan Heasley,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Carlos Correa,Minnesota Twins,Carlos Hernandez,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Carlos Correa,Minnesota Twins,Jordan Lyles,Kansas City Royals,5,0,0,0,0,0,1,0,1,.000,.167,.000,.167
+160,Carlos Correa,Minnesota Twins,Alec Marsh,Kansas City Royals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+161,Carlos Correa,Minnesota Twins,Brady Singer,Kansas City Royals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+162,Carlos Correa,Minnesota Twins,Collin Snider,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+163,Carlos Correa,Minnesota Twins,Josh Staumont,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Carlos Correa,Minnesota Twins,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,Carlos Correa,Minnesota Twins,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Carlos Correa,Minnesota Twins,Chasen Shreve,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+167,Carlos Correa,Minnesota Twins,Jason Foley,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+168,Carlos Correa,Minnesota Twins,Will Vest,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+169,Carlos Correa,Minnesota Twins,Matthew Boyd,Detroit Tigers,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+170,Carlos Correa,Minnesota Twins,Reese Olson,Detroit Tigers,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+171,Carlos Correa,Minnesota Twins,Joey Wentz,Detroit Tigers,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+172,Carlos Correa,Minnesota Twins,Tyler Alexander,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Carlos Correa,Minnesota Twins,Jose Cisnero,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+174,Carlos Correa,Minnesota Twins,Mason Englert,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+175,Carlos Correa,Minnesota Twins,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Carlos Correa,Minnesota Twins,Alex Lange,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+177,Carlos Correa,Minnesota Twins,Michael Lorenzen,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+178,Carlos Correa,Minnesota Twins,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Carlos Correa,Minnesota Twins,Angel Felipe,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+180,Carlos Correa,Minnesota Twins,Austin Pruitt,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+181,Carlos Correa,Minnesota Twins,Hogan Harris,Oakland Athletics,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+182,Carlos Correa,Minnesota Twins,Freddy Tarnok,Oakland Athletics,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+183,Carlos Correa,Minnesota Twins,Ken Waldichuk,Oakland Athletics,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+184,Carlos Correa,Minnesota Twins,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+185,Carlos Correa,Minnesota Twins,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+186,Carlos Correa,Minnesota Twins,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333

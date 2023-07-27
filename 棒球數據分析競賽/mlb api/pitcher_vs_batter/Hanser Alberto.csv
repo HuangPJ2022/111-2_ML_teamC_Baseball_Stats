@@ -1,0 +1,55 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Hanser Alberto,Chicago White Sox,Tucker Davidson,Los Angeles Angels,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+1,Hanser Alberto,Chicago White Sox,Graham Ashcraft,Cincinnati Reds,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+2,Hanser Alberto,Chicago White Sox,Luis Cessa,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+3,Hanser Alberto,Chicago White Sox,Casey Legumina,Cincinnati Reds,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+4,Hanser Alberto,Chicago White Sox,Nick Lodolo,Cincinnati Reds,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+5,Hanser Alberto,Chicago White Sox,Reiver Sanmartin,Cincinnati Reds,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+6,Hanser Alberto,Chicago White Sox,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Hanser Alberto,Chicago White Sox,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Hanser Alberto,Chicago White Sox,Hunter Greene,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Hanser Alberto,Chicago White Sox,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Hanser Alberto,Chicago White Sox,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Hanser Alberto,Chicago White Sox,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Hanser Alberto,Chicago White Sox,Phil Maton,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Hanser Alberto,Chicago White Sox,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Hanser Alberto,Chicago White Sox,Brandon Bielak,Houston Astros,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+15,Hanser Alberto,Chicago White Sox,Hunter Brown,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Hanser Alberto,Chicago White Sox,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Hanser Alberto,Chicago White Sox,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Hanser Alberto,Chicago White Sox,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Hanser Alberto,Chicago White Sox,Pablo Lopez,Minnesota Twins,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+20,Hanser Alberto,Chicago White Sox,Kenta Maeda,Minnesota Twins,3,1,0,0,1,3,0,0,0,.333,.333,1.333,1.666
+21,Hanser Alberto,Chicago White Sox,Jhoan Duran,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Hanser Alberto,Chicago White Sox,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+23,Hanser Alberto,Chicago White Sox,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Hanser Alberto,Chicago White Sox,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Hanser Alberto,Chicago White Sox,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Hanser Alberto,Chicago White Sox,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Hanser Alberto,Chicago White Sox,Brock Stewart,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Hanser Alberto,Chicago White Sox,Matt Beaty,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+29,Hanser Alberto,Chicago White Sox,Logan Webb,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+30,Hanser Alberto,Chicago White Sox,Alex Wood,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+31,Hanser Alberto,Chicago White Sox,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Hanser Alberto,Chicago White Sox,Jakob Junis,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Hanser Alberto,Chicago White Sox,Tyler Rogers,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Hanser Alberto,Chicago White Sox,Shane Bieber,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+35,Hanser Alberto,Chicago White Sox,Xzavion Curry,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+36,Hanser Alberto,Chicago White Sox,Logan Allen,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Hanser Alberto,Chicago White Sox,Peyton Battenfield,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+38,Hanser Alberto,Chicago White Sox,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Hanser Alberto,Chicago White Sox,Nick Sandlin,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Hanser Alberto,Chicago White Sox,Brad Keller,Kansas City Royals,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+41,Hanser Alberto,Chicago White Sox,Max Castillo,Kansas City Royals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+42,Hanser Alberto,Chicago White Sox,Jordan Lyles,Kansas City Royals,6,1,1,0,0,0,0,0,1,.167,.167,.333,.500
+43,Hanser Alberto,Chicago White Sox,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Hanser Alberto,Chicago White Sox,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Hanser Alberto,Chicago White Sox,Jose Cuas,Kansas City Royals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Hanser Alberto,Chicago White Sox,Zack Greinke,Kansas City Royals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+47,Hanser Alberto,Chicago White Sox,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Hanser Alberto,Chicago White Sox,Brady Singer,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+49,Hanser Alberto,Chicago White Sox,Tyler Alexander,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+50,Hanser Alberto,Chicago White Sox,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Hanser Alberto,Chicago White Sox,Eduardo Rodriguez,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Hanser Alberto,Chicago White Sox,Zack Short,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Hanser Alberto,Chicago White Sox,Joey Wentz,Detroit Tigers,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000

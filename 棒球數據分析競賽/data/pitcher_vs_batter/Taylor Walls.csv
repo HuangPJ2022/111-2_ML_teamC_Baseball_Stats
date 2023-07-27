@@ -1,0 +1,162 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Taylor Walls,Tampa Bay Rays,Michael Tonkin,Atlanta Braves,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+1,Taylor Walls,Tampa Bay Rays,Spencer Strider,Atlanta Braves,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+2,Taylor Walls,Tampa Bay Rays,Kolby Allard,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+3,Taylor Walls,Tampa Bay Rays,Bryce Elder,Atlanta Braves,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+4,Taylor Walls,Tampa Bay Rays,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Taylor Walls,Tampa Bay Rays,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Taylor Walls,Tampa Bay Rays,Spencer Howard,Texas Rangers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+7,Taylor Walls,Tampa Bay Rays,Martin Perez,Texas Rangers,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+8,Taylor Walls,Tampa Bay Rays,Jon Gray,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+9,Taylor Walls,Tampa Bay Rays,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Taylor Walls,Tampa Bay Rays,Dane Dunning,Texas Rangers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+11,Taylor Walls,Tampa Bay Rays,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Taylor Walls,Tampa Bay Rays,John King,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Taylor Walls,Tampa Bay Rays,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Taylor Walls,Tampa Bay Rays,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Taylor Walls,Tampa Bay Rays,Caleb Ferguson,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+16,Taylor Walls,Tampa Bay Rays,Clayton Kershaw,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+17,Taylor Walls,Tampa Bay Rays,Noah Syndergaard,Los Angeles Dodgers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+18,Taylor Walls,Tampa Bay Rays,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Taylor Walls,Tampa Bay Rays,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Taylor Walls,Tampa Bay Rays,Chris Sale,Boston Red Sox,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+21,Taylor Walls,Tampa Bay Rays,Brayan Bello,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Taylor Walls,Tampa Bay Rays,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Taylor Walls,Tampa Bay Rays,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Taylor Walls,Tampa Bay Rays,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Taylor Walls,Tampa Bay Rays,Justin Garza,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+26,Taylor Walls,Tampa Bay Rays,Tanner Houck,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Taylor Walls,Tampa Bay Rays,Zack Kelly,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Taylor Walls,Tampa Bay Rays,Corey Kluber,Boston Red Sox,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Taylor Walls,Tampa Bay Rays,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Taylor Walls,Tampa Bay Rays,Kaleb Ort,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Taylor Walls,Tampa Bay Rays,Nick Pivetta,Boston Red Sox,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+32,Taylor Walls,Tampa Bay Rays,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Taylor Walls,Tampa Bay Rays,Ryan Sherriff,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+34,Taylor Walls,Tampa Bay Rays,Garrett Whitlock,Boston Red Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+35,Taylor Walls,Tampa Bay Rays,Casey Legumina,Cincinnati Reds,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+36,Taylor Walls,Tampa Bay Rays,Luke Maile,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+37,Taylor Walls,Tampa Bay Rays,Nick Lodolo,Cincinnati Reds,3,2,0,1,1,3,0,0,0,.667,.667,2.333,3.000
+38,Taylor Walls,Tampa Bay Rays,Levi Stoudt,Cincinnati Reds,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+39,Taylor Walls,Tampa Bay Rays,Fernando Cruz,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+40,Taylor Walls,Tampa Bay Rays,Reiver Sanmartin,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Taylor Walls,Tampa Bay Rays,Anthony Bass,Toronto Blue Jays,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+42,Taylor Walls,Tampa Bay Rays,Yusei Kikuchi,Toronto Blue Jays,5,1,0,0,1,1,0,0,2,.200,.200,.800,1.000
+43,Taylor Walls,Tampa Bay Rays,Jose Berrios,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Taylor Walls,Tampa Bay Rays,Adam Cimber,Toronto Blue Jays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+45,Taylor Walls,Tampa Bay Rays,Alek Manoah,Toronto Blue Jays,3,0,0,0,0,0,2,0,2,.000,.400,.000,.400
+46,Taylor Walls,Tampa Bay Rays,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Taylor Walls,Tampa Bay Rays,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Taylor Walls,Tampa Bay Rays,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Taylor Walls,Tampa Bay Rays,Tyler Wells,Baltimore Orioles,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+50,Taylor Walls,Tampa Bay Rays,Grayson Rodriguez,Baltimore Orioles,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+51,Taylor Walls,Tampa Bay Rays,Kyle Gibson,Baltimore Orioles,6,2,0,0,0,0,0,0,2,.333,.333,.333,.666
+52,Taylor Walls,Tampa Bay Rays,Keegan Akin,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+53,Taylor Walls,Tampa Bay Rays,Bryan Baker,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+54,Taylor Walls,Tampa Bay Rays,Mike Baumann,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+55,Taylor Walls,Tampa Bay Rays,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Taylor Walls,Tampa Bay Rays,Kyle Bradish,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+57,Taylor Walls,Tampa Bay Rays,Yennier Cano,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Taylor Walls,Tampa Bay Rays,Cole Irvin,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Taylor Walls,Tampa Bay Rays,Jose Alvarado,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+60,Taylor Walls,Tampa Bay Rays,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Taylor Walls,Tampa Bay Rays,Cristopher Sanchez,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Taylor Walls,Tampa Bay Rays,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Taylor Walls,Tampa Bay Rays,Taijuan Walker,Philadelphia Phillies,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+64,Taylor Walls,Tampa Bay Rays,Mark Leiter Jr.,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+65,Taylor Walls,Tampa Bay Rays,Julian Merryweather,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+66,Taylor Walls,Tampa Bay Rays,Justin Steele,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Taylor Walls,Tampa Bay Rays,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Taylor Walls,Tampa Bay Rays,Hayden Wesneski,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Taylor Walls,Tampa Bay Rays,Luis Garcia,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+70,Taylor Walls,Tampa Bay Rays,Hunter Brown,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Taylor Walls,Tampa Bay Rays,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Taylor Walls,Tampa Bay Rays,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Taylor Walls,Tampa Bay Rays,Josh Hader,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+74,Taylor Walls,Tampa Bay Rays,Yu Darvish,San Diego Padres,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+75,Taylor Walls,Tampa Bay Rays,Nabil Crismatt,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+76,Taylor Walls,Tampa Bay Rays,Ray Kerr,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Taylor Walls,Tampa Bay Rays,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Taylor Walls,Tampa Bay Rays,Blake Snell,San Diego Padres,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+79,Taylor Walls,Tampa Bay Rays,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Taylor Walls,Tampa Bay Rays,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Taylor Walls,Tampa Bay Rays,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Taylor Walls,Tampa Bay Rays,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+83,Taylor Walls,Tampa Bay Rays,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Taylor Walls,Tampa Bay Rays,Louie Varland,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Taylor Walls,Tampa Bay Rays,Adam Ottavino,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+86,Taylor Walls,Tampa Bay Rays,Tylor Megill,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Taylor Walls,Tampa Bay Rays,Stephen Nogosek,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Taylor Walls,Tampa Bay Rays,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Taylor Walls,Tampa Bay Rays,Kodai Senga,New York Mets,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+90,Taylor Walls,Tampa Bay Rays,Kyle Finnegan,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+91,Taylor Walls,Tampa Bay Rays,Patrick Corbin,Washington Nationals,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+92,Taylor Walls,Tampa Bay Rays,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Taylor Walls,Tampa Bay Rays,Chad Kuhl,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Taylor Walls,Tampa Bay Rays,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Taylor Walls,Tampa Bay Rays,Albert Abreu,New York Yankees,3,3,1,0,1,5,0,0,0,1.000,1.000,2.333,3.333
+96,Taylor Walls,Tampa Bay Rays,Jhony Brito,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+97,Taylor Walls,Tampa Bay Rays,Nestor Cortes,New York Yankees,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+98,Taylor Walls,Tampa Bay Rays,Clarke Schmidt,New York Yankees,2,1,0,1,0,0,0,0,1,.500,.500,1.500,2.000
+99,Taylor Walls,Tampa Bay Rays,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Taylor Walls,Tampa Bay Rays,Domingo German,New York Yankees,3,0,0,0,0,0,2,0,0,.000,.400,.000,.400
+101,Taylor Walls,Tampa Bay Rays,Ian Hamilton,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+102,Taylor Walls,Tampa Bay Rays,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Taylor Walls,Tampa Bay Rays,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Taylor Walls,Tampa Bay Rays,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Taylor Walls,Tampa Bay Rays,Ryan Weber,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Taylor Walls,Tampa Bay Rays,Mike Ford,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+107,Taylor Walls,Tampa Bay Rays,Gabe Speier,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+108,Taylor Walls,Tampa Bay Rays,Matt Brash,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Taylor Walls,Tampa Bay Rays,Luis Castillo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Taylor Walls,Tampa Bay Rays,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Taylor Walls,Tampa Bay Rays,George Kirby,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Taylor Walls,Tampa Bay Rays,Bryce Miller,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Taylor Walls,Tampa Bay Rays,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Taylor Walls,Tampa Bay Rays,Vince Velasquez,Pittsburgh Pirates,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+115,Taylor Walls,Tampa Bay Rays,Cody Bolton,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Taylor Walls,Tampa Bay Rays,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Taylor Walls,Tampa Bay Rays,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Taylor Walls,Tampa Bay Rays,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+119,Taylor Walls,Tampa Bay Rays,Mike Clevinger,Chicago White Sox,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+120,Taylor Walls,Tampa Bay Rays,Aaron Bummer,Chicago White Sox,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+121,Taylor Walls,Tampa Bay Rays,Gregory Santos,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+122,Taylor Walls,Tampa Bay Rays,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+123,Taylor Walls,Tampa Bay Rays,Jake Diekman,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+124,Taylor Walls,Tampa Bay Rays,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Taylor Walls,Tampa Bay Rays,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Taylor Walls,Tampa Bay Rays,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Taylor Walls,Tampa Bay Rays,Reynaldo Lopez,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Taylor Walls,Tampa Bay Rays,Lance Lynn,Chicago White Sox,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+129,Taylor Walls,Tampa Bay Rays,Eric Lauer,Milwaukee Brewers,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+130,Taylor Walls,Tampa Bay Rays,Jake Cousins,Milwaukee Brewers,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+131,Taylor Walls,Tampa Bay Rays,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+132,Taylor Walls,Tampa Bay Rays,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Taylor Walls,Tampa Bay Rays,Tyler Alexander,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+134,Taylor Walls,Tampa Bay Rays,Joey Wentz,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+135,Taylor Walls,Tampa Bay Rays,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Taylor Walls,Tampa Bay Rays,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Taylor Walls,Tampa Bay Rays,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Taylor Walls,Tampa Bay Rays,Spencer Turnbull,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+139,Taylor Walls,Tampa Bay Rays,Jose Cuas,Kansas City Royals,2,1,0,0,0,2,0,0,1,.500,.500,.500,1.000
+140,Taylor Walls,Tampa Bay Rays,Zack Greinke,Kansas City Royals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+141,Taylor Walls,Tampa Bay Rays,Jordan Lyles,Kansas City Royals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+142,Taylor Walls,Tampa Bay Rays,Daniel Lynch IV,Kansas City Royals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+143,Taylor Walls,Tampa Bay Rays,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Taylor Walls,Tampa Bay Rays,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Taylor Walls,Tampa Bay Rays,Austin Cox,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Taylor Walls,Tampa Bay Rays,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Taylor Walls,Tampa Bay Rays,Brooks Kriske,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Taylor Walls,Tampa Bay Rays,Alec Marsh,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+149,Taylor Walls,Tampa Bay Rays,Cole Ragans,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Taylor Walls,Tampa Bay Rays,Collin Snider,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Taylor Walls,Tampa Bay Rays,Nick Wittgren,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Taylor Walls,Tampa Bay Rays,Luis Medina,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+153,Taylor Walls,Tampa Bay Rays,Ken Waldichuk,Oakland Athletics,2,1,0,0,0,1,1,0,1,.500,.667,.500,1.167
+154,Taylor Walls,Tampa Bay Rays,Paul Blackburn,Oakland Athletics,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+155,Taylor Walls,Tampa Bay Rays,James Kaprielian,Oakland Athletics,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+156,Taylor Walls,Tampa Bay Rays,Hogan Harris,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Taylor Walls,Tampa Bay Rays,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Taylor Walls,Tampa Bay Rays,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Taylor Walls,Tampa Bay Rays,Adam Oller,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+160,Taylor Walls,Tampa Bay Rays,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

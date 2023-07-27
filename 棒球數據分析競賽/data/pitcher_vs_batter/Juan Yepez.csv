@@ -1,0 +1,29 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Juan Yepez,St. Louis Cardinals,Dylan Dodd,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+1,Juan Yepez,St. Louis Cardinals,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Juan Yepez,St. Louis Cardinals,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Juan Yepez,St. Louis Cardinals,Julio Urias,Los Angeles Dodgers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+4,Juan Yepez,St. Louis Cardinals,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Juan Yepez,St. Louis Cardinals,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Juan Yepez,St. Louis Cardinals,Andre Jackson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Juan Yepez,St. Louis Cardinals,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+8,Juan Yepez,St. Louis Cardinals,James Paxton,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Juan Yepez,St. Louis Cardinals,Chris Sale,Boston Red Sox,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+10,Juan Yepez,St. Louis Cardinals,Brandon Williamson,Cincinnati Reds,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+11,Juan Yepez,St. Louis Cardinals,Luke Weaver,Cincinnati Reds,2,1,1,0,0,0,0,0,0,.500,.667,1.000,1.667
+12,Juan Yepez,St. Louis Cardinals,Alan Busenitz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Juan Yepez,St. Louis Cardinals,Justin Steele,Chicago Cubs,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+14,Juan Yepez,St. Louis Cardinals,Kyle Freeland,Colorado Rockies,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+15,Juan Yepez,St. Louis Cardinals,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Juan Yepez,St. Louis Cardinals,Dinelson Lamet,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Juan Yepez,St. Louis Cardinals,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Juan Yepez,St. Louis Cardinals,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+19,Juan Yepez,St. Louis Cardinals,Javy Guerra,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Juan Yepez,St. Louis Cardinals,Eric Lauer,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Juan Yepez,St. Louis Cardinals,Gus Varland,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Juan Yepez,St. Louis Cardinals,Jason Foley,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Juan Yepez,St. Louis Cardinals,Matthew Boyd,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Juan Yepez,St. Louis Cardinals,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Juan Yepez,St. Louis Cardinals,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Juan Yepez,St. Louis Cardinals,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Juan Yepez,St. Louis Cardinals,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000

@@ -1,0 +1,54 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Tyler Freeman,Cleveland Guardians,Kirby Yates,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Tyler Freeman,Cleveland Guardians,Kolby Allard,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Tyler Freeman,Cleveland Guardians,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Tyler Freeman,Cleveland Guardians,Andrew Heaney,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+4,Tyler Freeman,Cleveland Guardians,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Tyler Freeman,Cleveland Guardians,Aroldis Chapman,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Tyler Freeman,Cleveland Guardians,Jack Flaherty,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Tyler Freeman,Cleveland Guardians,Jordan Montgomery,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Tyler Freeman,Cleveland Guardians,Austin Adams,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Tyler Freeman,Cleveland Guardians,Jose Ruiz,Arizona Diamondbacks,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+10,Tyler Freeman,Cleveland Guardians,Zach Davies,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Tyler Freeman,Cleveland Guardians,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Tyler Freeman,Cleveland Guardians,Jeff Hoffman,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+13,Tyler Freeman,Cleveland Guardians,Aaron Nola,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Tyler Freeman,Cleveland Guardians,Gregory Soto,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Tyler Freeman,Cleveland Guardians,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Tyler Freeman,Cleveland Guardians,Justin Steele,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+17,Tyler Freeman,Cleveland Guardians,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Tyler Freeman,Cleveland Guardians,Joe Musgrove,San Diego Padres,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+19,Tyler Freeman,Cleveland Guardians,Brandon Bielak,Houston Astros,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+20,Tyler Freeman,Cleveland Guardians,Rafael Montero,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Tyler Freeman,Cleveland Guardians,Seth Martinez,Houston Astros,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+22,Tyler Freeman,Cleveland Guardians,J.P. France,Houston Astros,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+23,Tyler Freeman,Cleveland Guardians,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Tyler Freeman,Cleveland Guardians,Sonny Gray,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+25,Tyler Freeman,Cleveland Guardians,Bailey Ober,Minnesota Twins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+26,Tyler Freeman,Cleveland Guardians,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Tyler Freeman,Cleveland Guardians,Jorge Lopez,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+28,Tyler Freeman,Cleveland Guardians,Joe Ryan,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Tyler Freeman,Cleveland Guardians,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Tyler Freeman,Cleveland Guardians,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Tyler Freeman,Cleveland Guardians,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Tyler Freeman,Cleveland Guardians,Tanner Scott,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+33,Tyler Freeman,Cleveland Guardians,Adam Ottavino,New York Mets,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+34,Tyler Freeman,Cleveland Guardians,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Tyler Freeman,Cleveland Guardians,Max Scherzer,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Tyler Freeman,Cleveland Guardians,Colin Holderman,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+37,Tyler Freeman,Cleveland Guardians,Rich Hill,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Tyler Freeman,Cleveland Guardians,Mike Clevinger,Chicago White Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+39,Tyler Freeman,Cleveland Guardians,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Tyler Freeman,Cleveland Guardians,Joel Payamps,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+41,Tyler Freeman,Cleveland Guardians,Corbin Burnes,Milwaukee Brewers,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+42,Tyler Freeman,Cleveland Guardians,Wade Miley,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Tyler Freeman,Cleveland Guardians,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Tyler Freeman,Cleveland Guardians,Scott Barlow,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+45,Tyler Freeman,Cleveland Guardians,Ryan Yarbrough,Kansas City Royals,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+46,Tyler Freeman,Cleveland Guardians,Matt Duffy,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Tyler Freeman,Cleveland Guardians,Mason Englert,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+48,Tyler Freeman,Cleveland Guardians,Alex Lange,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+49,Tyler Freeman,Cleveland Guardians,Eduardo Rodriguez,Detroit Tigers,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+50,Tyler Freeman,Cleveland Guardians,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Tyler Freeman,Cleveland Guardians,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Tyler Freeman,Cleveland Guardians,Trevor May,Oakland Athletics,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000

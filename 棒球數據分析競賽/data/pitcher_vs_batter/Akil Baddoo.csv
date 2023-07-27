@@ -1,0 +1,111 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Akil Baddoo,Detroit Tigers,Nathan Eovaldi,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+1,Akil Baddoo,Detroit Tigers,Dane Dunning,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+2,Akil Baddoo,Detroit Tigers,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Akil Baddoo,Detroit Tigers,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Akil Baddoo,Detroit Tigers,Jose Leclerc,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+5,Akil Baddoo,Detroit Tigers,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Akil Baddoo,Detroit Tigers,Ryan Brasier,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+7,Akil Baddoo,Detroit Tigers,Chris Martin,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Akil Baddoo,Detroit Tigers,Kutter Crawford,Boston Red Sox,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+9,Akil Baddoo,Detroit Tigers,Tanner Houck,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+10,Akil Baddoo,Detroit Tigers,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Akil Baddoo,Detroit Tigers,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Akil Baddoo,Detroit Tigers,Giovanny Gallegos,St. Louis Cardinals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+13,Akil Baddoo,Detroit Tigers,Adam Wainwright,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+14,Akil Baddoo,Detroit Tigers,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Akil Baddoo,Detroit Tigers,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Akil Baddoo,Detroit Tigers,Merrill Kelly,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Akil Baddoo,Detroit Tigers,Chris Bassitt,Toronto Blue Jays,4,1,0,0,0,0,1,0,1,.250,.400,.250,.650
+18,Akil Baddoo,Detroit Tigers,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,1,1,0,.000,.500,.000,.500
+19,Akil Baddoo,Detroit Tigers,Bowden Francis,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Akil Baddoo,Detroit Tigers,Alek Manoah,Toronto Blue Jays,4,0,0,0,0,0,1,0,3,.000,.200,.000,.200
+21,Akil Baddoo,Detroit Tigers,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Akil Baddoo,Detroit Tigers,Jordan Romano,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+23,Akil Baddoo,Detroit Tigers,Erik Swanson,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+24,Akil Baddoo,Detroit Tigers,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Akil Baddoo,Detroit Tigers,DL Hall,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Akil Baddoo,Detroit Tigers,Dean Kremer,Baltimore Orioles,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+27,Akil Baddoo,Detroit Tigers,Felix Bautista,Baltimore Orioles,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+28,Akil Baddoo,Detroit Tigers,Grayson Rodriguez,Baltimore Orioles,5,1,0,0,0,0,0,0,2,.200,.200,.200,.400
+29,Akil Baddoo,Detroit Tigers,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Akil Baddoo,Detroit Tigers,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Akil Baddoo,Detroit Tigers,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+32,Akil Baddoo,Detroit Tigers,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Akil Baddoo,Detroit Tigers,Kyle Gibson,Baltimore Orioles,2,0,0,0,0,0,2,0,1,.000,.500,.000,.500
+34,Akil Baddoo,Detroit Tigers,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Akil Baddoo,Detroit Tigers,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+36,Akil Baddoo,Detroit Tigers,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+37,Akil Baddoo,Detroit Tigers,Taijuan Walker,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Akil Baddoo,Detroit Tigers,Zack Wheeler,Philadelphia Phillies,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+39,Akil Baddoo,Detroit Tigers,Seth Lugo,San Diego Padres,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+40,Akil Baddoo,Detroit Tigers,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Akil Baddoo,Detroit Tigers,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Akil Baddoo,Detroit Tigers,Jake Irvin,Washington Nationals,2,2,0,0,1,4,0,0,0,1.000,1.000,2.500,3.500
+43,Akil Baddoo,Detroit Tigers,Kyle Finnegan,Washington Nationals,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+44,Akil Baddoo,Detroit Tigers,Josiah Gray,Washington Nationals,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+45,Akil Baddoo,Detroit Tigers,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Akil Baddoo,Detroit Tigers,Andres Machado,Washington Nationals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+47,Akil Baddoo,Detroit Tigers,Thaddeus Ward,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+48,Akil Baddoo,Detroit Tigers,Anthony DeSclafani,San Francisco Giants,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+49,Akil Baddoo,Detroit Tigers,Camilo Doval,San Francisco Giants,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Akil Baddoo,Detroit Tigers,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Akil Baddoo,Detroit Tigers,Max Scherzer,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+52,Akil Baddoo,Detroit Tigers,Jose Butto,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Akil Baddoo,Detroit Tigers,Zach Muckenhirn,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Akil Baddoo,Detroit Tigers,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Akil Baddoo,Detroit Tigers,Trevor Gott,Seattle Mariners,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+56,Akil Baddoo,Detroit Tigers,Luis Castillo,Seattle Mariners,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+57,Akil Baddoo,Detroit Tigers,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Akil Baddoo,Detroit Tigers,Isaiah Campbell,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Akil Baddoo,Detroit Tigers,Matt Festa,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+60,Akil Baddoo,Detroit Tigers,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Akil Baddoo,Detroit Tigers,George Kirby,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Akil Baddoo,Detroit Tigers,Bryce Miller,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Akil Baddoo,Detroit Tigers,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Akil Baddoo,Detroit Tigers,Juan Then,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Akil Baddoo,Detroit Tigers,Justin Topa,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Akil Baddoo,Detroit Tigers,Shane Bieber,Cleveland Guardians,3,3,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+67,Akil Baddoo,Detroit Tigers,Emmanuel Clase,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+68,Akil Baddoo,Detroit Tigers,Peyton Battenfield,Cleveland Guardians,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+69,Akil Baddoo,Detroit Tigers,Tanner Bibee,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+70,Akil Baddoo,Detroit Tigers,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Akil Baddoo,Detroit Tigers,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Akil Baddoo,Detroit Tigers,Hunter Gaddis,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Akil Baddoo,Detroit Tigers,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Akil Baddoo,Detroit Tigers,Cal Quantrill,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Akil Baddoo,Detroit Tigers,Nick Sandlin,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Akil Baddoo,Detroit Tigers,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Akil Baddoo,Detroit Tigers,Luis L. Ortiz,Pittsburgh Pirates,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+78,Akil Baddoo,Detroit Tigers,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Akil Baddoo,Detroit Tigers,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Akil Baddoo,Detroit Tigers,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Akil Baddoo,Detroit Tigers,Lucas Giolito,Chicago White Sox,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+82,Akil Baddoo,Detroit Tigers,Lance Lynn,Chicago White Sox,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+83,Akil Baddoo,Detroit Tigers,Jesse Scholtens,Chicago White Sox,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+84,Akil Baddoo,Detroit Tigers,Dylan Cease,Chicago White Sox,3,1,0,0,1,4,1,0,1,.333,.500,1.333,1.833
+85,Akil Baddoo,Detroit Tigers,Michael Kopech,Chicago White Sox,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+86,Akil Baddoo,Detroit Tigers,Mike Clevinger,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Akil Baddoo,Detroit Tigers,Garrett Crochet,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Akil Baddoo,Detroit Tigers,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Akil Baddoo,Detroit Tigers,Liam Hendriks,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Akil Baddoo,Detroit Tigers,Joe Kelly,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+91,Akil Baddoo,Detroit Tigers,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,1,1,0,.000,.500,.000,.500
+92,Akil Baddoo,Detroit Tigers,Keynan Middleton,Chicago White Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Akil Baddoo,Detroit Tigers,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+94,Akil Baddoo,Detroit Tigers,Freddy Peralta,Milwaukee Brewers,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+95,Akil Baddoo,Detroit Tigers,Bryse Wilson,Milwaukee Brewers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+96,Akil Baddoo,Detroit Tigers,Jake Cousins,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+97,Akil Baddoo,Detroit Tigers,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+98,Akil Baddoo,Detroit Tigers,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Akil Baddoo,Detroit Tigers,Brady Singer,Kansas City Royals,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+100,Akil Baddoo,Detroit Tigers,Taylor Clarke,Kansas City Royals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+101,Akil Baddoo,Detroit Tigers,Jordan Lyles,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+102,Akil Baddoo,Detroit Tigers,Mike Mayers,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+103,Akil Baddoo,Detroit Tigers,Scott Barlow,Kansas City Royals,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+104,Akil Baddoo,Detroit Tigers,Dylan Coleman,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Akil Baddoo,Detroit Tigers,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Akil Baddoo,Detroit Tigers,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,2,0,0,.000,.500,.000,.500
+107,Akil Baddoo,Detroit Tigers,Jonathan Heasley,Kansas City Royals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+108,Akil Baddoo,Detroit Tigers,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Akil Baddoo,Detroit Tigers,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

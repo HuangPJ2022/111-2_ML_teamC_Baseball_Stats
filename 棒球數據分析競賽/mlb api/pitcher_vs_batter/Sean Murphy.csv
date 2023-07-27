@@ -1,0 +1,150 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Sean Murphy,Atlanta Braves,Jonathan Hernandez,Texas Rangers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+1,Sean Murphy,Atlanta Braves,Cody Bradford,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+2,Sean Murphy,Atlanta Braves,Dane Dunning,Texas Rangers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+3,Sean Murphy,Atlanta Braves,Sandy Leon,Texas Rangers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+4,Sean Murphy,Atlanta Braves,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Sean Murphy,Atlanta Braves,Bobby Miller,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+6,Sean Murphy,Atlanta Braves,Gavin Stone,Los Angeles Dodgers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+7,Sean Murphy,Atlanta Braves,Yency Almonte,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Sean Murphy,Atlanta Braves,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+9,Sean Murphy,Atlanta Braves,Taj Bradley,Tampa Bay Rays,2,1,0,0,1,3,0,0,1,.500,.500,2.000,2.500
+10,Sean Murphy,Atlanta Braves,Tyler Glasnow,Tampa Bay Rays,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+11,Sean Murphy,Atlanta Braves,Yonny Chirinos,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+12,Sean Murphy,Atlanta Braves,Javy Guerra,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+13,Sean Murphy,Atlanta Braves,Elvin Rodriguez,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+14,Sean Murphy,Atlanta Braves,Zack Littell,Boston Red Sox,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+15,Sean Murphy,Atlanta Braves,Nick Pivetta,Boston Red Sox,2,2,0,0,0,3,0,0,0,1.000,1.000,1.000,2.000
+16,Sean Murphy,Atlanta Braves,Brayan Bello,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Sean Murphy,Atlanta Braves,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Sean Murphy,Atlanta Braves,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Sean Murphy,Atlanta Braves,Steven Matz,St. Louis Cardinals,2,1,0,0,0,1,1,0,1,.500,.667,.500,1.167
+20,Sean Murphy,Atlanta Braves,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Sean Murphy,Atlanta Braves,Miguel Castro,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Sean Murphy,Atlanta Braves,Drey Jameson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Sean Murphy,Atlanta Braves,Zach Davies,Arizona Diamondbacks,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+24,Sean Murphy,Atlanta Braves,Ryne Nelson,Arizona Diamondbacks,6,2,1,0,0,0,0,0,1,.333,.333,.500,.833
+25,Sean Murphy,Atlanta Braves,Austin Adams,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Sean Murphy,Atlanta Braves,Zac Gallen,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Sean Murphy,Atlanta Braves,Kevin Ginkel,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Sean Murphy,Atlanta Braves,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+29,Sean Murphy,Atlanta Braves,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Sean Murphy,Atlanta Braves,Jose Ruiz,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+31,Sean Murphy,Atlanta Braves,Randy Wynne,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+32,Sean Murphy,Atlanta Braves,Graham Ashcraft,Cincinnati Reds,3,2,2,0,0,1,0,0,1,.667,.667,1.333,2.000
+33,Sean Murphy,Atlanta Braves,Derek Law,Cincinnati Reds,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+34,Sean Murphy,Atlanta Braves,Levi Stoudt,Cincinnati Reds,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+35,Sean Murphy,Atlanta Braves,Hunter Greene,Cincinnati Reds,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+36,Sean Murphy,Atlanta Braves,Luis Cessa,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+37,Sean Murphy,Atlanta Braves,Alexis Diaz,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+38,Sean Murphy,Atlanta Braves,Ian Gibaut,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Sean Murphy,Atlanta Braves,Kevin Herget,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+40,Sean Murphy,Atlanta Braves,Reiver Sanmartin,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Sean Murphy,Atlanta Braves,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Sean Murphy,Atlanta Braves,Chris Bassitt,Toronto Blue Jays,4,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+43,Sean Murphy,Atlanta Braves,Jose Berrios,Toronto Blue Jays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Sean Murphy,Atlanta Braves,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Sean Murphy,Atlanta Braves,Mike Baumann,Baltimore Orioles,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+46,Sean Murphy,Atlanta Braves,Dean Kremer,Baltimore Orioles,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+47,Sean Murphy,Atlanta Braves,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Sean Murphy,Atlanta Braves,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Sean Murphy,Atlanta Braves,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+50,Sean Murphy,Atlanta Braves,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Sean Murphy,Atlanta Braves,Dylan Covey,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+52,Sean Murphy,Atlanta Braves,Yunior Marte,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+53,Sean Murphy,Atlanta Braves,Matt Strahm,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+54,Sean Murphy,Atlanta Braves,Craig Kimbrel,Philadelphia Phillies,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+55,Sean Murphy,Atlanta Braves,Aaron Nola,Philadelphia Phillies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+56,Sean Murphy,Atlanta Braves,Zack Wheeler,Philadelphia Phillies,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+57,Sean Murphy,Atlanta Braves,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Sean Murphy,Atlanta Braves,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Sean Murphy,Atlanta Braves,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Sean Murphy,Atlanta Braves,Framber Valdez,Houston Astros,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+61,Sean Murphy,Atlanta Braves,Hunter Brown,Houston Astros,1,0,0,0,0,0,1,0,1,.000,.667,.000,.667
+62,Sean Murphy,Atlanta Braves,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Sean Murphy,Atlanta Braves,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Sean Murphy,Atlanta Braves,Blake Snell,San Diego Padres,3,3,1,0,1,1,1,0,0,1.000,1.000,2.333,3.333
+65,Sean Murphy,Atlanta Braves,Nabil Crismatt,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+66,Sean Murphy,Atlanta Braves,Luis Garcia,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+67,Sean Murphy,Atlanta Braves,Josh Hader,San Diego Padres,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+68,Sean Murphy,Atlanta Braves,Reiss Knehr,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Sean Murphy,Atlanta Braves,Seth Lugo,San Diego Padres,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+70,Sean Murphy,Atlanta Braves,Nick Martinez,San Diego Padres,4,0,0,0,0,1,2,0,1,.000,.333,.000,.333
+71,Sean Murphy,Atlanta Braves,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+72,Sean Murphy,Atlanta Braves,Ryan Weathers,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Sean Murphy,Atlanta Braves,Steven Wilson,San Diego Padres,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+74,Sean Murphy,Atlanta Braves,Joe Ryan,Minnesota Twins,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+75,Sean Murphy,Atlanta Braves,Brent Headrick,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Sean Murphy,Atlanta Braves,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Sean Murphy,Atlanta Braves,Archie Bradley,Miami Marlins,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+78,Sean Murphy,Atlanta Braves,Dylan Floro,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+79,Sean Murphy,Atlanta Braves,Sean Nolin,Miami Marlins,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+80,Sean Murphy,Atlanta Braves,Eury Perez,Miami Marlins,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+81,Sean Murphy,Atlanta Braves,Braxton Garrett,Miami Marlins,3,2,0,0,0,0,1,0,0,.667,.750,.667,1.417
+82,Sean Murphy,Atlanta Braves,Edward Cabrera,Miami Marlins,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+83,Sean Murphy,Atlanta Braves,Bryan Hoeing,Miami Marlins,3,1,0,0,0,1,0,0,1,.333,.250,.333,.583
+84,Sean Murphy,Atlanta Braves,Jesus Luzardo,Miami Marlins,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+85,Sean Murphy,Atlanta Braves,Sandy Alcantara,Miami Marlins,4,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+86,Sean Murphy,Atlanta Braves,Matt Barnes,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+87,Sean Murphy,Atlanta Braves,Huascar Brazoban,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Sean Murphy,Atlanta Braves,JT Chargois,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+89,Sean Murphy,Atlanta Braves,Steven Okert,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.333,.000,.333
+90,Sean Murphy,Atlanta Braves,A.J. Puk,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+91,Sean Murphy,Atlanta Braves,Johan Quezada,Miami Marlins,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+92,Sean Murphy,Atlanta Braves,Devin Smeltzer,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.250,.000,.250
+93,Sean Murphy,Atlanta Braves,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Sean Murphy,Atlanta Braves,Kyle Finnegan,Washington Nationals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+95,Sean Murphy,Atlanta Braves,Trevor Williams,Washington Nationals,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+96,Sean Murphy,Atlanta Braves,Patrick Corbin,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Sean Murphy,Atlanta Braves,MacKenzie Gore,Washington Nationals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+98,Sean Murphy,Atlanta Braves,Josiah Gray,Washington Nationals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+99,Sean Murphy,Atlanta Braves,Erasmo Ramirez,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Sean Murphy,Atlanta Braves,Mason Thompson,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Sean Murphy,Atlanta Braves,Jeff Brigham,New York Mets,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+102,Sean Murphy,Atlanta Braves,Tylor Megill,New York Mets,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+103,Sean Murphy,Atlanta Braves,Denyi Reyes,New York Mets,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+104,Sean Murphy,Atlanta Braves,Carlos Carrasco,New York Mets,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+105,Sean Murphy,Atlanta Braves,Max Scherzer,New York Mets,3,1,0,0,1,2,0,0,2,.333,.333,1.333,1.666
+106,Sean Murphy,Atlanta Braves,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Sean Murphy,Atlanta Braves,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Sean Murphy,Atlanta Braves,Stephen Nogosek,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Sean Murphy,Atlanta Braves,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Sean Murphy,Atlanta Braves,David Peterson,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Sean Murphy,Atlanta Braves,David Robertson,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,Sean Murphy,Atlanta Braves,Kyle Freeland,Colorado Rockies,3,3,1,0,0,0,0,0,0,1.000,1.000,1.333,2.333
+113,Sean Murphy,Atlanta Braves,Connor Seabold,Colorado Rockies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+114,Sean Murphy,Atlanta Braves,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Sean Murphy,Atlanta Braves,Justin Topa,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+116,Sean Murphy,Atlanta Braves,Logan Gilbert,Seattle Mariners,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+117,Sean Murphy,Atlanta Braves,Bryce Miller,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+118,Sean Murphy,Atlanta Braves,Sam Hentges,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+119,Sean Murphy,Atlanta Braves,Cal Quantrill,Cleveland Guardians,3,3,1,0,1,2,0,0,0,1.000,1.000,2.333,3.333
+120,Sean Murphy,Atlanta Braves,Gavin Williams,Cleveland Guardians,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+121,Sean Murphy,Atlanta Braves,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Sean Murphy,Atlanta Braves,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Sean Murphy,Atlanta Braves,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Sean Murphy,Atlanta Braves,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Sean Murphy,Atlanta Braves,Michael Kopech,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+126,Sean Murphy,Atlanta Braves,Lance Lynn,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Sean Murphy,Atlanta Braves,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Sean Murphy,Atlanta Braves,Bryan Shaw,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Sean Murphy,Atlanta Braves,Touki Toussaint,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Sean Murphy,Atlanta Braves,Freddy Peralta,Milwaukee Brewers,2,1,0,0,0,0,0,0,1,.500,.667,.500,1.167
+131,Sean Murphy,Atlanta Braves,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Sean Murphy,Atlanta Braves,Tyler Alexander,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Sean Murphy,Atlanta Braves,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Sean Murphy,Atlanta Braves,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Sean Murphy,Atlanta Braves,Garrett Hill,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+136,Sean Murphy,Atlanta Braves,Michael Lorenzen,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Sean Murphy,Atlanta Braves,Kris Bubic,Kansas City Royals,3,3,2,0,1,3,0,0,0,1.000,1.000,2.667,3.667
+138,Sean Murphy,Atlanta Braves,Brady Singer,Kansas City Royals,3,2,1,0,1,3,0,0,1,.667,.667,2.000,2.667
+139,Sean Murphy,Atlanta Braves,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,Sean Murphy,Atlanta Braves,Zack Greinke,Kansas City Royals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+141,Sean Murphy,Atlanta Braves,Carlos Hernandez,Kansas City Royals,0,0,0,0,0,1,2,0,0,.000,1.000,.000,1.000
+142,Sean Murphy,Atlanta Braves,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Sean Murphy,Atlanta Braves,Ryan Yarbrough,Kansas City Royals,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+144,Sean Murphy,Atlanta Braves,Paul Blackburn,Oakland Athletics,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+145,Sean Murphy,Atlanta Braves,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+146,Sean Murphy,Atlanta Braves,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Sean Murphy,Atlanta Braves,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Sean Murphy,Atlanta Braves,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

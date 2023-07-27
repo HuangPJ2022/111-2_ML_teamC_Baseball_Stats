@@ -1,0 +1,121 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Harold Castro,Colorado Rockies,Joe Jimenez,Atlanta Braves,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+1,Harold Castro,Colorado Rockies,Bryce Elder,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Harold Castro,Colorado Rockies,Charlie Morton,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+3,Harold Castro,Colorado Rockies,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Harold Castro,Colorado Rockies,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Harold Castro,Colorado Rockies,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Harold Castro,Colorado Rockies,John King,Texas Rangers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+7,Harold Castro,Colorado Rockies,Jon Gray,Texas Rangers,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+8,Harold Castro,Colorado Rockies,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Harold Castro,Colorado Rockies,Yency Almonte,Los Angeles Dodgers,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+10,Harold Castro,Colorado Rockies,Michael Grove,Los Angeles Dodgers,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+11,Harold Castro,Colorado Rockies,Phil Bickford,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+12,Harold Castro,Colorado Rockies,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Harold Castro,Colorado Rockies,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Harold Castro,Colorado Rockies,Emmet Sheehan,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Harold Castro,Colorado Rockies,Sam Bachman,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+16,Harold Castro,Colorado Rockies,Griffin Canning,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+17,Harold Castro,Colorado Rockies,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Harold Castro,Colorado Rockies,Kolton Ingram,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Harold Castro,Colorado Rockies,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Harold Castro,Colorado Rockies,Justin Garza,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Harold Castro,Colorado Rockies,Garrett Whitlock,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+22,Harold Castro,Colorado Rockies,Kutter Crawford,Boston Red Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+23,Harold Castro,Colorado Rockies,Joe Jacques,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Harold Castro,Colorado Rockies,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Harold Castro,Colorado Rockies,Corey Kluber,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Harold Castro,Colorado Rockies,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Harold Castro,Colorado Rockies,Miles Mikolas,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+28,Harold Castro,Colorado Rockies,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Harold Castro,Colorado Rockies,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Harold Castro,Colorado Rockies,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Harold Castro,Colorado Rockies,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Harold Castro,Colorado Rockies,Jose Ruiz,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Harold Castro,Colorado Rockies,Peter Solomon,Arizona Diamondbacks,2,2,1,0,0,2,0,0,0,1.000,1.000,1.500,2.500
+34,Harold Castro,Colorado Rockies,Zach Davies,Arizona Diamondbacks,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+35,Harold Castro,Colorado Rockies,Zac Gallen,Arizona Diamondbacks,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+36,Harold Castro,Colorado Rockies,Ryne Nelson,Arizona Diamondbacks,5,1,0,0,0,0,0,0,0,.200,.200,.200,.400
+37,Harold Castro,Colorado Rockies,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Harold Castro,Colorado Rockies,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Harold Castro,Colorado Rockies,Ian Gibaut,Cincinnati Reds,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+40,Harold Castro,Colorado Rockies,Hunter Greene,Cincinnati Reds,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+41,Harold Castro,Colorado Rockies,Graham Ashcraft,Cincinnati Reds,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+42,Harold Castro,Colorado Rockies,Lucas Sims,Cincinnati Reds,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+43,Harold Castro,Colorado Rockies,Ben Lively,Cincinnati Reds,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+44,Harold Castro,Colorado Rockies,Silvino Bracho,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Harold Castro,Colorado Rockies,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Harold Castro,Colorado Rockies,Casey Legumina,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+47,Harold Castro,Colorado Rockies,Aaron Nola,Philadelphia Phillies,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+48,Harold Castro,Colorado Rockies,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Harold Castro,Colorado Rockies,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Harold Castro,Colorado Rockies,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Harold Castro,Colorado Rockies,Zack Wheeler,Philadelphia Phillies,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+52,Harold Castro,Colorado Rockies,Steven Wilson,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+53,Harold Castro,Colorado Rockies,Nabil Crismatt,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Harold Castro,Colorado Rockies,Yu Darvish,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+55,Harold Castro,Colorado Rockies,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Harold Castro,Colorado Rockies,Nick Martinez,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Harold Castro,Colorado Rockies,Blake Snell,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Harold Castro,Colorado Rockies,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Harold Castro,Colorado Rockies,J.P. France,Houston Astros,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+60,Harold Castro,Colorado Rockies,Brandon Bielak,Houston Astros,4,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+61,Harold Castro,Colorado Rockies,Hunter Brown,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Harold Castro,Colorado Rockies,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Harold Castro,Colorado Rockies,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Harold Castro,Colorado Rockies,Hector Neris,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+65,Harold Castro,Colorado Rockies,Trevor Williams,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+66,Harold Castro,Colorado Rockies,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Harold Castro,Colorado Rockies,Eury Perez,Miami Marlins,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+68,Harold Castro,Colorado Rockies,Sandy Alcantara,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Harold Castro,Colorado Rockies,Matt Barnes,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Harold Castro,Colorado Rockies,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Harold Castro,Colorado Rockies,Edward Cabrera,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Harold Castro,Colorado Rockies,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Harold Castro,Colorado Rockies,Johnny Cueto,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+74,Harold Castro,Colorado Rockies,Steven Okert,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Harold Castro,Colorado Rockies,Ross Stripling,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+76,Harold Castro,Colorado Rockies,Logan Webb,San Francisco Giants,6,3,1,0,0,0,0,0,2,.500,.500,.667,1.167
+77,Harold Castro,Colorado Rockies,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Harold Castro,Colorado Rockies,Alex Cobb,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Harold Castro,Colorado Rockies,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Harold Castro,Colorado Rockies,Mauricio Llovera,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Harold Castro,Colorado Rockies,Taylor Rogers,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Harold Castro,Colorado Rockies,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Harold Castro,Colorado Rockies,Drew Smith,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+84,Harold Castro,Colorado Rockies,Justin Verlander,New York Mets,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+85,Harold Castro,Colorado Rockies,Tylor Megill,New York Mets,5,3,0,0,0,1,0,0,0,.600,.600,.600,1.200
+86,Harold Castro,Colorado Rockies,Max Scherzer,New York Mets,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+87,Harold Castro,Colorado Rockies,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Harold Castro,Colorado Rockies,Dominic Leone,New York Mets,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+89,Harold Castro,Colorado Rockies,Stephen Nogosek,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+90,Harold Castro,Colorado Rockies,Adam Ottavino,New York Mets,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Harold Castro,Colorado Rockies,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Harold Castro,Colorado Rockies,Kodai Senga,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Harold Castro,Colorado Rockies,Clarke Schmidt,New York Yankees,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+94,Harold Castro,Colorado Rockies,Gerrit Cole,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Harold Castro,Colorado Rockies,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Harold Castro,Colorado Rockies,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Harold Castro,Colorado Rockies,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Harold Castro,Colorado Rockies,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Harold Castro,Colorado Rockies,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Harold Castro,Colorado Rockies,Yohan Ramirez,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+101,Harold Castro,Colorado Rockies,Duane Underwood Jr.,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+102,Harold Castro,Colorado Rockies,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+103,Harold Castro,Colorado Rockies,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Harold Castro,Colorado Rockies,Luis L. Ortiz,Pittsburgh Pirates,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+105,Harold Castro,Colorado Rockies,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Harold Castro,Colorado Rockies,Peter Strzelecki,Milwaukee Brewers,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+107,Harold Castro,Colorado Rockies,Freddy Peralta,Milwaukee Brewers,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+108,Harold Castro,Colorado Rockies,Scott Barlow,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+109,Harold Castro,Colorado Rockies,Jordan Lyles,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+110,Harold Castro,Colorado Rockies,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Harold Castro,Colorado Rockies,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Harold Castro,Colorado Rockies,Brady Singer,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Harold Castro,Colorado Rockies,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Harold Castro,Colorado Rockies,Matt Manning,Detroit Tigers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+115,Harold Castro,Colorado Rockies,Brendan White,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+116,Harold Castro,Colorado Rockies,Michael Lorenzen,Detroit Tigers,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+117,Harold Castro,Colorado Rockies,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Harold Castro,Colorado Rockies,Zach Logue,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,Harold Castro,Colorado Rockies,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

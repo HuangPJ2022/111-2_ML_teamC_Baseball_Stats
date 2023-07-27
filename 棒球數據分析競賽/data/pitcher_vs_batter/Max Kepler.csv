@@ -1,0 +1,143 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Max Kepler,Minnesota Twins,Bryce Elder,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Max Kepler,Minnesota Twins,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Max Kepler,Minnesota Twins,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Max Kepler,Minnesota Twins,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+4,Max Kepler,Minnesota Twins,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Max Kepler,Minnesota Twins,Shawn Armstrong,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+6,Max Kepler,Minnesota Twins,Jason Adam,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+7,Max Kepler,Minnesota Twins,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Max Kepler,Minnesota Twins,Cooper Criswell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Max Kepler,Minnesota Twins,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Max Kepler,Minnesota Twins,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Max Kepler,Minnesota Twins,Ryan Brasier,Boston Red Sox,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+12,Max Kepler,Minnesota Twins,Justin Garza,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Max Kepler,Minnesota Twins,Josh Winckowski,Boston Red Sox,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+14,Max Kepler,Minnesota Twins,Garrett Whitlock,Boston Red Sox,3,2,0,0,1,2,0,0,1,.667,.667,1.667,2.334
+15,Max Kepler,Minnesota Twins,Corey Kluber,Boston Red Sox,2,1,0,0,1,1,2,0,0,.500,.800,2.000,2.800
+16,Max Kepler,Minnesota Twins,Tanner Houck,Boston Red Sox,4,1,1,0,0,1,0,0,1,.250,.250,.500,.750
+17,Max Kepler,Minnesota Twins,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Max Kepler,Minnesota Twins,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Max Kepler,Minnesota Twins,Kenley Jansen,Boston Red Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+20,Max Kepler,Minnesota Twins,Chris Sale,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+21,Max Kepler,Minnesota Twins,Brandon Walter,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Max Kepler,Minnesota Twins,Tim Mayza,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Max Kepler,Minnesota Twins,Mitch White,Toronto Blue Jays,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+24,Max Kepler,Minnesota Twins,Bowden Francis,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Max Kepler,Minnesota Twins,Kevin Gausman,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Max Kepler,Minnesota Twins,Thomas Hatch,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Max Kepler,Minnesota Twins,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Max Kepler,Minnesota Twins,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Max Kepler,Minnesota Twins,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Max Kepler,Minnesota Twins,Nick Vespi,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+31,Max Kepler,Minnesota Twins,Kyle Bradish,Baltimore Orioles,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+32,Max Kepler,Minnesota Twins,Dean Kremer,Baltimore Orioles,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+33,Max Kepler,Minnesota Twins,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+34,Max Kepler,Minnesota Twins,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Max Kepler,Minnesota Twins,Eduard Bazardo,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Max Kepler,Minnesota Twins,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Max Kepler,Minnesota Twins,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Max Kepler,Minnesota Twins,Kyle Gibson,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Max Kepler,Minnesota Twins,Cole Irvin,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Max Kepler,Minnesota Twins,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Max Kepler,Minnesota Twins,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+42,Max Kepler,Minnesota Twins,Bruce Zimmermann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Max Kepler,Minnesota Twins,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Max Kepler,Minnesota Twins,Seth Lugo,San Diego Padres,3,2,1,0,1,1,0,0,0,.667,.667,2.000,2.667
+45,Max Kepler,Minnesota Twins,Yu Darvish,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Max Kepler,Minnesota Twins,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Max Kepler,Minnesota Twins,Tim Hill,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Max Kepler,Minnesota Twins,Brent Honeywell,San Diego Padres,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+49,Max Kepler,Minnesota Twins,Michael Wacha,San Diego Padres,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+50,Max Kepler,Minnesota Twins,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Max Kepler,Minnesota Twins,Hunter Brown,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+52,Max Kepler,Minnesota Twins,Brandon Bielak,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Max Kepler,Minnesota Twins,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Max Kepler,Minnesota Twins,Seth Martinez,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Max Kepler,Minnesota Twins,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Max Kepler,Minnesota Twins,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Max Kepler,Minnesota Twins,Parker Mushinski,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Max Kepler,Minnesota Twins,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Max Kepler,Minnesota Twins,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Max Kepler,Minnesota Twins,Chad Kuhl,Washington Nationals,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+61,Max Kepler,Minnesota Twins,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Max Kepler,Minnesota Twins,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Max Kepler,Minnesota Twins,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Max Kepler,Minnesota Twins,Trevor Williams,Washington Nationals,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+65,Max Kepler,Minnesota Twins,Johnny Cueto,Miami Marlins,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+66,Max Kepler,Minnesota Twins,Jeff Lindgren,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+67,Max Kepler,Minnesota Twins,Jimmy Cordero,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+68,Max Kepler,Minnesota Twins,Greg Weissert,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+69,Max Kepler,Minnesota Twins,Jhony Brito,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+70,Max Kepler,Minnesota Twins,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Max Kepler,Minnesota Twins,Gerrit Cole,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Max Kepler,Minnesota Twins,Domingo German,New York Yankees,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+73,Max Kepler,Minnesota Twins,Ian Hamilton,New York Yankees,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+74,Max Kepler,Minnesota Twins,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Max Kepler,Minnesota Twins,Tayler Saucedo,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+76,Max Kepler,Minnesota Twins,Bryan Woo,Seattle Mariners,1,1,1,0,0,2,1,0,0,1.000,.667,2.000,2.667
+77,Max Kepler,Minnesota Twins,Ty Adcock,Seattle Mariners,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+78,Max Kepler,Minnesota Twins,Logan Gilbert,Seattle Mariners,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+79,Max Kepler,Minnesota Twins,Andres Munoz,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+80,Max Kepler,Minnesota Twins,Luis Castillo,Seattle Mariners,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+81,Max Kepler,Minnesota Twins,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Max Kepler,Minnesota Twins,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Max Kepler,Minnesota Twins,Devin Sweet,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Max Kepler,Minnesota Twins,Aaron Civale,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+85,Max Kepler,Minnesota Twins,Logan Allen,Cleveland Guardians,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+86,Max Kepler,Minnesota Twins,Peyton Battenfield,Cleveland Guardians,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+87,Max Kepler,Minnesota Twins,Tanner Bibee,Cleveland Guardians,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+88,Max Kepler,Minnesota Twins,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Max Kepler,Minnesota Twins,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Max Kepler,Minnesota Twins,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Max Kepler,Minnesota Twins,Hunter Gaddis,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Max Kepler,Minnesota Twins,Sam Hentges,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+93,Max Kepler,Minnesota Twins,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Max Kepler,Minnesota Twins,Triston McKenzie,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Max Kepler,Minnesota Twins,Cal Quantrill,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Max Kepler,Minnesota Twins,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Max Kepler,Minnesota Twins,Gregory Santos,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+98,Max Kepler,Minnesota Twins,Lucas Giolito,Chicago White Sox,5,2,1,0,0,0,1,0,1,.400,.500,.600,1.100
+99,Max Kepler,Minnesota Twins,Lance Lynn,Chicago White Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+100,Max Kepler,Minnesota Twins,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Max Kepler,Minnesota Twins,Dylan Cease,Chicago White Sox,5,0,0,0,0,0,1,0,2,.000,.167,.000,.167
+102,Max Kepler,Minnesota Twins,Michael Kopech,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+103,Max Kepler,Minnesota Twins,Jimmy Lambert,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+104,Max Kepler,Minnesota Twins,Reynaldo Lopez,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Max Kepler,Minnesota Twins,Keynan Middleton,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Max Kepler,Minnesota Twins,Sammy Peralta,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+107,Max Kepler,Minnesota Twins,Bryan Shaw,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Max Kepler,Minnesota Twins,Colin Rea,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+109,Max Kepler,Minnesota Twins,Tyson Miller,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Max Kepler,Minnesota Twins,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Max Kepler,Minnesota Twins,Joel Payamps,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+112,Max Kepler,Minnesota Twins,Taylor Clarke,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+113,Max Kepler,Minnesota Twins,Carlos Hernandez,Kansas City Royals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+114,Max Kepler,Minnesota Twins,Austin Cox,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+115,Max Kepler,Minnesota Twins,Brad Keller,Kansas City Royals,4,2,0,0,0,0,2,0,0,.500,.667,.500,1.167
+116,Max Kepler,Minnesota Twins,Zack Greinke,Kansas City Royals,8,3,0,0,1,5,0,0,2,.375,.375,.750,1.125
+117,Max Kepler,Minnesota Twins,Jordan Lyles,Kansas City Royals,4,1,0,0,1,2,1,0,0,.250,.333,1.000,1.333
+118,Max Kepler,Minnesota Twins,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Max Kepler,Minnesota Twins,Dylan Coleman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Max Kepler,Minnesota Twins,Jose Cuas,Kansas City Royals,3,0,0,0,0,0,0,0,3,.000,.250,.000,.250
+121,Max Kepler,Minnesota Twins,Amir Garrett,Kansas City Royals,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Max Kepler,Minnesota Twins,Alec Marsh,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Max Kepler,Minnesota Twins,Brady Singer,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+124,Max Kepler,Minnesota Twins,Collin Snider,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Max Kepler,Minnesota Twins,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Max Kepler,Minnesota Twins,Josh Taylor,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+127,Max Kepler,Minnesota Twins,Nick Wittgren,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+128,Max Kepler,Minnesota Twins,Ryan Yarbrough,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Max Kepler,Minnesota Twins,Tyler Alexander,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+130,Max Kepler,Minnesota Twins,Joey Wentz,Detroit Tigers,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+131,Max Kepler,Minnesota Twins,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Max Kepler,Minnesota Twins,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Max Kepler,Minnesota Twins,Reese Olson,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+134,Max Kepler,Minnesota Twins,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Max Kepler,Minnesota Twins,Hogan Harris,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+136,Max Kepler,Minnesota Twins,Sam Moll,Oakland Athletics,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+137,Max Kepler,Minnesota Twins,JP Sears,Oakland Athletics,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+138,Max Kepler,Minnesota Twins,Sam Long,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+139,Max Kepler,Minnesota Twins,Austin Pruitt,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,Max Kepler,Minnesota Twins,Freddy Tarnok,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Max Kepler,Minnesota Twins,Ken Waldichuk,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

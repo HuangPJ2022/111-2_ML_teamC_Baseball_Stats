@@ -1,0 +1,194 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Rafael Devers,Boston Red Sox,Raisel Iglesias,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Rafael Devers,Boston Red Sox,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Rafael Devers,Boston Red Sox,A.J. Minter,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+3,Rafael Devers,Boston Red Sox,Charlie Morton,Atlanta Braves,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+4,Rafael Devers,Boston Red Sox,John King,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+5,Rafael Devers,Boston Red Sox,Dane Dunning,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+6,Rafael Devers,Boston Red Sox,Nathan Eovaldi,Texas Rangers,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+7,Rafael Devers,Boston Red Sox,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Rafael Devers,Boston Red Sox,Jon Gray,Texas Rangers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Rafael Devers,Boston Red Sox,Josh Sborz,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+10,Rafael Devers,Boston Red Sox,Jimmy Herget,Los Angeles Angels,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+11,Rafael Devers,Boston Red Sox,Jaime Barria,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+12,Rafael Devers,Boston Red Sox,Carlos Estevez,Los Angeles Angels,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+13,Rafael Devers,Boston Red Sox,Tyler Anderson,Los Angeles Angels,5,2,0,0,1,2,0,0,0,.400,.400,1.000,1.400
+14,Rafael Devers,Boston Red Sox,Tucker Davidson,Los Angeles Angels,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+15,Rafael Devers,Boston Red Sox,Griffin Canning,Los Angeles Angels,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Rafael Devers,Boston Red Sox,Reid Detmers,Los Angeles Angels,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Rafael Devers,Boston Red Sox,Chris Devenski,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Rafael Devers,Boston Red Sox,Aaron Loup,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+19,Rafael Devers,Boston Red Sox,Matt Moore,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Rafael Devers,Boston Red Sox,Shohei Ohtani,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Rafael Devers,Boston Red Sox,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Rafael Devers,Boston Red Sox,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Rafael Devers,Boston Red Sox,Shane McClanahan,Tampa Bay Rays,5,2,0,0,0,0,1,0,1,.400,.500,.400,.900
+24,Rafael Devers,Boston Red Sox,Colin Poche,Tampa Bay Rays,4,1,0,0,1,3,0,0,2,.250,.250,1.000,1.250
+25,Rafael Devers,Boston Red Sox,Jason Adam,Tampa Bay Rays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+26,Rafael Devers,Boston Red Sox,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Rafael Devers,Boston Red Sox,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+28,Rafael Devers,Boston Red Sox,Taj Bradley,Tampa Bay Rays,5,0,0,0,0,1,0,0,3,.000,.000,.000,.000
+29,Rafael Devers,Boston Red Sox,Cooper Criswell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Rafael Devers,Boston Red Sox,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Rafael Devers,Boston Red Sox,Josh Fleming,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Rafael Devers,Boston Red Sox,Tyler Glasnow,Tampa Bay Rays,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+33,Rafael Devers,Boston Red Sox,Trevor Kelley,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Rafael Devers,Boston Red Sox,Joe La Sorsa,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Rafael Devers,Boston Red Sox,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Rafael Devers,Boston Red Sox,Genesis Cabrera,St. Louis Cardinals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+37,Rafael Devers,Boston Red Sox,Miles Mikolas,St. Louis Cardinals,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+38,Rafael Devers,Boston Red Sox,Steven Matz,St. Louis Cardinals,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+39,Rafael Devers,Boston Red Sox,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Rafael Devers,Boston Red Sox,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Rafael Devers,Boston Red Sox,Adam Wainwright,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Rafael Devers,Boston Red Sox,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Rafael Devers,Boston Red Sox,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Rafael Devers,Boston Red Sox,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Rafael Devers,Boston Red Sox,Fernando Cruz,Cincinnati Reds,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+46,Rafael Devers,Boston Red Sox,Kevin Herget,Cincinnati Reds,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+47,Rafael Devers,Boston Red Sox,Eduardo Salazar,Cincinnati Reds,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+48,Rafael Devers,Boston Red Sox,Hunter Greene,Cincinnati Reds,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+49,Rafael Devers,Boston Red Sox,Luke Weaver,Cincinnati Reds,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+50,Rafael Devers,Boston Red Sox,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Rafael Devers,Boston Red Sox,Ben Lively,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Rafael Devers,Boston Red Sox,Alex Young,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+53,Rafael Devers,Boston Red Sox,Tim Mayza,Toronto Blue Jays,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+54,Rafael Devers,Boston Red Sox,Zach Pop,Toronto Blue Jays,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+55,Rafael Devers,Boston Red Sox,Kevin Gausman,Toronto Blue Jays,4,3,1,0,0,4,0,0,0,.750,.750,1.000,1.750
+56,Rafael Devers,Boston Red Sox,Yusei Kikuchi,Toronto Blue Jays,6,2,0,0,1,3,0,0,1,.333,.333,.833,1.166
+57,Rafael Devers,Boston Red Sox,Alek Manoah,Toronto Blue Jays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+58,Rafael Devers,Boston Red Sox,Nate Pearson,Toronto Blue Jays,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+59,Rafael Devers,Boston Red Sox,Jose Berrios,Toronto Blue Jays,5,1,0,0,0,0,1,0,1,.200,.333,.200,.533
+60,Rafael Devers,Boston Red Sox,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Rafael Devers,Boston Red Sox,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Rafael Devers,Boston Red Sox,Jordan Romano,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+63,Rafael Devers,Boston Red Sox,Erik Swanson,Toronto Blue Jays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+64,Rafael Devers,Boston Red Sox,Trent Thornton,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Rafael Devers,Boston Red Sox,Kyle Gibson,Baltimore Orioles,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+66,Rafael Devers,Boston Red Sox,Cole Irvin,Baltimore Orioles,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+67,Rafael Devers,Boston Red Sox,Dean Kremer,Baltimore Orioles,5,3,0,0,1,2,0,0,1,.600,.600,1.200,1.800
+68,Rafael Devers,Boston Red Sox,Cionel Perez,Baltimore Orioles,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+69,Rafael Devers,Boston Red Sox,Bryan Baker,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+70,Rafael Devers,Boston Red Sox,Mike Baumann,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Rafael Devers,Boston Red Sox,Felix Bautista,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+72,Rafael Devers,Boston Red Sox,Kyle Bradish,Baltimore Orioles,0,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+73,Rafael Devers,Boston Red Sox,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Rafael Devers,Boston Red Sox,Danny Coulombe,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Rafael Devers,Boston Red Sox,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Rafael Devers,Boston Red Sox,Tyler Wells,Baltimore Orioles,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Rafael Devers,Boston Red Sox,Seranthony Dominguez,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+78,Rafael Devers,Boston Red Sox,Luis F. Ortiz,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+79,Rafael Devers,Boston Red Sox,Bailey Falter,Philadelphia Phillies,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+80,Rafael Devers,Boston Red Sox,Zack Wheeler,Philadelphia Phillies,2,1,0,0,0,1,0,0,1,.500,.667,.500,1.167
+81,Rafael Devers,Boston Red Sox,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Rafael Devers,Boston Red Sox,Gregory Soto,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+83,Rafael Devers,Boston Red Sox,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Rafael Devers,Boston Red Sox,Kyle Hendricks,Chicago Cubs,3,3,0,0,2,2,0,0,0,1.000,1.000,3.000,4.000
+85,Rafael Devers,Boston Red Sox,Julian Merryweather,Chicago Cubs,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+86,Rafael Devers,Boston Red Sox,Justin Steele,Chicago Cubs,3,2,1,0,1,1,0,0,1,.667,.667,2.000,2.667
+87,Rafael Devers,Boston Red Sox,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Rafael Devers,Boston Red Sox,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Rafael Devers,Boston Red Sox,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Rafael Devers,Boston Red Sox,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Rafael Devers,Boston Red Sox,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Rafael Devers,Boston Red Sox,Blake Snell,San Diego Padres,2,2,0,0,2,4,0,0,0,1.000,1.000,4.000,5.000
+93,Rafael Devers,Boston Red Sox,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Rafael Devers,Boston Red Sox,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Rafael Devers,Boston Red Sox,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Rafael Devers,Boston Red Sox,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Rafael Devers,Boston Red Sox,Joe Musgrove,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Rafael Devers,Boston Red Sox,Michael Wacha,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Rafael Devers,Boston Red Sox,Caleb Thielbar,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+100,Rafael Devers,Boston Red Sox,Emilio Pagan,Minnesota Twins,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+101,Rafael Devers,Boston Red Sox,Sonny Gray,Minnesota Twins,5,2,1,0,0,2,1,0,2,.400,.500,.600,1.100
+102,Rafael Devers,Boston Red Sox,Joe Ryan,Minnesota Twins,6,1,0,0,0,0,0,0,0,.167,.167,.167,.334
+103,Rafael Devers,Boston Red Sox,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Rafael Devers,Boston Red Sox,Jhoan Duran,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Rafael Devers,Boston Red Sox,Brent Headrick,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+106,Rafael Devers,Boston Red Sox,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+107,Rafael Devers,Boston Red Sox,Kenta Maeda,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Rafael Devers,Boston Red Sox,Jovani Moran,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Rafael Devers,Boston Red Sox,Bailey Ober,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Rafael Devers,Boston Red Sox,Oliver Ortega,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Rafael Devers,Boston Red Sox,Dylan Floro,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+112,Rafael Devers,Boston Red Sox,Braxton Garrett,Miami Marlins,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+113,Rafael Devers,Boston Red Sox,Jesus Luzardo,Miami Marlins,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+114,Rafael Devers,Boston Red Sox,Sandy Alcantara,Miami Marlins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+115,Rafael Devers,Boston Red Sox,Archie Bradley,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Rafael Devers,Boston Red Sox,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Rafael Devers,Boston Red Sox,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Rafael Devers,Boston Red Sox,David Peterson,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+119,Rafael Devers,Boston Red Sox,Brooks Raley,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+120,Rafael Devers,Boston Red Sox,Max Scherzer,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Rafael Devers,Boston Red Sox,Kodai Senga,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Rafael Devers,Boston Red Sox,Matt Carasiti,Colorado Rockies,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+123,Rafael Devers,Boston Red Sox,Chase Anderson,Colorado Rockies,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+124,Rafael Devers,Boston Red Sox,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Rafael Devers,Boston Red Sox,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Rafael Devers,Boston Red Sox,Justin Lawrence,Colorado Rockies,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+127,Rafael Devers,Boston Red Sox,Connor Seabold,Colorado Rockies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Rafael Devers,Boston Red Sox,Clay Holmes,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+129,Rafael Devers,Boston Red Sox,Gerrit Cole,New York Yankees,3,2,1,0,1,1,0,0,0,.667,.667,2.000,2.667
+130,Rafael Devers,Boston Red Sox,Luis Severino,New York Yankees,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+131,Rafael Devers,Boston Red Sox,Domingo German,New York Yankees,4,1,0,0,1,1,1,0,1,.250,.400,1.000,1.400
+132,Rafael Devers,Boston Red Sox,Clarke Schmidt,New York Yankees,4,1,0,0,0,1,1,0,2,.250,.400,.250,.650
+133,Rafael Devers,Boston Red Sox,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Rafael Devers,Boston Red Sox,Michael King,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+135,Rafael Devers,Boston Red Sox,Matt Krook,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Rafael Devers,Boston Red Sox,Wandy Peralta,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Rafael Devers,Boston Red Sox,Nick Ramirez,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+138,Rafael Devers,Boston Red Sox,Greg Weissert,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Rafael Devers,Boston Red Sox,Gabe Speier,Seattle Mariners,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+140,Rafael Devers,Boston Red Sox,George Kirby,Seattle Mariners,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+141,Rafael Devers,Boston Red Sox,Marco Gonzales,Seattle Mariners,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+142,Rafael Devers,Boston Red Sox,Luis Castillo,Seattle Mariners,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+143,Rafael Devers,Boston Red Sox,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Rafael Devers,Boston Red Sox,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Rafael Devers,Boston Red Sox,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Rafael Devers,Boston Red Sox,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Rafael Devers,Boston Red Sox,Xzavion Curry,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+148,Rafael Devers,Boston Red Sox,Zach Plesac,Cleveland Guardians,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+149,Rafael Devers,Boston Red Sox,Trevor Stephan,Cleveland Guardians,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+150,Rafael Devers,Boston Red Sox,Tanner Bibee,Cleveland Guardians,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+151,Rafael Devers,Boston Red Sox,Logan Allen,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+152,Rafael Devers,Boston Red Sox,Peyton Battenfield,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+153,Rafael Devers,Boston Red Sox,Shane Bieber,Cleveland Guardians,5,0,0,0,0,0,1,0,1,.000,.167,.000,.167
+154,Rafael Devers,Boston Red Sox,Aaron Civale,Cleveland Guardians,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+155,Rafael Devers,Boston Red Sox,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+156,Rafael Devers,Boston Red Sox,Eli Morgan,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Rafael Devers,Boston Red Sox,Johan Oviedo,Pittsburgh Pirates,2,1,0,0,1,1,1,1,0,.500,.667,2.000,2.667
+158,Rafael Devers,Boston Red Sox,Roansy Contreras,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Rafael Devers,Boston Red Sox,Colin Holderman,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Rafael Devers,Boston Red Sox,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+161,Rafael Devers,Boston Red Sox,Rob Zastryzny,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+162,Rafael Devers,Boston Red Sox,Lance Lynn,Chicago White Sox,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+163,Rafael Devers,Boston Red Sox,Lucas Giolito,Chicago White Sox,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+164,Rafael Devers,Boston Red Sox,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+165,Rafael Devers,Boston Red Sox,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Rafael Devers,Boston Red Sox,Kendall Graveman,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+167,Rafael Devers,Boston Red Sox,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Rafael Devers,Boston Red Sox,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+169,Rafael Devers,Boston Red Sox,Jesse Scholtens,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+170,Rafael Devers,Boston Red Sox,Joel Payamps,Milwaukee Brewers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+171,Rafael Devers,Boston Red Sox,Wade Miley,Milwaukee Brewers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+172,Rafael Devers,Boston Red Sox,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+173,Rafael Devers,Boston Red Sox,Javy Guerra,Milwaukee Brewers,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+174,Rafael Devers,Boston Red Sox,Hoby Milner,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+175,Rafael Devers,Boston Red Sox,Freddy Peralta,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+176,Rafael Devers,Boston Red Sox,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+177,Rafael Devers,Boston Red Sox,Tyler Alexander,Detroit Tigers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+178,Rafael Devers,Boston Red Sox,Alex Lange,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+179,Rafael Devers,Boston Red Sox,Spencer Turnbull,Detroit Tigers,3,2,1,0,1,2,0,0,0,.667,.667,2.000,2.667
+180,Rafael Devers,Boston Red Sox,Garrett Hill,Detroit Tigers,2,1,0,0,1,4,0,0,0,.500,.500,2.000,2.500
+181,Rafael Devers,Boston Red Sox,Matthew Boyd,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+182,Rafael Devers,Boston Red Sox,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+183,Rafael Devers,Boston Red Sox,Chasen Shreve,Detroit Tigers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+184,Rafael Devers,Boston Red Sox,Joey Wentz,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+185,Rafael Devers,Boston Red Sox,Richard Lovelady,Oakland Athletics,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+186,Rafael Devers,Boston Red Sox,JP Sears,Oakland Athletics,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+187,Rafael Devers,Boston Red Sox,Lucas Erceg,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+188,Rafael Devers,Boston Red Sox,Sam Long,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+189,Rafael Devers,Boston Red Sox,Luis Medina,Oakland Athletics,2,0,0,0,0,1,1,1,0,.000,.333,.000,.333
+190,Rafael Devers,Boston Red Sox,Sam Moll,Oakland Athletics,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+191,Rafael Devers,Boston Red Sox,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+192,Rafael Devers,Boston Red Sox,Ken Waldichuk,Oakland Athletics,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000

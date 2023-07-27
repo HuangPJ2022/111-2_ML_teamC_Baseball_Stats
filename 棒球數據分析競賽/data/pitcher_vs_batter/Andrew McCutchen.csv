@@ -1,0 +1,169 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Andrew McCutchen,Pittsburgh Pirates,Jonathan Hernandez,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Andrew McCutchen,Pittsburgh Pirates,Nathan Eovaldi,Texas Rangers,3,2,1,0,0,0,1,0,0,.667,.750,1.000,1.750
+2,Andrew McCutchen,Pittsburgh Pirates,Dane Dunning,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+3,Andrew McCutchen,Pittsburgh Pirates,Martin Perez,Texas Rangers,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+4,Andrew McCutchen,Pittsburgh Pirates,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Andrew McCutchen,Pittsburgh Pirates,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Andrew McCutchen,Pittsburgh Pirates,Julio Urias,Los Angeles Dodgers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+7,Andrew McCutchen,Pittsburgh Pirates,Phil Bickford,Los Angeles Dodgers,3,1,0,0,0,1,1,0,0,.333,.500,.333,.833
+8,Andrew McCutchen,Pittsburgh Pirates,Noah Syndergaard,Los Angeles Dodgers,3,1,0,0,1,3,0,0,1,.333,.333,1.333,1.666
+9,Andrew McCutchen,Pittsburgh Pirates,Yency Almonte,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Andrew McCutchen,Pittsburgh Pirates,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Andrew McCutchen,Pittsburgh Pirates,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Andrew McCutchen,Pittsburgh Pirates,Daniel Hudson,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+13,Andrew McCutchen,Pittsburgh Pirates,Bobby Miller,Los Angeles Dodgers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+14,Andrew McCutchen,Pittsburgh Pirates,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Andrew McCutchen,Pittsburgh Pirates,Emmet Sheehan,Los Angeles Dodgers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Andrew McCutchen,Pittsburgh Pirates,Gavin Stone,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Andrew McCutchen,Pittsburgh Pirates,Tyler Anderson,Los Angeles Angels,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+18,Andrew McCutchen,Pittsburgh Pirates,Reid Detmers,Los Angeles Angels,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+19,Andrew McCutchen,Pittsburgh Pirates,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+20,Andrew McCutchen,Pittsburgh Pirates,Gerardo Reyes,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+21,Andrew McCutchen,Pittsburgh Pirates,Jacob Webb,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+22,Andrew McCutchen,Pittsburgh Pirates,Shane McClanahan,Tampa Bay Rays,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+23,Andrew McCutchen,Pittsburgh Pirates,Jason Adam,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+24,Andrew McCutchen,Pittsburgh Pirates,Chase Anderson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Andrew McCutchen,Pittsburgh Pirates,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Andrew McCutchen,Pittsburgh Pirates,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+27,Andrew McCutchen,Pittsburgh Pirates,Josh Fleming,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+28,Andrew McCutchen,Pittsburgh Pirates,Javy Guerra,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+29,Andrew McCutchen,Pittsburgh Pirates,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Andrew McCutchen,Pittsburgh Pirates,John Schreiber,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+31,Andrew McCutchen,Pittsburgh Pirates,Corey Kluber,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+32,Andrew McCutchen,Pittsburgh Pirates,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Andrew McCutchen,Pittsburgh Pirates,Zack Kelly,Boston Red Sox,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+34,Andrew McCutchen,Pittsburgh Pirates,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Andrew McCutchen,Pittsburgh Pirates,Nick Pivetta,Boston Red Sox,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+36,Andrew McCutchen,Pittsburgh Pirates,Josh Winckowski,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Andrew McCutchen,Pittsburgh Pirates,Genesis Cabrera,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+38,Andrew McCutchen,Pittsburgh Pirates,Jordan Hicks,St. Louis Cardinals,1,1,0,0,1,3,0,0,0,1.000,.500,4.000,4.500
+39,Andrew McCutchen,Pittsburgh Pirates,Andre Pallante,St. Louis Cardinals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+40,Andrew McCutchen,Pittsburgh Pirates,Jack Flaherty,St. Louis Cardinals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+41,Andrew McCutchen,Pittsburgh Pirates,Jake Woodford,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+42,Andrew McCutchen,Pittsburgh Pirates,Jordan Montgomery,St. Louis Cardinals,6,1,1,0,0,0,0,0,2,.167,.167,.333,.500
+43,Andrew McCutchen,Pittsburgh Pirates,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Andrew McCutchen,Pittsburgh Pirates,Steven Matz,St. Louis Cardinals,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+45,Andrew McCutchen,Pittsburgh Pirates,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Andrew McCutchen,Pittsburgh Pirates,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+47,Andrew McCutchen,Pittsburgh Pirates,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Andrew McCutchen,Pittsburgh Pirates,Zac Gallen,Arizona Diamondbacks,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+49,Andrew McCutchen,Pittsburgh Pirates,Anthony Misiewicz,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+50,Andrew McCutchen,Pittsburgh Pirates,Brandon Pfaadt,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+51,Andrew McCutchen,Pittsburgh Pirates,Austin Adams,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Andrew McCutchen,Pittsburgh Pirates,Luis Frias,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Andrew McCutchen,Pittsburgh Pirates,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Andrew McCutchen,Pittsburgh Pirates,Merrill Kelly,Arizona Diamondbacks,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+55,Andrew McCutchen,Pittsburgh Pirates,Derek Law,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+56,Andrew McCutchen,Pittsburgh Pirates,Hunter Greene,Cincinnati Reds,3,1,0,0,0,0,2,0,0,.333,.600,.333,.933
+57,Andrew McCutchen,Pittsburgh Pirates,Graham Ashcraft,Cincinnati Reds,5,1,1,0,0,0,1,0,1,.200,.333,.400,.733
+58,Andrew McCutchen,Pittsburgh Pirates,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,1,1,0,1,.000,.500,.000,.500
+59,Andrew McCutchen,Pittsburgh Pirates,Buck Farmer,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Andrew McCutchen,Pittsburgh Pirates,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+61,Andrew McCutchen,Pittsburgh Pirates,Nick Lodolo,Cincinnati Reds,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+62,Andrew McCutchen,Pittsburgh Pirates,Luke Weaver,Cincinnati Reds,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+63,Andrew McCutchen,Pittsburgh Pirates,Yimi Garcia,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+64,Andrew McCutchen,Pittsburgh Pirates,Kyle Gibson,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+65,Andrew McCutchen,Pittsburgh Pirates,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Andrew McCutchen,Pittsburgh Pirates,Kyle Bradish,Baltimore Orioles,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+67,Andrew McCutchen,Pittsburgh Pirates,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+68,Andrew McCutchen,Pittsburgh Pirates,Julian Merryweather,Chicago Cubs,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+69,Andrew McCutchen,Pittsburgh Pirates,Drew Smyly,Chicago Cubs,4,2,0,0,1,1,2,0,0,.500,.667,1.250,1.917
+70,Andrew McCutchen,Pittsburgh Pirates,Adbert Alzolay,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+71,Andrew McCutchen,Pittsburgh Pirates,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Andrew McCutchen,Pittsburgh Pirates,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+73,Andrew McCutchen,Pittsburgh Pirates,Drew Carlton,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+74,Andrew McCutchen,Pittsburgh Pirates,Nick Martinez,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+75,Andrew McCutchen,Pittsburgh Pirates,Joe Musgrove,San Diego Padres,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+76,Andrew McCutchen,Pittsburgh Pirates,Reiss Knehr,San Diego Padres,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+77,Andrew McCutchen,Pittsburgh Pirates,Adrian Morejon,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+78,Andrew McCutchen,Pittsburgh Pirates,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Andrew McCutchen,Pittsburgh Pirates,Ray Kerr,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Andrew McCutchen,Pittsburgh Pirates,Blake Snell,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Andrew McCutchen,Pittsburgh Pirates,Ryan Pressly,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+82,Andrew McCutchen,Pittsburgh Pirates,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Andrew McCutchen,Pittsburgh Pirates,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Andrew McCutchen,Pittsburgh Pirates,Jose Urquidy,Houston Astros,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+85,Andrew McCutchen,Pittsburgh Pirates,Framber Valdez,Houston Astros,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+86,Andrew McCutchen,Pittsburgh Pirates,Patrick Corbin,Washington Nationals,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+87,Andrew McCutchen,Pittsburgh Pirates,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Andrew McCutchen,Pittsburgh Pirates,Hobie Harris,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Andrew McCutchen,Pittsburgh Pirates,Chad Kuhl,Washington Nationals,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+90,Andrew McCutchen,Pittsburgh Pirates,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Andrew McCutchen,Pittsburgh Pirates,Thaddeus Ward,Washington Nationals,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+92,Andrew McCutchen,Pittsburgh Pirates,Dylan Floro,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+93,Andrew McCutchen,Pittsburgh Pirates,Andrew Nardi,Miami Marlins,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+94,Andrew McCutchen,Pittsburgh Pirates,Steven Okert,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+95,Andrew McCutchen,Pittsburgh Pirates,A.J. Puk,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+96,Andrew McCutchen,Pittsburgh Pirates,Eury Perez,Miami Marlins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+97,Andrew McCutchen,Pittsburgh Pirates,Huascar Brazoban,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+98,Andrew McCutchen,Pittsburgh Pirates,Braxton Garrett,Miami Marlins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+99,Andrew McCutchen,Pittsburgh Pirates,Bryan Hoeing,Miami Marlins,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+100,Andrew McCutchen,Pittsburgh Pirates,Jesus Luzardo,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Andrew McCutchen,Pittsburgh Pirates,Sean Manaea,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+102,Andrew McCutchen,Pittsburgh Pirates,Tyler Rogers,San Francisco Giants,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+103,Andrew McCutchen,Pittsburgh Pirates,Ryan Walker,San Francisco Giants,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+104,Andrew McCutchen,Pittsburgh Pirates,Alex Wood,San Francisco Giants,4,1,1,0,0,1,1,0,0,.250,.400,.500,.900
+105,Andrew McCutchen,Pittsburgh Pirates,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Andrew McCutchen,Pittsburgh Pirates,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Andrew McCutchen,Pittsburgh Pirates,Anthony DeSclafani,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Andrew McCutchen,Pittsburgh Pirates,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Andrew McCutchen,Pittsburgh Pirates,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Andrew McCutchen,Pittsburgh Pirates,Carlos Carrasco,New York Mets,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+111,Andrew McCutchen,Pittsburgh Pirates,Tylor Megill,New York Mets,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+112,Andrew McCutchen,Pittsburgh Pirates,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Andrew McCutchen,Pittsburgh Pirates,Zach Muckenhirn,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Andrew McCutchen,Pittsburgh Pirates,Kodai Senga,New York Mets,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+115,Andrew McCutchen,Pittsburgh Pirates,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Andrew McCutchen,Pittsburgh Pirates,Austin Gomber,Colorado Rockies,2,2,1,0,1,2,0,0,0,1.000,1.000,3.000,4.000
+117,Andrew McCutchen,Pittsburgh Pirates,Antonio Senzatela,Colorado Rockies,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+118,Andrew McCutchen,Pittsburgh Pirates,Connor Seabold,Colorado Rockies,3,2,0,0,0,1,1,0,0,.667,.750,.667,1.417
+119,Andrew McCutchen,Pittsburgh Pirates,Daniel Bard,Colorado Rockies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+120,Andrew McCutchen,Pittsburgh Pirates,Kyle Freeland,Colorado Rockies,4,1,0,0,1,1,1,0,1,.250,.400,1.000,1.400
+121,Andrew McCutchen,Pittsburgh Pirates,Jake Bird,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Andrew McCutchen,Pittsburgh Pirates,Ty Blach,Colorado Rockies,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Andrew McCutchen,Pittsburgh Pirates,Justin Lawrence,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+124,Andrew McCutchen,Pittsburgh Pirates,Alan Trejo,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Andrew McCutchen,Pittsburgh Pirates,Justin Topa,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+126,Andrew McCutchen,Pittsburgh Pirates,George Kirby,Seattle Mariners,3,2,0,0,1,1,0,0,1,.667,.667,1.667,2.334
+127,Andrew McCutchen,Pittsburgh Pirates,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Andrew McCutchen,Pittsburgh Pirates,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Andrew McCutchen,Pittsburgh Pirates,Marco Gonzales,Seattle Mariners,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+130,Andrew McCutchen,Pittsburgh Pirates,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Andrew McCutchen,Pittsburgh Pirates,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Andrew McCutchen,Pittsburgh Pirates,Xzavion Curry,Cleveland Guardians,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+133,Andrew McCutchen,Pittsburgh Pirates,Tim Herrin,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+134,Andrew McCutchen,Pittsburgh Pirates,Logan Allen,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Andrew McCutchen,Pittsburgh Pirates,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Andrew McCutchen,Pittsburgh Pirates,Michael Kelly,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+137,Andrew McCutchen,Pittsburgh Pirates,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Andrew McCutchen,Pittsburgh Pirates,Cody Morris,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Andrew McCutchen,Pittsburgh Pirates,Mike Clevinger,Chicago White Sox,2,2,1,0,0,1,0,0,0,1.000,.667,1.500,2.167
+140,Andrew McCutchen,Pittsburgh Pirates,Reynaldo Lopez,Chicago White Sox,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+141,Andrew McCutchen,Pittsburgh Pirates,Lucas Giolito,Chicago White Sox,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+142,Andrew McCutchen,Pittsburgh Pirates,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Andrew McCutchen,Pittsburgh Pirates,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Andrew McCutchen,Pittsburgh Pirates,Jesse Scholtens,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+145,Andrew McCutchen,Pittsburgh Pirates,Matt Bush,Milwaukee Brewers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+146,Andrew McCutchen,Pittsburgh Pirates,Thomas Pannone,Milwaukee Brewers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+147,Andrew McCutchen,Pittsburgh Pirates,Elvis Peguero,Milwaukee Brewers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+148,Andrew McCutchen,Pittsburgh Pirates,Freddy Peralta,Milwaukee Brewers,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+149,Andrew McCutchen,Pittsburgh Pirates,Clayton Andrews,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Andrew McCutchen,Pittsburgh Pirates,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+151,Andrew McCutchen,Pittsburgh Pirates,Wade Miley,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Andrew McCutchen,Pittsburgh Pirates,Joel Payamps,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+153,Andrew McCutchen,Pittsburgh Pirates,Colin Rea,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+154,Andrew McCutchen,Pittsburgh Pirates,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Andrew McCutchen,Pittsburgh Pirates,Julio Teheran,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Andrew McCutchen,Pittsburgh Pirates,Eduardo Rodriguez,Detroit Tigers,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+157,Andrew McCutchen,Pittsburgh Pirates,Michael Lorenzen,Detroit Tigers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+158,Andrew McCutchen,Pittsburgh Pirates,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Andrew McCutchen,Pittsburgh Pirates,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Andrew McCutchen,Pittsburgh Pirates,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Andrew McCutchen,Pittsburgh Pirates,Ken Waldichuk,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+162,Andrew McCutchen,Pittsburgh Pirates,Shintaro Fujinami,Oakland Athletics,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+163,Andrew McCutchen,Pittsburgh Pirates,Hogan Harris,Oakland Athletics,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+164,Andrew McCutchen,Pittsburgh Pirates,James Kaprielian,Oakland Athletics,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+165,Andrew McCutchen,Pittsburgh Pirates,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Andrew McCutchen,Pittsburgh Pirates,Sam Moll,Oakland Athletics,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+167,Andrew McCutchen,Pittsburgh Pirates,JP Sears,Oakland Athletics,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667

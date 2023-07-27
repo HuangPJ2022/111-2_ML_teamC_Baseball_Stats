@@ -1,0 +1,132 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Alex Kirilloff,Minnesota Twins,Collin McHugh,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Alex Kirilloff,Minnesota Twins,Kolby Allard,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+2,Alex Kirilloff,Minnesota Twins,Bryce Elder,Atlanta Braves,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+3,Alex Kirilloff,Minnesota Twins,Spencer Strider,Atlanta Braves,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+4,Alex Kirilloff,Minnesota Twins,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Alex Kirilloff,Minnesota Twins,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Alex Kirilloff,Minnesota Twins,Dustin May,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+7,Alex Kirilloff,Minnesota Twins,Dylan Covey,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+8,Alex Kirilloff,Minnesota Twins,Caleb Ferguson,Los Angeles Dodgers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+9,Alex Kirilloff,Minnesota Twins,Phil Bickford,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Alex Kirilloff,Minnesota Twins,Justin Bruihl,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Alex Kirilloff,Minnesota Twins,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Alex Kirilloff,Minnesota Twins,Clayton Kershaw,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+13,Alex Kirilloff,Minnesota Twins,Shelby Miller,Los Angeles Dodgers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+14,Alex Kirilloff,Minnesota Twins,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Alex Kirilloff,Minnesota Twins,Noah Syndergaard,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Alex Kirilloff,Minnesota Twins,Jimmy Herget,Los Angeles Angels,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+17,Alex Kirilloff,Minnesota Twins,Zack Weiss,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Alex Kirilloff,Minnesota Twins,Matt Moore,Los Angeles Angels,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+19,Alex Kirilloff,Minnesota Twins,Shohei Ohtani,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+20,Alex Kirilloff,Minnesota Twins,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Alex Kirilloff,Minnesota Twins,Yonny Chirinos,Tampa Bay Rays,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+22,Alex Kirilloff,Minnesota Twins,Zach Eflin,Tampa Bay Rays,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+23,Alex Kirilloff,Minnesota Twins,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Alex Kirilloff,Minnesota Twins,Jalen Beeks,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+25,Alex Kirilloff,Minnesota Twins,Cooper Criswell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+26,Alex Kirilloff,Minnesota Twins,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Alex Kirilloff,Minnesota Twins,Garrett Whitlock,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+28,Alex Kirilloff,Minnesota Twins,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Alex Kirilloff,Minnesota Twins,Justin Garza,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Alex Kirilloff,Minnesota Twins,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Alex Kirilloff,Minnesota Twins,James Paxton,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+32,Alex Kirilloff,Minnesota Twins,Mitch White,Toronto Blue Jays,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+33,Alex Kirilloff,Minnesota Twins,Chris Bassitt,Toronto Blue Jays,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+34,Alex Kirilloff,Minnesota Twins,Kevin Gausman,Toronto Blue Jays,5,1,1,0,0,1,1,0,2,.200,.333,.400,.733
+35,Alex Kirilloff,Minnesota Twins,Jose Berrios,Toronto Blue Jays,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+36,Alex Kirilloff,Minnesota Twins,Adam Cimber,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+37,Alex Kirilloff,Minnesota Twins,Bowden Francis,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Alex Kirilloff,Minnesota Twins,Yimi Garcia,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+39,Alex Kirilloff,Minnesota Twins,Thomas Hatch,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Alex Kirilloff,Minnesota Twins,Tim Mayza,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Alex Kirilloff,Minnesota Twins,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Alex Kirilloff,Minnesota Twins,Jordan Romano,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Alex Kirilloff,Minnesota Twins,Dean Kremer,Baltimore Orioles,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+44,Alex Kirilloff,Minnesota Twins,Kyle Bradish,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+45,Alex Kirilloff,Minnesota Twins,Kyle Gibson,Baltimore Orioles,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+46,Alex Kirilloff,Minnesota Twins,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Alex Kirilloff,Minnesota Twins,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Alex Kirilloff,Minnesota Twins,Felix Bautista,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Alex Kirilloff,Minnesota Twins,Eduard Bazardo,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Alex Kirilloff,Minnesota Twins,Cole Irvin,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+51,Alex Kirilloff,Minnesota Twins,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Alex Kirilloff,Minnesota Twins,Nick Vespi,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Alex Kirilloff,Minnesota Twins,Bruce Zimmermann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Alex Kirilloff,Minnesota Twins,Michael Fulmer,Chicago Cubs,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+55,Alex Kirilloff,Minnesota Twins,Hayden Wesneski,Chicago Cubs,3,3,1,0,2,2,0,0,0,1.000,1.000,3.333,4.333
+56,Alex Kirilloff,Minnesota Twins,Marcus Stroman,Chicago Cubs,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+57,Alex Kirilloff,Minnesota Twins,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Alex Kirilloff,Minnesota Twins,Miles Mastrobuoni,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Alex Kirilloff,Minnesota Twins,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Alex Kirilloff,Minnesota Twins,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Alex Kirilloff,Minnesota Twins,Domingo Tapia,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+62,Alex Kirilloff,Minnesota Twins,Yu Darvish,San Diego Padres,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+63,Alex Kirilloff,Minnesota Twins,Seth Lugo,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+64,Alex Kirilloff,Minnesota Twins,Luis Garcia,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+65,Alex Kirilloff,Minnesota Twins,Nick Martinez,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+66,Alex Kirilloff,Minnesota Twins,Michael Wacha,San Diego Padres,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+67,Alex Kirilloff,Minnesota Twins,Steven Wilson,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+68,Alex Kirilloff,Minnesota Twins,J.P. France,Houston Astros,1,1,0,0,0,0,2,0,0,1.000,1.000,1.000,2.000
+69,Alex Kirilloff,Minnesota Twins,Seth Martinez,Houston Astros,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+70,Alex Kirilloff,Minnesota Twins,Ryne Stanek,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+71,Alex Kirilloff,Minnesota Twins,Hunter Brown,Houston Astros,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+72,Alex Kirilloff,Minnesota Twins,Brandon Bielak,Houston Astros,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+73,Alex Kirilloff,Minnesota Twins,Parker Mushinski,Houston Astros,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+74,Alex Kirilloff,Minnesota Twins,Ryan Pressly,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+75,Alex Kirilloff,Minnesota Twins,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Alex Kirilloff,Minnesota Twins,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Alex Kirilloff,Minnesota Twins,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Alex Kirilloff,Minnesota Twins,Anthony DeSclafani,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+79,Alex Kirilloff,Minnesota Twins,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Alex Kirilloff,Minnesota Twins,Matt Brash,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+81,Alex Kirilloff,Minnesota Twins,Devin Sweet,Seattle Mariners,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+82,Alex Kirilloff,Minnesota Twins,Bryan Woo,Seattle Mariners,2,2,0,1,1,2,1,0,0,1.000,1.000,3.500,4.500
+83,Alex Kirilloff,Minnesota Twins,Ty Adcock,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+84,Alex Kirilloff,Minnesota Twins,Logan Gilbert,Seattle Mariners,2,1,0,0,0,1,0,0,0,.500,.333,.500,.833
+85,Alex Kirilloff,Minnesota Twins,Luis Castillo,Seattle Mariners,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+86,Alex Kirilloff,Minnesota Twins,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Alex Kirilloff,Minnesota Twins,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Alex Kirilloff,Minnesota Twins,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Alex Kirilloff,Minnesota Twins,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Alex Kirilloff,Minnesota Twins,Tanner Bibee,Cleveland Guardians,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+91,Alex Kirilloff,Minnesota Twins,Aaron Civale,Cleveland Guardians,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+92,Alex Kirilloff,Minnesota Twins,Cal Quantrill,Cleveland Guardians,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+93,Alex Kirilloff,Minnesota Twins,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+94,Alex Kirilloff,Minnesota Twins,Hunter Gaddis,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Alex Kirilloff,Minnesota Twins,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Alex Kirilloff,Minnesota Twins,James Karinchak,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Alex Kirilloff,Minnesota Twins,Eli Morgan,Cleveland Guardians,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+98,Alex Kirilloff,Minnesota Twins,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Alex Kirilloff,Minnesota Twins,Kendall Graveman,Chicago White Sox,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+100,Alex Kirilloff,Minnesota Twins,Lucas Giolito,Chicago White Sox,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+101,Alex Kirilloff,Minnesota Twins,Lance Lynn,Chicago White Sox,4,2,1,0,1,4,0,0,1,.500,.500,1.500,2.000
+102,Alex Kirilloff,Minnesota Twins,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Alex Kirilloff,Minnesota Twins,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+104,Alex Kirilloff,Minnesota Twins,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Alex Kirilloff,Minnesota Twins,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Alex Kirilloff,Minnesota Twins,Joel Payamps,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+107,Alex Kirilloff,Minnesota Twins,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+108,Alex Kirilloff,Minnesota Twins,Colin Rea,Milwaukee Brewers,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+109,Alex Kirilloff,Minnesota Twins,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Alex Kirilloff,Minnesota Twins,Collin Snider,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+111,Alex Kirilloff,Minnesota Twins,Nick Wittgren,Kansas City Royals,2,2,0,0,0,3,0,0,0,1.000,1.000,1.000,2.000
+112,Alex Kirilloff,Minnesota Twins,Alec Marsh,Kansas City Royals,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+113,Alex Kirilloff,Minnesota Twins,Dylan Coleman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Alex Kirilloff,Minnesota Twins,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Alex Kirilloff,Minnesota Twins,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+116,Alex Kirilloff,Minnesota Twins,Mason Englert,Detroit Tigers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+117,Alex Kirilloff,Minnesota Twins,Will Vest,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+118,Alex Kirilloff,Minnesota Twins,Joey Wentz,Detroit Tigers,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+119,Alex Kirilloff,Minnesota Twins,Reese Olson,Detroit Tigers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+120,Alex Kirilloff,Minnesota Twins,Tyler Alexander,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Alex Kirilloff,Minnesota Twins,Matthew Boyd,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Alex Kirilloff,Minnesota Twins,Jason Foley,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Alex Kirilloff,Minnesota Twins,Tyler Holton,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+124,Alex Kirilloff,Minnesota Twins,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Alex Kirilloff,Minnesota Twins,Brendan White,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Alex Kirilloff,Minnesota Twins,Lucas Erceg,Oakland Athletics,2,1,1,0,0,3,0,0,0,.500,.500,1.000,1.500
+127,Alex Kirilloff,Minnesota Twins,JP Sears,Oakland Athletics,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+128,Alex Kirilloff,Minnesota Twins,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Alex Kirilloff,Minnesota Twins,Sam Long,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Alex Kirilloff,Minnesota Twins,Ken Waldichuk,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500

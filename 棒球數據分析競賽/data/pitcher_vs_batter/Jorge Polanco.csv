@@ -1,0 +1,74 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jorge Polanco,Minnesota Twins,Yency Almonte,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+1,Jorge Polanco,Minnesota Twins,Noah Syndergaard,Los Angeles Dodgers,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+2,Jorge Polanco,Minnesota Twins,Dylan Covey,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+3,Jorge Polanco,Minnesota Twins,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Jorge Polanco,Minnesota Twins,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Jorge Polanco,Minnesota Twins,Shelby Miller,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,Jorge Polanco,Minnesota Twins,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Jorge Polanco,Minnesota Twins,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Jorge Polanco,Minnesota Twins,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Jorge Polanco,Minnesota Twins,Yonny Chirinos,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Jorge Polanco,Minnesota Twins,Cooper Criswell,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+11,Jorge Polanco,Minnesota Twins,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Jorge Polanco,Minnesota Twins,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Jorge Polanco,Minnesota Twins,Michael Fulmer,Chicago Cubs,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+14,Jorge Polanco,Minnesota Twins,Hayden Wesneski,Chicago Cubs,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+15,Jorge Polanco,Minnesota Twins,Brandon Hughes,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Jorge Polanco,Minnesota Twins,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Jorge Polanco,Minnesota Twins,Julian Merryweather,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+18,Jorge Polanco,Minnesota Twins,Michael Rucker,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+19,Jorge Polanco,Minnesota Twins,Drew Smyly,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Jorge Polanco,Minnesota Twins,Marcus Stroman,Chicago Cubs,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+21,Jorge Polanco,Minnesota Twins,Yu Darvish,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+22,Jorge Polanco,Minnesota Twins,Seth Lugo,San Diego Padres,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+23,Jorge Polanco,Minnesota Twins,Michael Wacha,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+24,Jorge Polanco,Minnesota Twins,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Jorge Polanco,Minnesota Twins,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Jorge Polanco,Minnesota Twins,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Jorge Polanco,Minnesota Twins,Patrick Corbin,Washington Nationals,3,3,0,0,1,2,0,0,0,1.000,1.000,2.000,3.000
+28,Jorge Polanco,Minnesota Twins,Hobie Harris,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+29,Jorge Polanco,Minnesota Twins,Trevor Williams,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+30,Jorge Polanco,Minnesota Twins,Anthony Banda,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Jorge Polanco,Minnesota Twins,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Jorge Polanco,Minnesota Twins,Chad Kuhl,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Jorge Polanco,Minnesota Twins,Erasmo Ramirez,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Jorge Polanco,Minnesota Twins,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Jorge Polanco,Minnesota Twins,Albert Abreu,New York Yankees,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+36,Jorge Polanco,Minnesota Twins,Nestor Cortes,New York Yankees,3,2,2,0,0,1,0,0,0,.667,.667,1.333,2.000
+37,Jorge Polanco,Minnesota Twins,Jhony Brito,New York Yankees,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+38,Jorge Polanco,Minnesota Twins,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Jorge Polanco,Minnesota Twins,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Jorge Polanco,Minnesota Twins,Greg Weissert,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Jorge Polanco,Minnesota Twins,Xzavion Curry,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+42,Jorge Polanco,Minnesota Twins,Eli Morgan,Cleveland Guardians,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+43,Jorge Polanco,Minnesota Twins,Nick Sandlin,Cleveland Guardians,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+44,Jorge Polanco,Minnesota Twins,Logan Allen,Cleveland Guardians,6,2,0,0,1,1,0,0,0,.333,.333,.833,1.166
+45,Jorge Polanco,Minnesota Twins,Peyton Battenfield,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Jorge Polanco,Minnesota Twins,Tanner Bibee,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Jorge Polanco,Minnesota Twins,Aaron Civale,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Jorge Polanco,Minnesota Twins,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Jorge Polanco,Minnesota Twins,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Jorge Polanco,Minnesota Twins,James Karinchak,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+51,Jorge Polanco,Minnesota Twins,Triston McKenzie,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Jorge Polanco,Minnesota Twins,Cal Quantrill,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Jorge Polanco,Minnesota Twins,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Jorge Polanco,Minnesota Twins,Sammy Peralta,Chicago White Sox,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+55,Jorge Polanco,Minnesota Twins,Gregory Santos,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+56,Jorge Polanco,Minnesota Twins,Dylan Cease,Chicago White Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+57,Jorge Polanco,Minnesota Twins,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Jorge Polanco,Minnesota Twins,Alex Colome,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Jorge Polanco,Minnesota Twins,Lucas Giolito,Chicago White Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Jorge Polanco,Minnesota Twins,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+61,Jorge Polanco,Minnesota Twins,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Jorge Polanco,Minnesota Twins,Keynan Middleton,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+63,Jorge Polanco,Minnesota Twins,Scott Barlow,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+64,Jorge Polanco,Minnesota Twins,Zack Greinke,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+65,Jorge Polanco,Minnesota Twins,Brad Keller,Kansas City Royals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+66,Jorge Polanco,Minnesota Twins,Jordan Lyles,Kansas City Royals,3,1,0,0,1,3,0,0,1,.333,.333,1.333,1.666
+67,Jorge Polanco,Minnesota Twins,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Jorge Polanco,Minnesota Twins,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Jorge Polanco,Minnesota Twins,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Jorge Polanco,Minnesota Twins,Brady Singer,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+71,Jorge Polanco,Minnesota Twins,Josh Staumont,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+72,Jorge Polanco,Minnesota Twins,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

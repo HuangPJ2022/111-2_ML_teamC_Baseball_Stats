@@ -1,0 +1,164 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Miguel Vargas,Los Angeles Dodgers,Nick Anderson,Atlanta Braves,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+1,Miguel Vargas,Los Angeles Dodgers,Bryce Elder,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+2,Miguel Vargas,Los Angeles Dodgers,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Miguel Vargas,Los Angeles Dodgers,Charlie Morton,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+4,Miguel Vargas,Los Angeles Dodgers,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Miguel Vargas,Los Angeles Dodgers,Aaron Loup,Los Angeles Angels,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+6,Miguel Vargas,Los Angeles Dodgers,Reid Detmers,Los Angeles Angels,4,0,0,0,0,0,0,0,0,.000,.200,.000,.200
+7,Miguel Vargas,Los Angeles Dodgers,Shohei Ohtani,Los Angeles Angels,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+8,Miguel Vargas,Los Angeles Dodgers,Jose Soriano,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+9,Miguel Vargas,Los Angeles Dodgers,Zack Weiss,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Miguel Vargas,Los Angeles Dodgers,Trevor Kelley,Tampa Bay Rays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+11,Miguel Vargas,Los Angeles Dodgers,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Miguel Vargas,Los Angeles Dodgers,Jalen Beeks,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+13,Miguel Vargas,Los Angeles Dodgers,Cooper Criswell,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Miguel Vargas,Los Angeles Dodgers,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Miguel Vargas,Los Angeles Dodgers,Calvin Faucher,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+16,Miguel Vargas,Los Angeles Dodgers,Josh Fleming,Tampa Bay Rays,1,0,0,0,0,1,1,0,0,.000,.333,.000,.333
+17,Miguel Vargas,Los Angeles Dodgers,Tyler Glasnow,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+18,Miguel Vargas,Los Angeles Dodgers,Ryan Helsley,St. Louis Cardinals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+19,Miguel Vargas,Los Angeles Dodgers,Steven Matz,St. Louis Cardinals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+20,Miguel Vargas,Los Angeles Dodgers,Chris Stratton,St. Louis Cardinals,4,2,0,0,1,2,0,0,0,.500,.500,1.250,1.750
+21,Miguel Vargas,Los Angeles Dodgers,Drew VerHagen,St. Louis Cardinals,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+22,Miguel Vargas,Los Angeles Dodgers,Jordan Montgomery,St. Louis Cardinals,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+23,Miguel Vargas,Los Angeles Dodgers,Adam Wainwright,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+24,Miguel Vargas,Los Angeles Dodgers,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Miguel Vargas,Los Angeles Dodgers,Jack Flaherty,St. Louis Cardinals,5,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+26,Miguel Vargas,Los Angeles Dodgers,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Miguel Vargas,Los Angeles Dodgers,Matthew Liberatore,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Miguel Vargas,Los Angeles Dodgers,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Miguel Vargas,Los Angeles Dodgers,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Miguel Vargas,Los Angeles Dodgers,Jake Woodford,St. Louis Cardinals,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+31,Miguel Vargas,Los Angeles Dodgers,Merrill Kelly,Arizona Diamondbacks,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+32,Miguel Vargas,Los Angeles Dodgers,Peter Solomon,Arizona Diamondbacks,1,1,0,1,0,1,0,0,0,1.000,1.000,3.000,4.000
+33,Miguel Vargas,Los Angeles Dodgers,Madison Bumgarner,Arizona Diamondbacks,3,1,0,0,0,0,2,0,1,.333,.600,.333,.933
+34,Miguel Vargas,Los Angeles Dodgers,Andrew Chafin,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Miguel Vargas,Los Angeles Dodgers,Zach Davies,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Miguel Vargas,Los Angeles Dodgers,Zac Gallen,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+37,Miguel Vargas,Los Angeles Dodgers,Kevin Ginkel,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+38,Miguel Vargas,Los Angeles Dodgers,Drey Jameson,Arizona Diamondbacks,0,0,0,0,0,0,3,0,0,.000,1.000,.000,1.000
+39,Miguel Vargas,Los Angeles Dodgers,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Miguel Vargas,Los Angeles Dodgers,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+41,Miguel Vargas,Los Angeles Dodgers,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Miguel Vargas,Los Angeles Dodgers,Cole Sulser,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+43,Miguel Vargas,Los Angeles Dodgers,Carlos Vargas,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Miguel Vargas,Los Angeles Dodgers,Eduardo Salazar,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+45,Miguel Vargas,Los Angeles Dodgers,Brandon Williamson,Cincinnati Reds,3,2,1,0,1,2,0,0,0,.667,.667,2.000,2.667
+46,Miguel Vargas,Los Angeles Dodgers,Ian Gibaut,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+47,Miguel Vargas,Los Angeles Dodgers,Graham Ashcraft,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Miguel Vargas,Los Angeles Dodgers,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Miguel Vargas,Los Angeles Dodgers,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Miguel Vargas,Los Angeles Dodgers,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Miguel Vargas,Los Angeles Dodgers,Alex Young,Cincinnati Reds,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+52,Miguel Vargas,Los Angeles Dodgers,Kody Clemens,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+53,Miguel Vargas,Los Angeles Dodgers,Gregory Soto,Philadelphia Phillies,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+54,Miguel Vargas,Los Angeles Dodgers,Matt Strahm,Philadelphia Phillies,2,2,2,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+55,Miguel Vargas,Los Angeles Dodgers,Aaron Nola,Philadelphia Phillies,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+56,Miguel Vargas,Los Angeles Dodgers,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+57,Miguel Vargas,Los Angeles Dodgers,Dylan Covey,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Miguel Vargas,Los Angeles Dodgers,Seranthony Dominguez,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Miguel Vargas,Los Angeles Dodgers,Craig Kimbrel,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+60,Miguel Vargas,Los Angeles Dodgers,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+61,Miguel Vargas,Los Angeles Dodgers,Ranger Suarez,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Miguel Vargas,Los Angeles Dodgers,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Miguel Vargas,Los Angeles Dodgers,Taijuan Walker,Philadelphia Phillies,3,0,0,0,0,0,1,0,0,.000,.250,.000,.250
+64,Miguel Vargas,Los Angeles Dodgers,Michael Fulmer,Chicago Cubs,4,3,1,0,0,0,0,0,0,.750,.750,1.000,1.750
+65,Miguel Vargas,Los Angeles Dodgers,Michael Rucker,Chicago Cubs,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+66,Miguel Vargas,Los Angeles Dodgers,Jameson Taillon,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+67,Miguel Vargas,Los Angeles Dodgers,Adbert Alzolay,Chicago Cubs,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+68,Miguel Vargas,Los Angeles Dodgers,Drew Smyly,Chicago Cubs,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+69,Miguel Vargas,Los Angeles Dodgers,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Miguel Vargas,Los Angeles Dodgers,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Miguel Vargas,Los Angeles Dodgers,Justin Steele,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Miguel Vargas,Los Angeles Dodgers,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Miguel Vargas,Los Angeles Dodgers,Keegan Thompson,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Miguel Vargas,Los Angeles Dodgers,Ronel Blanco,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Miguel Vargas,Los Angeles Dodgers,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Miguel Vargas,Los Angeles Dodgers,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Miguel Vargas,Los Angeles Dodgers,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Miguel Vargas,Los Angeles Dodgers,Yu Darvish,San Diego Padres,2,1,0,1,0,0,0,0,0,.500,.500,1.500,2.000
+79,Miguel Vargas,Los Angeles Dodgers,Brent Honeywell,San Diego Padres,2,1,1,0,0,2,0,0,1,.500,.500,1.000,1.500
+80,Miguel Vargas,Los Angeles Dodgers,Joe Musgrove,San Diego Padres,5,1,0,0,0,0,0,0,0,.200,.200,.200,.400
+81,Miguel Vargas,Los Angeles Dodgers,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Miguel Vargas,Los Angeles Dodgers,Nick Martinez,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Miguel Vargas,Los Angeles Dodgers,Blake Snell,San Diego Padres,5,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+84,Miguel Vargas,Los Angeles Dodgers,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Miguel Vargas,Los Angeles Dodgers,Ryan Weathers,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+86,Miguel Vargas,Los Angeles Dodgers,Steven Wilson,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+87,Miguel Vargas,Los Angeles Dodgers,Griffin Jax,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+88,Miguel Vargas,Los Angeles Dodgers,Jovani Moran,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+89,Miguel Vargas,Los Angeles Dodgers,Brock Stewart,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+90,Miguel Vargas,Los Angeles Dodgers,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Miguel Vargas,Los Angeles Dodgers,Pablo Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Miguel Vargas,Los Angeles Dodgers,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Miguel Vargas,Los Angeles Dodgers,Emilio Pagan,Minnesota Twins,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+94,Miguel Vargas,Los Angeles Dodgers,Alex Cobb,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+95,Miguel Vargas,Los Angeles Dodgers,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Miguel Vargas,Los Angeles Dodgers,Tristan Beck,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Miguel Vargas,Los Angeles Dodgers,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Miguel Vargas,Los Angeles Dodgers,Luke Jackson,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Miguel Vargas,Los Angeles Dodgers,Jakob Junis,San Francisco Giants,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Miguel Vargas,Los Angeles Dodgers,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Miguel Vargas,Los Angeles Dodgers,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,1,1,0,.000,.500,.000,.500
+102,Miguel Vargas,Los Angeles Dodgers,Tyler Rogers,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Miguel Vargas,Los Angeles Dodgers,Ross Stripling,San Francisco Giants,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+104,Miguel Vargas,Los Angeles Dodgers,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Miguel Vargas,Los Angeles Dodgers,Logan Webb,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Miguel Vargas,Los Angeles Dodgers,Alex Wood,San Francisco Giants,3,0,0,0,0,0,1,0,0,.000,.250,.000,.250
+107,Miguel Vargas,Los Angeles Dodgers,Jimmy Yacabonis,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+108,Miguel Vargas,Los Angeles Dodgers,Jeff Brigham,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Miguel Vargas,Los Angeles Dodgers,Tylor Megill,New York Mets,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+110,Miguel Vargas,Los Angeles Dodgers,David Peterson,New York Mets,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Miguel Vargas,Los Angeles Dodgers,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Miguel Vargas,Los Angeles Dodgers,Max Scherzer,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Miguel Vargas,Los Angeles Dodgers,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Miguel Vargas,Los Angeles Dodgers,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Miguel Vargas,Los Angeles Dodgers,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Miguel Vargas,Los Angeles Dodgers,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Miguel Vargas,Los Angeles Dodgers,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Miguel Vargas,Los Angeles Dodgers,Trevor Williams,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Miguel Vargas,Los Angeles Dodgers,Jake Bird,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+120,Miguel Vargas,Los Angeles Dodgers,Gavin Hollowell,Colorado Rockies,1,1,0,1,0,1,0,0,0,1.000,1.000,3.000,4.000
+121,Miguel Vargas,Los Angeles Dodgers,Chase Anderson,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+122,Miguel Vargas,Los Angeles Dodgers,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Miguel Vargas,Los Angeles Dodgers,Ryan Feltner,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+124,Miguel Vargas,Los Angeles Dodgers,Kyle Freeland,Colorado Rockies,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+125,Miguel Vargas,Los Angeles Dodgers,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Miguel Vargas,Los Angeles Dodgers,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Miguel Vargas,Los Angeles Dodgers,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+128,Miguel Vargas,Los Angeles Dodgers,Wandy Peralta,New York Yankees,1,1,0,1,0,1,0,0,0,1.000,1.000,3.000,4.000
+129,Miguel Vargas,Los Angeles Dodgers,Domingo German,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+130,Miguel Vargas,Los Angeles Dodgers,Luis Severino,New York Yankees,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+131,Miguel Vargas,Los Angeles Dodgers,Clay Holmes,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+132,Miguel Vargas,Los Angeles Dodgers,Tommy Kahnle,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+133,Miguel Vargas,Los Angeles Dodgers,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Miguel Vargas,Los Angeles Dodgers,Ryan Weber,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Miguel Vargas,Los Angeles Dodgers,Colin Holderman,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+136,Miguel Vargas,Los Angeles Dodgers,Johan Oviedo,Pittsburgh Pirates,5,2,2,0,0,2,1,0,0,.400,.500,.800,1.300
+137,Miguel Vargas,Los Angeles Dodgers,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+138,Miguel Vargas,Los Angeles Dodgers,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+139,Miguel Vargas,Los Angeles Dodgers,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Miguel Vargas,Los Angeles Dodgers,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,0,0,2,.000,.333,.000,.333
+141,Miguel Vargas,Los Angeles Dodgers,Dauri Moreta,Pittsburgh Pirates,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+142,Miguel Vargas,Los Angeles Dodgers,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Miguel Vargas,Los Angeles Dodgers,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Miguel Vargas,Los Angeles Dodgers,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Miguel Vargas,Los Angeles Dodgers,Lance Lynn,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+146,Miguel Vargas,Los Angeles Dodgers,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Miguel Vargas,Los Angeles Dodgers,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+148,Miguel Vargas,Los Angeles Dodgers,Dylan Cease,Chicago White Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+149,Miguel Vargas,Los Angeles Dodgers,Garrett Crochet,Chicago White Sox,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+150,Miguel Vargas,Los Angeles Dodgers,Reynaldo Lopez,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Miguel Vargas,Los Angeles Dodgers,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Miguel Vargas,Los Angeles Dodgers,Bryse Wilson,Milwaukee Brewers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+153,Miguel Vargas,Los Angeles Dodgers,Wade Miley,Milwaukee Brewers,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+154,Miguel Vargas,Los Angeles Dodgers,Eric Lauer,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Miguel Vargas,Los Angeles Dodgers,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Miguel Vargas,Los Angeles Dodgers,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Miguel Vargas,Los Angeles Dodgers,Bennett Sousa,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Miguel Vargas,Los Angeles Dodgers,Gus Varland,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+159,Miguel Vargas,Los Angeles Dodgers,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+160,Miguel Vargas,Los Angeles Dodgers,Collin Snider,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+161,Miguel Vargas,Los Angeles Dodgers,Daniel Lynch IV,Kansas City Royals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+162,Miguel Vargas,Los Angeles Dodgers,Brady Singer,Kansas City Royals,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000

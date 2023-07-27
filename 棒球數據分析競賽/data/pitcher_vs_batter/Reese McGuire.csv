@@ -1,0 +1,83 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Reese McGuire,Boston Red Sox,Charlie Morton,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+1,Reese McGuire,Boston Red Sox,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Reese McGuire,Boston Red Sox,Danny Young,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Reese McGuire,Boston Red Sox,Aaron Loup,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+4,Reese McGuire,Boston Red Sox,Griffin Canning,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+5,Reese McGuire,Boston Red Sox,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Reese McGuire,Boston Red Sox,Shohei Ohtani,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Reese McGuire,Boston Red Sox,Ryan Tepera,Los Angeles Angels,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Reese McGuire,Boston Red Sox,Pete Fairbanks,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Reese McGuire,Boston Red Sox,Calvin Faucher,Tampa Bay Rays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+10,Reese McGuire,Boston Red Sox,Joe La Sorsa,Tampa Bay Rays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+11,Reese McGuire,Boston Red Sox,Ryan Thompson,Tampa Bay Rays,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+12,Reese McGuire,Boston Red Sox,Taj Bradley,Tampa Bay Rays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+13,Reese McGuire,Boston Red Sox,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Reese McGuire,Boston Red Sox,Jalen Beeks,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Reese McGuire,Boston Red Sox,Braden Bristo,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Reese McGuire,Boston Red Sox,Cooper Criswell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Reese McGuire,Boston Red Sox,Trevor Kelley,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Reese McGuire,Boston Red Sox,Kevin Kelly,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Reese McGuire,Boston Red Sox,Jeffrey Springs,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Reese McGuire,Boston Red Sox,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Reese McGuire,Boston Red Sox,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Reese McGuire,Boston Red Sox,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Reese McGuire,Boston Red Sox,Miles Mikolas,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Reese McGuire,Boston Red Sox,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Reese McGuire,Boston Red Sox,Miguel Castro,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Reese McGuire,Boston Red Sox,Zach Davies,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Reese McGuire,Boston Red Sox,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Reese McGuire,Boston Red Sox,Kyle Nelson,Arizona Diamondbacks,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+29,Reese McGuire,Boston Red Sox,Fernando Cruz,Cincinnati Reds,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+30,Reese McGuire,Boston Red Sox,Eduardo Salazar,Cincinnati Reds,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+31,Reese McGuire,Boston Red Sox,Ben Lively,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Reese McGuire,Boston Red Sox,Tim Mayza,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Reese McGuire,Boston Red Sox,Jose Berrios,Toronto Blue Jays,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+34,Reese McGuire,Boston Red Sox,Kevin Gausman,Toronto Blue Jays,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+35,Reese McGuire,Boston Red Sox,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Reese McGuire,Boston Red Sox,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Reese McGuire,Boston Red Sox,Kyle Bradish,Baltimore Orioles,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+38,Reese McGuire,Boston Red Sox,Kyle Gibson,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+39,Reese McGuire,Boston Red Sox,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Reese McGuire,Boston Red Sox,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Reese McGuire,Boston Red Sox,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Reese McGuire,Boston Red Sox,Logan Gillaspie,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Reese McGuire,Boston Red Sox,Dean Kremer,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Reese McGuire,Boston Red Sox,Austin Voth,Baltimore Orioles,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+45,Reese McGuire,Boston Red Sox,Bailey Falter,Philadelphia Phillies,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+46,Reese McGuire,Boston Red Sox,Connor Brogdon,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+47,Reese McGuire,Boston Red Sox,Jeff Hoffman,Philadelphia Phillies,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Reese McGuire,Boston Red Sox,Nick Martinez,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+49,Reese McGuire,Boston Red Sox,Michael Wacha,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+50,Reese McGuire,Boston Red Sox,Brent Headrick,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+51,Reese McGuire,Boston Red Sox,Jovani Moran,Minnesota Twins,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+52,Reese McGuire,Boston Red Sox,Joe Ryan,Minnesota Twins,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+53,Reese McGuire,Boston Red Sox,Sonny Gray,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+54,Reese McGuire,Boston Red Sox,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Reese McGuire,Boston Red Sox,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Reese McGuire,Boston Red Sox,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Reese McGuire,Boston Red Sox,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Reese McGuire,Boston Red Sox,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Reese McGuire,Boston Red Sox,Ron Marinaccio,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+60,Reese McGuire,Boston Red Sox,Domingo German,New York Yankees,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+61,Reese McGuire,Boston Red Sox,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Reese McGuire,Boston Red Sox,Michael King,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+63,Reese McGuire,Boston Red Sox,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Reese McGuire,Boston Red Sox,Luis Severino,New York Yankees,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+65,Reese McGuire,Boston Red Sox,Juan Then,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+66,Reese McGuire,Boston Red Sox,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Reese McGuire,Boston Red Sox,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Reese McGuire,Boston Red Sox,Aaron Civale,Cleveland Guardians,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+69,Reese McGuire,Boston Red Sox,Shane Bieber,Cleveland Guardians,5,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+70,Reese McGuire,Boston Red Sox,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Reese McGuire,Boston Red Sox,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Reese McGuire,Boston Red Sox,Enyel De Los Santos,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+73,Reese McGuire,Boston Red Sox,Dauri Moreta,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+74,Reese McGuire,Boston Red Sox,Roansy Contreras,Pittsburgh Pirates,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+75,Reese McGuire,Boston Red Sox,Mitch Keller,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Reese McGuire,Boston Red Sox,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Reese McGuire,Boston Red Sox,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Reese McGuire,Boston Red Sox,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Reese McGuire,Boston Red Sox,Spencer Turnbull,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+80,Reese McGuire,Boston Red Sox,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Reese McGuire,Boston Red Sox,Alex Lange,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

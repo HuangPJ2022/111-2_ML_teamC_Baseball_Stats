@@ -1,0 +1,69 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Elehuris Montero,Colorado Rockies,Ben Heller,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+1,Elehuris Montero,Colorado Rockies,Jared Shuster,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+2,Elehuris Montero,Colorado Rockies,AJ Smith-Shawver,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Elehuris Montero,Colorado Rockies,Michael Tonkin,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Elehuris Montero,Colorado Rockies,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Elehuris Montero,Colorado Rockies,Phil Bickford,Los Angeles Dodgers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+6,Elehuris Montero,Colorado Rockies,Ryan Brasier,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Elehuris Montero,Colorado Rockies,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Elehuris Montero,Colorado Rockies,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Elehuris Montero,Colorado Rockies,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Elehuris Montero,Colorado Rockies,Emmet Sheehan,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Elehuris Montero,Colorado Rockies,Julio Urias,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Elehuris Montero,Colorado Rockies,Sam Bachman,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Elehuris Montero,Colorado Rockies,Patrick Sandoval,Los Angeles Angels,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+14,Elehuris Montero,Colorado Rockies,Griffin Canning,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+15,Elehuris Montero,Colorado Rockies,Tyler Anderson,Los Angeles Angels,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+16,Elehuris Montero,Colorado Rockies,Kolton Ingram,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Elehuris Montero,Colorado Rockies,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Elehuris Montero,Colorado Rockies,James Paxton,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Elehuris Montero,Colorado Rockies,Garrett Whitlock,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Elehuris Montero,Colorado Rockies,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Elehuris Montero,Colorado Rockies,Steven Matz,St. Louis Cardinals,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+22,Elehuris Montero,Colorado Rockies,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Elehuris Montero,Colorado Rockies,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Elehuris Montero,Colorado Rockies,Tommy Henry,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Elehuris Montero,Colorado Rockies,Andrew Abbott,Cincinnati Reds,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+26,Elehuris Montero,Colorado Rockies,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Elehuris Montero,Colorado Rockies,Andrew Bellatti,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Elehuris Montero,Colorado Rockies,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Elehuris Montero,Colorado Rockies,Cristopher Sanchez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Elehuris Montero,Colorado Rockies,Matt Strahm,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+31,Elehuris Montero,Colorado Rockies,Tom Cosgrove,San Diego Padres,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+32,Elehuris Montero,Colorado Rockies,Tim Hill,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Elehuris Montero,Colorado Rockies,Domingo Tapia,San Diego Padres,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+34,Elehuris Montero,Colorado Rockies,Steven Wilson,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+35,Elehuris Montero,Colorado Rockies,Nick Martinez,San Diego Padres,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+36,Elehuris Montero,Colorado Rockies,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Elehuris Montero,Colorado Rockies,Nabil Crismatt,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Elehuris Montero,Colorado Rockies,Josh Hader,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+39,Elehuris Montero,Colorado Rockies,Seth Lugo,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Elehuris Montero,Colorado Rockies,Blake Snell,San Diego Padres,5,0,0,0,0,0,0,0,5,.000,.000,.000,.000
+41,Elehuris Montero,Colorado Rockies,Michael Wacha,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Elehuris Montero,Colorado Rockies,Ryan Weathers,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Elehuris Montero,Colorado Rockies,Carl Edwards Jr.,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+44,Elehuris Montero,Colorado Rockies,Josiah Gray,Washington Nationals,3,3,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+45,Elehuris Montero,Colorado Rockies,Chad Kuhl,Washington Nationals,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+46,Elehuris Montero,Colorado Rockies,Anthony Banda,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+47,Elehuris Montero,Colorado Rockies,MacKenzie Gore,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Elehuris Montero,Colorado Rockies,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Elehuris Montero,Colorado Rockies,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Elehuris Montero,Colorado Rockies,George Kirby,Seattle Mariners,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+51,Elehuris Montero,Colorado Rockies,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Elehuris Montero,Colorado Rockies,Diego Castillo,Seattle Mariners,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+53,Elehuris Montero,Colorado Rockies,Penn Murfee,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Elehuris Montero,Colorado Rockies,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Elehuris Montero,Colorado Rockies,Wil Crowe,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+56,Elehuris Montero,Colorado Rockies,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Elehuris Montero,Colorado Rockies,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+58,Elehuris Montero,Colorado Rockies,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Elehuris Montero,Colorado Rockies,Daniel Lynch IV,Kansas City Royals,3,1,0,1,0,2,0,0,1,.333,.333,1.000,1.333
+60,Elehuris Montero,Colorado Rockies,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Elehuris Montero,Colorado Rockies,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Elehuris Montero,Colorado Rockies,Jackson Kowar,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Elehuris Montero,Colorado Rockies,Brady Singer,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Elehuris Montero,Colorado Rockies,Matt Manning,Detroit Tigers,1,1,1,0,0,2,0,0,0,1.000,.500,2.000,2.500
+65,Elehuris Montero,Colorado Rockies,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Elehuris Montero,Colorado Rockies,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Elehuris Montero,Colorado Rockies,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

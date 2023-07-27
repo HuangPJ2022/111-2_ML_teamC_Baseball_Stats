@@ -1,0 +1,67 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jonathan Davis,Miami Marlins,Spencer Strider,Atlanta Braves,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+1,Jonathan Davis,Miami Marlins,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Jonathan Davis,Miami Marlins,Sam Bachman,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+3,Jonathan Davis,Miami Marlins,Patrick Sandoval,Los Angeles Angels,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+4,Jonathan Davis,Miami Marlins,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Jonathan Davis,Miami Marlins,Reid Detmers,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+6,Jonathan Davis,Miami Marlins,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Jonathan Davis,Miami Marlins,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Jonathan Davis,Miami Marlins,Shohei Ohtani,Los Angeles Angels,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Jonathan Davis,Miami Marlins,Chase Silseth,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Jonathan Davis,Miami Marlins,Jacob Webb,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Jonathan Davis,Miami Marlins,Brennan Bernardino,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+12,Jonathan Davis,Miami Marlins,Chris Murphy,Boston Red Sox,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Jonathan Davis,Miami Marlins,Nick Pivetta,Boston Red Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+14,Jonathan Davis,Miami Marlins,Miles Mikolas,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Jonathan Davis,Miami Marlins,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Jonathan Davis,Miami Marlins,Adam Wainwright,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Jonathan Davis,Miami Marlins,Ernie Clement,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Jonathan Davis,Miami Marlins,Jordan Romano,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+19,Jonathan Davis,Miami Marlins,Kevin Gausman,Toronto Blue Jays,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+20,Jonathan Davis,Miami Marlins,Jose Berrios,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+21,Jonathan Davis,Miami Marlins,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Jonathan Davis,Miami Marlins,Trent Thornton,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Jonathan Davis,Miami Marlins,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Jonathan Davis,Miami Marlins,Nick Martinez,San Diego Padres,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Jonathan Davis,Miami Marlins,Joe Musgrove,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+26,Jonathan Davis,Miami Marlins,Blake Snell,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Jonathan Davis,Miami Marlins,Trevor Williams,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+28,Jonathan Davis,Miami Marlins,Patrick Corbin,Washington Nationals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+29,Jonathan Davis,Miami Marlins,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Jonathan Davis,Miami Marlins,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Jonathan Davis,Miami Marlins,Jake Irvin,Washington Nationals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+32,Jonathan Davis,Miami Marlins,Chad Kuhl,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+33,Jonathan Davis,Miami Marlins,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Jonathan Davis,Miami Marlins,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Jonathan Davis,Miami Marlins,Daniel Bard,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+36,Jonathan Davis,Miami Marlins,Kyle Freeland,Colorado Rockies,2,2,0,1,0,0,0,0,0,1.000,1.000,2.000,3.000
+37,Jonathan Davis,Miami Marlins,Brad Hand,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+38,Jonathan Davis,Miami Marlins,Peter Lambert,Colorado Rockies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+39,Jonathan Davis,Miami Marlins,Karl Kauffmann,Colorado Rockies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+40,Jonathan Davis,Miami Marlins,Pierce Johnson,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+41,Jonathan Davis,Miami Marlins,Justin Lawrence,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+42,Jonathan Davis,Miami Marlins,Luis Castillo,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+43,Jonathan Davis,Miami Marlins,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Jonathan Davis,Miami Marlins,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Jonathan Davis,Miami Marlins,Bryce Miller,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Jonathan Davis,Miami Marlins,Justin Topa,Seattle Mariners,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+47,Jonathan Davis,Miami Marlins,Dauri Moreta,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+48,Jonathan Davis,Miami Marlins,Johan Oviedo,Pittsburgh Pirates,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+49,Jonathan Davis,Miami Marlins,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Jonathan Davis,Miami Marlins,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Jonathan Davis,Miami Marlins,Luis L. Ortiz,Pittsburgh Pirates,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+52,Jonathan Davis,Miami Marlins,Dylan Cease,Chicago White Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+53,Jonathan Davis,Miami Marlins,Lucas Giolito,Chicago White Sox,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+54,Jonathan Davis,Miami Marlins,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Jonathan Davis,Miami Marlins,Mike Mayers,Kansas City Royals,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+56,Jonathan Davis,Miami Marlins,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+57,Jonathan Davis,Miami Marlins,Jackson Kowar,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Jonathan Davis,Miami Marlins,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Jonathan Davis,Miami Marlins,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Jonathan Davis,Miami Marlins,Luis Medina,Oakland Athletics,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+61,Jonathan Davis,Miami Marlins,Ken Waldichuk,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+62,Jonathan Davis,Miami Marlins,Paul Blackburn,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Jonathan Davis,Miami Marlins,Lucas Erceg,Oakland Athletics,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+64,Jonathan Davis,Miami Marlins,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Jonathan Davis,Miami Marlins,Richard Lovelady,Oakland Athletics,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000

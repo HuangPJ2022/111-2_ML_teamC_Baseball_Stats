@@ -1,0 +1,146 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Alejandro Kirk,Toronto Blue Jays,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+1,Alejandro Kirk,Toronto Blue Jays,Dylan Lee,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Alejandro Kirk,Toronto Blue Jays,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Alejandro Kirk,Toronto Blue Jays,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Alejandro Kirk,Toronto Blue Jays,Jon Gray,Texas Rangers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+5,Alejandro Kirk,Toronto Blue Jays,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Alejandro Kirk,Toronto Blue Jays,Martin Perez,Texas Rangers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Alejandro Kirk,Toronto Blue Jays,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Alejandro Kirk,Toronto Blue Jays,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Alejandro Kirk,Toronto Blue Jays,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Alejandro Kirk,Toronto Blue Jays,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Alejandro Kirk,Toronto Blue Jays,Aaron Loup,Los Angeles Angels,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+12,Alejandro Kirk,Toronto Blue Jays,Jose Quijada,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+13,Alejandro Kirk,Toronto Blue Jays,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+14,Alejandro Kirk,Toronto Blue Jays,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Alejandro Kirk,Toronto Blue Jays,Jake Diekman,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+16,Alejandro Kirk,Toronto Blue Jays,Calvin Faucher,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+17,Alejandro Kirk,Toronto Blue Jays,Zack Littell,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Alejandro Kirk,Toronto Blue Jays,Zach Eflin,Tampa Bay Rays,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+19,Alejandro Kirk,Toronto Blue Jays,Josh Fleming,Tampa Bay Rays,3,1,0,0,0,1,1,0,0,.333,.500,.333,.833
+20,Alejandro Kirk,Toronto Blue Jays,Yonny Chirinos,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Alejandro Kirk,Toronto Blue Jays,Garrett Cleavinger,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Alejandro Kirk,Toronto Blue Jays,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Alejandro Kirk,Toronto Blue Jays,Trevor Kelley,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+24,Alejandro Kirk,Toronto Blue Jays,Shane McClanahan,Tampa Bay Rays,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+25,Alejandro Kirk,Toronto Blue Jays,Colin Poche,Tampa Bay Rays,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+26,Alejandro Kirk,Toronto Blue Jays,James Paxton,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+27,Alejandro Kirk,Toronto Blue Jays,Nick Pivetta,Boston Red Sox,4,1,0,0,0,0,1,0,0,.250,.400,.250,.650
+28,Alejandro Kirk,Toronto Blue Jays,Brennan Bernardino,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Alejandro Kirk,Toronto Blue Jays,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Alejandro Kirk,Toronto Blue Jays,Kutter Crawford,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Alejandro Kirk,Toronto Blue Jays,Tanner Houck,Boston Red Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Alejandro Kirk,Toronto Blue Jays,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Alejandro Kirk,Toronto Blue Jays,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Alejandro Kirk,Toronto Blue Jays,Jordan Montgomery,St. Louis Cardinals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+35,Alejandro Kirk,Toronto Blue Jays,Miles Mikolas,St. Louis Cardinals,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+36,Alejandro Kirk,Toronto Blue Jays,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Alejandro Kirk,Toronto Blue Jays,Packy Naughton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Alejandro Kirk,Toronto Blue Jays,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Alejandro Kirk,Toronto Blue Jays,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Alejandro Kirk,Toronto Blue Jays,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Alejandro Kirk,Toronto Blue Jays,Zac Gallen,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+42,Alejandro Kirk,Toronto Blue Jays,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Alejandro Kirk,Toronto Blue Jays,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Alejandro Kirk,Toronto Blue Jays,Tommy Henry,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Alejandro Kirk,Toronto Blue Jays,Justin Martinez,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Alejandro Kirk,Toronto Blue Jays,Cole Irvin,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+47,Alejandro Kirk,Toronto Blue Jays,Austin Voth,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+48,Alejandro Kirk,Toronto Blue Jays,Mike Baumann,Baltimore Orioles,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+49,Alejandro Kirk,Toronto Blue Jays,Dean Kremer,Baltimore Orioles,6,3,1,0,0,1,0,0,0,.500,.500,.667,1.167
+50,Alejandro Kirk,Toronto Blue Jays,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Alejandro Kirk,Toronto Blue Jays,Kyle Bradish,Baltimore Orioles,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Alejandro Kirk,Toronto Blue Jays,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Alejandro Kirk,Toronto Blue Jays,Reed Garrett,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Alejandro Kirk,Toronto Blue Jays,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Alejandro Kirk,Toronto Blue Jays,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Alejandro Kirk,Toronto Blue Jays,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Alejandro Kirk,Toronto Blue Jays,Tom Cosgrove,San Diego Padres,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+58,Alejandro Kirk,Toronto Blue Jays,Blake Snell,San Diego Padres,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+59,Alejandro Kirk,Toronto Blue Jays,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Alejandro Kirk,Toronto Blue Jays,Steven Wilson,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+61,Alejandro Kirk,Toronto Blue Jays,Rafael Montero,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+62,Alejandro Kirk,Toronto Blue Jays,Hector Neris,Houston Astros,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+63,Alejandro Kirk,Toronto Blue Jays,Jose Urquidy,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+64,Alejandro Kirk,Toronto Blue Jays,Brandon Bielak,Houston Astros,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+65,Alejandro Kirk,Toronto Blue Jays,Framber Valdez,Houston Astros,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+66,Alejandro Kirk,Toronto Blue Jays,Bryan Abreu,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Alejandro Kirk,Toronto Blue Jays,Hunter Brown,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Alejandro Kirk,Toronto Blue Jays,Luis Garcia,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Alejandro Kirk,Toronto Blue Jays,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Alejandro Kirk,Toronto Blue Jays,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Alejandro Kirk,Toronto Blue Jays,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Alejandro Kirk,Toronto Blue Jays,Jorge Lopez,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+73,Alejandro Kirk,Toronto Blue Jays,Bailey Ober,Minnesota Twins,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+74,Alejandro Kirk,Toronto Blue Jays,Emilio Pagan,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+75,Alejandro Kirk,Toronto Blue Jays,Louie Varland,Minnesota Twins,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+76,Alejandro Kirk,Toronto Blue Jays,Jose De Leon,Minnesota Twins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Alejandro Kirk,Toronto Blue Jays,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Alejandro Kirk,Toronto Blue Jays,Jovani Moran,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Alejandro Kirk,Toronto Blue Jays,Joe Ryan,Minnesota Twins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Alejandro Kirk,Toronto Blue Jays,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Alejandro Kirk,Toronto Blue Jays,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Alejandro Kirk,Toronto Blue Jays,Keaton Winn,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+83,Alejandro Kirk,Toronto Blue Jays,Tylor Megill,New York Mets,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+84,Alejandro Kirk,Toronto Blue Jays,Brooks Raley,New York Mets,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+85,Alejandro Kirk,Toronto Blue Jays,Justin Verlander,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+86,Alejandro Kirk,Toronto Blue Jays,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Alejandro Kirk,Toronto Blue Jays,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Alejandro Kirk,Toronto Blue Jays,David Robertson,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Alejandro Kirk,Toronto Blue Jays,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Alejandro Kirk,Toronto Blue Jays,Gerrit Cole,New York Yankees,5,3,2,0,0,0,0,0,0,.600,.600,1.000,1.600
+91,Alejandro Kirk,Toronto Blue Jays,Jhony Brito,New York Yankees,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Alejandro Kirk,Toronto Blue Jays,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Alejandro Kirk,Toronto Blue Jays,Nestor Cortes,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+94,Alejandro Kirk,Toronto Blue Jays,Ian Hamilton,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+95,Alejandro Kirk,Toronto Blue Jays,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Alejandro Kirk,Toronto Blue Jays,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+97,Alejandro Kirk,Toronto Blue Jays,Wandy Peralta,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+98,Alejandro Kirk,Toronto Blue Jays,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Alejandro Kirk,Toronto Blue Jays,Ryan Weber,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+100,Alejandro Kirk,Toronto Blue Jays,Isaiah Campbell,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+101,Alejandro Kirk,Toronto Blue Jays,Luis Castillo,Seattle Mariners,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+102,Alejandro Kirk,Toronto Blue Jays,Trevor Gott,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+103,Alejandro Kirk,Toronto Blue Jays,Gabe Speier,Seattle Mariners,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+104,Alejandro Kirk,Toronto Blue Jays,Justin Topa,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+105,Alejandro Kirk,Toronto Blue Jays,Logan Gilbert,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+106,Alejandro Kirk,Toronto Blue Jays,Marco Gonzales,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+107,Alejandro Kirk,Toronto Blue Jays,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Alejandro Kirk,Toronto Blue Jays,Penn Murfee,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Alejandro Kirk,Toronto Blue Jays,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Alejandro Kirk,Toronto Blue Jays,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Alejandro Kirk,Toronto Blue Jays,Johan Oviedo,Pittsburgh Pirates,2,2,1,0,0,1,1,0,0,1.000,1.000,1.500,2.500
+112,Alejandro Kirk,Toronto Blue Jays,Rich Hill,Pittsburgh Pirates,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+113,Alejandro Kirk,Toronto Blue Jays,Cody Bolton,Pittsburgh Pirates,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+114,Alejandro Kirk,Toronto Blue Jays,Chase De Jong,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+115,Alejandro Kirk,Toronto Blue Jays,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Alejandro Kirk,Toronto Blue Jays,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Alejandro Kirk,Toronto Blue Jays,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Alejandro Kirk,Toronto Blue Jays,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Alejandro Kirk,Toronto Blue Jays,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Alejandro Kirk,Toronto Blue Jays,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+121,Alejandro Kirk,Toronto Blue Jays,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Alejandro Kirk,Toronto Blue Jays,Lance Lynn,Chicago White Sox,1,0,0,0,0,0,2,0,0,.000,.750,.000,.750
+123,Alejandro Kirk,Toronto Blue Jays,Keynan Middleton,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+124,Alejandro Kirk,Toronto Blue Jays,Gregory Santos,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Alejandro Kirk,Toronto Blue Jays,Bryan Shaw,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Alejandro Kirk,Toronto Blue Jays,Adrian Houser,Milwaukee Brewers,3,3,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+127,Alejandro Kirk,Toronto Blue Jays,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Alejandro Kirk,Toronto Blue Jays,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Alejandro Kirk,Toronto Blue Jays,Julio Teheran,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Alejandro Kirk,Toronto Blue Jays,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Alejandro Kirk,Toronto Blue Jays,Jose Cisnero,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+132,Alejandro Kirk,Toronto Blue Jays,Mason Englert,Detroit Tigers,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+133,Alejandro Kirk,Toronto Blue Jays,Matt Manning,Detroit Tigers,5,1,0,0,0,1,0,0,1,.200,.200,.200,.400
+134,Alejandro Kirk,Toronto Blue Jays,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Alejandro Kirk,Toronto Blue Jays,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Alejandro Kirk,Toronto Blue Jays,Reese Olson,Detroit Tigers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+137,Alejandro Kirk,Toronto Blue Jays,Chasen Shreve,Detroit Tigers,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+138,Alejandro Kirk,Toronto Blue Jays,Tarik Skubal,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Alejandro Kirk,Toronto Blue Jays,Spencer Turnbull,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,Alejandro Kirk,Toronto Blue Jays,Taylor Clarke,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+141,Alejandro Kirk,Toronto Blue Jays,Zack Greinke,Kansas City Royals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+142,Alejandro Kirk,Toronto Blue Jays,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Alejandro Kirk,Toronto Blue Jays,Brady Singer,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+144,Alejandro Kirk,Toronto Blue Jays,Ryan Yarbrough,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

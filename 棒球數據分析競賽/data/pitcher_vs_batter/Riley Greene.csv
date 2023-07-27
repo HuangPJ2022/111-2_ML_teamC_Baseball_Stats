@@ -1,0 +1,135 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Riley Greene,Detroit Tigers,Jonathan Hernandez,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Riley Greene,Detroit Tigers,Nathan Eovaldi,Texas Rangers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+2,Riley Greene,Detroit Tigers,Martin Perez,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Riley Greene,Detroit Tigers,Colin Poche,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+4,Riley Greene,Detroit Tigers,Shane McClanahan,Tampa Bay Rays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+5,Riley Greene,Detroit Tigers,Jason Adam,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,Riley Greene,Detroit Tigers,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Riley Greene,Detroit Tigers,Garrett Cleavinger,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Riley Greene,Detroit Tigers,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Riley Greene,Detroit Tigers,Jeffrey Springs,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Riley Greene,Detroit Tigers,Ryan Brasier,Boston Red Sox,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+11,Riley Greene,Detroit Tigers,Chris Martin,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+12,Riley Greene,Detroit Tigers,Kutter Crawford,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Riley Greene,Detroit Tigers,Tanner Houck,Boston Red Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+14,Riley Greene,Detroit Tigers,Zack Kelly,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Riley Greene,Detroit Tigers,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Riley Greene,Detroit Tigers,Chris Sale,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+17,Riley Greene,Detroit Tigers,Giovanny Gallegos,St. Louis Cardinals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+18,Riley Greene,Detroit Tigers,Jordan Hicks,St. Louis Cardinals,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+19,Riley Greene,Detroit Tigers,Genesis Cabrera,St. Louis Cardinals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+20,Riley Greene,Detroit Tigers,Adam Wainwright,St. Louis Cardinals,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+21,Riley Greene,Detroit Tigers,Steven Matz,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Riley Greene,Detroit Tigers,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Riley Greene,Detroit Tigers,Kevin Gausman,Toronto Blue Jays,5,3,0,0,0,0,1,0,1,.600,.667,.600,1.267
+24,Riley Greene,Detroit Tigers,Chris Bassitt,Toronto Blue Jays,6,2,0,0,1,1,0,0,3,.333,.333,.833,1.166
+25,Riley Greene,Detroit Tigers,Alek Manoah,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Riley Greene,Detroit Tigers,Tim Mayza,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Riley Greene,Detroit Tigers,Nate Pearson,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+28,Riley Greene,Detroit Tigers,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Riley Greene,Detroit Tigers,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Riley Greene,Detroit Tigers,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Riley Greene,Detroit Tigers,Dean Kremer,Baltimore Orioles,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+32,Riley Greene,Detroit Tigers,Keegan Akin,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+33,Riley Greene,Detroit Tigers,Kyle Bradish,Baltimore Orioles,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+34,Riley Greene,Detroit Tigers,Tyler Wells,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+35,Riley Greene,Detroit Tigers,Kyle Gibson,Baltimore Orioles,5,1,0,0,0,0,1,0,1,.200,.333,.200,.533
+36,Riley Greene,Detroit Tigers,Grayson Rodriguez,Baltimore Orioles,5,1,0,0,0,0,0,0,3,.200,.200,.200,.400
+37,Riley Greene,Detroit Tigers,Felix Bautista,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Riley Greene,Detroit Tigers,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Riley Greene,Detroit Tigers,Danny Coulombe,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Riley Greene,Detroit Tigers,DL Hall,Baltimore Orioles,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+41,Riley Greene,Detroit Tigers,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+42,Riley Greene,Detroit Tigers,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Riley Greene,Detroit Tigers,Tom Cosgrove,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+44,Riley Greene,Detroit Tigers,Nick Martinez,San Diego Padres,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+45,Riley Greene,Detroit Tigers,Joe Musgrove,San Diego Padres,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+46,Riley Greene,Detroit Tigers,Jackson Wolf,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+47,Riley Greene,Detroit Tigers,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Riley Greene,Detroit Tigers,Seth Lugo,San Diego Padres,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+49,Riley Greene,Detroit Tigers,Bryan Abreu,Houston Astros,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+50,Riley Greene,Detroit Tigers,Rafael Montero,Houston Astros,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+51,Riley Greene,Detroit Tigers,Ryne Stanek,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+52,Riley Greene,Detroit Tigers,Framber Valdez,Houston Astros,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+53,Riley Greene,Detroit Tigers,Cristian Javier,Houston Astros,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+54,Riley Greene,Detroit Tigers,Hunter Brown,Houston Astros,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+55,Riley Greene,Detroit Tigers,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Riley Greene,Detroit Tigers,Jake Irvin,Washington Nationals,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+57,Riley Greene,Detroit Tigers,Thaddeus Ward,Washington Nationals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+58,Riley Greene,Detroit Tigers,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+59,Riley Greene,Detroit Tigers,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Riley Greene,Detroit Tigers,Kyle Finnegan,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+61,Riley Greene,Detroit Tigers,Josiah Gray,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Riley Greene,Detroit Tigers,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Riley Greene,Detroit Tigers,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Riley Greene,Detroit Tigers,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Riley Greene,Detroit Tigers,Sean Manaea,San Francisco Giants,2,1,0,1,0,1,0,0,1,.500,.500,1.500,2.000
+66,Riley Greene,Detroit Tigers,Anthony DeSclafani,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+67,Riley Greene,Detroit Tigers,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Riley Greene,Detroit Tigers,John Brebbia,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+69,Riley Greene,Detroit Tigers,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+70,Riley Greene,Detroit Tigers,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Riley Greene,Detroit Tigers,Zach Muckenhirn,New York Mets,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+72,Riley Greene,Detroit Tigers,Justin Verlander,New York Mets,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+73,Riley Greene,Detroit Tigers,Joey Lucchesi,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+74,Riley Greene,Detroit Tigers,Max Scherzer,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+75,Riley Greene,Detroit Tigers,Jose Butto,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Riley Greene,Detroit Tigers,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Riley Greene,Detroit Tigers,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Riley Greene,Detroit Tigers,Jimmy Yacabonis,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Riley Greene,Detroit Tigers,Juan Then,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+80,Riley Greene,Detroit Tigers,Justin Topa,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+81,Riley Greene,Detroit Tigers,Logan Gilbert,Seattle Mariners,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+82,Riley Greene,Detroit Tigers,George Kirby,Seattle Mariners,2,1,0,0,0,1,1,0,1,.500,.667,.500,1.167
+83,Riley Greene,Detroit Tigers,Marco Gonzales,Seattle Mariners,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+84,Riley Greene,Detroit Tigers,Bryce Miller,Seattle Mariners,6,2,1,0,0,0,0,0,0,.333,.333,.500,.833
+85,Riley Greene,Detroit Tigers,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Riley Greene,Detroit Tigers,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Riley Greene,Detroit Tigers,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Riley Greene,Detroit Tigers,Tayler Saucedo,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+89,Riley Greene,Detroit Tigers,Gabe Speier,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+90,Riley Greene,Detroit Tigers,Eli Morgan,Cleveland Guardians,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+91,Riley Greene,Detroit Tigers,Hunter Gaddis,Cleveland Guardians,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+92,Riley Greene,Detroit Tigers,Shane Bieber,Cleveland Guardians,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+93,Riley Greene,Detroit Tigers,Xzavion Curry,Cleveland Guardians,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+94,Riley Greene,Detroit Tigers,Tanner Bibee,Cleveland Guardians,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+95,Riley Greene,Detroit Tigers,Peyton Battenfield,Cleveland Guardians,6,1,0,0,1,2,0,0,2,.167,.167,.667,.834
+96,Riley Greene,Detroit Tigers,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Riley Greene,Detroit Tigers,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Riley Greene,Detroit Tigers,James Karinchak,Cleveland Guardians,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+99,Riley Greene,Detroit Tigers,Cal Quantrill,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+100,Riley Greene,Detroit Tigers,Luis L. Ortiz,Pittsburgh Pirates,3,3,1,0,0,0,0,0,0,1.000,1.000,1.333,2.333
+101,Riley Greene,Detroit Tigers,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Riley Greene,Detroit Tigers,Aaron Bummer,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+103,Riley Greene,Detroit Tigers,Garrett Crochet,Chicago White Sox,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+104,Riley Greene,Detroit Tigers,Joe Kelly,Chicago White Sox,2,2,1,1,0,0,0,0,0,1.000,1.000,2.500,3.500
+105,Riley Greene,Detroit Tigers,Lance Lynn,Chicago White Sox,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+106,Riley Greene,Detroit Tigers,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+107,Riley Greene,Detroit Tigers,Lucas Giolito,Chicago White Sox,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+108,Riley Greene,Detroit Tigers,Jimmy Lambert,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Riley Greene,Detroit Tigers,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Riley Greene,Detroit Tigers,Jesse Scholtens,Chicago White Sox,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+111,Riley Greene,Detroit Tigers,Freddy Peralta,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+112,Riley Greene,Detroit Tigers,Alex Claudio,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Riley Greene,Detroit Tigers,Jake Cousins,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Riley Greene,Detroit Tigers,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Riley Greene,Detroit Tigers,Colin Rea,Milwaukee Brewers,2,0,0,0,0,1,1,0,0,.000,.333,.000,.333
+116,Riley Greene,Detroit Tigers,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Riley Greene,Detroit Tigers,Aroldis Chapman,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+118,Riley Greene,Detroit Tigers,Josh Taylor,Kansas City Royals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+119,Riley Greene,Detroit Tigers,Ryan Yarbrough,Kansas City Royals,3,3,1,0,0,0,0,0,0,1.000,1.000,1.333,2.333
+120,Riley Greene,Detroit Tigers,Zack Greinke,Kansas City Royals,3,2,0,0,1,1,1,0,0,.667,.750,1.667,2.417
+121,Riley Greene,Detroit Tigers,Scott Barlow,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+122,Riley Greene,Detroit Tigers,Mike Mayers,Kansas City Royals,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+123,Riley Greene,Detroit Tigers,Max Castillo,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Riley Greene,Detroit Tigers,Taylor Clarke,Kansas City Royals,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+125,Riley Greene,Detroit Tigers,Dylan Coleman,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Riley Greene,Detroit Tigers,Austin Cox,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+127,Riley Greene,Detroit Tigers,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Riley Greene,Detroit Tigers,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Riley Greene,Detroit Tigers,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Riley Greene,Detroit Tigers,Jordan Lyles,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Riley Greene,Detroit Tigers,Brady Singer,Kansas City Royals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+132,Riley Greene,Detroit Tigers,Josh Staumont,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+133,Riley Greene,Detroit Tigers,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

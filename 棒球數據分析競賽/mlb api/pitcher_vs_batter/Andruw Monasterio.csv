@@ -1,0 +1,53 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Andruw Monasterio,Milwaukee Brewers,Michael Tonkin,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Andruw Monasterio,Milwaukee Brewers,Bryce Elder,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Andruw Monasterio,Milwaukee Brewers,Ben Heller,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Andruw Monasterio,Milwaukee Brewers,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Andruw Monasterio,Milwaukee Brewers,Michael Soroka,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Andruw Monasterio,Milwaukee Brewers,Allan Winans,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+6,Andruw Monasterio,Milwaukee Brewers,Kirby Yates,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+7,Andruw Monasterio,Milwaukee Brewers,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Andruw Monasterio,Milwaukee Brewers,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Andruw Monasterio,Milwaukee Brewers,Alexis Diaz,Cincinnati Reds,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+10,Andruw Monasterio,Milwaukee Brewers,Derek Law,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Andruw Monasterio,Milwaukee Brewers,Ben Lively,Cincinnati Reds,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+12,Andruw Monasterio,Milwaukee Brewers,Fernando Cruz,Cincinnati Reds,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+13,Andruw Monasterio,Milwaukee Brewers,Brandon Williamson,Cincinnati Reds,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+14,Andruw Monasterio,Milwaukee Brewers,Graham Ashcraft,Cincinnati Reds,5,1,0,0,0,0,0,0,0,.200,.200,.200,.400
+15,Andruw Monasterio,Milwaukee Brewers,Andrew Abbott,Cincinnati Reds,5,0,0,0,0,0,2,0,1,.000,.286,.000,.286
+16,Andruw Monasterio,Milwaukee Brewers,Daniel Duarte,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Andruw Monasterio,Milwaukee Brewers,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Andruw Monasterio,Milwaukee Brewers,Eduardo Salazar,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Andruw Monasterio,Milwaukee Brewers,Lucas Sims,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Andruw Monasterio,Milwaukee Brewers,Yimi Garcia,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Andruw Monasterio,Milwaukee Brewers,Yusei Kikuchi,Toronto Blue Jays,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+22,Andruw Monasterio,Milwaukee Brewers,Kevin Gausman,Toronto Blue Jays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+23,Andruw Monasterio,Milwaukee Brewers,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Andruw Monasterio,Milwaukee Brewers,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Andruw Monasterio,Milwaukee Brewers,Bruce Zimmermann,Baltimore Orioles,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+26,Andruw Monasterio,Milwaukee Brewers,Dean Kremer,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Andruw Monasterio,Milwaukee Brewers,Yunior Marte,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,Andruw Monasterio,Milwaukee Brewers,Aaron Nola,Philadelphia Phillies,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+29,Andruw Monasterio,Milwaukee Brewers,Taijuan Walker,Philadelphia Phillies,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+30,Andruw Monasterio,Milwaukee Brewers,Cristopher Sanchez,Philadelphia Phillies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+31,Andruw Monasterio,Milwaukee Brewers,Dylan Covey,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Andruw Monasterio,Milwaukee Brewers,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Andruw Monasterio,Milwaukee Brewers,Drew Smyly,Chicago Cubs,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+34,Andruw Monasterio,Milwaukee Brewers,Justin Steele,Chicago Cubs,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+35,Andruw Monasterio,Milwaukee Brewers,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Andruw Monasterio,Milwaukee Brewers,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Andruw Monasterio,Milwaukee Brewers,David Peterson,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+38,Andruw Monasterio,Milwaukee Brewers,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Andruw Monasterio,Milwaukee Brewers,Drew Smith,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+40,Andruw Monasterio,Milwaukee Brewers,Aaron Civale,Cleveland Guardians,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+41,Andruw Monasterio,Milwaukee Brewers,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Andruw Monasterio,Milwaukee Brewers,Ryan Borucki,Pittsburgh Pirates,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+43,Andruw Monasterio,Milwaukee Brewers,Angel Perdomo,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+44,Andruw Monasterio,Milwaukee Brewers,Rich Hill,Pittsburgh Pirates,3,0,0,0,0,0,2,0,1,.000,.400,.000,.400
+45,Andruw Monasterio,Milwaukee Brewers,Carmen Mlodzinski,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+46,Andruw Monasterio,Milwaukee Brewers,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Andruw Monasterio,Milwaukee Brewers,JP Sears,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+48,Andruw Monasterio,Milwaukee Brewers,Paul Blackburn,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Andruw Monasterio,Milwaukee Brewers,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Andruw Monasterio,Milwaukee Brewers,Luis Medina,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Andruw Monasterio,Milwaukee Brewers,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

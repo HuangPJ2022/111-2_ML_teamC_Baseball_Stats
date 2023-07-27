@@ -1,0 +1,131 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Brandon Crawford,San Francisco Giants,Bobby Miller,Los Angeles Dodgers,3,3,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+1,Brandon Crawford,San Francisco Giants,Evan Phillips,Los Angeles Dodgers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+2,Brandon Crawford,San Francisco Giants,Alex Vesia,Los Angeles Dodgers,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+3,Brandon Crawford,San Francisco Giants,Tony Gonsolin,Los Angeles Dodgers,2,1,1,0,0,0,1,1,1,.500,.667,1.000,1.667
+4,Brandon Crawford,San Francisco Giants,Nick Robertson,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+5,Brandon Crawford,San Francisco Giants,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Brandon Crawford,San Francisco Giants,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Brandon Crawford,San Francisco Giants,Andre Jackson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Brandon Crawford,San Francisco Giants,Dustin May,Los Angeles Dodgers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+9,Brandon Crawford,San Francisco Giants,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Brandon Crawford,San Francisco Giants,Emmet Sheehan,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Brandon Crawford,San Francisco Giants,Julio Urias,Los Angeles Dodgers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+12,Brandon Crawford,San Francisco Giants,Chris Stratton,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+13,Brandon Crawford,San Francisco Giants,Jack Flaherty,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+14,Brandon Crawford,San Francisco Giants,Miles Mikolas,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+15,Brandon Crawford,San Francisco Giants,Matthew Liberatore,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+16,Brandon Crawford,San Francisco Giants,Genesis Cabrera,St. Louis Cardinals,3,0,0,0,0,1,0,0,3,.000,.000,.000,.000
+17,Brandon Crawford,San Francisco Giants,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Brandon Crawford,San Francisco Giants,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Brandon Crawford,San Francisco Giants,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Brandon Crawford,San Francisco Giants,Jake Woodford,St. Louis Cardinals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+21,Brandon Crawford,San Francisco Giants,Merrill Kelly,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+22,Brandon Crawford,San Francisco Giants,Zach Davies,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+23,Brandon Crawford,San Francisco Giants,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Brandon Crawford,San Francisco Giants,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Brandon Crawford,San Francisco Giants,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Brandon Crawford,San Francisco Giants,Ryne Nelson,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Brandon Crawford,San Francisco Giants,Brandon Pfaadt,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Brandon Crawford,San Francisco Giants,Jose Ruiz,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Brandon Crawford,San Francisco Giants,Nate Pearson,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+30,Brandon Crawford,San Francisco Giants,Chris Bassitt,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+31,Brandon Crawford,San Francisco Giants,Kevin Gausman,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Brandon Crawford,San Francisco Giants,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Brandon Crawford,San Francisco Giants,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Brandon Crawford,San Francisco Giants,Bryan Baker,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Brandon Crawford,San Francisco Giants,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Brandon Crawford,San Francisco Giants,Dean Kremer,Baltimore Orioles,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+37,Brandon Crawford,San Francisco Giants,Bruce Zimmermann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Brandon Crawford,San Francisco Giants,Taijuan Walker,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+39,Brandon Crawford,San Francisco Giants,Bailey Falter,Philadelphia Phillies,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+40,Brandon Crawford,San Francisco Giants,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Brandon Crawford,San Francisco Giants,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Brandon Crawford,San Francisco Giants,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Brandon Crawford,San Francisco Giants,Marcus Stroman,Chicago Cubs,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+44,Brandon Crawford,San Francisco Giants,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Brandon Crawford,San Francisco Giants,Kyle Hendricks,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Brandon Crawford,San Francisco Giants,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Brandon Crawford,San Francisco Giants,Tim Hill,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+48,Brandon Crawford,San Francisco Giants,Joe Musgrove,San Diego Padres,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+49,Brandon Crawford,San Francisco Giants,Yu Darvish,San Diego Padres,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+50,Brandon Crawford,San Francisco Giants,Seth Lugo,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Brandon Crawford,San Francisco Giants,Michael Wacha,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+52,Brandon Crawford,San Francisco Giants,Brock Stewart,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+53,Brandon Crawford,San Francisco Giants,Bailey Ober,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+54,Brandon Crawford,San Francisco Giants,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Brandon Crawford,San Francisco Giants,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Brandon Crawford,San Francisco Giants,Joe Ryan,Minnesota Twins,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+57,Brandon Crawford,San Francisco Giants,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Brandon Crawford,San Francisco Giants,Sandy Alcantara,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Brandon Crawford,San Francisco Giants,Matt Barnes,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Brandon Crawford,San Francisco Giants,Edward Cabrera,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Brandon Crawford,San Francisco Giants,Jesus Luzardo,Miami Marlins,4,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+62,Brandon Crawford,San Francisco Giants,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+63,Brandon Crawford,San Francisco Giants,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Brandon Crawford,San Francisco Giants,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Brandon Crawford,San Francisco Giants,Carlos Carrasco,New York Mets,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+66,Brandon Crawford,San Francisco Giants,Tylor Megill,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+67,Brandon Crawford,San Francisco Giants,David Peterson,New York Mets,5,2,1,0,1,3,0,0,2,.400,.400,1.200,1.600
+68,Brandon Crawford,San Francisco Giants,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Brandon Crawford,San Francisco Giants,Grant Hartwig,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+70,Brandon Crawford,San Francisco Giants,Brooks Raley,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Brandon Crawford,San Francisco Giants,David Robertson,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Brandon Crawford,San Francisco Giants,Kodai Senga,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+73,Brandon Crawford,San Francisco Giants,Drew Smith,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Brandon Crawford,San Francisco Giants,Edwin Uceta,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Brandon Crawford,San Francisco Giants,Justin Verlander,New York Mets,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Brandon Crawford,San Francisco Giants,Austin Gomber,Colorado Rockies,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+77,Brandon Crawford,San Francisco Giants,Pierce Johnson,Colorado Rockies,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+78,Brandon Crawford,San Francisco Giants,Dinelson Lamet,Colorado Rockies,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+79,Brandon Crawford,San Francisco Giants,Fernando Abad,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Brandon Crawford,San Francisco Giants,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Brandon Crawford,San Francisco Giants,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Brandon Crawford,San Francisco Giants,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Brandon Crawford,San Francisco Giants,Connor Seabold,Colorado Rockies,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Brandon Crawford,San Francisco Giants,Clay Holmes,New York Yankees,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+85,Brandon Crawford,San Francisco Giants,Michael King,New York Yankees,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+86,Brandon Crawford,San Francisco Giants,Clarke Schmidt,New York Yankees,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+87,Brandon Crawford,San Francisco Giants,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Brandon Crawford,San Francisco Giants,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Brandon Crawford,San Francisco Giants,Gerrit Cole,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Brandon Crawford,San Francisco Giants,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Brandon Crawford,San Francisco Giants,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Brandon Crawford,San Francisco Giants,Matt Festa,Seattle Mariners,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+93,Brandon Crawford,San Francisco Giants,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Brandon Crawford,San Francisco Giants,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Brandon Crawford,San Francisco Giants,Tommy Milone,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+96,Brandon Crawford,San Francisco Giants,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Brandon Crawford,San Francisco Giants,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Brandon Crawford,San Francisco Giants,Rich Hill,Pittsburgh Pirates,6,4,1,0,0,2,0,0,1,.667,.667,.833,1.500
+99,Brandon Crawford,San Francisco Giants,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Brandon Crawford,San Francisco Giants,Osvaldo Bido,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Brandon Crawford,San Francisco Giants,Cody Bolton,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+102,Brandon Crawford,San Francisco Giants,Ryan Borucki,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Brandon Crawford,San Francisco Giants,Yerry De Los Santos,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Brandon Crawford,San Francisco Giants,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Brandon Crawford,San Francisco Giants,Johan Oviedo,Pittsburgh Pirates,4,0,0,0,0,0,0,0,3,.000,.200,.000,.200
+106,Brandon Crawford,San Francisco Giants,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Brandon Crawford,San Francisco Giants,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Brandon Crawford,San Francisco Giants,Jake Diekman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Brandon Crawford,San Francisco Giants,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+110,Brandon Crawford,San Francisco Giants,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+111,Brandon Crawford,San Francisco Giants,Jose Ruiz,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Brandon Crawford,San Francisco Giants,Joel Payamps,Milwaukee Brewers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+113,Brandon Crawford,San Francisco Giants,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Brandon Crawford,San Francisco Giants,Devin Williams,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+115,Brandon Crawford,San Francisco Giants,Brady Singer,Kansas City Royals,3,2,0,0,0,2,0,0,0,.667,.667,.667,1.334
+116,Brandon Crawford,San Francisco Giants,Scott Barlow,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+117,Brandon Crawford,San Francisco Giants,Kris Bubic,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Brandon Crawford,San Francisco Giants,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,Brandon Crawford,San Francisco Giants,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Brandon Crawford,San Francisco Giants,Brad Keller,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Brandon Crawford,San Francisco Giants,Ryan Yarbrough,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Brandon Crawford,San Francisco Giants,Jose Cisnero,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+123,Brandon Crawford,San Francisco Giants,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Brandon Crawford,San Francisco Giants,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Brandon Crawford,San Francisco Giants,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Brandon Crawford,San Francisco Giants,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Brandon Crawford,San Francisco Giants,Michael Lorenzen,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+128,Brandon Crawford,San Francisco Giants,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Brandon Crawford,San Francisco Giants,Trey Wingenter,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

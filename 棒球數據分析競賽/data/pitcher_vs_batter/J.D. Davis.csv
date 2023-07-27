@@ -1,0 +1,179 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,J.D. Davis,San Francisco Giants,Bryan Hudson,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,J.D. Davis,San Francisco Giants,Alex Vesia,Los Angeles Dodgers,1,1,0,0,1,4,0,0,0,1.000,1.000,4.000,5.000
+2,J.D. Davis,San Francisco Giants,Julio Urias,Los Angeles Dodgers,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+3,J.D. Davis,San Francisco Giants,Yency Almonte,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,J.D. Davis,San Francisco Giants,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,J.D. Davis,San Francisco Giants,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,J.D. Davis,San Francisco Giants,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,1,0,0,2,.000,.000,.000,.000
+7,J.D. Davis,San Francisco Giants,Dustin May,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,J.D. Davis,San Francisco Giants,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,J.D. Davis,San Francisco Giants,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,J.D. Davis,San Francisco Giants,Andre Pallante,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,J.D. Davis,San Francisco Giants,Drew VerHagen,St. Louis Cardinals,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+12,J.D. Davis,San Francisco Giants,Jack Flaherty,St. Louis Cardinals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+13,J.D. Davis,San Francisco Giants,Jordan Montgomery,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+14,J.D. Davis,San Francisco Giants,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,J.D. Davis,San Francisco Giants,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,J.D. Davis,San Francisco Giants,Matthew Liberatore,St. Louis Cardinals,3,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+17,J.D. Davis,San Francisco Giants,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+18,J.D. Davis,San Francisco Giants,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,J.D. Davis,San Francisco Giants,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,J.D. Davis,San Francisco Giants,Jake Woodford,St. Louis Cardinals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+21,J.D. Davis,San Francisco Giants,Zach Davies,Arizona Diamondbacks,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+22,J.D. Davis,San Francisco Giants,Ryne Nelson,Arizona Diamondbacks,5,3,0,0,0,2,1,0,1,.600,.667,.600,1.267
+23,J.D. Davis,San Francisco Giants,Miguel Castro,Arizona Diamondbacks,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+24,J.D. Davis,San Francisco Giants,Scott McGough,Arizona Diamondbacks,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+25,J.D. Davis,San Francisco Giants,Jose Ruiz,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+26,J.D. Davis,San Francisco Giants,Tommy Henry,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+27,J.D. Davis,San Francisco Giants,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+28,J.D. Davis,San Francisco Giants,Drey Jameson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,J.D. Davis,San Francisco Giants,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,J.D. Davis,San Francisco Giants,Anthony Misiewicz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,J.D. Davis,San Francisco Giants,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,J.D. Davis,San Francisco Giants,Brandon Pfaadt,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+33,J.D. Davis,San Francisco Giants,Tony Santillan,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+34,J.D. Davis,San Francisco Giants,Daniel Duarte,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,J.D. Davis,San Francisco Giants,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,J.D. Davis,San Francisco Giants,Luke Weaver,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,J.D. Davis,San Francisco Giants,Brandon Williamson,Cincinnati Reds,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+38,J.D. Davis,San Francisco Giants,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,J.D. Davis,San Francisco Giants,Erik Swanson,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+40,J.D. Davis,San Francisco Giants,Bowden Francis,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+41,J.D. Davis,San Francisco Giants,Kevin Gausman,Toronto Blue Jays,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+42,J.D. Davis,San Francisco Giants,Chris Bassitt,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+43,J.D. Davis,San Francisco Giants,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,J.D. Davis,San Francisco Giants,Trent Thornton,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,J.D. Davis,San Francisco Giants,Yennier Cano,Baltimore Orioles,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+46,J.D. Davis,San Francisco Giants,Tyler Wells,Baltimore Orioles,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+47,J.D. Davis,San Francisco Giants,Kyle Bradish,Baltimore Orioles,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+48,J.D. Davis,San Francisco Giants,Dean Kremer,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+49,J.D. Davis,San Francisco Giants,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,J.D. Davis,San Francisco Giants,Bruce Zimmermann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,J.D. Davis,San Francisco Giants,Gregory Soto,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+52,J.D. Davis,San Francisco Giants,Bailey Falter,Philadelphia Phillies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+53,J.D. Davis,San Francisco Giants,Andrew Bellatti,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,J.D. Davis,San Francisco Giants,Connor Brogdon,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+55,J.D. Davis,San Francisco Giants,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,J.D. Davis,San Francisco Giants,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+57,J.D. Davis,San Francisco Giants,Brandon Hughes,Chicago Cubs,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+58,J.D. Davis,San Francisco Giants,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,J.D. Davis,San Francisco Giants,Javier Assad,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+60,J.D. Davis,San Francisco Giants,Jeremiah Estrada,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+61,J.D. Davis,San Francisco Giants,Kyle Hendricks,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,J.D. Davis,San Francisco Giants,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,J.D. Davis,San Francisco Giants,Yu Darvish,San Diego Padres,6,3,0,0,1,2,0,0,2,.500,.500,1.000,1.500
+64,J.D. Davis,San Francisco Giants,Seth Lugo,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+65,J.D. Davis,San Francisco Giants,Joe Musgrove,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+66,J.D. Davis,San Francisco Giants,Luis Garcia,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.667,.000,.667
+67,J.D. Davis,San Francisco Giants,Tim Hill,San Diego Padres,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+68,J.D. Davis,San Francisco Giants,Brent Honeywell,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+69,J.D. Davis,San Francisco Giants,Nick Martinez,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,J.D. Davis,San Francisco Giants,Blake Snell,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,J.D. Davis,San Francisco Giants,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,J.D. Davis,San Francisco Giants,Ryan Pressly,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+73,J.D. Davis,San Francisco Giants,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,J.D. Davis,San Francisco Giants,Brandon Bielak,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+75,J.D. Davis,San Francisco Giants,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,J.D. Davis,San Francisco Giants,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,J.D. Davis,San Francisco Giants,Bailey Ober,Minnesota Twins,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+78,J.D. Davis,San Francisco Giants,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+79,J.D. Davis,San Francisco Giants,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,J.D. Davis,San Francisco Giants,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,J.D. Davis,San Francisco Giants,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,J.D. Davis,San Francisco Giants,Mason Thompson,Washington Nationals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+83,J.D. Davis,San Francisco Giants,Jake Irvin,Washington Nationals,5,2,0,0,1,1,1,0,1,.400,.500,1.000,1.500
+84,J.D. Davis,San Francisco Giants,Josiah Gray,Washington Nationals,4,1,0,0,0,1,1,0,2,.250,.333,.250,.583
+85,J.D. Davis,San Francisco Giants,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,J.D. Davis,San Francisco Giants,Jose A. Ferrer,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,J.D. Davis,San Francisco Giants,MacKenzie Gore,Washington Nationals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+88,J.D. Davis,San Francisco Giants,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,J.D. Davis,San Francisco Giants,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,J.D. Davis,San Francisco Giants,Thaddeus Ward,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+91,J.D. Davis,San Francisco Giants,Jordan Weems,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+92,J.D. Davis,San Francisco Giants,Edward Cabrera,Miami Marlins,3,3,1,0,0,0,0,0,0,1.000,1.000,1.333,2.333
+93,J.D. Davis,San Francisco Giants,George Soriano,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+94,J.D. Davis,San Francisco Giants,Jesus Luzardo,Miami Marlins,4,2,1,0,1,2,1,0,1,.500,.600,1.500,2.100
+95,J.D. Davis,San Francisco Giants,Sandy Alcantara,Miami Marlins,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+96,J.D. Davis,San Francisco Giants,Matt Barnes,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,J.D. Davis,San Francisco Giants,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,J.D. Davis,San Francisco Giants,JT Chargois,Miami Marlins,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,J.D. Davis,San Francisco Giants,Dylan Floro,Miami Marlins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+100,J.D. Davis,San Francisco Giants,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,J.D. Davis,San Francisco Giants,Bryan Hoeing,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+102,J.D. Davis,San Francisco Giants,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,J.D. Davis,San Francisco Giants,Trevor Rogers,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,J.D. Davis,San Francisco Giants,Devin Smeltzer,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,J.D. Davis,San Francisco Giants,Dominic Leone,New York Mets,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+106,J.D. Davis,San Francisco Giants,Justin Verlander,New York Mets,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+107,J.D. Davis,San Francisco Giants,Kodai Senga,New York Mets,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+108,J.D. Davis,San Francisco Giants,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,J.D. Davis,San Francisco Giants,Carlos Carrasco,New York Mets,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+110,J.D. Davis,San Francisco Giants,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,J.D. Davis,San Francisco Giants,Grant Hartwig,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+112,J.D. Davis,San Francisco Giants,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,J.D. Davis,San Francisco Giants,Joey Lucchesi,New York Mets,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+114,J.D. Davis,San Francisco Giants,Tylor Megill,New York Mets,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+115,J.D. Davis,San Francisco Giants,Adam Ottavino,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,J.D. Davis,San Francisco Giants,David Peterson,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,J.D. Davis,San Francisco Giants,David Robertson,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+118,J.D. Davis,San Francisco Giants,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,J.D. Davis,San Francisco Giants,Brad Hand,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,.500,1.000,1.500
+120,J.D. Davis,San Francisco Giants,Chase Anderson,Colorado Rockies,3,2,0,1,0,0,0,0,0,.667,.667,1.333,2.000
+121,J.D. Davis,San Francisco Giants,Jake Bird,Colorado Rockies,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+122,J.D. Davis,San Francisco Giants,Kyle Freeland,Colorado Rockies,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+123,J.D. Davis,San Francisco Giants,Daniel Bard,Colorado Rockies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+124,J.D. Davis,San Francisco Giants,Austin Gomber,Colorado Rockies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,J.D. Davis,San Francisco Giants,Gavin Hollowell,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,J.D. Davis,San Francisco Giants,Peter Lambert,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+127,J.D. Davis,San Francisco Giants,Dinelson Lamet,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,J.D. Davis,San Francisco Giants,Justin Lawrence,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,J.D. Davis,San Francisco Giants,Jhony Brito,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+130,J.D. Davis,San Francisco Giants,Colten Brewer,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+131,J.D. Davis,San Francisco Giants,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,J.D. Davis,San Francisco Giants,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,J.D. Davis,San Francisco Giants,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,J.D. Davis,San Francisco Giants,Paul Sewald,Seattle Mariners,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+135,J.D. Davis,San Francisco Giants,Logan Gilbert,Seattle Mariners,4,2,0,0,0,0,0,0,1,.500,.500,.500,1.000
+136,J.D. Davis,San Francisco Giants,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,J.D. Davis,San Francisco Giants,Tommy Milone,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,J.D. Davis,San Francisco Giants,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,J.D. Davis,San Francisco Giants,Bryan Woo,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,J.D. Davis,San Francisco Giants,Rob Zastryzny,Pittsburgh Pirates,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+141,J.D. Davis,San Francisco Giants,Osvaldo Bido,Pittsburgh Pirates,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+142,J.D. Davis,San Francisco Giants,Cody Bolton,Pittsburgh Pirates,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+143,J.D. Davis,San Francisco Giants,Mitch Keller,Pittsburgh Pirates,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+144,J.D. Davis,San Francisco Giants,Rich Hill,Pittsburgh Pirates,5,1,0,0,0,1,1,0,0,.200,.333,.200,.533
+145,J.D. Davis,San Francisco Giants,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+146,J.D. Davis,San Francisco Giants,Yerry De Los Santos,Pittsburgh Pirates,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+147,J.D. Davis,San Francisco Giants,Colin Holderman,Pittsburgh Pirates,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+148,J.D. Davis,San Francisco Giants,Dauri Moreta,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+149,J.D. Davis,San Francisco Giants,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,3,0,0,.000,.600,.000,.600
+150,J.D. Davis,San Francisco Giants,Chris Owings,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,J.D. Davis,San Francisco Giants,Gregory Santos,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+152,J.D. Davis,San Francisco Giants,Hanser Alberto,Chicago White Sox,2,1,0,0,1,4,0,0,0,.500,.500,2.000,2.500
+153,J.D. Davis,San Francisco Giants,Dylan Cease,Chicago White Sox,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+154,J.D. Davis,San Francisco Giants,Lance Lynn,Chicago White Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+155,J.D. Davis,San Francisco Giants,Jake Diekman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,J.D. Davis,San Francisco Giants,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,J.D. Davis,San Francisco Giants,Jose Ruiz,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,J.D. Davis,San Francisco Giants,Ethan Small,Milwaukee Brewers,2,2,1,0,1,2,0,0,0,1.000,1.000,3.000,4.000
+159,J.D. Davis,San Francisco Giants,Freddy Peralta,Milwaukee Brewers,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+160,J.D. Davis,San Francisco Giants,Tyson Miller,Milwaukee Brewers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+161,J.D. Davis,San Francisco Giants,Peter Strzelecki,Milwaukee Brewers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+162,J.D. Davis,San Francisco Giants,Corbin Burnes,Milwaukee Brewers,4,1,0,0,1,2,2,0,3,.250,.500,1.000,1.500
+163,J.D. Davis,San Francisco Giants,Colin Rea,Milwaukee Brewers,6,1,0,0,0,0,0,0,3,.167,.167,.167,.334
+164,J.D. Davis,San Francisco Giants,Mike Brosseau,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,J.D. Davis,San Francisco Giants,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+166,J.D. Davis,San Francisco Giants,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,J.D. Davis,San Francisco Giants,Julio Teheran,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+168,J.D. Davis,San Francisco Giants,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,J.D. Davis,San Francisco Giants,Aroldis Chapman,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+170,J.D. Davis,San Francisco Giants,Taylor Clarke,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+171,J.D. Davis,San Francisco Giants,Brady Singer,Kansas City Royals,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+172,J.D. Davis,San Francisco Giants,Kris Bubic,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,J.D. Davis,San Francisco Giants,Mason Englert,Detroit Tigers,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+174,J.D. Davis,San Francisco Giants,Michael Lorenzen,Detroit Tigers,3,2,0,0,1,3,0,0,1,.667,.667,1.667,2.334
+175,J.D. Davis,San Francisco Giants,Joey Wentz,Detroit Tigers,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+176,J.D. Davis,San Francisco Giants,Jason Foley,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+177,J.D. Davis,San Francisco Giants,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

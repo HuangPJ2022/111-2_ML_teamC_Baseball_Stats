@@ -1,0 +1,82 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Mike Zunino,Cleveland Guardians,Patrick Sandoval,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+1,Mike Zunino,Cleveland Guardians,Brennan Bernardino,Boston Red Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+2,Mike Zunino,Cleveland Guardians,Justin Garza,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+3,Mike Zunino,Cleveland Guardians,Nick Pivetta,Boston Red Sox,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+4,Mike Zunino,Cleveland Guardians,Brayan Bello,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Mike Zunino,Cleveland Guardians,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Mike Zunino,Cleveland Guardians,Kutter Crawford,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+7,Mike Zunino,Cleveland Guardians,Chris Murphy,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Mike Zunino,Cleveland Guardians,James Paxton,Boston Red Sox,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+9,Mike Zunino,Cleveland Guardians,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Mike Zunino,Cleveland Guardians,Matthew Liberatore,St. Louis Cardinals,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Mike Zunino,Cleveland Guardians,Jordan Montgomery,St. Louis Cardinals,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+12,Mike Zunino,Cleveland Guardians,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Mike Zunino,Cleveland Guardians,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Mike Zunino,Cleveland Guardians,Bryan Baker,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Mike Zunino,Cleveland Guardians,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Mike Zunino,Cleveland Guardians,Kyle Gibson,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Mike Zunino,Cleveland Guardians,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Mike Zunino,Cleveland Guardians,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Mike Zunino,Cleveland Guardians,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+20,Mike Zunino,Cleveland Guardians,Cristian Javier,Houston Astros,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+21,Mike Zunino,Cleveland Guardians,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Mike Zunino,Cleveland Guardians,Pablo Lopez,Minnesota Twins,3,1,0,0,0,2,0,0,0,.333,.333,.333,.666
+23,Mike Zunino,Cleveland Guardians,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Mike Zunino,Cleveland Guardians,Sonny Gray,Minnesota Twins,5,0,0,0,0,0,0,0,4,.000,.000,.000,.000
+25,Mike Zunino,Cleveland Guardians,Jorge Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+26,Mike Zunino,Cleveland Guardians,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Mike Zunino,Cleveland Guardians,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Mike Zunino,Cleveland Guardians,Patrick Corbin,Washington Nationals,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+29,Mike Zunino,Cleveland Guardians,Carl Edwards Jr.,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+30,Mike Zunino,Cleveland Guardians,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Mike Zunino,Cleveland Guardians,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Mike Zunino,Cleveland Guardians,Trevor Williams,Washington Nationals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+33,Mike Zunino,Cleveland Guardians,Matt Barnes,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Mike Zunino,Cleveland Guardians,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+35,Mike Zunino,Cleveland Guardians,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Mike Zunino,Cleveland Guardians,Devin Smeltzer,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Mike Zunino,Cleveland Guardians,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Mike Zunino,Cleveland Guardians,Max Scherzer,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+39,Mike Zunino,Cleveland Guardians,Ryan Feltner,Colorado Rockies,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+40,Mike Zunino,Cleveland Guardians,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Mike Zunino,Cleveland Guardians,Austin Gomber,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+42,Mike Zunino,Cleveland Guardians,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Mike Zunino,Cleveland Guardians,Colten Brewer,New York Yankees,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+44,Mike Zunino,Cleveland Guardians,Ian Hamilton,New York Yankees,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+45,Mike Zunino,Cleveland Guardians,Domingo German,New York Yankees,4,1,1,0,0,1,1,0,3,.250,.400,.500,.900
+46,Mike Zunino,Cleveland Guardians,Gerrit Cole,New York Yankees,4,0,0,0,0,0,1,0,4,.000,.200,.000,.200
+47,Mike Zunino,Cleveland Guardians,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Mike Zunino,Cleveland Guardians,Wandy Peralta,New York Yankees,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+49,Mike Zunino,Cleveland Guardians,Matt Brash,Seattle Mariners,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+50,Mike Zunino,Cleveland Guardians,Marco Gonzales,Seattle Mariners,4,2,1,0,1,3,0,0,1,.500,.500,1.500,2.000
+51,Mike Zunino,Cleveland Guardians,Trevor Gott,Seattle Mariners,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+52,Mike Zunino,Cleveland Guardians,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+53,Mike Zunino,Cleveland Guardians,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+54,Mike Zunino,Cleveland Guardians,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Mike Zunino,Cleveland Guardians,Robbie Ray,Seattle Mariners,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+56,Mike Zunino,Cleveland Guardians,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Mike Zunino,Cleveland Guardians,Gregory Santos,Chicago White Sox,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+58,Mike Zunino,Cleveland Guardians,Dylan Cease,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Mike Zunino,Cleveland Guardians,Mike Clevinger,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+60,Mike Zunino,Cleveland Guardians,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Mike Zunino,Cleveland Guardians,Lance Lynn,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+62,Mike Zunino,Cleveland Guardians,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Mike Zunino,Cleveland Guardians,Jesse Scholtens,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Mike Zunino,Cleveland Guardians,Spencer Turnbull,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+65,Mike Zunino,Cleveland Guardians,Tyler Alexander,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+66,Mike Zunino,Cleveland Guardians,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+67,Mike Zunino,Cleveland Guardians,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Mike Zunino,Cleveland Guardians,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Mike Zunino,Cleveland Guardians,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Mike Zunino,Cleveland Guardians,Eduardo Rodriguez,Detroit Tigers,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+71,Mike Zunino,Cleveland Guardians,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Mike Zunino,Cleveland Guardians,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Mike Zunino,Cleveland Guardians,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Mike Zunino,Cleveland Guardians,Jeurys Familia,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+75,Mike Zunino,Cleveland Guardians,Domingo Acevedo,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Mike Zunino,Cleveland Guardians,Dany Jimenez,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Mike Zunino,Cleveland Guardians,James Kaprielian,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Mike Zunino,Cleveland Guardians,Trevor May,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+79,Mike Zunino,Cleveland Guardians,Sam Moll,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+80,Mike Zunino,Cleveland Guardians,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000

@@ -1,0 +1,192 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Nico Hoerner,Chicago Cubs,Taylor Hearn,Texas Rangers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Nico Hoerner,Chicago Cubs,Nathan Eovaldi,Texas Rangers,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+2,Nico Hoerner,Chicago Cubs,Jon Gray,Texas Rangers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Nico Hoerner,Chicago Cubs,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Nico Hoerner,Chicago Cubs,Martin Perez,Texas Rangers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+5,Nico Hoerner,Chicago Cubs,Will Smith,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,Nico Hoerner,Chicago Cubs,Phil Bickford,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+7,Nico Hoerner,Chicago Cubs,Andre Jackson,Los Angeles Dodgers,3,3,0,0,1,3,0,0,0,1.000,1.000,2.000,3.000
+8,Nico Hoerner,Chicago Cubs,Julio Urias,Los Angeles Dodgers,6,4,0,0,0,1,0,0,0,.667,.667,.667,1.334
+9,Nico Hoerner,Chicago Cubs,Yency Almonte,Los Angeles Dodgers,2,1,0,0,1,2,1,0,0,.500,.667,2.000,2.667
+10,Nico Hoerner,Chicago Cubs,Dustin May,Los Angeles Dodgers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+11,Nico Hoerner,Chicago Cubs,Brusdar Graterol,Los Angeles Dodgers,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Nico Hoerner,Chicago Cubs,Michael Grove,Los Angeles Dodgers,5,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Nico Hoerner,Chicago Cubs,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+14,Nico Hoerner,Chicago Cubs,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Nico Hoerner,Chicago Cubs,Evan Phillips,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+16,Nico Hoerner,Chicago Cubs,Noah Syndergaard,Los Angeles Dodgers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+17,Nico Hoerner,Chicago Cubs,Carlos Estevez,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Nico Hoerner,Chicago Cubs,Tyler Anderson,Los Angeles Angels,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+19,Nico Hoerner,Chicago Cubs,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Nico Hoerner,Chicago Cubs,Jaime Barria,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Nico Hoerner,Chicago Cubs,Reid Detmers,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Nico Hoerner,Chicago Cubs,Ben Joyce,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Nico Hoerner,Chicago Cubs,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Nico Hoerner,Chicago Cubs,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Nico Hoerner,Chicago Cubs,Jason Adam,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Nico Hoerner,Chicago Cubs,Taj Bradley,Tampa Bay Rays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+27,Nico Hoerner,Chicago Cubs,Shane McClanahan,Tampa Bay Rays,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+28,Nico Hoerner,Chicago Cubs,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+29,Nico Hoerner,Chicago Cubs,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Nico Hoerner,Chicago Cubs,Joe La Sorsa,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Nico Hoerner,Chicago Cubs,Jake Faria,Boston Red Sox,1,1,0,1,0,2,1,0,0,1.000,1.000,3.000,4.000
+32,Nico Hoerner,Chicago Cubs,James Paxton,Boston Red Sox,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+33,Nico Hoerner,Chicago Cubs,Brayan Bello,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+34,Nico Hoerner,Chicago Cubs,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Nico Hoerner,Chicago Cubs,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,2,.000,.333,.000,.333
+36,Nico Hoerner,Chicago Cubs,Joe Jacques,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Nico Hoerner,Chicago Cubs,Tayler Scott,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Nico Hoerner,Chicago Cubs,Brandon Walter,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Nico Hoerner,Chicago Cubs,Matthew Liberatore,St. Louis Cardinals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+40,Nico Hoerner,Chicago Cubs,Miles Mikolas,St. Louis Cardinals,6,3,1,0,0,0,0,0,0,.500,.500,.667,1.167
+41,Nico Hoerner,Chicago Cubs,Steven Matz,St. Louis Cardinals,5,1,1,0,0,0,0,0,0,.200,.200,.400,.600
+42,Nico Hoerner,Chicago Cubs,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+43,Nico Hoerner,Chicago Cubs,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+44,Nico Hoerner,Chicago Cubs,Jordan Hicks,St. Louis Cardinals,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+45,Nico Hoerner,Chicago Cubs,Dakota Hudson,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Nico Hoerner,Chicago Cubs,Kyle Leahy,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+47,Nico Hoerner,Chicago Cubs,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Nico Hoerner,Chicago Cubs,Zack Thompson,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+49,Nico Hoerner,Chicago Cubs,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Nico Hoerner,Chicago Cubs,Adam Wainwright,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Nico Hoerner,Chicago Cubs,Jake Woodford,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Nico Hoerner,Chicago Cubs,Fernando Cruz,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+53,Nico Hoerner,Chicago Cubs,Alexis Diaz,Cincinnati Reds,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+54,Nico Hoerner,Chicago Cubs,Buck Farmer,Cincinnati Reds,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+55,Nico Hoerner,Chicago Cubs,Luis Cessa,Cincinnati Reds,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+56,Nico Hoerner,Chicago Cubs,Connor Overton,Cincinnati Reds,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+57,Nico Hoerner,Chicago Cubs,Brandon Williamson,Cincinnati Reds,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+58,Nico Hoerner,Chicago Cubs,Graham Ashcraft,Cincinnati Reds,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Nico Hoerner,Chicago Cubs,Ian Gibaut,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+60,Nico Hoerner,Chicago Cubs,Hunter Greene,Cincinnati Reds,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Nico Hoerner,Chicago Cubs,Joel Kuhnel,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Nico Hoerner,Chicago Cubs,Eduardo Salazar,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Nico Hoerner,Chicago Cubs,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Nico Hoerner,Chicago Cubs,Danny Coulombe,Baltimore Orioles,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+65,Nico Hoerner,Chicago Cubs,Reed Garrett,Baltimore Orioles,2,2,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+66,Nico Hoerner,Chicago Cubs,Kyle Gibson,Baltimore Orioles,3,1,1,0,0,2,0,0,1,.333,.333,.667,1.000
+67,Nico Hoerner,Chicago Cubs,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Nico Hoerner,Chicago Cubs,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Nico Hoerner,Chicago Cubs,Cole Irvin,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Nico Hoerner,Chicago Cubs,Dean Kremer,Baltimore Orioles,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Nico Hoerner,Chicago Cubs,Gregory Soto,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+72,Nico Hoerner,Chicago Cubs,Erich Uelmen,Philadelphia Phillies,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+73,Nico Hoerner,Chicago Cubs,Andrew Vasquez,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+74,Nico Hoerner,Chicago Cubs,Taijuan Walker,Philadelphia Phillies,5,2,1,0,0,0,1,0,0,.400,.500,.600,1.100
+75,Nico Hoerner,Chicago Cubs,Aaron Nola,Philadelphia Phillies,5,1,0,0,0,0,1,0,1,.200,.333,.200,.533
+76,Nico Hoerner,Chicago Cubs,Ranger Suarez,Philadelphia Phillies,5,1,1,0,0,2,0,0,0,.200,.200,.400,.600
+77,Nico Hoerner,Chicago Cubs,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Nico Hoerner,Chicago Cubs,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Nico Hoerner,Chicago Cubs,Kody Clemens,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Nico Hoerner,Chicago Cubs,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Nico Hoerner,Chicago Cubs,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Nico Hoerner,Chicago Cubs,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Nico Hoerner,Chicago Cubs,Drew Carlton,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+84,Nico Hoerner,Chicago Cubs,Ray Kerr,San Diego Padres,1,1,0,1,0,3,0,0,0,1.000,1.000,3.000,4.000
+85,Nico Hoerner,Chicago Cubs,Nick Martinez,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+86,Nico Hoerner,Chicago Cubs,Michael Wacha,San Diego Padres,5,2,0,0,0,1,1,0,0,.400,.500,.400,.900
+87,Nico Hoerner,Chicago Cubs,Seth Lugo,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+88,Nico Hoerner,Chicago Cubs,Ryan Weathers,San Diego Padres,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+89,Nico Hoerner,Chicago Cubs,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Nico Hoerner,Chicago Cubs,Yu Darvish,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Nico Hoerner,Chicago Cubs,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Nico Hoerner,Chicago Cubs,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Nico Hoerner,Chicago Cubs,Brent Honeywell,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+94,Nico Hoerner,Chicago Cubs,Blake Snell,San Diego Padres,5,0,0,0,0,0,1,0,0,.000,.167,.000,.167
+95,Nico Hoerner,Chicago Cubs,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Nico Hoerner,Chicago Cubs,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Nico Hoerner,Chicago Cubs,Matt Barnes,Miami Marlins,4,3,1,0,0,1,0,0,0,.750,.750,1.000,1.750
+98,Nico Hoerner,Chicago Cubs,Dylan Floro,Miami Marlins,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+99,Nico Hoerner,Chicago Cubs,Edward Cabrera,Miami Marlins,5,2,0,0,0,0,1,0,3,.400,.500,.400,.900
+100,Nico Hoerner,Chicago Cubs,Jesus Luzardo,Miami Marlins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+101,Nico Hoerner,Chicago Cubs,Bryan Hoeing,Miami Marlins,5,1,0,0,0,0,0,0,2,.200,.200,.200,.400
+102,Nico Hoerner,Chicago Cubs,Sandy Alcantara,Miami Marlins,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Nico Hoerner,Chicago Cubs,Huascar Brazoban,Miami Marlins,0,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+104,Nico Hoerner,Chicago Cubs,Chi Chi Gonzalez,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Nico Hoerner,Chicago Cubs,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Nico Hoerner,Chicago Cubs,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Nico Hoerner,Chicago Cubs,Paolo Espino,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+108,Nico Hoerner,Chicago Cubs,Joe La Sorsa,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+109,Nico Hoerner,Chicago Cubs,Amos Willingham,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+110,Nico Hoerner,Chicago Cubs,Cory Abbott,Washington Nationals,2,1,0,0,1,4,0,0,0,.500,.500,2.000,2.500
+111,Nico Hoerner,Chicago Cubs,Hunter Harvey,Washington Nationals,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+112,Nico Hoerner,Chicago Cubs,MacKenzie Gore,Washington Nationals,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+113,Nico Hoerner,Chicago Cubs,Trevor Williams,Washington Nationals,6,1,0,0,0,0,0,0,0,.167,.167,.167,.334
+114,Nico Hoerner,Chicago Cubs,Patrick Corbin,Washington Nationals,6,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Nico Hoerner,Chicago Cubs,Kyle Finnegan,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Nico Hoerner,Chicago Cubs,Jake Irvin,Washington Nationals,1,0,0,0,0,0,1,0,0,.000,.667,.000,.667
+117,Nico Hoerner,Chicago Cubs,Mason Thompson,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Nico Hoerner,Chicago Cubs,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Nico Hoerner,Chicago Cubs,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Nico Hoerner,Chicago Cubs,Brandon Crawford,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+121,Nico Hoerner,Chicago Cubs,Ryan Walker,San Francisco Giants,3,2,0,0,0,3,0,0,0,.667,.667,.667,1.334
+122,Nico Hoerner,Chicago Cubs,Tristan Beck,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+123,Nico Hoerner,Chicago Cubs,John Brebbia,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+124,Nico Hoerner,Chicago Cubs,Jakob Junis,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+125,Nico Hoerner,Chicago Cubs,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Nico Hoerner,Chicago Cubs,Drew Smith,New York Mets,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+127,Nico Hoerner,Chicago Cubs,Carlos Carrasco,New York Mets,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+128,Nico Hoerner,Chicago Cubs,Tylor Megill,New York Mets,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+129,Nico Hoerner,Chicago Cubs,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Nico Hoerner,Chicago Cubs,Stephen Nogosek,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Nico Hoerner,Chicago Cubs,Adam Ottavino,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+132,Nico Hoerner,Chicago Cubs,Kodai Senga,New York Mets,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+133,Nico Hoerner,Chicago Cubs,Carlos Rodon,New York Yankees,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+134,Nico Hoerner,Chicago Cubs,Gerrit Cole,New York Yankees,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+135,Nico Hoerner,Chicago Cubs,Domingo German,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Nico Hoerner,Chicago Cubs,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Nico Hoerner,Chicago Cubs,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+138,Nico Hoerner,Chicago Cubs,Clarke Schmidt,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Nico Hoerner,Chicago Cubs,Matt Brash,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+140,Nico Hoerner,Chicago Cubs,Diego Castillo,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+141,Nico Hoerner,Chicago Cubs,Jose Rodriguez,Seattle Mariners,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+142,Nico Hoerner,Chicago Cubs,Luis Castillo,Seattle Mariners,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+143,Nico Hoerner,Chicago Cubs,Logan Gilbert,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+144,Nico Hoerner,Chicago Cubs,Chris Flexen,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Nico Hoerner,Chicago Cubs,Trevor Gott,Seattle Mariners,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+146,Nico Hoerner,Chicago Cubs,Justin Topa,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+147,Nico Hoerner,Chicago Cubs,Xzavion Curry,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+148,Nico Hoerner,Chicago Cubs,Cal Quantrill,Cleveland Guardians,2,2,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+149,Nico Hoerner,Chicago Cubs,Tanner Bibee,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Nico Hoerner,Chicago Cubs,Aaron Civale,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+151,Nico Hoerner,Chicago Cubs,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Nico Hoerner,Chicago Cubs,David Fry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Nico Hoerner,Chicago Cubs,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+154,Nico Hoerner,Chicago Cubs,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Nico Hoerner,Chicago Cubs,Colin Holderman,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+156,Nico Hoerner,Chicago Cubs,Dauri Moreta,Pittsburgh Pirates,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+157,Nico Hoerner,Chicago Cubs,Roansy Contreras,Pittsburgh Pirates,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+158,Nico Hoerner,Chicago Cubs,Johan Oviedo,Pittsburgh Pirates,5,2,0,0,0,0,1,0,0,.400,.500,.400,.900
+159,Nico Hoerner,Chicago Cubs,Rich Hill,Pittsburgh Pirates,3,1,0,1,0,2,0,0,2,.333,.333,1.000,1.333
+160,Nico Hoerner,Chicago Cubs,Luis L. Ortiz,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+161,Nico Hoerner,Chicago Cubs,Osvaldo Bido,Pittsburgh Pirates,5,1,0,0,0,1,0,0,2,.200,.200,.200,.400
+162,Nico Hoerner,Chicago Cubs,Ryan Borucki,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Nico Hoerner,Chicago Cubs,Yerry De Los Santos,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Nico Hoerner,Chicago Cubs,Yohan Ramirez,Pittsburgh Pirates,2,0,0,0,0,1,1,0,0,.000,.333,.000,.333
+165,Nico Hoerner,Chicago Cubs,Rob Zastryzny,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Nico Hoerner,Chicago Cubs,Clayton Andrews,Milwaukee Brewers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+167,Nico Hoerner,Chicago Cubs,Gus Varland,Milwaukee Brewers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+168,Nico Hoerner,Chicago Cubs,Devin Williams,Milwaukee Brewers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+169,Nico Hoerner,Chicago Cubs,Corbin Burnes,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+170,Nico Hoerner,Chicago Cubs,Eric Lauer,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+171,Nico Hoerner,Chicago Cubs,Wade Miley,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+172,Nico Hoerner,Chicago Cubs,Matt Bush,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Nico Hoerner,Chicago Cubs,Adrian Houser,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+174,Nico Hoerner,Chicago Cubs,J.C. Mejia,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Nico Hoerner,Chicago Cubs,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+176,Nico Hoerner,Chicago Cubs,Joel Payamps,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+177,Nico Hoerner,Chicago Cubs,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+178,Nico Hoerner,Chicago Cubs,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+179,Nico Hoerner,Chicago Cubs,Julio Teheran,Milwaukee Brewers,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+180,Nico Hoerner,Chicago Cubs,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Nico Hoerner,Chicago Cubs,Brandon Woodruff,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+182,Nico Hoerner,Chicago Cubs,Adrian Martinez,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+183,Nico Hoerner,Chicago Cubs,Adam Oller,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+184,Nico Hoerner,Chicago Cubs,Jeurys Familia,Oakland Athletics,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+185,Nico Hoerner,Chicago Cubs,Mason Miller,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+186,Nico Hoerner,Chicago Cubs,Kyle Muller,Oakland Athletics,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+187,Nico Hoerner,Chicago Cubs,Ken Waldichuk,Oakland Athletics,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+188,Nico Hoerner,Chicago Cubs,James Kaprielian,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+189,Nico Hoerner,Chicago Cubs,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+190,Nico Hoerner,Chicago Cubs,Chad Smith,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

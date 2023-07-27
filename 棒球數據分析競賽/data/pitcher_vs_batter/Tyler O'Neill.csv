@@ -1,0 +1,70 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Tyler O'Neill,St. Louis Cardinals,Joe Jimenez,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Tyler O'Neill,St. Louis Cardinals,Collin McHugh,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Tyler O'Neill,St. Louis Cardinals,Charlie Morton,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+3,Tyler O'Neill,St. Louis Cardinals,Dylan Dodd,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Tyler O'Neill,St. Louis Cardinals,Dylan Lee,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Tyler O'Neill,St. Louis Cardinals,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Tyler O'Neill,St. Louis Cardinals,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Tyler O'Neill,St. Louis Cardinals,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+8,Tyler O'Neill,St. Louis Cardinals,Evan Phillips,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+9,Tyler O'Neill,St. Louis Cardinals,Patrick Sandoval,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+10,Tyler O'Neill,St. Louis Cardinals,Griffin Canning,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Tyler O'Neill,St. Louis Cardinals,Chris Devenski,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Tyler O'Neill,St. Louis Cardinals,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Tyler O'Neill,St. Louis Cardinals,Ryan Tepera,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Tyler O'Neill,St. Louis Cardinals,Kevin Ginkel,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+15,Tyler O'Neill,St. Louis Cardinals,Drey Jameson,Arizona Diamondbacks,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+16,Tyler O'Neill,St. Louis Cardinals,Madison Bumgarner,Arizona Diamondbacks,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+17,Tyler O'Neill,St. Louis Cardinals,Merrill Kelly,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+18,Tyler O'Neill,St. Louis Cardinals,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+19,Tyler O'Neill,St. Louis Cardinals,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Tyler O'Neill,St. Louis Cardinals,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Tyler O'Neill,St. Louis Cardinals,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Tyler O'Neill,St. Louis Cardinals,Peter Solomon,Arizona Diamondbacks,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+23,Tyler O'Neill,St. Louis Cardinals,Alek Manoah,Toronto Blue Jays,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+24,Tyler O'Neill,St. Louis Cardinals,Kevin Gausman,Toronto Blue Jays,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+25,Tyler O'Neill,St. Louis Cardinals,Anthony Bass,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+26,Tyler O'Neill,St. Louis Cardinals,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Tyler O'Neill,St. Louis Cardinals,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Tyler O'Neill,St. Louis Cardinals,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Tyler O'Neill,St. Louis Cardinals,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Tyler O'Neill,St. Louis Cardinals,Michael Fulmer,Chicago Cubs,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+31,Tyler O'Neill,St. Louis Cardinals,Marcus Stroman,Chicago Cubs,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+32,Tyler O'Neill,St. Louis Cardinals,Justin Steele,Chicago Cubs,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+33,Tyler O'Neill,St. Louis Cardinals,Adbert Alzolay,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Tyler O'Neill,St. Louis Cardinals,Javier Assad,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Tyler O'Neill,St. Louis Cardinals,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Tyler O'Neill,St. Louis Cardinals,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Tyler O'Neill,St. Louis Cardinals,Drew Smyly,Chicago Cubs,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+38,Tyler O'Neill,St. Louis Cardinals,Scott Alexander,San Francisco Giants,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+39,Tyler O'Neill,St. Louis Cardinals,Logan Webb,San Francisco Giants,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+40,Tyler O'Neill,St. Louis Cardinals,Alex Cobb,San Francisco Giants,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+41,Tyler O'Neill,St. Louis Cardinals,Tristan Beck,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+42,Tyler O'Neill,St. Louis Cardinals,Anthony DeSclafani,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Tyler O'Neill,St. Louis Cardinals,Sean Hjelle,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+44,Tyler O'Neill,St. Louis Cardinals,Pierce Johnson,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+45,Tyler O'Neill,St. Louis Cardinals,Brent Suter,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+46,Tyler O'Neill,St. Louis Cardinals,Jose Urena,Colorado Rockies,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+47,Tyler O'Neill,St. Louis Cardinals,Kyle Freeland,Colorado Rockies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Tyler O'Neill,St. Louis Cardinals,Dinelson Lamet,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Tyler O'Neill,St. Louis Cardinals,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Tyler O'Neill,St. Louis Cardinals,Chris Flexen,Seattle Mariners,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+51,Tyler O'Neill,St. Louis Cardinals,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Tyler O'Neill,St. Louis Cardinals,Diego Castillo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Tyler O'Neill,St. Louis Cardinals,Penn Murfee,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Tyler O'Neill,St. Louis Cardinals,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Tyler O'Neill,St. Louis Cardinals,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Tyler O'Neill,St. Louis Cardinals,Dauri Moreta,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+57,Tyler O'Neill,St. Louis Cardinals,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+58,Tyler O'Neill,St. Louis Cardinals,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Tyler O'Neill,St. Louis Cardinals,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Tyler O'Neill,St. Louis Cardinals,Vince Velasquez,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Tyler O'Neill,St. Louis Cardinals,Matt Bush,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+62,Tyler O'Neill,St. Louis Cardinals,Joel Payamps,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+63,Tyler O'Neill,St. Louis Cardinals,Freddy Peralta,Milwaukee Brewers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+64,Tyler O'Neill,St. Louis Cardinals,Javy Guerra,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Tyler O'Neill,St. Louis Cardinals,Eric Lauer,Milwaukee Brewers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+66,Tyler O'Neill,St. Louis Cardinals,Gus Varland,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Tyler O'Neill,St. Louis Cardinals,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Tyler O'Neill,St. Louis Cardinals,Brandon Woodruff,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

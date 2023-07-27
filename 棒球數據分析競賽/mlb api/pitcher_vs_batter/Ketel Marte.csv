@@ -1,0 +1,187 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Ketel Marte,Arizona Diamondbacks,Raisel Iglesias,Atlanta Braves,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+1,Ketel Marte,Arizona Diamondbacks,Bryce Elder,Atlanta Braves,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+2,Ketel Marte,Arizona Diamondbacks,Michael Tonkin,Atlanta Braves,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+3,Ketel Marte,Arizona Diamondbacks,Michael Soroka,Atlanta Braves,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+4,Ketel Marte,Arizona Diamondbacks,Spencer Strider,Atlanta Braves,5,1,0,1,0,0,1,0,3,.200,.333,.600,.933
+5,Ketel Marte,Arizona Diamondbacks,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Ketel Marte,Arizona Diamondbacks,Lucas Luetge,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Ketel Marte,Arizona Diamondbacks,Collin McHugh,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Ketel Marte,Arizona Diamondbacks,Charlie Morton,Atlanta Braves,6,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+9,Ketel Marte,Arizona Diamondbacks,AJ Smith-Shawver,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Ketel Marte,Arizona Diamondbacks,Kirby Yates,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Ketel Marte,Arizona Diamondbacks,Jon Gray,Texas Rangers,2,2,0,0,1,2,0,0,0,1.000,.667,2.500,3.167
+12,Ketel Marte,Arizona Diamondbacks,Andrew Heaney,Texas Rangers,2,1,0,0,1,2,1,0,0,.500,.667,2.000,2.667
+13,Ketel Marte,Arizona Diamondbacks,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Ketel Marte,Arizona Diamondbacks,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Ketel Marte,Arizona Diamondbacks,Josh Sborz,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+16,Ketel Marte,Arizona Diamondbacks,Will Smith,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+17,Ketel Marte,Arizona Diamondbacks,Phil Bickford,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+18,Ketel Marte,Arizona Diamondbacks,Andre Jackson,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+19,Ketel Marte,Arizona Diamondbacks,Julio Urias,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.667,.500,1.167
+20,Ketel Marte,Arizona Diamondbacks,Brusdar Graterol,Los Angeles Dodgers,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+21,Ketel Marte,Arizona Diamondbacks,Noah Syndergaard,Los Angeles Dodgers,6,2,1,0,1,2,0,0,1,.333,.333,1.000,1.333
+22,Ketel Marte,Arizona Diamondbacks,Clayton Kershaw,Los Angeles Dodgers,6,1,1,0,0,0,0,0,1,.167,.167,.333,.500
+23,Ketel Marte,Arizona Diamondbacks,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Ketel Marte,Arizona Diamondbacks,Dustin May,Los Angeles Dodgers,6,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+25,Ketel Marte,Arizona Diamondbacks,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Ketel Marte,Arizona Diamondbacks,Aaron Loup,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+27,Ketel Marte,Arizona Diamondbacks,Tyler Anderson,Los Angeles Angels,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+28,Ketel Marte,Arizona Diamondbacks,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Ketel Marte,Arizona Diamondbacks,Griffin Canning,Los Angeles Angels,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+30,Ketel Marte,Arizona Diamondbacks,Reid Detmers,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+31,Ketel Marte,Arizona Diamondbacks,Victor Mederos,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Ketel Marte,Arizona Diamondbacks,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Ketel Marte,Arizona Diamondbacks,Taj Bradley,Tampa Bay Rays,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+34,Ketel Marte,Arizona Diamondbacks,Zach Eflin,Tampa Bay Rays,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+35,Ketel Marte,Arizona Diamondbacks,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Ketel Marte,Arizona Diamondbacks,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+37,Ketel Marte,Arizona Diamondbacks,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Ketel Marte,Arizona Diamondbacks,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Ketel Marte,Arizona Diamondbacks,Joely Rodriguez,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+40,Ketel Marte,Arizona Diamondbacks,Josh Winckowski,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+41,Ketel Marte,Arizona Diamondbacks,Tanner Houck,Boston Red Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+42,Ketel Marte,Arizona Diamondbacks,Garrett Whitlock,Boston Red Sox,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+43,Ketel Marte,Arizona Diamondbacks,Kutter Crawford,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Ketel Marte,Arizona Diamondbacks,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Ketel Marte,Arizona Diamondbacks,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Ketel Marte,Arizona Diamondbacks,Chris Sale,Boston Red Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Ketel Marte,Arizona Diamondbacks,Jack Flaherty,St. Louis Cardinals,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+48,Ketel Marte,Arizona Diamondbacks,Jordan Montgomery,St. Louis Cardinals,3,2,0,1,0,0,0,0,0,.667,.667,1.333,2.000
+49,Ketel Marte,Arizona Diamondbacks,Jake Woodford,St. Louis Cardinals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+50,Ketel Marte,Arizona Diamondbacks,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Ketel Marte,Arizona Diamondbacks,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Ketel Marte,Arizona Diamondbacks,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Ketel Marte,Arizona Diamondbacks,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Ketel Marte,Arizona Diamondbacks,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Ketel Marte,Arizona Diamondbacks,Fernando Cruz,Cincinnati Reds,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+56,Ketel Marte,Arizona Diamondbacks,Ben Lively,Cincinnati Reds,3,2,0,1,1,2,0,0,1,.667,.667,2.333,3.000
+57,Ketel Marte,Arizona Diamondbacks,Brandon Williamson,Cincinnati Reds,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+58,Ketel Marte,Arizona Diamondbacks,Alexis Diaz,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Ketel Marte,Arizona Diamondbacks,Erik Swanson,Toronto Blue Jays,2,1,1,0,0,3,0,0,0,.500,.500,1.000,1.500
+60,Ketel Marte,Arizona Diamondbacks,Jose Berrios,Toronto Blue Jays,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+61,Ketel Marte,Arizona Diamondbacks,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Ketel Marte,Arizona Diamondbacks,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+63,Ketel Marte,Arizona Diamondbacks,Nate Pearson,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+64,Ketel Marte,Arizona Diamondbacks,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Ketel Marte,Arizona Diamondbacks,Gregory Soto,Philadelphia Phillies,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+66,Ketel Marte,Arizona Diamondbacks,Dylan Covey,Philadelphia Phillies,4,2,0,1,0,1,0,0,0,.500,.500,1.000,1.500
+67,Ketel Marte,Arizona Diamondbacks,Zack Wheeler,Philadelphia Phillies,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+68,Ketel Marte,Arizona Diamondbacks,Yunior Marte,Philadelphia Phillies,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+69,Ketel Marte,Arizona Diamondbacks,Aaron Nola,Philadelphia Phillies,3,1,0,0,1,3,0,0,1,.333,.333,1.333,1.666
+70,Ketel Marte,Arizona Diamondbacks,Matt Strahm,Philadelphia Phillies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+71,Ketel Marte,Arizona Diamondbacks,Ranger Suarez,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+72,Ketel Marte,Arizona Diamondbacks,Andrew Vasquez,Philadelphia Phillies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+73,Ketel Marte,Arizona Diamondbacks,Andrew Bellatti,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Ketel Marte,Arizona Diamondbacks,Luis Garcia,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+75,Ketel Marte,Arizona Diamondbacks,Reiss Knehr,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+76,Ketel Marte,Arizona Diamondbacks,Brent Honeywell,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+77,Ketel Marte,Arizona Diamondbacks,Seth Lugo,San Diego Padres,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+78,Ketel Marte,Arizona Diamondbacks,Joe Musgrove,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+79,Ketel Marte,Arizona Diamondbacks,Ryan Weathers,San Diego Padres,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+80,Ketel Marte,Arizona Diamondbacks,Yu Darvish,San Diego Padres,6,1,0,1,0,0,0,0,3,.167,.167,.500,.667
+81,Ketel Marte,Arizona Diamondbacks,Nabil Crismatt,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Ketel Marte,Arizona Diamondbacks,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Ketel Marte,Arizona Diamondbacks,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Ketel Marte,Arizona Diamondbacks,Huascar Brazoban,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+85,Ketel Marte,Arizona Diamondbacks,Andrew Nardi,Miami Marlins,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+86,Ketel Marte,Arizona Diamondbacks,Jesus Luzardo,Miami Marlins,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+87,Ketel Marte,Arizona Diamondbacks,Braxton Garrett,Miami Marlins,5,1,0,0,0,0,0,0,0,.200,.333,.200,.533
+88,Ketel Marte,Arizona Diamondbacks,Edward Cabrera,Miami Marlins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+89,Ketel Marte,Arizona Diamondbacks,Dylan Floro,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Ketel Marte,Arizona Diamondbacks,Chi Chi Gonzalez,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Ketel Marte,Arizona Diamondbacks,Steven Okert,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+92,Ketel Marte,Arizona Diamondbacks,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Ketel Marte,Arizona Diamondbacks,Trevor Rogers,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Ketel Marte,Arizona Diamondbacks,Carl Edwards Jr.,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+95,Ketel Marte,Arizona Diamondbacks,Jordan Weems,Washington Nationals,2,2,0,0,1,3,0,0,0,1.000,1.000,2.500,3.500
+96,Ketel Marte,Arizona Diamondbacks,Patrick Corbin,Washington Nationals,3,2,1,0,0,0,1,0,0,.667,.750,1.000,1.750
+97,Ketel Marte,Arizona Diamondbacks,Trevor Williams,Washington Nationals,3,2,0,1,0,1,0,0,1,.667,.667,1.333,2.000
+98,Ketel Marte,Arizona Diamondbacks,Jake Irvin,Washington Nationals,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+99,Ketel Marte,Arizona Diamondbacks,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Ketel Marte,Arizona Diamondbacks,MacKenzie Gore,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Ketel Marte,Arizona Diamondbacks,Josiah Gray,Washington Nationals,1,0,0,0,0,1,1,0,0,.000,.333,.000,.333
+102,Ketel Marte,Arizona Diamondbacks,Hobie Harris,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+103,Ketel Marte,Arizona Diamondbacks,Chad Kuhl,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Ketel Marte,Arizona Diamondbacks,Erasmo Ramirez,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Ketel Marte,Arizona Diamondbacks,Thaddeus Ward,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Ketel Marte,Arizona Diamondbacks,Scott Alexander,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+107,Ketel Marte,Arizona Diamondbacks,Tristan Beck,San Francisco Giants,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+108,Ketel Marte,Arizona Diamondbacks,Ryan Walker,San Francisco Giants,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+109,Ketel Marte,Arizona Diamondbacks,Keaton Winn,San Francisco Giants,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+110,Ketel Marte,Arizona Diamondbacks,Alex Cobb,San Francisco Giants,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+111,Ketel Marte,Arizona Diamondbacks,Anthony DeSclafani,San Francisco Giants,6,2,0,0,0,0,0,0,0,.333,.333,.333,.666
+112,Ketel Marte,Arizona Diamondbacks,Logan Webb,San Francisco Giants,5,1,0,0,0,1,0,0,2,.200,.333,.200,.533
+113,Ketel Marte,Arizona Diamondbacks,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Ketel Marte,Arizona Diamondbacks,Camilo Doval,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+115,Ketel Marte,Arizona Diamondbacks,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Ketel Marte,Arizona Diamondbacks,Tyler Rogers,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Ketel Marte,Arizona Diamondbacks,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Ketel Marte,Arizona Diamondbacks,Ross Stripling,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+119,Ketel Marte,Arizona Diamondbacks,Carlos Carrasco,New York Mets,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+120,Ketel Marte,Arizona Diamondbacks,Kodai Senga,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Ketel Marte,Arizona Diamondbacks,Brad Hand,Colorado Rockies,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+122,Ketel Marte,Arizona Diamondbacks,Pierce Johnson,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+123,Ketel Marte,Arizona Diamondbacks,Dinelson Lamet,Colorado Rockies,2,1,0,0,0,1,0,0,0,.500,.333,.500,.833
+124,Ketel Marte,Arizona Diamondbacks,Kyle Freeland,Colorado Rockies,6,2,0,0,2,2,0,0,1,.333,.333,1.333,1.666
+125,Ketel Marte,Arizona Diamondbacks,Daniel Bard,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Ketel Marte,Arizona Diamondbacks,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+127,Ketel Marte,Arizona Diamondbacks,Peter Lambert,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+128,Ketel Marte,Arizona Diamondbacks,Connor Seabold,Colorado Rockies,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+129,Ketel Marte,Arizona Diamondbacks,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Ketel Marte,Arizona Diamondbacks,Enyel De Los Santos,Cleveland Guardians,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+131,Ketel Marte,Arizona Diamondbacks,Shane Bieber,Cleveland Guardians,2,1,0,0,0,0,2,0,0,.500,.750,.500,1.250
+132,Ketel Marte,Arizona Diamondbacks,Xzavion Curry,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+133,Ketel Marte,Arizona Diamondbacks,Touki Toussaint,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+134,Ketel Marte,Arizona Diamondbacks,Angel Perdomo,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+135,Ketel Marte,Arizona Diamondbacks,Robert Stephenson,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+136,Ketel Marte,Arizona Diamondbacks,Rich Hill,Pittsburgh Pirates,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+137,Ketel Marte,Arizona Diamondbacks,Mitch Keller,Pittsburgh Pirates,6,3,0,0,1,1,0,0,1,.500,.500,1.000,1.500
+138,Ketel Marte,Arizona Diamondbacks,David Bednar,Pittsburgh Pirates,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+139,Ketel Marte,Arizona Diamondbacks,Ryan Borucki,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Ketel Marte,Arizona Diamondbacks,Roansy Contreras,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Ketel Marte,Arizona Diamondbacks,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+142,Ketel Marte,Arizona Diamondbacks,Colin Holderman,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Ketel Marte,Arizona Diamondbacks,Carmen Mlodzinski,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Ketel Marte,Arizona Diamondbacks,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+145,Ketel Marte,Arizona Diamondbacks,Johan Oviedo,Pittsburgh Pirates,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+146,Ketel Marte,Arizona Diamondbacks,Yohan Ramirez,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Ketel Marte,Arizona Diamondbacks,Wade Miley,Milwaukee Brewers,2,2,1,0,0,0,1,0,0,1.000,1.000,1.500,2.500
+148,Ketel Marte,Arizona Diamondbacks,Colin Rea,Milwaukee Brewers,3,3,1,0,1,3,0,0,0,1.000,1.000,2.333,3.333
+149,Ketel Marte,Arizona Diamondbacks,Corbin Burnes,Milwaukee Brewers,6,1,0,0,0,1,0,0,0,.167,.167,.167,.334
+150,Ketel Marte,Arizona Diamondbacks,Javy Guerra,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Ketel Marte,Arizona Diamondbacks,Adrian Houser,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Ketel Marte,Arizona Diamondbacks,Janson Junk,Milwaukee Brewers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+153,Ketel Marte,Arizona Diamondbacks,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+154,Ketel Marte,Arizona Diamondbacks,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Ketel Marte,Arizona Diamondbacks,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Ketel Marte,Arizona Diamondbacks,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Ketel Marte,Arizona Diamondbacks,Julio Teheran,Milwaukee Brewers,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+158,Ketel Marte,Arizona Diamondbacks,Gus Varland,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Ketel Marte,Arizona Diamondbacks,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Ketel Marte,Arizona Diamondbacks,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+161,Ketel Marte,Arizona Diamondbacks,Matthew Boyd,Detroit Tigers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+162,Ketel Marte,Arizona Diamondbacks,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Ketel Marte,Arizona Diamondbacks,Jason Foley,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+164,Ketel Marte,Arizona Diamondbacks,Garrett Hill,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+165,Ketel Marte,Arizona Diamondbacks,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Ketel Marte,Arizona Diamondbacks,Michael Lorenzen,Detroit Tigers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+167,Ketel Marte,Arizona Diamondbacks,Will Vest,Detroit Tigers,1,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+168,Ketel Marte,Arizona Diamondbacks,Joey Wentz,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+169,Ketel Marte,Arizona Diamondbacks,Jose Cuas,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+170,Ketel Marte,Arizona Diamondbacks,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Ketel Marte,Arizona Diamondbacks,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+172,Ketel Marte,Arizona Diamondbacks,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,Ketel Marte,Arizona Diamondbacks,Carlos Hernandez,Kansas City Royals,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Ketel Marte,Arizona Diamondbacks,Brad Keller,Kansas City Royals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+175,Ketel Marte,Arizona Diamondbacks,Brady Singer,Kansas City Royals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+176,Ketel Marte,Arizona Diamondbacks,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+177,Ketel Marte,Arizona Diamondbacks,Ryan Yarbrough,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+178,Ketel Marte,Arizona Diamondbacks,Garrett Acton,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+179,Ketel Marte,Arizona Diamondbacks,Sam Moll,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+180,Ketel Marte,Arizona Diamondbacks,Kyle Muller,Oakland Athletics,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+181,Ketel Marte,Arizona Diamondbacks,Adrian Martinez,Oakland Athletics,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+182,Ketel Marte,Arizona Diamondbacks,Drew Rucinski,Oakland Athletics,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+183,Ketel Marte,Arizona Diamondbacks,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+184,Ketel Marte,Arizona Diamondbacks,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+185,Ketel Marte,Arizona Diamondbacks,Austin Pruitt,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

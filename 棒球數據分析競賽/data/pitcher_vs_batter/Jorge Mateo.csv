@@ -1,0 +1,149 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jorge Mateo,Baltimore Orioles,Spencer Strider,Atlanta Braves,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+1,Jorge Mateo,Baltimore Orioles,Nick Anderson,Atlanta Braves,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Jorge Mateo,Baltimore Orioles,Max Fried,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Jorge Mateo,Baltimore Orioles,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Jorge Mateo,Baltimore Orioles,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Jorge Mateo,Baltimore Orioles,Dylan Lee,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Jorge Mateo,Baltimore Orioles,Andrew Heaney,Texas Rangers,4,3,0,0,1,2,0,0,0,.750,.750,1.500,2.250
+7,Jorge Mateo,Baltimore Orioles,Cody Bradford,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+8,Jorge Mateo,Baltimore Orioles,Jon Gray,Texas Rangers,4,1,0,0,1,1,0,0,2,.250,.250,1.000,1.250
+9,Jorge Mateo,Baltimore Orioles,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Jorge Mateo,Baltimore Orioles,Dane Dunning,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Jorge Mateo,Baltimore Orioles,Taylor Hearn,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Jorge Mateo,Baltimore Orioles,Jonathan Hernandez,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+13,Jorge Mateo,Baltimore Orioles,John King,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Jorge Mateo,Baltimore Orioles,Cole Ragans,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Jorge Mateo,Baltimore Orioles,Jacob deGrom,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Jorge Mateo,Baltimore Orioles,Julio Urias,Los Angeles Dodgers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+17,Jorge Mateo,Baltimore Orioles,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Jorge Mateo,Baltimore Orioles,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Jorge Mateo,Baltimore Orioles,Chase Silseth,Los Angeles Angels,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+20,Jorge Mateo,Baltimore Orioles,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Jorge Mateo,Baltimore Orioles,Jimmy Herget,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Jorge Mateo,Baltimore Orioles,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Jorge Mateo,Baltimore Orioles,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+24,Jorge Mateo,Baltimore Orioles,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+25,Jorge Mateo,Baltimore Orioles,Shane McClanahan,Tampa Bay Rays,5,2,1,0,0,2,0,0,2,.400,.400,.600,1.000
+26,Jorge Mateo,Baltimore Orioles,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Jorge Mateo,Baltimore Orioles,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Jorge Mateo,Baltimore Orioles,Yonny Chirinos,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Jorge Mateo,Baltimore Orioles,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+30,Jorge Mateo,Baltimore Orioles,Tyler Glasnow,Tampa Bay Rays,5,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+31,Jorge Mateo,Baltimore Orioles,Javy Guerra,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Jorge Mateo,Baltimore Orioles,Kevin Kelly,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Jorge Mateo,Baltimore Orioles,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Jorge Mateo,Baltimore Orioles,Ryan Brasier,Boston Red Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+35,Jorge Mateo,Baltimore Orioles,Corey Kluber,Boston Red Sox,4,2,0,0,1,1,0,0,1,.500,.500,1.250,1.750
+36,Jorge Mateo,Baltimore Orioles,Chris Sale,Boston Red Sox,3,1,1,0,0,1,1,0,0,.333,.500,.667,1.167
+37,Jorge Mateo,Baltimore Orioles,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Jorge Mateo,Baltimore Orioles,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Jorge Mateo,Baltimore Orioles,Chris Martin,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+40,Jorge Mateo,Baltimore Orioles,Kaleb Ort,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Jorge Mateo,Baltimore Orioles,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Jorge Mateo,Baltimore Orioles,Josh Winckowski,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Jorge Mateo,Baltimore Orioles,Andrew Abbott,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Jorge Mateo,Baltimore Orioles,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Jorge Mateo,Baltimore Orioles,Eduardo Salazar,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Jorge Mateo,Baltimore Orioles,Brandon Williamson,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+47,Jorge Mateo,Baltimore Orioles,Jake Wong,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+48,Jorge Mateo,Baltimore Orioles,Chris Bassitt,Toronto Blue Jays,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+49,Jorge Mateo,Baltimore Orioles,Erik Swanson,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+50,Jorge Mateo,Baltimore Orioles,Yusei Kikuchi,Toronto Blue Jays,4,2,0,0,0,0,0,0,1,.500,.500,.500,1.000
+51,Jorge Mateo,Baltimore Orioles,Bowden Francis,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Jorge Mateo,Baltimore Orioles,Yimi Garcia,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Jorge Mateo,Baltimore Orioles,Alek Manoah,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+54,Jorge Mateo,Baltimore Orioles,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Jorge Mateo,Baltimore Orioles,Trevor Richards,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Jorge Mateo,Baltimore Orioles,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Jorge Mateo,Baltimore Orioles,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Jorge Mateo,Baltimore Orioles,Kyle Hendricks,Chicago Cubs,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+59,Jorge Mateo,Baltimore Orioles,Anthony Kay,Chicago Cubs,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+60,Jorge Mateo,Baltimore Orioles,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Jorge Mateo,Baltimore Orioles,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Jorge Mateo,Baltimore Orioles,Justin Steele,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Jorge Mateo,Baltimore Orioles,Jameson Taillon,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Jorge Mateo,Baltimore Orioles,Hayden Wesneski,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Jorge Mateo,Baltimore Orioles,Sonny Gray,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+66,Jorge Mateo,Baltimore Orioles,Griffin Jax,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Jorge Mateo,Baltimore Orioles,Bailey Ober,Minnesota Twins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+68,Jorge Mateo,Baltimore Orioles,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Jorge Mateo,Baltimore Orioles,Braxton Garrett,Miami Marlins,2,1,0,1,0,2,0,0,1,.500,.500,1.500,2.000
+70,Jorge Mateo,Baltimore Orioles,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Jorge Mateo,Baltimore Orioles,Josiah Gray,Washington Nationals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+72,Jorge Mateo,Baltimore Orioles,MacKenzie Gore,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Jorge Mateo,Baltimore Orioles,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Jorge Mateo,Baltimore Orioles,Taylor Rogers,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+75,Jorge Mateo,Baltimore Orioles,Logan Webb,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+76,Jorge Mateo,Baltimore Orioles,Anthony DeSclafani,San Francisco Giants,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+77,Jorge Mateo,Baltimore Orioles,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Jorge Mateo,Baltimore Orioles,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Jorge Mateo,Baltimore Orioles,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Jorge Mateo,Baltimore Orioles,Wandy Peralta,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+81,Jorge Mateo,Baltimore Orioles,Ian Hamilton,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+82,Jorge Mateo,Baltimore Orioles,Jimmy Cordero,New York Yankees,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+83,Jorge Mateo,Baltimore Orioles,Clarke Schmidt,New York Yankees,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+84,Jorge Mateo,Baltimore Orioles,Albert Abreu,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Jorge Mateo,Baltimore Orioles,Gerrit Cole,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Jorge Mateo,Baltimore Orioles,Nestor Cortes,New York Yankees,3,0,0,0,0,0,1,0,2,.000,.250,.000,.250
+87,Jorge Mateo,Baltimore Orioles,Domingo German,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+88,Jorge Mateo,Baltimore Orioles,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Jorge Mateo,Baltimore Orioles,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Jorge Mateo,Baltimore Orioles,Ron Marinaccio,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+91,Jorge Mateo,Baltimore Orioles,George Kirby,Seattle Mariners,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+92,Jorge Mateo,Baltimore Orioles,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Jorge Mateo,Baltimore Orioles,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Jorge Mateo,Baltimore Orioles,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Jorge Mateo,Baltimore Orioles,Shane Bieber,Cleveland Guardians,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+96,Jorge Mateo,Baltimore Orioles,Cal Quantrill,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+97,Jorge Mateo,Baltimore Orioles,Logan Allen,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Jorge Mateo,Baltimore Orioles,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Jorge Mateo,Baltimore Orioles,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Jorge Mateo,Baltimore Orioles,Enyel De Los Santos,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Jorge Mateo,Baltimore Orioles,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Jorge Mateo,Baltimore Orioles,Roansy Contreras,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Jorge Mateo,Baltimore Orioles,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Jorge Mateo,Baltimore Orioles,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Jorge Mateo,Baltimore Orioles,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Jorge Mateo,Baltimore Orioles,Aaron Bummer,Chicago White Sox,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+107,Jorge Mateo,Baltimore Orioles,Dylan Cease,Chicago White Sox,1,1,0,0,0,1,1,0,0,1.000,.667,1.000,1.667
+108,Jorge Mateo,Baltimore Orioles,Michael Kopech,Chicago White Sox,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+109,Jorge Mateo,Baltimore Orioles,Jimmy Lambert,Chicago White Sox,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+110,Jorge Mateo,Baltimore Orioles,Keynan Middleton,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+111,Jorge Mateo,Baltimore Orioles,Jake Diekman,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+112,Jorge Mateo,Baltimore Orioles,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Jorge Mateo,Baltimore Orioles,Bennett Sousa,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+114,Jorge Mateo,Baltimore Orioles,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Jorge Mateo,Baltimore Orioles,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Jorge Mateo,Baltimore Orioles,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Jorge Mateo,Baltimore Orioles,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Jorge Mateo,Baltimore Orioles,Mason Englert,Detroit Tigers,1,1,0,0,1,3,1,0,0,1.000,1.000,4.000,5.000
+119,Jorge Mateo,Baltimore Orioles,Chasen Shreve,Detroit Tigers,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+120,Jorge Mateo,Baltimore Orioles,Joey Wentz,Detroit Tigers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+121,Jorge Mateo,Baltimore Orioles,Matthew Boyd,Detroit Tigers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+122,Jorge Mateo,Baltimore Orioles,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Jorge Mateo,Baltimore Orioles,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Jorge Mateo,Baltimore Orioles,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Jorge Mateo,Baltimore Orioles,Eduardo Rodriguez,Detroit Tigers,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+126,Jorge Mateo,Baltimore Orioles,Spencer Turnbull,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Jorge Mateo,Baltimore Orioles,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Jorge Mateo,Baltimore Orioles,Ryan Yarbrough,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+129,Jorge Mateo,Baltimore Orioles,Jordan Lyles,Kansas City Royals,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+130,Jorge Mateo,Baltimore Orioles,Daniel Lynch IV,Kansas City Royals,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+131,Jorge Mateo,Baltimore Orioles,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Jorge Mateo,Baltimore Orioles,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+133,Jorge Mateo,Baltimore Orioles,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Jorge Mateo,Baltimore Orioles,Austin Cox,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Jorge Mateo,Baltimore Orioles,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Jorge Mateo,Baltimore Orioles,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Jorge Mateo,Baltimore Orioles,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+138,Jorge Mateo,Baltimore Orioles,Brady Singer,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Jorge Mateo,Baltimore Orioles,Josh Taylor,Kansas City Royals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+140,Jorge Mateo,Baltimore Orioles,Ken Waldichuk,Oakland Athletics,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+141,Jorge Mateo,Baltimore Orioles,Kyle Muller,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+142,Jorge Mateo,Baltimore Orioles,Zach Jackson,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Jorge Mateo,Baltimore Orioles,Adrian Martinez,Oakland Athletics,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+144,Jorge Mateo,Baltimore Orioles,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+145,Jorge Mateo,Baltimore Orioles,Adam Oller,Oakland Athletics,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+146,Jorge Mateo,Baltimore Orioles,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+147,Jorge Mateo,Baltimore Orioles,Chad Smith,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

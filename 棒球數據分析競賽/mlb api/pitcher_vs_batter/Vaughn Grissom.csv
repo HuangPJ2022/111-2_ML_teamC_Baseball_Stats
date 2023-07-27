@@ -1,0 +1,39 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Vaughn Grissom,Atlanta Braves,Bryan Baker,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Vaughn Grissom,Atlanta Braves,Kyle Bradish,Baltimore Orioles,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+2,Vaughn Grissom,Atlanta Braves,Framber Valdez,Houston Astros,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+3,Vaughn Grissom,Atlanta Braves,Hunter Brown,Houston Astros,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+4,Vaughn Grissom,Atlanta Braves,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Vaughn Grissom,Atlanta Braves,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Vaughn Grissom,Atlanta Braves,Phil Maton,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Vaughn Grissom,Atlanta Braves,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Vaughn Grissom,Atlanta Braves,Blake Snell,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+9,Vaughn Grissom,Atlanta Braves,Ryan Weathers,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+10,Vaughn Grissom,Atlanta Braves,Nabil Crismatt,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+11,Vaughn Grissom,Atlanta Braves,Reiss Knehr,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+12,Vaughn Grissom,Atlanta Braves,Nick Martinez,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Vaughn Grissom,Atlanta Braves,Dylan Floro,Miami Marlins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+14,Vaughn Grissom,Atlanta Braves,Matt Barnes,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+15,Vaughn Grissom,Atlanta Braves,Huascar Brazoban,Miami Marlins,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+16,Vaughn Grissom,Atlanta Braves,Bryan Hoeing,Miami Marlins,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+17,Vaughn Grissom,Atlanta Braves,Braxton Garrett,Miami Marlins,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+18,Vaughn Grissom,Atlanta Braves,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.250,.000,.250
+19,Vaughn Grissom,Atlanta Braves,Jesus Luzardo,Miami Marlins,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+20,Vaughn Grissom,Atlanta Braves,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Vaughn Grissom,Atlanta Braves,A.J. Puk,Miami Marlins,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+22,Vaughn Grissom,Atlanta Braves,Johan Quezada,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+23,Vaughn Grissom,Atlanta Braves,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Vaughn Grissom,Atlanta Braves,Devin Smeltzer,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Vaughn Grissom,Atlanta Braves,Stephen Nogosek,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Vaughn Grissom,Atlanta Braves,David Peterson,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+27,Vaughn Grissom,Atlanta Braves,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Vaughn Grissom,Atlanta Braves,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Vaughn Grissom,Atlanta Braves,Denyi Reyes,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Vaughn Grissom,Atlanta Braves,Scott Barlow,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+31,Vaughn Grissom,Atlanta Braves,Kris Bubic,Kansas City Royals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+32,Vaughn Grissom,Atlanta Braves,Brady Singer,Kansas City Royals,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+33,Vaughn Grissom,Atlanta Braves,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Vaughn Grissom,Atlanta Braves,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Vaughn Grissom,Atlanta Braves,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Vaughn Grissom,Atlanta Braves,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Vaughn Grissom,Atlanta Braves,Ryan Yarbrough,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

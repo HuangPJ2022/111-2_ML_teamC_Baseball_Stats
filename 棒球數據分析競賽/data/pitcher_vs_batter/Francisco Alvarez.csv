@@ -1,0 +1,153 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Francisco Alvarez,New York Mets,Michael Tonkin,Atlanta Braves,2,2,1,0,1,3,0,0,0,1.000,1.000,3.000,4.000
+1,Francisco Alvarez,New York Mets,Max Fried,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Francisco Alvarez,New York Mets,Charlie Morton,Atlanta Braves,4,2,0,0,1,1,0,0,0,.500,.500,1.250,1.750
+3,Francisco Alvarez,New York Mets,Spencer Strider,Atlanta Braves,3,1,0,0,1,2,0,0,2,.333,.333,1.333,1.666
+4,Francisco Alvarez,New York Mets,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Francisco Alvarez,New York Mets,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+6,Francisco Alvarez,New York Mets,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Francisco Alvarez,New York Mets,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Francisco Alvarez,New York Mets,Caleb Ferguson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Francisco Alvarez,New York Mets,Alex Vesia,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+10,Francisco Alvarez,New York Mets,Noah Syndergaard,Los Angeles Dodgers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+11,Francisco Alvarez,New York Mets,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Francisco Alvarez,New York Mets,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Francisco Alvarez,New York Mets,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Francisco Alvarez,New York Mets,Julio Urias,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Francisco Alvarez,New York Mets,Jason Adam,Tampa Bay Rays,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+16,Francisco Alvarez,New York Mets,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Francisco Alvarez,New York Mets,Josh Fleming,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Francisco Alvarez,New York Mets,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Francisco Alvarez,New York Mets,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Francisco Alvarez,New York Mets,Justin Garza,Boston Red Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+21,Francisco Alvarez,New York Mets,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Francisco Alvarez,New York Mets,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Francisco Alvarez,New York Mets,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Francisco Alvarez,New York Mets,James Paxton,Boston Red Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+25,Francisco Alvarez,New York Mets,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Francisco Alvarez,New York Mets,Adam Wainwright,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+27,Francisco Alvarez,New York Mets,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Francisco Alvarez,New York Mets,Matthew Liberatore,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Francisco Alvarez,New York Mets,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Francisco Alvarez,New York Mets,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Francisco Alvarez,New York Mets,Miguel Castro,Arizona Diamondbacks,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+32,Francisco Alvarez,New York Mets,Andrew Chafin,Arizona Diamondbacks,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+33,Francisco Alvarez,New York Mets,Drey Jameson,Arizona Diamondbacks,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+34,Francisco Alvarez,New York Mets,Kyle Nelson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+35,Francisco Alvarez,New York Mets,Ryne Nelson,Arizona Diamondbacks,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+36,Francisco Alvarez,New York Mets,Zach Davies,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Francisco Alvarez,New York Mets,Tommy Henry,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Francisco Alvarez,New York Mets,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+39,Francisco Alvarez,New York Mets,Luke Weaver,Cincinnati Reds,2,2,0,0,2,2,0,0,0,1.000,1.000,4.000,5.000
+40,Francisco Alvarez,New York Mets,Kevin Herget,Cincinnati Reds,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+41,Francisco Alvarez,New York Mets,Ben Lively,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+42,Francisco Alvarez,New York Mets,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Francisco Alvarez,New York Mets,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Francisco Alvarez,New York Mets,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Francisco Alvarez,New York Mets,Hunter Greene,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+46,Francisco Alvarez,New York Mets,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Francisco Alvarez,New York Mets,Chris Bassitt,Toronto Blue Jays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+48,Francisco Alvarez,New York Mets,Adam Cimber,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Francisco Alvarez,New York Mets,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Francisco Alvarez,New York Mets,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Francisco Alvarez,New York Mets,Jose Alvarado,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Francisco Alvarez,New York Mets,Dylan Covey,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+53,Francisco Alvarez,New York Mets,Yunior Marte,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Francisco Alvarez,New York Mets,Cristopher Sanchez,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Francisco Alvarez,New York Mets,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Francisco Alvarez,New York Mets,Ranger Suarez,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+57,Francisco Alvarez,New York Mets,Taijuan Walker,Philadelphia Phillies,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+58,Francisco Alvarez,New York Mets,Michael Rucker,Chicago Cubs,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+59,Francisco Alvarez,New York Mets,Marcus Stroman,Chicago Cubs,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+60,Francisco Alvarez,New York Mets,Tucker Barnhart,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Francisco Alvarez,New York Mets,Kyle Hendricks,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Francisco Alvarez,New York Mets,Tom Cosgrove,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+63,Francisco Alvarez,New York Mets,Luis Garcia,San Diego Padres,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+64,Francisco Alvarez,New York Mets,Adrian Morejon,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+65,Francisco Alvarez,New York Mets,Yu Darvish,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+66,Francisco Alvarez,New York Mets,Tim Hill,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+67,Francisco Alvarez,New York Mets,Josh Hader,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+68,Francisco Alvarez,New York Mets,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Francisco Alvarez,New York Mets,Blake Snell,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+70,Francisco Alvarez,New York Mets,Ryan Weathers,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Francisco Alvarez,New York Mets,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Francisco Alvarez,New York Mets,Hunter Brown,Houston Astros,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+73,Francisco Alvarez,New York Mets,Framber Valdez,Houston Astros,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+74,Francisco Alvarez,New York Mets,Shawn Dubin,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Francisco Alvarez,New York Mets,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Francisco Alvarez,New York Mets,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Francisco Alvarez,New York Mets,Josiah Gray,Washington Nationals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+78,Francisco Alvarez,New York Mets,Andres Machado,Washington Nationals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+79,Francisco Alvarez,New York Mets,Trevor Williams,Washington Nationals,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+80,Francisco Alvarez,New York Mets,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Francisco Alvarez,New York Mets,Patrick Corbin,Washington Nationals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+82,Francisco Alvarez,New York Mets,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Francisco Alvarez,New York Mets,MacKenzie Gore,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Francisco Alvarez,New York Mets,Hobie Harris,Washington Nationals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+85,Francisco Alvarez,New York Mets,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Francisco Alvarez,New York Mets,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Francisco Alvarez,New York Mets,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Francisco Alvarez,New York Mets,Braxton Garrett,Miami Marlins,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+89,Francisco Alvarez,New York Mets,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Francisco Alvarez,New York Mets,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Francisco Alvarez,New York Mets,Anthony DeSclafani,San Francisco Giants,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+92,Francisco Alvarez,New York Mets,Tyler Rogers,San Francisco Giants,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+93,Francisco Alvarez,New York Mets,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Francisco Alvarez,New York Mets,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Francisco Alvarez,New York Mets,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Francisco Alvarez,New York Mets,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Francisco Alvarez,New York Mets,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Francisco Alvarez,New York Mets,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Francisco Alvarez,New York Mets,Ross Stripling,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Francisco Alvarez,New York Mets,Alex Wood,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+101,Francisco Alvarez,New York Mets,Matt Carasiti,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+102,Francisco Alvarez,New York Mets,Ryan Feltner,Colorado Rockies,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+103,Francisco Alvarez,New York Mets,Chase Anderson,Colorado Rockies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+104,Francisco Alvarez,New York Mets,Austin Gomber,Colorado Rockies,4,2,0,0,1,3,1,0,1,.500,.600,1.250,1.850
+105,Francisco Alvarez,New York Mets,Jake Bird,Colorado Rockies,3,1,0,0,1,3,0,0,0,.333,.333,1.333,1.666
+106,Francisco Alvarez,New York Mets,Daniel Bard,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Francisco Alvarez,New York Mets,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Francisco Alvarez,New York Mets,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Francisco Alvarez,New York Mets,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+110,Francisco Alvarez,New York Mets,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Francisco Alvarez,New York Mets,Jimmy Cordero,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+112,Francisco Alvarez,New York Mets,Gerrit Cole,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Francisco Alvarez,New York Mets,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Francisco Alvarez,New York Mets,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Francisco Alvarez,New York Mets,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Francisco Alvarez,New York Mets,Luis Severino,New York Yankees,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+117,Francisco Alvarez,New York Mets,Emmanuel Clase,Cleveland Guardians,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+118,Francisco Alvarez,New York Mets,Cal Quantrill,Cleveland Guardians,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+119,Francisco Alvarez,New York Mets,Shane Bieber,Cleveland Guardians,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+120,Francisco Alvarez,New York Mets,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Francisco Alvarez,New York Mets,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Francisco Alvarez,New York Mets,David Bednar,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+123,Francisco Alvarez,New York Mets,Colin Holderman,Pittsburgh Pirates,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+124,Francisco Alvarez,New York Mets,Rich Hill,Pittsburgh Pirates,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Francisco Alvarez,New York Mets,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Francisco Alvarez,New York Mets,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Francisco Alvarez,New York Mets,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Francisco Alvarez,New York Mets,Tanner Banks,Chicago White Sox,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+129,Francisco Alvarez,New York Mets,Lucas Giolito,Chicago White Sox,1,1,0,0,1,2,1,0,0,1.000,1.000,4.000,5.000
+130,Francisco Alvarez,New York Mets,Jesse Scholtens,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+131,Francisco Alvarez,New York Mets,Touki Toussaint,Chicago White Sox,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+132,Francisco Alvarez,New York Mets,Aaron Bummer,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+133,Francisco Alvarez,New York Mets,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Francisco Alvarez,New York Mets,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Francisco Alvarez,New York Mets,Keynan Middleton,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+136,Francisco Alvarez,New York Mets,Bryan Shaw,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Francisco Alvarez,New York Mets,Devin Williams,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+138,Francisco Alvarez,New York Mets,Adrian Houser,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Francisco Alvarez,New York Mets,Wade Miley,Milwaukee Brewers,1,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+140,Francisco Alvarez,New York Mets,Hoby Milner,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Francisco Alvarez,New York Mets,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+142,Francisco Alvarez,New York Mets,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Francisco Alvarez,New York Mets,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Francisco Alvarez,New York Mets,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Francisco Alvarez,New York Mets,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Francisco Alvarez,New York Mets,Eduardo Rodriguez,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Francisco Alvarez,New York Mets,Shintaro Fujinami,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Francisco Alvarez,New York Mets,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Francisco Alvarez,New York Mets,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Francisco Alvarez,New York Mets,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Francisco Alvarez,New York Mets,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

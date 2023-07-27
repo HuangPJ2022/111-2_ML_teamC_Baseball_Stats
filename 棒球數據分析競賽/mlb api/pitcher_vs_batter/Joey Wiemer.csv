@@ -1,0 +1,183 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Joey Wiemer,Milwaukee Brewers,Michael Soroka,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+1,Joey Wiemer,Milwaukee Brewers,Phil Bickford,Los Angeles Dodgers,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+2,Joey Wiemer,Milwaukee Brewers,Tony Gonsolin,Los Angeles Dodgers,2,1,0,0,1,3,0,0,1,.500,.500,2.000,2.500
+3,Joey Wiemer,Milwaukee Brewers,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Joey Wiemer,Milwaukee Brewers,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Joey Wiemer,Milwaukee Brewers,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Joey Wiemer,Milwaukee Brewers,Matt Moore,Los Angeles Angels,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+7,Joey Wiemer,Milwaukee Brewers,Reid Detmers,Los Angeles Angels,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+8,Joey Wiemer,Milwaukee Brewers,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+9,Joey Wiemer,Milwaukee Brewers,Jaime Barria,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+10,Joey Wiemer,Milwaukee Brewers,Jose Suarez,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Joey Wiemer,Milwaukee Brewers,Shane McClanahan,Tampa Bay Rays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+12,Joey Wiemer,Milwaukee Brewers,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Joey Wiemer,Milwaukee Brewers,Cooper Criswell,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Joey Wiemer,Milwaukee Brewers,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Joey Wiemer,Milwaukee Brewers,Brayan Bello,Boston Red Sox,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+16,Joey Wiemer,Milwaukee Brewers,Nick Pivetta,Boston Red Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+17,Joey Wiemer,Milwaukee Brewers,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Joey Wiemer,Milwaukee Brewers,Kaleb Ort,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+19,Joey Wiemer,Milwaukee Brewers,John Schreiber,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Joey Wiemer,Milwaukee Brewers,Garrett Whitlock,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Joey Wiemer,Milwaukee Brewers,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Joey Wiemer,Milwaukee Brewers,James Naile,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Joey Wiemer,Milwaukee Brewers,Andre Pallante,St. Louis Cardinals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+24,Joey Wiemer,Milwaukee Brewers,Jordan Montgomery,St. Louis Cardinals,5,2,1,0,1,1,0,0,1,.400,.400,1.200,1.600
+25,Joey Wiemer,Milwaukee Brewers,Jack Flaherty,St. Louis Cardinals,3,0,0,0,0,0,1,0,2,.000,.250,.000,.250
+26,Joey Wiemer,Milwaukee Brewers,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Joey Wiemer,Milwaukee Brewers,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Joey Wiemer,Milwaukee Brewers,Matthew Liberatore,St. Louis Cardinals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+29,Joey Wiemer,Milwaukee Brewers,Packy Naughton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Joey Wiemer,Milwaukee Brewers,Drew VerHagen,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Joey Wiemer,Milwaukee Brewers,Jake Woodford,St. Louis Cardinals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+32,Joey Wiemer,Milwaukee Brewers,Austin Adams,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Joey Wiemer,Milwaukee Brewers,Zac Gallen,Arizona Diamondbacks,4,1,1,0,0,0,0,0,2,.250,.250,.500,.750
+34,Joey Wiemer,Milwaukee Brewers,Miguel Castro,Arizona Diamondbacks,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+35,Joey Wiemer,Milwaukee Brewers,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Joey Wiemer,Milwaukee Brewers,Luis Frias,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Joey Wiemer,Milwaukee Brewers,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Joey Wiemer,Milwaukee Brewers,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Joey Wiemer,Milwaukee Brewers,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+40,Joey Wiemer,Milwaukee Brewers,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Joey Wiemer,Milwaukee Brewers,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Joey Wiemer,Milwaukee Brewers,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+43,Joey Wiemer,Milwaukee Brewers,Carlos Vargas,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Joey Wiemer,Milwaukee Brewers,Graham Ashcraft,Cincinnati Reds,1,1,0,0,0,1,3,0,0,1.000,1.000,1.000,2.000
+45,Joey Wiemer,Milwaukee Brewers,Derek Law,Cincinnati Reds,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+46,Joey Wiemer,Milwaukee Brewers,Buck Farmer,Cincinnati Reds,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+47,Joey Wiemer,Milwaukee Brewers,Eduardo Salazar,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+48,Joey Wiemer,Milwaukee Brewers,Luke Weaver,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+49,Joey Wiemer,Milwaukee Brewers,Brandon Williamson,Cincinnati Reds,2,1,0,0,1,2,1,0,0,.500,.667,2.000,2.667
+50,Joey Wiemer,Milwaukee Brewers,Andrew Abbott,Cincinnati Reds,6,2,1,0,1,2,0,0,2,.333,.333,1.000,1.333
+51,Joey Wiemer,Milwaukee Brewers,Ben Lively,Cincinnati Reds,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+52,Joey Wiemer,Milwaukee Brewers,Fernando Cruz,Cincinnati Reds,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+53,Joey Wiemer,Milwaukee Brewers,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Joey Wiemer,Milwaukee Brewers,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Joey Wiemer,Milwaukee Brewers,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+56,Joey Wiemer,Milwaukee Brewers,Alex Young,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Joey Wiemer,Milwaukee Brewers,Kevin Gausman,Toronto Blue Jays,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+58,Joey Wiemer,Milwaukee Brewers,Tim Mayza,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+59,Joey Wiemer,Milwaukee Brewers,Alek Manoah,Toronto Blue Jays,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+60,Joey Wiemer,Milwaukee Brewers,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Joey Wiemer,Milwaukee Brewers,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Joey Wiemer,Milwaukee Brewers,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Joey Wiemer,Milwaukee Brewers,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Joey Wiemer,Milwaukee Brewers,Keegan Akin,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+65,Joey Wiemer,Milwaukee Brewers,Dean Kremer,Baltimore Orioles,2,2,0,0,1,3,0,0,0,1.000,1.000,2.500,3.500
+66,Joey Wiemer,Milwaukee Brewers,Austin Voth,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+67,Joey Wiemer,Milwaukee Brewers,Bruce Zimmermann,Baltimore Orioles,2,2,1,0,1,2,0,0,0,1.000,1.000,3.000,4.000
+68,Joey Wiemer,Milwaukee Brewers,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Joey Wiemer,Milwaukee Brewers,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Joey Wiemer,Milwaukee Brewers,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+71,Joey Wiemer,Milwaukee Brewers,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Joey Wiemer,Milwaukee Brewers,Kyle Gibson,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Joey Wiemer,Milwaukee Brewers,Andrew Bellatti,Philadelphia Phillies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+74,Joey Wiemer,Milwaukee Brewers,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Joey Wiemer,Milwaukee Brewers,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+76,Joey Wiemer,Milwaukee Brewers,Cristopher Sanchez,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Joey Wiemer,Milwaukee Brewers,Julian Merryweather,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+78,Joey Wiemer,Milwaukee Brewers,Marcus Stroman,Chicago Cubs,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+79,Joey Wiemer,Milwaukee Brewers,Justin Steele,Chicago Cubs,5,1,1,0,0,0,0,0,0,.200,.200,.400,.600
+80,Joey Wiemer,Milwaukee Brewers,Adbert Alzolay,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+81,Joey Wiemer,Milwaukee Brewers,Michael Fulmer,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Joey Wiemer,Milwaukee Brewers,Kyle Hendricks,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Joey Wiemer,Milwaukee Brewers,Anthony Kay,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+84,Joey Wiemer,Milwaukee Brewers,Mark Leiter Jr.,Chicago Cubs,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+85,Joey Wiemer,Milwaukee Brewers,Daniel Palencia,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Joey Wiemer,Milwaukee Brewers,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Joey Wiemer,Milwaukee Brewers,Drew Smyly,Chicago Cubs,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+88,Joey Wiemer,Milwaukee Brewers,Jameson Taillon,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Joey Wiemer,Milwaukee Brewers,Seth Lugo,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+90,Joey Wiemer,Milwaukee Brewers,Nabil Crismatt,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+91,Joey Wiemer,Milwaukee Brewers,Yu Darvish,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Joey Wiemer,Milwaukee Brewers,Brandon Dixon,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Joey Wiemer,Milwaukee Brewers,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Joey Wiemer,Milwaukee Brewers,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Joey Wiemer,Milwaukee Brewers,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Joey Wiemer,Milwaukee Brewers,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Joey Wiemer,Milwaukee Brewers,J.P. France,Houston Astros,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+98,Joey Wiemer,Milwaukee Brewers,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Joey Wiemer,Milwaukee Brewers,Brandon Bielak,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Joey Wiemer,Milwaukee Brewers,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Joey Wiemer,Milwaukee Brewers,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Joey Wiemer,Milwaukee Brewers,Pablo Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+103,Joey Wiemer,Milwaukee Brewers,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+104,Joey Wiemer,Milwaukee Brewers,Josh Winder,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Joey Wiemer,Milwaukee Brewers,Sean Manaea,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+106,Joey Wiemer,Milwaukee Brewers,Alex Cobb,San Francisco Giants,5,2,0,0,0,0,0,0,0,.400,.400,.400,.800
+107,Joey Wiemer,Milwaukee Brewers,Tristan Beck,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Joey Wiemer,Milwaukee Brewers,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Joey Wiemer,Milwaukee Brewers,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+110,Joey Wiemer,Milwaukee Brewers,Tyler Rogers,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Joey Wiemer,Milwaukee Brewers,Ross Stripling,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Joey Wiemer,Milwaukee Brewers,Cole Waites,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Joey Wiemer,Milwaukee Brewers,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Joey Wiemer,Milwaukee Brewers,Logan Webb,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Joey Wiemer,Milwaukee Brewers,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+116,Joey Wiemer,Milwaukee Brewers,Tommy Hunter,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+117,Joey Wiemer,Milwaukee Brewers,Adam Ottavino,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+118,Joey Wiemer,Milwaukee Brewers,David Peterson,New York Mets,4,2,1,0,1,3,0,0,1,.500,.500,1.500,2.000
+119,Joey Wiemer,Milwaukee Brewers,Drew Smith,New York Mets,2,1,0,0,1,2,1,0,0,.500,.667,2.000,2.667
+120,Joey Wiemer,Milwaukee Brewers,Max Scherzer,New York Mets,4,1,0,0,0,0,1,0,3,.250,.400,.250,.650
+121,Joey Wiemer,Milwaukee Brewers,Carlos Carrasco,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Joey Wiemer,Milwaukee Brewers,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Joey Wiemer,Milwaukee Brewers,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Joey Wiemer,Milwaukee Brewers,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Joey Wiemer,Milwaukee Brewers,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Joey Wiemer,Milwaukee Brewers,Denyi Reyes,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Joey Wiemer,Milwaukee Brewers,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Joey Wiemer,Milwaukee Brewers,Dennis Santana,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+129,Joey Wiemer,Milwaukee Brewers,Kodai Senga,New York Mets,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+130,Joey Wiemer,Milwaukee Brewers,Justin Verlander,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Joey Wiemer,Milwaukee Brewers,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Joey Wiemer,Milwaukee Brewers,Ryan Feltner,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Joey Wiemer,Milwaukee Brewers,Kyle Freeland,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Joey Wiemer,Milwaukee Brewers,Nick Mears,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Joey Wiemer,Milwaukee Brewers,Connor Seabold,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Joey Wiemer,Milwaukee Brewers,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Joey Wiemer,Milwaukee Brewers,Marco Gonzales,Seattle Mariners,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+138,Joey Wiemer,Milwaukee Brewers,Diego Castillo,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+139,Joey Wiemer,Milwaukee Brewers,Chris Flexen,Seattle Mariners,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+140,Joey Wiemer,Milwaukee Brewers,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Joey Wiemer,Milwaukee Brewers,Penn Murfee,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Joey Wiemer,Milwaukee Brewers,Aaron Civale,Cleveland Guardians,1,1,0,0,0,1,0,0,0,1.000,.500,1.000,1.500
+143,Joey Wiemer,Milwaukee Brewers,Tim Herrin,Cleveland Guardians,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+144,Joey Wiemer,Milwaukee Brewers,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Joey Wiemer,Milwaukee Brewers,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+146,Joey Wiemer,Milwaukee Brewers,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Joey Wiemer,Milwaukee Brewers,Xzavion Curry,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+148,Joey Wiemer,Milwaukee Brewers,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Joey Wiemer,Milwaukee Brewers,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Joey Wiemer,Milwaukee Brewers,Ryan Borucki,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+151,Joey Wiemer,Milwaukee Brewers,Mitch Keller,Pittsburgh Pirates,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+152,Joey Wiemer,Milwaukee Brewers,Carmen Mlodzinski,Pittsburgh Pirates,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+153,Joey Wiemer,Milwaukee Brewers,Osvaldo Bido,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+154,Joey Wiemer,Milwaukee Brewers,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Joey Wiemer,Milwaukee Brewers,Yerry De Los Santos,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+156,Joey Wiemer,Milwaukee Brewers,Rich Hill,Pittsburgh Pirates,4,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+157,Joey Wiemer,Milwaukee Brewers,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Joey Wiemer,Milwaukee Brewers,Luis L. Ortiz,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Joey Wiemer,Milwaukee Brewers,Angel Perdomo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+160,Joey Wiemer,Milwaukee Brewers,Amir Garrett,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+161,Joey Wiemer,Milwaukee Brewers,Max Castillo,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+162,Joey Wiemer,Milwaukee Brewers,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Joey Wiemer,Milwaukee Brewers,Jose Cuas,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Joey Wiemer,Milwaukee Brewers,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+165,Joey Wiemer,Milwaukee Brewers,Carlos Hernandez,Kansas City Royals,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+166,Joey Wiemer,Milwaukee Brewers,Jordan Lyles,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+167,Joey Wiemer,Milwaukee Brewers,Tyler Holton,Detroit Tigers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+168,Joey Wiemer,Milwaukee Brewers,Michael Lorenzen,Detroit Tigers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+169,Joey Wiemer,Milwaukee Brewers,Spencer Turnbull,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+170,Joey Wiemer,Milwaukee Brewers,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Joey Wiemer,Milwaukee Brewers,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+172,Joey Wiemer,Milwaukee Brewers,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Joey Wiemer,Milwaukee Brewers,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+174,Joey Wiemer,Milwaukee Brewers,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+175,Joey Wiemer,Milwaukee Brewers,Paul Blackburn,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+176,Joey Wiemer,Milwaukee Brewers,Lucas Erceg,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+177,Joey Wiemer,Milwaukee Brewers,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+178,Joey Wiemer,Milwaukee Brewers,Trevor May,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+179,Joey Wiemer,Milwaukee Brewers,Luis Medina,Oakland Athletics,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+180,Joey Wiemer,Milwaukee Brewers,Austin Pruitt,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+181,Joey Wiemer,Milwaukee Brewers,JP Sears,Oakland Athletics,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000

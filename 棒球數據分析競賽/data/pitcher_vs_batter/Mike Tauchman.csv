@@ -1,0 +1,107 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Mike Tauchman,Chicago Cubs,Tyler Anderson,Los Angeles Angels,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+1,Mike Tauchman,Chicago Cubs,Jaime Barria,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Mike Tauchman,Chicago Cubs,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Mike Tauchman,Chicago Cubs,Reid Detmers,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+4,Mike Tauchman,Chicago Cubs,Chris Devenski,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Mike Tauchman,Chicago Cubs,Ben Joyce,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,Mike Tauchman,Chicago Cubs,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Mike Tauchman,Chicago Cubs,Shane McClanahan,Tampa Bay Rays,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+8,Mike Tauchman,Chicago Cubs,Zach Eflin,Tampa Bay Rays,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+9,Mike Tauchman,Chicago Cubs,Taj Bradley,Tampa Bay Rays,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+10,Mike Tauchman,Chicago Cubs,Jake Diekman,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+11,Mike Tauchman,Chicago Cubs,Kevin Kelly,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+12,Mike Tauchman,Chicago Cubs,Joe La Sorsa,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Mike Tauchman,Chicago Cubs,Colin Poche,Tampa Bay Rays,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Mike Tauchman,Chicago Cubs,Kutter Crawford,Boston Red Sox,1,1,0,0,0,0,2,0,0,1.000,1.000,1.000,2.000
+15,Mike Tauchman,Chicago Cubs,Jake Faria,Boston Red Sox,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+16,Mike Tauchman,Chicago Cubs,Brayan Bello,Boston Red Sox,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+17,Mike Tauchman,Chicago Cubs,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Mike Tauchman,Chicago Cubs,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Mike Tauchman,Chicago Cubs,Zack Thompson,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Mike Tauchman,Chicago Cubs,Jack Flaherty,St. Louis Cardinals,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+21,Mike Tauchman,Chicago Cubs,Adam Wainwright,St. Louis Cardinals,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+22,Mike Tauchman,Chicago Cubs,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Mike Tauchman,Chicago Cubs,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Mike Tauchman,Chicago Cubs,Dakota Hudson,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Mike Tauchman,Chicago Cubs,Steven Matz,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Mike Tauchman,Chicago Cubs,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Mike Tauchman,Chicago Cubs,Andre Pallante,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Mike Tauchman,Chicago Cubs,Jake Woodford,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Mike Tauchman,Chicago Cubs,Graham Ashcraft,Cincinnati Reds,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+30,Mike Tauchman,Chicago Cubs,Ian Gibaut,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+31,Mike Tauchman,Chicago Cubs,Lucas Sims,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+32,Mike Tauchman,Chicago Cubs,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Mike Tauchman,Chicago Cubs,Alexis Diaz,Cincinnati Reds,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+34,Mike Tauchman,Chicago Cubs,Hunter Greene,Cincinnati Reds,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+35,Mike Tauchman,Chicago Cubs,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Mike Tauchman,Chicago Cubs,Eduardo Salazar,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Mike Tauchman,Chicago Cubs,Brandon Williamson,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Mike Tauchman,Chicago Cubs,Dean Kremer,Baltimore Orioles,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+39,Mike Tauchman,Chicago Cubs,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Mike Tauchman,Chicago Cubs,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+41,Mike Tauchman,Chicago Cubs,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Mike Tauchman,Chicago Cubs,Reed Garrett,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Mike Tauchman,Chicago Cubs,Kyle Gibson,Baltimore Orioles,1,0,0,0,0,1,1,0,1,.000,.333,.000,.333
+44,Mike Tauchman,Chicago Cubs,Connor Brogdon,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+45,Mike Tauchman,Chicago Cubs,Aaron Nola,Philadelphia Phillies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+46,Mike Tauchman,Chicago Cubs,Kody Clemens,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Mike Tauchman,Chicago Cubs,Craig Kimbrel,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+48,Mike Tauchman,Chicago Cubs,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Mike Tauchman,Chicago Cubs,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+50,Mike Tauchman,Chicago Cubs,Taijuan Walker,Philadelphia Phillies,4,0,0,0,0,0,1,0,2,.000,.200,.000,.200
+51,Mike Tauchman,Chicago Cubs,Tom Cosgrove,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+52,Mike Tauchman,Chicago Cubs,Yu Darvish,San Diego Padres,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+53,Mike Tauchman,Chicago Cubs,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Mike Tauchman,Chicago Cubs,Michael Wacha,San Diego Padres,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+55,Mike Tauchman,Chicago Cubs,Paolo Espino,Washington Nationals,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+56,Mike Tauchman,Chicago Cubs,Jordan Weems,Washington Nationals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+57,Mike Tauchman,Chicago Cubs,Trevor Williams,Washington Nationals,3,2,1,0,1,2,0,0,0,.667,.667,2.000,2.667
+58,Mike Tauchman,Chicago Cubs,Jose A. Ferrer,Washington Nationals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+59,Mike Tauchman,Chicago Cubs,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Mike Tauchman,Chicago Cubs,Mason Thompson,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+61,Mike Tauchman,Chicago Cubs,Amos Willingham,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Mike Tauchman,Chicago Cubs,John Brebbia,San Francisco Giants,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+63,Mike Tauchman,Chicago Cubs,Jakob Junis,San Francisco Giants,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+64,Mike Tauchman,Chicago Cubs,Tristan Beck,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Mike Tauchman,Chicago Cubs,Brandon Crawford,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+66,Mike Tauchman,Chicago Cubs,Anthony DeSclafani,San Francisco Giants,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Mike Tauchman,Chicago Cubs,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Mike Tauchman,Chicago Cubs,Ryan Walker,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Mike Tauchman,Chicago Cubs,Dominic Leone,New York Mets,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+70,Mike Tauchman,Chicago Cubs,Kodai Senga,New York Mets,3,2,0,0,0,1,0,0,1,.667,.667,.667,1.334
+71,Mike Tauchman,Chicago Cubs,Carlos Carrasco,New York Mets,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Mike Tauchman,Chicago Cubs,Tommy Hunter,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+73,Mike Tauchman,Chicago Cubs,Tylor Megill,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Mike Tauchman,Chicago Cubs,Stephen Nogosek,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+75,Mike Tauchman,Chicago Cubs,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Mike Tauchman,Chicago Cubs,Ron Marinaccio,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+77,Mike Tauchman,Chicago Cubs,Gerrit Cole,New York Yankees,4,1,0,0,1,2,0,0,1,.250,.250,1.000,1.250
+78,Mike Tauchman,Chicago Cubs,Domingo German,New York Yankees,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+79,Mike Tauchman,Chicago Cubs,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Mike Tauchman,Chicago Cubs,Emmanuel Clase,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+81,Mike Tauchman,Chicago Cubs,Cal Quantrill,Cleveland Guardians,2,1,0,0,0,1,1,0,1,.500,.667,.500,1.167
+82,Mike Tauchman,Chicago Cubs,Aaron Civale,Cleveland Guardians,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+83,Mike Tauchman,Chicago Cubs,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Mike Tauchman,Chicago Cubs,David Fry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Mike Tauchman,Chicago Cubs,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Mike Tauchman,Chicago Cubs,Ryan Borucki,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+87,Mike Tauchman,Chicago Cubs,Colin Holderman,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+88,Mike Tauchman,Chicago Cubs,Dauri Moreta,Pittsburgh Pirates,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+89,Mike Tauchman,Chicago Cubs,Rob Zastryzny,Pittsburgh Pirates,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+90,Mike Tauchman,Chicago Cubs,Osvaldo Bido,Pittsburgh Pirates,6,3,0,0,0,2,0,0,2,.500,.500,.500,1.000
+91,Mike Tauchman,Chicago Cubs,Roansy Contreras,Pittsburgh Pirates,2,1,0,0,0,2,0,0,1,.500,.500,.500,1.000
+92,Mike Tauchman,Chicago Cubs,Luis L. Ortiz,Pittsburgh Pirates,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+93,Mike Tauchman,Chicago Cubs,Jose Hernandez,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+94,Mike Tauchman,Chicago Cubs,Rich Hill,Pittsburgh Pirates,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+95,Mike Tauchman,Chicago Cubs,Johan Oviedo,Pittsburgh Pirates,6,0,0,0,0,0,0,0,4,.000,.000,.000,.000
+96,Mike Tauchman,Chicago Cubs,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+97,Mike Tauchman,Chicago Cubs,Yohan Ramirez,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Mike Tauchman,Chicago Cubs,Devin Williams,Milwaukee Brewers,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+99,Mike Tauchman,Chicago Cubs,Adrian Houser,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.667,.000,.667
+100,Mike Tauchman,Chicago Cubs,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Mike Tauchman,Chicago Cubs,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Mike Tauchman,Chicago Cubs,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Mike Tauchman,Chicago Cubs,Freddy Peralta,Milwaukee Brewers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+104,Mike Tauchman,Chicago Cubs,Julio Teheran,Milwaukee Brewers,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+105,Mike Tauchman,Chicago Cubs,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

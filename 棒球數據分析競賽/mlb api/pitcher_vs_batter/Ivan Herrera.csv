@@ -1,0 +1,17 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Ivan Herrera,St. Louis Cardinals,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+1,Ivan Herrera,St. Louis Cardinals,Sandy Alcantara,Miami Marlins,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+2,Ivan Herrera,St. Louis Cardinals,Huascar Brazoban,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+3,Ivan Herrera,St. Louis Cardinals,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Ivan Herrera,St. Louis Cardinals,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Ivan Herrera,St. Louis Cardinals,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Ivan Herrera,St. Louis Cardinals,Paolo Espino,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+7,Ivan Herrera,St. Louis Cardinals,Jose A. Ferrer,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Ivan Herrera,St. Louis Cardinals,Amos Willingham,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Ivan Herrera,St. Louis Cardinals,Jake Irvin,Washington Nationals,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+10,Ivan Herrera,St. Louis Cardinals,Dylan Cease,Chicago White Sox,3,2,1,0,0,2,0,0,1,.667,.667,1.000,1.667
+11,Ivan Herrera,St. Louis Cardinals,Touki Toussaint,Chicago White Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+12,Ivan Herrera,St. Louis Cardinals,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Ivan Herrera,St. Louis Cardinals,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Ivan Herrera,St. Louis Cardinals,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Ivan Herrera,St. Louis Cardinals,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

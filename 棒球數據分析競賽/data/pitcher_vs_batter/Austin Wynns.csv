@@ -1,0 +1,49 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Austin Wynns,Colorado Rockies,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Austin Wynns,Colorado Rockies,Joe Barlow,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Austin Wynns,Colorado Rockies,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Austin Wynns,Colorado Rockies,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Austin Wynns,Colorado Rockies,Justin Bruihl,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+5,Austin Wynns,Colorado Rockies,Garrett Whitlock,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Austin Wynns,Colorado Rockies,Austin Adams,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Austin Wynns,Colorado Rockies,Tommy Henry,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Austin Wynns,Colorado Rockies,Hunter Greene,Cincinnati Reds,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+9,Austin Wynns,Colorado Rockies,Andrew Abbott,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Austin Wynns,Colorado Rockies,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Austin Wynns,Colorado Rockies,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Austin Wynns,Colorado Rockies,Ben Lively,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Austin Wynns,Los Angeles Dodgers,Jeremiah Estrada,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+14,Austin Wynns,Los Angeles Dodgers,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Austin Wynns,Colorado Rockies,Blake Snell,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+16,Austin Wynns,Colorado Rockies,Luis Garcia,San Diego Padres,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Austin Wynns,Colorado Rockies,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Austin Wynns,Colorado Rockies,Johnny Cueto,Miami Marlins,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+19,Austin Wynns,Colorado Rockies,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Austin Wynns,Colorado Rockies,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Austin Wynns,Colorado Rockies,Tanner Scott,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+22,Austin Wynns,Colorado Rockies,Ryan Walker,San Francisco Giants,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+23,Austin Wynns,Colorado Rockies,Logan Webb,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+24,Austin Wynns,Colorado Rockies,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Austin Wynns,Colorado Rockies,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Austin Wynns,Colorado Rockies,Stephen Nogosek,New York Mets,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+27,Austin Wynns,Colorado Rockies,Tommy Hunter,New York Mets,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+28,Austin Wynns,Los Angeles Dodgers,David Peterson,New York Mets,2,1,1,0,0,2,0,0,1,.500,.500,1.000,1.500
+29,Austin Wynns,Colorado Rockies,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Austin Wynns,Colorado Rockies,Dominic Leone,New York Mets,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+31,Austin Wynns,Colorado Rockies,Joey Lucchesi,New York Mets,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+32,Austin Wynns,Colorado Rockies,Tylor Megill,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Austin Wynns,Los Angeles Dodgers,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Austin Wynns,Los Angeles Dodgers,Max Scherzer,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Austin Wynns,Los Angeles Dodgers,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Austin Wynns,Los Angeles Dodgers,Jimmy Yacabonis,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Austin Wynns,Colorado Rockies,Gerrit Cole,New York Yankees,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+38,Austin Wynns,Colorado Rockies,Rich Hill,Pittsburgh Pirates,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+39,Austin Wynns,Los Angeles Dodgers,Roansy Contreras,Pittsburgh Pirates,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+40,Austin Wynns,Colorado Rockies,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Austin Wynns,Colorado Rockies,Robert Stephenson,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+42,Austin Wynns,Los Angeles Dodgers,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Austin Wynns,Colorado Rockies,Brady Singer,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+44,Austin Wynns,Colorado Rockies,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Austin Wynns,San Francisco Giants,Kris Bubic,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+46,Austin Wynns,Colorado Rockies,Tyler Holton,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+47,Austin Wynns,Colorado Rockies,Zach Logue,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

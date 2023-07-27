@@ -1,0 +1,181 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Luis Garcia,Washington Nationals,Bryce Elder,Atlanta Braves,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+1,Luis Garcia,Washington Nationals,AJ Smith-Shawver,Atlanta Braves,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+2,Luis Garcia,Washington Nationals,Jared Shuster,Atlanta Braves,3,1,0,0,0,2,0,0,0,.333,.200,.333,.533
+3,Luis Garcia,Washington Nationals,Max Fried,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Luis Garcia,Washington Nationals,Joe Jimenez,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Luis Garcia,Washington Nationals,Dylan Lee,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Luis Garcia,Washington Nationals,Lucas Luetge,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Luis Garcia,Washington Nationals,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Luis Garcia,Washington Nationals,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Luis Garcia,Washington Nationals,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Luis Garcia,Washington Nationals,Kirby Yates,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Luis Garcia,Washington Nationals,Brock Burke,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+12,Luis Garcia,Washington Nationals,Andrew Heaney,Texas Rangers,1,1,0,1,0,0,1,0,0,1.000,1.000,3.000,4.000
+13,Luis Garcia,Washington Nationals,Josh Sborz,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+14,Luis Garcia,Washington Nationals,Dane Dunning,Texas Rangers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+15,Luis Garcia,Washington Nationals,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Luis Garcia,Washington Nationals,Cody Bradford,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Luis Garcia,Washington Nationals,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Luis Garcia,Washington Nationals,Glenn Otto,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Luis Garcia,Washington Nationals,Brusdar Graterol,Los Angeles Dodgers,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+20,Luis Garcia,Washington Nationals,Alex Vesia,Los Angeles Dodgers,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+21,Luis Garcia,Washington Nationals,Justin Bruihl,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Luis Garcia,Washington Nationals,Tony Gonsolin,Los Angeles Dodgers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Luis Garcia,Washington Nationals,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+24,Luis Garcia,Washington Nationals,Noah Syndergaard,Los Angeles Dodgers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+25,Luis Garcia,Washington Nationals,Griffin Canning,Los Angeles Angels,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+26,Luis Garcia,Washington Nationals,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Luis Garcia,Washington Nationals,Jose Quijada,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Luis Garcia,Washington Nationals,Kevin Kelly,Tampa Bay Rays,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+29,Luis Garcia,Washington Nationals,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Luis Garcia,Washington Nationals,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Luis Garcia,Washington Nationals,Drew Rasmussen,Tampa Bay Rays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Luis Garcia,Washington Nationals,Andre Pallante,St. Louis Cardinals,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+33,Luis Garcia,Washington Nationals,Jordan Montgomery,St. Louis Cardinals,3,1,0,1,0,0,0,0,0,.333,.333,1.000,1.333
+34,Luis Garcia,Washington Nationals,Jack Flaherty,St. Louis Cardinals,4,1,0,0,0,3,0,0,1,.250,.200,.250,.450
+35,Luis Garcia,Washington Nationals,Miles Mikolas,St. Louis Cardinals,4,1,1,0,0,0,0,0,0,.250,.250,.500,.750
+36,Luis Garcia,Washington Nationals,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+37,Luis Garcia,Washington Nationals,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Luis Garcia,Washington Nationals,JoJo Romero,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Luis Garcia,Washington Nationals,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Luis Garcia,Washington Nationals,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Luis Garcia,Washington Nationals,Miguel Castro,Arizona Diamondbacks,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+42,Luis Garcia,Washington Nationals,Merrill Kelly,Arizona Diamondbacks,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+43,Luis Garcia,Washington Nationals,Ryne Nelson,Arizona Diamondbacks,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+44,Luis Garcia,Washington Nationals,Scott McGough,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+45,Luis Garcia,Washington Nationals,Andrew Chafin,Arizona Diamondbacks,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+46,Luis Garcia,Washington Nationals,Zach Davies,Arizona Diamondbacks,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+47,Luis Garcia,Washington Nationals,Tommy Henry,Arizona Diamondbacks,9,3,0,0,0,0,0,0,0,.333,.333,.333,.666
+48,Luis Garcia,Washington Nationals,Kevin Ginkel,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+49,Luis Garcia,Washington Nationals,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Luis Garcia,Washington Nationals,Graham Ashcraft,Cincinnati Reds,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+51,Luis Garcia,Washington Nationals,Fernando Cruz,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+52,Luis Garcia,Washington Nationals,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Luis Garcia,Washington Nationals,Brett Kennedy,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Luis Garcia,Washington Nationals,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Luis Garcia,Washington Nationals,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Luis Garcia,Washington Nationals,Luke Weaver,Cincinnati Reds,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Luis Garcia,Washington Nationals,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Luis Garcia,Washington Nationals,Felix Bautista,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+59,Luis Garcia,Washington Nationals,Kyle Bradish,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Luis Garcia,Washington Nationals,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Luis Garcia,Washington Nationals,Dean Kremer,Baltimore Orioles,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Luis Garcia,Washington Nationals,Seranthony Dominguez,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+63,Luis Garcia,Washington Nationals,Zack Wheeler,Philadelphia Phillies,6,3,1,0,1,2,0,0,2,.500,.500,1.167,1.667
+64,Luis Garcia,Washington Nationals,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Luis Garcia,Washington Nationals,Jeff Hoffman,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Luis Garcia,Washington Nationals,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Luis Garcia,Washington Nationals,Cristopher Sanchez,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Luis Garcia,Washington Nationals,Matt Strahm,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Luis Garcia,Washington Nationals,Ranger Suarez,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Luis Garcia,Washington Nationals,Andrew Vasquez,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Luis Garcia,Washington Nationals,Julian Merryweather,Chicago Cubs,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+72,Luis Garcia,Washington Nationals,Drew Smyly,Chicago Cubs,5,3,1,0,0,2,0,0,0,.600,.500,.800,1.300
+73,Luis Garcia,Washington Nationals,Kyle Hendricks,Chicago Cubs,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+74,Luis Garcia,Washington Nationals,Hayden Wesneski,Chicago Cubs,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+75,Luis Garcia,Washington Nationals,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Luis Garcia,Washington Nationals,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Luis Garcia,Washington Nationals,Anthony Kay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Luis Garcia,Washington Nationals,Mark Leiter Jr.,Chicago Cubs,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Luis Garcia,Washington Nationals,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Luis Garcia,Washington Nationals,Marcus Stroman,Chicago Cubs,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+81,Luis Garcia,Washington Nationals,Jameson Taillon,Chicago Cubs,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Luis Garcia,Washington Nationals,Nick Martinez,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+83,Luis Garcia,Washington Nationals,Seth Lugo,San Diego Padres,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+84,Luis Garcia,Washington Nationals,Yu Darvish,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+85,Luis Garcia,Washington Nationals,Tim Hill,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+86,Luis Garcia,Washington Nationals,Blake Snell,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+87,Luis Garcia,Washington Nationals,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Luis Garcia,Washington Nationals,Luis Garcia,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+89,Luis Garcia,Washington Nationals,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Luis Garcia,Washington Nationals,Adrian Morejon,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Luis Garcia,Washington Nationals,Joe Musgrove,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Luis Garcia,Washington Nationals,Matt Waldron,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+93,Luis Garcia,Washington Nationals,Ryan Weathers,San Diego Padres,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+94,Luis Garcia,Washington Nationals,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Luis Garcia,Washington Nationals,Bryan Abreu,Houston Astros,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+96,Luis Garcia,Washington Nationals,Phil Maton,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+97,Luis Garcia,Washington Nationals,Hunter Brown,Houston Astros,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+98,Luis Garcia,Washington Nationals,Cristian Javier,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Luis Garcia,Washington Nationals,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Luis Garcia,Washington Nationals,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Luis Garcia,Washington Nationals,Pablo Lopez,Minnesota Twins,2,2,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+102,Luis Garcia,Washington Nationals,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Luis Garcia,Washington Nationals,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Luis Garcia,Washington Nationals,Tyler Mahle,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Luis Garcia,Washington Nationals,Bailey Ober,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+106,Luis Garcia,Washington Nationals,Caleb Thielbar,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Luis Garcia,Washington Nationals,Simeon Woods Richardson,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Luis Garcia,Washington Nationals,Huascar Brazoban,Miami Marlins,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+109,Luis Garcia,Washington Nationals,Dylan Floro,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+110,Luis Garcia,Washington Nationals,A.J. Puk,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+111,Luis Garcia,Washington Nationals,Tanner Scott,Miami Marlins,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+112,Luis Garcia,Washington Nationals,Sandy Alcantara,Miami Marlins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+113,Luis Garcia,Washington Nationals,Braxton Garrett,Miami Marlins,3,1,0,1,0,0,0,0,1,.333,.333,1.000,1.333
+114,Luis Garcia,Washington Nationals,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+115,Luis Garcia,Washington Nationals,Jesus Luzardo,Miami Marlins,6,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+116,Luis Garcia,Washington Nationals,Andrew Nardi,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Luis Garcia,Washington Nationals,Eury Perez,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Luis Garcia,Washington Nationals,Anthony DeSclafani,San Francisco Giants,7,4,0,0,0,0,0,0,0,.571,.571,.571,1.142
+119,Luis Garcia,Washington Nationals,Sean Manaea,San Francisco Giants,5,2,0,0,0,0,0,0,2,.400,.400,.400,.800
+120,Luis Garcia,Washington Nationals,Logan Webb,San Francisco Giants,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+121,Luis Garcia,Washington Nationals,Tristan Beck,San Francisco Giants,3,0,0,0,0,0,1,0,0,.000,.250,.000,.250
+122,Luis Garcia,Washington Nationals,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Luis Garcia,Washington Nationals,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Luis Garcia,Washington Nationals,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Luis Garcia,Washington Nationals,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Luis Garcia,Washington Nationals,Zach Muckenhirn,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+127,Luis Garcia,Washington Nationals,Jimmy Yacabonis,New York Mets,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+128,Luis Garcia,Washington Nationals,David Peterson,New York Mets,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+129,Luis Garcia,Washington Nationals,Jeff Brigham,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+130,Luis Garcia,Washington Nationals,Max Scherzer,New York Mets,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+131,Luis Garcia,Washington Nationals,Tommy Hunter,New York Mets,4,1,0,0,0,1,0,0,0,.250,.250,.250,.500
+132,Luis Garcia,Washington Nationals,Jose Butto,New York Mets,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Luis Garcia,Washington Nationals,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Luis Garcia,Washington Nationals,Joey Lucchesi,New York Mets,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Luis Garcia,Washington Nationals,Tylor Megill,New York Mets,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+136,Luis Garcia,Washington Nationals,Stephen Nogosek,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Luis Garcia,Washington Nationals,Adam Ottavino,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Luis Garcia,Washington Nationals,Brooks Raley,New York Mets,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+139,Luis Garcia,Washington Nationals,Kodai Senga,New York Mets,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+140,Luis Garcia,Washington Nationals,Jose Urena,Colorado Rockies,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+141,Luis Garcia,Washington Nationals,Kyle Freeland,Colorado Rockies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+142,Luis Garcia,Washington Nationals,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Luis Garcia,Washington Nationals,Ty Blach,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Luis Garcia,Washington Nationals,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Luis Garcia,Washington Nationals,Trevor Gott,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+146,Luis Garcia,Washington Nationals,Luis Castillo,Seattle Mariners,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+147,Luis Garcia,Washington Nationals,Logan Gilbert,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+148,Luis Garcia,Washington Nationals,Bryan Woo,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+149,Luis Garcia,Washington Nationals,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Luis Garcia,Washington Nationals,Matt Brash,Seattle Mariners,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+151,Luis Garcia,Washington Nationals,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+152,Luis Garcia,Washington Nationals,Tayler Saucedo,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+153,Luis Garcia,Washington Nationals,Tim Herrin,Cleveland Guardians,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+154,Luis Garcia,Washington Nationals,James Karinchak,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+155,Luis Garcia,Washington Nationals,Cal Quantrill,Cleveland Guardians,2,2,0,0,1,1,1,0,0,1.000,1.000,2.500,3.500
+156,Luis Garcia,Washington Nationals,Zach Plesac,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+157,Luis Garcia,Washington Nationals,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Luis Garcia,Washington Nationals,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Luis Garcia,Washington Nationals,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Luis Garcia,Washington Nationals,Trevor Stephan,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+161,Luis Garcia,Washington Nationals,Rich Hill,Pittsburgh Pirates,3,2,0,1,0,0,0,0,0,.667,.667,1.333,2.000
+162,Luis Garcia,Washington Nationals,Johan Oviedo,Pittsburgh Pirates,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+163,Luis Garcia,Washington Nationals,Cody Bolton,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Luis Garcia,Washington Nationals,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,Luis Garcia,Washington Nationals,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Luis Garcia,Washington Nationals,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Luis Garcia,Washington Nationals,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Luis Garcia,Washington Nationals,Vince Velasquez,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,Luis Garcia,Washington Nationals,Jordan Lyles,Kansas City Royals,3,3,1,0,0,0,0,0,0,1.000,1.000,1.333,2.333
+170,Luis Garcia,Washington Nationals,Josh Staumont,Kansas City Royals,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+171,Luis Garcia,Washington Nationals,Nick Wittgren,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+172,Luis Garcia,Washington Nationals,Jose Cuas,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+173,Luis Garcia,Washington Nationals,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+174,Luis Garcia,Washington Nationals,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Luis Garcia,Washington Nationals,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Luis Garcia,Washington Nationals,Daniel Lynch IV,Kansas City Royals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+177,Luis Garcia,Washington Nationals,Brady Singer,Kansas City Royals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+178,Luis Garcia,Washington Nationals,Matthew Boyd,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Luis Garcia,Washington Nationals,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

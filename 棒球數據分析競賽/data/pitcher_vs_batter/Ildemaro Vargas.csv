@@ -1,0 +1,73 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Ildemaro Vargas,Washington Nationals,Jared Shuster,Atlanta Braves,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+1,Ildemaro Vargas,Washington Nationals,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Ildemaro Vargas,Washington Nationals,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Ildemaro Vargas,Washington Nationals,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Ildemaro Vargas,Washington Nationals,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Ildemaro Vargas,Washington Nationals,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Ildemaro Vargas,Washington Nationals,Grant Anderson,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+7,Ildemaro Vargas,Washington Nationals,Cody Bradford,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+8,Ildemaro Vargas,Washington Nationals,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Ildemaro Vargas,Washington Nationals,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Ildemaro Vargas,Washington Nationals,Glenn Otto,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Ildemaro Vargas,Washington Nationals,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Ildemaro Vargas,Washington Nationals,Tony Gonsolin,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+13,Ildemaro Vargas,Washington Nationals,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Ildemaro Vargas,Washington Nationals,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Ildemaro Vargas,Washington Nationals,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Ildemaro Vargas,Washington Nationals,Drew Rasmussen,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+17,Ildemaro Vargas,Washington Nationals,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Ildemaro Vargas,Washington Nationals,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Ildemaro Vargas,Washington Nationals,Genesis Cabrera,St. Louis Cardinals,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+20,Ildemaro Vargas,Washington Nationals,Giovanny Gallegos,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Ildemaro Vargas,Washington Nationals,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Ildemaro Vargas,Washington Nationals,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Ildemaro Vargas,Washington Nationals,Dakota Hudson,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Ildemaro Vargas,Washington Nationals,Steven Matz,St. Louis Cardinals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+25,Ildemaro Vargas,Washington Nationals,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Ildemaro Vargas,Washington Nationals,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Ildemaro Vargas,Washington Nationals,Chris Stratton,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Ildemaro Vargas,Washington Nationals,Andrew Chafin,Arizona Diamondbacks,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+29,Ildemaro Vargas,Washington Nationals,Kevin Ginkel,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+30,Ildemaro Vargas,Washington Nationals,Tommy Henry,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+31,Ildemaro Vargas,Washington Nationals,Ryne Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Ildemaro Vargas,Washington Nationals,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Ildemaro Vargas,Washington Nationals,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Ildemaro Vargas,Washington Nationals,Ian Gibaut,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+35,Ildemaro Vargas,Washington Nationals,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Ildemaro Vargas,Washington Nationals,Tony Santillan,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Ildemaro Vargas,Washington Nationals,Brandon Williamson,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Ildemaro Vargas,Washington Nationals,Connor Brogdon,Philadelphia Phillies,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+39,Ildemaro Vargas,Washington Nationals,Zack Wheeler,Philadelphia Phillies,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+40,Ildemaro Vargas,Washington Nationals,Ranger Suarez,Philadelphia Phillies,5,2,2,0,0,0,1,0,0,.400,.500,.800,1.300
+41,Ildemaro Vargas,Washington Nationals,Dylan Covey,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Ildemaro Vargas,Washington Nationals,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Ildemaro Vargas,Washington Nationals,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Ildemaro Vargas,Washington Nationals,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Ildemaro Vargas,Washington Nationals,Ray Kerr,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Ildemaro Vargas,Washington Nationals,Adrian Morejon,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Ildemaro Vargas,Washington Nationals,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Ildemaro Vargas,Washington Nationals,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Ildemaro Vargas,Washington Nationals,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Ildemaro Vargas,Washington Nationals,JT Chargois,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+51,Ildemaro Vargas,Washington Nationals,Steven Okert,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+52,Ildemaro Vargas,Washington Nationals,Edward Cabrera,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+53,Ildemaro Vargas,Washington Nationals,Dylan Floro,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Ildemaro Vargas,Washington Nationals,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Ildemaro Vargas,Washington Nationals,Cole Waites,San Francisco Giants,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+56,Ildemaro Vargas,Washington Nationals,Tristan Beck,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+57,Ildemaro Vargas,Washington Nationals,Sean Manaea,San Francisco Giants,2,1,0,1,0,2,0,0,0,.500,.500,1.500,2.000
+58,Ildemaro Vargas,Washington Nationals,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Ildemaro Vargas,Washington Nationals,Ryan Feltner,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+60,Ildemaro Vargas,Washington Nationals,Dinelson Lamet,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Ildemaro Vargas,Washington Nationals,Logan Gilbert,Seattle Mariners,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+62,Ildemaro Vargas,Washington Nationals,Trevor Gott,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+63,Ildemaro Vargas,Washington Nationals,Tayler Saucedo,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+64,Ildemaro Vargas,Washington Nationals,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Ildemaro Vargas,Washington Nationals,Daniel Lynch IV,Kansas City Royals,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+66,Ildemaro Vargas,Washington Nationals,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Ildemaro Vargas,Washington Nationals,Joey Wentz,Detroit Tigers,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+68,Ildemaro Vargas,Washington Nationals,Alex Faedo,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+69,Ildemaro Vargas,Washington Nationals,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Ildemaro Vargas,Washington Nationals,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Ildemaro Vargas,Washington Nationals,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

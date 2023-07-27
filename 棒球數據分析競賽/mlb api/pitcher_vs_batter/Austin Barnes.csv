@@ -1,0 +1,76 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Austin Barnes,Los Angeles Dodgers,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+1,Austin Barnes,Los Angeles Dodgers,Josh Fleming,Tampa Bay Rays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Austin Barnes,Los Angeles Dodgers,Jordan Montgomery,St. Louis Cardinals,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+3,Austin Barnes,Los Angeles Dodgers,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Austin Barnes,Los Angeles Dodgers,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+5,Austin Barnes,Los Angeles Dodgers,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Austin Barnes,Los Angeles Dodgers,JoJo Romero,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+7,Austin Barnes,Los Angeles Dodgers,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Austin Barnes,Los Angeles Dodgers,Madison Bumgarner,Arizona Diamondbacks,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Austin Barnes,Los Angeles Dodgers,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Austin Barnes,Los Angeles Dodgers,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Austin Barnes,Los Angeles Dodgers,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Austin Barnes,Los Angeles Dodgers,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Austin Barnes,Los Angeles Dodgers,Cole Sulser,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Austin Barnes,Los Angeles Dodgers,Carlos Vargas,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Austin Barnes,Los Angeles Dodgers,Fernando Cruz,Cincinnati Reds,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+16,Austin Barnes,Los Angeles Dodgers,Graham Ashcraft,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Austin Barnes,Los Angeles Dodgers,Ian Gibaut,Cincinnati Reds,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+18,Austin Barnes,Los Angeles Dodgers,Eduardo Salazar,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Austin Barnes,Los Angeles Dodgers,Felix Bautista,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Austin Barnes,Los Angeles Dodgers,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Austin Barnes,Los Angeles Dodgers,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Austin Barnes,Los Angeles Dodgers,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Austin Barnes,Los Angeles Dodgers,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Austin Barnes,Los Angeles Dodgers,Kody Clemens,Philadelphia Phillies,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+25,Austin Barnes,Los Angeles Dodgers,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Austin Barnes,Los Angeles Dodgers,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Austin Barnes,Los Angeles Dodgers,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Austin Barnes,Los Angeles Dodgers,Marcus Stroman,Chicago Cubs,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+29,Austin Barnes,Los Angeles Dodgers,Adbert Alzolay,Chicago Cubs,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+30,Austin Barnes,Los Angeles Dodgers,Javier Assad,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Austin Barnes,Los Angeles Dodgers,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Austin Barnes,Los Angeles Dodgers,Michael Fulmer,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+33,Austin Barnes,Los Angeles Dodgers,Michael Rucker,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Austin Barnes,Los Angeles Dodgers,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Austin Barnes,Los Angeles Dodgers,Justin Steele,Chicago Cubs,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+36,Austin Barnes,Los Angeles Dodgers,Jameson Taillon,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Austin Barnes,Los Angeles Dodgers,Keegan Thompson,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Austin Barnes,Los Angeles Dodgers,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Austin Barnes,Los Angeles Dodgers,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Austin Barnes,Los Angeles Dodgers,Ryan Weathers,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Austin Barnes,Los Angeles Dodgers,Griffin Jax,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+42,Austin Barnes,Los Angeles Dodgers,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Austin Barnes,Los Angeles Dodgers,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Austin Barnes,Los Angeles Dodgers,Tristan Beck,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+45,Austin Barnes,Los Angeles Dodgers,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Austin Barnes,Los Angeles Dodgers,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Austin Barnes,Los Angeles Dodgers,John Curtiss,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+48,Austin Barnes,Los Angeles Dodgers,Tylor Megill,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Austin Barnes,Los Angeles Dodgers,Denyi Reyes,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Austin Barnes,Los Angeles Dodgers,Max Scherzer,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Austin Barnes,Los Angeles Dodgers,Mason Thompson,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+52,Austin Barnes,Los Angeles Dodgers,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Austin Barnes,Los Angeles Dodgers,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Austin Barnes,Los Angeles Dodgers,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Austin Barnes,Los Angeles Dodgers,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Austin Barnes,Los Angeles Dodgers,Gavin Hollowell,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Austin Barnes,Los Angeles Dodgers,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Austin Barnes,Los Angeles Dodgers,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Austin Barnes,Los Angeles Dodgers,Mitch Keller,Pittsburgh Pirates,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+60,Austin Barnes,Los Angeles Dodgers,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Austin Barnes,Los Angeles Dodgers,Johan Oviedo,Pittsburgh Pirates,5,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Austin Barnes,Los Angeles Dodgers,Robert Stephenson,Pittsburgh Pirates,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+63,Austin Barnes,Los Angeles Dodgers,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Austin Barnes,Los Angeles Dodgers,Mike Clevinger,Chicago White Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+65,Austin Barnes,Los Angeles Dodgers,Aaron Bummer,Chicago White Sox,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+66,Austin Barnes,Los Angeles Dodgers,Keynan Middleton,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+67,Austin Barnes,Los Angeles Dodgers,Freddy Peralta,Milwaukee Brewers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+68,Austin Barnes,Los Angeles Dodgers,Wade Miley,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+69,Austin Barnes,Los Angeles Dodgers,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Austin Barnes,Los Angeles Dodgers,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Austin Barnes,Los Angeles Dodgers,Colin Rea,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+72,Austin Barnes,Los Angeles Dodgers,Bennett Sousa,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Austin Barnes,Los Angeles Dodgers,Brady Singer,Kansas City Royals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+74,Austin Barnes,Los Angeles Dodgers,Collin Snider,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

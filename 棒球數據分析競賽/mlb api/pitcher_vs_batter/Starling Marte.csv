@@ -1,0 +1,167 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Starling Marte,New York Mets,Nick Anderson,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+1,Starling Marte,New York Mets,Jesse Chavez,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Starling Marte,New York Mets,Spencer Strider,Atlanta Braves,4,2,0,0,0,1,1,0,1,.500,.600,.500,1.100
+3,Starling Marte,New York Mets,Michael Tonkin,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+4,Starling Marte,New York Mets,Charlie Morton,Atlanta Braves,5,1,0,0,0,1,0,0,2,.200,.200,.200,.400
+5,Starling Marte,New York Mets,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+6,Starling Marte,New York Mets,Max Fried,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Starling Marte,New York Mets,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Starling Marte,New York Mets,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Starling Marte,New York Mets,Collin McHugh,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Starling Marte,New York Mets,Alex Vesia,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,Starling Marte,New York Mets,Bobby Miller,Los Angeles Dodgers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+12,Starling Marte,New York Mets,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Starling Marte,New York Mets,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Starling Marte,New York Mets,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Starling Marte,New York Mets,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Starling Marte,New York Mets,Clayton Kershaw,Los Angeles Dodgers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+17,Starling Marte,New York Mets,Dustin May,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Starling Marte,New York Mets,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Starling Marte,New York Mets,Noah Syndergaard,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Starling Marte,New York Mets,Julio Urias,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+21,Starling Marte,New York Mets,Josh Fleming,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+22,Starling Marte,New York Mets,Jason Adam,Tampa Bay Rays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+23,Starling Marte,New York Mets,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Starling Marte,New York Mets,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Starling Marte,New York Mets,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Starling Marte,New York Mets,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Starling Marte,New York Mets,Miles Mikolas,St. Louis Cardinals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+28,Starling Marte,New York Mets,Adam Wainwright,St. Louis Cardinals,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+29,Starling Marte,New York Mets,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Starling Marte,New York Mets,Jordan Hicks,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Starling Marte,New York Mets,Matthew Liberatore,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Starling Marte,New York Mets,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+33,Starling Marte,New York Mets,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Starling Marte,New York Mets,Zach Davies,Arizona Diamondbacks,2,2,0,0,1,3,0,0,0,1.000,1.000,2.500,3.500
+35,Starling Marte,New York Mets,Jose Ruiz,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+36,Starling Marte,New York Mets,Tommy Henry,Arizona Diamondbacks,2,1,0,0,0,0,1,1,0,.500,.667,.500,1.167
+37,Starling Marte,New York Mets,Ryne Nelson,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+38,Starling Marte,New York Mets,Austin Adams,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+39,Starling Marte,New York Mets,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Starling Marte,New York Mets,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Starling Marte,New York Mets,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Starling Marte,New York Mets,Derek Law,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+43,Starling Marte,New York Mets,Ben Lively,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+44,Starling Marte,New York Mets,Lucas Sims,Cincinnati Reds,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+45,Starling Marte,New York Mets,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Starling Marte,New York Mets,Hunter Greene,Cincinnati Reds,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Starling Marte,New York Mets,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Starling Marte,New York Mets,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Starling Marte,New York Mets,Yusei Kikuchi,Toronto Blue Jays,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+50,Starling Marte,New York Mets,Nate Pearson,Toronto Blue Jays,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+51,Starling Marte,New York Mets,Chris Bassitt,Toronto Blue Jays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+52,Starling Marte,New York Mets,Jose Berrios,Toronto Blue Jays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+53,Starling Marte,New York Mets,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Starling Marte,New York Mets,Yunior Marte,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Starling Marte,New York Mets,Ranger Suarez,Philadelphia Phillies,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+56,Starling Marte,New York Mets,Cristopher Sanchez,Philadelphia Phillies,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+57,Starling Marte,New York Mets,Zack Wheeler,Philadelphia Phillies,2,1,0,0,0,0,0,0,1,.500,.667,.500,1.167
+58,Starling Marte,New York Mets,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Starling Marte,New York Mets,Jeff Hoffman,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Starling Marte,New York Mets,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Starling Marte,New York Mets,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Starling Marte,New York Mets,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+63,Starling Marte,New York Mets,Taijuan Walker,Philadelphia Phillies,4,0,0,0,0,0,0,0,0,.000,.200,.000,.200
+64,Starling Marte,New York Mets,Tucker Barnhart,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+65,Starling Marte,New York Mets,Kyle Hendricks,Chicago Cubs,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+66,Starling Marte,New York Mets,Jeremiah Estrada,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Starling Marte,New York Mets,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Starling Marte,New York Mets,Brandon Hughes,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Starling Marte,New York Mets,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Starling Marte,New York Mets,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Starling Marte,New York Mets,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+72,Starling Marte,New York Mets,Ryan Weathers,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+73,Starling Marte,New York Mets,Yu Darvish,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+74,Starling Marte,New York Mets,Luis Garcia,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Starling Marte,New York Mets,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Starling Marte,New York Mets,Brent Honeywell,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Starling Marte,New York Mets,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Starling Marte,New York Mets,Blake Snell,San Diego Padres,4,0,0,0,0,0,1,0,2,.000,.200,.000,.200
+79,Starling Marte,New York Mets,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Starling Marte,New York Mets,Cristian Javier,Houston Astros,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+81,Starling Marte,New York Mets,Seth Martinez,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+82,Starling Marte,New York Mets,Shawn Dubin,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+83,Starling Marte,New York Mets,Hunter Brown,Houston Astros,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+84,Starling Marte,New York Mets,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Starling Marte,New York Mets,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Starling Marte,New York Mets,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Starling Marte,New York Mets,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Starling Marte,New York Mets,Patrick Corbin,Washington Nationals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+89,Starling Marte,New York Mets,Mason Thompson,Washington Nationals,3,2,0,0,0,2,0,0,0,.667,.667,.667,1.334
+90,Starling Marte,New York Mets,Jake Irvin,Washington Nationals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+91,Starling Marte,New York Mets,Andres Machado,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+92,Starling Marte,New York Mets,MacKenzie Gore,Washington Nationals,5,2,0,0,0,1,0,0,1,.400,.400,.400,.800
+93,Starling Marte,New York Mets,Erasmo Ramirez,Washington Nationals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+94,Starling Marte,New York Mets,Josiah Gray,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+95,Starling Marte,New York Mets,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Starling Marte,New York Mets,Hunter Harvey,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Starling Marte,New York Mets,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Starling Marte,New York Mets,Trevor Williams,Washington Nationals,3,0,0,0,0,0,1,0,0,.000,.250,.000,.250
+99,Starling Marte,New York Mets,Braxton Garrett,Miami Marlins,2,2,2,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+100,Starling Marte,New York Mets,Jesus Luzardo,Miami Marlins,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+101,Starling Marte,New York Mets,Sandy Alcantara,Miami Marlins,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+102,Starling Marte,New York Mets,Matt Barnes,Miami Marlins,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+103,Starling Marte,New York Mets,Huascar Brazoban,Miami Marlins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+104,Starling Marte,New York Mets,Trevor Rogers,Miami Marlins,6,1,0,0,0,0,0,0,3,.167,.167,.167,.334
+105,Starling Marte,New York Mets,Edward Cabrera,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+106,Starling Marte,New York Mets,Daniel Castano,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Starling Marte,New York Mets,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Starling Marte,New York Mets,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Starling Marte,New York Mets,Andrew Nardi,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+110,Starling Marte,New York Mets,Scott Alexander,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+111,Starling Marte,New York Mets,Tyler Rogers,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+112,Starling Marte,New York Mets,Ross Stripling,San Francisco Giants,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+113,Starling Marte,New York Mets,Logan Webb,San Francisco Giants,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+114,Starling Marte,New York Mets,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Starling Marte,New York Mets,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Starling Marte,New York Mets,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Starling Marte,New York Mets,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Starling Marte,New York Mets,Alex Wood,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,Starling Marte,New York Mets,Jake Bird,Colorado Rockies,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+120,Starling Marte,New York Mets,Peter Lambert,Colorado Rockies,2,1,0,1,0,0,0,0,0,.500,.500,1.500,2.000
+121,Starling Marte,New York Mets,Austin Gomber,Colorado Rockies,3,1,0,0,0,0,1,0,1,.333,.500,.333,.833
+122,Starling Marte,New York Mets,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Starling Marte,New York Mets,Matt Carasiti,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Starling Marte,New York Mets,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+125,Starling Marte,New York Mets,Connor Seabold,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Starling Marte,New York Mets,Antonio Senzatela,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Starling Marte,New York Mets,Brent Suter,Colorado Rockies,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+128,Starling Marte,New York Mets,Ron Marinaccio,New York Yankees,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+129,Starling Marte,New York Mets,Luis Severino,New York Yankees,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+130,Starling Marte,New York Mets,Gerrit Cole,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+131,Starling Marte,New York Mets,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Starling Marte,New York Mets,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Starling Marte,New York Mets,Trevor Stephan,Cleveland Guardians,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+134,Starling Marte,New York Mets,Tanner Bibee,Cleveland Guardians,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+135,Starling Marte,New York Mets,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Starling Marte,New York Mets,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Starling Marte,New York Mets,Cal Quantrill,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+138,Starling Marte,New York Mets,Rich Hill,Pittsburgh Pirates,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+139,Starling Marte,New York Mets,Johan Oviedo,Pittsburgh Pirates,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+140,Starling Marte,New York Mets,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Starling Marte,New York Mets,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Starling Marte,New York Mets,Corbin Burnes,Milwaukee Brewers,2,1,1,0,0,0,0,0,0,.500,.667,1.000,1.667
+143,Starling Marte,New York Mets,Peter Strzelecki,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+144,Starling Marte,New York Mets,Adrian Houser,Milwaukee Brewers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+145,Starling Marte,New York Mets,Colin Rea,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+146,Starling Marte,New York Mets,Wade Miley,Milwaukee Brewers,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+147,Starling Marte,New York Mets,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Starling Marte,New York Mets,Elvis Peguero,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Starling Marte,New York Mets,Freddy Peralta,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+150,Starling Marte,New York Mets,Julio Teheran,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Starling Marte,New York Mets,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Starling Marte,New York Mets,Bryse Wilson,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Starling Marte,New York Mets,Eduardo Rodriguez,Detroit Tigers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+154,Starling Marte,New York Mets,Joey Wentz,Detroit Tigers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+155,Starling Marte,New York Mets,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Starling Marte,New York Mets,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Starling Marte,New York Mets,James Kaprielian,Oakland Athletics,1,1,0,0,0,1,2,0,0,1.000,1.000,1.000,2.000
+158,Starling Marte,New York Mets,Chad Smith,Oakland Athletics,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+159,Starling Marte,New York Mets,Jeurys Familia,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+160,Starling Marte,New York Mets,Shintaro Fujinami,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+161,Starling Marte,New York Mets,Hogan Harris,Oakland Athletics,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+162,Starling Marte,New York Mets,Zach Jackson,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+163,Starling Marte,New York Mets,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Starling Marte,New York Mets,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,Starling Marte,New York Mets,JP Sears,Oakland Athletics,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000

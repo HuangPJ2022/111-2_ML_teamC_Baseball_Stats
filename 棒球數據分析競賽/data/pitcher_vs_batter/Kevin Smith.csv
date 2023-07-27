@@ -1,0 +1,70 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Kevin Smith,Oakland Athletics,Martin Perez,Texas Rangers,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+1,Kevin Smith,Oakland Athletics,Jon Gray,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Kevin Smith,Oakland Athletics,Andrew Heaney,Texas Rangers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+3,Kevin Smith,Oakland Athletics,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Kevin Smith,Oakland Athletics,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Kevin Smith,Oakland Athletics,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Kevin Smith,Oakland Athletics,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Kevin Smith,Oakland Athletics,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Kevin Smith,Oakland Athletics,Patrick Sandoval,Los Angeles Angels,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+9,Kevin Smith,Oakland Athletics,Griffin Canning,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+10,Kevin Smith,Oakland Athletics,Jose Suarez,Los Angeles Angels,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+11,Kevin Smith,Oakland Athletics,Tucker Davidson,Los Angeles Angels,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Kevin Smith,Oakland Athletics,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Kevin Smith,Oakland Athletics,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Kevin Smith,Oakland Athletics,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+15,Kevin Smith,Oakland Athletics,Chase Silseth,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Kevin Smith,Oakland Athletics,Zach Eflin,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+17,Kevin Smith,Oakland Athletics,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Kevin Smith,Oakland Athletics,Taj Bradley,Tampa Bay Rays,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+19,Kevin Smith,Oakland Athletics,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Kevin Smith,Oakland Athletics,Luis Cessa,Cincinnati Reds,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+21,Kevin Smith,Oakland Athletics,Buck Farmer,Cincinnati Reds,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Kevin Smith,Oakland Athletics,Hunter Greene,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Kevin Smith,Oakland Athletics,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Kevin Smith,Oakland Athletics,Casey Legumina,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Kevin Smith,Oakland Athletics,Nick Lodolo,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Kevin Smith,Oakland Athletics,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Kevin Smith,Oakland Athletics,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Kevin Smith,Oakland Athletics,Grayson Rodriguez,Baltimore Orioles,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+29,Kevin Smith,Oakland Athletics,Austin Voth,Baltimore Orioles,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+30,Kevin Smith,Oakland Athletics,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Kevin Smith,Oakland Athletics,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Kevin Smith,Oakland Athletics,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Kevin Smith,Oakland Athletics,Kyle Gibson,Baltimore Orioles,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+34,Kevin Smith,Oakland Athletics,Logan Gillaspie,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Kevin Smith,Oakland Athletics,Cole Irvin,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+36,Kevin Smith,Oakland Athletics,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Kevin Smith,Oakland Athletics,Cionel Perez,Baltimore Orioles,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+38,Kevin Smith,Oakland Athletics,Brandon Hughes,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+39,Kevin Smith,Oakland Athletics,Julian Merryweather,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+40,Kevin Smith,Oakland Athletics,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Kevin Smith,Oakland Athletics,Justin Steele,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Kevin Smith,Oakland Athletics,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Kevin Smith,Oakland Athletics,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Kevin Smith,Oakland Athletics,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Kevin Smith,Oakland Athletics,Jose Butto,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+46,Kevin Smith,Oakland Athletics,John Curtiss,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Kevin Smith,Oakland Athletics,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Kevin Smith,Oakland Athletics,Denyi Reyes,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Kevin Smith,Oakland Athletics,David Robertson,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Kevin Smith,Oakland Athletics,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Kevin Smith,Oakland Athletics,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Kevin Smith,Oakland Athletics,Nestor Cortes,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Kevin Smith,Oakland Athletics,Deivi Garcia,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Kevin Smith,Oakland Athletics,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Kevin Smith,Oakland Athletics,Roansy Contreras,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+56,Kevin Smith,Oakland Athletics,Luis L. Ortiz,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+57,Kevin Smith,Oakland Athletics,Chase De Jong,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Kevin Smith,Oakland Athletics,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Kevin Smith,Oakland Athletics,Bryse Wilson,Milwaukee Brewers,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+60,Kevin Smith,Oakland Athletics,Adrian Houser,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Kevin Smith,Oakland Athletics,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Kevin Smith,Oakland Athletics,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+63,Kevin Smith,Oakland Athletics,Peter Strzelecki,Milwaukee Brewers,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Kevin Smith,Oakland Athletics,Brady Singer,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+65,Kevin Smith,Oakland Athletics,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Kevin Smith,Oakland Athletics,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Kevin Smith,Oakland Athletics,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Kevin Smith,Oakland Athletics,Ryan Yarbrough,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

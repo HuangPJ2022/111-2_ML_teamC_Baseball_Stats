@@ -1,0 +1,118 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Daniel Vogelbach,New York Mets,Spencer Strider,Atlanta Braves,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+1,Daniel Vogelbach,New York Mets,Charlie Morton,Atlanta Braves,3,1,1,0,0,1,2,0,1,.333,.600,.667,1.267
+2,Daniel Vogelbach,New York Mets,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Daniel Vogelbach,New York Mets,Bryce Elder,Atlanta Braves,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+4,Daniel Vogelbach,New York Mets,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Daniel Vogelbach,New York Mets,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Daniel Vogelbach,New York Mets,Collin McHugh,Atlanta Braves,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+7,Daniel Vogelbach,New York Mets,Evan Phillips,Los Angeles Dodgers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Daniel Vogelbach,New York Mets,Dustin May,Los Angeles Dodgers,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+9,Daniel Vogelbach,New York Mets,Ryan Brasier,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Daniel Vogelbach,New York Mets,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Daniel Vogelbach,New York Mets,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Daniel Vogelbach,New York Mets,Noah Syndergaard,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Daniel Vogelbach,New York Mets,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Daniel Vogelbach,New York Mets,Jason Adam,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Daniel Vogelbach,New York Mets,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Daniel Vogelbach,New York Mets,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Daniel Vogelbach,New York Mets,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Daniel Vogelbach,New York Mets,Trevor Kelley,Tampa Bay Rays,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+19,Daniel Vogelbach,New York Mets,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Daniel Vogelbach,New York Mets,Kutter Crawford,Boston Red Sox,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+21,Daniel Vogelbach,New York Mets,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Daniel Vogelbach,New York Mets,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Daniel Vogelbach,New York Mets,Adam Wainwright,St. Louis Cardinals,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+24,Daniel Vogelbach,New York Mets,Miles Mikolas,St. Louis Cardinals,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+25,Daniel Vogelbach,New York Mets,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Daniel Vogelbach,New York Mets,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Daniel Vogelbach,New York Mets,Drey Jameson,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+28,Daniel Vogelbach,New York Mets,Ryne Nelson,Arizona Diamondbacks,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+29,Daniel Vogelbach,New York Mets,Austin Adams,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Daniel Vogelbach,New York Mets,Miguel Castro,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+31,Daniel Vogelbach,New York Mets,Zach Davies,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Daniel Vogelbach,New York Mets,Buck Farmer,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Daniel Vogelbach,New York Mets,Hunter Greene,Cincinnati Reds,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+34,Daniel Vogelbach,New York Mets,Alexis Diaz,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Daniel Vogelbach,New York Mets,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Daniel Vogelbach,New York Mets,Derek Law,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Daniel Vogelbach,New York Mets,Ben Lively,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Daniel Vogelbach,New York Mets,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Daniel Vogelbach,New York Mets,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Daniel Vogelbach,New York Mets,Jose Berrios,Toronto Blue Jays,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+41,Daniel Vogelbach,New York Mets,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Daniel Vogelbach,New York Mets,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Daniel Vogelbach,New York Mets,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Daniel Vogelbach,New York Mets,Aaron Nola,Philadelphia Phillies,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+45,Daniel Vogelbach,New York Mets,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Daniel Vogelbach,New York Mets,Taijuan Walker,Philadelphia Phillies,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Daniel Vogelbach,New York Mets,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+48,Daniel Vogelbach,New York Mets,Michael Rucker,Chicago Cubs,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+49,Daniel Vogelbach,New York Mets,Jeremiah Estrada,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Daniel Vogelbach,New York Mets,Kyle Hendricks,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+51,Daniel Vogelbach,New York Mets,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Daniel Vogelbach,New York Mets,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Daniel Vogelbach,New York Mets,Yu Darvish,San Diego Padres,5,4,0,0,0,2,1,0,0,.800,.833,.800,1.633
+54,Daniel Vogelbach,New York Mets,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Daniel Vogelbach,New York Mets,Nick Martinez,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+56,Daniel Vogelbach,New York Mets,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Daniel Vogelbach,New York Mets,Cristian Javier,Houston Astros,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+58,Daniel Vogelbach,New York Mets,Phil Maton,Houston Astros,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+59,Daniel Vogelbach,New York Mets,Shawn Dubin,Houston Astros,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+60,Daniel Vogelbach,New York Mets,Hunter Brown,Houston Astros,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+61,Daniel Vogelbach,New York Mets,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Daniel Vogelbach,New York Mets,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Daniel Vogelbach,New York Mets,Josiah Gray,Washington Nationals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+64,Daniel Vogelbach,New York Mets,Erasmo Ramirez,Washington Nationals,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+65,Daniel Vogelbach,New York Mets,Trevor Williams,Washington Nationals,4,2,0,0,0,0,0,0,2,.500,.500,.500,1.000
+66,Daniel Vogelbach,New York Mets,Carl Edwards Jr.,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+67,Daniel Vogelbach,New York Mets,Kyle Finnegan,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Daniel Vogelbach,New York Mets,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Daniel Vogelbach,New York Mets,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Daniel Vogelbach,New York Mets,Huascar Brazoban,Miami Marlins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+71,Daniel Vogelbach,New York Mets,Dylan Floro,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+72,Daniel Vogelbach,New York Mets,Sandy Alcantara,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+73,Daniel Vogelbach,New York Mets,Edward Cabrera,Miami Marlins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+74,Daniel Vogelbach,New York Mets,Braxton Garrett,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Daniel Vogelbach,New York Mets,Andrew Nardi,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Daniel Vogelbach,New York Mets,Ross Stripling,San Francisco Giants,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+77,Daniel Vogelbach,New York Mets,Sean Hjelle,San Francisco Giants,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+78,Daniel Vogelbach,New York Mets,Anthony DeSclafani,San Francisco Giants,3,1,0,0,0,0,1,0,1,.333,.500,.333,.833
+79,Daniel Vogelbach,New York Mets,Logan Webb,San Francisco Giants,3,1,1,0,0,1,0,0,2,.333,.333,.667,1.000
+80,Daniel Vogelbach,New York Mets,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+81,Daniel Vogelbach,New York Mets,Alex Cobb,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Daniel Vogelbach,New York Mets,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Daniel Vogelbach,New York Mets,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Daniel Vogelbach,New York Mets,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Daniel Vogelbach,New York Mets,Daniel Bard,Colorado Rockies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+86,Daniel Vogelbach,New York Mets,Antonio Senzatela,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+87,Daniel Vogelbach,New York Mets,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Daniel Vogelbach,New York Mets,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Daniel Vogelbach,New York Mets,Ryan Feltner,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+90,Daniel Vogelbach,New York Mets,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Daniel Vogelbach,New York Mets,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Daniel Vogelbach,New York Mets,Connor Seabold,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Daniel Vogelbach,New York Mets,Brent Suter,Colorado Rockies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+94,Daniel Vogelbach,New York Mets,Trevor Stephan,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+95,Daniel Vogelbach,New York Mets,Tanner Bibee,Cleveland Guardians,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+96,Daniel Vogelbach,New York Mets,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Daniel Vogelbach,New York Mets,Touki Toussaint,Chicago White Sox,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+98,Daniel Vogelbach,New York Mets,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Daniel Vogelbach,New York Mets,Jesse Scholtens,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Daniel Vogelbach,New York Mets,Julio Teheran,Milwaukee Brewers,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+101,Daniel Vogelbach,New York Mets,Freddy Peralta,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+102,Daniel Vogelbach,New York Mets,Corbin Burnes,Milwaukee Brewers,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+103,Daniel Vogelbach,New York Mets,Matt Bush,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+104,Daniel Vogelbach,New York Mets,Adrian Houser,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Daniel Vogelbach,New York Mets,Colin Rea,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Daniel Vogelbach,New York Mets,Devin Williams,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Daniel Vogelbach,New York Mets,Bryse Wilson,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Daniel Vogelbach,New York Mets,Michael Lorenzen,Detroit Tigers,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+109,Daniel Vogelbach,New York Mets,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Daniel Vogelbach,New York Mets,Alex Lange,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Daniel Vogelbach,New York Mets,Jeurys Familia,Oakland Athletics,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+112,Daniel Vogelbach,New York Mets,Shintaro Fujinami,Oakland Athletics,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+113,Daniel Vogelbach,New York Mets,Hogan Harris,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Daniel Vogelbach,New York Mets,Zach Jackson,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Daniel Vogelbach,New York Mets,James Kaprielian,Oakland Athletics,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+116,Daniel Vogelbach,New York Mets,Chad Smith,Oakland Athletics,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000

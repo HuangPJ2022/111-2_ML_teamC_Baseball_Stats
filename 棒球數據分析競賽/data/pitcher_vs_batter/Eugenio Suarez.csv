@@ -1,0 +1,222 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Eugenio Suarez,Seattle Mariners,Michael Tonkin,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,.500,1.000,1.500
+1,Eugenio Suarez,Seattle Mariners,Kirby Yates,Atlanta Braves,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+2,Eugenio Suarez,Seattle Mariners,Bryce Elder,Atlanta Braves,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+3,Eugenio Suarez,Seattle Mariners,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Eugenio Suarez,Seattle Mariners,Raisel Iglesias,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+5,Eugenio Suarez,Seattle Mariners,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Eugenio Suarez,Seattle Mariners,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Eugenio Suarez,Seattle Mariners,Jared Shuster,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+8,Eugenio Suarez,Seattle Mariners,Jonathan Hernandez,Texas Rangers,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+9,Eugenio Suarez,Seattle Mariners,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Eugenio Suarez,Seattle Mariners,Dane Dunning,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Eugenio Suarez,Seattle Mariners,Nathan Eovaldi,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Eugenio Suarez,Seattle Mariners,Jon Gray,Texas Rangers,6,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Eugenio Suarez,Seattle Mariners,Andrew Heaney,Texas Rangers,4,0,0,0,0,0,1,0,3,.000,.200,.000,.200
+14,Eugenio Suarez,Seattle Mariners,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Eugenio Suarez,Seattle Mariners,John King,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Eugenio Suarez,Seattle Mariners,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Eugenio Suarez,Seattle Mariners,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Eugenio Suarez,Seattle Mariners,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Eugenio Suarez,Seattle Mariners,Gerardo Reyes,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+20,Eugenio Suarez,Seattle Mariners,Reid Detmers,Los Angeles Angels,3,2,1,0,0,2,0,0,1,.667,.667,1.000,1.667
+21,Eugenio Suarez,Seattle Mariners,Patrick Sandoval,Los Angeles Angels,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+22,Eugenio Suarez,Seattle Mariners,Jose Suarez,Los Angeles Angels,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+23,Eugenio Suarez,Seattle Mariners,Jimmy Herget,Los Angeles Angels,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+24,Eugenio Suarez,Seattle Mariners,Shohei Ohtani,Los Angeles Angels,5,1,0,0,0,1,0,0,2,.200,.200,.200,.400
+25,Eugenio Suarez,Seattle Mariners,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Eugenio Suarez,Seattle Mariners,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Eugenio Suarez,Seattle Mariners,Griffin Canning,Los Angeles Angels,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+28,Eugenio Suarez,Seattle Mariners,Tucker Davidson,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+29,Eugenio Suarez,Seattle Mariners,Chris Devenski,Los Angeles Angels,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+30,Eugenio Suarez,Seattle Mariners,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Eugenio Suarez,Seattle Mariners,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Eugenio Suarez,Seattle Mariners,Taj Bradley,Tampa Bay Rays,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+33,Eugenio Suarez,Seattle Mariners,Jason Adam,Tampa Bay Rays,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+34,Eugenio Suarez,Seattle Mariners,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Eugenio Suarez,Seattle Mariners,Jalen Beeks,Tampa Bay Rays,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+36,Eugenio Suarez,Seattle Mariners,Tyler Glasnow,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.333,.000,.333
+37,Eugenio Suarez,Seattle Mariners,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Eugenio Suarez,Seattle Mariners,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Eugenio Suarez,Seattle Mariners,Richard Bleier,Boston Red Sox,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+40,Eugenio Suarez,Seattle Mariners,Nick Pivetta,Boston Red Sox,1,1,0,0,0,0,2,0,0,1.000,1.000,1.000,2.000
+41,Eugenio Suarez,Seattle Mariners,Tanner Houck,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+42,Eugenio Suarez,Seattle Mariners,Brayan Bello,Boston Red Sox,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+43,Eugenio Suarez,Seattle Mariners,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Eugenio Suarez,Seattle Mariners,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Eugenio Suarez,Seattle Mariners,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Eugenio Suarez,Seattle Mariners,Pablo Reyes,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+47,Eugenio Suarez,Seattle Mariners,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Eugenio Suarez,Seattle Mariners,Giovanny Gallegos,St. Louis Cardinals,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+49,Eugenio Suarez,Seattle Mariners,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+50,Eugenio Suarez,Seattle Mariners,Ryan Helsley,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+51,Eugenio Suarez,Seattle Mariners,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+52,Eugenio Suarez,Seattle Mariners,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Eugenio Suarez,Seattle Mariners,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Eugenio Suarez,Seattle Mariners,Yusei Kikuchi,Toronto Blue Jays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+55,Eugenio Suarez,Seattle Mariners,Kevin Gausman,Toronto Blue Jays,6,1,0,0,0,0,0,0,3,.167,.167,.167,.334
+56,Eugenio Suarez,Seattle Mariners,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Eugenio Suarez,Seattle Mariners,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Eugenio Suarez,Seattle Mariners,Yimi Garcia,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Eugenio Suarez,Seattle Mariners,Alek Manoah,Toronto Blue Jays,2,0,0,0,0,0,3,0,0,.000,.667,.000,.667
+60,Eugenio Suarez,Seattle Mariners,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Eugenio Suarez,Seattle Mariners,Jordan Romano,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Eugenio Suarez,Seattle Mariners,Erik Swanson,Toronto Blue Jays,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+63,Eugenio Suarez,Seattle Mariners,Keegan Akin,Baltimore Orioles,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+64,Eugenio Suarez,Seattle Mariners,Bryan Baker,Baltimore Orioles,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+65,Eugenio Suarez,Seattle Mariners,Kyle Gibson,Baltimore Orioles,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+66,Eugenio Suarez,Seattle Mariners,Kyle Bradish,Baltimore Orioles,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+67,Eugenio Suarez,Seattle Mariners,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Eugenio Suarez,Seattle Mariners,Logan Gillaspie,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Eugenio Suarez,Seattle Mariners,Dean Kremer,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Eugenio Suarez,Seattle Mariners,Luis F. Ortiz,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+71,Eugenio Suarez,Seattle Mariners,Taijuan Walker,Philadelphia Phillies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+72,Eugenio Suarez,Seattle Mariners,Bailey Falter,Philadelphia Phillies,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+73,Eugenio Suarez,Seattle Mariners,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Eugenio Suarez,Seattle Mariners,Craig Kimbrel,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Eugenio Suarez,Seattle Mariners,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Eugenio Suarez,Seattle Mariners,Matt Strahm,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Eugenio Suarez,Seattle Mariners,Hayden Wesneski,Chicago Cubs,1,1,0,0,1,3,0,0,0,1.000,.500,4.000,4.500
+78,Eugenio Suarez,Seattle Mariners,Marcus Stroman,Chicago Cubs,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+79,Eugenio Suarez,Seattle Mariners,Adbert Alzolay,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Eugenio Suarez,Seattle Mariners,Brad Boxberger,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Eugenio Suarez,Seattle Mariners,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Eugenio Suarez,Seattle Mariners,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Eugenio Suarez,Seattle Mariners,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Eugenio Suarez,Seattle Mariners,Drew Smyly,Chicago Cubs,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+85,Eugenio Suarez,Seattle Mariners,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Eugenio Suarez,Seattle Mariners,Joe Musgrove,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+87,Eugenio Suarez,Seattle Mariners,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Eugenio Suarez,Seattle Mariners,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Eugenio Suarez,Seattle Mariners,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Eugenio Suarez,Seattle Mariners,Rafael Montero,Houston Astros,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+91,Eugenio Suarez,Seattle Mariners,Hector Neris,Houston Astros,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+92,Eugenio Suarez,Seattle Mariners,Bryan Abreu,Houston Astros,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+93,Eugenio Suarez,Seattle Mariners,Ronel Blanco,Houston Astros,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+94,Eugenio Suarez,Seattle Mariners,Seth Martinez,Houston Astros,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+95,Eugenio Suarez,Seattle Mariners,Brandon Bielak,Houston Astros,5,2,1,0,0,0,1,0,1,.400,.500,.600,1.100
+96,Eugenio Suarez,Seattle Mariners,Hunter Brown,Houston Astros,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+97,Eugenio Suarez,Seattle Mariners,J.P. France,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+98,Eugenio Suarez,Seattle Mariners,Cristian Javier,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+99,Eugenio Suarez,Seattle Mariners,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+100,Eugenio Suarez,Seattle Mariners,Ryne Stanek,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Eugenio Suarez,Seattle Mariners,Framber Valdez,Houston Astros,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+102,Eugenio Suarez,Seattle Mariners,Griffin Jax,Minnesota Twins,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+103,Eugenio Suarez,Seattle Mariners,Jorge Lopez,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+104,Eugenio Suarez,Seattle Mariners,Oliver Ortega,Minnesota Twins,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+105,Eugenio Suarez,Seattle Mariners,Pablo Lopez,Minnesota Twins,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+106,Eugenio Suarez,Seattle Mariners,Bailey Ober,Minnesota Twins,2,1,0,0,1,2,0,0,1,.500,.667,2.000,2.667
+107,Eugenio Suarez,Seattle Mariners,Sonny Gray,Minnesota Twins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+108,Eugenio Suarez,Seattle Mariners,Jordan Balazovic,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Eugenio Suarez,Seattle Mariners,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Eugenio Suarez,Seattle Mariners,Kenta Maeda,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Eugenio Suarez,Seattle Mariners,Hunter Harvey,Washington Nationals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+112,Eugenio Suarez,Seattle Mariners,Trevor Williams,Washington Nationals,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+113,Eugenio Suarez,Seattle Mariners,Patrick Corbin,Washington Nationals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+114,Eugenio Suarez,Seattle Mariners,Cory Abbott,Washington Nationals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+115,Eugenio Suarez,Seattle Mariners,Jake Irvin,Washington Nationals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+116,Eugenio Suarez,Seattle Mariners,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Eugenio Suarez,Seattle Mariners,Huascar Brazoban,Miami Marlins,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+118,Eugenio Suarez,Seattle Mariners,Edward Cabrera,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+119,Eugenio Suarez,Seattle Mariners,Jesus Luzardo,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+120,Eugenio Suarez,Seattle Mariners,Archie Bradley,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+121,Eugenio Suarez,Seattle Mariners,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Eugenio Suarez,Seattle Mariners,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Eugenio Suarez,Seattle Mariners,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Eugenio Suarez,Seattle Mariners,Eury Perez,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Eugenio Suarez,Seattle Mariners,A.J. Puk,Miami Marlins,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+126,Eugenio Suarez,Seattle Mariners,Keaton Winn,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+127,Eugenio Suarez,Seattle Mariners,Logan Webb,San Francisco Giants,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+128,Eugenio Suarez,Seattle Mariners,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Eugenio Suarez,Seattle Mariners,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+130,Eugenio Suarez,Seattle Mariners,Jakob Junis,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+131,Eugenio Suarez,Seattle Mariners,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Eugenio Suarez,Seattle Mariners,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Eugenio Suarez,Seattle Mariners,Noah Davis,Colorado Rockies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+134,Eugenio Suarez,Seattle Mariners,Ryan Feltner,Colorado Rockies,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+135,Eugenio Suarez,Seattle Mariners,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Eugenio Suarez,Seattle Mariners,Austin Gomber,Colorado Rockies,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+137,Eugenio Suarez,Seattle Mariners,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+138,Eugenio Suarez,Seattle Mariners,Dinelson Lamet,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Eugenio Suarez,Seattle Mariners,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Eugenio Suarez,Seattle Mariners,Connor Seabold,Colorado Rockies,0,0,0,0,0,1,0,0,0,.000,1.000,.000,1.000
+141,Eugenio Suarez,Seattle Mariners,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Eugenio Suarez,Seattle Mariners,Wandy Peralta,New York Yankees,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+143,Eugenio Suarez,Seattle Mariners,Nick Ramirez,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+144,Eugenio Suarez,Seattle Mariners,Gerrit Cole,New York Yankees,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+145,Eugenio Suarez,Seattle Mariners,Nestor Cortes,New York Yankees,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+146,Eugenio Suarez,Seattle Mariners,Domingo German,New York Yankees,3,1,1,0,0,2,2,0,1,.333,.600,.667,1.267
+147,Eugenio Suarez,Seattle Mariners,Albert Abreu,New York Yankees,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+148,Eugenio Suarez,Seattle Mariners,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Eugenio Suarez,Seattle Mariners,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Eugenio Suarez,Seattle Mariners,Clay Holmes,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+151,Eugenio Suarez,Seattle Mariners,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Eugenio Suarez,Seattle Mariners,Isiah Kiner-Falefa,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+153,Eugenio Suarez,Seattle Mariners,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+154,Eugenio Suarez,Seattle Mariners,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Eugenio Suarez,Seattle Mariners,Enyel De Los Santos,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+156,Eugenio Suarez,Seattle Mariners,Eli Morgan,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+157,Eugenio Suarez,Seattle Mariners,Cal Quantrill,Cleveland Guardians,6,4,1,0,0,3,0,0,0,.667,.667,.833,1.500
+158,Eugenio Suarez,Seattle Mariners,Shane Bieber,Cleveland Guardians,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+159,Eugenio Suarez,Seattle Mariners,Zach Plesac,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+160,Eugenio Suarez,Seattle Mariners,Aaron Civale,Cleveland Guardians,6,1,0,0,0,0,0,0,4,.167,.167,.167,.334
+161,Eugenio Suarez,Seattle Mariners,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+162,Eugenio Suarez,Seattle Mariners,Xzavion Curry,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+163,Eugenio Suarez,Seattle Mariners,Hunter Gaddis,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Eugenio Suarez,Seattle Mariners,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+165,Eugenio Suarez,Seattle Mariners,Nick Sandlin,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+166,Eugenio Suarez,Seattle Mariners,Trevor Stephan,Cleveland Guardians,4,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+167,Eugenio Suarez,Seattle Mariners,Robert Stephenson,Pittsburgh Pirates,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+168,Eugenio Suarez,Seattle Mariners,Vince Velasquez,Pittsburgh Pirates,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+169,Eugenio Suarez,Seattle Mariners,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Eugenio Suarez,Seattle Mariners,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Eugenio Suarez,Seattle Mariners,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+172,Eugenio Suarez,Seattle Mariners,Dauri Moreta,Pittsburgh Pirates,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+173,Eugenio Suarez,Seattle Mariners,Luis L. Ortiz,Pittsburgh Pirates,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+174,Eugenio Suarez,Seattle Mariners,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Eugenio Suarez,Seattle Mariners,Lucas Giolito,Chicago White Sox,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+176,Eugenio Suarez,Seattle Mariners,Michael Kopech,Chicago White Sox,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+177,Eugenio Suarez,Seattle Mariners,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+178,Eugenio Suarez,Seattle Mariners,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Eugenio Suarez,Seattle Mariners,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+180,Eugenio Suarez,Seattle Mariners,Lance Lynn,Chicago White Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+181,Eugenio Suarez,Seattle Mariners,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+182,Eugenio Suarez,Seattle Mariners,Bryse Wilson,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+183,Eugenio Suarez,Seattle Mariners,Corbin Burnes,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+184,Eugenio Suarez,Seattle Mariners,Matt Bush,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+185,Eugenio Suarez,Seattle Mariners,Eric Lauer,Milwaukee Brewers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+186,Eugenio Suarez,Seattle Mariners,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+187,Eugenio Suarez,Seattle Mariners,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+188,Eugenio Suarez,Seattle Mariners,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+189,Eugenio Suarez,Seattle Mariners,Tyler Holton,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+190,Eugenio Suarez,Seattle Mariners,Joey Wentz,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+191,Eugenio Suarez,Seattle Mariners,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+192,Eugenio Suarez,Seattle Mariners,Matthew Boyd,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+193,Eugenio Suarez,Seattle Mariners,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+194,Eugenio Suarez,Seattle Mariners,Mason Englert,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+195,Eugenio Suarez,Seattle Mariners,Alex Faedo,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+196,Eugenio Suarez,Seattle Mariners,Jason Foley,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+197,Eugenio Suarez,Seattle Mariners,Alex Lange,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+198,Eugenio Suarez,Seattle Mariners,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+199,Eugenio Suarez,Seattle Mariners,Reese Olson,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+200,Eugenio Suarez,Seattle Mariners,Eduardo Rodriguez,Detroit Tigers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+201,Eugenio Suarez,Seattle Mariners,Chasen Shreve,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+202,Eugenio Suarez,Seattle Mariners,Will Vest,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+203,Eugenio Suarez,Seattle Mariners,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+204,Eugenio Suarez,Seattle Mariners,Shintaro Fujinami,Oakland Athletics,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+205,Eugenio Suarez,Seattle Mariners,Adrian Martinez,Oakland Athletics,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+206,Eugenio Suarez,Seattle Mariners,Adam Oller,Oakland Athletics,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+207,Eugenio Suarez,Seattle Mariners,Drew Rucinski,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+208,Eugenio Suarez,Seattle Mariners,Garrett Acton,Oakland Athletics,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+209,Eugenio Suarez,Seattle Mariners,Jeurys Familia,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+210,Eugenio Suarez,Seattle Mariners,Rico Garcia,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+211,Eugenio Suarez,Seattle Mariners,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+212,Eugenio Suarez,Seattle Mariners,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+213,Eugenio Suarez,Seattle Mariners,Luis Medina,Oakland Athletics,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+214,Eugenio Suarez,Seattle Mariners,Mason Miller,Oakland Athletics,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+215,Eugenio Suarez,Seattle Mariners,Sam Moll,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+216,Eugenio Suarez,Seattle Mariners,Kyle Muller,Oakland Athletics,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+217,Eugenio Suarez,Seattle Mariners,Spencer Patton,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+218,Eugenio Suarez,Seattle Mariners,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+219,Eugenio Suarez,Seattle Mariners,JP Sears,Oakland Athletics,3,0,0,0,0,0,1,0,1,.000,.400,.000,.400
+220,Eugenio Suarez,Seattle Mariners,Ken Waldichuk,Oakland Athletics,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500

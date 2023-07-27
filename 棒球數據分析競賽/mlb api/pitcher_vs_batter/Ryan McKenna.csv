@@ -1,0 +1,63 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Ryan McKenna,Baltimore Orioles,Dylan Lee,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Ryan McKenna,Baltimore Orioles,Max Fried,Atlanta Braves,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+2,Ryan McKenna,Baltimore Orioles,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Ryan McKenna,Baltimore Orioles,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Ryan McKenna,Baltimore Orioles,Joe Jimenez,Atlanta Braves,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+5,Ryan McKenna,Baltimore Orioles,Andrew Heaney,Texas Rangers,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+6,Ryan McKenna,Baltimore Orioles,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Ryan McKenna,Baltimore Orioles,Dane Dunning,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Ryan McKenna,Baltimore Orioles,Taylor Hearn,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Ryan McKenna,Baltimore Orioles,Jaime Barria,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+10,Ryan McKenna,Baltimore Orioles,Tucker Davidson,Los Angeles Angels,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+11,Ryan McKenna,Baltimore Orioles,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Ryan McKenna,Baltimore Orioles,Jimmy Herget,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Ryan McKenna,Baltimore Orioles,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Ryan McKenna,Baltimore Orioles,Andrew Wantz,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Ryan McKenna,Baltimore Orioles,Colin Poche,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+16,Ryan McKenna,Baltimore Orioles,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Ryan McKenna,Baltimore Orioles,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Ryan McKenna,Baltimore Orioles,Richard Bleier,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+19,Ryan McKenna,Baltimore Orioles,John Schreiber,Boston Red Sox,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+20,Ryan McKenna,Baltimore Orioles,Josh Winckowski,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Ryan McKenna,Baltimore Orioles,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Ryan McKenna,Baltimore Orioles,Chris Sale,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+23,Ryan McKenna,Baltimore Orioles,Jake Wong,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+24,Ryan McKenna,Baltimore Orioles,Andrew Abbott,Cincinnati Reds,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+25,Ryan McKenna,Baltimore Orioles,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Ryan McKenna,Baltimore Orioles,Eduardo Salazar,Cincinnati Reds,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+27,Ryan McKenna,Baltimore Orioles,Brandon Williamson,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+28,Ryan McKenna,Baltimore Orioles,Yusei Kikuchi,Toronto Blue Jays,3,1,1,0,0,0,1,0,2,.333,.500,.667,1.167
+29,Ryan McKenna,Baltimore Orioles,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Ryan McKenna,Baltimore Orioles,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Ryan McKenna,Baltimore Orioles,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Ryan McKenna,Baltimore Orioles,Anthony Kay,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Ryan McKenna,Baltimore Orioles,Hayden Wesneski,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Ryan McKenna,Baltimore Orioles,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Ryan McKenna,Baltimore Orioles,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Ryan McKenna,Baltimore Orioles,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Ryan McKenna,Baltimore Orioles,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Ryan McKenna,Baltimore Orioles,Justin Topa,Seattle Mariners,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+39,Ryan McKenna,Baltimore Orioles,Shane Bieber,Cleveland Guardians,2,1,0,0,0,2,0,0,1,.500,.500,.500,1.000
+40,Ryan McKenna,Baltimore Orioles,Logan Allen,Cleveland Guardians,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+41,Ryan McKenna,Baltimore Orioles,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Ryan McKenna,Baltimore Orioles,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Ryan McKenna,Baltimore Orioles,Aaron Bummer,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+44,Ryan McKenna,Baltimore Orioles,Jake Diekman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Ryan McKenna,Baltimore Orioles,Bennett Sousa,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Ryan McKenna,Baltimore Orioles,Matthew Boyd,Detroit Tigers,3,2,0,0,1,3,0,0,0,.667,.667,1.667,2.334
+47,Ryan McKenna,Baltimore Orioles,Chasen Shreve,Detroit Tigers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+48,Ryan McKenna,Baltimore Orioles,Jason Foley,Detroit Tigers,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Ryan McKenna,Baltimore Orioles,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Ryan McKenna,Baltimore Orioles,Eduardo Rodriguez,Detroit Tigers,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+51,Ryan McKenna,Baltimore Orioles,Will Vest,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Ryan McKenna,Baltimore Orioles,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Ryan McKenna,Baltimore Orioles,Scott Barlow,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+54,Ryan McKenna,Baltimore Orioles,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Ryan McKenna,Baltimore Orioles,Austin Cox,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Ryan McKenna,Baltimore Orioles,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Ryan McKenna,Baltimore Orioles,Daniel Lynch IV,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Ryan McKenna,Baltimore Orioles,Ken Waldichuk,Oakland Athletics,1,1,1,0,0,1,0,0,0,1.000,.500,2.000,2.500
+59,Ryan McKenna,Baltimore Orioles,Zach Jackson,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Ryan McKenna,Baltimore Orioles,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Ryan McKenna,Baltimore Orioles,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

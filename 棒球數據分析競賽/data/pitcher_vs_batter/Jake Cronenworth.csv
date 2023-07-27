@@ -1,0 +1,205 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jake Cronenworth,San Diego Padres,Kirby Yates,Atlanta Braves,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+1,Jake Cronenworth,San Diego Padres,Lucas Luetge,Atlanta Braves,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+2,Jake Cronenworth,San Diego Padres,Charlie Morton,Atlanta Braves,5,2,1,0,0,0,1,0,2,.400,.500,.600,1.100
+3,Jake Cronenworth,San Diego Padres,Dylan Dodd,Atlanta Braves,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+4,Jake Cronenworth,San Diego Padres,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Jake Cronenworth,San Diego Padres,Max Fried,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Jake Cronenworth,San Diego Padres,Joe Jimenez,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+7,Jake Cronenworth,San Diego Padres,Dylan Lee,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Jake Cronenworth,San Diego Padres,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Jake Cronenworth,San Diego Padres,Jared Shuster,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+10,Jake Cronenworth,San Diego Padres,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,1,0,0,.000,.250,.000,.250
+11,Jake Cronenworth,San Diego Padres,Michael Tonkin,Atlanta Braves,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+12,Jake Cronenworth,San Diego Padres,Danny Young,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Jake Cronenworth,San Diego Padres,Clayton Kershaw,Los Angeles Dodgers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+14,Jake Cronenworth,San Diego Padres,Dustin May,Los Angeles Dodgers,4,1,0,0,0,0,1,0,0,.250,.400,.250,.650
+15,Jake Cronenworth,San Diego Padres,Julio Urias,Los Angeles Dodgers,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+16,Jake Cronenworth,San Diego Padres,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Jake Cronenworth,San Diego Padres,Caleb Ferguson,Los Angeles Dodgers,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+18,Jake Cronenworth,San Diego Padres,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Jake Cronenworth,San Diego Padres,Victor Gonzalez,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Jake Cronenworth,San Diego Padres,Shelby Miller,Los Angeles Dodgers,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+21,Jake Cronenworth,San Diego Padres,Evan Phillips,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+22,Jake Cronenworth,San Diego Padres,Sam Bachman,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+23,Jake Cronenworth,San Diego Padres,Shohei Ohtani,Los Angeles Angels,3,3,2,0,1,3,0,0,0,1.000,1.000,2.667,3.667
+24,Jake Cronenworth,San Diego Padres,Jaime Barria,Los Angeles Angels,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+25,Jake Cronenworth,San Diego Padres,Tucker Davidson,Los Angeles Angels,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+26,Jake Cronenworth,San Diego Padres,Gerardo Reyes,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Jake Cronenworth,San Diego Padres,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Jake Cronenworth,San Diego Padres,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Jake Cronenworth,San Diego Padres,Jacob Webb,Los Angeles Angels,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+30,Jake Cronenworth,San Diego Padres,Yonny Chirinos,Tampa Bay Rays,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+31,Jake Cronenworth,San Diego Padres,Shane McClanahan,Tampa Bay Rays,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+32,Jake Cronenworth,San Diego Padres,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Jake Cronenworth,San Diego Padres,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Jake Cronenworth,San Diego Padres,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+35,Jake Cronenworth,San Diego Padres,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Jake Cronenworth,San Diego Padres,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Jake Cronenworth,San Diego Padres,James Paxton,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+38,Jake Cronenworth,San Diego Padres,Kenley Jansen,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+39,Jake Cronenworth,San Diego Padres,Corey Kluber,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Jake Cronenworth,San Diego Padres,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Jake Cronenworth,San Diego Padres,Joely Rodriguez,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Jake Cronenworth,San Diego Padres,Chris Sale,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+43,Jake Cronenworth,San Diego Padres,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Jake Cronenworth,San Diego Padres,Drey Jameson,Arizona Diamondbacks,1,1,1,0,0,1,0,0,0,1.000,.500,2.000,2.500
+45,Jake Cronenworth,San Diego Padres,Joe Mantiply,Arizona Diamondbacks,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+46,Jake Cronenworth,San Diego Padres,Anthony Misiewicz,Arizona Diamondbacks,2,2,1,1,0,0,0,0,0,1.000,1.000,2.500,3.500
+47,Jake Cronenworth,San Diego Padres,Andrew Chafin,Arizona Diamondbacks,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+48,Jake Cronenworth,San Diego Padres,Zac Gallen,Arizona Diamondbacks,6,2,1,0,0,0,0,0,2,.333,.333,.500,.833
+49,Jake Cronenworth,San Diego Padres,Merrill Kelly,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Jake Cronenworth,San Diego Padres,Ryne Nelson,Arizona Diamondbacks,3,0,0,0,0,0,2,0,0,.000,.400,.000,.400
+51,Jake Cronenworth,San Diego Padres,Kyle Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+52,Jake Cronenworth,San Diego Padres,Peter Solomon,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Jake Cronenworth,San Diego Padres,Luis Cessa,Cincinnati Reds,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+54,Jake Cronenworth,San Diego Padres,Alexis Diaz,Cincinnati Reds,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+55,Jake Cronenworth,San Diego Padres,Casey Legumina,Cincinnati Reds,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+56,Jake Cronenworth,San Diego Padres,Luke Weaver,Cincinnati Reds,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+57,Jake Cronenworth,San Diego Padres,Graham Ashcraft,Cincinnati Reds,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+58,Jake Cronenworth,San Diego Padres,Andrew Abbott,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Jake Cronenworth,San Diego Padres,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Jake Cronenworth,San Diego Padres,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Jake Cronenworth,San Diego Padres,Alec Mills,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+62,Jake Cronenworth,San Diego Padres,Eduardo Salazar,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+63,Jake Cronenworth,San Diego Padres,Reiver Sanmartin,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Jake Cronenworth,San Diego Padres,Alex Young,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Jake Cronenworth,San Diego Padres,Mitch White,Toronto Blue Jays,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+66,Jake Cronenworth,San Diego Padres,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Jake Cronenworth,San Diego Padres,Jose Berrios,Toronto Blue Jays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+68,Jake Cronenworth,San Diego Padres,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Jake Cronenworth,San Diego Padres,Alek Manoah,Toronto Blue Jays,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+70,Jake Cronenworth,San Diego Padres,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Jake Cronenworth,San Diego Padres,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Jake Cronenworth,San Diego Padres,Jordan Romano,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Jake Cronenworth,San Diego Padres,Andrew Vasquez,Philadelphia Phillies,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+74,Jake Cronenworth,San Diego Padres,Dylan Covey,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Jake Cronenworth,San Diego Padres,Cristopher Sanchez,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Jake Cronenworth,San Diego Padres,Gregory Soto,Philadelphia Phillies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+77,Jake Cronenworth,San Diego Padres,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Jake Cronenworth,San Diego Padres,Ranger Suarez,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Jake Cronenworth,San Diego Padres,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Jake Cronenworth,San Diego Padres,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Jake Cronenworth,San Diego Padres,Drew Smyly,Chicago Cubs,5,2,0,1,0,2,0,0,1,.400,.400,.800,1.200
+82,Jake Cronenworth,San Diego Padres,Kyle Hendricks,Chicago Cubs,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+83,Jake Cronenworth,San Diego Padres,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Jake Cronenworth,San Diego Padres,Javier Assad,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+85,Jake Cronenworth,San Diego Padres,Brad Boxberger,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Jake Cronenworth,San Diego Padres,Michael Fulmer,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Jake Cronenworth,San Diego Padres,Brandon Hughes,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Jake Cronenworth,San Diego Padres,Mark Leiter Jr.,Chicago Cubs,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+89,Jake Cronenworth,San Diego Padres,Justin Steele,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Jake Cronenworth,San Diego Padres,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+91,Jake Cronenworth,San Diego Padres,Jameson Taillon,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Jake Cronenworth,San Diego Padres,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Jake Cronenworth,San Diego Padres,Hayden Wesneski,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Jake Cronenworth,San Diego Padres,Jorge Alcala,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+95,Jake Cronenworth,San Diego Padres,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+96,Jake Cronenworth,San Diego Padres,Jorge Lopez,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+97,Jake Cronenworth,San Diego Padres,Pablo Lopez,Minnesota Twins,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+98,Jake Cronenworth,San Diego Padres,Bailey Ober,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Jake Cronenworth,San Diego Padres,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Jake Cronenworth,San Diego Padres,Louie Varland,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Jake Cronenworth,San Diego Padres,Matt Barnes,Miami Marlins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+102,Jake Cronenworth,San Diego Padres,Sandy Alcantara,Miami Marlins,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Jake Cronenworth,San Diego Padres,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Jake Cronenworth,San Diego Padres,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Jake Cronenworth,San Diego Padres,Bryan Hoeing,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Jake Cronenworth,San Diego Padres,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+107,Jake Cronenworth,San Diego Padres,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Jake Cronenworth,San Diego Padres,Patrick Corbin,Washington Nationals,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+109,Jake Cronenworth,San Diego Padres,Erasmo Ramirez,Washington Nationals,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+110,Jake Cronenworth,San Diego Padres,Hunter Harvey,Washington Nationals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+111,Jake Cronenworth,San Diego Padres,MacKenzie Gore,Washington Nationals,2,0,0,0,0,0,3,0,2,.000,.600,.000,.600
+112,Jake Cronenworth,San Diego Padres,Josiah Gray,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Jake Cronenworth,San Diego Padres,Jake Irvin,Washington Nationals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+114,Jake Cronenworth,San Diego Padres,Chad Kuhl,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+115,Jake Cronenworth,San Diego Padres,Joe La Sorsa,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Jake Cronenworth,San Diego Padres,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Jake Cronenworth,San Diego Padres,Mason Thompson,Washington Nationals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+118,Jake Cronenworth,San Diego Padres,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Jake Cronenworth,San Diego Padres,Trevor Williams,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Jake Cronenworth,San Diego Padres,Camilo Doval,San Francisco Giants,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+121,Jake Cronenworth,San Diego Padres,Sean Hjelle,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+122,Jake Cronenworth,San Diego Padres,Jakob Junis,San Francisco Giants,4,2,0,0,0,1,0,0,0,.500,.500,.500,1.000
+123,Jake Cronenworth,San Diego Padres,Sean Manaea,San Francisco Giants,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+124,Jake Cronenworth,San Diego Padres,Taylor Rogers,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+125,Jake Cronenworth,San Diego Padres,Scott Alexander,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Jake Cronenworth,San Diego Padres,Tristan Beck,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+127,Jake Cronenworth,San Diego Padres,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Jake Cronenworth,San Diego Padres,Alex Cobb,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Jake Cronenworth,San Diego Padres,Anthony DeSclafani,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+130,Jake Cronenworth,San Diego Padres,Tyler Rogers,San Francisco Giants,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+131,Jake Cronenworth,San Diego Padres,David Villar,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Jake Cronenworth,San Diego Padres,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Jake Cronenworth,San Diego Padres,Keaton Winn,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Jake Cronenworth,San Diego Padres,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Jake Cronenworth,San Diego Padres,David Robertson,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+136,Jake Cronenworth,San Diego Padres,David Peterson,New York Mets,5,2,0,0,0,0,1,0,0,.400,.500,.400,.900
+137,Jake Cronenworth,San Diego Padres,Justin Verlander,New York Mets,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+138,Jake Cronenworth,San Diego Padres,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Jake Cronenworth,San Diego Padres,Tylor Megill,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Jake Cronenworth,San Diego Padres,Adam Ottavino,New York Mets,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+141,Jake Cronenworth,San Diego Padres,Brooks Raley,New York Mets,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+142,Jake Cronenworth,San Diego Padres,Max Scherzer,New York Mets,4,0,0,0,0,0,1,0,1,.000,.200,.000,.200
+143,Jake Cronenworth,San Diego Padres,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Jake Cronenworth,San Diego Padres,Jose Urena,Colorado Rockies,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+145,Jake Cronenworth,San Diego Padres,Brent Suter,Colorado Rockies,2,1,0,1,0,0,0,0,0,.500,.500,1.500,2.000
+146,Jake Cronenworth,San Diego Padres,Austin Gomber,Colorado Rockies,6,2,0,0,0,1,0,0,0,.333,.333,.333,.666
+147,Jake Cronenworth,San Diego Padres,Dinelson Lamet,Colorado Rockies,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+148,Jake Cronenworth,San Diego Padres,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Jake Cronenworth,San Diego Padres,Jake Bird,Colorado Rockies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+150,Jake Cronenworth,San Diego Padres,Ty Blach,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Jake Cronenworth,San Diego Padres,Kyle Freeland,Colorado Rockies,3,0,0,0,0,0,1,0,0,.000,.250,.000,.250
+152,Jake Cronenworth,San Diego Padres,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Jake Cronenworth,San Diego Padres,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+154,Jake Cronenworth,San Diego Padres,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Jake Cronenworth,San Diego Padres,Justin Lawrence,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Jake Cronenworth,San Diego Padres,German Marquez,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,Jake Cronenworth,San Diego Padres,Wandy Peralta,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+158,Jake Cronenworth,San Diego Padres,Randy Vasquez,New York Yankees,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+159,Jake Cronenworth,San Diego Padres,Gerrit Cole,New York Yankees,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+160,Jake Cronenworth,San Diego Padres,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+161,Jake Cronenworth,San Diego Padres,Luis Severino,New York Yankees,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Jake Cronenworth,San Diego Padres,Ryan Weber,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Jake Cronenworth,San Diego Padres,Matt Brash,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+164,Jake Cronenworth,San Diego Padres,Chris Flexen,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+165,Jake Cronenworth,San Diego Padres,George Kirby,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+166,Jake Cronenworth,San Diego Padres,Matt Festa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Jake Cronenworth,San Diego Padres,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Jake Cronenworth,San Diego Padres,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+169,Jake Cronenworth,San Diego Padres,Tanner Bibee,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+170,Jake Cronenworth,San Diego Padres,Aaron Civale,Cleveland Guardians,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+171,Jake Cronenworth,San Diego Padres,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+172,Jake Cronenworth,San Diego Padres,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Jake Cronenworth,San Diego Padres,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Jake Cronenworth,San Diego Padres,Eli Morgan,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Jake Cronenworth,San Diego Padres,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Jake Cronenworth,San Diego Padres,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+177,Jake Cronenworth,San Diego Padres,Luis L. Ortiz,Pittsburgh Pirates,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+178,Jake Cronenworth,San Diego Padres,Cody Bolton,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Jake Cronenworth,San Diego Padres,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+180,Jake Cronenworth,San Diego Padres,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+181,Jake Cronenworth,San Diego Padres,Hoby Milner,Milwaukee Brewers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+182,Jake Cronenworth,San Diego Padres,Freddy Peralta,Milwaukee Brewers,3,2,0,0,1,3,0,0,0,.667,.667,1.667,2.334
+183,Jake Cronenworth,San Diego Padres,Javy Guerra,Milwaukee Brewers,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+184,Jake Cronenworth,San Diego Padres,Wade Miley,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+185,Jake Cronenworth,San Diego Padres,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+186,Jake Cronenworth,San Diego Padres,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+187,Jake Cronenworth,San Diego Padres,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+188,Jake Cronenworth,San Diego Padres,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+189,Jake Cronenworth,San Diego Padres,Jose Cisnero,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+190,Jake Cronenworth,San Diego Padres,Mason Englert,Detroit Tigers,2,1,0,1,0,1,0,0,0,.500,.500,1.500,2.000
+191,Jake Cronenworth,San Diego Padres,Reese Olson,Detroit Tigers,3,1,0,1,0,2,0,0,0,.333,.333,1.000,1.333
+192,Jake Cronenworth,San Diego Padres,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+193,Jake Cronenworth,San Diego Padres,Matt Manning,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+194,Jake Cronenworth,San Diego Padres,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+195,Jake Cronenworth,San Diego Padres,Taylor Clarke,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+196,Jake Cronenworth,San Diego Padres,Mike Mayers,Kansas City Royals,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+197,Jake Cronenworth,San Diego Padres,Brady Singer,Kansas City Royals,3,1,0,1,0,1,0,0,1,.333,.333,1.000,1.333
+198,Jake Cronenworth,San Diego Padres,Max Castillo,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+199,Jake Cronenworth,San Diego Padres,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+200,Jake Cronenworth,San Diego Padres,Jose Cuas,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+201,Jake Cronenworth,San Diego Padres,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+202,Jake Cronenworth,San Diego Padres,Brad Keller,Kansas City Royals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+203,Jake Cronenworth,San Diego Padres,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

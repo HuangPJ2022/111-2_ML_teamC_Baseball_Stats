@@ -1,0 +1,94 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Edouard Julien,Minnesota Twins,Ben Heller,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Edouard Julien,Minnesota Twins,Collin McHugh,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Edouard Julien,Minnesota Twins,Spencer Strider,Atlanta Braves,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+3,Edouard Julien,Minnesota Twins,Bryce Elder,Atlanta Braves,1,0,0,0,0,1,1,0,0,.000,.333,.000,.333
+4,Edouard Julien,Minnesota Twins,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Edouard Julien,Minnesota Twins,Michael Tonkin,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,Edouard Julien,Minnesota Twins,Matt Moore,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+7,Edouard Julien,Minnesota Twins,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+8,Edouard Julien,Minnesota Twins,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Edouard Julien,Minnesota Twins,Zack Weiss,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Edouard Julien,Minnesota Twins,Ryan Brasier,Boston Red Sox,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+11,Edouard Julien,Minnesota Twins,Corey Kluber,Boston Red Sox,4,3,0,0,1,2,0,0,0,.750,.800,1.500,2.300
+12,Edouard Julien,Minnesota Twins,Garrett Whitlock,Boston Red Sox,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+13,Edouard Julien,Minnesota Twins,Kutter Crawford,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Edouard Julien,Minnesota Twins,Justin Garza,Boston Red Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+15,Edouard Julien,Minnesota Twins,Tanner Houck,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+16,Edouard Julien,Minnesota Twins,Kaleb Ort,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Edouard Julien,Minnesota Twins,James Paxton,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Edouard Julien,Minnesota Twins,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Edouard Julien,Minnesota Twins,Adam Cimber,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Edouard Julien,Minnesota Twins,Yimi Garcia,Toronto Blue Jays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+21,Edouard Julien,Minnesota Twins,Trevor Richards,Toronto Blue Jays,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+22,Edouard Julien,Minnesota Twins,Chris Bassitt,Toronto Blue Jays,3,2,2,0,0,1,0,0,0,.667,.667,1.333,2.000
+23,Edouard Julien,Minnesota Twins,Kevin Gausman,Toronto Blue Jays,3,1,1,0,0,0,3,0,2,.333,.667,.667,1.334
+24,Edouard Julien,Minnesota Twins,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Edouard Julien,Minnesota Twins,Jose Berrios,Toronto Blue Jays,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+26,Edouard Julien,Minnesota Twins,Bowden Francis,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Edouard Julien,Minnesota Twins,Thomas Hatch,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Edouard Julien,Minnesota Twins,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Edouard Julien,Minnesota Twins,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Edouard Julien,Minnesota Twins,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Edouard Julien,Minnesota Twins,Kyle Gibson,Baltimore Orioles,3,2,1,0,1,2,0,0,0,.667,.667,2.000,2.667
+32,Edouard Julien,Minnesota Twins,Tyler Wells,Baltimore Orioles,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+33,Edouard Julien,Minnesota Twins,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Edouard Julien,Minnesota Twins,Felix Bautista,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+35,Edouard Julien,Minnesota Twins,Kyle Bradish,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Edouard Julien,Minnesota Twins,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+37,Edouard Julien,Minnesota Twins,Nick Vespi,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Edouard Julien,Minnesota Twins,Seth Martinez,Houston Astros,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+39,Edouard Julien,Minnesota Twins,Ryne Stanek,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+40,Edouard Julien,Minnesota Twins,Brandon Bielak,Houston Astros,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+41,Edouard Julien,Minnesota Twins,Hunter Brown,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+42,Edouard Julien,Minnesota Twins,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+43,Edouard Julien,Minnesota Twins,Parker Mushinski,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Edouard Julien,Minnesota Twins,Anthony DeSclafani,San Francisco Giants,1,1,0,0,1,2,1,0,0,1.000,.667,4.000,4.667
+45,Edouard Julien,Minnesota Twins,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Edouard Julien,Minnesota Twins,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Edouard Julien,Minnesota Twins,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Edouard Julien,Minnesota Twins,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Edouard Julien,Minnesota Twins,Jhony Brito,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+50,Edouard Julien,Minnesota Twins,Colten Brewer,New York Yankees,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+51,Edouard Julien,Minnesota Twins,Gerrit Cole,New York Yankees,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+52,Edouard Julien,Minnesota Twins,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Edouard Julien,Minnesota Twins,Nestor Cortes,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Edouard Julien,Minnesota Twins,Domingo German,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Edouard Julien,Minnesota Twins,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Edouard Julien,Minnesota Twins,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Edouard Julien,Minnesota Twins,Ty Adcock,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+58,Edouard Julien,Minnesota Twins,Luis Castillo,Seattle Mariners,2,2,0,0,1,1,1,0,0,1.000,1.000,2.500,3.500
+59,Edouard Julien,Minnesota Twins,Logan Gilbert,Seattle Mariners,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+60,Edouard Julien,Minnesota Twins,Bryan Woo,Seattle Mariners,3,2,0,0,1,1,0,0,1,.667,.667,1.667,2.334
+61,Edouard Julien,Minnesota Twins,Tayler Saucedo,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+62,Edouard Julien,Minnesota Twins,George Kirby,Seattle Mariners,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+63,Edouard Julien,Minnesota Twins,Matt Brash,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Edouard Julien,Minnesota Twins,Justin Topa,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+65,Edouard Julien,Minnesota Twins,Lance Lynn,Chicago White Sox,2,1,0,0,0,0,2,0,0,.500,.750,.500,1.250
+66,Edouard Julien,Minnesota Twins,Lucas Giolito,Chicago White Sox,4,1,0,0,0,0,2,0,1,.250,.500,.250,.750
+67,Edouard Julien,Minnesota Twins,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Edouard Julien,Minnesota Twins,Dylan Cease,Chicago White Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+69,Edouard Julien,Minnesota Twins,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Edouard Julien,Minnesota Twins,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Edouard Julien,Minnesota Twins,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Edouard Julien,Minnesota Twins,Corbin Burnes,Milwaukee Brewers,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+73,Edouard Julien,Minnesota Twins,Colin Rea,Milwaukee Brewers,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+74,Edouard Julien,Minnesota Twins,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Edouard Julien,Minnesota Twins,Devin Williams,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+76,Edouard Julien,Minnesota Twins,Bryse Wilson,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+77,Edouard Julien,Minnesota Twins,Taylor Clarke,Kansas City Royals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+78,Edouard Julien,Minnesota Twins,Alec Marsh,Kansas City Royals,2,1,0,0,1,1,1,0,1,.500,.667,2.000,2.667
+79,Edouard Julien,Minnesota Twins,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Edouard Julien,Minnesota Twins,Mason Englert,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+81,Edouard Julien,Minnesota Twins,Michael Lorenzen,Detroit Tigers,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+82,Edouard Julien,Minnesota Twins,Tyler Holton,Detroit Tigers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+83,Edouard Julien,Minnesota Twins,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Edouard Julien,Minnesota Twins,Jason Foley,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Edouard Julien,Minnesota Twins,Alex Lange,Detroit Tigers,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+86,Edouard Julien,Minnesota Twins,Reese Olson,Detroit Tigers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+87,Edouard Julien,Minnesota Twins,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Edouard Julien,Minnesota Twins,Will Vest,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Edouard Julien,Minnesota Twins,Lucas Erceg,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+90,Edouard Julien,Minnesota Twins,Sam Long,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+91,Edouard Julien,Minnesota Twins,Austin Pruitt,Oakland Athletics,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+92,Edouard Julien,Minnesota Twins,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

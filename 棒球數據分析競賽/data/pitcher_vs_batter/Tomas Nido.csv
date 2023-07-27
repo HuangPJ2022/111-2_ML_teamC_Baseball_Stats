@@ -1,0 +1,39 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Tomas Nido,New York Mets,Dylan Lee,Atlanta Braves,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Tomas Nido,New York Mets,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Tomas Nido,New York Mets,Alex Vesia,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+3,Tomas Nido,New York Mets,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Tomas Nido,New York Mets,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Tomas Nido,New York Mets,Dustin May,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Tomas Nido,New York Mets,Jose Berrios,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Tomas Nido,New York Mets,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Tomas Nido,New York Mets,Seranthony Dominguez,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Tomas Nido,New York Mets,Aaron Nola,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Tomas Nido,New York Mets,Yu Darvish,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+11,Tomas Nido,New York Mets,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Tomas Nido,New York Mets,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Tomas Nido,New York Mets,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Tomas Nido,New York Mets,Blake Snell,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Tomas Nido,New York Mets,MacKenzie Gore,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Tomas Nido,New York Mets,Huascar Brazoban,Miami Marlins,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+17,Tomas Nido,New York Mets,Matt Barnes,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Tomas Nido,New York Mets,Edward Cabrera,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Tomas Nido,New York Mets,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Tomas Nido,New York Mets,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+21,Tomas Nido,New York Mets,Trevor Rogers,Miami Marlins,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Tomas Nido,New York Mets,Tanner Scott,Miami Marlins,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+23,Tomas Nido,New York Mets,Scott Alexander,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+24,Tomas Nido,New York Mets,Tristan Beck,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Tomas Nido,New York Mets,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Tomas Nido,New York Mets,Logan Webb,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Tomas Nido,New York Mets,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Tomas Nido,New York Mets,Antonio Senzatela,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Tomas Nido,New York Mets,Wade Miley,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+30,Tomas Nido,New York Mets,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Tomas Nido,New York Mets,Joey Wentz,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+32,Tomas Nido,New York Mets,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Tomas Nido,New York Mets,Jeurys Familia,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Tomas Nido,New York Mets,Hogan Harris,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Tomas Nido,New York Mets,James Kaprielian,Oakland Athletics,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+36,Tomas Nido,New York Mets,Carlos Perez,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Tomas Nido,New York Mets,Chad Smith,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

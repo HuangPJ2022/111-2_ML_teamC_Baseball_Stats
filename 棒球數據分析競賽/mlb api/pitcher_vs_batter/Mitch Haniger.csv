@@ -1,0 +1,93 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Mitch Haniger,San Francisco Giants,Genesis Cabrera,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Mitch Haniger,San Francisco Giants,Jordan Hicks,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+2,Mitch Haniger,San Francisco Giants,Andre Pallante,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+3,Mitch Haniger,San Francisco Giants,Matthew Liberatore,St. Louis Cardinals,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+4,Mitch Haniger,San Francisco Giants,Jack Flaherty,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+5,Mitch Haniger,San Francisco Giants,Steven Matz,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Mitch Haniger,San Francisco Giants,Jordan Montgomery,St. Louis Cardinals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+7,Mitch Haniger,San Francisco Giants,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Mitch Haniger,San Francisco Giants,Zack Thompson,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+9,Mitch Haniger,San Francisco Giants,Drew VerHagen,St. Louis Cardinals,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+10,Mitch Haniger,San Francisco Giants,Zac Gallen,Arizona Diamondbacks,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+11,Mitch Haniger,San Francisco Giants,Tommy Henry,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Mitch Haniger,San Francisco Giants,Scott McGough,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Mitch Haniger,San Francisco Giants,Anthony Misiewicz,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Mitch Haniger,San Francisco Giants,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Mitch Haniger,San Francisco Giants,Dean Kremer,Baltimore Orioles,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+16,Mitch Haniger,San Francisco Giants,Keegan Akin,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+17,Mitch Haniger,San Francisco Giants,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Mitch Haniger,San Francisco Giants,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Mitch Haniger,San Francisco Giants,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Mitch Haniger,San Francisco Giants,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Mitch Haniger,San Francisco Giants,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Mitch Haniger,San Francisco Giants,Bruce Zimmermann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Mitch Haniger,San Francisco Giants,Gregory Soto,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+24,Mitch Haniger,San Francisco Giants,Bailey Falter,Philadelphia Phillies,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+25,Mitch Haniger,San Francisco Giants,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Mitch Haniger,San Francisco Giants,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Mitch Haniger,San Francisco Giants,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Mitch Haniger,San Francisco Giants,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Mitch Haniger,San Francisco Giants,Javier Assad,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+30,Mitch Haniger,San Francisco Giants,Kyle Hendricks,Chicago Cubs,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+31,Mitch Haniger,San Francisco Giants,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Mitch Haniger,San Francisco Giants,Michael Rucker,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+33,Mitch Haniger,San Francisco Giants,Hayden Wesneski,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Mitch Haniger,San Francisco Giants,Steven Wilson,San Diego Padres,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+35,Mitch Haniger,San Francisco Giants,Joe Musgrove,San Diego Padres,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+36,Mitch Haniger,San Francisco Giants,Yu Darvish,San Diego Padres,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+37,Mitch Haniger,San Francisco Giants,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Mitch Haniger,San Francisco Giants,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Mitch Haniger,San Francisco Giants,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Mitch Haniger,San Francisco Giants,Framber Valdez,Houston Astros,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+41,Mitch Haniger,San Francisco Giants,Brandon Bielak,Houston Astros,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+42,Mitch Haniger,San Francisco Giants,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Mitch Haniger,San Francisco Giants,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Mitch Haniger,San Francisco Giants,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Mitch Haniger,San Francisco Giants,Sonny Gray,Minnesota Twins,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+46,Mitch Haniger,San Francisco Giants,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Mitch Haniger,San Francisco Giants,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Mitch Haniger,San Francisco Giants,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Mitch Haniger,San Francisco Giants,Joe Ryan,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Mitch Haniger,San Francisco Giants,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Mitch Haniger,San Francisco Giants,Patrick Corbin,Washington Nationals,3,2,1,0,0,2,0,0,1,.667,.667,1.000,1.667
+52,Mitch Haniger,San Francisco Giants,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Mitch Haniger,San Francisco Giants,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Mitch Haniger,San Francisco Giants,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Mitch Haniger,San Francisco Giants,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Mitch Haniger,San Francisco Giants,Matt Barnes,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+57,Mitch Haniger,San Francisco Giants,Sandy Alcantara,Miami Marlins,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+58,Mitch Haniger,San Francisco Giants,Jesus Luzardo,Miami Marlins,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+59,Mitch Haniger,San Francisco Giants,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Mitch Haniger,San Francisco Giants,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Mitch Haniger,San Francisco Giants,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Mitch Haniger,San Francisco Giants,Dinelson Lamet,Colorado Rockies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+63,Mitch Haniger,San Francisco Giants,Connor Seabold,Colorado Rockies,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+64,Mitch Haniger,San Francisco Giants,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Mitch Haniger,San Francisco Giants,Daniel Bard,Colorado Rockies,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+66,Mitch Haniger,San Francisco Giants,Jake Bird,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Mitch Haniger,San Francisco Giants,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Mitch Haniger,San Francisco Giants,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Mitch Haniger,San Francisco Giants,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Mitch Haniger,San Francisco Giants,Justin Lawrence,Colorado Rockies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+71,Mitch Haniger,San Francisco Giants,Cody Bolton,Pittsburgh Pirates,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+72,Mitch Haniger,San Francisco Giants,Rob Zastryzny,Pittsburgh Pirates,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+73,Mitch Haniger,San Francisco Giants,Rich Hill,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+74,Mitch Haniger,San Francisco Giants,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Mitch Haniger,San Francisco Giants,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+76,Mitch Haniger,San Francisco Giants,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Mitch Haniger,San Francisco Giants,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Mitch Haniger,San Francisco Giants,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Mitch Haniger,San Francisco Giants,Freddy Peralta,Milwaukee Brewers,2,2,1,0,1,4,0,0,0,1.000,1.000,3.000,4.000
+80,Mitch Haniger,San Francisco Giants,Peter Strzelecki,Milwaukee Brewers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+81,Mitch Haniger,San Francisco Giants,Adrian Houser,Milwaukee Brewers,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+82,Mitch Haniger,San Francisco Giants,Ethan Small,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+83,Mitch Haniger,San Francisco Giants,Corbin Burnes,Milwaukee Brewers,6,2,0,0,0,0,0,0,1,.333,.333,.333,.666
+84,Mitch Haniger,San Francisco Giants,Colin Rea,Milwaukee Brewers,6,1,0,0,0,0,0,0,1,.167,.167,.167,.334
+85,Mitch Haniger,San Francisco Giants,Trevor Megill,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+86,Mitch Haniger,San Francisco Giants,Tyson Miller,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Mitch Haniger,San Francisco Giants,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Mitch Haniger,San Francisco Giants,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Mitch Haniger,San Francisco Giants,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Mitch Haniger,San Francisco Giants,Julio Teheran,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Mitch Haniger,San Francisco Giants,Devin Williams,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000

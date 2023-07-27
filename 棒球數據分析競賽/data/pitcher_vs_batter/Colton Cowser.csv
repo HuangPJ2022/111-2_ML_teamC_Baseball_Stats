@@ -1,0 +1,29 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Colton Cowser,Baltimore Orioles,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Colton Cowser,Baltimore Orioles,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Colton Cowser,Baltimore Orioles,Ryan Brasier,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+3,Colton Cowser,Baltimore Orioles,Michael Grove,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+4,Colton Cowser,Baltimore Orioles,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Colton Cowser,Baltimore Orioles,Emmet Sheehan,Los Angeles Dodgers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+6,Colton Cowser,Baltimore Orioles,Tyler Glasnow,Tampa Bay Rays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+7,Colton Cowser,Baltimore Orioles,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+8,Colton Cowser,Baltimore Orioles,Robert Stephenson,Tampa Bay Rays,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+9,Colton Cowser,Baltimore Orioles,Cole Sands,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+10,Colton Cowser,Baltimore Orioles,Bailey Ober,Minnesota Twins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+11,Colton Cowser,Baltimore Orioles,Jordan Balazovic,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Colton Cowser,Baltimore Orioles,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Colton Cowser,Baltimore Orioles,Sonny Gray,Minnesota Twins,2,0,0,0,0,1,1,0,0,.000,.333,.000,.333
+14,Colton Cowser,Baltimore Orioles,Jorge Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Colton Cowser,Baltimore Orioles,Johnny Cueto,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Colton Cowser,Baltimore Orioles,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Colton Cowser,Baltimore Orioles,Braxton Garrett,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Colton Cowser,Baltimore Orioles,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Colton Cowser,Baltimore Orioles,Tanner Scott,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+20,Colton Cowser,Baltimore Orioles,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+21,Colton Cowser,Baltimore Orioles,Nick Ramirez,New York Yankees,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+22,Colton Cowser,Baltimore Orioles,Albert Abreu,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+23,Colton Cowser,Baltimore Orioles,Deivi Garcia,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+24,Colton Cowser,Baltimore Orioles,Michael King,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+25,Colton Cowser,Baltimore Orioles,Wandy Peralta,New York Yankees,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+26,Colton Cowser,Baltimore Orioles,Luis Severino,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Colton Cowser,Baltimore Orioles,Randy Vasquez,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

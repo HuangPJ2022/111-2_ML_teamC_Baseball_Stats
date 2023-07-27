@@ -1,0 +1,130 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jake Rogers,Detroit Tigers,Dylan Dodd,Atlanta Braves,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+1,Jake Rogers,Detroit Tigers,Collin McHugh,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+2,Jake Rogers,Detroit Tigers,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Jake Rogers,Detroit Tigers,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Jake Rogers,Detroit Tigers,Charlie Morton,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+5,Jake Rogers,Detroit Tigers,John King,Texas Rangers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+6,Jake Rogers,Detroit Tigers,Yerry Rodriguez,Texas Rangers,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+7,Jake Rogers,Detroit Tigers,Andrew Heaney,Texas Rangers,2,1,0,0,1,2,1,0,1,.500,.667,2.000,2.667
+8,Jake Rogers,Detroit Tigers,Martin Perez,Texas Rangers,2,1,0,0,1,1,2,0,1,.500,.750,2.000,2.750
+9,Jake Rogers,Detroit Tigers,Grant Anderson,Texas Rangers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+10,Jake Rogers,Detroit Tigers,Cody Bradford,Texas Rangers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+11,Jake Rogers,Detroit Tigers,Dane Dunning,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Jake Rogers,Detroit Tigers,Jonathan Hernandez,Texas Rangers,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+13,Jake Rogers,Detroit Tigers,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Jake Rogers,Detroit Tigers,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Jake Rogers,Detroit Tigers,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Jake Rogers,Detroit Tigers,Jalen Beeks,Tampa Bay Rays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+17,Jake Rogers,Detroit Tigers,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Jake Rogers,Detroit Tigers,Jeffrey Springs,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+19,Jake Rogers,Detroit Tigers,Chris Sale,Boston Red Sox,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+20,Jake Rogers,Detroit Tigers,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+21,Jake Rogers,Detroit Tigers,Tanner Houck,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Jake Rogers,Detroit Tigers,Zack Kelly,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Jake Rogers,Detroit Tigers,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Jake Rogers,Detroit Tigers,JoJo Romero,St. Louis Cardinals,1,1,0,0,1,4,0,0,0,1.000,1.000,4.000,5.000
+25,Jake Rogers,Detroit Tigers,Jordan Montgomery,St. Louis Cardinals,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+26,Jake Rogers,Detroit Tigers,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Jake Rogers,Detroit Tigers,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Jake Rogers,Detroit Tigers,Drey Jameson,Arizona Diamondbacks,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+29,Jake Rogers,Detroit Tigers,Merrill Kelly,Arizona Diamondbacks,3,2,0,0,1,1,0,0,1,.667,.667,1.667,2.334
+30,Jake Rogers,Detroit Tigers,Austin Adams,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Jake Rogers,Detroit Tigers,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Jake Rogers,Detroit Tigers,Jose Ruiz,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+33,Jake Rogers,Detroit Tigers,Anthony Bass,Toronto Blue Jays,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+34,Jake Rogers,Detroit Tigers,Chris Bassitt,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+35,Jake Rogers,Detroit Tigers,Alek Manoah,Toronto Blue Jays,3,1,0,0,0,0,1,0,1,.333,.500,.333,.833
+36,Jake Rogers,Detroit Tigers,Adam Cimber,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Jake Rogers,Detroit Tigers,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Jake Rogers,Detroit Tigers,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Jake Rogers,Detroit Tigers,Tyler Wells,Baltimore Orioles,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+40,Jake Rogers,Detroit Tigers,Kyle Bradish,Baltimore Orioles,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+41,Jake Rogers,Detroit Tigers,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Jake Rogers,Detroit Tigers,Bryan Baker,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+43,Jake Rogers,Detroit Tigers,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Jake Rogers,Detroit Tigers,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Jake Rogers,Detroit Tigers,DL Hall,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Jake Rogers,Detroit Tigers,Dean Kremer,Baltimore Orioles,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+47,Jake Rogers,Detroit Tigers,Grayson Rodriguez,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+48,Jake Rogers,Detroit Tigers,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+49,Jake Rogers,Detroit Tigers,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+50,Jake Rogers,Detroit Tigers,Nick Martinez,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+51,Jake Rogers,Detroit Tigers,Jackson Wolf,San Diego Padres,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+52,Jake Rogers,Detroit Tigers,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Jake Rogers,Detroit Tigers,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Jake Rogers,Detroit Tigers,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Jake Rogers,Detroit Tigers,Seth Lugo,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+56,Jake Rogers,Detroit Tigers,Framber Valdez,Houston Astros,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+57,Jake Rogers,Detroit Tigers,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Jake Rogers,Detroit Tigers,Jorge Lopez,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+59,Jake Rogers,Detroit Tigers,Bailey Ober,Minnesota Twins,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+60,Jake Rogers,Detroit Tigers,Jordan Balazovic,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Jake Rogers,Detroit Tigers,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+62,Jake Rogers,Detroit Tigers,Brent Headrick,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Jake Rogers,Detroit Tigers,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Jake Rogers,Detroit Tigers,Kenta Maeda,Minnesota Twins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+65,Jake Rogers,Detroit Tigers,Emilio Pagan,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Jake Rogers,Detroit Tigers,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Jake Rogers,Detroit Tigers,Patrick Corbin,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Jake Rogers,Detroit Tigers,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Jake Rogers,Detroit Tigers,Josiah Gray,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Jake Rogers,Detroit Tigers,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Jake Rogers,Detroit Tigers,Jakob Junis,San Francisco Giants,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+72,Jake Rogers,Detroit Tigers,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Jake Rogers,Detroit Tigers,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Jake Rogers,Detroit Tigers,Tyler Rogers,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+75,Jake Rogers,Detroit Tigers,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Jake Rogers,Detroit Tigers,Joey Lucchesi,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Jake Rogers,Detroit Tigers,Justin Verlander,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+78,Jake Rogers,Detroit Tigers,Jimmy Yacabonis,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Jake Rogers,Detroit Tigers,Connor Seabold,Colorado Rockies,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+80,Jake Rogers,Detroit Tigers,Austin Gomber,Colorado Rockies,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+81,Jake Rogers,Detroit Tigers,Brad Hand,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+82,Jake Rogers,Detroit Tigers,Gavin Hollowell,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Jake Rogers,Detroit Tigers,Luis Castillo,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+84,Jake Rogers,Detroit Tigers,Logan Gilbert,Seattle Mariners,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+85,Jake Rogers,Detroit Tigers,Marco Gonzales,Seattle Mariners,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+86,Jake Rogers,Detroit Tigers,Bryce Miller,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+87,Jake Rogers,Detroit Tigers,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Jake Rogers,Detroit Tigers,Matt Festa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Jake Rogers,Detroit Tigers,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Jake Rogers,Detroit Tigers,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Jake Rogers,Detroit Tigers,Gabe Speier,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+92,Jake Rogers,Detroit Tigers,Juan Then,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+93,Jake Rogers,Detroit Tigers,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Jake Rogers,Detroit Tigers,Peyton Battenfield,Cleveland Guardians,2,0,0,0,0,0,2,0,1,.000,.500,.000,.500
+95,Jake Rogers,Detroit Tigers,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Jake Rogers,Detroit Tigers,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Jake Rogers,Detroit Tigers,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Jake Rogers,Detroit Tigers,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Jake Rogers,Detroit Tigers,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Jake Rogers,Detroit Tigers,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Jake Rogers,Detroit Tigers,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Jake Rogers,Detroit Tigers,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Jake Rogers,Detroit Tigers,Aaron Bummer,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Jake Rogers,Detroit Tigers,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Jake Rogers,Detroit Tigers,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Jake Rogers,Detroit Tigers,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Jake Rogers,Detroit Tigers,Lance Lynn,Chicago White Sox,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+108,Jake Rogers,Detroit Tigers,Freddy Peralta,Milwaukee Brewers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+109,Jake Rogers,Detroit Tigers,Eric Lauer,Milwaukee Brewers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+110,Jake Rogers,Detroit Tigers,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Jake Rogers,Detroit Tigers,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Jake Rogers,Detroit Tigers,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Jake Rogers,Detroit Tigers,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Jake Rogers,Detroit Tigers,Scott Barlow,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+115,Jake Rogers,Detroit Tigers,Max Castillo,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+116,Jake Rogers,Detroit Tigers,Taylor Clarke,Kansas City Royals,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+117,Jake Rogers,Detroit Tigers,Jordan Lyles,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+118,Jake Rogers,Detroit Tigers,Aroldis Chapman,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+119,Jake Rogers,Detroit Tigers,Dylan Coleman,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+120,Jake Rogers,Detroit Tigers,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Jake Rogers,Detroit Tigers,Daniel Lynch IV,Kansas City Royals,5,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Jake Rogers,Detroit Tigers,Mike Mayers,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Jake Rogers,Detroit Tigers,Ryan Yarbrough,Kansas City Royals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+124,Jake Rogers,Detroit Tigers,JP Sears,Oakland Athletics,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+125,Jake Rogers,Detroit Tigers,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Jake Rogers,Detroit Tigers,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Jake Rogers,Detroit Tigers,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Jake Rogers,Detroit Tigers,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

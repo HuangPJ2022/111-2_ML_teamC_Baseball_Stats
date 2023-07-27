@@ -1,0 +1,196 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Xander Bogaerts,San Diego Padres,Michael Tonkin,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,Xander Bogaerts,San Diego Padres,Jesse Chavez,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+2,Xander Bogaerts,San Diego Padres,Charlie Morton,Atlanta Braves,5,2,0,0,0,0,1,0,0,.400,.500,.400,.900
+3,Xander Bogaerts,San Diego Padres,Dylan Dodd,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+4,Xander Bogaerts,San Diego Padres,Max Fried,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+5,Xander Bogaerts,San Diego Padres,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Xander Bogaerts,San Diego Padres,Dylan Lee,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Xander Bogaerts,San Diego Padres,Lucas Luetge,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+8,Xander Bogaerts,San Diego Padres,A.J. Minter,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Xander Bogaerts,San Diego Padres,Jared Shuster,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Xander Bogaerts,San Diego Padres,Spencer Strider,Atlanta Braves,4,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+11,Xander Bogaerts,San Diego Padres,Kirby Yates,Atlanta Braves,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+12,Xander Bogaerts,San Diego Padres,Justin Bruihl,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+13,Xander Bogaerts,San Diego Padres,Brusdar Graterol,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+14,Xander Bogaerts,San Diego Padres,Dustin May,Los Angeles Dodgers,6,2,1,0,0,0,0,0,0,.333,.333,.500,.833
+15,Xander Bogaerts,San Diego Padres,Julio Urias,Los Angeles Dodgers,5,1,1,0,0,1,1,0,0,.200,.333,.400,.733
+16,Xander Bogaerts,San Diego Padres,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Xander Bogaerts,San Diego Padres,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Xander Bogaerts,San Diego Padres,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Xander Bogaerts,San Diego Padres,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+20,Xander Bogaerts,San Diego Padres,Shelby Miller,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+21,Xander Bogaerts,San Diego Padres,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Xander Bogaerts,San Diego Padres,Wander Suero,Los Angeles Dodgers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+23,Xander Bogaerts,San Diego Padres,Jaime Barria,Los Angeles Angels,2,2,1,0,1,3,0,0,0,1.000,1.000,3.000,4.000
+24,Xander Bogaerts,San Diego Padres,Victor Mederos,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+25,Xander Bogaerts,San Diego Padres,Gerardo Reyes,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+26,Xander Bogaerts,San Diego Padres,Shohei Ohtani,Los Angeles Angels,2,1,0,0,1,2,1,0,0,.500,.667,2.000,2.667
+27,Xander Bogaerts,San Diego Padres,Sam Bachman,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+28,Xander Bogaerts,San Diego Padres,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Xander Bogaerts,San Diego Padres,Patrick Sandoval,Los Angeles Angels,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+30,Xander Bogaerts,San Diego Padres,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Xander Bogaerts,San Diego Padres,Jacob Webb,Los Angeles Angels,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+32,Xander Bogaerts,San Diego Padres,Zack Littell,Tampa Bay Rays,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+33,Xander Bogaerts,San Diego Padres,Yonny Chirinos,Tampa Bay Rays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+34,Xander Bogaerts,San Diego Padres,Jake Diekman,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Xander Bogaerts,San Diego Padres,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+36,Xander Bogaerts,San Diego Padres,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+37,Xander Bogaerts,San Diego Padres,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Xander Bogaerts,San Diego Padres,Corey Kluber,Boston Red Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+39,Xander Bogaerts,San Diego Padres,James Paxton,Boston Red Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Xander Bogaerts,San Diego Padres,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Xander Bogaerts,San Diego Padres,Joely Rodriguez,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Xander Bogaerts,San Diego Padres,Chris Sale,Boston Red Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Xander Bogaerts,San Diego Padres,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Xander Bogaerts,San Diego Padres,Kyle Nelson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+45,Xander Bogaerts,San Diego Padres,Zac Gallen,Arizona Diamondbacks,6,3,1,0,1,2,0,0,1,.500,.500,1.167,1.667
+46,Xander Bogaerts,San Diego Padres,Ryne Nelson,Arizona Diamondbacks,5,2,1,0,1,2,0,0,1,.400,.400,1.200,1.600
+47,Xander Bogaerts,San Diego Padres,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Xander Bogaerts,San Diego Padres,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Xander Bogaerts,San Diego Padres,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+50,Xander Bogaerts,San Diego Padres,Merrill Kelly,Arizona Diamondbacks,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+51,Xander Bogaerts,San Diego Padres,Scott McGough,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Xander Bogaerts,San Diego Padres,Anthony Misiewicz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Xander Bogaerts,San Diego Padres,Peter Solomon,Arizona Diamondbacks,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+54,Xander Bogaerts,San Diego Padres,Alexis Diaz,Cincinnati Reds,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+55,Xander Bogaerts,San Diego Padres,Luke Weaver,Cincinnati Reds,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+56,Xander Bogaerts,San Diego Padres,Andrew Abbott,Cincinnati Reds,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+57,Xander Bogaerts,San Diego Padres,Graham Ashcraft,Cincinnati Reds,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+58,Xander Bogaerts,San Diego Padres,Luis Cessa,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Xander Bogaerts,San Diego Padres,Buck Farmer,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Xander Bogaerts,San Diego Padres,Ian Gibaut,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Xander Bogaerts,San Diego Padres,Casey Legumina,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Xander Bogaerts,San Diego Padres,Alec Mills,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+63,Xander Bogaerts,San Diego Padres,Eduardo Salazar,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Xander Bogaerts,San Diego Padres,Reiver Sanmartin,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Xander Bogaerts,San Diego Padres,Brandon Williamson,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Xander Bogaerts,San Diego Padres,Chris Bassitt,Toronto Blue Jays,3,3,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+67,Xander Bogaerts,San Diego Padres,Jose Berrios,Toronto Blue Jays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+68,Xander Bogaerts,San Diego Padres,Jay Jackson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Xander Bogaerts,San Diego Padres,Alek Manoah,Toronto Blue Jays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+70,Xander Bogaerts,San Diego Padres,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Xander Bogaerts,San Diego Padres,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Xander Bogaerts,San Diego Padres,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Xander Bogaerts,San Diego Padres,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Xander Bogaerts,San Diego Padres,Dylan Covey,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+75,Xander Bogaerts,San Diego Padres,Cristopher Sanchez,Philadelphia Phillies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+76,Xander Bogaerts,San Diego Padres,Matt Strahm,Philadelphia Phillies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+77,Xander Bogaerts,San Diego Padres,Taijuan Walker,Philadelphia Phillies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+78,Xander Bogaerts,San Diego Padres,Ranger Suarez,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+79,Xander Bogaerts,San Diego Padres,Zack Wheeler,Philadelphia Phillies,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+80,Xander Bogaerts,San Diego Padres,Andrew Bellatti,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Xander Bogaerts,San Diego Padres,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Xander Bogaerts,San Diego Padres,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Xander Bogaerts,San Diego Padres,Gregory Soto,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+84,Xander Bogaerts,San Diego Padres,Justin Steele,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+85,Xander Bogaerts,San Diego Padres,Jameson Taillon,Chicago Cubs,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+86,Xander Bogaerts,San Diego Padres,Drew Smyly,Chicago Cubs,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+87,Xander Bogaerts,San Diego Padres,Adbert Alzolay,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Xander Bogaerts,San Diego Padres,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Xander Bogaerts,San Diego Padres,Michael Fulmer,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+90,Xander Bogaerts,San Diego Padres,Keegan Thompson,Chicago Cubs,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+91,Xander Bogaerts,San Diego Padres,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Xander Bogaerts,San Diego Padres,Pablo Lopez,Minnesota Twins,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+93,Xander Bogaerts,San Diego Padres,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Xander Bogaerts,San Diego Padres,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Xander Bogaerts,San Diego Padres,Griffin Jax,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+96,Xander Bogaerts,San Diego Padres,Bailey Ober,Minnesota Twins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Xander Bogaerts,San Diego Padres,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Xander Bogaerts,San Diego Padres,Brock Stewart,Minnesota Twins,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+99,Xander Bogaerts,San Diego Padres,Louie Varland,Minnesota Twins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+100,Xander Bogaerts,San Diego Padres,Dylan Floro,Miami Marlins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+101,Xander Bogaerts,San Diego Padres,Braxton Garrett,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+102,Xander Bogaerts,San Diego Padres,Sandy Alcantara,Miami Marlins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+103,Xander Bogaerts,San Diego Padres,Jesus Luzardo,Miami Marlins,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+104,Xander Bogaerts,San Diego Padres,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Xander Bogaerts,San Diego Padres,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Xander Bogaerts,San Diego Padres,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Xander Bogaerts,San Diego Padres,Andres Machado,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+108,Xander Bogaerts,San Diego Padres,Erasmo Ramirez,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+109,Xander Bogaerts,San Diego Padres,Patrick Corbin,Washington Nationals,3,2,0,0,1,3,0,0,0,.667,.667,1.667,2.334
+110,Xander Bogaerts,San Diego Padres,MacKenzie Gore,Washington Nationals,5,2,0,0,1,2,0,0,3,.400,.400,1.000,1.400
+111,Xander Bogaerts,San Diego Padres,Josiah Gray,Washington Nationals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+112,Xander Bogaerts,San Diego Padres,Hunter Harvey,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+113,Xander Bogaerts,San Diego Padres,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Xander Bogaerts,San Diego Padres,Chad Kuhl,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Xander Bogaerts,San Diego Padres,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Xander Bogaerts,San Diego Padres,Thaddeus Ward,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Xander Bogaerts,San Diego Padres,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Xander Bogaerts,San Diego Padres,Trevor Williams,Washington Nationals,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+119,Xander Bogaerts,San Diego Padres,Jakob Junis,San Francisco Giants,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+120,Xander Bogaerts,San Diego Padres,Anthony DeSclafani,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+121,Xander Bogaerts,San Diego Padres,Tyler Rogers,San Francisco Giants,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+122,Xander Bogaerts,San Diego Padres,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Xander Bogaerts,San Diego Padres,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+124,Xander Bogaerts,San Diego Padres,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+125,Xander Bogaerts,San Diego Padres,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Xander Bogaerts,San Diego Padres,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Xander Bogaerts,San Diego Padres,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+128,Xander Bogaerts,San Diego Padres,Taylor Rogers,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Xander Bogaerts,San Diego Padres,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+130,Xander Bogaerts,San Diego Padres,Keaton Winn,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+131,Xander Bogaerts,San Diego Padres,Denyi Reyes,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+132,Xander Bogaerts,San Diego Padres,Dennis Santana,New York Mets,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+133,Xander Bogaerts,San Diego Padres,Tylor Megill,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+134,Xander Bogaerts,San Diego Padres,Adam Ottavino,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+135,Xander Bogaerts,San Diego Padres,Max Scherzer,New York Mets,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+136,Xander Bogaerts,San Diego Padres,John Curtiss,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+137,Xander Bogaerts,San Diego Padres,Trevor Gott,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Xander Bogaerts,San Diego Padres,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Xander Bogaerts,San Diego Padres,David Peterson,New York Mets,6,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+140,Xander Bogaerts,San Diego Padres,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Xander Bogaerts,San Diego Padres,David Robertson,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+142,Xander Bogaerts,San Diego Padres,Justin Verlander,New York Mets,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+143,Xander Bogaerts,San Diego Padres,German Marquez,Colorado Rockies,3,3,2,0,0,0,0,0,0,1.000,1.000,1.667,2.667
+144,Xander Bogaerts,San Diego Padres,Jake Bird,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+145,Xander Bogaerts,San Diego Padres,Austin Gomber,Colorado Rockies,6,3,1,0,1,2,0,0,0,.500,.500,1.167,1.667
+146,Xander Bogaerts,San Diego Padres,Jose Urena,Colorado Rockies,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+147,Xander Bogaerts,San Diego Padres,Dinelson Lamet,Colorado Rockies,3,1,1,0,0,0,1,0,0,.333,.500,.667,1.167
+148,Xander Bogaerts,San Diego Padres,Kyle Freeland,Colorado Rockies,4,1,0,0,0,0,1,0,1,.250,.400,.250,.650
+149,Xander Bogaerts,San Diego Padres,Daniel Bard,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+150,Xander Bogaerts,San Diego Padres,Ty Blach,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+151,Xander Bogaerts,San Diego Padres,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Xander Bogaerts,San Diego Padres,Brad Hand,Colorado Rockies,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+153,Xander Bogaerts,San Diego Padres,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+154,Xander Bogaerts,San Diego Padres,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Xander Bogaerts,San Diego Padres,Brent Suter,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Xander Bogaerts,San Diego Padres,Randy Vasquez,New York Yankees,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+157,Xander Bogaerts,San Diego Padres,Ryan Weber,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+158,Xander Bogaerts,San Diego Padres,Gerrit Cole,New York Yankees,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+159,Xander Bogaerts,San Diego Padres,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Xander Bogaerts,San Diego Padres,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Xander Bogaerts,San Diego Padres,Aaron Civale,Cleveland Guardians,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+162,Xander Bogaerts,San Diego Padres,Logan Allen,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+163,Xander Bogaerts,San Diego Padres,Tanner Bibee,Cleveland Guardians,2,1,1,0,0,2,0,0,0,.500,.333,1.000,1.333
+164,Xander Bogaerts,San Diego Padres,Cody Morris,Cleveland Guardians,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+165,Xander Bogaerts,San Diego Padres,Nick Sandlin,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+166,Xander Bogaerts,San Diego Padres,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Xander Bogaerts,San Diego Padres,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Xander Bogaerts,San Diego Padres,Cody Bolton,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+169,Xander Bogaerts,San Diego Padres,Luis L. Ortiz,Pittsburgh Pirates,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+170,Xander Bogaerts,San Diego Padres,Rich Hill,Pittsburgh Pirates,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+171,Xander Bogaerts,San Diego Padres,Mitch Keller,Pittsburgh Pirates,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+172,Xander Bogaerts,San Diego Padres,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Xander Bogaerts,San Diego Padres,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Xander Bogaerts,San Diego Padres,Hoby Milner,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+175,Xander Bogaerts,San Diego Padres,Bryse Wilson,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+176,Xander Bogaerts,San Diego Padres,Freddy Peralta,Milwaukee Brewers,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+177,Xander Bogaerts,San Diego Padres,Colin Rea,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+178,Xander Bogaerts,San Diego Padres,Peter Strzelecki,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+179,Xander Bogaerts,San Diego Padres,Wade Miley,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+180,Xander Bogaerts,San Diego Padres,Javy Guerra,Milwaukee Brewers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+181,Xander Bogaerts,San Diego Padres,Eric Lauer,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+182,Xander Bogaerts,San Diego Padres,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+183,Xander Bogaerts,San Diego Padres,Reese Olson,Detroit Tigers,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+184,Xander Bogaerts,San Diego Padres,Mason Englert,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+185,Xander Bogaerts,San Diego Padres,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+186,Xander Bogaerts,San Diego Padres,Matt Manning,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+187,Xander Bogaerts,San Diego Padres,Brendan White,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+188,Xander Bogaerts,San Diego Padres,Jose Cuas,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+189,Xander Bogaerts,San Diego Padres,Carlos Hernandez,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+190,Xander Bogaerts,San Diego Padres,Josh Staumont,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+191,Xander Bogaerts,San Diego Padres,Brady Singer,Kansas City Royals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+192,Xander Bogaerts,San Diego Padres,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+193,Xander Bogaerts,San Diego Padres,Brad Keller,Kansas City Royals,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+194,Xander Bogaerts,San Diego Padres,Mike Mayers,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500

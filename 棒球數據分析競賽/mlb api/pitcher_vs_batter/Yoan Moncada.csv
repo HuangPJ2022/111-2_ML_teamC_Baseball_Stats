@@ -1,0 +1,81 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Yoan Moncada,Chicago White Sox,Tony Gonsolin,Los Angeles Dodgers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+1,Yoan Moncada,Chicago White Sox,Tayler Scott,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Yoan Moncada,Chicago White Sox,Jaime Barria,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+3,Yoan Moncada,Chicago White Sox,Tyler Anderson,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+4,Yoan Moncada,Chicago White Sox,Griffin Canning,Los Angeles Angels,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+5,Yoan Moncada,Chicago White Sox,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Yoan Moncada,Chicago White Sox,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Yoan Moncada,Chicago White Sox,Chase Silseth,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+8,Yoan Moncada,Chicago White Sox,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Yoan Moncada,Chicago White Sox,Luis Garcia,Houston Astros,2,2,2,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+10,Yoan Moncada,Chicago White Sox,Seth Martinez,Houston Astros,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+11,Yoan Moncada,Chicago White Sox,Cristian Javier,Houston Astros,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+12,Yoan Moncada,Chicago White Sox,Bryan Abreu,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.667,.500,1.167
+13,Yoan Moncada,Chicago White Sox,Brandon Bielak,Houston Astros,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+14,Yoan Moncada,Chicago White Sox,Phil Maton,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+15,Yoan Moncada,Chicago White Sox,Rafael Montero,Houston Astros,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+16,Yoan Moncada,Chicago White Sox,Jose Urquidy,Houston Astros,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+17,Yoan Moncada,Chicago White Sox,Framber Valdez,Houston Astros,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+18,Yoan Moncada,Chicago White Sox,Ronel Blanco,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Yoan Moncada,Chicago White Sox,Hunter Brown,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+20,Yoan Moncada,Chicago White Sox,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Yoan Moncada,Chicago White Sox,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Yoan Moncada,Chicago White Sox,Ryan Pressly,Houston Astros,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+23,Yoan Moncada,Chicago White Sox,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Yoan Moncada,Chicago White Sox,Andrew Nardi,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+25,Yoan Moncada,Chicago White Sox,A.J. Puk,Miami Marlins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+26,Yoan Moncada,Chicago White Sox,Sandy Alcantara,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Yoan Moncada,Chicago White Sox,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Yoan Moncada,Chicago White Sox,Braxton Garrett,Miami Marlins,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+29,Yoan Moncada,Chicago White Sox,Eury Perez,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Yoan Moncada,Chicago White Sox,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Yoan Moncada,Chicago White Sox,Sean Hjelle,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+32,Yoan Moncada,Chicago White Sox,Anthony DeSclafani,San Francisco Giants,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+33,Yoan Moncada,Chicago White Sox,Logan Webb,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+34,Yoan Moncada,Chicago White Sox,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Yoan Moncada,Chicago White Sox,Clarke Schmidt,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+36,Yoan Moncada,Chicago White Sox,Luis Severino,New York Yankees,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+37,Yoan Moncada,Chicago White Sox,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Yoan Moncada,Chicago White Sox,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Yoan Moncada,Chicago White Sox,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Yoan Moncada,Chicago White Sox,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Yoan Moncada,Chicago White Sox,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Yoan Moncada,Chicago White Sox,Randy Vasquez,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Yoan Moncada,Chicago White Sox,Emmanuel Clase,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+44,Yoan Moncada,Chicago White Sox,Xzavion Curry,Cleveland Guardians,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+45,Yoan Moncada,Chicago White Sox,Peyton Battenfield,Cleveland Guardians,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+46,Yoan Moncada,Chicago White Sox,Shane Bieber,Cleveland Guardians,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+47,Yoan Moncada,Chicago White Sox,Logan Allen,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Yoan Moncada,Chicago White Sox,Enyel De Los Santos,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+49,Yoan Moncada,Chicago White Sox,Hunter Gaddis,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+50,Yoan Moncada,Chicago White Sox,Sam Hentges,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Yoan Moncada,Chicago White Sox,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Yoan Moncada,Chicago White Sox,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Yoan Moncada,Chicago White Sox,Cal Quantrill,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+54,Yoan Moncada,Chicago White Sox,Rich Hill,Pittsburgh Pirates,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+55,Yoan Moncada,Chicago White Sox,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Yoan Moncada,Chicago White Sox,Wil Crowe,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Yoan Moncada,Chicago White Sox,Chase De Jong,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Yoan Moncada,Chicago White Sox,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Yoan Moncada,Chicago White Sox,Johan Oviedo,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Yoan Moncada,Chicago White Sox,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Yoan Moncada,Chicago White Sox,Vince Velasquez,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Yoan Moncada,Chicago White Sox,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Yoan Moncada,Chicago White Sox,Amir Garrett,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+64,Yoan Moncada,Chicago White Sox,Jordan Lyles,Kansas City Royals,2,1,0,0,0,2,1,0,0,.500,.667,.500,1.167
+65,Yoan Moncada,Chicago White Sox,Zack Greinke,Kansas City Royals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+66,Yoan Moncada,Chicago White Sox,Max Castillo,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Yoan Moncada,Chicago White Sox,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Yoan Moncada,Chicago White Sox,Jackson Kowar,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Yoan Moncada,Chicago White Sox,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Yoan Moncada,Chicago White Sox,Tyler Alexander,Detroit Tigers,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+71,Yoan Moncada,Chicago White Sox,Mason Englert,Detroit Tigers,2,1,0,1,0,1,0,0,0,.500,.500,1.500,2.000
+72,Yoan Moncada,Chicago White Sox,Joey Wentz,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+73,Yoan Moncada,Chicago White Sox,Michael Lorenzen,Detroit Tigers,6,1,0,0,0,0,0,0,3,.167,.167,.167,.334
+74,Yoan Moncada,Chicago White Sox,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Yoan Moncada,Chicago White Sox,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Yoan Moncada,Chicago White Sox,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Yoan Moncada,Chicago White Sox,Alex Lange,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+78,Yoan Moncada,Chicago White Sox,Reese Olson,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Yoan Moncada,Chicago White Sox,Will Vest,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

@@ -1,0 +1,6 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Drew Maggi,Pittsburgh Pirates,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Drew Maggi,Pittsburgh Pirates,Julio Urias,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Drew Maggi,Pittsburgh Pirates,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Drew Maggi,Pittsburgh Pirates,Hobie Harris,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+4,Drew Maggi,Pittsburgh Pirates,Lane Thomas,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000

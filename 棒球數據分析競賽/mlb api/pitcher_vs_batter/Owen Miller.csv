@@ -1,0 +1,155 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Owen Miller,Milwaukee Brewers,Daysbel Hernandez,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Owen Miller,Milwaukee Brewers,Allan Winans,Atlanta Braves,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+2,Owen Miller,Milwaukee Brewers,Bryce Elder,Atlanta Braves,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+3,Owen Miller,Milwaukee Brewers,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Owen Miller,Milwaukee Brewers,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Owen Miller,Milwaukee Brewers,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Owen Miller,Milwaukee Brewers,Clayton Kershaw,Los Angeles Dodgers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+7,Owen Miller,Milwaukee Brewers,Reid Detmers,Los Angeles Angels,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+8,Owen Miller,Milwaukee Brewers,Tyler Anderson,Los Angeles Angels,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+9,Owen Miller,Milwaukee Brewers,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Owen Miller,Milwaukee Brewers,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Owen Miller,Milwaukee Brewers,Chase Silseth,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Owen Miller,Milwaukee Brewers,Jose Suarez,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+13,Owen Miller,Milwaukee Brewers,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Owen Miller,Milwaukee Brewers,Zack Littell,Tampa Bay Rays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+15,Owen Miller,Milwaukee Brewers,Jason Adam,Tampa Bay Rays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+16,Owen Miller,Milwaukee Brewers,Zach Eflin,Tampa Bay Rays,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+17,Owen Miller,Milwaukee Brewers,Cooper Criswell,Tampa Bay Rays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+18,Owen Miller,Milwaukee Brewers,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Owen Miller,Milwaukee Brewers,Shane McClanahan,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Owen Miller,Milwaukee Brewers,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Owen Miller,Milwaukee Brewers,Nick Pivetta,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+22,Owen Miller,Milwaukee Brewers,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Owen Miller,Milwaukee Brewers,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Owen Miller,Milwaukee Brewers,Giovanny Gallegos,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+25,Owen Miller,Milwaukee Brewers,Ryan Helsley,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Owen Miller,Milwaukee Brewers,James Naile,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+27,Owen Miller,Milwaukee Brewers,Matthew Liberatore,St. Louis Cardinals,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+28,Owen Miller,Milwaukee Brewers,Jordan Montgomery,St. Louis Cardinals,6,2,1,0,0,0,0,0,1,.333,.333,.500,.833
+29,Owen Miller,Milwaukee Brewers,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Owen Miller,Milwaukee Brewers,Drew VerHagen,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Owen Miller,Milwaukee Brewers,Kyle Nelson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+32,Owen Miller,Milwaukee Brewers,Zac Gallen,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Owen Miller,Milwaukee Brewers,Merrill Kelly,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Owen Miller,Milwaukee Brewers,Alex Young,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+35,Owen Miller,Milwaukee Brewers,Buck Farmer,Cincinnati Reds,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+36,Owen Miller,Milwaukee Brewers,Lucas Sims,Cincinnati Reds,2,1,0,0,0,1,0,0,0,.500,.333,.500,.833
+37,Owen Miller,Milwaukee Brewers,Andrew Abbott,Cincinnati Reds,8,3,1,0,0,1,0,0,0,.375,.375,.500,.875
+38,Owen Miller,Milwaukee Brewers,Brandon Williamson,Cincinnati Reds,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+39,Owen Miller,Milwaukee Brewers,Ben Lively,Cincinnati Reds,7,2,0,0,0,1,2,0,2,.286,.444,.286,.730
+40,Owen Miller,Milwaukee Brewers,Graham Ashcraft,Cincinnati Reds,6,1,0,0,0,1,0,0,2,.167,.167,.167,.334
+41,Owen Miller,Milwaukee Brewers,Fernando Cruz,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Owen Miller,Milwaukee Brewers,Daniel Duarte,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Owen Miller,Milwaukee Brewers,Ian Gibaut,Cincinnati Reds,2,0,0,0,0,0,1,1,1,.000,.333,.000,.333
+44,Owen Miller,Milwaukee Brewers,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Owen Miller,Milwaukee Brewers,Eduardo Salazar,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Owen Miller,Milwaukee Brewers,Tony Santillan,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+47,Owen Miller,Milwaukee Brewers,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Owen Miller,Milwaukee Brewers,Tim Mayza,Toronto Blue Jays,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+49,Owen Miller,Milwaukee Brewers,Trevor Richards,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+50,Owen Miller,Milwaukee Brewers,Kevin Gausman,Toronto Blue Jays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+51,Owen Miller,Milwaukee Brewers,Yusei Kikuchi,Toronto Blue Jays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+52,Owen Miller,Milwaukee Brewers,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Owen Miller,Milwaukee Brewers,Adam Cimber,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Owen Miller,Milwaukee Brewers,Alek Manoah,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Owen Miller,Milwaukee Brewers,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Owen Miller,Milwaukee Brewers,Kyle Bradish,Baltimore Orioles,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+57,Owen Miller,Milwaukee Brewers,Dean Kremer,Baltimore Orioles,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+58,Owen Miller,Milwaukee Brewers,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Owen Miller,Milwaukee Brewers,Yennier Cano,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Owen Miller,Milwaukee Brewers,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Owen Miller,Milwaukee Brewers,Bruce Zimmermann,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Owen Miller,Milwaukee Brewers,Dylan Covey,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+63,Owen Miller,Milwaukee Brewers,Andrew Bellatti,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Owen Miller,Milwaukee Brewers,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Owen Miller,Milwaukee Brewers,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Owen Miller,Milwaukee Brewers,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Owen Miller,Milwaukee Brewers,Cristopher Sanchez,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Owen Miller,Milwaukee Brewers,Taijuan Walker,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Owen Miller,Milwaukee Brewers,Daniel Palencia,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+70,Owen Miller,Milwaukee Brewers,Kyle Hendricks,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+71,Owen Miller,Milwaukee Brewers,Marcus Stroman,Chicago Cubs,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+72,Owen Miller,Milwaukee Brewers,Justin Steele,Chicago Cubs,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+73,Owen Miller,Milwaukee Brewers,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Owen Miller,Milwaukee Brewers,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Owen Miller,Milwaukee Brewers,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+76,Owen Miller,Milwaukee Brewers,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+77,Owen Miller,Milwaukee Brewers,Michael Rucker,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Owen Miller,Milwaukee Brewers,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+79,Owen Miller,Milwaukee Brewers,Nabil Crismatt,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+80,Owen Miller,Milwaukee Brewers,Michael Wacha,San Diego Padres,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+81,Owen Miller,Milwaukee Brewers,Brandon Dixon,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Owen Miller,Milwaukee Brewers,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Owen Miller,Milwaukee Brewers,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Owen Miller,Milwaukee Brewers,J.P. France,Houston Astros,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,Owen Miller,Milwaukee Brewers,Rafael Montero,Houston Astros,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+86,Owen Miller,Milwaukee Brewers,Brandon Bielak,Houston Astros,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+87,Owen Miller,Milwaukee Brewers,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Owen Miller,Milwaukee Brewers,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Owen Miller,Milwaukee Brewers,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Owen Miller,Milwaukee Brewers,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Owen Miller,Milwaukee Brewers,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Owen Miller,Milwaukee Brewers,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Owen Miller,Milwaukee Brewers,Bailey Ober,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Owen Miller,Milwaukee Brewers,Josh Winder,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Owen Miller,Milwaukee Brewers,John Brebbia,San Francisco Giants,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+96,Owen Miller,Milwaukee Brewers,Alex Cobb,San Francisco Giants,5,2,0,0,0,2,0,0,1,.400,.500,.400,.900
+97,Owen Miller,Milwaukee Brewers,Sean Manaea,San Francisco Giants,3,1,0,0,0,1,0,0,0,.333,.250,.333,.583
+98,Owen Miller,Milwaukee Brewers,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Owen Miller,Milwaukee Brewers,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Owen Miller,Milwaukee Brewers,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Owen Miller,Milwaukee Brewers,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+102,Owen Miller,Milwaukee Brewers,Logan Webb,San Francisco Giants,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+103,Owen Miller,Milwaukee Brewers,Alex Wood,San Francisco Giants,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+104,Owen Miller,Milwaukee Brewers,Grant Hartwig,New York Mets,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+105,Owen Miller,Milwaukee Brewers,Dominic Leone,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+106,Owen Miller,Milwaukee Brewers,David Peterson,New York Mets,5,3,0,0,0,1,0,0,0,.600,.600,.600,1.200
+107,Owen Miller,Milwaukee Brewers,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Owen Miller,Milwaukee Brewers,Adam Ottavino,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+109,Owen Miller,Milwaukee Brewers,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Owen Miller,Milwaukee Brewers,Dennis Santana,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+111,Owen Miller,Milwaukee Brewers,Kodai Senga,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+112,Owen Miller,Milwaukee Brewers,Justin Verlander,New York Mets,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+113,Owen Miller,Milwaukee Brewers,Kyle Freeland,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+114,Owen Miller,Milwaukee Brewers,Brent Suter,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+115,Owen Miller,Milwaukee Brewers,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Owen Miller,Milwaukee Brewers,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Owen Miller,Milwaukee Brewers,Tayler Saucedo,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+118,Owen Miller,Milwaukee Brewers,Chris Flexen,Seattle Mariners,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+119,Owen Miller,Milwaukee Brewers,Logan Gilbert,Seattle Mariners,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+120,Owen Miller,Milwaukee Brewers,Matt Brash,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Owen Miller,Milwaukee Brewers,Marco Gonzales,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Owen Miller,Milwaukee Brewers,Trevor Stephan,Cleveland Guardians,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+123,Owen Miller,Milwaukee Brewers,Aaron Civale,Cleveland Guardians,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+124,Owen Miller,Milwaukee Brewers,Xzavion Curry,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Owen Miller,Milwaukee Brewers,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Owen Miller,Milwaukee Brewers,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Owen Miller,Milwaukee Brewers,Osvaldo Bido,Pittsburgh Pirates,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+128,Owen Miller,Milwaukee Brewers,Dauri Moreta,Pittsburgh Pirates,2,1,1,0,0,1,1,0,1,.500,.667,1.000,1.667
+129,Owen Miller,Milwaukee Brewers,Carmen Mlodzinski,Pittsburgh Pirates,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+130,Owen Miller,Milwaukee Brewers,Yerry De Los Santos,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Owen Miller,Milwaukee Brewers,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Owen Miller,Milwaukee Brewers,Rich Hill,Pittsburgh Pirates,5,0,0,0,0,0,1,0,3,.000,.167,.000,.167
+133,Owen Miller,Milwaukee Brewers,Luis L. Ortiz,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Owen Miller,Milwaukee Brewers,Max Castillo,Kansas City Royals,2,2,1,0,1,1,0,0,0,1.000,1.000,3.000,4.000
+135,Owen Miller,Milwaukee Brewers,Carlos Hernandez,Kansas City Royals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+136,Owen Miller,Milwaukee Brewers,Jordan Lyles,Kansas City Royals,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+137,Owen Miller,Milwaukee Brewers,Josh Staumont,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+138,Owen Miller,Milwaukee Brewers,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Owen Miller,Milwaukee Brewers,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,Owen Miller,Milwaukee Brewers,Zack Greinke,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Owen Miller,Milwaukee Brewers,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+142,Owen Miller,Milwaukee Brewers,Matthew Boyd,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+143,Owen Miller,Milwaukee Brewers,Spencer Turnbull,Detroit Tigers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+144,Owen Miller,Milwaukee Brewers,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Owen Miller,Milwaukee Brewers,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Owen Miller,Milwaukee Brewers,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Owen Miller,Milwaukee Brewers,Sam Moll,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+148,Owen Miller,Milwaukee Brewers,JP Sears,Oakland Athletics,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+149,Owen Miller,Milwaukee Brewers,Luis Medina,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+150,Owen Miller,Milwaukee Brewers,Paul Blackburn,Oakland Athletics,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+151,Owen Miller,Milwaukee Brewers,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+152,Owen Miller,Milwaukee Brewers,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+153,Owen Miller,Milwaukee Brewers,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

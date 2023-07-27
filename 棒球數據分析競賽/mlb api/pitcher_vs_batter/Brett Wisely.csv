@@ -1,0 +1,72 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Brett Wisely,San Francisco Giants,Zac Gallen,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Brett Wisely,San Francisco Giants,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Brett Wisely,San Francisco Giants,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Brett Wisely,San Francisco Giants,Brandon Pfaadt,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Brett Wisely,San Francisco Giants,Daniel Duarte,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+5,Brett Wisely,San Francisco Giants,Brandon Williamson,Cincinnati Reds,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+6,Brett Wisely,San Francisco Giants,Andrew Abbott,Cincinnati Reds,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+7,Brett Wisely,San Francisco Giants,Graham Ashcraft,Cincinnati Reds,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+8,Brett Wisely,San Francisco Giants,Fernando Cruz,Cincinnati Reds,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+9,Brett Wisely,San Francisco Giants,Alexis Diaz,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Brett Wisely,San Francisco Giants,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Brett Wisely,San Francisco Giants,Derek Law,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Brett Wisely,San Francisco Giants,Tony Santillan,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+13,Brett Wisely,San Francisco Giants,Luke Weaver,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+14,Brett Wisely,San Francisco Giants,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Brett Wisely,San Francisco Giants,Dean Kremer,Baltimore Orioles,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+16,Brett Wisely,San Francisco Giants,Tyler Wells,Baltimore Orioles,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+17,Brett Wisely,San Francisco Giants,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Brett Wisely,San Francisco Giants,Yu Darvish,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Brett Wisely,San Francisco Giants,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Brett Wisely,San Francisco Giants,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Brett Wisely,San Francisco Giants,Brandon Bielak,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Brett Wisely,San Francisco Giants,Ronel Blanco,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Brett Wisely,San Francisco Giants,Hunter Brown,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Brett Wisely,San Francisco Giants,Matt Gage,Houston Astros,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Brett Wisely,San Francisco Giants,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Brett Wisely,San Francisco Giants,Cole Sands,Minnesota Twins,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+27,Brett Wisely,San Francisco Giants,Brock Stewart,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,Brett Wisely,San Francisco Giants,Sonny Gray,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+29,Brett Wisely,San Francisco Giants,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Brett Wisely,San Francisco Giants,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Brett Wisely,San Francisco Giants,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Brett Wisely,San Francisco Giants,Joe Ryan,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Brett Wisely,San Francisco Giants,Carl Edwards Jr.,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+34,Brett Wisely,San Francisco Giants,Patrick Corbin,Washington Nationals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+35,Brett Wisely,San Francisco Giants,Jake Irvin,Washington Nationals,3,1,1,0,0,0,1,0,0,.333,.500,.667,1.167
+36,Brett Wisely,San Francisco Giants,Josiah Gray,Washington Nationals,6,1,0,0,0,0,0,0,0,.167,.167,.167,.334
+37,Brett Wisely,San Francisco Giants,MacKenzie Gore,Washington Nationals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+38,Brett Wisely,San Francisco Giants,Hobie Harris,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+39,Brett Wisely,San Francisco Giants,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Brett Wisely,San Francisco Giants,Amos Willingham,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Brett Wisely,San Francisco Giants,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Brett Wisely,San Francisco Giants,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Brett Wisely,San Francisco Giants,Joey Lucchesi,New York Mets,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+44,Brett Wisely,San Francisco Giants,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Brett Wisely,San Francisco Giants,Tylor Megill,New York Mets,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+46,Brett Wisely,San Francisco Giants,Brooks Raley,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Brett Wisely,San Francisco Giants,Kodai Senga,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Brett Wisely,San Francisco Giants,Edwin Uceta,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Brett Wisely,San Francisco Giants,Kyle Freeland,Colorado Rockies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+50,Brett Wisely,San Francisco Giants,Connor Seabold,Colorado Rockies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+51,Brett Wisely,San Francisco Giants,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Brett Wisely,San Francisco Giants,Bryan Woo,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Brett Wisely,San Francisco Giants,Osvaldo Bido,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+54,Brett Wisely,San Francisco Giants,Yohan Ramirez,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Brett Wisely,San Francisco Giants,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Brett Wisely,San Francisco Giants,Ryan Borucki,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Brett Wisely,San Francisco Giants,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Brett Wisely,San Francisco Giants,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Brett Wisely,San Francisco Giants,Chris Owings,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Brett Wisely,San Francisco Giants,Tyson Miller,Milwaukee Brewers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+61,Brett Wisely,San Francisco Giants,Adrian Houser,Milwaukee Brewers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+62,Brett Wisely,San Francisco Giants,Freddy Peralta,Milwaukee Brewers,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+63,Brett Wisely,San Francisco Giants,Ethan Small,Milwaukee Brewers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+64,Brett Wisely,San Francisco Giants,Corbin Burnes,Milwaukee Brewers,3,1,0,0,0,0,2,0,1,.333,.600,.333,.933
+65,Brett Wisely,San Francisco Giants,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Brett Wisely,San Francisco Giants,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+67,Brett Wisely,San Francisco Giants,Elvis Peguero,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+68,Brett Wisely,San Francisco Giants,Colin Rea,Milwaukee Brewers,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Brett Wisely,San Francisco Giants,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Brett Wisely,San Francisco Giants,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

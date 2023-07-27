@@ -1,0 +1,125 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Andy Ibanez,Detroit Tigers,Nick Anderson,Atlanta Braves,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Andy Ibanez,Detroit Tigers,Charlie Morton,Atlanta Braves,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+2,Andy Ibanez,Detroit Tigers,Raisel Iglesias,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+3,Andy Ibanez,Detroit Tigers,Collin McHugh,Atlanta Braves,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+4,Andy Ibanez,Detroit Tigers,Dylan Dodd,Atlanta Braves,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+5,Andy Ibanez,Detroit Tigers,Spencer Strider,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+6,Andy Ibanez,Detroit Tigers,Joe Barlow,Texas Rangers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+7,Andy Ibanez,Detroit Tigers,Brock Burke,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Andy Ibanez,Detroit Tigers,Andrew Heaney,Texas Rangers,3,1,0,0,1,3,0,0,2,.333,.333,1.333,1.666
+9,Andy Ibanez,Detroit Tigers,Dane Dunning,Texas Rangers,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+10,Andy Ibanez,Detroit Tigers,Martin Perez,Texas Rangers,5,1,0,0,1,1,0,0,1,.200,.200,.800,1.000
+11,Andy Ibanez,Detroit Tigers,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Andy Ibanez,Detroit Tigers,Cody Bradford,Texas Rangers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+13,Andy Ibanez,Detroit Tigers,Nathan Eovaldi,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Andy Ibanez,Detroit Tigers,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Andy Ibanez,Detroit Tigers,John King,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Andy Ibanez,Detroit Tigers,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Andy Ibanez,Detroit Tigers,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Andy Ibanez,Detroit Tigers,Giovanny Gallegos,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+19,Andy Ibanez,Detroit Tigers,Steven Matz,St. Louis Cardinals,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+20,Andy Ibanez,Detroit Tigers,Jordan Montgomery,St. Louis Cardinals,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+21,Andy Ibanez,Detroit Tigers,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Andy Ibanez,Detroit Tigers,Andrew Chafin,Arizona Diamondbacks,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+23,Andy Ibanez,Detroit Tigers,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Andy Ibanez,Detroit Tigers,Merrill Kelly,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Andy Ibanez,Detroit Tigers,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Andy Ibanez,Detroit Tigers,Trevor Richards,Toronto Blue Jays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+27,Andy Ibanez,Detroit Tigers,Chris Bassitt,Toronto Blue Jays,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+28,Andy Ibanez,Detroit Tigers,Alek Manoah,Toronto Blue Jays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+29,Andy Ibanez,Detroit Tigers,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Andy Ibanez,Detroit Tigers,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Andy Ibanez,Detroit Tigers,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Andy Ibanez,Detroit Tigers,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Andy Ibanez,Detroit Tigers,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Andy Ibanez,Detroit Tigers,DL Hall,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Andy Ibanez,Detroit Tigers,Grayson Rodriguez,Baltimore Orioles,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+36,Andy Ibanez,Detroit Tigers,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Andy Ibanez,Detroit Tigers,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+38,Andy Ibanez,Detroit Tigers,Aaron Nola,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+39,Andy Ibanez,Detroit Tigers,Joe Musgrove,San Diego Padres,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+40,Andy Ibanez,Detroit Tigers,Jackson Wolf,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+41,Andy Ibanez,Detroit Tigers,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Andy Ibanez,Detroit Tigers,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Andy Ibanez,Detroit Tigers,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Andy Ibanez,Detroit Tigers,Louie Varland,Minnesota Twins,2,2,2,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+45,Andy Ibanez,Detroit Tigers,Griffin Jax,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+46,Andy Ibanez,Detroit Tigers,Jovani Moran,Minnesota Twins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+47,Andy Ibanez,Detroit Tigers,Jordan Balazovic,Minnesota Twins,4,1,0,0,0,1,0,0,1,.250,.250,.250,.500
+48,Andy Ibanez,Detroit Tigers,Sonny Gray,Minnesota Twins,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+49,Andy Ibanez,Detroit Tigers,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Andy Ibanez,Detroit Tigers,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+51,Andy Ibanez,Detroit Tigers,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Andy Ibanez,Detroit Tigers,Joe Ryan,Minnesota Twins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Andy Ibanez,Detroit Tigers,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Andy Ibanez,Detroit Tigers,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+55,Andy Ibanez,Detroit Tigers,Josiah Gray,Washington Nationals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Andy Ibanez,Detroit Tigers,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Andy Ibanez,Detroit Tigers,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Andy Ibanez,Detroit Tigers,Jake Irvin,Washington Nationals,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+59,Andy Ibanez,Detroit Tigers,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Andy Ibanez,Detroit Tigers,John Curtiss,New York Mets,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+61,Andy Ibanez,Detroit Tigers,Max Scherzer,New York Mets,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+62,Andy Ibanez,Detroit Tigers,Justin Verlander,New York Mets,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+63,Andy Ibanez,Detroit Tigers,Jose Butto,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Andy Ibanez,Detroit Tigers,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Andy Ibanez,Detroit Tigers,Joey Lucchesi,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Andy Ibanez,Detroit Tigers,Jake Bird,Colorado Rockies,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+67,Andy Ibanez,Detroit Tigers,Ty Blach,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+68,Andy Ibanez,Detroit Tigers,Austin Gomber,Colorado Rockies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+69,Andy Ibanez,Detroit Tigers,Connor Seabold,Colorado Rockies,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+70,Andy Ibanez,Detroit Tigers,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Andy Ibanez,Detroit Tigers,Gavin Hollowell,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Andy Ibanez,Detroit Tigers,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Andy Ibanez,Detroit Tigers,Matt Koch,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Andy Ibanez,Detroit Tigers,Peter Lambert,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Andy Ibanez,Detroit Tigers,Logan Gilbert,Seattle Mariners,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+76,Andy Ibanez,Detroit Tigers,Marco Gonzales,Seattle Mariners,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+77,Andy Ibanez,Detroit Tigers,Matt Brash,Seattle Mariners,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+78,Andy Ibanez,Detroit Tigers,Isaiah Campbell,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Andy Ibanez,Detroit Tigers,George Kirby,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Andy Ibanez,Detroit Tigers,Bryce Miller,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Andy Ibanez,Detroit Tigers,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Andy Ibanez,Detroit Tigers,Tanner Bibee,Cleveland Guardians,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+83,Andy Ibanez,Detroit Tigers,Eli Morgan,Cleveland Guardians,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+84,Andy Ibanez,Detroit Tigers,Peyton Battenfield,Cleveland Guardians,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+85,Andy Ibanez,Detroit Tigers,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Andy Ibanez,Detroit Tigers,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Andy Ibanez,Detroit Tigers,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Andy Ibanez,Detroit Tigers,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Andy Ibanez,Detroit Tigers,Rich Hill,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Andy Ibanez,Detroit Tigers,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Andy Ibanez,Detroit Tigers,Luis L. Ortiz,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Andy Ibanez,Detroit Tigers,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Andy Ibanez,Detroit Tigers,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Andy Ibanez,Detroit Tigers,Mike Clevinger,Chicago White Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+95,Andy Ibanez,Detroit Tigers,Jesse Scholtens,Chicago White Sox,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+96,Andy Ibanez,Detroit Tigers,Michael Kopech,Chicago White Sox,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+97,Andy Ibanez,Detroit Tigers,Garrett Crochet,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+98,Andy Ibanez,Detroit Tigers,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Andy Ibanez,Detroit Tigers,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Andy Ibanez,Detroit Tigers,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Andy Ibanez,Detroit Tigers,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Andy Ibanez,Detroit Tigers,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Andy Ibanez,Detroit Tigers,Jose Cuas,Kansas City Royals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+104,Andy Ibanez,Detroit Tigers,Jordan Lyles,Kansas City Royals,4,2,0,0,0,0,1,0,0,.500,.600,.500,1.100
+105,Andy Ibanez,Detroit Tigers,Daniel Lynch IV,Kansas City Royals,6,2,0,0,0,0,0,0,0,.333,.333,.333,.666
+106,Andy Ibanez,Detroit Tigers,Brady Singer,Kansas City Royals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+107,Andy Ibanez,Detroit Tigers,Zack Greinke,Kansas City Royals,4,1,0,0,0,1,0,0,0,.250,.250,.250,.500
+108,Andy Ibanez,Detroit Tigers,Scott Barlow,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Andy Ibanez,Detroit Tigers,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Andy Ibanez,Detroit Tigers,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Andy Ibanez,Detroit Tigers,Dylan Coleman,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Andy Ibanez,Detroit Tigers,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Andy Ibanez,Detroit Tigers,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Andy Ibanez,Detroit Tigers,Josh Taylor,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Andy Ibanez,Detroit Tigers,Nick Wittgren,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Andy Ibanez,Detroit Tigers,Ryan Yarbrough,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Andy Ibanez,Detroit Tigers,Hogan Harris,Oakland Athletics,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+118,Andy Ibanez,Detroit Tigers,Rico Garcia,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Andy Ibanez,Detroit Tigers,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Andy Ibanez,Detroit Tigers,Jace Peterson,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Andy Ibanez,Detroit Tigers,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Andy Ibanez,Detroit Tigers,JP Sears,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Andy Ibanez,Detroit Tigers,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

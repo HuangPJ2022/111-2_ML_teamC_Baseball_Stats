@@ -1,0 +1,126 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Alek Thomas,Arizona Diamondbacks,Michael Tonkin,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Alek Thomas,Arizona Diamondbacks,Bryce Elder,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+2,Alek Thomas,Arizona Diamondbacks,Ben Heller,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Alek Thomas,Arizona Diamondbacks,Raisel Iglesias,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Alek Thomas,Arizona Diamondbacks,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Alek Thomas,Arizona Diamondbacks,Collin McHugh,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Alek Thomas,Arizona Diamondbacks,Charlie Morton,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Alek Thomas,Arizona Diamondbacks,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Alek Thomas,Arizona Diamondbacks,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Alek Thomas,Arizona Diamondbacks,Jon Gray,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Alek Thomas,Arizona Diamondbacks,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+11,Alek Thomas,Arizona Diamondbacks,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Alek Thomas,Arizona Diamondbacks,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Alek Thomas,Arizona Diamondbacks,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Alek Thomas,Arizona Diamondbacks,Alex Vesia,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+15,Alek Thomas,Arizona Diamondbacks,Michael Grove,Los Angeles Dodgers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+16,Alek Thomas,Arizona Diamondbacks,Andre Jackson,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+17,Alek Thomas,Arizona Diamondbacks,Noah Syndergaard,Los Angeles Dodgers,4,2,0,1,0,0,0,0,1,.500,.500,1.000,1.500
+18,Alek Thomas,Arizona Diamondbacks,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Alek Thomas,Arizona Diamondbacks,Caleb Ferguson,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Alek Thomas,Arizona Diamondbacks,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Alek Thomas,Arizona Diamondbacks,Clayton Kershaw,Los Angeles Dodgers,4,0,0,0,0,0,0,0,0,.000,.200,.000,.200
+22,Alek Thomas,Arizona Diamondbacks,Dustin May,Los Angeles Dodgers,3,0,0,0,0,0,1,0,0,.000,.250,.000,.250
+23,Alek Thomas,Arizona Diamondbacks,Shelby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Alek Thomas,Arizona Diamondbacks,Reid Detmers,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+25,Alek Thomas,Arizona Diamondbacks,Griffin Canning,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+26,Alek Thomas,Arizona Diamondbacks,Victor Mederos,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+27,Alek Thomas,Arizona Diamondbacks,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Alek Thomas,Arizona Diamondbacks,Taj Bradley,Tampa Bay Rays,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+29,Alek Thomas,Arizona Diamondbacks,Zach Eflin,Tampa Bay Rays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+30,Alek Thomas,Arizona Diamondbacks,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Alek Thomas,Arizona Diamondbacks,Yonny Chirinos,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Alek Thomas,Arizona Diamondbacks,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Alek Thomas,Arizona Diamondbacks,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Alek Thomas,Arizona Diamondbacks,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Alek Thomas,Arizona Diamondbacks,Jake Woodford,St. Louis Cardinals,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+36,Alek Thomas,Arizona Diamondbacks,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Alek Thomas,Arizona Diamondbacks,Jack Flaherty,St. Louis Cardinals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+38,Alek Thomas,Arizona Diamondbacks,Jordan Montgomery,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Alek Thomas,Arizona Diamondbacks,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Alek Thomas,Arizona Diamondbacks,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Alek Thomas,Arizona Diamondbacks,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Alek Thomas,Arizona Diamondbacks,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Alek Thomas,Arizona Diamondbacks,Fernando Cruz,Cincinnati Reds,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+44,Alek Thomas,Arizona Diamondbacks,Ben Lively,Cincinnati Reds,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+45,Alek Thomas,Arizona Diamondbacks,Alexis Diaz,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Alek Thomas,Arizona Diamondbacks,Jose Berrios,Toronto Blue Jays,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+47,Alek Thomas,Arizona Diamondbacks,Chris Bassitt,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Alek Thomas,Arizona Diamondbacks,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Alek Thomas,Arizona Diamondbacks,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Alek Thomas,Arizona Diamondbacks,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Alek Thomas,Arizona Diamondbacks,Michael Wacha,San Diego Padres,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+52,Alek Thomas,Arizona Diamondbacks,Brent Honeywell,San Diego Padres,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+53,Alek Thomas,Arizona Diamondbacks,Nabil Crismatt,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+54,Alek Thomas,Arizona Diamondbacks,Yu Darvish,San Diego Padres,3,0,0,0,0,0,1,0,0,.000,.250,.000,.250
+55,Alek Thomas,Arizona Diamondbacks,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Alek Thomas,Arizona Diamondbacks,Tim Hill,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Alek Thomas,Arizona Diamondbacks,Ray Kerr,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Alek Thomas,Arizona Diamondbacks,Reiss Knehr,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+59,Alek Thomas,Arizona Diamondbacks,Seth Lugo,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Alek Thomas,Arizona Diamondbacks,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Alek Thomas,Arizona Diamondbacks,Chi Chi Gonzalez,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+62,Alek Thomas,Arizona Diamondbacks,Sandy Alcantara,Miami Marlins,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+63,Alek Thomas,Arizona Diamondbacks,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Alek Thomas,Arizona Diamondbacks,Edward Cabrera,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Alek Thomas,Arizona Diamondbacks,Steven Okert,Miami Marlins,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+66,Alek Thomas,Arizona Diamondbacks,Trevor Rogers,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+67,Alek Thomas,Arizona Diamondbacks,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Alek Thomas,Arizona Diamondbacks,Carl Edwards Jr.,Washington Nationals,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+69,Alek Thomas,Arizona Diamondbacks,Mason Thompson,Washington Nationals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+70,Alek Thomas,Arizona Diamondbacks,Erasmo Ramirez,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+71,Alek Thomas,Arizona Diamondbacks,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Alek Thomas,Arizona Diamondbacks,MacKenzie Gore,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Alek Thomas,Arizona Diamondbacks,Josiah Gray,Washington Nationals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+74,Alek Thomas,Arizona Diamondbacks,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Alek Thomas,Arizona Diamondbacks,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Alek Thomas,Arizona Diamondbacks,Tristan Beck,San Francisco Giants,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+77,Alek Thomas,Arizona Diamondbacks,Tyler Rogers,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+78,Alek Thomas,Arizona Diamondbacks,Anthony DeSclafani,San Francisco Giants,4,2,2,0,0,0,0,0,1,.500,.500,1.000,1.500
+79,Alek Thomas,Arizona Diamondbacks,Alex Cobb,San Francisco Giants,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+80,Alek Thomas,Arizona Diamondbacks,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Alek Thomas,Arizona Diamondbacks,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Alek Thomas,Arizona Diamondbacks,Logan Webb,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Alek Thomas,Arizona Diamondbacks,Carlos Carrasco,New York Mets,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+84,Alek Thomas,Arizona Diamondbacks,Max Scherzer,New York Mets,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+85,Alek Thomas,Arizona Diamondbacks,Trevor Gott,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Alek Thomas,Arizona Diamondbacks,Kodai Senga,New York Mets,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Alek Thomas,Arizona Diamondbacks,Jake Bird,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+88,Alek Thomas,Arizona Diamondbacks,Noah Davis,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+89,Alek Thomas,Arizona Diamondbacks,Nick Mears,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+90,Alek Thomas,Arizona Diamondbacks,Kyle Freeland,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Alek Thomas,Arizona Diamondbacks,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Alek Thomas,Arizona Diamondbacks,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Alek Thomas,Arizona Diamondbacks,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Alek Thomas,Arizona Diamondbacks,Dinelson Lamet,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+95,Alek Thomas,Arizona Diamondbacks,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Alek Thomas,Arizona Diamondbacks,Connor Seabold,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Alek Thomas,Arizona Diamondbacks,David Bednar,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+98,Alek Thomas,Arizona Diamondbacks,Ryan Borucki,Pittsburgh Pirates,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+99,Alek Thomas,Arizona Diamondbacks,Colin Holderman,Pittsburgh Pirates,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+100,Alek Thomas,Arizona Diamondbacks,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Alek Thomas,Arizona Diamondbacks,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Alek Thomas,Arizona Diamondbacks,Trevor Megill,Milwaukee Brewers,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+103,Alek Thomas,Arizona Diamondbacks,Joel Payamps,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+104,Alek Thomas,Arizona Diamondbacks,Elvis Peguero,Milwaukee Brewers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+105,Alek Thomas,Arizona Diamondbacks,Gus Varland,Milwaukee Brewers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+106,Alek Thomas,Arizona Diamondbacks,Janson Junk,Milwaukee Brewers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+107,Alek Thomas,Arizona Diamondbacks,Corbin Burnes,Milwaukee Brewers,5,2,0,0,1,2,0,0,0,.400,.400,1.000,1.400
+108,Alek Thomas,Arizona Diamondbacks,Adrian Houser,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Alek Thomas,Arizona Diamondbacks,Wade Miley,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Alek Thomas,Arizona Diamondbacks,Hoby Milner,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Alek Thomas,Arizona Diamondbacks,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Alek Thomas,Arizona Diamondbacks,Julio Teheran,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Alek Thomas,Arizona Diamondbacks,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Alek Thomas,Arizona Diamondbacks,Brady Singer,Kansas City Royals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+115,Alek Thomas,Arizona Diamondbacks,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Alek Thomas,Arizona Diamondbacks,Taylor Clarke,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+117,Alek Thomas,Arizona Diamondbacks,Amir Garrett,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+118,Alek Thomas,Arizona Diamondbacks,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,Alek Thomas,Arizona Diamondbacks,Brad Keller,Kansas City Royals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+120,Alek Thomas,Arizona Diamondbacks,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Alek Thomas,Arizona Diamondbacks,Ryan Yarbrough,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Alek Thomas,Arizona Diamondbacks,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Alek Thomas,Arizona Diamondbacks,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Alek Thomas,Arizona Diamondbacks,Drew Rucinski,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

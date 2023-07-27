@@ -1,0 +1,82 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Wil Myers,Cincinnati Reds,A.J. Minter,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Wil Myers,Cincinnati Reds,Bryce Elder,Atlanta Braves,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+2,Wil Myers,Cincinnati Reds,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Wil Myers,Cincinnati Reds,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Wil Myers,Cincinnati Reds,Lucas Luetge,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Wil Myers,Cincinnati Reds,Spencer Strider,Atlanta Braves,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+6,Wil Myers,Cincinnati Reds,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Wil Myers,Cincinnati Reds,Kyle Wright,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+8,Wil Myers,Cincinnati Reds,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Wil Myers,Cincinnati Reds,Nathan Eovaldi,Texas Rangers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+10,Wil Myers,Cincinnati Reds,Dane Dunning,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+11,Wil Myers,Cincinnati Reds,Taj Bradley,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+12,Wil Myers,Cincinnati Reds,Jalen Beeks,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Wil Myers,Cincinnati Reds,Yonny Chirinos,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Wil Myers,Cincinnati Reds,Garrett Cleavinger,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Wil Myers,Cincinnati Reds,Cooper Criswell,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+16,Wil Myers,Cincinnati Reds,Giovanny Gallegos,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+17,Wil Myers,Cincinnati Reds,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Wil Myers,Cincinnati Reds,Jordan Montgomery,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Wil Myers,Cincinnati Reds,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+20,Wil Myers,Cincinnati Reds,Adam Wainwright,St. Louis Cardinals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+21,Wil Myers,Cincinnati Reds,Jose Alvarado,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Wil Myers,Cincinnati Reds,Josh Harrison,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Wil Myers,Cincinnati Reds,Craig Kimbrel,Philadelphia Phillies,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+24,Wil Myers,Cincinnati Reds,McKinley Moore,Philadelphia Phillies,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+25,Wil Myers,Cincinnati Reds,Matt Strahm,Philadelphia Phillies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+26,Wil Myers,Cincinnati Reds,Andrew Bellatti,Philadelphia Phillies,4,2,0,0,1,4,0,0,1,.500,.500,1.250,1.750
+27,Wil Myers,Cincinnati Reds,Taijuan Walker,Philadelphia Phillies,3,1,1,0,0,0,2,0,0,.333,.600,.667,1.267
+28,Wil Myers,Cincinnati Reds,Bailey Falter,Philadelphia Phillies,4,1,0,0,0,1,0,0,1,.250,.250,.250,.500
+29,Wil Myers,Cincinnati Reds,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Wil Myers,Cincinnati Reds,Seranthony Dominguez,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Wil Myers,Cincinnati Reds,Aaron Nola,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Wil Myers,Cincinnati Reds,Andrew Vasquez,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Wil Myers,Cincinnati Reds,Zack Wheeler,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+34,Wil Myers,Cincinnati Reds,Julian Merryweather,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+35,Wil Myers,Cincinnati Reds,Drew Smyly,Chicago Cubs,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+36,Wil Myers,Cincinnati Reds,Adbert Alzolay,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Wil Myers,Cincinnati Reds,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Wil Myers,Cincinnati Reds,Hayden Wesneski,Chicago Cubs,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+39,Wil Myers,Cincinnati Reds,Braxton Garrett,Miami Marlins,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+40,Wil Myers,Cincinnati Reds,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Wil Myers,Cincinnati Reds,Bryan Hoeing,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Wil Myers,Cincinnati Reds,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Wil Myers,Cincinnati Reds,Eury Perez,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Wil Myers,Cincinnati Reds,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Wil Myers,Cincinnati Reds,Stephen Nogosek,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+46,Wil Myers,Cincinnati Reds,Adam Ottavino,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Wil Myers,Cincinnati Reds,David Peterson,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+48,Wil Myers,Cincinnati Reds,Justin Verlander,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Wil Myers,Cincinnati Reds,Jake Bird,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+50,Wil Myers,Cincinnati Reds,Chase Anderson,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+51,Wil Myers,Cincinnati Reds,Fernando Abad,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Wil Myers,Cincinnati Reds,Daniel Bard,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+53,Wil Myers,Cincinnati Reds,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Wil Myers,Cincinnati Reds,Brad Hand,Colorado Rockies,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+55,Wil Myers,Cincinnati Reds,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Wil Myers,Cincinnati Reds,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Wil Myers,Cincinnati Reds,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Wil Myers,Cincinnati Reds,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Wil Myers,Cincinnati Reds,Clarke Schmidt,New York Yankees,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+60,Wil Myers,Cincinnati Reds,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Wil Myers,Cincinnati Reds,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Wil Myers,Cincinnati Reds,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Wil Myers,Cincinnati Reds,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Wil Myers,Cincinnati Reds,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Wil Myers,Cincinnati Reds,Colin Holderman,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+66,Wil Myers,Cincinnati Reds,David Bednar,Pittsburgh Pirates,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+67,Wil Myers,Cincinnati Reds,Vince Velasquez,Pittsburgh Pirates,5,1,0,0,0,0,0,0,2,.200,.200,.200,.400
+68,Wil Myers,Cincinnati Reds,Roansy Contreras,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Wil Myers,Cincinnati Reds,Wil Crowe,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Wil Myers,Cincinnati Reds,Chase De Jong,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+71,Wil Myers,Cincinnati Reds,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Wil Myers,Cincinnati Reds,Rich Hill,Pittsburgh Pirates,5,0,0,0,0,0,0,0,4,.000,.000,.000,.000
+73,Wil Myers,Cincinnati Reds,Mitch Keller,Pittsburgh Pirates,5,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+74,Wil Myers,Cincinnati Reds,Dauri Moreta,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+75,Wil Myers,Cincinnati Reds,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Wil Myers,Cincinnati Reds,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Wil Myers,Cincinnati Reds,Michael Kopech,Chicago White Sox,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+78,Wil Myers,Cincinnati Reds,Mike Clevinger,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Wil Myers,Cincinnati Reds,Alex Colome,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Wil Myers,Cincinnati Reds,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

@@ -1,0 +1,15 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Brian Serven,Colorado Rockies,Jack Flaherty,St. Louis Cardinals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+1,Brian Serven,Colorado Rockies,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Brian Serven,Colorado Rockies,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Brian Serven,Colorado Rockies,Zack Wheeler,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Brian Serven,Colorado Rockies,Seth Lugo,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+5,Brian Serven,Colorado Rockies,Trevor Williams,Washington Nationals,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+6,Brian Serven,Colorado Rockies,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Brian Serven,Colorado Rockies,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Brian Serven,Colorado Rockies,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+9,Brian Serven,Colorado Rockies,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Brian Serven,Colorado Rockies,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Brian Serven,Colorado Rockies,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Brian Serven,Colorado Rockies,Yohan Ramirez,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Brian Serven,Colorado Rockies,Wade Miley,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

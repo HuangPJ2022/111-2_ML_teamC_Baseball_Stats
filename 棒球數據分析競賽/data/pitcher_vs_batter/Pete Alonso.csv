@@ -1,0 +1,185 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Pete Alonso,New York Mets,Max Fried,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+1,Pete Alonso,New York Mets,Bryce Elder,Atlanta Braves,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+2,Pete Alonso,New York Mets,Spencer Strider,Atlanta Braves,3,1,0,0,1,3,0,0,1,.333,.333,1.333,1.666
+3,Pete Alonso,New York Mets,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Pete Alonso,New York Mets,Collin McHugh,Atlanta Braves,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+5,Pete Alonso,New York Mets,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Pete Alonso,New York Mets,Charlie Morton,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.250,.000,.250
+7,Pete Alonso,New York Mets,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Pete Alonso,New York Mets,Yency Almonte,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Pete Alonso,New York Mets,Phil Bickford,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+10,Pete Alonso,New York Mets,Dustin May,Los Angeles Dodgers,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+11,Pete Alonso,New York Mets,Tony Gonsolin,Los Angeles Dodgers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+12,Pete Alonso,New York Mets,Ryan Brasier,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Pete Alonso,New York Mets,Brusdar Graterol,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Pete Alonso,New York Mets,Clayton Kershaw,Los Angeles Dodgers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+15,Pete Alonso,New York Mets,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Pete Alonso,New York Mets,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Pete Alonso,New York Mets,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Pete Alonso,New York Mets,Noah Syndergaard,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Pete Alonso,New York Mets,Julio Urias,Los Angeles Dodgers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+20,Pete Alonso,New York Mets,Taj Bradley,Tampa Bay Rays,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+21,Pete Alonso,New York Mets,Pete Fairbanks,Tampa Bay Rays,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+22,Pete Alonso,New York Mets,Yonny Chirinos,Tampa Bay Rays,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+23,Pete Alonso,New York Mets,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Pete Alonso,New York Mets,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Pete Alonso,New York Mets,Josh Fleming,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Pete Alonso,New York Mets,Trevor Kelley,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Pete Alonso,New York Mets,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Pete Alonso,New York Mets,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Pete Alonso,New York Mets,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Pete Alonso,New York Mets,Brennan Bernardino,Boston Red Sox,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+31,Pete Alonso,New York Mets,Richard Bleier,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+32,Pete Alonso,New York Mets,Justin Garza,Boston Red Sox,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+33,Pete Alonso,New York Mets,James Paxton,Boston Red Sox,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+34,Pete Alonso,New York Mets,Kutter Crawford,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Pete Alonso,New York Mets,Joe Jacques,Boston Red Sox,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+36,Pete Alonso,New York Mets,Chris Murphy,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Pete Alonso,New York Mets,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Pete Alonso,New York Mets,Matthew Liberatore,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Pete Alonso,New York Mets,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Pete Alonso,New York Mets,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Pete Alonso,New York Mets,Ryne Nelson,Arizona Diamondbacks,2,2,0,0,1,3,0,0,0,1.000,1.000,2.500,3.500
+42,Pete Alonso,New York Mets,Austin Adams,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+43,Pete Alonso,New York Mets,Zach Davies,Arizona Diamondbacks,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+44,Pete Alonso,New York Mets,Tommy Henry,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Pete Alonso,New York Mets,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+46,Pete Alonso,New York Mets,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Pete Alonso,New York Mets,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Pete Alonso,New York Mets,Hunter Greene,Cincinnati Reds,1,1,0,0,1,1,2,0,0,1.000,1.000,4.000,5.000
+49,Pete Alonso,New York Mets,Luke Weaver,Cincinnati Reds,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+50,Pete Alonso,New York Mets,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Pete Alonso,New York Mets,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Pete Alonso,New York Mets,Derek Law,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+53,Pete Alonso,New York Mets,Casey Legumina,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Pete Alonso,New York Mets,Ben Lively,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Pete Alonso,New York Mets,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+56,Pete Alonso,New York Mets,Jordan Romano,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+57,Pete Alonso,New York Mets,Nate Pearson,Toronto Blue Jays,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+58,Pete Alonso,New York Mets,Chris Bassitt,Toronto Blue Jays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Pete Alonso,New York Mets,Jose Berrios,Toronto Blue Jays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Pete Alonso,New York Mets,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Pete Alonso,New York Mets,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Pete Alonso,New York Mets,Jose Alvarado,Philadelphia Phillies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+63,Pete Alonso,New York Mets,Aaron Nola,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+64,Pete Alonso,New York Mets,Zack Wheeler,Philadelphia Phillies,3,1,0,0,0,2,0,0,1,.333,.333,.333,.666
+65,Pete Alonso,New York Mets,Taijuan Walker,Philadelphia Phillies,4,1,1,0,0,0,1,0,1,.250,.400,.500,.900
+66,Pete Alonso,New York Mets,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Pete Alonso,New York Mets,Craig Kimbrel,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+68,Pete Alonso,New York Mets,Yunior Marte,Philadelphia Phillies,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+69,Pete Alonso,New York Mets,Cristopher Sanchez,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Pete Alonso,New York Mets,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Pete Alonso,New York Mets,Ranger Suarez,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Pete Alonso,New York Mets,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Pete Alonso,New York Mets,Kyle Hendricks,Chicago Cubs,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+74,Pete Alonso,New York Mets,Michael Rucker,Chicago Cubs,1,1,0,0,1,2,1,0,0,1.000,1.000,4.000,5.000
+75,Pete Alonso,New York Mets,Drew Smyly,Chicago Cubs,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+76,Pete Alonso,New York Mets,Marcus Stroman,Chicago Cubs,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+77,Pete Alonso,New York Mets,Jeremiah Estrada,Chicago Cubs,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+78,Pete Alonso,New York Mets,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Pete Alonso,New York Mets,Ryan Weathers,San Diego Padres,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+80,Pete Alonso,New York Mets,Blake Snell,San Diego Padres,6,2,0,0,1,1,0,0,2,.333,.333,.833,1.166
+81,Pete Alonso,New York Mets,Yu Darvish,San Diego Padres,4,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+82,Pete Alonso,New York Mets,Luis Garcia,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Pete Alonso,New York Mets,Josh Hader,San Diego Padres,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+84,Pete Alonso,New York Mets,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+85,Pete Alonso,New York Mets,Nick Martinez,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+86,Pete Alonso,New York Mets,Adrian Morejon,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Pete Alonso,New York Mets,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+88,Pete Alonso,New York Mets,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Pete Alonso,New York Mets,Shawn Dubin,Houston Astros,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+90,Pete Alonso,New York Mets,Rafael Montero,Houston Astros,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+91,Pete Alonso,New York Mets,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Pete Alonso,New York Mets,Hunter Brown,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Pete Alonso,New York Mets,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Pete Alonso,New York Mets,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Pete Alonso,New York Mets,Ryan Pressly,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+96,Pete Alonso,New York Mets,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+97,Pete Alonso,New York Mets,Erasmo Ramirez,Washington Nationals,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+98,Pete Alonso,New York Mets,Andres Machado,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+99,Pete Alonso,New York Mets,Mason Thompson,Washington Nationals,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+100,Pete Alonso,New York Mets,Patrick Corbin,Washington Nationals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+101,Pete Alonso,New York Mets,Cory Abbott,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+102,Pete Alonso,New York Mets,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Pete Alonso,New York Mets,MacKenzie Gore,Washington Nationals,4,0,0,0,0,0,1,0,1,.000,.200,.000,.200
+104,Pete Alonso,New York Mets,Josiah Gray,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+105,Pete Alonso,New York Mets,Hunter Harvey,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+106,Pete Alonso,New York Mets,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,2,.000,.333,.000,.333
+107,Pete Alonso,New York Mets,Thaddeus Ward,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+108,Pete Alonso,New York Mets,Trevor Williams,Washington Nationals,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Pete Alonso,New York Mets,Daniel Castano,Miami Marlins,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+110,Pete Alonso,New York Mets,Andrew Nardi,Miami Marlins,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+111,Pete Alonso,New York Mets,A.J. Puk,Miami Marlins,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+112,Pete Alonso,New York Mets,Braxton Garrett,Miami Marlins,5,2,0,0,0,1,0,0,1,.400,.400,.400,.800
+113,Pete Alonso,New York Mets,Trevor Rogers,Miami Marlins,3,1,0,0,1,2,2,0,0,.333,.600,1.333,1.933
+114,Pete Alonso,New York Mets,Huascar Brazoban,Miami Marlins,5,1,0,0,0,1,0,0,2,.200,.200,.200,.400
+115,Pete Alonso,New York Mets,Sandy Alcantara,Miami Marlins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+116,Pete Alonso,New York Mets,Matt Barnes,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Pete Alonso,New York Mets,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,2,0,1,.000,.500,.000,.500
+118,Pete Alonso,New York Mets,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Pete Alonso,New York Mets,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Pete Alonso,New York Mets,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Pete Alonso,New York Mets,Ryan Walker,San Francisco Giants,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+122,Pete Alonso,New York Mets,Sean Hjelle,San Francisco Giants,2,1,0,0,0,2,0,0,1,.500,.500,.500,1.000
+123,Pete Alonso,New York Mets,Sean Manaea,San Francisco Giants,2,1,0,0,1,2,2,0,1,.500,.750,2.000,2.750
+124,Pete Alonso,New York Mets,Anthony DeSclafani,San Francisco Giants,3,1,0,0,1,2,0,0,2,.333,.500,1.333,1.833
+125,Pete Alonso,New York Mets,Tyler Rogers,San Francisco Giants,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+126,Pete Alonso,New York Mets,Tristan Beck,San Francisco Giants,4,1,0,0,0,2,0,0,1,.250,.250,.250,.500
+127,Pete Alonso,New York Mets,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Pete Alonso,New York Mets,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Pete Alonso,New York Mets,Alex Cobb,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Pete Alonso,New York Mets,Ross Stripling,San Francisco Giants,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Pete Alonso,New York Mets,Logan Webb,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+132,Pete Alonso,New York Mets,Alex Wood,San Francisco Giants,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+133,Pete Alonso,New York Mets,Chase Anderson,Colorado Rockies,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+134,Pete Alonso,New York Mets,Peter Lambert,Colorado Rockies,2,1,0,1,0,0,0,0,0,.500,.500,1.500,2.000
+135,Pete Alonso,New York Mets,Austin Gomber,Colorado Rockies,5,2,1,0,0,1,0,0,0,.400,.400,.600,1.000
+136,Pete Alonso,New York Mets,Brent Suter,Colorado Rockies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+137,Pete Alonso,New York Mets,Jake Bird,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+138,Pete Alonso,New York Mets,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+139,Pete Alonso,New York Mets,Ryan Feltner,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+140,Pete Alonso,New York Mets,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+141,Pete Alonso,New York Mets,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Pete Alonso,New York Mets,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Pete Alonso,New York Mets,Nick Mears,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+144,Pete Alonso,New York Mets,Connor Seabold,Colorado Rockies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+145,Pete Alonso,New York Mets,Antonio Senzatela,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Pete Alonso,New York Mets,James Karinchak,Cleveland Guardians,1,1,0,0,1,4,0,0,0,1.000,1.000,4.000,5.000
+147,Pete Alonso,New York Mets,Tanner Bibee,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+148,Pete Alonso,New York Mets,Shane Bieber,Cleveland Guardians,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Pete Alonso,New York Mets,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+150,Pete Alonso,New York Mets,Cal Quantrill,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Pete Alonso,New York Mets,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+152,Pete Alonso,New York Mets,Gregory Santos,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+153,Pete Alonso,New York Mets,Lucas Giolito,Chicago White Sox,1,0,0,0,0,1,1,0,0,.000,.333,.000,.333
+154,Pete Alonso,New York Mets,Michael Kopech,Chicago White Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Pete Alonso,New York Mets,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Pete Alonso,New York Mets,Jesse Scholtens,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Pete Alonso,New York Mets,Bryan Shaw,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Pete Alonso,New York Mets,Touki Toussaint,Chicago White Sox,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+159,Pete Alonso,New York Mets,Corbin Burnes,Milwaukee Brewers,3,2,0,0,2,4,0,0,1,.667,.667,2.667,3.334
+160,Pete Alonso,New York Mets,Adrian Houser,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+161,Pete Alonso,New York Mets,Wade Miley,Milwaukee Brewers,5,1,0,0,0,0,0,0,0,.200,.200,.200,.400
+162,Pete Alonso,New York Mets,Matt Bush,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Pete Alonso,New York Mets,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Pete Alonso,New York Mets,Joel Payamps,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,Pete Alonso,New York Mets,Freddy Peralta,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+166,Pete Alonso,New York Mets,Colin Rea,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Pete Alonso,New York Mets,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Pete Alonso,New York Mets,Julio Teheran,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+169,Pete Alonso,New York Mets,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Pete Alonso,New York Mets,Bryse Wilson,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Pete Alonso,New York Mets,Michael Lorenzen,Detroit Tigers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+172,Pete Alonso,New York Mets,Joey Wentz,Detroit Tigers,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+173,Pete Alonso,New York Mets,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+174,Pete Alonso,New York Mets,Eduardo Rodriguez,Detroit Tigers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+175,Pete Alonso,New York Mets,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Pete Alonso,New York Mets,Dany Jimenez,Oakland Athletics,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+177,Pete Alonso,New York Mets,Chad Smith,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+178,Pete Alonso,New York Mets,Shintaro Fujinami,Oakland Athletics,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+179,Pete Alonso,New York Mets,James Kaprielian,Oakland Athletics,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+180,Pete Alonso,New York Mets,Jeurys Familia,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+181,Pete Alonso,New York Mets,Hogan Harris,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+182,Pete Alonso,New York Mets,Zach Jackson,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+183,Pete Alonso,New York Mets,JP Sears,Oakland Athletics,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000

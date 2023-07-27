@@ -1,0 +1,148 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jose Siri,Tampa Bay Rays,Kolby Allard,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Jose Siri,Tampa Bay Rays,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Jose Siri,Tampa Bay Rays,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Jose Siri,Tampa Bay Rays,Charlie Morton,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Jose Siri,Tampa Bay Rays,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Jose Siri,Tampa Bay Rays,Cody Bradford,Texas Rangers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+6,Jose Siri,Tampa Bay Rays,Jose Leclerc,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+7,Jose Siri,Tampa Bay Rays,Jon Gray,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+8,Jose Siri,Tampa Bay Rays,Dane Dunning,Texas Rangers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+9,Jose Siri,Tampa Bay Rays,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Jose Siri,Tampa Bay Rays,Aroldis Chapman,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Jose Siri,Tampa Bay Rays,Nathan Eovaldi,Texas Rangers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+12,Jose Siri,Tampa Bay Rays,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Jose Siri,Tampa Bay Rays,Spencer Howard,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+14,Jose Siri,Tampa Bay Rays,John King,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Jose Siri,Tampa Bay Rays,Martin Perez,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Jose Siri,Tampa Bay Rays,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Jose Siri,Tampa Bay Rays,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Jose Siri,Tampa Bay Rays,Justin Bruihl,Los Angeles Dodgers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+19,Jose Siri,Tampa Bay Rays,Gavin Stone,Los Angeles Dodgers,2,1,0,1,0,0,0,0,1,.500,.500,1.500,2.000
+20,Jose Siri,Tampa Bay Rays,Noah Syndergaard,Los Angeles Dodgers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+21,Jose Siri,Tampa Bay Rays,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Jose Siri,Tampa Bay Rays,Phil Bickford,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+23,Jose Siri,Tampa Bay Rays,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Jose Siri,Tampa Bay Rays,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Jose Siri,Tampa Bay Rays,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Jose Siri,Tampa Bay Rays,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Jose Siri,Tampa Bay Rays,Ryan Sherriff,Boston Red Sox,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+28,Jose Siri,Tampa Bay Rays,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Jose Siri,Tampa Bay Rays,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Jose Siri,Tampa Bay Rays,Corey Kluber,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Jose Siri,Tampa Bay Rays,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Jose Siri,Tampa Bay Rays,Garrett Whitlock,Boston Red Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+33,Jose Siri,Tampa Bay Rays,Zac Gallen,Arizona Diamondbacks,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+34,Jose Siri,Tampa Bay Rays,Miguel Castro,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Jose Siri,Tampa Bay Rays,Zach Davies,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Jose Siri,Tampa Bay Rays,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Jose Siri,Tampa Bay Rays,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Jose Siri,Tampa Bay Rays,Yimi Garcia,Toronto Blue Jays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+39,Jose Siri,Tampa Bay Rays,Yusei Kikuchi,Toronto Blue Jays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+40,Jose Siri,Tampa Bay Rays,Chris Bassitt,Toronto Blue Jays,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+41,Jose Siri,Tampa Bay Rays,Jose Berrios,Toronto Blue Jays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+42,Jose Siri,Tampa Bay Rays,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Jose Siri,Tampa Bay Rays,Bryan Baker,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+44,Jose Siri,Tampa Bay Rays,Shintaro Fujinami,Baltimore Orioles,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+45,Jose Siri,Tampa Bay Rays,Grayson Rodriguez,Baltimore Orioles,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+46,Jose Siri,Tampa Bay Rays,Keegan Akin,Baltimore Orioles,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+47,Jose Siri,Tampa Bay Rays,Tyler Wells,Baltimore Orioles,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+48,Jose Siri,Tampa Bay Rays,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Jose Siri,Tampa Bay Rays,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Jose Siri,Tampa Bay Rays,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Jose Siri,Tampa Bay Rays,Kyle Gibson,Baltimore Orioles,6,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+52,Jose Siri,Tampa Bay Rays,Cole Irvin,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+53,Jose Siri,Tampa Bay Rays,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Jose Siri,Tampa Bay Rays,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Jose Siri,Tampa Bay Rays,Cristopher Sanchez,Philadelphia Phillies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+56,Jose Siri,Tampa Bay Rays,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Jose Siri,Tampa Bay Rays,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Jose Siri,Tampa Bay Rays,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Jose Siri,Tampa Bay Rays,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Jose Siri,Tampa Bay Rays,Mark Leiter Jr.,Chicago Cubs,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+61,Jose Siri,Tampa Bay Rays,Julian Merryweather,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+62,Jose Siri,Tampa Bay Rays,Justin Steele,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Jose Siri,Tampa Bay Rays,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+64,Jose Siri,Tampa Bay Rays,Hayden Wesneski,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Jose Siri,Tampa Bay Rays,Hunter Brown,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Jose Siri,Tampa Bay Rays,Luis Garcia,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+67,Jose Siri,Tampa Bay Rays,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Jose Siri,Tampa Bay Rays,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Jose Siri,Tampa Bay Rays,Yu Darvish,San Diego Padres,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+70,Jose Siri,Tampa Bay Rays,Nabil Crismatt,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+71,Jose Siri,Tampa Bay Rays,Ray Kerr,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Jose Siri,Tampa Bay Rays,Blake Snell,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Jose Siri,Tampa Bay Rays,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Jose Siri,Tampa Bay Rays,Louie Varland,Minnesota Twins,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+75,Jose Siri,Tampa Bay Rays,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Jose Siri,Tampa Bay Rays,Jeff Brigham,New York Mets,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+77,Jose Siri,Tampa Bay Rays,Dominic Leone,New York Mets,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+78,Jose Siri,Tampa Bay Rays,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+79,Jose Siri,Tampa Bay Rays,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Jose Siri,Tampa Bay Rays,Kodai Senga,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Jose Siri,Tampa Bay Rays,Drew Smith,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+82,Jose Siri,Tampa Bay Rays,Justin Verlander,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Jose Siri,Tampa Bay Rays,Kyle Finnegan,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+84,Jose Siri,Tampa Bay Rays,Chad Kuhl,Washington Nationals,1,1,0,0,1,1,1,0,0,1.000,1.000,4.000,5.000
+85,Jose Siri,Tampa Bay Rays,Patrick Corbin,Washington Nationals,2,1,0,0,0,2,0,0,0,.500,.333,.500,.833
+86,Jose Siri,Tampa Bay Rays,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Jose Siri,Tampa Bay Rays,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+88,Jose Siri,Tampa Bay Rays,Gerrit Cole,New York Yankees,4,2,0,0,2,2,0,0,1,.500,.500,2.000,2.500
+89,Jose Siri,Tampa Bay Rays,Ian Hamilton,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+90,Jose Siri,Tampa Bay Rays,Clarke Schmidt,New York Yankees,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+91,Jose Siri,Tampa Bay Rays,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Jose Siri,Tampa Bay Rays,Jhony Brito,New York Yankees,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+93,Jose Siri,Tampa Bay Rays,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+94,Jose Siri,Tampa Bay Rays,Nestor Cortes,New York Yankees,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+95,Jose Siri,Tampa Bay Rays,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Jose Siri,Tampa Bay Rays,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Jose Siri,Tampa Bay Rays,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Jose Siri,Tampa Bay Rays,Ryan Weber,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Jose Siri,Tampa Bay Rays,Mike Ford,Seattle Mariners,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+100,Jose Siri,Tampa Bay Rays,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Jose Siri,Tampa Bay Rays,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Jose Siri,Tampa Bay Rays,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+103,Jose Siri,Tampa Bay Rays,Bryce Miller,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Jose Siri,Tampa Bay Rays,Gabe Speier,Seattle Mariners,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+105,Jose Siri,Tampa Bay Rays,Cody Bolton,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+106,Jose Siri,Tampa Bay Rays,Roansy Contreras,Pittsburgh Pirates,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+107,Jose Siri,Tampa Bay Rays,Jose Hernandez,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+108,Jose Siri,Tampa Bay Rays,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Jose Siri,Tampa Bay Rays,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Jose Siri,Tampa Bay Rays,Aaron Bummer,Chicago White Sox,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+111,Jose Siri,Tampa Bay Rays,Lucas Giolito,Chicago White Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+112,Jose Siri,Tampa Bay Rays,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Jose Siri,Tampa Bay Rays,Lance Lynn,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Jose Siri,Tampa Bay Rays,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Jose Siri,Tampa Bay Rays,Adrian Houser,Milwaukee Brewers,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+116,Jose Siri,Tampa Bay Rays,Eric Lauer,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Jose Siri,Tampa Bay Rays,Trevor Megill,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Jose Siri,Tampa Bay Rays,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,Jose Siri,Tampa Bay Rays,Bryse Wilson,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Jose Siri,Tampa Bay Rays,Jason Foley,Detroit Tigers,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+121,Jose Siri,Tampa Bay Rays,Eduardo Rodriguez,Detroit Tigers,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+122,Jose Siri,Tampa Bay Rays,Spencer Turnbull,Detroit Tigers,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+123,Jose Siri,Tampa Bay Rays,Tyler Alexander,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+124,Jose Siri,Tampa Bay Rays,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Jose Siri,Tampa Bay Rays,Chasen Shreve,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Jose Siri,Tampa Bay Rays,Joey Wentz,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Jose Siri,Tampa Bay Rays,Zack Greinke,Kansas City Royals,2,2,0,0,1,4,0,0,0,1.000,1.000,2.500,3.500
+128,Jose Siri,Tampa Bay Rays,Jackson Kowar,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+129,Jose Siri,Tampa Bay Rays,Daniel Lynch IV,Kansas City Royals,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+130,Jose Siri,Tampa Bay Rays,Alec Marsh,Kansas City Royals,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+131,Jose Siri,Tampa Bay Rays,Nick Wittgren,Kansas City Royals,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+132,Jose Siri,Tampa Bay Rays,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Jose Siri,Tampa Bay Rays,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+134,Jose Siri,Tampa Bay Rays,Dylan Coleman,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Jose Siri,Tampa Bay Rays,Austin Cox,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+136,Jose Siri,Tampa Bay Rays,Jose Cuas,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+137,Jose Siri,Tampa Bay Rays,Jonathan Heasley,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+138,Jose Siri,Tampa Bay Rays,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Jose Siri,Tampa Bay Rays,Brooks Kriske,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,Jose Siri,Tampa Bay Rays,Jordan Lyles,Kansas City Royals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Jose Siri,Tampa Bay Rays,Cole Ragans,Kansas City Royals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+142,Jose Siri,Tampa Bay Rays,Hogan Harris,Oakland Athletics,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+143,Jose Siri,Tampa Bay Rays,James Kaprielian,Oakland Athletics,3,1,0,0,1,3,0,0,2,.333,.333,1.333,1.666
+144,Jose Siri,Tampa Bay Rays,Ken Waldichuk,Oakland Athletics,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+145,Jose Siri,Tampa Bay Rays,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+146,Jose Siri,Tampa Bay Rays,Adam Oller,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

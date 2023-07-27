@@ -1,0 +1,91 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,AJ Pollock,Seattle Mariners,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,AJ Pollock,Seattle Mariners,Jared Shuster,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,AJ Pollock,Seattle Mariners,Andrew Heaney,Texas Rangers,4,1,0,0,0,0,1,0,0,.250,.400,.250,.650
+3,AJ Pollock,Seattle Mariners,Dane Dunning,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,AJ Pollock,Seattle Mariners,Ian Kennedy,Texas Rangers,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+5,AJ Pollock,Seattle Mariners,John King,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,AJ Pollock,Seattle Mariners,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,AJ Pollock,Seattle Mariners,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,AJ Pollock,Seattle Mariners,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,AJ Pollock,Seattle Mariners,Jaime Barria,Los Angeles Angels,2,2,0,0,2,4,0,0,0,1.000,1.000,4.000,5.000
+10,AJ Pollock,Seattle Mariners,Aaron Loup,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+11,AJ Pollock,Seattle Mariners,Patrick Sandoval,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+12,AJ Pollock,Seattle Mariners,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,AJ Pollock,Seattle Mariners,Reid Detmers,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+14,AJ Pollock,Seattle Mariners,Shohei Ohtani,Los Angeles Angels,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+15,AJ Pollock,Seattle Mariners,Jose Quijada,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,AJ Pollock,Seattle Mariners,Jose Suarez,Los Angeles Angels,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+17,AJ Pollock,Seattle Mariners,Ryan Tepera,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,AJ Pollock,Seattle Mariners,Richard Bleier,Boston Red Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+19,AJ Pollock,Seattle Mariners,Pablo Reyes,Boston Red Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+20,AJ Pollock,Seattle Mariners,Ryan Sherriff,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,AJ Pollock,Seattle Mariners,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,AJ Pollock,Seattle Mariners,Drew VerHagen,St. Louis Cardinals,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+23,AJ Pollock,Seattle Mariners,Miles Mikolas,St. Louis Cardinals,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+24,AJ Pollock,Seattle Mariners,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,AJ Pollock,Seattle Mariners,Jack Flaherty,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,AJ Pollock,Seattle Mariners,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,AJ Pollock,Seattle Mariners,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,AJ Pollock,Seattle Mariners,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,AJ Pollock,Seattle Mariners,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,AJ Pollock,Seattle Mariners,Trevor Richards,Toronto Blue Jays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+31,AJ Pollock,Seattle Mariners,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,AJ Pollock,Seattle Mariners,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,AJ Pollock,Seattle Mariners,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,AJ Pollock,Seattle Mariners,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,AJ Pollock,Seattle Mariners,Taijuan Walker,Philadelphia Phillies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+36,AJ Pollock,Seattle Mariners,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,AJ Pollock,Seattle Mariners,Bailey Falter,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,AJ Pollock,Seattle Mariners,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,AJ Pollock,Seattle Mariners,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,AJ Pollock,Seattle Mariners,Matt Strahm,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,AJ Pollock,Seattle Mariners,Drew Smyly,Chicago Cubs,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+42,AJ Pollock,Seattle Mariners,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,AJ Pollock,Seattle Mariners,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,AJ Pollock,Seattle Mariners,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,AJ Pollock,Seattle Mariners,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,AJ Pollock,Seattle Mariners,Cole Sands,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+47,AJ Pollock,Seattle Mariners,Jordan Balazovic,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,AJ Pollock,Seattle Mariners,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,AJ Pollock,Seattle Mariners,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+50,AJ Pollock,Seattle Mariners,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,AJ Pollock,Seattle Mariners,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,AJ Pollock,Seattle Mariners,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,AJ Pollock,Seattle Mariners,Jakob Junis,San Francisco Giants,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+54,AJ Pollock,Seattle Mariners,Sean Manaea,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,AJ Pollock,Seattle Mariners,Keaton Winn,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,AJ Pollock,Seattle Mariners,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,AJ Pollock,Seattle Mariners,Noah Davis,Colorado Rockies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+58,AJ Pollock,Seattle Mariners,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,AJ Pollock,Seattle Mariners,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,AJ Pollock,Seattle Mariners,Dinelson Lamet,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,AJ Pollock,Seattle Mariners,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,AJ Pollock,Seattle Mariners,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,AJ Pollock,Seattle Mariners,Nestor Cortes,New York Yankees,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+64,AJ Pollock,Seattle Mariners,Wandy Peralta,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,AJ Pollock,Seattle Mariners,Zach Plesac,Cleveland Guardians,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+66,AJ Pollock,Seattle Mariners,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,AJ Pollock,Seattle Mariners,Cal Quantrill,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,AJ Pollock,Seattle Mariners,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,AJ Pollock,Seattle Mariners,Jesse Scholtens,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,AJ Pollock,Seattle Mariners,Eric Lauer,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,AJ Pollock,Seattle Mariners,Joey Wentz,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+72,AJ Pollock,Seattle Mariners,Eduardo Rodriguez,Detroit Tigers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+73,AJ Pollock,Seattle Mariners,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,AJ Pollock,Seattle Mariners,Matthew Boyd,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+75,AJ Pollock,Seattle Mariners,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,AJ Pollock,Seattle Mariners,Mason Englert,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,AJ Pollock,Seattle Mariners,Tyler Holton,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,AJ Pollock,Seattle Mariners,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,AJ Pollock,Seattle Mariners,Domingo Acevedo,Oakland Athletics,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+80,AJ Pollock,Seattle Mariners,Zach Jackson,Oakland Athletics,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+81,AJ Pollock,Seattle Mariners,Ken Waldichuk,Oakland Athletics,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+82,AJ Pollock,Seattle Mariners,Richard Lovelady,Oakland Athletics,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+83,AJ Pollock,Seattle Mariners,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,AJ Pollock,Seattle Mariners,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,AJ Pollock,Seattle Mariners,Adrian Martinez,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+86,AJ Pollock,Seattle Mariners,Mason Miller,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,AJ Pollock,Seattle Mariners,Kyle Muller,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+88,AJ Pollock,Seattle Mariners,Adam Oller,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+89,AJ Pollock,Seattle Mariners,JP Sears,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000

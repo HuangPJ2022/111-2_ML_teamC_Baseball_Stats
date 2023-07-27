@@ -1,0 +1,201 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Dominic Smith,Washington Nationals,Max Fried,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+1,Dominic Smith,Washington Nationals,Kirby Yates,Atlanta Braves,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+2,Dominic Smith,Washington Nationals,Jesse Chavez,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+3,Dominic Smith,Washington Nationals,Jared Shuster,Atlanta Braves,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+4,Dominic Smith,Washington Nationals,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Dominic Smith,Washington Nationals,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Dominic Smith,Washington Nationals,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+7,Dominic Smith,Washington Nationals,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Dominic Smith,Washington Nationals,AJ Smith-Shawver,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Dominic Smith,Washington Nationals,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+10,Dominic Smith,Washington Nationals,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Dominic Smith,Washington Nationals,Cody Bradford,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+12,Dominic Smith,Washington Nationals,Dane Dunning,Texas Rangers,2,1,0,0,1,1,0,0,0,.500,.667,2.000,2.667
+13,Dominic Smith,Washington Nationals,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Dominic Smith,Washington Nationals,Glenn Otto,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Dominic Smith,Washington Nationals,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Dominic Smith,Washington Nationals,Bobby Miller,Los Angeles Dodgers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+17,Dominic Smith,Washington Nationals,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Dominic Smith,Washington Nationals,Tony Gonsolin,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Dominic Smith,Washington Nationals,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Dominic Smith,Washington Nationals,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Dominic Smith,Washington Nationals,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Dominic Smith,Washington Nationals,Noah Syndergaard,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Dominic Smith,Washington Nationals,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Dominic Smith,Washington Nationals,Tucker Davidson,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+25,Dominic Smith,Washington Nationals,Griffin Canning,Los Angeles Angels,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+26,Dominic Smith,Washington Nationals,Jose Suarez,Los Angeles Angels,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+27,Dominic Smith,Washington Nationals,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+28,Dominic Smith,Washington Nationals,Shohei Ohtani,Los Angeles Angels,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Dominic Smith,Washington Nationals,Jose Quijada,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Dominic Smith,Washington Nationals,Ryan Tepera,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Dominic Smith,Washington Nationals,Garrett Cleavinger,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+32,Dominic Smith,Washington Nationals,Drew Rasmussen,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+33,Dominic Smith,Washington Nationals,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Dominic Smith,Washington Nationals,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Dominic Smith,Washington Nationals,Josh Fleming,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Dominic Smith,Washington Nationals,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Dominic Smith,Washington Nationals,Ryan Thompson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Dominic Smith,Washington Nationals,Dakota Hudson,St. Louis Cardinals,2,2,2,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+39,Dominic Smith,Washington Nationals,Jack Flaherty,St. Louis Cardinals,6,2,1,0,0,2,0,0,1,.333,.333,.500,.833
+40,Dominic Smith,Washington Nationals,Miles Mikolas,St. Louis Cardinals,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+41,Dominic Smith,Washington Nationals,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Dominic Smith,Washington Nationals,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Dominic Smith,Washington Nationals,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Dominic Smith,Washington Nationals,Steven Matz,St. Louis Cardinals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+45,Dominic Smith,Washington Nationals,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+46,Dominic Smith,Washington Nationals,Andre Pallante,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+47,Dominic Smith,Washington Nationals,JoJo Romero,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+48,Dominic Smith,Washington Nationals,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Dominic Smith,Washington Nationals,Jake Woodford,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Dominic Smith,Washington Nationals,Andrew Chafin,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+51,Dominic Smith,Washington Nationals,Ryne Nelson,Arizona Diamondbacks,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+52,Dominic Smith,Washington Nationals,Zach Davies,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+53,Dominic Smith,Washington Nationals,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Dominic Smith,Washington Nationals,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Dominic Smith,Washington Nationals,Tommy Henry,Arizona Diamondbacks,4,0,0,0,0,0,1,0,0,.000,.200,.000,.200
+56,Dominic Smith,Washington Nationals,Merrill Kelly,Arizona Diamondbacks,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+57,Dominic Smith,Washington Nationals,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Dominic Smith,Washington Nationals,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Dominic Smith,Washington Nationals,Kyle Nelson,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+60,Dominic Smith,Washington Nationals,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Dominic Smith,Washington Nationals,Brett Kennedy,Cincinnati Reds,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+62,Dominic Smith,Washington Nationals,Luke Weaver,Cincinnati Reds,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+63,Dominic Smith,Washington Nationals,Graham Ashcraft,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+64,Dominic Smith,Washington Nationals,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Dominic Smith,Washington Nationals,Derek Law,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Dominic Smith,Washington Nationals,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Dominic Smith,Washington Nationals,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Dominic Smith,Washington Nationals,Dean Kremer,Baltimore Orioles,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+69,Dominic Smith,Washington Nationals,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+70,Dominic Smith,Washington Nationals,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Dominic Smith,Washington Nationals,Cionel Perez,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+72,Dominic Smith,Washington Nationals,Connor Brogdon,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+73,Dominic Smith,Washington Nationals,Cristopher Sanchez,Philadelphia Phillies,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+74,Dominic Smith,Washington Nationals,Dylan Covey,Philadelphia Phillies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+75,Dominic Smith,Washington Nationals,Ranger Suarez,Philadelphia Phillies,6,2,0,0,0,0,0,0,2,.333,.333,.333,.666
+76,Dominic Smith,Washington Nationals,Andrew Vasquez,Philadelphia Phillies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+77,Dominic Smith,Washington Nationals,Zack Wheeler,Philadelphia Phillies,4,1,0,0,1,1,0,0,1,.250,.250,1.000,1.250
+78,Dominic Smith,Washington Nationals,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Dominic Smith,Washington Nationals,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Dominic Smith,Washington Nationals,Craig Kimbrel,Philadelphia Phillies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+81,Dominic Smith,Washington Nationals,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Dominic Smith,Washington Nationals,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Dominic Smith,Washington Nationals,Adbert Alzolay,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+84,Dominic Smith,Washington Nationals,Julian Merryweather,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,Dominic Smith,Washington Nationals,Keegan Thompson,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+86,Dominic Smith,Washington Nationals,Jameson Taillon,Chicago Cubs,4,3,1,0,0,0,0,0,0,.750,.750,1.000,1.750
+87,Dominic Smith,Washington Nationals,Javier Assad,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+88,Dominic Smith,Washington Nationals,Drew Smyly,Chicago Cubs,6,3,1,0,0,1,0,0,1,.500,.500,.667,1.167
+89,Dominic Smith,Washington Nationals,Kyle Hendricks,Chicago Cubs,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+90,Dominic Smith,Washington Nationals,Jeremiah Estrada,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Dominic Smith,Washington Nationals,Daniel Palencia,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Dominic Smith,Washington Nationals,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Dominic Smith,Washington Nationals,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Dominic Smith,Washington Nationals,Tom Cosgrove,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+95,Dominic Smith,Washington Nationals,Yu Darvish,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+96,Dominic Smith,Washington Nationals,Josh Hader,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+97,Dominic Smith,Washington Nationals,Nick Martinez,San Diego Padres,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+98,Dominic Smith,Washington Nationals,Joe Musgrove,San Diego Padres,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+99,Dominic Smith,Washington Nationals,Blake Snell,San Diego Padres,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+100,Dominic Smith,Washington Nationals,Ryan Weathers,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+101,Dominic Smith,Washington Nationals,Tim Hill,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Dominic Smith,Washington Nationals,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Dominic Smith,Washington Nationals,Ray Kerr,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Dominic Smith,Washington Nationals,Seth Lugo,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Dominic Smith,Washington Nationals,Adrian Morejon,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+106,Dominic Smith,Washington Nationals,Matt Waldron,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Dominic Smith,Washington Nationals,Bryan Abreu,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+108,Dominic Smith,Washington Nationals,Cristian Javier,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+109,Dominic Smith,Washington Nationals,Ryan Pressly,Houston Astros,2,1,0,1,0,1,0,0,0,.500,.500,1.500,2.000
+110,Dominic Smith,Washington Nationals,Hunter Brown,Houston Astros,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+111,Dominic Smith,Washington Nationals,Framber Valdez,Houston Astros,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+112,Dominic Smith,Washington Nationals,Matt Gage,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Dominic Smith,Washington Nationals,Pablo Lopez,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+114,Dominic Smith,Washington Nationals,Tyler Mahle,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+115,Dominic Smith,Washington Nationals,Simeon Woods Richardson,Minnesota Twins,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+116,Dominic Smith,Washington Nationals,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Dominic Smith,Washington Nationals,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Dominic Smith,Washington Nationals,Caleb Thielbar,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Dominic Smith,Washington Nationals,Sandy Alcantara,Miami Marlins,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+120,Dominic Smith,Washington Nationals,Andrew Nardi,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+121,Dominic Smith,Washington Nationals,Eury Perez,Miami Marlins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+122,Dominic Smith,Washington Nationals,Steven Okert,Miami Marlins,3,1,0,0,0,2,0,0,0,.333,.333,.333,.666
+123,Dominic Smith,Washington Nationals,Jesus Luzardo,Miami Marlins,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+124,Dominic Smith,Washington Nationals,Matt Barnes,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Dominic Smith,Washington Nationals,Edward Cabrera,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Dominic Smith,Washington Nationals,Dylan Floro,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+127,Dominic Smith,Washington Nationals,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Dominic Smith,Washington Nationals,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Dominic Smith,Washington Nationals,Tanner Scott,Miami Marlins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+130,Dominic Smith,Washington Nationals,Jakob Junis,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+131,Dominic Smith,Washington Nationals,Logan Webb,San Francisco Giants,4,4,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+132,Dominic Smith,Washington Nationals,Sean Manaea,San Francisco Giants,4,2,0,0,0,2,1,0,0,.500,.600,.500,1.100
+133,Dominic Smith,Washington Nationals,Anthony DeSclafani,San Francisco Giants,5,2,0,0,0,3,1,0,0,.400,.500,.400,.900
+134,Dominic Smith,Washington Nationals,Tristan Beck,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+135,Dominic Smith,Washington Nationals,Tyler Rogers,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+136,Dominic Smith,Washington Nationals,Cole Waites,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Dominic Smith,Washington Nationals,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+138,Dominic Smith,Washington Nationals,Dominic Leone,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+139,Dominic Smith,Washington Nationals,Dennis Santana,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+140,Dominic Smith,Washington Nationals,David Peterson,New York Mets,3,2,0,0,0,1,0,0,1,.667,.667,.667,1.334
+141,Dominic Smith,Washington Nationals,Jose Butto,New York Mets,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+142,Dominic Smith,Washington Nationals,Kodai Senga,New York Mets,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+143,Dominic Smith,Washington Nationals,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Dominic Smith,Washington Nationals,Tommy Hunter,New York Mets,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+145,Dominic Smith,Washington Nationals,Joey Lucchesi,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+146,Dominic Smith,Washington Nationals,Tylor Megill,New York Mets,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+147,Dominic Smith,Washington Nationals,Zach Muckenhirn,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Dominic Smith,Washington Nationals,Stephen Nogosek,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Dominic Smith,Washington Nationals,Brooks Raley,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Dominic Smith,Washington Nationals,David Robertson,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+151,Dominic Smith,Washington Nationals,Max Scherzer,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+152,Dominic Smith,Washington Nationals,Jimmy Yacabonis,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Dominic Smith,Washington Nationals,Ty Blach,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+154,Dominic Smith,Washington Nationals,Dinelson Lamet,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+155,Dominic Smith,Washington Nationals,Ryan Feltner,Colorado Rockies,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+156,Dominic Smith,Washington Nationals,Kyle Freeland,Colorado Rockies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+157,Dominic Smith,Washington Nationals,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Dominic Smith,Washington Nationals,Brad Hand,Colorado Rockies,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+159,Dominic Smith,Washington Nationals,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+160,Dominic Smith,Washington Nationals,Jose Urena,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+161,Dominic Smith,Washington Nationals,Tayler Saucedo,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+162,Dominic Smith,Washington Nationals,Luis Castillo,Seattle Mariners,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+163,Dominic Smith,Washington Nationals,Bryan Woo,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+164,Dominic Smith,Washington Nationals,Logan Gilbert,Seattle Mariners,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+165,Dominic Smith,Washington Nationals,Ty Adcock,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+166,Dominic Smith,Washington Nationals,Trevor Gott,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Dominic Smith,Washington Nationals,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Dominic Smith,Washington Nationals,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+169,Dominic Smith,Washington Nationals,Zach Plesac,Cleveland Guardians,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+170,Dominic Smith,Washington Nationals,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+171,Dominic Smith,Washington Nationals,Emmanuel Clase,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+172,Dominic Smith,Washington Nationals,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Dominic Smith,Washington Nationals,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Dominic Smith,Washington Nationals,Cal Quantrill,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Dominic Smith,Washington Nationals,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+176,Dominic Smith,Washington Nationals,Yohan Ramirez,Pittsburgh Pirates,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+177,Dominic Smith,Washington Nationals,Johan Oviedo,Pittsburgh Pirates,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+178,Dominic Smith,Washington Nationals,Vince Velasquez,Pittsburgh Pirates,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+179,Dominic Smith,Washington Nationals,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+180,Dominic Smith,Washington Nationals,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Dominic Smith,Washington Nationals,Rich Hill,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+182,Dominic Smith,Washington Nationals,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+183,Dominic Smith,Washington Nationals,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Dominic Smith,Washington Nationals,Aroldis Chapman,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+185,Dominic Smith,Washington Nationals,Josh Taylor,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+186,Dominic Smith,Washington Nationals,Daniel Lynch IV,Kansas City Royals,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+187,Dominic Smith,Washington Nationals,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+188,Dominic Smith,Washington Nationals,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+189,Dominic Smith,Washington Nationals,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+190,Dominic Smith,Washington Nationals,Jordan Lyles,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+191,Dominic Smith,Washington Nationals,Brady Singer,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+192,Dominic Smith,Washington Nationals,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+193,Dominic Smith,Washington Nationals,Joey Wentz,Detroit Tigers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+194,Dominic Smith,Washington Nationals,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+195,Dominic Smith,Washington Nationals,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+196,Dominic Smith,Washington Nationals,Mason Englert,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+197,Dominic Smith,Washington Nationals,Alex Faedo,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+198,Dominic Smith,Washington Nationals,Jason Foley,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+199,Dominic Smith,Washington Nationals,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

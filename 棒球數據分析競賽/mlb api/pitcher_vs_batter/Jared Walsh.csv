@@ -1,0 +1,51 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jared Walsh,Los Angeles Angels,Nathan Eovaldi,Texas Rangers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+1,Jared Walsh,Los Angeles Angels,Grant Anderson,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Jared Walsh,Los Angeles Angels,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Jared Walsh,Los Angeles Angels,Dane Dunning,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Jared Walsh,Los Angeles Angels,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Jared Walsh,Los Angeles Angels,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Jared Walsh,Los Angeles Angels,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Jared Walsh,Los Angeles Angels,Ryan Brasier,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Jared Walsh,Los Angeles Angels,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Jared Walsh,Los Angeles Angels,Brayan Bello,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+10,Jared Walsh,Los Angeles Angels,Kutter Crawford,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Jared Walsh,Los Angeles Angels,Tanner Houck,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+12,Jared Walsh,Los Angeles Angels,Kenley Jansen,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+13,Jared Walsh,Los Angeles Angels,Joely Rodriguez,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+14,Jared Walsh,Los Angeles Angels,Jeremiah Estrada,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Jared Walsh,Los Angeles Angels,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Jared Walsh,Los Angeles Angels,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Jared Walsh,Los Angeles Angels,Michael Rucker,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+18,Jared Walsh,Los Angeles Angels,Jameson Taillon,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+19,Jared Walsh,Los Angeles Angels,Framber Valdez,Houston Astros,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+20,Jared Walsh,Los Angeles Angels,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Jared Walsh,Los Angeles Angels,Ronel Blanco,Houston Astros,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+22,Jared Walsh,Los Angeles Angels,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Jared Walsh,Los Angeles Angels,Rafael Montero,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Jared Walsh,Los Angeles Angels,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Jared Walsh,Los Angeles Angels,Pablo Lopez,Minnesota Twins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+26,Jared Walsh,Los Angeles Angels,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Jared Walsh,Los Angeles Angels,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Jared Walsh,Los Angeles Angels,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Jared Walsh,Los Angeles Angels,Louie Varland,Minnesota Twins,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+30,Jared Walsh,Los Angeles Angels,Edward Cabrera,Miami Marlins,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+31,Jared Walsh,Los Angeles Angels,Andrew Nardi,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+32,Jared Walsh,Los Angeles Angels,Steven Okert,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+33,Jared Walsh,Los Angeles Angels,Eury Perez,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Jared Walsh,Los Angeles Angels,Luis Castillo,Seattle Mariners,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+35,Jared Walsh,Los Angeles Angels,Chris Flexen,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Jared Walsh,Los Angeles Angels,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Jared Walsh,Los Angeles Angels,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Jared Walsh,Los Angeles Angels,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Jared Walsh,Los Angeles Angels,Garrett Crochet,Chicago White Sox,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+40,Jared Walsh,Los Angeles Angels,Lucas Giolito,Chicago White Sox,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+41,Jared Walsh,Los Angeles Angels,Lance Lynn,Chicago White Sox,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+42,Jared Walsh,Los Angeles Angels,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Jared Walsh,Los Angeles Angels,Liam Hendriks,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+44,Jared Walsh,Los Angeles Angels,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Jared Walsh,Los Angeles Angels,Jesse Scholtens,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Jared Walsh,Los Angeles Angels,Brooks Kriske,Kansas City Royals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+47,Jared Walsh,Los Angeles Angels,Austin Cox,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Jared Walsh,Los Angeles Angels,Carlos Hernandez,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Jared Walsh,Los Angeles Angels,Brady Singer,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

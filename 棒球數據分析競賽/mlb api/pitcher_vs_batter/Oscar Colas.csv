@@ -1,0 +1,82 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Oscar Colas,Chicago White Sox,Joe Jimenez,Atlanta Braves,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+1,Oscar Colas,Chicago White Sox,Spencer Strider,Atlanta Braves,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+2,Oscar Colas,Chicago White Sox,Ben Heller,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Oscar Colas,Chicago White Sox,Charlie Morton,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+4,Oscar Colas,Chicago White Sox,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Oscar Colas,Chicago White Sox,Calvin Faucher,Tampa Bay Rays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+6,Oscar Colas,Chicago White Sox,Luke Raley,Tampa Bay Rays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+7,Oscar Colas,Chicago White Sox,Drew Rasmussen,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+8,Oscar Colas,Chicago White Sox,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Oscar Colas,Chicago White Sox,Jalen Beeks,Tampa Bay Rays,0,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+10,Oscar Colas,Chicago White Sox,Zack Burdi,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Oscar Colas,Chicago White Sox,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Oscar Colas,Chicago White Sox,Garrett Cleavinger,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Oscar Colas,Chicago White Sox,Cooper Criswell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Oscar Colas,Chicago White Sox,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Oscar Colas,Chicago White Sox,Kevin Kelly,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Oscar Colas,Chicago White Sox,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Oscar Colas,Chicago White Sox,Giovanny Gallegos,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+18,Oscar Colas,Chicago White Sox,Miles Mikolas,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+19,Oscar Colas,Chicago White Sox,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Oscar Colas,Chicago White Sox,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Oscar Colas,Chicago White Sox,Chris Stratton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Oscar Colas,Chicago White Sox,Thomas Hatch,Toronto Blue Jays,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+23,Oscar Colas,Chicago White Sox,Chris Bassitt,Toronto Blue Jays,6,1,0,0,0,0,0,0,0,.167,.167,.167,.334
+24,Oscar Colas,Chicago White Sox,Jose Berrios,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Oscar Colas,Chicago White Sox,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Oscar Colas,Chicago White Sox,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Oscar Colas,Chicago White Sox,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Oscar Colas,Chicago White Sox,Jordan Romano,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Oscar Colas,Chicago White Sox,Logan Gillaspie,Baltimore Orioles,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+30,Oscar Colas,Chicago White Sox,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Oscar Colas,Chicago White Sox,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+32,Oscar Colas,Chicago White Sox,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Oscar Colas,Chicago White Sox,Kyle Gibson,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Oscar Colas,Chicago White Sox,Cionel Perez,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Oscar Colas,Chicago White Sox,Grayson Rodriguez,Baltimore Orioles,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+36,Oscar Colas,Chicago White Sox,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Oscar Colas,Chicago White Sox,Taijuan Walker,Philadelphia Phillies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+38,Oscar Colas,Chicago White Sox,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Oscar Colas,Chicago White Sox,Zack Wheeler,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Oscar Colas,Chicago White Sox,Phil Maton,Houston Astros,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+41,Oscar Colas,Chicago White Sox,Hector Neris,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+42,Oscar Colas,Chicago White Sox,Ryne Stanek,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+43,Oscar Colas,Chicago White Sox,Seth Martinez,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+44,Oscar Colas,Chicago White Sox,Jose Urquidy,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+45,Oscar Colas,Chicago White Sox,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Oscar Colas,Chicago White Sox,Ronel Blanco,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Oscar Colas,Chicago White Sox,Luis Garcia,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Oscar Colas,Chicago White Sox,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Oscar Colas,Chicago White Sox,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Oscar Colas,Chicago White Sox,Jhoan Duran,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+51,Oscar Colas,Chicago White Sox,Jorge Lopez,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+52,Oscar Colas,Chicago White Sox,Oliver Ortega,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+53,Oscar Colas,Chicago White Sox,Bailey Ober,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+54,Oscar Colas,Chicago White Sox,Kenta Maeda,Minnesota Twins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+55,Oscar Colas,Chicago White Sox,Sonny Gray,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Oscar Colas,Chicago White Sox,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Oscar Colas,Chicago White Sox,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+58,Oscar Colas,Chicago White Sox,Jovani Moran,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+59,Oscar Colas,Chicago White Sox,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Oscar Colas,Chicago White Sox,Logan Webb,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+61,Oscar Colas,Chicago White Sox,Matt Beaty,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Oscar Colas,Chicago White Sox,Anthony DeSclafani,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Oscar Colas,Chicago White Sox,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Oscar Colas,Chicago White Sox,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Oscar Colas,Chicago White Sox,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Oscar Colas,Chicago White Sox,Carlos Carrasco,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Oscar Colas,Chicago White Sox,Trevor Gott,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Oscar Colas,Chicago White Sox,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Oscar Colas,Chicago White Sox,Jose Quintana,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Oscar Colas,Chicago White Sox,Drew Smith,New York Mets,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+71,Oscar Colas,Chicago White Sox,Justin Verlander,New York Mets,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Oscar Colas,Chicago White Sox,Wil Crowe,Pittsburgh Pirates,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+73,Oscar Colas,Chicago White Sox,Vince Velasquez,Pittsburgh Pirates,1,1,0,0,0,1,1,0,0,1.000,1.000,1.000,2.000
+74,Oscar Colas,Chicago White Sox,Rob Zastryzny,Pittsburgh Pirates,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+75,Oscar Colas,Chicago White Sox,Johan Oviedo,Pittsburgh Pirates,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+76,Oscar Colas,Chicago White Sox,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Oscar Colas,Chicago White Sox,Chase De Jong,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Oscar Colas,Chicago White Sox,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Oscar Colas,Chicago White Sox,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Oscar Colas,Chicago White Sox,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

@@ -1,0 +1,144 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Nick Senzel,Cincinnati Reds,Charlie Morton,Atlanta Braves,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Nick Senzel,Cincinnati Reds,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Nick Senzel,Cincinnati Reds,Jared Shuster,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Nick Senzel,Cincinnati Reds,Michael Tonkin,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+4,Nick Senzel,Cincinnati Reds,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Nick Senzel,Cincinnati Reds,Jonathan Hernandez,Texas Rangers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+6,Nick Senzel,Cincinnati Reds,Cole Ragans,Texas Rangers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+7,Nick Senzel,Cincinnati Reds,Martin Perez,Texas Rangers,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+8,Nick Senzel,Cincinnati Reds,Jon Gray,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+9,Nick Senzel,Cincinnati Reds,Dane Dunning,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Nick Senzel,Cincinnati Reds,Nathan Eovaldi,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Nick Senzel,Cincinnati Reds,Jose Leclerc,Texas Rangers,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+12,Nick Senzel,Cincinnati Reds,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Nick Senzel,Cincinnati Reds,Cooper Criswell,Tampa Bay Rays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+14,Nick Senzel,Cincinnati Reds,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Nick Senzel,Cincinnati Reds,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+16,Nick Senzel,Cincinnati Reds,Yonny Chirinos,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Nick Senzel,Cincinnati Reds,Kevin Kelly,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+18,Nick Senzel,Cincinnati Reds,Kutter Crawford,Boston Red Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+19,Nick Senzel,Cincinnati Reds,James Paxton,Boston Red Sox,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+20,Nick Senzel,Cincinnati Reds,Kenley Jansen,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+21,Nick Senzel,Cincinnati Reds,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Nick Senzel,Cincinnati Reds,Nick Pivetta,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Nick Senzel,Cincinnati Reds,Chris Sale,Boston Red Sox,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+24,Nick Senzel,Cincinnati Reds,Steven Matz,St. Louis Cardinals,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+25,Nick Senzel,Cincinnati Reds,Andre Pallante,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Nick Senzel,Cincinnati Reds,Jordan Montgomery,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+27,Nick Senzel,Cincinnati Reds,Adam Wainwright,St. Louis Cardinals,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+28,Nick Senzel,Cincinnati Reds,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Nick Senzel,Cincinnati Reds,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Nick Senzel,Cincinnati Reds,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+31,Nick Senzel,Cincinnati Reds,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Nick Senzel,Cincinnati Reds,Miles Mikolas,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Nick Senzel,Cincinnati Reds,Chris Stratton,St. Louis Cardinals,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+34,Nick Senzel,Cincinnati Reds,Tommy Henry,Arizona Diamondbacks,2,0,0,0,0,1,1,0,0,.000,.333,.000,.333
+35,Nick Senzel,Cincinnati Reds,Felix Bautista,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+36,Nick Senzel,Cincinnati Reds,Keegan Akin,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Nick Senzel,Cincinnati Reds,Mike Baumann,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+38,Nick Senzel,Cincinnati Reds,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Nick Senzel,Cincinnati Reds,Cole Irvin,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Nick Senzel,Cincinnati Reds,Cionel Perez,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Nick Senzel,Cincinnati Reds,Bruce Zimmermann,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Nick Senzel,Cincinnati Reds,Josh Harrison,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+43,Nick Senzel,Cincinnati Reds,Aaron Nola,Philadelphia Phillies,2,2,1,0,0,0,1,0,0,1.000,1.000,1.500,2.500
+44,Nick Senzel,Cincinnati Reds,Andrew Bellatti,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Nick Senzel,Cincinnati Reds,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Nick Senzel,Cincinnati Reds,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Nick Senzel,Cincinnati Reds,Bailey Falter,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Nick Senzel,Cincinnati Reds,McKinley Moore,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Nick Senzel,Cincinnati Reds,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Nick Senzel,Cincinnati Reds,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Nick Senzel,Cincinnati Reds,Matt Strahm,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+52,Nick Senzel,Cincinnati Reds,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Nick Senzel,Cincinnati Reds,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Nick Senzel,Cincinnati Reds,Michael Rucker,Chicago Cubs,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+55,Nick Senzel,Cincinnati Reds,Drew Smyly,Chicago Cubs,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+56,Nick Senzel,Cincinnati Reds,Justin Steele,Chicago Cubs,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+57,Nick Senzel,Cincinnati Reds,Jameson Taillon,Chicago Cubs,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+58,Nick Senzel,Cincinnati Reds,Javier Assad,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Nick Senzel,Cincinnati Reds,Jeremiah Estrada,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+60,Nick Senzel,Cincinnati Reds,Michael Fulmer,Chicago Cubs,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+61,Nick Senzel,Cincinnati Reds,Brandon Hughes,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Nick Senzel,Cincinnati Reds,Julian Merryweather,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Nick Senzel,Cincinnati Reds,Blake Snell,San Diego Padres,3,3,0,0,1,1,0,0,0,1.000,1.000,2.000,3.000
+64,Nick Senzel,Cincinnati Reds,Seth Lugo,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+65,Nick Senzel,Cincinnati Reds,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Nick Senzel,Cincinnati Reds,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Nick Senzel,Cincinnati Reds,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Nick Senzel,Cincinnati Reds,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Nick Senzel,Cincinnati Reds,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Nick Senzel,Cincinnati Reds,Michael Wacha,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Nick Senzel,Cincinnati Reds,Brandon Bielak,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Nick Senzel,Cincinnati Reds,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Nick Senzel,Cincinnati Reds,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Nick Senzel,Cincinnati Reds,Rafael Montero,Houston Astros,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+75,Nick Senzel,Cincinnati Reds,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Nick Senzel,Cincinnati Reds,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Nick Senzel,Cincinnati Reds,Huascar Brazoban,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+78,Nick Senzel,Cincinnati Reds,Eury Perez,Miami Marlins,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+79,Nick Senzel,Cincinnati Reds,Braxton Garrett,Miami Marlins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+80,Nick Senzel,Cincinnati Reds,Matt Barnes,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Nick Senzel,Cincinnati Reds,Bryan Hoeing,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+82,Nick Senzel,Cincinnati Reds,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Nick Senzel,Cincinnati Reds,Hunter Harvey,Washington Nationals,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+84,Nick Senzel,Cincinnati Reds,Patrick Corbin,Washington Nationals,3,1,0,0,1,3,0,0,0,.333,.333,1.333,1.666
+85,Nick Senzel,Cincinnati Reds,Cory Abbott,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Nick Senzel,Cincinnati Reds,Jose A. Ferrer,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Nick Senzel,Cincinnati Reds,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Nick Senzel,Cincinnati Reds,Jordan Weems,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Nick Senzel,Cincinnati Reds,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Nick Senzel,Cincinnati Reds,David Peterson,New York Mets,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+91,Nick Senzel,Cincinnati Reds,Kodai Senga,New York Mets,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+92,Nick Senzel,Cincinnati Reds,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Nick Senzel,Cincinnati Reds,Stephen Nogosek,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+94,Nick Senzel,Cincinnati Reds,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Nick Senzel,Cincinnati Reds,Justin Verlander,New York Mets,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+96,Nick Senzel,Cincinnati Reds,Pierce Johnson,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+97,Nick Senzel,Cincinnati Reds,Peter Lambert,Colorado Rockies,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+98,Nick Senzel,Cincinnati Reds,Austin Gomber,Colorado Rockies,5,2,0,0,1,1,0,0,0,.400,.400,1.000,1.400
+99,Nick Senzel,Cincinnati Reds,Chase Anderson,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Nick Senzel,Cincinnati Reds,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+101,Nick Senzel,Cincinnati Reds,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Nick Senzel,Cincinnati Reds,Riley Pint,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+103,Nick Senzel,Cincinnati Reds,Connor Seabold,Colorado Rockies,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+104,Nick Senzel,Cincinnati Reds,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Nick Senzel,Cincinnati Reds,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Nick Senzel,Cincinnati Reds,Jimmy Cordero,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+107,Nick Senzel,Cincinnati Reds,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Nick Senzel,Cincinnati Reds,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Nick Senzel,Cincinnati Reds,Ron Marinaccio,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Nick Senzel,Cincinnati Reds,Nick Ramirez,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Nick Senzel,Cincinnati Reds,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Nick Senzel,Cincinnati Reds,Luis Severino,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Nick Senzel,Cincinnati Reds,Mitch Keller,Pittsburgh Pirates,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+114,Nick Senzel,Cincinnati Reds,David Bednar,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Nick Senzel,Cincinnati Reds,Roansy Contreras,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Nick Senzel,Cincinnati Reds,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Nick Senzel,Cincinnati Reds,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Nick Senzel,Cincinnati Reds,Robert Stephenson,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+119,Nick Senzel,Cincinnati Reds,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Nick Senzel,Cincinnati Reds,Lance Lynn,Chicago White Sox,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+121,Nick Senzel,Cincinnati Reds,Mike Clevinger,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Nick Senzel,Cincinnati Reds,Alex Colome,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Nick Senzel,Cincinnati Reds,Michael Kopech,Chicago White Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Nick Senzel,Cincinnati Reds,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Nick Senzel,Cincinnati Reds,Keynan Middleton,Chicago White Sox,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+126,Nick Senzel,Cincinnati Reds,Jake Cousins,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+127,Nick Senzel,Cincinnati Reds,Adrian Houser,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+128,Nick Senzel,Cincinnati Reds,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,1,0,0,2,.000,.000,.000,.000
+129,Nick Senzel,Cincinnati Reds,Wade Miley,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Nick Senzel,Cincinnati Reds,Hoby Milner,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+131,Nick Senzel,Cincinnati Reds,Colin Rea,Milwaukee Brewers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+132,Nick Senzel,Cincinnati Reds,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Nick Senzel,Cincinnati Reds,Devin Williams,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+134,Nick Senzel,Cincinnati Reds,Bryse Wilson,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Nick Senzel,Cincinnati Reds,Sam Long,Oakland Athletics,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+136,Nick Senzel,Cincinnati Reds,Richard Lovelady,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+137,Nick Senzel,Cincinnati Reds,Ken Waldichuk,Oakland Athletics,3,2,0,0,1,1,0,0,1,.667,.667,1.667,2.334
+138,Nick Senzel,Cincinnati Reds,Drew Rucinski,Oakland Athletics,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+139,Nick Senzel,Cincinnati Reds,Jeurys Familia,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+140,Nick Senzel,Cincinnati Reds,Shintaro Fujinami,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+141,Nick Senzel,Cincinnati Reds,Kyle Muller,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+142,Nick Senzel,Cincinnati Reds,Adam Oller,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

@@ -1,0 +1,143 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Edward Olivares,Kansas City Royals,Charlie Morton,Atlanta Braves,3,1,0,1,0,0,0,0,0,.333,.333,1.000,1.333
+1,Edward Olivares,Kansas City Royals,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Edward Olivares,Kansas City Royals,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Edward Olivares,Kansas City Royals,Dylan Lee,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Edward Olivares,Kansas City Royals,Kyle Wright,Atlanta Braves,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+5,Edward Olivares,Kansas City Royals,Dane Dunning,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+6,Edward Olivares,Kansas City Royals,Nathan Eovaldi,Texas Rangers,5,3,0,0,0,0,0,0,1,.600,.600,.600,1.200
+7,Edward Olivares,Kansas City Royals,Taylor Hearn,Texas Rangers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+8,Edward Olivares,Kansas City Royals,Andrew Heaney,Texas Rangers,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+9,Edward Olivares,Kansas City Royals,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Edward Olivares,Kansas City Royals,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Edward Olivares,Kansas City Royals,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Edward Olivares,Kansas City Royals,Martin Perez,Texas Rangers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Edward Olivares,Kansas City Royals,Will Smith,Texas Rangers,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+14,Edward Olivares,Kansas City Royals,Jacob deGrom,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Edward Olivares,Kansas City Royals,Brusdar Graterol,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+16,Edward Olivares,Kansas City Royals,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Edward Olivares,Kansas City Royals,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Edward Olivares,Kansas City Royals,Daniel Hudson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Edward Olivares,Kansas City Royals,Julio Urias,Los Angeles Dodgers,0,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+20,Edward Olivares,Kansas City Royals,Chris Devenski,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Edward Olivares,Kansas City Royals,Jose Quijada,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+22,Edward Olivares,Kansas City Royals,Shohei Ohtani,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+23,Edward Olivares,Kansas City Royals,Reid Detmers,Los Angeles Angels,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+24,Edward Olivares,Kansas City Royals,Patrick Sandoval,Los Angeles Angels,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+25,Edward Olivares,Kansas City Royals,Tyler Anderson,Los Angeles Angels,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Edward Olivares,Kansas City Royals,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Edward Olivares,Kansas City Royals,Griffin Canning,Los Angeles Angels,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Edward Olivares,Kansas City Royals,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Edward Olivares,Kansas City Royals,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Edward Olivares,Kansas City Royals,Andrew Wantz,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Edward Olivares,Kansas City Royals,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Edward Olivares,Kansas City Royals,Tyler Glasnow,Tampa Bay Rays,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+33,Edward Olivares,Kansas City Royals,Zack Littell,Tampa Bay Rays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+34,Edward Olivares,Kansas City Royals,Yonny Chirinos,Tampa Bay Rays,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+35,Edward Olivares,Kansas City Royals,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Edward Olivares,Kansas City Royals,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Edward Olivares,Kansas City Royals,Pete Fairbanks,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Edward Olivares,Kansas City Royals,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Edward Olivares,Kansas City Royals,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Edward Olivares,Kansas City Royals,Ryne Nelson,Arizona Diamondbacks,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+41,Edward Olivares,Kansas City Royals,Tommy Henry,Arizona Diamondbacks,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+42,Edward Olivares,Kansas City Royals,Zac Gallen,Arizona Diamondbacks,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+43,Edward Olivares,Kansas City Royals,Andrew Chafin,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Edward Olivares,Kansas City Royals,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Edward Olivares,Kansas City Royals,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Edward Olivares,Kansas City Royals,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Edward Olivares,Kansas City Royals,Daniel Duarte,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+48,Edward Olivares,Kansas City Royals,Buck Farmer,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+49,Edward Olivares,Kansas City Royals,Casey Legumina,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+50,Edward Olivares,Kansas City Royals,Ben Lively,Cincinnati Reds,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+51,Edward Olivares,Kansas City Royals,Brandon Williamson,Cincinnati Reds,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+52,Edward Olivares,Kansas City Royals,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Edward Olivares,Kansas City Royals,Ricky Karcher,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Edward Olivares,Kansas City Royals,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Edward Olivares,Kansas City Royals,Luke Weaver,Cincinnati Reds,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+56,Edward Olivares,Kansas City Royals,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Edward Olivares,Kansas City Royals,Tim Mayza,Toronto Blue Jays,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+58,Edward Olivares,Kansas City Royals,Kevin Gausman,Toronto Blue Jays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+59,Edward Olivares,Kansas City Royals,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Edward Olivares,Kansas City Royals,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Edward Olivares,Kansas City Royals,Jordan Romano,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+62,Edward Olivares,Kansas City Royals,Keegan Akin,Baltimore Orioles,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+63,Edward Olivares,Kansas City Royals,Mike Baumann,Baltimore Orioles,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+64,Edward Olivares,Kansas City Royals,Cole Irvin,Baltimore Orioles,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+65,Edward Olivares,Kansas City Royals,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Edward Olivares,Kansas City Royals,Kyle Gibson,Baltimore Orioles,6,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Edward Olivares,Kansas City Royals,Austin Voth,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+68,Edward Olivares,Kansas City Royals,Tyler Wells,Baltimore Orioles,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Edward Olivares,Kansas City Royals,Seth Lugo,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+70,Edward Olivares,Kansas City Royals,Drew Carlton,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Edward Olivares,Kansas City Royals,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+72,Edward Olivares,Kansas City Royals,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Edward Olivares,Kansas City Royals,Emilio Pagan,Minnesota Twins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+74,Edward Olivares,Kansas City Royals,Caleb Thielbar,Minnesota Twins,2,2,2,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+75,Edward Olivares,Kansas City Royals,Pablo Lopez,Minnesota Twins,4,2,1,1,0,0,0,0,1,.500,.600,1.250,1.850
+76,Edward Olivares,Kansas City Royals,Bailey Ober,Minnesota Twins,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+77,Edward Olivares,Kansas City Royals,Sonny Gray,Minnesota Twins,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+78,Edward Olivares,Kansas City Royals,Joe Ryan,Minnesota Twins,5,1,0,0,1,1,0,0,1,.200,.200,.800,1.000
+79,Edward Olivares,Kansas City Royals,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+80,Edward Olivares,Kansas City Royals,Brent Headrick,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+81,Edward Olivares,Kansas City Royals,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Edward Olivares,Kansas City Royals,Jorge Lopez,Minnesota Twins,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+83,Edward Olivares,Kansas City Royals,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Edward Olivares,Kansas City Royals,Brock Stewart,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+85,Edward Olivares,Kansas City Royals,Chad Kuhl,Washington Nationals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+86,Edward Olivares,Kansas City Royals,Patrick Corbin,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Edward Olivares,Kansas City Royals,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Edward Olivares,Kansas City Royals,MacKenzie Gore,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Edward Olivares,Kansas City Royals,Steven Okert,Miami Marlins,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+90,Edward Olivares,Kansas City Royals,Huascar Brazoban,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+91,Edward Olivares,Kansas City Royals,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Edward Olivares,Kansas City Royals,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Edward Olivares,Kansas City Royals,Andrew Nardi,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Edward Olivares,Kansas City Royals,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Edward Olivares,Kansas City Royals,Ross Stripling,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+96,Edward Olivares,Kansas City Royals,Sean Manaea,San Francisco Giants,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+97,Edward Olivares,Kansas City Royals,Jake Bird,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+98,Edward Olivares,Kansas City Royals,Chase Anderson,Colorado Rockies,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+99,Edward Olivares,Kansas City Royals,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Edward Olivares,Kansas City Royals,Austin Gomber,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Edward Olivares,Kansas City Royals,Brad Hand,Colorado Rockies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+102,Edward Olivares,Kansas City Royals,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Edward Olivares,Kansas City Royals,Clay Holmes,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+104,Edward Olivares,Kansas City Royals,Gerrit Cole,New York Yankees,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+105,Edward Olivares,Kansas City Royals,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Edward Olivares,Kansas City Royals,Clarke Schmidt,New York Yankees,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+107,Edward Olivares,Kansas City Royals,Trevor Stephan,Cleveland Guardians,1,1,1,0,0,1,0,0,0,1.000,.500,2.000,2.500
+108,Edward Olivares,Kansas City Royals,Logan Allen,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Edward Olivares,Kansas City Royals,Tanner Bibee,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,Edward Olivares,Kansas City Royals,Aaron Civale,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Edward Olivares,Kansas City Royals,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Edward Olivares,Kansas City Royals,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Edward Olivares,Kansas City Royals,Tim Herrin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Edward Olivares,Kansas City Royals,Gavin Williams,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Edward Olivares,Kansas City Royals,Nicholas Padilla,Chicago White Sox,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+116,Edward Olivares,Kansas City Royals,Dylan Cease,Chicago White Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+117,Edward Olivares,Kansas City Royals,Lance Lynn,Chicago White Sox,6,1,0,0,0,0,0,0,0,.167,.167,.167,.334
+118,Edward Olivares,Kansas City Royals,Mike Clevinger,Chicago White Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Edward Olivares,Kansas City Royals,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Edward Olivares,Kansas City Royals,Joe Kelly,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Edward Olivares,Kansas City Royals,Michael Kopech,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Edward Olivares,Kansas City Royals,Jimmy Lambert,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+123,Edward Olivares,Kansas City Royals,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Edward Olivares,Kansas City Royals,Corbin Burnes,Milwaukee Brewers,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+125,Edward Olivares,Kansas City Royals,Peter Strzelecki,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+126,Edward Olivares,Kansas City Royals,Jason Foley,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+127,Edward Olivares,Kansas City Royals,Tarik Skubal,Detroit Tigers,2,2,1,0,0,2,0,0,0,1.000,1.000,1.500,2.500
+128,Edward Olivares,Kansas City Royals,Eduardo Rodriguez,Detroit Tigers,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+129,Edward Olivares,Kansas City Royals,Matthew Boyd,Detroit Tigers,3,1,0,0,0,0,0,0,0,.333,.500,.333,.833
+130,Edward Olivares,Kansas City Royals,Michael Lorenzen,Detroit Tigers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+131,Edward Olivares,Kansas City Royals,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Edward Olivares,Kansas City Royals,Beau Brieske,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Edward Olivares,Kansas City Royals,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Edward Olivares,Kansas City Royals,Reese Olson,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Edward Olivares,Kansas City Royals,Will Vest,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Edward Olivares,Kansas City Royals,Brendan White,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+137,Edward Olivares,Kansas City Royals,Kyle Muller,Oakland Athletics,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+138,Edward Olivares,Kansas City Royals,Shintaro Fujinami,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+139,Edward Olivares,Kansas City Royals,Rico Garcia,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Edward Olivares,Kansas City Royals,Sam Moll,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Edward Olivares,Kansas City Royals,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333

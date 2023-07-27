@@ -1,0 +1,48 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Jose Herrera,Arizona Diamondbacks,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Jose Herrera,Arizona Diamondbacks,Michael Soroka,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Jose Herrera,Arizona Diamondbacks,Andrew Heaney,Texas Rangers,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+3,Jose Herrera,Arizona Diamondbacks,Caleb Ferguson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+4,Jose Herrera,Arizona Diamondbacks,Michael Grove,Los Angeles Dodgers,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+5,Jose Herrera,Arizona Diamondbacks,Andre Jackson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Jose Herrera,Arizona Diamondbacks,Shelby Miller,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+7,Jose Herrera,Arizona Diamondbacks,Evan Phillips,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Jose Herrera,Arizona Diamondbacks,Noah Syndergaard,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Jose Herrera,Arizona Diamondbacks,Josh Winckowski,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+10,Jose Herrera,Arizona Diamondbacks,Chris Sale,Boston Red Sox,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+11,Jose Herrera,Arizona Diamondbacks,Jake Woodford,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+12,Jose Herrera,Arizona Diamondbacks,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Jose Herrera,Arizona Diamondbacks,Ranger Suarez,Philadelphia Phillies,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+14,Jose Herrera,Arizona Diamondbacks,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Jose Herrera,Arizona Diamondbacks,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Jose Herrera,Arizona Diamondbacks,Luis Garcia,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+17,Jose Herrera,Arizona Diamondbacks,Yu Darvish,San Diego Padres,3,1,0,0,0,0,1,0,2,.333,.500,.333,.833
+18,Jose Herrera,Arizona Diamondbacks,Nabil Crismatt,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+19,Jose Herrera,Arizona Diamondbacks,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Jose Herrera,Arizona Diamondbacks,Sandy Alcantara,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+21,Jose Herrera,Arizona Diamondbacks,Edward Cabrera,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Jose Herrera,Arizona Diamondbacks,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Jose Herrera,Arizona Diamondbacks,Tanner Scott,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Jose Herrera,Arizona Diamondbacks,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Jose Herrera,Arizona Diamondbacks,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Jose Herrera,Arizona Diamondbacks,Thaddeus Ward,Washington Nationals,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+27,Jose Herrera,Arizona Diamondbacks,Trevor Williams,Washington Nationals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+28,Jose Herrera,Arizona Diamondbacks,Anthony DeSclafani,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+29,Jose Herrera,Arizona Diamondbacks,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Jose Herrera,Arizona Diamondbacks,Jake Bird,Colorado Rockies,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+31,Jose Herrera,Arizona Diamondbacks,Connor Seabold,Colorado Rockies,4,1,1,0,0,0,0,0,3,.250,.250,.500,.750
+32,Jose Herrera,Arizona Diamondbacks,Noah Davis,Colorado Rockies,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+33,Jose Herrera,Arizona Diamondbacks,Roansy Contreras,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+34,Jose Herrera,Arizona Diamondbacks,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Jose Herrera,Arizona Diamondbacks,Rob Zastryzny,Pittsburgh Pirates,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Jose Herrera,Arizona Diamondbacks,Javy Guerra,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Jose Herrera,Arizona Diamondbacks,Janson Junk,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Jose Herrera,Arizona Diamondbacks,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Jose Herrera,Arizona Diamondbacks,Garrett Hill,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+40,Jose Herrera,Arizona Diamondbacks,Michael Lorenzen,Detroit Tigers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+41,Jose Herrera,Arizona Diamondbacks,Amir Garrett,Kansas City Royals,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Jose Herrera,Arizona Diamondbacks,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Jose Herrera,Arizona Diamondbacks,Ryan Yarbrough,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Jose Herrera,Arizona Diamondbacks,Adrian Martinez,Oakland Athletics,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+45,Jose Herrera,Arizona Diamondbacks,Luis Medina,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+46,Jose Herrera,Arizona Diamondbacks,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

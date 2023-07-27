@@ -1,0 +1,196 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Ian Happ,Chicago Cubs,Dane Dunning,Texas Rangers,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+1,Ian Happ,Chicago Cubs,Jon Gray,Texas Rangers,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+2,Ian Happ,Chicago Cubs,Nathan Eovaldi,Texas Rangers,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+3,Ian Happ,Chicago Cubs,Taylor Hearn,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+4,Ian Happ,Chicago Cubs,Ian Kennedy,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Ian Happ,Chicago Cubs,Martin Perez,Texas Rangers,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+6,Ian Happ,Chicago Cubs,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Ian Happ,Chicago Cubs,Evan Phillips,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Ian Happ,Chicago Cubs,Noah Syndergaard,Los Angeles Dodgers,2,2,1,0,0,1,1,0,0,1.000,1.000,1.500,2.500
+9,Ian Happ,Chicago Cubs,Yency Almonte,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+10,Ian Happ,Chicago Cubs,Andre Jackson,Los Angeles Dodgers,4,2,1,0,1,2,0,0,1,.500,.500,1.500,2.000
+11,Ian Happ,Chicago Cubs,Julio Urias,Los Angeles Dodgers,5,1,1,0,0,0,0,0,2,.200,.200,.400,.600
+12,Ian Happ,Chicago Cubs,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Ian Happ,Chicago Cubs,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Ian Happ,Chicago Cubs,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Ian Happ,Chicago Cubs,Michael Grove,Los Angeles Dodgers,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Ian Happ,Chicago Cubs,Dustin May,Los Angeles Dodgers,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+17,Ian Happ,Chicago Cubs,Jake Reed,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+18,Ian Happ,Chicago Cubs,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Ian Happ,Chicago Cubs,Carlos Estevez,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Ian Happ,Chicago Cubs,Reid Detmers,Los Angeles Angels,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+21,Ian Happ,Chicago Cubs,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+22,Ian Happ,Chicago Cubs,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Ian Happ,Chicago Cubs,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+24,Ian Happ,Chicago Cubs,Ben Joyce,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+25,Ian Happ,Chicago Cubs,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Ian Happ,Chicago Cubs,Jacob Webb,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+27,Ian Happ,Chicago Cubs,Trevor Kelley,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,Ian Happ,Chicago Cubs,Shane McClanahan,Tampa Bay Rays,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+29,Ian Happ,Chicago Cubs,Zach Eflin,Tampa Bay Rays,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+30,Ian Happ,Chicago Cubs,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Ian Happ,Chicago Cubs,Taj Bradley,Tampa Bay Rays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+32,Ian Happ,Chicago Cubs,Brandon Walter,Boston Red Sox,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+33,Ian Happ,Chicago Cubs,Brayan Bello,Boston Red Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Ian Happ,Chicago Cubs,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Ian Happ,Chicago Cubs,Kutter Crawford,Boston Red Sox,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+36,Ian Happ,Chicago Cubs,James Paxton,Boston Red Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+37,Ian Happ,Chicago Cubs,Tayler Scott,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Ian Happ,Chicago Cubs,James Naile,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+39,Ian Happ,Chicago Cubs,Adam Wainwright,St. Louis Cardinals,2,2,0,0,2,2,0,0,0,1.000,1.000,4.000,5.000
+40,Ian Happ,Chicago Cubs,Miles Mikolas,St. Louis Cardinals,5,3,1,0,0,0,0,0,2,.600,.600,.800,1.400
+41,Ian Happ,Chicago Cubs,Andre Pallante,St. Louis Cardinals,2,1,0,0,0,0,2,0,0,.500,.750,.500,1.250
+42,Ian Happ,Chicago Cubs,Jordan Montgomery,St. Louis Cardinals,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+43,Ian Happ,Chicago Cubs,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+44,Ian Happ,Chicago Cubs,Jack Flaherty,St. Louis Cardinals,4,0,0,0,0,0,2,0,1,.000,.333,.000,.333
+45,Ian Happ,Chicago Cubs,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Ian Happ,Chicago Cubs,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Ian Happ,Chicago Cubs,Dakota Hudson,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+48,Ian Happ,Chicago Cubs,Matthew Liberatore,St. Louis Cardinals,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+49,Ian Happ,Chicago Cubs,Steven Matz,St. Louis Cardinals,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Ian Happ,Chicago Cubs,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Ian Happ,Chicago Cubs,Zack Thompson,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+52,Ian Happ,Chicago Cubs,Drew VerHagen,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Ian Happ,Chicago Cubs,Luis Cessa,Cincinnati Reds,1,1,0,0,0,0,2,0,0,1.000,1.000,1.000,2.000
+54,Ian Happ,Chicago Cubs,Joel Kuhnel,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Ian Happ,Chicago Cubs,Buck Farmer,Cincinnati Reds,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+56,Ian Happ,Chicago Cubs,Connor Overton,Cincinnati Reds,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+57,Ian Happ,Chicago Cubs,Brandon Williamson,Cincinnati Reds,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+58,Ian Happ,Chicago Cubs,Graham Ashcraft,Cincinnati Reds,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+59,Ian Happ,Chicago Cubs,Fernando Cruz,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Ian Happ,Chicago Cubs,Alexis Diaz,Cincinnati Reds,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+61,Ian Happ,Chicago Cubs,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+62,Ian Happ,Chicago Cubs,Hunter Greene,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+63,Ian Happ,Chicago Cubs,Eduardo Salazar,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Ian Happ,Chicago Cubs,Cionel Perez,Baltimore Orioles,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+65,Ian Happ,Chicago Cubs,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Ian Happ,Chicago Cubs,Danny Coulombe,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Ian Happ,Chicago Cubs,Reed Garrett,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+68,Ian Happ,Chicago Cubs,Kyle Gibson,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Ian Happ,Chicago Cubs,Dean Kremer,Baltimore Orioles,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+70,Ian Happ,Chicago Cubs,Ranger Suarez,Philadelphia Phillies,4,1,0,0,0,0,1,0,1,.250,.400,.250,.650
+71,Ian Happ,Chicago Cubs,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Ian Happ,Chicago Cubs,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Ian Happ,Chicago Cubs,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Ian Happ,Chicago Cubs,Yunior Marte,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Ian Happ,Chicago Cubs,Aaron Nola,Philadelphia Phillies,6,0,0,0,0,1,0,0,4,.000,.000,.000,.000
+76,Ian Happ,Chicago Cubs,Gregory Soto,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Ian Happ,Chicago Cubs,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Ian Happ,Chicago Cubs,Andrew Vasquez,Philadelphia Phillies,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+79,Ian Happ,Chicago Cubs,Taijuan Walker,Philadelphia Phillies,5,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Ian Happ,Chicago Cubs,Seth Lugo,San Diego Padres,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+81,Ian Happ,Chicago Cubs,Nick Martinez,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+82,Ian Happ,Chicago Cubs,Blake Snell,San Diego Padres,3,1,0,0,0,0,3,0,1,.333,.667,.333,1.000
+83,Ian Happ,Chicago Cubs,Ryan Weathers,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+84,Ian Happ,Chicago Cubs,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Ian Happ,Chicago Cubs,Yu Darvish,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Ian Happ,Chicago Cubs,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Ian Happ,Chicago Cubs,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,Ian Happ,Chicago Cubs,Domingo Tapia,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+89,Ian Happ,Chicago Cubs,Michael Wacha,San Diego Padres,5,0,0,0,0,1,0,0,3,.000,.000,.000,.000
+90,Ian Happ,Chicago Cubs,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Ian Happ,Chicago Cubs,J.P. France,Houston Astros,2,2,2,0,0,1,0,0,0,1.000,.667,2.000,2.667
+92,Ian Happ,Chicago Cubs,Rafael Montero,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+93,Ian Happ,Chicago Cubs,Matt Gage,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Ian Happ,Chicago Cubs,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Ian Happ,Chicago Cubs,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,Ian Happ,Chicago Cubs,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Ian Happ,Chicago Cubs,Ryne Stanek,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+98,Ian Happ,Chicago Cubs,Framber Valdez,Houston Astros,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+99,Ian Happ,Chicago Cubs,Sonny Gray,Minnesota Twins,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+100,Ian Happ,Chicago Cubs,Dereck Rodriguez,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+101,Ian Happ,Chicago Cubs,Joe Ryan,Minnesota Twins,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+102,Ian Happ,Chicago Cubs,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Ian Happ,Chicago Cubs,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Ian Happ,Chicago Cubs,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Ian Happ,Chicago Cubs,Cole Sands,Minnesota Twins,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+106,Ian Happ,Chicago Cubs,Louie Varland,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Ian Happ,Chicago Cubs,Matt Barnes,Miami Marlins,1,1,0,0,0,0,1,1,0,1.000,1.000,1.000,2.000
+108,Ian Happ,Chicago Cubs,Steven Okert,Miami Marlins,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+109,Ian Happ,Chicago Cubs,Dylan Floro,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+110,Ian Happ,Chicago Cubs,Edward Cabrera,Miami Marlins,3,1,0,0,1,2,3,0,1,.333,.667,1.333,2.000
+111,Ian Happ,Chicago Cubs,Jesus Luzardo,Miami Marlins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+112,Ian Happ,Chicago Cubs,Sandy Alcantara,Miami Marlins,4,1,0,0,0,0,0,0,2,.250,.250,.250,.500
+113,Ian Happ,Chicago Cubs,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+114,Ian Happ,Chicago Cubs,Chi Chi Gonzalez,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Ian Happ,Chicago Cubs,Bryan Hoeing,Miami Marlins,5,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Ian Happ,Chicago Cubs,Tanner Scott,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Ian Happ,Chicago Cubs,Jose A. Ferrer,Washington Nationals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+118,Ian Happ,Chicago Cubs,Andres Machado,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+119,Ian Happ,Chicago Cubs,Thaddeus Ward,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+120,Ian Happ,Chicago Cubs,Cory Abbott,Washington Nationals,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+121,Ian Happ,Chicago Cubs,Hunter Harvey,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+122,Ian Happ,Chicago Cubs,MacKenzie Gore,Washington Nationals,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+123,Ian Happ,Chicago Cubs,Patrick Corbin,Washington Nationals,5,1,0,0,0,0,1,0,2,.200,.333,.200,.533
+124,Ian Happ,Chicago Cubs,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+125,Ian Happ,Chicago Cubs,Jake Irvin,Washington Nationals,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+126,Ian Happ,Chicago Cubs,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Ian Happ,Chicago Cubs,Jordan Weems,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+128,Ian Happ,Chicago Cubs,Trevor Williams,Washington Nationals,5,0,0,0,0,0,1,0,1,.000,.167,.000,.167
+129,Ian Happ,Chicago Cubs,Jakob Junis,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+130,Ian Happ,Chicago Cubs,Tristan Beck,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+131,Ian Happ,Chicago Cubs,John Brebbia,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Ian Happ,Chicago Cubs,Brandon Crawford,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+133,Ian Happ,Chicago Cubs,Anthony DeSclafani,San Francisco Giants,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+134,Ian Happ,Chicago Cubs,Luke Jackson,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Ian Happ,Chicago Cubs,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+136,Ian Happ,Chicago Cubs,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Ian Happ,Chicago Cubs,Drew Smith,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+138,Ian Happ,Chicago Cubs,Carlos Carrasco,New York Mets,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+139,Ian Happ,Chicago Cubs,Kodai Senga,New York Mets,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+140,Ian Happ,Chicago Cubs,Dominic Leone,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+141,Ian Happ,Chicago Cubs,Tylor Megill,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+142,Ian Happ,Chicago Cubs,Stephen Nogosek,New York Mets,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+143,Ian Happ,Chicago Cubs,Carlos Rodon,New York Yankees,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+144,Ian Happ,Chicago Cubs,Gerrit Cole,New York Yankees,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Ian Happ,Chicago Cubs,Domingo German,New York Yankees,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+146,Ian Happ,Chicago Cubs,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+147,Ian Happ,Chicago Cubs,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Ian Happ,Chicago Cubs,Ron Marinaccio,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+149,Ian Happ,Chicago Cubs,Clarke Schmidt,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Ian Happ,Chicago Cubs,Trevor Gott,Seattle Mariners,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+151,Ian Happ,Chicago Cubs,Diego Castillo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Ian Happ,Chicago Cubs,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+153,Ian Happ,Chicago Cubs,Chris Flexen,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+154,Ian Happ,Chicago Cubs,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Ian Happ,Chicago Cubs,Jose Rodriguez,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Ian Happ,Chicago Cubs,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,Ian Happ,Chicago Cubs,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+158,Ian Happ,Chicago Cubs,Tanner Bibee,Cleveland Guardians,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+159,Ian Happ,Chicago Cubs,Xzavion Curry,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Ian Happ,Chicago Cubs,Cal Quantrill,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+161,Ian Happ,Chicago Cubs,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+162,Ian Happ,Chicago Cubs,Yohan Ramirez,Pittsburgh Pirates,1,1,0,0,0,3,1,1,0,1.000,1.000,1.000,2.000
+163,Ian Happ,Chicago Cubs,Johan Oviedo,Pittsburgh Pirates,6,4,1,1,0,2,0,0,0,.667,.667,1.167,1.834
+164,Ian Happ,Chicago Cubs,Yerry De Los Santos,Pittsburgh Pirates,2,1,0,1,0,0,0,0,1,.500,.500,1.500,2.000
+165,Ian Happ,Chicago Cubs,Luis L. Ortiz,Pittsburgh Pirates,2,1,0,0,1,3,1,0,1,.500,.667,2.000,2.667
+166,Ian Happ,Chicago Cubs,Angel Perdomo,Pittsburgh Pirates,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+167,Ian Happ,Chicago Cubs,Rich Hill,Pittsburgh Pirates,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+168,Ian Happ,Chicago Cubs,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,Ian Happ,Chicago Cubs,Osvaldo Bido,Pittsburgh Pirates,5,0,0,0,0,0,0,0,4,.000,.000,.000,.000
+170,Ian Happ,Chicago Cubs,Roansy Contreras,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+171,Ian Happ,Chicago Cubs,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+172,Ian Happ,Chicago Cubs,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,Ian Happ,Chicago Cubs,Adrian Houser,Milwaukee Brewers,1,1,0,0,0,1,2,0,0,1.000,1.000,1.000,2.000
+174,Ian Happ,Chicago Cubs,Gus Varland,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+175,Ian Happ,Chicago Cubs,Devin Williams,Milwaukee Brewers,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+176,Ian Happ,Chicago Cubs,Wade Miley,Milwaukee Brewers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+177,Ian Happ,Chicago Cubs,Julio Teheran,Milwaukee Brewers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+178,Ian Happ,Chicago Cubs,Brandon Woodruff,Milwaukee Brewers,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+179,Ian Happ,Chicago Cubs,J.B. Bukauskas,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Ian Happ,Chicago Cubs,Corbin Burnes,Milwaukee Brewers,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+181,Ian Happ,Chicago Cubs,Javy Guerra,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+182,Ian Happ,Chicago Cubs,Eric Lauer,Milwaukee Brewers,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+183,Ian Happ,Chicago Cubs,Joel Payamps,Milwaukee Brewers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Ian Happ,Chicago Cubs,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+185,Ian Happ,Chicago Cubs,Freddy Peralta,Milwaukee Brewers,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+186,Ian Happ,Chicago Cubs,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+187,Ian Happ,Chicago Cubs,Adrian Martinez,Oakland Athletics,1,1,0,0,0,1,0,0,0,1.000,.500,1.000,1.500
+188,Ian Happ,Chicago Cubs,Mason Miller,Oakland Athletics,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+189,Ian Happ,Chicago Cubs,Adam Oller,Oakland Athletics,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+190,Ian Happ,Chicago Cubs,Kyle Muller,Oakland Athletics,3,1,0,0,0,2,0,0,0,.333,.333,.333,.666
+191,Ian Happ,Chicago Cubs,Ken Waldichuk,Oakland Athletics,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+192,Ian Happ,Chicago Cubs,Jeurys Familia,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+193,Ian Happ,Chicago Cubs,James Kaprielian,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+194,Ian Happ,Chicago Cubs,Chad Smith,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

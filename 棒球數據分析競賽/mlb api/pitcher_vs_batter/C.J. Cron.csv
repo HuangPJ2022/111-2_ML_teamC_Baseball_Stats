@@ -1,0 +1,113 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,C.J. Cron,Colorado Rockies,Emmet Sheehan,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+1,C.J. Cron,Colorado Rockies,Michael Grove,Los Angeles Dodgers,5,2,0,0,0,1,0,0,0,.400,.400,.400,.800
+2,C.J. Cron,Colorado Rockies,Yency Almonte,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,C.J. Cron,Colorado Rockies,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,C.J. Cron,Colorado Rockies,Ryan Brasier,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,C.J. Cron,Colorado Rockies,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,C.J. Cron,Colorado Rockies,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,C.J. Cron,Colorado Rockies,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,C.J. Cron,Colorado Rockies,Julio Urias,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,C.J. Cron,Colorado Rockies,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,C.J. Cron,Colorado Rockies,Steven Matz,St. Louis Cardinals,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+11,C.J. Cron,Colorado Rockies,Miles Mikolas,St. Louis Cardinals,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+12,C.J. Cron,Colorado Rockies,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,C.J. Cron,Colorado Rockies,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,C.J. Cron,Colorado Rockies,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,C.J. Cron,Colorado Rockies,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,C.J. Cron,Colorado Rockies,Zack Thompson,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,C.J. Cron,Colorado Rockies,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,C.J. Cron,Colorado Rockies,Ryne Nelson,Arizona Diamondbacks,2,2,1,0,1,3,0,0,0,1.000,1.000,3.000,4.000
+19,C.J. Cron,Colorado Rockies,Peter Solomon,Arizona Diamondbacks,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+20,C.J. Cron,Colorado Rockies,Tommy Henry,Arizona Diamondbacks,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+21,C.J. Cron,Colorado Rockies,Merrill Kelly,Arizona Diamondbacks,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+22,C.J. Cron,Colorado Rockies,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,C.J. Cron,Colorado Rockies,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,C.J. Cron,Colorado Rockies,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,C.J. Cron,Colorado Rockies,Andrew Bellatti,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,C.J. Cron,Colorado Rockies,Cristopher Sanchez,Philadelphia Phillies,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+27,C.J. Cron,Colorado Rockies,Matt Strahm,Philadelphia Phillies,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+28,C.J. Cron,Colorado Rockies,Ranger Suarez,Philadelphia Phillies,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+29,C.J. Cron,Colorado Rockies,Jose Alvarado,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,C.J. Cron,Colorado Rockies,Connor Brogdon,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,C.J. Cron,Colorado Rockies,Seranthony Dominguez,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,C.J. Cron,Colorado Rockies,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,C.J. Cron,Colorado Rockies,Aaron Nola,Philadelphia Phillies,5,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+34,C.J. Cron,Colorado Rockies,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,C.J. Cron,Colorado Rockies,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+36,C.J. Cron,Colorado Rockies,Zack Wheeler,Philadelphia Phillies,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+37,C.J. Cron,Colorado Rockies,Nabil Crismatt,San Diego Padres,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+38,C.J. Cron,Colorado Rockies,Domingo Tapia,San Diego Padres,2,2,1,0,1,1,0,0,0,1.000,1.000,3.000,4.000
+39,C.J. Cron,Colorado Rockies,Michael Wacha,San Diego Padres,3,2,1,0,1,2,0,0,0,.667,.667,2.000,2.667
+40,C.J. Cron,Colorado Rockies,Tim Hill,San Diego Padres,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+41,C.J. Cron,Colorado Rockies,Blake Snell,San Diego Padres,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+42,C.J. Cron,Colorado Rockies,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,C.J. Cron,Colorado Rockies,Seth Lugo,San Diego Padres,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,C.J. Cron,Colorado Rockies,Nick Martinez,San Diego Padres,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+45,C.J. Cron,Colorado Rockies,Ryan Pressly,Houston Astros,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+46,C.J. Cron,Colorado Rockies,J.P. France,Houston Astros,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+47,C.J. Cron,Colorado Rockies,Hunter Brown,Houston Astros,2,1,1,0,0,0,0,0,0,.500,.667,1.000,1.667
+48,C.J. Cron,Colorado Rockies,Brandon Bielak,Houston Astros,5,1,0,0,0,0,0,0,0,.200,.200,.200,.400
+49,C.J. Cron,Colorado Rockies,Bryan Abreu,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,C.J. Cron,Colorado Rockies,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,C.J. Cron,Colorado Rockies,MacKenzie Gore,Washington Nationals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+52,C.J. Cron,Colorado Rockies,Josiah Gray,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+53,C.J. Cron,Colorado Rockies,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,C.J. Cron,Colorado Rockies,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,C.J. Cron,Colorado Rockies,Dylan Floro,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+56,C.J. Cron,Colorado Rockies,Braxton Garrett,Miami Marlins,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+57,C.J. Cron,Colorado Rockies,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,C.J. Cron,Colorado Rockies,George Soriano,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,C.J. Cron,Colorado Rockies,Tyler Rogers,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+60,C.J. Cron,Colorado Rockies,Ryan Walker,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+61,C.J. Cron,Colorado Rockies,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,C.J. Cron,Colorado Rockies,Mauricio Llovera,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,C.J. Cron,Colorado Rockies,Ross Stripling,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,C.J. Cron,Colorado Rockies,Logan Webb,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,C.J. Cron,Colorado Rockies,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,C.J. Cron,Colorado Rockies,Tylor Megill,New York Mets,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+67,C.J. Cron,Colorado Rockies,Jeff Brigham,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,C.J. Cron,Colorado Rockies,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,C.J. Cron,Colorado Rockies,Joey Lucchesi,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+70,C.J. Cron,Colorado Rockies,Stephen Nogosek,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,C.J. Cron,Colorado Rockies,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,C.J. Cron,Colorado Rockies,Kodai Senga,New York Mets,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+73,C.J. Cron,Colorado Rockies,Jimmy Yacabonis,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+74,C.J. Cron,Colorado Rockies,Michael King,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+75,C.J. Cron,Colorado Rockies,Clarke Schmidt,New York Yankees,3,2,0,0,1,1,0,0,1,.667,.667,1.667,2.334
+76,C.J. Cron,Colorado Rockies,Clay Holmes,New York Yankees,2,1,0,0,1,4,0,0,0,.500,.500,2.000,2.500
+77,C.J. Cron,Colorado Rockies,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,C.J. Cron,Colorado Rockies,Gerrit Cole,New York Yankees,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+79,C.J. Cron,Colorado Rockies,Ian Hamilton,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,C.J. Cron,Colorado Rockies,Carlos Rodon,New York Yankees,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+81,C.J. Cron,Colorado Rockies,Trevor Gott,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+82,C.J. Cron,Colorado Rockies,George Kirby,Seattle Mariners,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+83,C.J. Cron,Colorado Rockies,Luis Castillo,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,C.J. Cron,Colorado Rockies,Tommy Milone,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,C.J. Cron,Colorado Rockies,Penn Murfee,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,C.J. Cron,Colorado Rockies,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,C.J. Cron,Colorado Rockies,Tanner Bibee,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+88,C.J. Cron,Colorado Rockies,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,C.J. Cron,Colorado Rockies,Xzavion Curry,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,C.J. Cron,Colorado Rockies,Cal Quantrill,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,C.J. Cron,Colorado Rockies,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,C.J. Cron,Colorado Rockies,Rich Hill,Pittsburgh Pirates,4,2,1,0,0,0,1,0,2,.500,.600,.750,1.350
+93,C.J. Cron,Colorado Rockies,Luis L. Ortiz,Pittsburgh Pirates,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+94,C.J. Cron,Colorado Rockies,Vince Velasquez,Pittsburgh Pirates,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+95,C.J. Cron,Colorado Rockies,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+96,C.J. Cron,Colorado Rockies,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,C.J. Cron,Colorado Rockies,Robert Stephenson,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,C.J. Cron,Colorado Rockies,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+99,C.J. Cron,Colorado Rockies,Peter Strzelecki,Milwaukee Brewers,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+100,C.J. Cron,Colorado Rockies,Eric Lauer,Milwaukee Brewers,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+101,C.J. Cron,Colorado Rockies,Jake Cousins,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+102,C.J. Cron,Colorado Rockies,Wade Miley,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,C.J. Cron,Colorado Rockies,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+104,C.J. Cron,Colorado Rockies,Jose Cisnero,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+105,C.J. Cron,Colorado Rockies,Brendan White,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+106,C.J. Cron,Colorado Rockies,Michael Lorenzen,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+107,C.J. Cron,Colorado Rockies,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,C.J. Cron,Colorado Rockies,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,C.J. Cron,Colorado Rockies,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+110,C.J. Cron,Colorado Rockies,Zach Logue,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,C.J. Cron,Colorado Rockies,Chasen Shreve,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

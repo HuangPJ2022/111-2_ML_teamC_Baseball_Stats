@@ -1,0 +1,195 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Christian Yelich,Milwaukee Brewers,Ben Heller,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Christian Yelich,Milwaukee Brewers,Allan Winans,Atlanta Braves,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Christian Yelich,Milwaukee Brewers,Bryce Elder,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+3,Christian Yelich,Milwaukee Brewers,Michael Soroka,Atlanta Braves,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+4,Christian Yelich,Milwaukee Brewers,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Christian Yelich,Milwaukee Brewers,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Christian Yelich,Milwaukee Brewers,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Christian Yelich,Milwaukee Brewers,Phil Bickford,Los Angeles Dodgers,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+8,Christian Yelich,Milwaukee Brewers,Noah Syndergaard,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Christian Yelich,Milwaukee Brewers,Justin Bruihl,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Christian Yelich,Milwaukee Brewers,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+11,Christian Yelich,Milwaukee Brewers,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Christian Yelich,Milwaukee Brewers,Clayton Kershaw,Los Angeles Dodgers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Christian Yelich,Milwaukee Brewers,Shelby Miller,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+14,Christian Yelich,Milwaukee Brewers,Tyler Anderson,Los Angeles Angels,3,1,0,0,0,0,1,0,1,.333,.500,.333,.833
+15,Christian Yelich,Milwaukee Brewers,Jaime Barria,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Christian Yelich,Milwaukee Brewers,Reid Detmers,Los Angeles Angels,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Christian Yelich,Milwaukee Brewers,Cooper Criswell,Tampa Bay Rays,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+18,Christian Yelich,Milwaukee Brewers,Ryan Thompson,Tampa Bay Rays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+19,Christian Yelich,Milwaukee Brewers,Jason Adam,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Christian Yelich,Milwaukee Brewers,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Christian Yelich,Milwaukee Brewers,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Christian Yelich,Milwaukee Brewers,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Christian Yelich,Milwaukee Brewers,Shane McClanahan,Tampa Bay Rays,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Christian Yelich,Milwaukee Brewers,Garrett Whitlock,Boston Red Sox,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+25,Christian Yelich,Milwaukee Brewers,Brayan Bello,Boston Red Sox,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+26,Christian Yelich,Milwaukee Brewers,Nick Pivetta,Boston Red Sox,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+27,Christian Yelich,Milwaukee Brewers,Kutter Crawford,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Christian Yelich,Milwaukee Brewers,Kaleb Ort,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+29,Christian Yelich,Milwaukee Brewers,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Christian Yelich,Milwaukee Brewers,Zack Thompson,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+31,Christian Yelich,Milwaukee Brewers,Jake Woodford,St. Louis Cardinals,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+32,Christian Yelich,Milwaukee Brewers,Andre Pallante,St. Louis Cardinals,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+33,Christian Yelich,Milwaukee Brewers,Jack Flaherty,St. Louis Cardinals,4,0,0,0,0,0,2,0,2,.000,.333,.000,.333
+34,Christian Yelich,Milwaukee Brewers,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Christian Yelich,Milwaukee Brewers,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Christian Yelich,Milwaukee Brewers,Packy Naughton,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+37,Christian Yelich,Milwaukee Brewers,Carlos Vargas,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+38,Christian Yelich,Milwaukee Brewers,Andrew Chafin,Arizona Diamondbacks,2,1,0,0,0,2,0,0,1,.500,.500,.500,1.000
+39,Christian Yelich,Milwaukee Brewers,Drey Jameson,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+40,Christian Yelich,Milwaukee Brewers,Zac Gallen,Arizona Diamondbacks,6,1,0,0,0,0,0,0,3,.167,.167,.167,.334
+41,Christian Yelich,Milwaukee Brewers,Merrill Kelly,Arizona Diamondbacks,6,1,0,1,0,1,0,0,4,.167,.167,.500,.667
+42,Christian Yelich,Milwaukee Brewers,Scott McGough,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Christian Yelich,Milwaukee Brewers,Kyle Nelson,Arizona Diamondbacks,3,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+44,Christian Yelich,Milwaukee Brewers,Ryne Nelson,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Christian Yelich,Milwaukee Brewers,Buck Farmer,Cincinnati Reds,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+46,Christian Yelich,Milwaukee Brewers,Brandon Williamson,Cincinnati Reds,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+47,Christian Yelich,Milwaukee Brewers,Derek Law,Cincinnati Reds,4,2,0,0,0,1,0,0,0,.500,.500,.500,1.000
+48,Christian Yelich,Milwaukee Brewers,Luke Weaver,Cincinnati Reds,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+49,Christian Yelich,Milwaukee Brewers,Ben Lively,Cincinnati Reds,8,2,1,0,1,1,1,0,1,.250,.333,.750,1.083
+50,Christian Yelich,Milwaukee Brewers,Graham Ashcraft,Cincinnati Reds,5,1,0,0,0,1,1,0,1,.200,.333,.200,.533
+51,Christian Yelich,Milwaukee Brewers,Andrew Abbott,Cincinnati Reds,9,1,0,0,1,1,0,0,5,.111,.111,.444,.555
+52,Christian Yelich,Milwaukee Brewers,Fernando Cruz,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+53,Christian Yelich,Milwaukee Brewers,Alexis Diaz,Cincinnati Reds,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+54,Christian Yelich,Milwaukee Brewers,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Christian Yelich,Milwaukee Brewers,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Christian Yelich,Milwaukee Brewers,Eduardo Salazar,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Christian Yelich,Milwaukee Brewers,Lucas Sims,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Christian Yelich,Milwaukee Brewers,Alex Young,Cincinnati Reds,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+59,Christian Yelich,Milwaukee Brewers,Tim Mayza,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+60,Christian Yelich,Milwaukee Brewers,Kevin Gausman,Toronto Blue Jays,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+61,Christian Yelich,Milwaukee Brewers,Anthony Bass,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Christian Yelich,Milwaukee Brewers,Adam Cimber,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+63,Christian Yelich,Milwaukee Brewers,Yusei Kikuchi,Toronto Blue Jays,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+64,Christian Yelich,Milwaukee Brewers,Alek Manoah,Toronto Blue Jays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+65,Christian Yelich,Milwaukee Brewers,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Christian Yelich,Milwaukee Brewers,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Christian Yelich,Milwaukee Brewers,Danny Coulombe,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+68,Christian Yelich,Milwaukee Brewers,Kyle Gibson,Baltimore Orioles,3,2,2,0,0,0,0,0,0,.667,.667,1.333,2.000
+69,Christian Yelich,Milwaukee Brewers,Kyle Bradish,Baltimore Orioles,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+70,Christian Yelich,Milwaukee Brewers,Bruce Zimmermann,Baltimore Orioles,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+71,Christian Yelich,Milwaukee Brewers,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Christian Yelich,Milwaukee Brewers,Yennier Cano,Baltimore Orioles,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+73,Christian Yelich,Milwaukee Brewers,Dean Kremer,Baltimore Orioles,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+74,Christian Yelich,Milwaukee Brewers,Taijuan Walker,Philadelphia Phillies,3,3,1,0,1,3,0,0,0,1.000,1.000,2.333,3.333
+75,Christian Yelich,Milwaukee Brewers,Cristopher Sanchez,Philadelphia Phillies,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+76,Christian Yelich,Milwaukee Brewers,Andrew Bellatti,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Christian Yelich,Milwaukee Brewers,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+78,Christian Yelich,Milwaukee Brewers,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+79,Christian Yelich,Milwaukee Brewers,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Christian Yelich,Milwaukee Brewers,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Christian Yelich,Milwaukee Brewers,Julian Merryweather,Chicago Cubs,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+82,Christian Yelich,Milwaukee Brewers,Mark Leiter Jr.,Chicago Cubs,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+83,Christian Yelich,Milwaukee Brewers,Michael Rucker,Chicago Cubs,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+84,Christian Yelich,Milwaukee Brewers,Drew Smyly,Chicago Cubs,2,1,0,1,0,1,0,0,0,.500,.500,1.500,2.000
+85,Christian Yelich,Milwaukee Brewers,Justin Steele,Chicago Cubs,6,3,0,0,0,0,0,0,2,.500,.500,.500,1.000
+86,Christian Yelich,Milwaukee Brewers,Adbert Alzolay,Chicago Cubs,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+87,Christian Yelich,Milwaukee Brewers,Kyle Hendricks,Chicago Cubs,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+88,Christian Yelich,Milwaukee Brewers,Jameson Taillon,Chicago Cubs,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+89,Christian Yelich,Milwaukee Brewers,Marcus Stroman,Chicago Cubs,5,1,0,0,1,3,1,0,1,.200,.333,.800,1.133
+90,Christian Yelich,Milwaukee Brewers,Brad Boxberger,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+91,Christian Yelich,Milwaukee Brewers,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+92,Christian Yelich,Milwaukee Brewers,Brent Honeywell,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+93,Christian Yelich,Milwaukee Brewers,Michael Wacha,San Diego Padres,3,2,1,0,1,1,0,0,0,.667,.667,2.000,2.667
+94,Christian Yelich,Milwaukee Brewers,Nabil Crismatt,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Christian Yelich,Milwaukee Brewers,Yu Darvish,San Diego Padres,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+96,Christian Yelich,Milwaukee Brewers,Josh Hader,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Christian Yelich,Milwaukee Brewers,Tim Hill,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Christian Yelich,Milwaukee Brewers,Seth Lugo,San Diego Padres,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+99,Christian Yelich,Milwaukee Brewers,Nick Martinez,San Diego Padres,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+100,Christian Yelich,Milwaukee Brewers,Steven Wilson,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Christian Yelich,Milwaukee Brewers,J.P. France,Houston Astros,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+102,Christian Yelich,Milwaukee Brewers,Brandon Bielak,Houston Astros,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+103,Christian Yelich,Milwaukee Brewers,Cristian Javier,Houston Astros,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+104,Christian Yelich,Milwaukee Brewers,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Christian Yelich,Milwaukee Brewers,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Christian Yelich,Milwaukee Brewers,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Christian Yelich,Milwaukee Brewers,Jose De Leon,Minnesota Twins,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+108,Christian Yelich,Milwaukee Brewers,Josh Winder,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+109,Christian Yelich,Milwaukee Brewers,Bailey Ober,Minnesota Twins,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+110,Christian Yelich,Milwaukee Brewers,Pablo Lopez,Minnesota Twins,3,1,1,0,0,2,0,0,0,.333,.333,.667,1.000
+111,Christian Yelich,Milwaukee Brewers,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Christian Yelich,Milwaukee Brewers,John Brebbia,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+113,Christian Yelich,Milwaukee Brewers,Cole Waites,San Francisco Giants,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+114,Christian Yelich,Milwaukee Brewers,Alex Cobb,San Francisco Giants,4,2,0,0,0,0,2,0,0,.500,.667,.500,1.167
+115,Christian Yelich,Milwaukee Brewers,Ross Stripling,San Francisco Giants,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+116,Christian Yelich,Milwaukee Brewers,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Christian Yelich,Milwaukee Brewers,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Christian Yelich,Milwaukee Brewers,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,1,1,0,.000,.500,.000,.500
+119,Christian Yelich,Milwaukee Brewers,Sean Manaea,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+120,Christian Yelich,Milwaukee Brewers,Taylor Rogers,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+121,Christian Yelich,Milwaukee Brewers,Tyler Rogers,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+122,Christian Yelich,Milwaukee Brewers,Logan Webb,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+123,Christian Yelich,Milwaukee Brewers,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Christian Yelich,Milwaukee Brewers,Justin Verlander,New York Mets,2,2,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+125,Christian Yelich,Milwaukee Brewers,Kodai Senga,New York Mets,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+126,Christian Yelich,Milwaukee Brewers,Adam Ottavino,New York Mets,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+127,Christian Yelich,Milwaukee Brewers,Brooks Raley,New York Mets,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+128,Christian Yelich,Milwaukee Brewers,Max Scherzer,New York Mets,5,1,0,0,0,0,1,0,0,.200,.333,.200,.533
+129,Christian Yelich,Milwaukee Brewers,Jeff Brigham,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+130,Christian Yelich,Milwaukee Brewers,Carlos Carrasco,New York Mets,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+131,Christian Yelich,Milwaukee Brewers,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Christian Yelich,Milwaukee Brewers,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Christian Yelich,Milwaukee Brewers,Tommy Hunter,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Christian Yelich,Milwaukee Brewers,T.J. McFarland,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Christian Yelich,Milwaukee Brewers,David Peterson,New York Mets,4,0,0,0,0,0,2,0,3,.000,.333,.000,.333
+136,Christian Yelich,Milwaukee Brewers,Dennis Santana,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Christian Yelich,Milwaukee Brewers,Drew Smith,New York Mets,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+138,Christian Yelich,Milwaukee Brewers,Pierce Johnson,Colorado Rockies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+139,Christian Yelich,Milwaukee Brewers,Connor Seabold,Colorado Rockies,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+140,Christian Yelich,Milwaukee Brewers,Kyle Freeland,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+141,Christian Yelich,Milwaukee Brewers,Ryan Feltner,Colorado Rockies,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+142,Christian Yelich,Milwaukee Brewers,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+143,Christian Yelich,Milwaukee Brewers,Nick Mears,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Christian Yelich,Milwaukee Brewers,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Christian Yelich,Milwaukee Brewers,Gabe Speier,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+146,Christian Yelich,Milwaukee Brewers,Logan Gilbert,Seattle Mariners,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+147,Christian Yelich,Milwaukee Brewers,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Christian Yelich,Milwaukee Brewers,Diego Castillo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Christian Yelich,Milwaukee Brewers,Chris Flexen,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Christian Yelich,Milwaukee Brewers,Penn Murfee,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+151,Christian Yelich,Milwaukee Brewers,Tayler Saucedo,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Christian Yelich,Milwaukee Brewers,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Christian Yelich,Milwaukee Brewers,Tanner Bibee,Cleveland Guardians,1,1,0,0,0,0,2,0,0,1.000,1.000,1.000,2.000
+154,Christian Yelich,Milwaukee Brewers,Tim Herrin,Cleveland Guardians,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+155,Christian Yelich,Milwaukee Brewers,Aaron Civale,Cleveland Guardians,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+156,Christian Yelich,Milwaukee Brewers,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,Christian Yelich,Milwaukee Brewers,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+158,Christian Yelich,Milwaukee Brewers,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Christian Yelich,Milwaukee Brewers,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Christian Yelich,Milwaukee Brewers,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+161,Christian Yelich,Milwaukee Brewers,Luis L. Ortiz,Pittsburgh Pirates,2,2,2,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+162,Christian Yelich,Milwaukee Brewers,Osvaldo Bido,Pittsburgh Pirates,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+163,Christian Yelich,Milwaukee Brewers,Mitch Keller,Pittsburgh Pirates,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+164,Christian Yelich,Milwaukee Brewers,Johan Oviedo,Pittsburgh Pirates,2,1,0,0,1,3,1,0,0,.500,.667,2.000,2.667
+165,Christian Yelich,Milwaukee Brewers,Angel Perdomo,Pittsburgh Pirates,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+166,Christian Yelich,Milwaukee Brewers,Ryan Borucki,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+167,Christian Yelich,Milwaukee Brewers,Roansy Contreras,Pittsburgh Pirates,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+168,Christian Yelich,Milwaukee Brewers,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+169,Christian Yelich,Milwaukee Brewers,Carmen Mlodzinski,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Christian Yelich,Milwaukee Brewers,Jordan Lyles,Kansas City Royals,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+171,Christian Yelich,Milwaukee Brewers,Josh Staumont,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+172,Christian Yelich,Milwaukee Brewers,Josh Taylor,Kansas City Royals,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+173,Christian Yelich,Milwaukee Brewers,Zack Greinke,Kansas City Royals,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+174,Christian Yelich,Milwaukee Brewers,Max Castillo,Kansas City Royals,1,0,0,0,0,0,1,1,0,.000,.500,.000,.500
+175,Christian Yelich,Milwaukee Brewers,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+176,Christian Yelich,Milwaukee Brewers,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+177,Christian Yelich,Milwaukee Brewers,Amir Garrett,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+178,Christian Yelich,Milwaukee Brewers,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Christian Yelich,Milwaukee Brewers,Mason Englert,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+180,Christian Yelich,Milwaukee Brewers,Tyler Holton,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+181,Christian Yelich,Milwaukee Brewers,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+182,Christian Yelich,Milwaukee Brewers,Michael Lorenzen,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+183,Christian Yelich,Milwaukee Brewers,Spencer Turnbull,Detroit Tigers,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+184,Christian Yelich,Milwaukee Brewers,Will Vest,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+185,Christian Yelich,Milwaukee Brewers,JP Sears,Oakland Athletics,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+186,Christian Yelich,Milwaukee Brewers,Paul Blackburn,Oakland Athletics,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+187,Christian Yelich,Milwaukee Brewers,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+188,Christian Yelich,Milwaukee Brewers,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+189,Christian Yelich,Milwaukee Brewers,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+190,Christian Yelich,Milwaukee Brewers,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+191,Christian Yelich,Milwaukee Brewers,Trevor May,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+192,Christian Yelich,Milwaukee Brewers,Luis Medina,Oakland Athletics,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+193,Christian Yelich,Milwaukee Brewers,Sam Moll,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000

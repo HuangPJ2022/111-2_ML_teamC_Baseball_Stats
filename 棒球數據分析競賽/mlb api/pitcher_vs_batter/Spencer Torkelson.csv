@@ -1,0 +1,213 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Spencer Torkelson,Detroit Tigers,Raisel Iglesias,Atlanta Braves,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+1,Spencer Torkelson,Detroit Tigers,Joe Jimenez,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+2,Spencer Torkelson,Detroit Tigers,Dylan Dodd,Atlanta Braves,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+3,Spencer Torkelson,Detroit Tigers,Spencer Strider,Atlanta Braves,2,1,0,0,1,1,1,0,1,.500,.667,2.000,2.667
+4,Spencer Torkelson,Detroit Tigers,Charlie Morton,Atlanta Braves,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+5,Spencer Torkelson,Detroit Tigers,Nick Anderson,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,Spencer Torkelson,Detroit Tigers,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Spencer Torkelson,Detroit Tigers,A.J. Minter,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Spencer Torkelson,Detroit Tigers,John King,Texas Rangers,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+9,Spencer Torkelson,Detroit Tigers,Josh Sborz,Texas Rangers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+10,Spencer Torkelson,Detroit Tigers,Cody Bradford,Texas Rangers,2,1,0,0,1,1,1,0,0,.500,.667,2.000,2.667
+11,Spencer Torkelson,Detroit Tigers,Brock Burke,Texas Rangers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+12,Spencer Torkelson,Detroit Tigers,Dane Dunning,Texas Rangers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+13,Spencer Torkelson,Detroit Tigers,Martin Perez,Texas Rangers,5,1,1,0,0,1,1,0,1,.200,.333,.400,.733
+14,Spencer Torkelson,Detroit Tigers,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Spencer Torkelson,Detroit Tigers,Joe Barlow,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+16,Spencer Torkelson,Detroit Tigers,Nathan Eovaldi,Texas Rangers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+17,Spencer Torkelson,Detroit Tigers,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+18,Spencer Torkelson,Detroit Tigers,Jonathan Hernandez,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Spencer Torkelson,Detroit Tigers,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Spencer Torkelson,Detroit Tigers,Zach Eflin,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+21,Spencer Torkelson,Detroit Tigers,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Spencer Torkelson,Detroit Tigers,Calvin Faucher,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Spencer Torkelson,Detroit Tigers,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+24,Spencer Torkelson,Detroit Tigers,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Spencer Torkelson,Detroit Tigers,Colin Poche,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Spencer Torkelson,Detroit Tigers,Jeffrey Springs,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Spencer Torkelson,Detroit Tigers,Kenley Jansen,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+28,Spencer Torkelson,Detroit Tigers,Kutter Crawford,Boston Red Sox,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+29,Spencer Torkelson,Detroit Tigers,Chris Sale,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+30,Spencer Torkelson,Detroit Tigers,Ryan Brasier,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Spencer Torkelson,Detroit Tigers,Tanner Houck,Boston Red Sox,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+32,Spencer Torkelson,Detroit Tigers,Zack Kelly,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Spencer Torkelson,Detroit Tigers,John Schreiber,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Spencer Torkelson,Detroit Tigers,James Naile,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+35,Spencer Torkelson,Detroit Tigers,Chris Stratton,St. Louis Cardinals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+36,Spencer Torkelson,Detroit Tigers,Giovanny Gallegos,St. Louis Cardinals,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+37,Spencer Torkelson,Detroit Tigers,Steven Matz,St. Louis Cardinals,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+38,Spencer Torkelson,Detroit Tigers,Adam Wainwright,St. Louis Cardinals,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+39,Spencer Torkelson,Detroit Tigers,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Spencer Torkelson,Detroit Tigers,Jordan Montgomery,St. Louis Cardinals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Spencer Torkelson,Detroit Tigers,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Spencer Torkelson,Detroit Tigers,Drey Jameson,Arizona Diamondbacks,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+43,Spencer Torkelson,Detroit Tigers,Merrill Kelly,Arizona Diamondbacks,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+44,Spencer Torkelson,Detroit Tigers,Zac Gallen,Arizona Diamondbacks,3,1,1,0,0,0,1,0,1,.333,.500,.667,1.167
+45,Spencer Torkelson,Detroit Tigers,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Spencer Torkelson,Detroit Tigers,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Spencer Torkelson,Detroit Tigers,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+48,Spencer Torkelson,Detroit Tigers,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Spencer Torkelson,Detroit Tigers,Anthony Bass,Toronto Blue Jays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+50,Spencer Torkelson,Detroit Tigers,Yimi Garcia,Toronto Blue Jays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+51,Spencer Torkelson,Detroit Tigers,Alek Manoah,Toronto Blue Jays,5,2,0,0,0,1,0,0,2,.400,.400,.400,.800
+52,Spencer Torkelson,Detroit Tigers,Chris Bassitt,Toronto Blue Jays,6,2,1,0,0,1,0,0,2,.333,.333,.500,.833
+53,Spencer Torkelson,Detroit Tigers,Kevin Gausman,Toronto Blue Jays,6,1,1,0,0,1,0,0,2,.167,.167,.333,.500
+54,Spencer Torkelson,Detroit Tigers,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+55,Spencer Torkelson,Detroit Tigers,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Spencer Torkelson,Detroit Tigers,Zach Pop,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Spencer Torkelson,Detroit Tigers,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Spencer Torkelson,Detroit Tigers,Jordan Romano,Toronto Blue Jays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Spencer Torkelson,Detroit Tigers,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Spencer Torkelson,Detroit Tigers,Kyle Gibson,Baltimore Orioles,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+61,Spencer Torkelson,Detroit Tigers,Keegan Akin,Baltimore Orioles,0,0,0,0,0,0,2,1,0,.000,1.000,.000,1.000
+62,Spencer Torkelson,Detroit Tigers,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Spencer Torkelson,Detroit Tigers,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Spencer Torkelson,Detroit Tigers,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+65,Spencer Torkelson,Detroit Tigers,Danny Coulombe,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+66,Spencer Torkelson,Detroit Tigers,DL Hall,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Spencer Torkelson,Detroit Tigers,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+68,Spencer Torkelson,Detroit Tigers,Grayson Rodriguez,Baltimore Orioles,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+69,Spencer Torkelson,Detroit Tigers,Austin Voth,Baltimore Orioles,0,0,0,0,0,1,1,0,0,.000,.500,.000,.500
+70,Spencer Torkelson,Detroit Tigers,Tyler Wells,Baltimore Orioles,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+71,Spencer Torkelson,Detroit Tigers,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Spencer Torkelson,Detroit Tigers,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Spencer Torkelson,Detroit Tigers,Aaron Nola,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Spencer Torkelson,Detroit Tigers,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Spencer Torkelson,Detroit Tigers,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+76,Spencer Torkelson,Detroit Tigers,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+77,Spencer Torkelson,Detroit Tigers,Joe Musgrove,San Diego Padres,2,2,0,0,1,1,1,0,0,1.000,1.000,2.500,3.500
+78,Spencer Torkelson,Detroit Tigers,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Spencer Torkelson,Detroit Tigers,Brent Honeywell,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Spencer Torkelson,Detroit Tigers,Seth Lugo,San Diego Padres,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+81,Spencer Torkelson,Detroit Tigers,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Spencer Torkelson,Detroit Tigers,Jackson Wolf,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Spencer Torkelson,Detroit Tigers,Ryne Stanek,Houston Astros,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+84,Spencer Torkelson,Detroit Tigers,Framber Valdez,Houston Astros,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+85,Spencer Torkelson,Detroit Tigers,Hunter Brown,Houston Astros,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+86,Spencer Torkelson,Detroit Tigers,Cristian Javier,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Spencer Torkelson,Detroit Tigers,Phil Maton,Houston Astros,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+88,Spencer Torkelson,Detroit Tigers,Rafael Montero,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Spencer Torkelson,Detroit Tigers,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Spencer Torkelson,Detroit Tigers,Jorge Lopez,Minnesota Twins,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+91,Spencer Torkelson,Detroit Tigers,Kenta Maeda,Minnesota Twins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+92,Spencer Torkelson,Detroit Tigers,Pablo Lopez,Minnesota Twins,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+93,Spencer Torkelson,Detroit Tigers,Jovani Moran,Minnesota Twins,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+94,Spencer Torkelson,Detroit Tigers,Joe Ryan,Minnesota Twins,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+95,Spencer Torkelson,Detroit Tigers,Louie Varland,Minnesota Twins,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+96,Spencer Torkelson,Detroit Tigers,Jordan Balazovic,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Spencer Torkelson,Detroit Tigers,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Spencer Torkelson,Detroit Tigers,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Spencer Torkelson,Detroit Tigers,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Spencer Torkelson,Detroit Tigers,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Spencer Torkelson,Detroit Tigers,Bailey Ober,Minnesota Twins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Spencer Torkelson,Detroit Tigers,Emilio Pagan,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Spencer Torkelson,Detroit Tigers,Brock Stewart,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+104,Spencer Torkelson,Detroit Tigers,Josh Winder,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Spencer Torkelson,Detroit Tigers,Hobie Harris,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+106,Spencer Torkelson,Detroit Tigers,Patrick Corbin,Washington Nationals,3,2,0,0,1,2,0,0,0,.667,.667,1.667,2.334
+107,Spencer Torkelson,Detroit Tigers,Josiah Gray,Washington Nationals,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+108,Spencer Torkelson,Detroit Tigers,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Spencer Torkelson,Detroit Tigers,Hunter Harvey,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Spencer Torkelson,Detroit Tigers,Jake Irvin,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Spencer Torkelson,Detroit Tigers,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Spencer Torkelson,Detroit Tigers,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Spencer Torkelson,Detroit Tigers,Sean Hjelle,San Francisco Giants,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+114,Spencer Torkelson,Detroit Tigers,Anthony DeSclafani,San Francisco Giants,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Spencer Torkelson,Detroit Tigers,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Spencer Torkelson,Detroit Tigers,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Spencer Torkelson,Detroit Tigers,Sean Manaea,San Francisco Giants,1,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+118,Spencer Torkelson,Detroit Tigers,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Spencer Torkelson,Detroit Tigers,Jose Butto,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+120,Spencer Torkelson,Detroit Tigers,Max Scherzer,New York Mets,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+121,Spencer Torkelson,Detroit Tigers,Jeff Brigham,New York Mets,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+122,Spencer Torkelson,Detroit Tigers,Joey Lucchesi,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+123,Spencer Torkelson,Detroit Tigers,Zach Muckenhirn,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+124,Spencer Torkelson,Detroit Tigers,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Spencer Torkelson,Detroit Tigers,Justin Verlander,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Spencer Torkelson,Detroit Tigers,Jimmy Yacabonis,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Spencer Torkelson,Detroit Tigers,Gavin Hollowell,Colorado Rockies,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+128,Spencer Torkelson,Detroit Tigers,Pierce Johnson,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+129,Spencer Torkelson,Detroit Tigers,Jake Bird,Colorado Rockies,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+130,Spencer Torkelson,Detroit Tigers,Connor Seabold,Colorado Rockies,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+131,Spencer Torkelson,Detroit Tigers,Ty Blach,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Spencer Torkelson,Detroit Tigers,Austin Gomber,Colorado Rockies,3,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+133,Spencer Torkelson,Detroit Tigers,Brad Hand,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+134,Spencer Torkelson,Detroit Tigers,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+135,Spencer Torkelson,Detroit Tigers,Luis Castillo,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+136,Spencer Torkelson,Detroit Tigers,Bryce Miller,Seattle Mariners,5,2,0,0,0,0,0,0,1,.400,.400,.400,.800
+137,Spencer Torkelson,Detroit Tigers,George Kirby,Seattle Mariners,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+138,Spencer Torkelson,Detroit Tigers,Matt Brash,Seattle Mariners,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+139,Spencer Torkelson,Detroit Tigers,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+140,Spencer Torkelson,Detroit Tigers,Marco Gonzales,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+141,Spencer Torkelson,Detroit Tigers,Tayler Saucedo,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Spencer Torkelson,Detroit Tigers,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Spencer Torkelson,Detroit Tigers,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Spencer Torkelson,Detroit Tigers,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Spencer Torkelson,Detroit Tigers,Sam Hentges,Cleveland Guardians,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+146,Spencer Torkelson,Detroit Tigers,Cal Quantrill,Cleveland Guardians,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+147,Spencer Torkelson,Detroit Tigers,Trevor Stephan,Cleveland Guardians,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+148,Spencer Torkelson,Detroit Tigers,Shane Bieber,Cleveland Guardians,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+149,Spencer Torkelson,Detroit Tigers,Xzavion Curry,Cleveland Guardians,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+150,Spencer Torkelson,Detroit Tigers,Hunter Gaddis,Cleveland Guardians,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+151,Spencer Torkelson,Detroit Tigers,Nick Sandlin,Cleveland Guardians,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+152,Spencer Torkelson,Detroit Tigers,Peyton Battenfield,Cleveland Guardians,5,1,0,0,0,1,0,0,0,.200,.200,.200,.400
+153,Spencer Torkelson,Detroit Tigers,Tanner Bibee,Cleveland Guardians,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+154,Spencer Torkelson,Detroit Tigers,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Spencer Torkelson,Detroit Tigers,Enyel De Los Santos,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Spencer Torkelson,Detroit Tigers,Luis L. Ortiz,Pittsburgh Pirates,2,2,2,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+157,Spencer Torkelson,Detroit Tigers,Rich Hill,Pittsburgh Pirates,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+158,Spencer Torkelson,Detroit Tigers,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Spencer Torkelson,Detroit Tigers,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Spencer Torkelson,Detroit Tigers,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+161,Spencer Torkelson,Detroit Tigers,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Spencer Torkelson,Detroit Tigers,Aaron Bummer,Chicago White Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+163,Spencer Torkelson,Detroit Tigers,Lucas Giolito,Chicago White Sox,2,1,0,0,0,1,1,0,1,.500,.667,.500,1.167
+164,Spencer Torkelson,Detroit Tigers,Joe Kelly,Chicago White Sox,3,1,1,0,0,1,0,0,2,.333,.333,.667,1.000
+165,Spencer Torkelson,Detroit Tigers,Michael Kopech,Chicago White Sox,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+166,Spencer Torkelson,Detroit Tigers,Keynan Middleton,Chicago White Sox,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+167,Spencer Torkelson,Detroit Tigers,Dylan Cease,Chicago White Sox,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+168,Spencer Torkelson,Detroit Tigers,Mike Clevinger,Chicago White Sox,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+169,Spencer Torkelson,Detroit Tigers,Garrett Crochet,Chicago White Sox,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+170,Spencer Torkelson,Detroit Tigers,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+171,Spencer Torkelson,Detroit Tigers,Liam Hendriks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+172,Spencer Torkelson,Detroit Tigers,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Spencer Torkelson,Detroit Tigers,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Spencer Torkelson,Detroit Tigers,Lance Lynn,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+175,Spencer Torkelson,Detroit Tigers,Gregory Santos,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+176,Spencer Torkelson,Detroit Tigers,Jesse Scholtens,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+177,Spencer Torkelson,Detroit Tigers,Eric Lauer,Milwaukee Brewers,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+178,Spencer Torkelson,Detroit Tigers,Colin Rea,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+179,Spencer Torkelson,Detroit Tigers,Jake Cousins,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Spencer Torkelson,Detroit Tigers,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Spencer Torkelson,Detroit Tigers,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+182,Spencer Torkelson,Detroit Tigers,Freddy Peralta,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+183,Spencer Torkelson,Detroit Tigers,Peter Strzelecki,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Spencer Torkelson,Detroit Tigers,Devin Williams,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+185,Spencer Torkelson,Detroit Tigers,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+186,Spencer Torkelson,Detroit Tigers,Nick Wittgren,Kansas City Royals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+187,Spencer Torkelson,Detroit Tigers,Carlos Hernandez,Kansas City Royals,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+188,Spencer Torkelson,Detroit Tigers,Daniel Lynch IV,Kansas City Royals,6,2,0,0,2,5,0,0,0,.333,.333,1.333,1.666
+189,Spencer Torkelson,Detroit Tigers,Ryan Yarbrough,Kansas City Royals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+190,Spencer Torkelson,Detroit Tigers,Zack Greinke,Kansas City Royals,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+191,Spencer Torkelson,Detroit Tigers,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+192,Spencer Torkelson,Detroit Tigers,Max Castillo,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+193,Spencer Torkelson,Detroit Tigers,Aroldis Chapman,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+194,Spencer Torkelson,Detroit Tigers,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+195,Spencer Torkelson,Detroit Tigers,Austin Cox,Kansas City Royals,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+196,Spencer Torkelson,Detroit Tigers,Jose Cuas,Kansas City Royals,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+197,Spencer Torkelson,Detroit Tigers,Jackson Kowar,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+198,Spencer Torkelson,Detroit Tigers,Jordan Lyles,Kansas City Royals,6,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+199,Spencer Torkelson,Detroit Tigers,Mike Mayers,Kansas City Royals,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+200,Spencer Torkelson,Detroit Tigers,Brady Singer,Kansas City Royals,4,0,0,0,0,0,2,0,1,.000,.333,.000,.333
+201,Spencer Torkelson,Detroit Tigers,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+202,Spencer Torkelson,Detroit Tigers,Josh Taylor,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+203,Spencer Torkelson,Detroit Tigers,Sam Moll,Oakland Athletics,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+204,Spencer Torkelson,Detroit Tigers,Jace Peterson,Oakland Athletics,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+205,Spencer Torkelson,Detroit Tigers,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+206,Spencer Torkelson,Detroit Tigers,Rico Garcia,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+207,Spencer Torkelson,Detroit Tigers,Hogan Harris,Oakland Athletics,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+208,Spencer Torkelson,Detroit Tigers,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+209,Spencer Torkelson,Detroit Tigers,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+210,Spencer Torkelson,Detroit Tigers,JP Sears,Oakland Athletics,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+211,Spencer Torkelson,Detroit Tigers,Ken Waldichuk,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

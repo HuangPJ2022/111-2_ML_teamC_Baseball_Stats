@@ -1,0 +1,199 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Ha-Seong Kim,San Diego Padres,Dylan Dodd,Atlanta Braves,1,1,1,0,0,1,1,0,0,1.000,1.000,2.000,3.000
+1,Ha-Seong Kim,San Diego Padres,Lucas Luetge,Atlanta Braves,3,1,0,0,1,2,0,0,0,.333,.333,1.333,1.666
+2,Ha-Seong Kim,San Diego Padres,Charlie Morton,Atlanta Braves,3,1,1,0,0,0,1,0,1,.333,.500,.667,1.167
+3,Ha-Seong Kim,San Diego Padres,Spencer Strider,Atlanta Braves,4,1,0,0,0,0,0,0,3,.250,.250,.250,.500
+4,Ha-Seong Kim,San Diego Padres,Jesse Chavez,Atlanta Braves,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+5,Ha-Seong Kim,San Diego Padres,Max Fried,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Ha-Seong Kim,San Diego Padres,Joe Jimenez,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Ha-Seong Kim,San Diego Padres,Dylan Lee,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Ha-Seong Kim,San Diego Padres,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Ha-Seong Kim,San Diego Padres,Jared Shuster,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+10,Ha-Seong Kim,San Diego Padres,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Ha-Seong Kim,San Diego Padres,Kirby Yates,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Ha-Seong Kim,San Diego Padres,Danny Young,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Ha-Seong Kim,San Diego Padres,Clayton Kershaw,Los Angeles Dodgers,2,1,0,0,0,1,1,0,0,.500,.667,.500,1.167
+14,Ha-Seong Kim,San Diego Padres,Julio Urias,Los Angeles Dodgers,6,3,0,0,1,1,0,0,1,.500,.500,1.000,1.500
+15,Ha-Seong Kim,San Diego Padres,Dustin May,Los Angeles Dodgers,5,1,1,0,0,2,0,0,1,.200,.200,.400,.600
+16,Ha-Seong Kim,San Diego Padres,Caleb Ferguson,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Ha-Seong Kim,San Diego Padres,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Ha-Seong Kim,San Diego Padres,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Ha-Seong Kim,San Diego Padres,Shelby Miller,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+20,Ha-Seong Kim,San Diego Padres,Evan Phillips,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+21,Ha-Seong Kim,San Diego Padres,Jaime Barria,Los Angeles Angels,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+22,Ha-Seong Kim,San Diego Padres,Shohei Ohtani,Los Angeles Angels,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+23,Ha-Seong Kim,San Diego Padres,Sam Bachman,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Ha-Seong Kim,San Diego Padres,Tucker Davidson,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Ha-Seong Kim,San Diego Padres,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+26,Ha-Seong Kim,San Diego Padres,Gerardo Reyes,Los Angeles Angels,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+27,Ha-Seong Kim,San Diego Padres,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+28,Ha-Seong Kim,San Diego Padres,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Ha-Seong Kim,San Diego Padres,Zack Littell,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+30,Ha-Seong Kim,San Diego Padres,Shawn Armstrong,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+31,Ha-Seong Kim,San Diego Padres,Zach Eflin,Tampa Bay Rays,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+32,Ha-Seong Kim,San Diego Padres,Shane McClanahan,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Ha-Seong Kim,San Diego Padres,Nick Pivetta,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+34,Ha-Seong Kim,San Diego Padres,James Paxton,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+35,Ha-Seong Kim,San Diego Padres,Chris Sale,Boston Red Sox,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+36,Ha-Seong Kim,San Diego Padres,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Ha-Seong Kim,San Diego Padres,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Ha-Seong Kim,San Diego Padres,Corey Kluber,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Ha-Seong Kim,San Diego Padres,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Ha-Seong Kim,San Diego Padres,Josh Winckowski,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Ha-Seong Kim,San Diego Padres,Scott McGough,Arizona Diamondbacks,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+42,Ha-Seong Kim,San Diego Padres,Kyle Nelson,Arizona Diamondbacks,2,1,0,0,0,2,0,0,0,.500,.500,.500,1.000
+43,Ha-Seong Kim,San Diego Padres,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Ha-Seong Kim,San Diego Padres,Zac Gallen,Arizona Diamondbacks,4,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+45,Ha-Seong Kim,San Diego Padres,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Ha-Seong Kim,San Diego Padres,Drey Jameson,Arizona Diamondbacks,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+47,Ha-Seong Kim,San Diego Padres,Merrill Kelly,Arizona Diamondbacks,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+48,Ha-Seong Kim,San Diego Padres,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Ha-Seong Kim,San Diego Padres,Anthony Misiewicz,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Ha-Seong Kim,San Diego Padres,Ryne Nelson,Arizona Diamondbacks,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Ha-Seong Kim,San Diego Padres,Peter Solomon,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Ha-Seong Kim,San Diego Padres,Cole Sulser,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Ha-Seong Kim,San Diego Padres,Eduardo Salazar,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+54,Ha-Seong Kim,San Diego Padres,Alex Young,Cincinnati Reds,1,1,0,0,1,3,0,0,0,1.000,1.000,4.000,5.000
+55,Ha-Seong Kim,San Diego Padres,Graham Ashcraft,Cincinnati Reds,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+56,Ha-Seong Kim,San Diego Padres,Luke Weaver,Cincinnati Reds,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+57,Ha-Seong Kim,San Diego Padres,Andrew Abbott,Cincinnati Reds,3,1,0,0,1,1,1,0,0,.333,.500,1.333,1.833
+58,Ha-Seong Kim,San Diego Padres,Luis Cessa,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+59,Ha-Seong Kim,San Diego Padres,Daniel Duarte,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+60,Ha-Seong Kim,San Diego Padres,Buck Farmer,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Ha-Seong Kim,San Diego Padres,Derek Law,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+62,Ha-Seong Kim,San Diego Padres,Casey Legumina,Cincinnati Reds,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+63,Ha-Seong Kim,San Diego Padres,Alec Mills,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Ha-Seong Kim,San Diego Padres,Brandon Williamson,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Ha-Seong Kim,San Diego Padres,Jay Jackson,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+66,Ha-Seong Kim,San Diego Padres,Trevor Richards,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+67,Ha-Seong Kim,San Diego Padres,Jose Berrios,Toronto Blue Jays,2,1,0,0,0,0,0,0,1,.500,.667,.500,1.167
+68,Ha-Seong Kim,San Diego Padres,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Ha-Seong Kim,San Diego Padres,Alek Manoah,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Ha-Seong Kim,San Diego Padres,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Ha-Seong Kim,San Diego Padres,Nate Pearson,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Ha-Seong Kim,San Diego Padres,Mitch White,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Ha-Seong Kim,San Diego Padres,Yunior Marte,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+74,Ha-Seong Kim,San Diego Padres,Andrew Vasquez,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+75,Ha-Seong Kim,San Diego Padres,Ranger Suarez,Philadelphia Phillies,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+76,Ha-Seong Kim,San Diego Padres,Gregory Soto,Philadelphia Phillies,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+77,Ha-Seong Kim,San Diego Padres,Zack Wheeler,Philadelphia Phillies,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+78,Ha-Seong Kim,San Diego Padres,Dylan Covey,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Ha-Seong Kim,San Diego Padres,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+80,Ha-Seong Kim,San Diego Padres,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Ha-Seong Kim,San Diego Padres,Luis F. Ortiz,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+82,Ha-Seong Kim,San Diego Padres,Cristopher Sanchez,Philadelphia Phillies,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+83,Ha-Seong Kim,San Diego Padres,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Ha-Seong Kim,San Diego Padres,Taijuan Walker,Philadelphia Phillies,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+85,Ha-Seong Kim,San Diego Padres,Adbert Alzolay,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+86,Ha-Seong Kim,San Diego Padres,Javier Assad,Chicago Cubs,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+87,Ha-Seong Kim,San Diego Padres,Jeremiah Estrada,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+88,Ha-Seong Kim,San Diego Padres,Julian Merryweather,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+89,Ha-Seong Kim,San Diego Padres,Michael Rucker,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+90,Ha-Seong Kim,San Diego Padres,Drew Smyly,Chicago Cubs,2,1,1,0,0,0,2,0,0,.500,.750,1.000,1.750
+91,Ha-Seong Kim,San Diego Padres,Hayden Wesneski,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+92,Ha-Seong Kim,San Diego Padres,Brad Boxberger,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+93,Ha-Seong Kim,San Diego Padres,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+94,Ha-Seong Kim,San Diego Padres,Kyle Hendricks,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Ha-Seong Kim,San Diego Padres,Mark Leiter Jr.,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Ha-Seong Kim,San Diego Padres,Justin Steele,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Ha-Seong Kim,San Diego Padres,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Ha-Seong Kim,San Diego Padres,Griffin Jax,Minnesota Twins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+99,Ha-Seong Kim,San Diego Padres,Louie Varland,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+100,Ha-Seong Kim,San Diego Padres,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+101,Ha-Seong Kim,San Diego Padres,Emilio Pagan,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+102,Ha-Seong Kim,San Diego Padres,JT Chargois,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+103,Ha-Seong Kim,San Diego Padres,Jesus Luzardo,Miami Marlins,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+104,Ha-Seong Kim,San Diego Padres,Sandy Alcantara,Miami Marlins,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+105,Ha-Seong Kim,San Diego Padres,Matt Barnes,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+106,Ha-Seong Kim,San Diego Padres,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+107,Ha-Seong Kim,San Diego Padres,Bryan Hoeing,Miami Marlins,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+108,Ha-Seong Kim,San Diego Padres,Steven Okert,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+109,Ha-Seong Kim,San Diego Padres,Jordan Weems,Washington Nationals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+110,Ha-Seong Kim,San Diego Padres,Patrick Corbin,Washington Nationals,3,2,0,0,1,3,0,0,0,.667,.667,1.667,2.334
+111,Ha-Seong Kim,San Diego Padres,Chad Kuhl,Washington Nationals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+112,Ha-Seong Kim,San Diego Padres,Trevor Williams,Washington Nationals,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+113,Ha-Seong Kim,San Diego Padres,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+114,Ha-Seong Kim,San Diego Padres,Paolo Espino,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+115,Ha-Seong Kim,San Diego Padres,MacKenzie Gore,Washington Nationals,5,0,0,0,0,0,1,0,2,.000,.167,.000,.167
+116,Ha-Seong Kim,San Diego Padres,Josiah Gray,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+117,Ha-Seong Kim,San Diego Padres,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Ha-Seong Kim,San Diego Padres,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Ha-Seong Kim,San Diego Padres,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Ha-Seong Kim,San Diego Padres,Camilo Doval,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+121,Ha-Seong Kim,San Diego Padres,Ryan Walker,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+122,Ha-Seong Kim,San Diego Padres,Anthony DeSclafani,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+123,Ha-Seong Kim,San Diego Padres,Keaton Winn,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+124,Ha-Seong Kim,San Diego Padres,Jakob Junis,San Francisco Giants,5,2,0,0,1,3,0,0,2,.400,.400,1.000,1.400
+125,Ha-Seong Kim,San Diego Padres,Scott Alexander,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+126,Ha-Seong Kim,San Diego Padres,Tristan Beck,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+127,Ha-Seong Kim,San Diego Padres,Sean Hjelle,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+128,Ha-Seong Kim,San Diego Padres,Luke Jackson,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Ha-Seong Kim,San Diego Padres,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+130,Ha-Seong Kim,San Diego Padres,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Ha-Seong Kim,San Diego Padres,Alex Wood,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+132,Ha-Seong Kim,San Diego Padres,T.J. McFarland,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+133,Ha-Seong Kim,San Diego Padres,David Peterson,New York Mets,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+134,Ha-Seong Kim,San Diego Padres,Brooks Raley,New York Mets,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+135,Ha-Seong Kim,San Diego Padres,Max Scherzer,New York Mets,5,2,0,0,0,0,0,0,2,.400,.400,.400,.800
+136,Ha-Seong Kim,San Diego Padres,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+137,Ha-Seong Kim,San Diego Padres,Drew Smith,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+138,Ha-Seong Kim,San Diego Padres,Justin Verlander,New York Mets,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+139,Ha-Seong Kim,San Diego Padres,Dinelson Lamet,Colorado Rockies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+140,Ha-Seong Kim,San Diego Padres,Kyle Freeland,Colorado Rockies,4,2,2,0,0,0,0,0,0,.500,.500,1.000,1.500
+141,Ha-Seong Kim,San Diego Padres,Brad Hand,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+142,Ha-Seong Kim,San Diego Padres,Austin Gomber,Colorado Rockies,3,1,0,0,0,1,2,0,1,.333,.600,.333,.933
+143,Ha-Seong Kim,San Diego Padres,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+144,Ha-Seong Kim,San Diego Padres,Jake Bird,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+145,Ha-Seong Kim,San Diego Padres,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+146,Ha-Seong Kim,San Diego Padres,Justin Lawrence,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+147,Ha-Seong Kim,San Diego Padres,German Marquez,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+148,Ha-Seong Kim,San Diego Padres,Brent Suter,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Ha-Seong Kim,San Diego Padres,Michael King,New York Yankees,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+150,Ha-Seong Kim,San Diego Padres,Gerrit Cole,New York Yankees,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+151,Ha-Seong Kim,San Diego Padres,Clay Holmes,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+152,Ha-Seong Kim,San Diego Padres,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Ha-Seong Kim,San Diego Padres,Luis Severino,New York Yankees,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+154,Ha-Seong Kim,San Diego Padres,Chris Flexen,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+155,Ha-Seong Kim,San Diego Padres,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Ha-Seong Kim,San Diego Padres,Logan Gilbert,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+157,Ha-Seong Kim,San Diego Padres,George Kirby,Seattle Mariners,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+158,Ha-Seong Kim,San Diego Padres,Andres Munoz,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Ha-Seong Kim,San Diego Padres,Logan Allen,Cleveland Guardians,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+160,Ha-Seong Kim,San Diego Padres,Eli Morgan,Cleveland Guardians,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+161,Ha-Seong Kim,San Diego Padres,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+162,Ha-Seong Kim,San Diego Padres,Xzavion Curry,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Ha-Seong Kim,San Diego Padres,Sam Hentges,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Ha-Seong Kim,San Diego Padres,Cody Morris,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+165,Ha-Seong Kim,San Diego Padres,Luis L. Ortiz,Pittsburgh Pirates,1,1,0,0,1,2,0,0,0,1.000,.500,4.000,4.500
+166,Ha-Seong Kim,San Diego Padres,Angel Perdomo,Pittsburgh Pirates,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+167,Ha-Seong Kim,San Diego Padres,Rich Hill,Pittsburgh Pirates,3,2,0,0,0,2,0,0,1,.667,.667,.667,1.334
+168,Ha-Seong Kim,San Diego Padres,Roansy Contreras,Pittsburgh Pirates,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+169,Ha-Seong Kim,San Diego Padres,Cody Bolton,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Ha-Seong Kim,San Diego Padres,Ryan Borucki,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Ha-Seong Kim,San Diego Padres,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+172,Ha-Seong Kim,San Diego Padres,Carmen Mlodzinski,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,Ha-Seong Kim,San Diego Padres,Devin Williams,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+174,Ha-Seong Kim,San Diego Padres,Wade Miley,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+175,Ha-Seong Kim,San Diego Padres,Matt Bush,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+176,Ha-Seong Kim,San Diego Padres,Javy Guerra,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+177,Ha-Seong Kim,San Diego Padres,Eric Lauer,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+178,Ha-Seong Kim,San Diego Padres,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Ha-Seong Kim,San Diego Padres,Colin Rea,Milwaukee Brewers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+180,Ha-Seong Kim,San Diego Padres,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Ha-Seong Kim,San Diego Padres,Zack Short,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+182,Ha-Seong Kim,San Diego Padres,Chasen Shreve,Detroit Tigers,2,2,1,0,1,1,0,0,0,1.000,1.000,3.000,4.000
+183,Ha-Seong Kim,San Diego Padres,Mason Englert,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+184,Ha-Seong Kim,San Diego Padres,Beau Brieske,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+185,Ha-Seong Kim,San Diego Padres,Matt Manning,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+186,Ha-Seong Kim,San Diego Padres,Reese Olson,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+187,Ha-Seong Kim,San Diego Padres,Brendan White,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+188,Ha-Seong Kim,San Diego Padres,Carlos Hernandez,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+189,Ha-Seong Kim,San Diego Padres,Josh Staumont,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+190,Ha-Seong Kim,San Diego Padres,Josh Taylor,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+191,Ha-Seong Kim,San Diego Padres,Scott Barlow,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+192,Ha-Seong Kim,San Diego Padres,Max Castillo,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+193,Ha-Seong Kim,San Diego Padres,Aroldis Chapman,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+194,Ha-Seong Kim,San Diego Padres,Taylor Clarke,Kansas City Royals,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+195,Ha-Seong Kim,San Diego Padres,Brad Keller,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+196,Ha-Seong Kim,San Diego Padres,Mike Mayers,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+197,Ha-Seong Kim,San Diego Padres,Brady Singer,Kansas City Royals,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000

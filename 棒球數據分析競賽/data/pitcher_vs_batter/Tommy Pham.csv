@@ -1,0 +1,136 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Tommy Pham,New York Mets,Michael Tonkin,Atlanta Braves,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+1,Tommy Pham,New York Mets,Charlie Morton,Atlanta Braves,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+2,Tommy Pham,New York Mets,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+3,Tommy Pham,New York Mets,Max Fried,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Tommy Pham,New York Mets,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Tommy Pham,New York Mets,Dylan Lee,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,Tommy Pham,New York Mets,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Tommy Pham,New York Mets,Spencer Strider,Atlanta Braves,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+8,Tommy Pham,New York Mets,Kirby Yates,Atlanta Braves,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+9,Tommy Pham,New York Mets,Phil Bickford,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+10,Tommy Pham,New York Mets,Ryan Brasier,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Tommy Pham,New York Mets,Justin Bruihl,Los Angeles Dodgers,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+12,Tommy Pham,New York Mets,Caleb Ferguson,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+13,Tommy Pham,New York Mets,Clayton Kershaw,Los Angeles Dodgers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Tommy Pham,New York Mets,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Tommy Pham,New York Mets,Julio Urias,Los Angeles Dodgers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Tommy Pham,New York Mets,Alex Vesia,Los Angeles Dodgers,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+17,Tommy Pham,New York Mets,Josh Fleming,Tampa Bay Rays,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+18,Tommy Pham,New York Mets,Trevor Kelley,Tampa Bay Rays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+19,Tommy Pham,New York Mets,Zack Littell,Tampa Bay Rays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+20,Tommy Pham,New York Mets,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Tommy Pham,New York Mets,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Tommy Pham,New York Mets,Chris Stratton,St. Louis Cardinals,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+23,Tommy Pham,New York Mets,Miles Mikolas,St. Louis Cardinals,3,2,0,0,0,2,0,0,0,.667,.667,.667,1.334
+24,Tommy Pham,New York Mets,Adam Wainwright,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+25,Tommy Pham,New York Mets,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Tommy Pham,New York Mets,Matthew Liberatore,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+27,Tommy Pham,New York Mets,Drew VerHagen,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Tommy Pham,New York Mets,Drey Jameson,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+29,Tommy Pham,New York Mets,Tommy Henry,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+30,Tommy Pham,New York Mets,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Tommy Pham,New York Mets,Zach Davies,Arizona Diamondbacks,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Tommy Pham,New York Mets,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Tommy Pham,New York Mets,Carson Kelly,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Tommy Pham,New York Mets,Scott McGough,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+35,Tommy Pham,New York Mets,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Tommy Pham,New York Mets,Jose Ruiz,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Tommy Pham,New York Mets,Yusei Kikuchi,Toronto Blue Jays,3,2,0,0,2,2,0,0,1,.667,.667,2.667,3.334
+38,Tommy Pham,New York Mets,Adam Cimber,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Tommy Pham,New York Mets,Jose Alvarado,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+40,Tommy Pham,New York Mets,Yunior Marte,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+41,Tommy Pham,New York Mets,Zack Wheeler,Philadelphia Phillies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+42,Tommy Pham,New York Mets,Dylan Covey,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Tommy Pham,New York Mets,Craig Kimbrel,Philadelphia Phillies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+44,Tommy Pham,New York Mets,Cristopher Sanchez,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Tommy Pham,New York Mets,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+46,Tommy Pham,New York Mets,Ranger Suarez,Philadelphia Phillies,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+47,Tommy Pham,New York Mets,Taijuan Walker,Philadelphia Phillies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+48,Tommy Pham,New York Mets,Julian Merryweather,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+49,Tommy Pham,New York Mets,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+50,Tommy Pham,New York Mets,Drew Smyly,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+51,Tommy Pham,New York Mets,Josh Hader,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+52,Tommy Pham,New York Mets,Brent Honeywell,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+53,Tommy Pham,New York Mets,Yu Darvish,San Diego Padres,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+54,Tommy Pham,New York Mets,Blake Snell,San Diego Padres,4,1,0,0,0,0,2,0,0,.250,.500,.250,.750
+55,Tommy Pham,New York Mets,Luis Garcia,San Diego Padres,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+56,Tommy Pham,New York Mets,Nick Martinez,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+57,Tommy Pham,New York Mets,Joe Musgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Tommy Pham,New York Mets,Ryan Weathers,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+59,Tommy Pham,New York Mets,Rafael Montero,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+60,Tommy Pham,New York Mets,Hunter Brown,Houston Astros,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+61,Tommy Pham,New York Mets,Shawn Dubin,Houston Astros,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+62,Tommy Pham,New York Mets,Framber Valdez,Houston Astros,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+63,Tommy Pham,New York Mets,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Tommy Pham,New York Mets,Cristian Javier,Houston Astros,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+65,Tommy Pham,New York Mets,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Tommy Pham,New York Mets,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Tommy Pham,New York Mets,Cory Abbott,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Tommy Pham,New York Mets,Patrick Corbin,Washington Nationals,2,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+69,Tommy Pham,New York Mets,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+70,Tommy Pham,New York Mets,Kyle Finnegan,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Tommy Pham,New York Mets,MacKenzie Gore,Washington Nationals,4,0,0,0,0,0,1,0,3,.000,.200,.000,.200
+72,Tommy Pham,New York Mets,Jake Irvin,Washington Nationals,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+73,Tommy Pham,New York Mets,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Tommy Pham,New York Mets,Erasmo Ramirez,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+75,Tommy Pham,New York Mets,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Tommy Pham,New York Mets,Braxton Garrett,Miami Marlins,4,2,0,0,0,0,0,0,1,.500,.500,.500,1.000
+77,Tommy Pham,New York Mets,Trevor Rogers,Miami Marlins,5,2,0,0,1,2,0,0,1,.400,.400,1.000,1.400
+78,Tommy Pham,New York Mets,Huascar Brazoban,Miami Marlins,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+79,Tommy Pham,New York Mets,Matt Barnes,Miami Marlins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+80,Tommy Pham,New York Mets,Jesus Luzardo,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Tommy Pham,New York Mets,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+82,Tommy Pham,New York Mets,Tanner Scott,Miami Marlins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+83,Tommy Pham,New York Mets,Taylor Rogers,San Francisco Giants,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+84,Tommy Pham,New York Mets,Tyler Rogers,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+85,Tommy Pham,New York Mets,Ryan Walker,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+86,Tommy Pham,New York Mets,Tristan Beck,San Francisco Giants,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+87,Tommy Pham,New York Mets,Alex Cobb,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+88,Tommy Pham,New York Mets,Sean Manaea,San Francisco Giants,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+89,Tommy Pham,New York Mets,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Tommy Pham,New York Mets,Anthony DeSclafani,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Tommy Pham,New York Mets,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+92,Tommy Pham,New York Mets,Ross Stripling,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Tommy Pham,New York Mets,Alex Wood,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+94,Tommy Pham,New York Mets,Justin Lawrence,Colorado Rockies,1,1,0,1,0,2,0,0,0,1.000,1.000,3.000,4.000
+95,Tommy Pham,New York Mets,Austin Gomber,Colorado Rockies,4,2,1,0,0,2,1,0,1,.500,.600,.750,1.350
+96,Tommy Pham,New York Mets,Jake Bird,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Tommy Pham,New York Mets,Matt Carasiti,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Tommy Pham,New York Mets,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+99,Tommy Pham,New York Mets,Connor Seabold,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Tommy Pham,New York Mets,Antonio Senzatela,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Tommy Pham,New York Mets,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Tommy Pham,New York Mets,Jimmy Cordero,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+103,Tommy Pham,New York Mets,Gerrit Cole,New York Yankees,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+104,Tommy Pham,New York Mets,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Tommy Pham,New York Mets,Tommy Kahnle,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Tommy Pham,New York Mets,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Tommy Pham,New York Mets,Luis Severino,New York Yankees,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+108,Tommy Pham,New York Mets,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Tommy Pham,New York Mets,David Bednar,Pittsburgh Pirates,2,2,2,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+110,Tommy Pham,New York Mets,Angel Perdomo,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+111,Tommy Pham,New York Mets,Johan Oviedo,Pittsburgh Pirates,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+112,Tommy Pham,New York Mets,Rich Hill,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+113,Tommy Pham,New York Mets,Mitch Keller,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Tommy Pham,New York Mets,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Tommy Pham,New York Mets,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Tommy Pham,New York Mets,Lucas Giolito,Chicago White Sox,3,2,1,0,0,1,0,0,1,.667,.667,1.000,1.667
+117,Tommy Pham,New York Mets,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+118,Tommy Pham,New York Mets,Reynaldo Lopez,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+119,Tommy Pham,New York Mets,Jesse Scholtens,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Tommy Pham,New York Mets,Bryan Shaw,Chicago White Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+121,Tommy Pham,New York Mets,Touki Toussaint,Chicago White Sox,1,0,0,0,0,0,2,0,0,.000,.667,.000,.667
+122,Tommy Pham,New York Mets,Adrian Houser,Milwaukee Brewers,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+123,Tommy Pham,New York Mets,Joel Payamps,Milwaukee Brewers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+124,Tommy Pham,New York Mets,Bryse Wilson,Milwaukee Brewers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+125,Tommy Pham,New York Mets,Julio Teheran,Milwaukee Brewers,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+126,Tommy Pham,New York Mets,Wade Miley,Milwaukee Brewers,4,1,0,0,1,1,1,0,1,.250,.400,1.000,1.400
+127,Tommy Pham,New York Mets,Javy Guerra,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Tommy Pham,New York Mets,Colin Rea,Milwaukee Brewers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Tommy Pham,New York Mets,Will Vest,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+130,Tommy Pham,New York Mets,Joey Wentz,Detroit Tigers,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+131,Tommy Pham,New York Mets,Eduardo Rodriguez,Detroit Tigers,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+132,Tommy Pham,New York Mets,JP Sears,Oakland Athletics,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+133,Tommy Pham,New York Mets,Dany Jimenez,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+134,Tommy Pham,New York Mets,Richard Lovelady,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

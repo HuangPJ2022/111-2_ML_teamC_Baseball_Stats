@@ -1,0 +1,48 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Luis Urias,Milwaukee Brewers,Ryne Nelson,Arizona Diamondbacks,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+1,Luis Urias,Milwaukee Brewers,Austin Adams,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+2,Luis Urias,Milwaukee Brewers,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Luis Urias,Milwaukee Brewers,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Luis Urias,Milwaukee Brewers,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Luis Urias,Milwaukee Brewers,Andrew Abbott,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+6,Luis Urias,Milwaukee Brewers,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Luis Urias,Milwaukee Brewers,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Luis Urias,Milwaukee Brewers,Keegan Akin,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Luis Urias,Milwaukee Brewers,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Luis Urias,Milwaukee Brewers,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Luis Urias,Milwaukee Brewers,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Luis Urias,Milwaukee Brewers,Yennier Cano,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Luis Urias,Milwaukee Brewers,Kyle Gibson,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+14,Luis Urias,Milwaukee Brewers,Austin Voth,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+15,Luis Urias,Milwaukee Brewers,Michael Fulmer,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Luis Urias,Milwaukee Brewers,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Luis Urias,Milwaukee Brewers,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Luis Urias,Milwaukee Brewers,Bailey Ober,Minnesota Twins,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+19,Luis Urias,Milwaukee Brewers,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Luis Urias,Milwaukee Brewers,Pablo Lopez,Minnesota Twins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+21,Luis Urias,Milwaukee Brewers,Brock Stewart,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Luis Urias,Milwaukee Brewers,Josh Winder,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Luis Urias,Milwaukee Brewers,Justin Verlander,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+24,Luis Urias,Milwaukee Brewers,T.J. McFarland,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Luis Urias,Milwaukee Brewers,David Peterson,New York Mets,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Luis Urias,Milwaukee Brewers,Brooks Raley,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+27,Luis Urias,Milwaukee Brewers,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Luis Urias,Milwaukee Brewers,Tanner Bibee,Cleveland Guardians,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+29,Luis Urias,Milwaukee Brewers,Shane Bieber,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+30,Luis Urias,Milwaukee Brewers,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Luis Urias,Milwaukee Brewers,Xzavion Curry,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Luis Urias,Milwaukee Brewers,Sam Hentges,Cleveland Guardians,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+33,Luis Urias,Milwaukee Brewers,Tim Herrin,Cleveland Guardians,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+34,Luis Urias,Milwaukee Brewers,Eli Morgan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Luis Urias,Milwaukee Brewers,David Bednar,Pittsburgh Pirates,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+36,Luis Urias,Milwaukee Brewers,Rich Hill,Pittsburgh Pirates,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+37,Luis Urias,Milwaukee Brewers,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Luis Urias,Milwaukee Brewers,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.333,.000,.333
+39,Luis Urias,Milwaukee Brewers,Dauri Moreta,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Luis Urias,Milwaukee Brewers,Luis L. Ortiz,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Luis Urias,Milwaukee Brewers,Angel Perdomo,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Luis Urias,Milwaukee Brewers,Luis Medina,Oakland Athletics,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+43,Luis Urias,Milwaukee Brewers,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Luis Urias,Milwaukee Brewers,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+45,Luis Urias,Milwaukee Brewers,Sam Moll,Oakland Athletics,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+46,Luis Urias,Milwaukee Brewers,JP Sears,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500

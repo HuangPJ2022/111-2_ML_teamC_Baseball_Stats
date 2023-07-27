@@ -1,0 +1,59 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Royce Lewis,Minnesota Twins,Michael Tonkin,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Royce Lewis,Minnesota Twins,Kolby Allard,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Royce Lewis,Minnesota Twins,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+3,Royce Lewis,Minnesota Twins,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Royce Lewis,Minnesota Twins,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Royce Lewis,Minnesota Twins,Jason Adam,Tampa Bay Rays,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+6,Royce Lewis,Minnesota Twins,Shawn Armstrong,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Royce Lewis,Minnesota Twins,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Royce Lewis,Minnesota Twins,Cooper Criswell,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Royce Lewis,Minnesota Twins,Jake Diekman,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Royce Lewis,Minnesota Twins,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Royce Lewis,Minnesota Twins,Kutter Crawford,Boston Red Sox,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+12,Royce Lewis,Minnesota Twins,Corey Kluber,Boston Red Sox,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+13,Royce Lewis,Minnesota Twins,Brandon Walter,Boston Red Sox,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+14,Royce Lewis,Minnesota Twins,Garrett Whitlock,Boston Red Sox,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+15,Royce Lewis,Minnesota Twins,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Royce Lewis,Minnesota Twins,Justin Garza,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Royce Lewis,Minnesota Twins,Kenley Jansen,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Royce Lewis,Minnesota Twins,Adam Cimber,Toronto Blue Jays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+19,Royce Lewis,Minnesota Twins,Kevin Gausman,Toronto Blue Jays,2,2,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+20,Royce Lewis,Minnesota Twins,Thomas Hatch,Toronto Blue Jays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+21,Royce Lewis,Minnesota Twins,Yusei Kikuchi,Toronto Blue Jays,2,2,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Royce Lewis,Minnesota Twins,Nate Pearson,Toronto Blue Jays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+23,Royce Lewis,Minnesota Twins,Cionel Perez,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+24,Royce Lewis,Minnesota Twins,Bruce Zimmermann,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+25,Royce Lewis,Minnesota Twins,Dean Kremer,Baltimore Orioles,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+26,Royce Lewis,Minnesota Twins,Kyle Bradish,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Royce Lewis,Minnesota Twins,Nick Vespi,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Royce Lewis,Minnesota Twins,Ryan Pressly,Houston Astros,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+29,Royce Lewis,Minnesota Twins,Brandon Bielak,Houston Astros,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+30,Royce Lewis,Minnesota Twins,J.P. France,Houston Astros,3,1,0,0,1,3,0,0,0,.333,.333,1.333,1.666
+31,Royce Lewis,Minnesota Twins,Seth Martinez,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Royce Lewis,Minnesota Twins,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Royce Lewis,Minnesota Twins,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Royce Lewis,Minnesota Twins,Trevor Stephan,Cleveland Guardians,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+35,Royce Lewis,Minnesota Twins,Logan Allen,Cleveland Guardians,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+36,Royce Lewis,Minnesota Twins,Tanner Bibee,Cleveland Guardians,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Royce Lewis,Minnesota Twins,Aaron Civale,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Royce Lewis,Minnesota Twins,Enyel De Los Santos,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+39,Royce Lewis,Minnesota Twins,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Royce Lewis,Minnesota Twins,Triston McKenzie,Cleveland Guardians,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+41,Royce Lewis,Minnesota Twins,Nick Sandlin,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Royce Lewis,Minnesota Twins,Corbin Burnes,Milwaukee Brewers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+43,Royce Lewis,Minnesota Twins,Tyson Miller,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Royce Lewis,Minnesota Twins,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Royce Lewis,Minnesota Twins,Jason Foley,Detroit Tigers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+46,Royce Lewis,Minnesota Twins,Will Vest,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+47,Royce Lewis,Minnesota Twins,Michael Lorenzen,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+48,Royce Lewis,Minnesota Twins,Reese Olson,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+49,Royce Lewis,Minnesota Twins,Brendan White,Detroit Tigers,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+50,Royce Lewis,Minnesota Twins,Matthew Boyd,Detroit Tigers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+51,Royce Lewis,Minnesota Twins,Joey Wentz,Detroit Tigers,4,1,0,0,1,1,1,0,1,.250,.400,1.000,1.400
+52,Royce Lewis,Minnesota Twins,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Royce Lewis,Minnesota Twins,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+54,Royce Lewis,Minnesota Twins,Mason Englert,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Royce Lewis,Minnesota Twins,Tyler Holton,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+56,Royce Lewis,Minnesota Twins,Alex Lange,Detroit Tigers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+57,Royce Lewis,Minnesota Twins,Chasen Shreve,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000

@@ -1,0 +1,113 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Stone Garrett,Washington Nationals,A.J. Minter,Atlanta Braves,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+1,Stone Garrett,Washington Nationals,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+2,Stone Garrett,Washington Nationals,Jared Shuster,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Stone Garrett,Washington Nationals,Josh Sborz,Texas Rangers,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+4,Stone Garrett,Washington Nationals,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Stone Garrett,Washington Nationals,Cody Bradford,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Stone Garrett,Washington Nationals,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Stone Garrett,Washington Nationals,Aroldis Chapman,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Stone Garrett,Washington Nationals,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+9,Stone Garrett,Washington Nationals,Glenn Otto,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+10,Stone Garrett,Washington Nationals,Phil Bickford,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+11,Stone Garrett,Washington Nationals,Shane McClanahan,Tampa Bay Rays,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+12,Stone Garrett,Washington Nationals,Ryan Thompson,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+13,Stone Garrett,Washington Nationals,Andre Pallante,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+14,Stone Garrett,Washington Nationals,Jake Woodford,St. Louis Cardinals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+15,Stone Garrett,Washington Nationals,Jordan Montgomery,St. Louis Cardinals,2,1,1,0,0,1,1,0,1,.500,.667,1.000,1.667
+16,Stone Garrett,Washington Nationals,JoJo Romero,St. Louis Cardinals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+17,Stone Garrett,Washington Nationals,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Stone Garrett,Washington Nationals,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Stone Garrett,Washington Nationals,Dakota Hudson,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Stone Garrett,Washington Nationals,Steven Matz,St. Louis Cardinals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Stone Garrett,Washington Nationals,Kyle Nelson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Stone Garrett,Washington Nationals,Ryne Nelson,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+23,Stone Garrett,Washington Nationals,Tommy Henry,Arizona Diamondbacks,8,2,0,0,1,4,0,0,0,.250,.250,.625,.875
+24,Stone Garrett,Washington Nationals,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Stone Garrett,Washington Nationals,Andrew Chafin,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+26,Stone Garrett,Washington Nationals,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Stone Garrett,Washington Nationals,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Stone Garrett,Washington Nationals,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Stone Garrett,Washington Nationals,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Stone Garrett,Washington Nationals,Brandon Williamson,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+31,Stone Garrett,Washington Nationals,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Stone Garrett,Washington Nationals,Kyle Bradish,Baltimore Orioles,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+33,Stone Garrett,Washington Nationals,Dean Kremer,Baltimore Orioles,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+34,Stone Garrett,Washington Nationals,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+35,Stone Garrett,Washington Nationals,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+36,Stone Garrett,Washington Nationals,Dylan Covey,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+37,Stone Garrett,Washington Nationals,Gregory Soto,Philadelphia Phillies,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+38,Stone Garrett,Washington Nationals,Cristopher Sanchez,Philadelphia Phillies,3,2,1,0,1,2,0,0,1,.667,.667,2.000,2.667
+39,Stone Garrett,Washington Nationals,Ranger Suarez,Philadelphia Phillies,5,2,0,0,1,5,0,0,1,.400,.333,1.000,1.333
+40,Stone Garrett,Washington Nationals,Jose Alvarado,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Stone Garrett,Washington Nationals,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Stone Garrett,Washington Nationals,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Stone Garrett,Washington Nationals,Daniel Palencia,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+44,Stone Garrett,Washington Nationals,Drew Smyly,Chicago Cubs,3,2,2,0,0,0,0,0,1,.667,.667,1.333,2.000
+45,Stone Garrett,Washington Nationals,Javier Assad,Chicago Cubs,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Stone Garrett,Washington Nationals,Jameson Taillon,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Stone Garrett,Washington Nationals,Adrian Morejon,San Diego Padres,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+48,Stone Garrett,Washington Nationals,Ryan Weathers,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+49,Stone Garrett,Washington Nationals,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Stone Garrett,Washington Nationals,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Stone Garrett,Washington Nationals,Tim Hill,San Diego Padres,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+52,Stone Garrett,Washington Nationals,Brent Honeywell,San Diego Padres,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+53,Stone Garrett,Washington Nationals,Blake Snell,San Diego Padres,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+54,Stone Garrett,Washington Nationals,Framber Valdez,Houston Astros,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+55,Stone Garrett,Washington Nationals,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Stone Garrett,Washington Nationals,Matt Gage,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Stone Garrett,Washington Nationals,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Stone Garrett,Washington Nationals,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Stone Garrett,Washington Nationals,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Stone Garrett,Washington Nationals,Tyler Mahle,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Stone Garrett,Washington Nationals,Bailey Ober,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+62,Stone Garrett,Washington Nationals,Caleb Thielbar,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+63,Stone Garrett,Washington Nationals,Braxton Garrett,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+64,Stone Garrett,Washington Nationals,Jesus Luzardo,Miami Marlins,5,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+65,Stone Garrett,Washington Nationals,Andrew Nardi,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+66,Stone Garrett,Washington Nationals,Steven Okert,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+67,Stone Garrett,Washington Nationals,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Stone Garrett,Washington Nationals,Tanner Scott,Miami Marlins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+69,Stone Garrett,Washington Nationals,Sean Manaea,San Francisco Giants,2,2,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+70,Stone Garrett,Washington Nationals,Anthony DeSclafani,San Francisco Giants,5,1,1,0,0,1,1,0,2,.200,.333,.400,.733
+71,Stone Garrett,Washington Nationals,Tristan Beck,San Francisco Giants,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+72,Stone Garrett,Washington Nationals,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Stone Garrett,Washington Nationals,Mauricio Llovera,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Stone Garrett,Washington Nationals,Cole Waites,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+75,Stone Garrett,Washington Nationals,Ryan Walker,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Stone Garrett,Washington Nationals,Alex Wood,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+77,Stone Garrett,Washington Nationals,Tommy Hunter,New York Mets,4,1,0,0,0,0,0,0,1,.250,.250,.250,.500
+78,Stone Garrett,Washington Nationals,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+79,Stone Garrett,Washington Nationals,Joey Lucchesi,New York Mets,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Stone Garrett,Washington Nationals,Zach Muckenhirn,New York Mets,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+81,Stone Garrett,Washington Nationals,Stephen Nogosek,New York Mets,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+82,Stone Garrett,Washington Nationals,David Peterson,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+83,Stone Garrett,Washington Nationals,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+84,Stone Garrett,Washington Nationals,Dennis Santana,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Stone Garrett,Washington Nationals,Austin Gomber,Colorado Rockies,3,3,1,0,1,5,0,0,0,1.000,1.000,2.333,3.333
+86,Stone Garrett,Washington Nationals,Connor Seabold,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+87,Stone Garrett,Washington Nationals,Ryan Feltner,Colorado Rockies,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+88,Stone Garrett,Washington Nationals,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Stone Garrett,Washington Nationals,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Stone Garrett,Washington Nationals,Brent Suter,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+91,Stone Garrett,Washington Nationals,Tayler Saucedo,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+92,Stone Garrett,Washington Nationals,Paul Sewald,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+93,Stone Garrett,Washington Nationals,Gabe Speier,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+94,Stone Garrett,Washington Nationals,Justin Topa,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+95,Stone Garrett,Washington Nationals,Nick Sandlin,Cleveland Guardians,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+96,Stone Garrett,Washington Nationals,Shane Bieber,Cleveland Guardians,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+97,Stone Garrett,Washington Nationals,Cody Bolton,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Stone Garrett,Washington Nationals,Rich Hill,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Stone Garrett,Washington Nationals,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Stone Garrett,Washington Nationals,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Stone Garrett,Washington Nationals,Vince Velasquez,Pittsburgh Pirates,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+102,Stone Garrett,Washington Nationals,Aroldis Chapman,Kansas City Royals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+103,Stone Garrett,Washington Nationals,Jose Cuas,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+104,Stone Garrett,Washington Nationals,Nick Wittgren,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+105,Stone Garrett,Washington Nationals,Scott Barlow,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Stone Garrett,Washington Nationals,Daniel Lynch IV,Kansas City Royals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Stone Garrett,Washington Nationals,Mason Englert,Detroit Tigers,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+108,Stone Garrett,Washington Nationals,Joey Wentz,Detroit Tigers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+109,Stone Garrett,Washington Nationals,Matthew Boyd,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+110,Stone Garrett,Washington Nationals,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+111,Stone Garrett,Washington Nationals,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

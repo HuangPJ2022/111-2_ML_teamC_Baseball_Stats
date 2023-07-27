@@ -1,0 +1,75 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Andrew Knizner,St. Louis Cardinals,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+1,Andrew Knizner,St. Louis Cardinals,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Andrew Knizner,St. Louis Cardinals,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+3,Andrew Knizner,St. Louis Cardinals,Evan Phillips,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+4,Andrew Knizner,St. Louis Cardinals,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Andrew Knizner,St. Louis Cardinals,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+6,Andrew Knizner,St. Louis Cardinals,Brennan Bernardino,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+7,Andrew Knizner,St. Louis Cardinals,Corey Kluber,Boston Red Sox,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+8,Andrew Knizner,St. Louis Cardinals,Richard Bleier,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Andrew Knizner,St. Louis Cardinals,Ryan Brasier,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+10,Andrew Knizner,St. Louis Cardinals,James Paxton,Boston Red Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+11,Andrew Knizner,St. Louis Cardinals,Chris Sale,Boston Red Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Andrew Knizner,St. Louis Cardinals,Kevin Ginkel,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Andrew Knizner,St. Louis Cardinals,Madison Bumgarner,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Andrew Knizner,St. Louis Cardinals,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+15,Andrew Knizner,St. Louis Cardinals,Peter Solomon,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+16,Andrew Knizner,St. Louis Cardinals,Alan Busenitz,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+17,Andrew Knizner,St. Louis Cardinals,Brandon Williamson,Cincinnati Reds,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+18,Andrew Knizner,St. Louis Cardinals,Luke Weaver,Cincinnati Reds,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+19,Andrew Knizner,St. Louis Cardinals,Andrew Abbott,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Andrew Knizner,St. Louis Cardinals,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+21,Andrew Knizner,St. Louis Cardinals,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Andrew Knizner,St. Louis Cardinals,Eduardo Salazar,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+23,Andrew Knizner,St. Louis Cardinals,Lucas Sims,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Andrew Knizner,St. Louis Cardinals,Kevin Gausman,Toronto Blue Jays,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+25,Andrew Knizner,St. Louis Cardinals,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Andrew Knizner,St. Louis Cardinals,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Andrew Knizner,St. Louis Cardinals,Javier Assad,Chicago Cubs,3,2,2,0,0,1,0,0,0,.667,.667,1.333,2.000
+28,Andrew Knizner,St. Louis Cardinals,Justin Steele,Chicago Cubs,6,1,0,0,0,1,0,0,2,.167,.167,.167,.334
+29,Andrew Knizner,St. Louis Cardinals,Brad Boxberger,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Andrew Knizner,St. Louis Cardinals,Marcus Stroman,Chicago Cubs,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+31,Andrew Knizner,St. Louis Cardinals,Jameson Taillon,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Andrew Knizner,St. Louis Cardinals,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Andrew Knizner,St. Louis Cardinals,Framber Valdez,Houston Astros,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+34,Andrew Knizner,St. Louis Cardinals,Jesus Luzardo,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+35,Andrew Knizner,St. Louis Cardinals,Thaddeus Ward,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+36,Andrew Knizner,St. Louis Cardinals,Josiah Gray,Washington Nationals,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+37,Andrew Knizner,St. Louis Cardinals,Joan Adon,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Andrew Knizner,St. Louis Cardinals,MacKenzie Gore,Washington Nationals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+39,Andrew Knizner,St. Louis Cardinals,Hunter Harvey,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+40,Andrew Knizner,St. Louis Cardinals,Logan Webb,San Francisco Giants,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+41,Andrew Knizner,St. Louis Cardinals,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Andrew Knizner,St. Louis Cardinals,Anthony DeSclafani,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+43,Andrew Knizner,St. Louis Cardinals,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Andrew Knizner,St. Louis Cardinals,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+45,Andrew Knizner,St. Louis Cardinals,Carlos Carrasco,New York Mets,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Andrew Knizner,St. Louis Cardinals,John Curtiss,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+47,Andrew Knizner,St. Louis Cardinals,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Andrew Knizner,St. Louis Cardinals,Matt Krook,New York Yankees,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+49,Andrew Knizner,St. Louis Cardinals,Luis Severino,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+50,Andrew Knizner,St. Louis Cardinals,Gerrit Cole,New York Yankees,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+51,Andrew Knizner,St. Louis Cardinals,Albert Abreu,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Andrew Knizner,St. Louis Cardinals,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Andrew Knizner,St. Louis Cardinals,Chris Flexen,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+54,Andrew Knizner,St. Louis Cardinals,Diego Castillo,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Andrew Knizner,St. Louis Cardinals,Penn Murfee,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Andrew Knizner,St. Louis Cardinals,Hunter Gaddis,Cleveland Guardians,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+57,Andrew Knizner,St. Louis Cardinals,Xzavion Curry,Cleveland Guardians,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Andrew Knizner,St. Louis Cardinals,Rich Hill,Pittsburgh Pirates,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+59,Andrew Knizner,St. Louis Cardinals,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+60,Andrew Knizner,St. Louis Cardinals,Roansy Contreras,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Andrew Knizner,St. Louis Cardinals,Rob Zastryzny,Pittsburgh Pirates,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Andrew Knizner,St. Louis Cardinals,Mike Brosseau,Milwaukee Brewers,1,1,0,0,1,4,0,0,0,1.000,1.000,4.000,5.000
+63,Andrew Knizner,St. Louis Cardinals,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Andrew Knizner,St. Louis Cardinals,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Andrew Knizner,St. Louis Cardinals,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Andrew Knizner,St. Louis Cardinals,Freddy Peralta,Milwaukee Brewers,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+67,Andrew Knizner,St. Louis Cardinals,Mason Englert,Detroit Tigers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+68,Andrew Knizner,St. Louis Cardinals,Tyler Holton,Detroit Tigers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+69,Andrew Knizner,St. Louis Cardinals,Matthew Boyd,Detroit Tigers,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+70,Andrew Knizner,St. Louis Cardinals,Spencer Turnbull,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+71,Andrew Knizner,St. Louis Cardinals,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Andrew Knizner,St. Louis Cardinals,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Andrew Knizner,St. Louis Cardinals,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000

@@ -1,0 +1,207 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Mookie Betts,Los Angeles Dodgers,A.J. Minter,Atlanta Braves,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,Mookie Betts,Los Angeles Dodgers,Bryce Elder,Atlanta Braves,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+2,Mookie Betts,Los Angeles Dodgers,Spencer Strider,Atlanta Braves,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+3,Mookie Betts,Los Angeles Dodgers,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Mookie Betts,Los Angeles Dodgers,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+5,Mookie Betts,Los Angeles Dodgers,Collin McHugh,Atlanta Braves,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+6,Mookie Betts,Los Angeles Dodgers,Charlie Morton,Atlanta Braves,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+7,Mookie Betts,Los Angeles Dodgers,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Mookie Betts,Los Angeles Dodgers,Kirby Yates,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Mookie Betts,Los Angeles Dodgers,Grant Anderson,Texas Rangers,1,1,1,0,0,2,1,0,0,1.000,1.000,2.000,3.000
+10,Mookie Betts,Los Angeles Dodgers,Glenn Otto,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+11,Mookie Betts,Los Angeles Dodgers,Dane Dunning,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Mookie Betts,Los Angeles Dodgers,Andrew Heaney,Texas Rangers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Mookie Betts,Los Angeles Dodgers,Alex Speas,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+14,Mookie Betts,Los Angeles Dodgers,Tyler Anderson,Los Angeles Angels,2,2,1,0,1,3,0,0,0,1.000,1.000,3.000,4.000
+15,Mookie Betts,Los Angeles Dodgers,Griffin Canning,Los Angeles Angels,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+16,Mookie Betts,Los Angeles Dodgers,Shohei Ohtani,Los Angeles Angels,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+17,Mookie Betts,Los Angeles Dodgers,Reid Detmers,Los Angeles Angels,5,1,0,0,1,1,1,1,4,.200,.333,.800,1.133
+18,Mookie Betts,Los Angeles Dodgers,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Mookie Betts,Los Angeles Dodgers,Aaron Loup,Los Angeles Angels,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+20,Mookie Betts,Los Angeles Dodgers,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Mookie Betts,Los Angeles Dodgers,Zack Weiss,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+22,Mookie Betts,Los Angeles Dodgers,Colin Poche,Tampa Bay Rays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+23,Mookie Betts,Los Angeles Dodgers,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+24,Mookie Betts,Los Angeles Dodgers,Cooper Criswell,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Mookie Betts,Los Angeles Dodgers,Calvin Faucher,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+26,Mookie Betts,Los Angeles Dodgers,Josh Fleming,Tampa Bay Rays,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Mookie Betts,Los Angeles Dodgers,Tyler Glasnow,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Mookie Betts,Los Angeles Dodgers,Trevor Kelley,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Mookie Betts,Los Angeles Dodgers,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Mookie Betts,Los Angeles Dodgers,Chris Stratton,St. Louis Cardinals,2,1,0,0,1,3,0,0,0,.500,.500,2.000,2.500
+31,Mookie Betts,Los Angeles Dodgers,Jake Woodford,St. Louis Cardinals,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+32,Mookie Betts,Los Angeles Dodgers,Jack Flaherty,St. Louis Cardinals,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+33,Mookie Betts,Los Angeles Dodgers,Miles Mikolas,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+34,Mookie Betts,Los Angeles Dodgers,Jordan Montgomery,St. Louis Cardinals,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+35,Mookie Betts,Los Angeles Dodgers,Adam Wainwright,St. Louis Cardinals,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+36,Mookie Betts,Los Angeles Dodgers,Giovanny Gallegos,St. Louis Cardinals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+37,Mookie Betts,Los Angeles Dodgers,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+38,Mookie Betts,Los Angeles Dodgers,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+39,Mookie Betts,Los Angeles Dodgers,Steven Matz,St. Louis Cardinals,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+40,Mookie Betts,Los Angeles Dodgers,JoJo Romero,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Mookie Betts,Los Angeles Dodgers,Drew VerHagen,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Mookie Betts,Los Angeles Dodgers,Kevin Ginkel,Arizona Diamondbacks,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+43,Mookie Betts,Los Angeles Dodgers,Madison Bumgarner,Arizona Diamondbacks,5,2,2,0,0,0,1,0,0,.400,.500,.800,1.300
+44,Mookie Betts,Los Angeles Dodgers,Drey Jameson,Arizona Diamondbacks,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+45,Mookie Betts,Los Angeles Dodgers,Ryne Nelson,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+46,Mookie Betts,Los Angeles Dodgers,Zach Davies,Arizona Diamondbacks,4,1,0,0,0,1,2,0,0,.250,.500,.250,.750
+47,Mookie Betts,Los Angeles Dodgers,Miguel Castro,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Mookie Betts,Los Angeles Dodgers,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+49,Mookie Betts,Los Angeles Dodgers,Merrill Kelly,Arizona Diamondbacks,4,0,0,0,0,0,1,0,2,.000,.200,.000,.200
+50,Mookie Betts,Los Angeles Dodgers,Scott McGough,Arizona Diamondbacks,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+51,Mookie Betts,Los Angeles Dodgers,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Mookie Betts,Los Angeles Dodgers,Peter Solomon,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Mookie Betts,Los Angeles Dodgers,Cole Sulser,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Mookie Betts,Los Angeles Dodgers,Carlos Vargas,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.333,.000,.333
+55,Mookie Betts,Los Angeles Dodgers,Fernando Cruz,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+56,Mookie Betts,Los Angeles Dodgers,Luke Weaver,Cincinnati Reds,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+57,Mookie Betts,Los Angeles Dodgers,Brandon Williamson,Cincinnati Reds,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+58,Mookie Betts,Los Angeles Dodgers,Graham Ashcraft,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.500,.000,.500
+59,Mookie Betts,Los Angeles Dodgers,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Mookie Betts,Los Angeles Dodgers,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+61,Mookie Betts,Los Angeles Dodgers,Ian Gibaut,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Mookie Betts,Los Angeles Dodgers,Eduardo Salazar,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Mookie Betts,Los Angeles Dodgers,Alex Young,Cincinnati Reds,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+64,Mookie Betts,Los Angeles Dodgers,Grayson Rodriguez,Baltimore Orioles,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+65,Mookie Betts,Los Angeles Dodgers,Mike Baumann,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+66,Mookie Betts,Los Angeles Dodgers,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Mookie Betts,Los Angeles Dodgers,Danny Coulombe,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+68,Mookie Betts,Los Angeles Dodgers,Cole Irvin,Baltimore Orioles,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+69,Mookie Betts,Los Angeles Dodgers,Dean Kremer,Baltimore Orioles,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+70,Mookie Betts,Los Angeles Dodgers,Cionel Perez,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+71,Mookie Betts,Los Angeles Dodgers,Nick Vespi,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Mookie Betts,Los Angeles Dodgers,Tyler Wells,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Mookie Betts,Los Angeles Dodgers,Connor Brogdon,Philadelphia Phillies,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+74,Mookie Betts,Los Angeles Dodgers,Andrew Vasquez,Philadelphia Phillies,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+75,Mookie Betts,Los Angeles Dodgers,Matt Strahm,Philadelphia Phillies,3,2,0,0,1,4,0,0,0,.667,.667,1.667,2.334
+76,Mookie Betts,Los Angeles Dodgers,Craig Kimbrel,Philadelphia Phillies,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+77,Mookie Betts,Los Angeles Dodgers,Gregory Soto,Philadelphia Phillies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+78,Mookie Betts,Los Angeles Dodgers,Aaron Nola,Philadelphia Phillies,7,3,0,0,0,3,0,0,0,.429,.429,.429,.858
+79,Mookie Betts,Los Angeles Dodgers,Ranger Suarez,Philadelphia Phillies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+80,Mookie Betts,Los Angeles Dodgers,Taijuan Walker,Philadelphia Phillies,6,2,0,0,0,0,0,0,2,.333,.333,.333,.666
+81,Mookie Betts,Los Angeles Dodgers,Jose Alvarado,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+82,Mookie Betts,Los Angeles Dodgers,Seranthony Dominguez,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+83,Mookie Betts,Los Angeles Dodgers,Michael Rucker,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+84,Mookie Betts,Los Angeles Dodgers,Adbert Alzolay,Chicago Cubs,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+85,Mookie Betts,Los Angeles Dodgers,Brad Boxberger,Chicago Cubs,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+86,Mookie Betts,Los Angeles Dodgers,Michael Fulmer,Chicago Cubs,2,1,1,0,0,2,0,0,0,.500,.500,1.000,1.500
+87,Mookie Betts,Los Angeles Dodgers,Marcus Stroman,Chicago Cubs,3,1,0,0,1,2,0,0,1,.333,.333,1.333,1.666
+88,Mookie Betts,Los Angeles Dodgers,Hayden Wesneski,Chicago Cubs,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+89,Mookie Betts,Los Angeles Dodgers,Drew Smyly,Chicago Cubs,5,1,1,0,0,0,1,0,0,.200,.333,.400,.733
+90,Mookie Betts,Los Angeles Dodgers,Jeremiah Estrada,Chicago Cubs,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+91,Mookie Betts,Los Angeles Dodgers,Mark Leiter Jr.,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Mookie Betts,Los Angeles Dodgers,Justin Steele,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+93,Mookie Betts,Los Angeles Dodgers,Jameson Taillon,Chicago Cubs,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+94,Mookie Betts,Los Angeles Dodgers,Keegan Thompson,Chicago Cubs,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+95,Mookie Betts,Los Angeles Dodgers,J.P. France,Houston Astros,2,1,0,0,1,2,0,0,0,.500,.333,2.000,2.333
+96,Mookie Betts,Los Angeles Dodgers,Hunter Brown,Houston Astros,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+97,Mookie Betts,Los Angeles Dodgers,Ronel Blanco,Houston Astros,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+98,Mookie Betts,Los Angeles Dodgers,Rafael Montero,Houston Astros,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+99,Mookie Betts,Los Angeles Dodgers,Hector Neris,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Mookie Betts,Los Angeles Dodgers,Ryan Pressly,Houston Astros,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+101,Mookie Betts,Los Angeles Dodgers,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Mookie Betts,Los Angeles Dodgers,Josh Hader,San Diego Padres,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+103,Mookie Betts,Los Angeles Dodgers,Tim Hill,San Diego Padres,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+104,Mookie Betts,Los Angeles Dodgers,Ryan Weathers,San Diego Padres,2,1,0,0,1,2,1,0,0,.500,.667,2.000,2.667
+105,Mookie Betts,Los Angeles Dodgers,Joe Musgrove,San Diego Padres,5,1,1,0,0,0,2,0,1,.200,.429,.400,.829
+106,Mookie Betts,Los Angeles Dodgers,Yu Darvish,San Diego Padres,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+107,Mookie Betts,Los Angeles Dodgers,Brent Honeywell,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+108,Mookie Betts,Los Angeles Dodgers,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+109,Mookie Betts,Los Angeles Dodgers,Blake Snell,San Diego Padres,5,0,0,0,0,0,1,0,1,.000,.167,.000,.167
+110,Mookie Betts,Los Angeles Dodgers,Steven Wilson,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+111,Mookie Betts,Los Angeles Dodgers,Sonny Gray,Minnesota Twins,2,2,0,1,0,1,1,0,0,1.000,1.000,2.000,3.000
+112,Mookie Betts,Los Angeles Dodgers,Bailey Ober,Minnesota Twins,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+113,Mookie Betts,Los Angeles Dodgers,Jose De Leon,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Mookie Betts,Los Angeles Dodgers,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+115,Mookie Betts,Los Angeles Dodgers,Griffin Jax,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+116,Mookie Betts,Los Angeles Dodgers,Jorge Lopez,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+117,Mookie Betts,Los Angeles Dodgers,Pablo Lopez,Minnesota Twins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+118,Mookie Betts,Los Angeles Dodgers,Emilio Pagan,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+119,Mookie Betts,Los Angeles Dodgers,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+120,Mookie Betts,Los Angeles Dodgers,Brock Stewart,Minnesota Twins,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+121,Mookie Betts,Los Angeles Dodgers,Tristan Beck,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+122,Mookie Betts,Los Angeles Dodgers,Camilo Doval,San Francisco Giants,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+123,Mookie Betts,Los Angeles Dodgers,Ryan Walker,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+124,Mookie Betts,Los Angeles Dodgers,Sean Hjelle,San Francisco Giants,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+125,Mookie Betts,Los Angeles Dodgers,Alex Cobb,San Francisco Giants,3,1,1,0,0,1,0,0,0,.333,.333,.667,1.000
+126,Mookie Betts,Los Angeles Dodgers,Logan Webb,San Francisco Giants,7,2,0,0,1,1,0,0,1,.286,.286,.714,1.000
+127,Mookie Betts,Los Angeles Dodgers,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Mookie Betts,Los Angeles Dodgers,John Brebbia,San Francisco Giants,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+129,Mookie Betts,Los Angeles Dodgers,Luke Jackson,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Mookie Betts,Los Angeles Dodgers,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+131,Mookie Betts,Los Angeles Dodgers,Sean Manaea,San Francisco Giants,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+132,Mookie Betts,Los Angeles Dodgers,Taylor Rogers,San Francisco Giants,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+133,Mookie Betts,Los Angeles Dodgers,Ross Stripling,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Mookie Betts,Los Angeles Dodgers,Alex Wood,San Francisco Giants,4,0,0,0,0,0,1,0,3,.000,.200,.000,.200
+135,Mookie Betts,Los Angeles Dodgers,Grant Hartwig,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+136,Mookie Betts,Los Angeles Dodgers,Kodai Senga,New York Mets,3,3,0,0,1,1,0,0,0,1.000,1.000,2.000,3.000
+137,Mookie Betts,Los Angeles Dodgers,Drew Smith,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+138,Mookie Betts,Los Angeles Dodgers,Trevor Gott,New York Mets,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+139,Mookie Betts,Los Angeles Dodgers,David Peterson,New York Mets,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+140,Mookie Betts,Los Angeles Dodgers,Justin Verlander,New York Mets,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+141,Mookie Betts,Los Angeles Dodgers,Brooks Raley,New York Mets,1,0,0,0,0,0,1,1,0,.000,.500,.000,.500
+142,Mookie Betts,Los Angeles Dodgers,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Mookie Betts,Los Angeles Dodgers,Max Scherzer,New York Mets,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+144,Mookie Betts,Los Angeles Dodgers,Kyle Finnegan,Washington Nationals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+145,Mookie Betts,Los Angeles Dodgers,Jake Irvin,Washington Nationals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+146,Mookie Betts,Los Angeles Dodgers,Trevor Williams,Washington Nationals,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+147,Mookie Betts,Los Angeles Dodgers,Patrick Corbin,Washington Nationals,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+148,Mookie Betts,Los Angeles Dodgers,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+149,Mookie Betts,Los Angeles Dodgers,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+150,Mookie Betts,Los Angeles Dodgers,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+151,Mookie Betts,Los Angeles Dodgers,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Mookie Betts,Los Angeles Dodgers,Chase Anderson,Colorado Rockies,2,2,2,0,0,1,0,0,0,1.000,.667,2.000,2.667
+153,Mookie Betts,Los Angeles Dodgers,Pierce Johnson,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+154,Mookie Betts,Los Angeles Dodgers,Kyle Freeland,Colorado Rockies,2,1,0,0,1,3,1,0,0,.500,.667,2.000,2.667
+155,Mookie Betts,Los Angeles Dodgers,German Marquez,Colorado Rockies,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+156,Mookie Betts,Los Angeles Dodgers,Ryan Feltner,Colorado Rockies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+157,Mookie Betts,Los Angeles Dodgers,Daniel Bard,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+158,Mookie Betts,Los Angeles Dodgers,Jake Bird,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+159,Mookie Betts,Los Angeles Dodgers,Matt Koch,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Mookie Betts,Los Angeles Dodgers,Peter Lambert,Colorado Rockies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+161,Mookie Betts,Los Angeles Dodgers,Nick Mears,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+162,Mookie Betts,Los Angeles Dodgers,Connor Seabold,Colorado Rockies,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+163,Mookie Betts,Los Angeles Dodgers,Albert Abreu,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+164,Mookie Betts,Los Angeles Dodgers,Luis Severino,New York Yankees,2,2,0,0,1,2,1,0,0,1.000,1.000,2.500,3.500
+165,Mookie Betts,Los Angeles Dodgers,Ryan Weber,New York Yankees,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+166,Mookie Betts,Los Angeles Dodgers,Gerrit Cole,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+167,Mookie Betts,Los Angeles Dodgers,Domingo German,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+168,Mookie Betts,Los Angeles Dodgers,Clay Holmes,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+169,Mookie Betts,Los Angeles Dodgers,Michael King,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Mookie Betts,Los Angeles Dodgers,Luis L. Ortiz,Pittsburgh Pirates,2,2,0,0,1,1,1,0,0,1.000,1.000,2.500,3.500
+171,Mookie Betts,Los Angeles Dodgers,Johan Oviedo,Pittsburgh Pirates,7,2,2,0,0,0,0,0,0,.286,.286,.571,.857
+172,Mookie Betts,Los Angeles Dodgers,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,Mookie Betts,Los Angeles Dodgers,Osvaldo Bido,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+174,Mookie Betts,Los Angeles Dodgers,Roansy Contreras,Pittsburgh Pirates,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+175,Mookie Betts,Los Angeles Dodgers,Yerry De Los Santos,Pittsburgh Pirates,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+176,Mookie Betts,Los Angeles Dodgers,Colin Holderman,Pittsburgh Pirates,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+177,Mookie Betts,Los Angeles Dodgers,Mitch Keller,Pittsburgh Pirates,4,0,0,0,0,0,2,0,1,.000,.333,.000,.333
+178,Mookie Betts,Los Angeles Dodgers,Dauri Moreta,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Mookie Betts,Los Angeles Dodgers,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Mookie Betts,Los Angeles Dodgers,Robert Stephenson,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+181,Mookie Betts,Los Angeles Dodgers,Duane Underwood Jr.,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+182,Mookie Betts,Los Angeles Dodgers,Garrett Crochet,Chicago White Sox,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+183,Mookie Betts,Los Angeles Dodgers,Joe Kelly,Chicago White Sox,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+184,Mookie Betts,Los Angeles Dodgers,Dylan Cease,Chicago White Sox,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+185,Mookie Betts,Los Angeles Dodgers,Mike Clevinger,Chicago White Sox,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+186,Mookie Betts,Los Angeles Dodgers,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+187,Mookie Betts,Los Angeles Dodgers,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+188,Mookie Betts,Los Angeles Dodgers,Lance Lynn,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+189,Mookie Betts,Los Angeles Dodgers,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+190,Mookie Betts,Los Angeles Dodgers,Eric Lauer,Milwaukee Brewers,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+191,Mookie Betts,Los Angeles Dodgers,Elvis Peguero,Milwaukee Brewers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+192,Mookie Betts,Los Angeles Dodgers,Wade Miley,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+193,Mookie Betts,Los Angeles Dodgers,Hoby Milner,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+194,Mookie Betts,Los Angeles Dodgers,Freddy Peralta,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+195,Mookie Betts,Los Angeles Dodgers,Colin Rea,Milwaukee Brewers,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+196,Mookie Betts,Los Angeles Dodgers,Gus Varland,Milwaukee Brewers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+197,Mookie Betts,Los Angeles Dodgers,Bryse Wilson,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+198,Mookie Betts,Los Angeles Dodgers,Carlos Hernandez,Kansas City Royals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+199,Mookie Betts,Los Angeles Dodgers,Alec Marsh,Kansas City Royals,3,3,0,0,2,3,0,0,0,1.000,1.000,3.000,4.000
+200,Mookie Betts,Los Angeles Dodgers,Nick Wittgren,Kansas City Royals,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+201,Mookie Betts,Los Angeles Dodgers,Brady Singer,Kansas City Royals,4,1,1,0,0,0,0,0,0,.250,.250,.500,.750
+202,Mookie Betts,Los Angeles Dodgers,Scott Barlow,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+203,Mookie Betts,Los Angeles Dodgers,Jose Cuas,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+204,Mookie Betts,Los Angeles Dodgers,Brooks Kriske,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+205,Mookie Betts,Los Angeles Dodgers,Daniel Lynch IV,Kansas City Royals,1,0,0,0,0,1,1,0,0,.000,.333,.000,.333

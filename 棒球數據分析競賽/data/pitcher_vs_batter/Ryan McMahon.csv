@@ -1,0 +1,195 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Ryan McMahon,Colorado Rockies,Ben Heller,Atlanta Braves,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+1,Ryan McMahon,Colorado Rockies,Kirby Yates,Atlanta Braves,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+2,Ryan McMahon,Colorado Rockies,AJ Smith-Shawver,Atlanta Braves,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+3,Ryan McMahon,Colorado Rockies,Charlie Morton,Atlanta Braves,2,1,0,0,1,2,1,0,0,.500,.667,2.000,2.667
+4,Ryan McMahon,Colorado Rockies,Bryce Elder,Atlanta Braves,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+5,Ryan McMahon,Colorado Rockies,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Ryan McMahon,Colorado Rockies,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Ryan McMahon,Colorado Rockies,Martin Perez,Texas Rangers,3,3,1,0,0,0,0,0,0,1.000,1.000,1.333,2.333
+8,Ryan McMahon,Colorado Rockies,Jon Gray,Texas Rangers,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+9,Ryan McMahon,Colorado Rockies,Joe Barlow,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Ryan McMahon,Colorado Rockies,Brock Burke,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Ryan McMahon,Colorado Rockies,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+12,Ryan McMahon,Colorado Rockies,Cole Ragans,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Ryan McMahon,Colorado Rockies,Brusdar Graterol,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+14,Ryan McMahon,Colorado Rockies,Julio Urias,Los Angeles Dodgers,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+15,Ryan McMahon,Colorado Rockies,Emmet Sheehan,Los Angeles Dodgers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+16,Ryan McMahon,Colorado Rockies,Michael Grove,Los Angeles Dodgers,4,1,0,0,0,0,1,0,1,.250,.400,.250,.650
+17,Ryan McMahon,Colorado Rockies,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,2,0,1,.000,.667,.000,.667
+18,Ryan McMahon,Colorado Rockies,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Ryan McMahon,Colorado Rockies,Clayton Kershaw,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Ryan McMahon,Colorado Rockies,Shelby Miller,Los Angeles Dodgers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+21,Ryan McMahon,Colorado Rockies,Nick Robertson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Ryan McMahon,Colorado Rockies,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+23,Ryan McMahon,Colorado Rockies,Tyler Anderson,Los Angeles Angels,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+24,Ryan McMahon,Colorado Rockies,Griffin Canning,Los Angeles Angels,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Ryan McMahon,Colorado Rockies,Chris Devenski,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+26,Ryan McMahon,Colorado Rockies,Patrick Sandoval,Los Angeles Angels,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+27,Ryan McMahon,Colorado Rockies,Jose Soriano,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Ryan McMahon,Colorado Rockies,Jacob Webb,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Ryan McMahon,Colorado Rockies,Corey Kluber,Boston Red Sox,1,1,0,1,0,0,0,0,0,1.000,1.000,3.000,4.000
+30,Ryan McMahon,Colorado Rockies,Garrett Whitlock,Boston Red Sox,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+31,Ryan McMahon,Colorado Rockies,James Paxton,Boston Red Sox,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+32,Ryan McMahon,Colorado Rockies,Kutter Crawford,Boston Red Sox,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+33,Ryan McMahon,Colorado Rockies,Joe Jacques,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Ryan McMahon,Colorado Rockies,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Ryan McMahon,Colorado Rockies,Nick Pivetta,Boston Red Sox,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+36,Ryan McMahon,Colorado Rockies,Josh Winckowski,Boston Red Sox,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+37,Ryan McMahon,Colorado Rockies,Miles Mikolas,St. Louis Cardinals,3,2,0,0,1,3,0,0,1,.667,.667,1.667,2.334
+38,Ryan McMahon,Colorado Rockies,Jack Flaherty,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+39,Ryan McMahon,Colorado Rockies,Genesis Cabrera,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Ryan McMahon,Colorado Rockies,Ryan Helsley,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+41,Ryan McMahon,Colorado Rockies,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Ryan McMahon,Colorado Rockies,Zack Thompson,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+43,Ryan McMahon,Colorado Rockies,Zach Davies,Arizona Diamondbacks,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+44,Ryan McMahon,Colorado Rockies,Zac Gallen,Arizona Diamondbacks,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+45,Ryan McMahon,Colorado Rockies,Drey Jameson,Arizona Diamondbacks,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+46,Ryan McMahon,Colorado Rockies,Merrill Kelly,Arizona Diamondbacks,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+47,Ryan McMahon,Colorado Rockies,Ryne Nelson,Arizona Diamondbacks,6,3,0,1,1,3,0,0,1,.500,.500,1.333,1.833
+48,Ryan McMahon,Colorado Rockies,Tommy Henry,Arizona Diamondbacks,5,2,2,0,0,1,1,0,2,.400,.500,.800,1.300
+49,Ryan McMahon,Colorado Rockies,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Ryan McMahon,Colorado Rockies,Scott McGough,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+51,Ryan McMahon,Colorado Rockies,Kyle Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Ryan McMahon,Colorado Rockies,Jose Ruiz,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+53,Ryan McMahon,Colorado Rockies,Peter Solomon,Arizona Diamondbacks,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+54,Ryan McMahon,Colorado Rockies,Ben Lively,Cincinnati Reds,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+55,Ryan McMahon,Colorado Rockies,Brandon Williamson,Cincinnati Reds,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+56,Ryan McMahon,Colorado Rockies,Andrew Abbott,Cincinnati Reds,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+57,Ryan McMahon,Colorado Rockies,Graham Ashcraft,Cincinnati Reds,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+58,Ryan McMahon,Colorado Rockies,Silvino Bracho,Cincinnati Reds,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+59,Ryan McMahon,Colorado Rockies,Fernando Cruz,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Ryan McMahon,Colorado Rockies,Alexis Diaz,Cincinnati Reds,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+61,Ryan McMahon,Colorado Rockies,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+62,Ryan McMahon,Colorado Rockies,Hunter Greene,Cincinnati Reds,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+63,Ryan McMahon,Colorado Rockies,Casey Legumina,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+64,Ryan McMahon,Colorado Rockies,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Ryan McMahon,Colorado Rockies,Jeff Hoffman,Philadelphia Phillies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+66,Ryan McMahon,Colorado Rockies,Taijuan Walker,Philadelphia Phillies,3,2,1,0,0,0,0,0,1,.667,.667,1.000,1.667
+67,Ryan McMahon,Colorado Rockies,Ranger Suarez,Philadelphia Phillies,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+68,Ryan McMahon,Colorado Rockies,Zack Wheeler,Philadelphia Phillies,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+69,Ryan McMahon,Colorado Rockies,Matt Strahm,Philadelphia Phillies,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+70,Ryan McMahon,Colorado Rockies,Aaron Nola,Philadelphia Phillies,5,1,0,0,1,3,1,0,0,.200,.333,.800,1.133
+71,Ryan McMahon,Colorado Rockies,Jose Alvarado,Philadelphia Phillies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+72,Ryan McMahon,Colorado Rockies,Connor Brogdon,Philadelphia Phillies,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+73,Ryan McMahon,Colorado Rockies,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+74,Ryan McMahon,Colorado Rockies,Craig Kimbrel,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+75,Ryan McMahon,Colorado Rockies,Luis F. Ortiz,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Ryan McMahon,Colorado Rockies,Cristopher Sanchez,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Ryan McMahon,Colorado Rockies,Tom Cosgrove,San Diego Padres,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+78,Ryan McMahon,Colorado Rockies,Domingo Tapia,San Diego Padres,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+79,Ryan McMahon,Colorado Rockies,Ryan Weathers,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+80,Ryan McMahon,Colorado Rockies,Yu Darvish,San Diego Padres,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+81,Ryan McMahon,Colorado Rockies,Josh Hader,San Diego Padres,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+82,Ryan McMahon,Colorado Rockies,Seth Lugo,San Diego Padres,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+83,Ryan McMahon,Colorado Rockies,Michael Wacha,San Diego Padres,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+84,Ryan McMahon,Colorado Rockies,Drew Carlton,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+85,Ryan McMahon,Colorado Rockies,Nabil Crismatt,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Ryan McMahon,Colorado Rockies,Tim Hill,San Diego Padres,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Ryan McMahon,Colorado Rockies,Nick Martinez,San Diego Padres,4,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+88,Ryan McMahon,Colorado Rockies,Blake Snell,San Diego Padres,5,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+89,Ryan McMahon,Colorado Rockies,Steven Wilson,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+90,Ryan McMahon,Colorado Rockies,Hunter Brown,Houston Astros,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+91,Ryan McMahon,Colorado Rockies,Bryan Abreu,Houston Astros,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+92,Ryan McMahon,Colorado Rockies,Brandon Bielak,Houston Astros,4,0,0,0,0,0,2,0,1,.000,.333,.000,.333
+93,Ryan McMahon,Colorado Rockies,J.P. France,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+94,Ryan McMahon,Colorado Rockies,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+95,Ryan McMahon,Colorado Rockies,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Ryan McMahon,Colorado Rockies,Anthony Banda,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+97,Ryan McMahon,Colorado Rockies,MacKenzie Gore,Washington Nationals,3,1,0,0,1,1,0,0,2,.333,.333,1.333,1.666
+98,Ryan McMahon,Colorado Rockies,Josiah Gray,Washington Nationals,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+99,Ryan McMahon,Colorado Rockies,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Ryan McMahon,Colorado Rockies,Hobie Harris,Washington Nationals,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+101,Ryan McMahon,Colorado Rockies,Hunter Harvey,Washington Nationals,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+102,Ryan McMahon,Colorado Rockies,Chad Kuhl,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+103,Ryan McMahon,Colorado Rockies,Mason Thompson,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+104,Ryan McMahon,Colorado Rockies,Trevor Williams,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Ryan McMahon,Colorado Rockies,Dylan Floro,Miami Marlins,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+106,Ryan McMahon,Colorado Rockies,Johnny Cueto,Miami Marlins,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+107,Ryan McMahon,Colorado Rockies,Braxton Garrett,Miami Marlins,3,1,0,0,0,0,1,0,1,.333,.500,.333,.833
+108,Ryan McMahon,Colorado Rockies,Tanner Scott,Miami Marlins,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+109,Ryan McMahon,Colorado Rockies,Sandy Alcantara,Miami Marlins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+110,Ryan McMahon,Colorado Rockies,Huascar Brazoban,Miami Marlins,1,0,0,0,0,1,2,1,0,.000,.667,.000,.667
+111,Ryan McMahon,Colorado Rockies,Edward Cabrera,Miami Marlins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+112,Ryan McMahon,Colorado Rockies,Jesus Luzardo,Miami Marlins,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+113,Ryan McMahon,Colorado Rockies,Andrew Nardi,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+114,Ryan McMahon,Colorado Rockies,Steven Okert,Miami Marlins,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+115,Ryan McMahon,Colorado Rockies,Eury Perez,Miami Marlins,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+116,Ryan McMahon,Colorado Rockies,George Soriano,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+117,Ryan McMahon,Colorado Rockies,John Brebbia,San Francisco Giants,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+118,Ryan McMahon,Colorado Rockies,Mauricio Llovera,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+119,Ryan McMahon,Colorado Rockies,Ryan Walker,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+120,Ryan McMahon,Colorado Rockies,Ross Stripling,San Francisco Giants,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+121,Ryan McMahon,Colorado Rockies,Alex Cobb,San Francisco Giants,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+122,Ryan McMahon,Colorado Rockies,Sean Manaea,San Francisco Giants,3,1,1,0,0,1,0,0,1,.333,.333,.667,1.000
+123,Ryan McMahon,Colorado Rockies,Logan Webb,San Francisco Giants,7,1,0,0,0,0,0,0,2,.143,.143,.143,.286
+124,Ryan McMahon,Colorado Rockies,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+125,Ryan McMahon,Colorado Rockies,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Ryan McMahon,Colorado Rockies,Camilo Doval,San Francisco Giants,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+127,Ryan McMahon,Colorado Rockies,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+128,Ryan McMahon,Colorado Rockies,Taylor Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+129,Ryan McMahon,Colorado Rockies,Alex Wood,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+130,Ryan McMahon,Colorado Rockies,David Robertson,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+131,Ryan McMahon,Colorado Rockies,Jimmy Yacabonis,New York Mets,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+132,Ryan McMahon,Colorado Rockies,Jeff Brigham,New York Mets,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+133,Ryan McMahon,Colorado Rockies,Tylor Megill,New York Mets,4,2,1,0,0,3,1,0,1,.500,.600,.750,1.350
+134,Ryan McMahon,Colorado Rockies,Stephen Nogosek,New York Mets,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+135,Ryan McMahon,Colorado Rockies,Max Scherzer,New York Mets,3,1,0,0,1,1,0,0,0,.333,.333,1.333,1.666
+136,Ryan McMahon,Colorado Rockies,Justin Verlander,New York Mets,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+137,Ryan McMahon,Colorado Rockies,Tommy Hunter,New York Mets,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+138,Ryan McMahon,Colorado Rockies,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+139,Ryan McMahon,Colorado Rockies,Joey Lucchesi,New York Mets,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+140,Ryan McMahon,Colorado Rockies,Brooks Raley,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+141,Ryan McMahon,Colorado Rockies,Kodai Senga,New York Mets,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Ryan McMahon,Colorado Rockies,Drew Smith,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Ryan McMahon,Colorado Rockies,Tommy Kahnle,New York Yankees,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+144,Ryan McMahon,Colorado Rockies,Gerrit Cole,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+145,Ryan McMahon,Colorado Rockies,Ian Hamilton,New York Yankees,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+146,Ryan McMahon,Colorado Rockies,Michael King,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+147,Ryan McMahon,Colorado Rockies,Carlos Rodon,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+148,Ryan McMahon,Colorado Rockies,Clarke Schmidt,New York Yankees,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Ryan McMahon,Colorado Rockies,Luis Castillo,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+150,Ryan McMahon,Colorado Rockies,Diego Castillo,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+151,Ryan McMahon,Colorado Rockies,Trevor Gott,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+152,Ryan McMahon,Colorado Rockies,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+153,Ryan McMahon,Colorado Rockies,Tommy Milone,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+154,Ryan McMahon,Colorado Rockies,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+155,Ryan McMahon,Colorado Rockies,Tanner Bibee,Cleveland Guardians,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+156,Ryan McMahon,Colorado Rockies,Peyton Battenfield,Cleveland Guardians,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+157,Ryan McMahon,Colorado Rockies,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+158,Ryan McMahon,Colorado Rockies,James Karinchak,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+159,Ryan McMahon,Colorado Rockies,Konnor Pilkington,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+160,Ryan McMahon,Colorado Rockies,Colin Holderman,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+161,Ryan McMahon,Colorado Rockies,Dauri Moreta,Pittsburgh Pirates,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+162,Ryan McMahon,Colorado Rockies,Duane Underwood Jr.,Pittsburgh Pirates,1,1,0,1,0,2,0,0,0,1.000,1.000,3.000,4.000
+163,Ryan McMahon,Colorado Rockies,Johan Oviedo,Pittsburgh Pirates,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+164,Ryan McMahon,Colorado Rockies,Robert Stephenson,Pittsburgh Pirates,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+165,Ryan McMahon,Colorado Rockies,Vince Velasquez,Pittsburgh Pirates,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+166,Ryan McMahon,Colorado Rockies,Rich Hill,Pittsburgh Pirates,5,1,0,0,0,0,0,0,1,.200,.200,.200,.400
+167,Ryan McMahon,Colorado Rockies,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Ryan McMahon,Colorado Rockies,Mitch Keller,Pittsburgh Pirates,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+169,Ryan McMahon,Colorado Rockies,Luis L. Ortiz,Pittsburgh Pirates,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Ryan McMahon,Colorado Rockies,Yohan Ramirez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Ryan McMahon,Colorado Rockies,Jake Cousins,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+172,Ryan McMahon,Colorado Rockies,Eric Lauer,Milwaukee Brewers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+173,Ryan McMahon,Colorado Rockies,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+174,Ryan McMahon,Colorado Rockies,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+175,Ryan McMahon,Colorado Rockies,Freddy Peralta,Milwaukee Brewers,2,0,0,0,0,0,1,0,2,.000,.333,.000,.333
+176,Ryan McMahon,Colorado Rockies,Carlos Hernandez,Kansas City Royals,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+177,Ryan McMahon,Colorado Rockies,Daniel Lynch IV,Kansas City Royals,3,2,0,0,0,1,0,0,1,.667,.667,.667,1.334
+178,Ryan McMahon,Colorado Rockies,Jordan Lyles,Kansas City Royals,2,1,0,0,1,1,0,0,1,.500,.500,2.000,2.500
+179,Ryan McMahon,Colorado Rockies,Scott Barlow,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+180,Ryan McMahon,Colorado Rockies,Aroldis Chapman,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+181,Ryan McMahon,Colorado Rockies,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+182,Ryan McMahon,Colorado Rockies,Brady Singer,Kansas City Royals,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+183,Ryan McMahon,Colorado Rockies,Josh Staumont,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Ryan McMahon,Colorado Rockies,Tyler Alexander,Detroit Tigers,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+185,Ryan McMahon,Colorado Rockies,Mason Englert,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+186,Ryan McMahon,Colorado Rockies,Michael Lorenzen,Detroit Tigers,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+187,Ryan McMahon,Colorado Rockies,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+188,Ryan McMahon,Colorado Rockies,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+189,Ryan McMahon,Colorado Rockies,Alex Lange,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+190,Ryan McMahon,Colorado Rockies,Zach Logue,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+191,Ryan McMahon,Colorado Rockies,Matt Manning,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+192,Ryan McMahon,Colorado Rockies,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+193,Ryan McMahon,Colorado Rockies,Brendan White,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

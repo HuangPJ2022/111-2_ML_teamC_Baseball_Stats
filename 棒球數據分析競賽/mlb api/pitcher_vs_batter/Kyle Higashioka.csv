@@ -1,0 +1,110 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Kyle Higashioka,New York Yankees,Dane Dunning,Texas Rangers,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+1,Kyle Higashioka,New York Yankees,Martin Perez,Texas Rangers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+2,Kyle Higashioka,New York Yankees,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Kyle Higashioka,New York Yankees,Jon Gray,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Kyle Higashioka,New York Yankees,Ian Kennedy,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Kyle Higashioka,New York Yankees,John King,Texas Rangers,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+6,Kyle Higashioka,New York Yankees,Yerry Rodriguez,Texas Rangers,0,0,0,0,0,1,1,0,0,.000,1.000,.000,1.000
+7,Kyle Higashioka,New York Yankees,Will Smith,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Kyle Higashioka,New York Yankees,Jacob deGrom,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+9,Kyle Higashioka,New York Yankees,Caleb Ferguson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Kyle Higashioka,New York Yankees,Brusdar Graterol,Los Angeles Dodgers,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+11,Kyle Higashioka,New York Yankees,Bobby Miller,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Kyle Higashioka,New York Yankees,Jose Soriano,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+13,Kyle Higashioka,New York Yankees,Chase Silseth,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+14,Kyle Higashioka,New York Yankees,Jose Suarez,Los Angeles Angels,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+15,Kyle Higashioka,New York Yankees,Jimmy Herget,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+16,Kyle Higashioka,New York Yankees,Matt Moore,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+17,Kyle Higashioka,New York Yankees,Jose Quijada,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Kyle Higashioka,New York Yankees,Patrick Sandoval,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+19,Kyle Higashioka,New York Yankees,Shane McClanahan,Tampa Bay Rays,1,1,0,0,1,2,1,0,0,1.000,1.000,4.000,5.000
+20,Kyle Higashioka,New York Yankees,Colin Poche,Tampa Bay Rays,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+21,Kyle Higashioka,New York Yankees,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Kyle Higashioka,New York Yankees,Javy Guerra,Tampa Bay Rays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+23,Kyle Higashioka,New York Yankees,Drew Rasmussen,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Kyle Higashioka,New York Yankees,Josh Winckowski,Boston Red Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+25,Kyle Higashioka,New York Yankees,Tanner Houck,Boston Red Sox,3,1,0,0,0,0,1,0,1,.333,.500,.333,.833
+26,Kyle Higashioka,New York Yankees,Brayan Bello,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Kyle Higashioka,New York Yankees,Joe Jacques,Boston Red Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Kyle Higashioka,New York Yankees,Corey Kluber,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+29,Kyle Higashioka,New York Yankees,Jack Flaherty,St. Louis Cardinals,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+30,Kyle Higashioka,New York Yankees,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Kyle Higashioka,New York Yankees,James Naile,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Kyle Higashioka,New York Yankees,Drew VerHagen,St. Louis Cardinals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+33,Kyle Higashioka,New York Yankees,Silvino Bracho,Cincinnati Reds,1,1,1,0,0,2,0,0,0,1.000,1.000,2.000,3.000
+34,Kyle Higashioka,New York Yankees,Ian Gibaut,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Kyle Higashioka,New York Yankees,Hunter Greene,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Kyle Higashioka,New York Yankees,Kevin Herget,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+37,Kyle Higashioka,New York Yankees,Ben Lively,Cincinnati Reds,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+38,Kyle Higashioka,New York Yankees,Yusei Kikuchi,Toronto Blue Jays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+39,Kyle Higashioka,New York Yankees,Alek Manoah,Toronto Blue Jays,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+40,Kyle Higashioka,New York Yankees,Jose Berrios,Toronto Blue Jays,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+41,Kyle Higashioka,New York Yankees,Yimi Garcia,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Kyle Higashioka,New York Yankees,Kevin Gausman,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+43,Kyle Higashioka,New York Yankees,Tim Mayza,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+44,Kyle Higashioka,New York Yankees,Nate Pearson,Toronto Blue Jays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Kyle Higashioka,New York Yankees,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Kyle Higashioka,New York Yankees,Erik Swanson,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+47,Kyle Higashioka,New York Yankees,Dean Kremer,Baltimore Orioles,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+48,Kyle Higashioka,New York Yankees,Tyler Wells,Baltimore Orioles,4,2,1,0,1,1,0,0,2,.500,.500,1.500,2.000
+49,Kyle Higashioka,New York Yankees,Mike Baumann,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+50,Kyle Higashioka,New York Yankees,Kyle Bradish,Baltimore Orioles,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+51,Kyle Higashioka,New York Yankees,Mychal Givens,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Kyle Higashioka,New York Yankees,Cole Irvin,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Kyle Higashioka,New York Yankees,Austin Voth,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+54,Kyle Higashioka,New York Yankees,Andrew Bellatti,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Kyle Higashioka,New York Yankees,Connor Brogdon,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Kyle Higashioka,New York Yankees,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Kyle Higashioka,New York Yankees,Michael Fulmer,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+58,Kyle Higashioka,New York Yankees,Kyle Hendricks,Chicago Cubs,3,2,0,0,1,1,0,0,1,.667,.667,1.667,2.334
+59,Kyle Higashioka,New York Yankees,Jameson Taillon,Chicago Cubs,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Kyle Higashioka,New York Yankees,Drew Carlton,San Diego Padres,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+61,Kyle Higashioka,New York Yankees,Yu Darvish,San Diego Padres,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+62,Kyle Higashioka,New York Yankees,Brent Honeywell,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+63,Kyle Higashioka,New York Yankees,Nick Martinez,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Kyle Higashioka,New York Yankees,Domingo Tapia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+65,Kyle Higashioka,New York Yankees,Michael Wacha,San Diego Padres,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+66,Kyle Higashioka,New York Yankees,Kenta Maeda,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+67,Kyle Higashioka,New York Yankees,Tyler Mahle,Minnesota Twins,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+68,Kyle Higashioka,New York Yankees,Jorge Alcala,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Kyle Higashioka,New York Yankees,Brent Headrick,Minnesota Twins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+70,Kyle Higashioka,New York Yankees,Jovani Moran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Kyle Higashioka,New York Yankees,Emilio Pagan,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+72,Kyle Higashioka,New York Yankees,Joe Ryan,Minnesota Twins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+73,Kyle Higashioka,New York Yankees,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Kyle Higashioka,New York Yankees,Ross Stripling,San Francisco Giants,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+75,Kyle Higashioka,New York Yankees,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Kyle Higashioka,New York Yankees,Sean Hjelle,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+77,Kyle Higashioka,New York Yankees,John Curtiss,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+78,Kyle Higashioka,New York Yankees,Max Scherzer,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+79,Kyle Higashioka,New York Yankees,Josh Walker,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Kyle Higashioka,New York Yankees,Austin Gomber,Colorado Rockies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+81,Kyle Higashioka,New York Yankees,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+82,Kyle Higashioka,New York Yankees,Gavin Hollowell,Colorado Rockies,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+83,Kyle Higashioka,New York Yankees,Matt Koch,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Kyle Higashioka,New York Yankees,Connor Seabold,Colorado Rockies,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+85,Kyle Higashioka,New York Yankees,Juan Then,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+86,Kyle Higashioka,New York Yankees,Chris Flexen,Seattle Mariners,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+87,Kyle Higashioka,New York Yankees,George Kirby,Seattle Mariners,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+88,Kyle Higashioka,New York Yankees,Luis Castillo,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Kyle Higashioka,New York Yankees,Bryce Miller,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Kyle Higashioka,New York Yankees,Gabe Speier,Seattle Mariners,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+91,Kyle Higashioka,New York Yankees,Bryan Woo,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+92,Kyle Higashioka,New York Yankees,Peyton Battenfield,Cleveland Guardians,2,1,0,0,0,1,0,0,1,.500,.500,.500,1.000
+93,Kyle Higashioka,New York Yankees,Shane Bieber,Cleveland Guardians,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+94,Kyle Higashioka,New York Yankees,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+95,Kyle Higashioka,New York Yankees,Lance Lynn,Chicago White Sox,2,2,1,0,0,1,0,0,0,1.000,1.000,1.500,2.500
+96,Kyle Higashioka,New York Yankees,Gregory Santos,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+97,Kyle Higashioka,New York Yankees,Scott Barlow,Kansas City Royals,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+98,Kyle Higashioka,New York Yankees,Taylor Clarke,Kansas City Royals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+99,Kyle Higashioka,New York Yankees,Jose Cuas,Kansas City Royals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Kyle Higashioka,New York Yankees,Jordan Lyles,Kansas City Royals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Kyle Higashioka,New York Yankees,Alec Marsh,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+102,Kyle Higashioka,New York Yankees,Kyle Muller,Oakland Athletics,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+103,Kyle Higashioka,New York Yankees,JP Sears,Oakland Athletics,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+104,Kyle Higashioka,New York Yankees,Shintaro Fujinami,Oakland Athletics,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+105,Kyle Higashioka,New York Yankees,Rico Garcia,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+106,Kyle Higashioka,New York Yankees,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Kyle Higashioka,New York Yankees,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Kyle Higashioka,New York Yankees,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

@@ -1,0 +1,89 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Kody Clemens,Philadelphia Phillies,Charlie Morton,Atlanta Braves,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+1,Kody Clemens,Philadelphia Phillies,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+2,Kody Clemens,Philadelphia Phillies,Jesse Chavez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Kody Clemens,Philadelphia Phillies,Bryce Elder,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Kody Clemens,Philadelphia Phillies,Raisel Iglesias,Atlanta Braves,2,0,0,0,0,1,0,0,1,.000,.000,.000,.000
+5,Kody Clemens,Philadelphia Phillies,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Kody Clemens,Philadelphia Phillies,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+7,Kody Clemens,Philadelphia Phillies,Dereck Rodriguez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+8,Kody Clemens,Philadelphia Phillies,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,1,0,2,.000,.250,.000,.250
+9,Kody Clemens,Philadelphia Phillies,Nick Robertson,Los Angeles Dodgers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+10,Kody Clemens,Philadelphia Phillies,Michael Grove,Los Angeles Dodgers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+11,Kody Clemens,Philadelphia Phillies,Andre Jackson,Los Angeles Dodgers,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+12,Kody Clemens,Philadelphia Phillies,Phil Bickford,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Kody Clemens,Philadelphia Phillies,Tony Gonsolin,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Kody Clemens,Philadelphia Phillies,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+15,Kody Clemens,Philadelphia Phillies,Adam Kolarek,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+16,Kody Clemens,Philadelphia Phillies,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Kody Clemens,Philadelphia Phillies,Bobby Miller,Los Angeles Dodgers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+18,Kody Clemens,Philadelphia Phillies,Alex Vesia,Los Angeles Dodgers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+19,Kody Clemens,Philadelphia Phillies,Drey Jameson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+20,Kody Clemens,Philadelphia Phillies,Jose Ruiz,Arizona Diamondbacks,2,1,1,0,0,1,1,0,0,.500,.667,1.000,1.667
+21,Kody Clemens,Philadelphia Phillies,Miguel Castro,Arizona Diamondbacks,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+22,Kody Clemens,Philadelphia Phillies,Zac Gallen,Arizona Diamondbacks,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+23,Kody Clemens,Philadelphia Phillies,Ryne Nelson,Arizona Diamondbacks,4,1,1,0,0,1,0,0,1,.250,.250,.500,.750
+24,Kody Clemens,Philadelphia Phillies,Andrew Chafin,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+25,Kody Clemens,Philadelphia Phillies,Zach Davies,Arizona Diamondbacks,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+26,Kody Clemens,Philadelphia Phillies,Merrill Kelly,Arizona Diamondbacks,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+27,Kody Clemens,Philadelphia Phillies,Joe Mantiply,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+28,Kody Clemens,Philadelphia Phillies,Scott McGough,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+29,Kody Clemens,Philadelphia Phillies,Kyle Nelson,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Kody Clemens,Philadelphia Phillies,Josh Rojas,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Kody Clemens,Philadelphia Phillies,Buck Farmer,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Kody Clemens,Philadelphia Phillies,Hunter Greene,Cincinnati Reds,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+33,Kody Clemens,Philadelphia Phillies,Derek Law,Cincinnati Reds,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+34,Kody Clemens,Philadelphia Phillies,Casey Legumina,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+35,Kody Clemens,Philadelphia Phillies,Jason Vosler,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+36,Kody Clemens,Philadelphia Phillies,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+37,Kody Clemens,Philadelphia Phillies,Michael Rucker,Chicago Cubs,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+38,Kody Clemens,Philadelphia Phillies,Jameson Taillon,Chicago Cubs,3,2,1,0,1,2,1,0,1,.667,.750,2.000,2.750
+39,Kody Clemens,Philadelphia Phillies,Javier Assad,Chicago Cubs,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+40,Kody Clemens,Philadelphia Phillies,Kyle Hendricks,Chicago Cubs,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+41,Kody Clemens,Philadelphia Phillies,Nick Burdi,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Kody Clemens,Philadelphia Phillies,Jeremiah Estrada,Chicago Cubs,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Kody Clemens,Philadelphia Phillies,Phil Maton,Houston Astros,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+44,Kody Clemens,Philadelphia Phillies,Jose Urquidy,Houston Astros,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+45,Kody Clemens,Philadelphia Phillies,Cristian Javier,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+46,Kody Clemens,Philadelphia Phillies,Seth Martinez,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+47,Kody Clemens,Philadelphia Phillies,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+48,Kody Clemens,Philadelphia Phillies,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+49,Kody Clemens,Philadelphia Phillies,Edward Cabrera,Miami Marlins,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+50,Kody Clemens,Philadelphia Phillies,Sandy Alcantara,Miami Marlins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Kody Clemens,Philadelphia Phillies,Devin Smeltzer,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+52,Kody Clemens,Philadelphia Phillies,Andres Machado,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+53,Kody Clemens,Philadelphia Phillies,Thaddeus Ward,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+54,Kody Clemens,Philadelphia Phillies,Carl Edwards Jr.,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+55,Kody Clemens,Philadelphia Phillies,Josiah Gray,Washington Nationals,4,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+56,Kody Clemens,Philadelphia Phillies,Mason Thompson,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Kody Clemens,Philadelphia Phillies,Ildemaro Vargas,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+58,Kody Clemens,Philadelphia Phillies,Trevor Williams,Washington Nationals,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Kody Clemens,Philadelphia Phillies,Alex Cobb,San Francisco Giants,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+60,Kody Clemens,Philadelphia Phillies,Tyler Rogers,San Francisco Giants,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+61,Kody Clemens,Philadelphia Phillies,John Brebbia,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+62,Kody Clemens,Philadelphia Phillies,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+63,Kody Clemens,Philadelphia Phillies,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Kody Clemens,Philadelphia Phillies,Ross Stripling,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Kody Clemens,Philadelphia Phillies,Brooks Raley,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+66,Kody Clemens,Philadelphia Phillies,Carlos Carrasco,New York Mets,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+67,Kody Clemens,Philadelphia Phillies,Kodai Senga,New York Mets,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+68,Kody Clemens,Philadelphia Phillies,Jeff Brigham,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+69,Kody Clemens,Philadelphia Phillies,David Robertson,New York Mets,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+70,Kody Clemens,Philadelphia Phillies,Max Scherzer,New York Mets,5,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+71,Kody Clemens,Philadelphia Phillies,Jake Bird,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+72,Kody Clemens,Philadelphia Phillies,Jose Urena,Colorado Rockies,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+73,Kody Clemens,Philadelphia Phillies,Brent Suter,Colorado Rockies,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+74,Kody Clemens,Philadelphia Phillies,Ryan Feltner,Colorado Rockies,1,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+75,Kody Clemens,Philadelphia Phillies,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+76,Kody Clemens,Philadelphia Phillies,Dinelson Lamet,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Kody Clemens,Philadelphia Phillies,Justin Lawrence,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Kody Clemens,Philadelphia Phillies,George Kirby,Seattle Mariners,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+79,Kody Clemens,Philadelphia Phillies,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Kody Clemens,Philadelphia Phillies,Tyler Holton,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+81,Kody Clemens,Philadelphia Phillies,Alex Lange,Detroit Tigers,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+82,Kody Clemens,Philadelphia Phillies,Reese Olson,Detroit Tigers,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+83,Kody Clemens,Philadelphia Phillies,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+84,Kody Clemens,Philadelphia Phillies,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+85,Kody Clemens,Philadelphia Phillies,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+86,Kody Clemens,Philadelphia Phillies,James Kaprielian,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Kody Clemens,Philadelphia Phillies,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

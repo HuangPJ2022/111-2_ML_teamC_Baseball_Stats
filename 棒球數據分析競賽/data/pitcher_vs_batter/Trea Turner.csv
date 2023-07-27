@@ -1,0 +1,204 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Trea Turner,Philadelphia Phillies,Lucas Luetge,Atlanta Braves,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+1,Trea Turner,Philadelphia Phillies,Charlie Morton,Atlanta Braves,3,2,1,0,0,1,0,0,0,.667,.667,1.000,1.667
+2,Trea Turner,Philadelphia Phillies,Nick Anderson,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Trea Turner,Philadelphia Phillies,Dylan Dodd,Atlanta Braves,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+4,Trea Turner,Philadelphia Phillies,Bryce Elder,Atlanta Braves,1,0,0,0,0,0,1,0,0,.000,.667,.000,.667
+5,Trea Turner,Philadelphia Phillies,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+6,Trea Turner,Philadelphia Phillies,Joe Jimenez,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+7,Trea Turner,Philadelphia Phillies,Collin McHugh,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Trea Turner,Philadelphia Phillies,A.J. Minter,Atlanta Braves,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+9,Trea Turner,Philadelphia Phillies,Dereck Rodriguez,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+10,Trea Turner,Philadelphia Phillies,Jared Shuster,Atlanta Braves,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+11,Trea Turner,Philadelphia Phillies,Spencer Strider,Atlanta Braves,6,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+12,Trea Turner,Philadelphia Phillies,Dane Dunning,Texas Rangers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+13,Trea Turner,Philadelphia Phillies,Martin Perez,Texas Rangers,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+14,Trea Turner,Philadelphia Phillies,Jacob deGrom,Texas Rangers,2,1,0,1,0,1,0,0,1,.500,.500,1.500,2.000
+15,Trea Turner,Philadelphia Phillies,Nathan Eovaldi,Texas Rangers,3,1,0,1,0,0,0,0,1,.333,.333,1.000,1.333
+16,Trea Turner,Philadelphia Phillies,Brock Burke,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Trea Turner,Philadelphia Phillies,Taylor Hearn,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Trea Turner,Philadelphia Phillies,Jose Leclerc,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Trea Turner,Philadelphia Phillies,Cole Ragans,Texas Rangers,0,0,0,0,0,0,1,1,0,.000,1.000,.000,1.000
+20,Trea Turner,Philadelphia Phillies,Caleb Ferguson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+21,Trea Turner,Philadelphia Phillies,Nick Robertson,Los Angeles Dodgers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+22,Trea Turner,Philadelphia Phillies,Tayler Scott,Los Angeles Dodgers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+23,Trea Turner,Philadelphia Phillies,Michael Grove,Los Angeles Dodgers,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+24,Trea Turner,Philadelphia Phillies,Julio Urias,Los Angeles Dodgers,2,1,0,0,1,1,1,0,1,.500,.667,2.000,2.667
+25,Trea Turner,Philadelphia Phillies,Tony Gonsolin,Los Angeles Dodgers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+26,Trea Turner,Philadelphia Phillies,Bobby Miller,Los Angeles Dodgers,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+27,Trea Turner,Philadelphia Phillies,Gavin Stone,Los Angeles Dodgers,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+28,Trea Turner,Philadelphia Phillies,Yency Almonte,Los Angeles Dodgers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+29,Trea Turner,Philadelphia Phillies,Victor Gonzalez,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Trea Turner,Philadelphia Phillies,Brusdar Graterol,Los Angeles Dodgers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Trea Turner,Philadelphia Phillies,Andre Jackson,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+32,Trea Turner,Philadelphia Phillies,Shelby Miller,Los Angeles Dodgers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+33,Trea Turner,Philadelphia Phillies,Alex Vesia,Los Angeles Dodgers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Trea Turner,Philadelphia Phillies,Yonny Chirinos,Tampa Bay Rays,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+35,Trea Turner,Philadelphia Phillies,Ryan Thompson,Tampa Bay Rays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+36,Trea Turner,Philadelphia Phillies,Shawn Armstrong,Tampa Bay Rays,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+37,Trea Turner,Philadelphia Phillies,Jalen Beeks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+38,Trea Turner,Philadelphia Phillies,Zach Eflin,Tampa Bay Rays,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+39,Trea Turner,Philadelphia Phillies,Pete Fairbanks,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+40,Trea Turner,Philadelphia Phillies,Kevin Kelly,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Trea Turner,Philadelphia Phillies,Zack Littell,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Trea Turner,Philadelphia Phillies,Luis Patino,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+43,Trea Turner,Philadelphia Phillies,Robert Stephenson,Tampa Bay Rays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+44,Trea Turner,Philadelphia Phillies,Brennan Bernardino,Boston Red Sox,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+45,Trea Turner,Philadelphia Phillies,Tanner Houck,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+46,Trea Turner,Philadelphia Phillies,Corey Kluber,Boston Red Sox,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+47,Trea Turner,Philadelphia Phillies,Chris Sale,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+48,Trea Turner,Philadelphia Phillies,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Trea Turner,Philadelphia Phillies,Kenley Jansen,Boston Red Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+50,Trea Turner,Philadelphia Phillies,Zack Littell,Boston Red Sox,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+51,Trea Turner,Philadelphia Phillies,Jose Ruiz,Arizona Diamondbacks,2,2,0,0,1,2,0,0,0,1.000,1.000,2.500,3.500
+52,Trea Turner,Philadelphia Phillies,Miguel Castro,Arizona Diamondbacks,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+53,Trea Turner,Philadelphia Phillies,Merrill Kelly,Arizona Diamondbacks,2,1,1,0,0,0,1,0,1,.500,.667,1.000,1.667
+54,Trea Turner,Philadelphia Phillies,Joe Mantiply,Arizona Diamondbacks,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+55,Trea Turner,Philadelphia Phillies,Ryne Nelson,Arizona Diamondbacks,6,2,0,0,0,1,0,0,1,.333,.333,.333,.666
+56,Trea Turner,Philadelphia Phillies,Austin Adams,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+57,Trea Turner,Philadelphia Phillies,Andrew Chafin,Arizona Diamondbacks,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+58,Trea Turner,Philadelphia Phillies,Zach Davies,Arizona Diamondbacks,0,0,0,0,0,0,2,0,0,.000,1.000,.000,1.000
+59,Trea Turner,Philadelphia Phillies,Zac Gallen,Arizona Diamondbacks,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Trea Turner,Philadelphia Phillies,Kevin Ginkel,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+61,Trea Turner,Philadelphia Phillies,Tommy Henry,Arizona Diamondbacks,5,0,0,0,0,0,1,0,2,.000,.167,.000,.167
+62,Trea Turner,Philadelphia Phillies,Drey Jameson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+63,Trea Turner,Philadelphia Phillies,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Trea Turner,Philadelphia Phillies,Luis Cessa,Cincinnati Reds,3,3,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+65,Trea Turner,Philadelphia Phillies,Derek Law,Cincinnati Reds,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+66,Trea Turner,Philadelphia Phillies,Fernando Cruz,Cincinnati Reds,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+67,Trea Turner,Philadelphia Phillies,Hunter Greene,Cincinnati Reds,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+68,Trea Turner,Philadelphia Phillies,Nick Lodolo,Cincinnati Reds,4,1,0,0,0,0,2,1,2,.250,.500,.250,.750
+69,Trea Turner,Philadelphia Phillies,Connor Overton,Cincinnati Reds,4,1,0,0,0,0,0,0,0,.250,.250,.250,.500
+70,Trea Turner,Philadelphia Phillies,Graham Ashcraft,Cincinnati Reds,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+71,Trea Turner,Philadelphia Phillies,Alexis Diaz,Cincinnati Reds,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+72,Trea Turner,Philadelphia Phillies,Kevin Herget,Cincinnati Reds,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Trea Turner,Philadelphia Phillies,Casey Legumina,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Trea Turner,Philadelphia Phillies,Reiver Sanmartin,Cincinnati Reds,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+75,Trea Turner,Philadelphia Phillies,Alex Young,Cincinnati Reds,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+76,Trea Turner,Philadelphia Phillies,Kevin Gausman,Toronto Blue Jays,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+77,Trea Turner,Philadelphia Phillies,Alek Manoah,Toronto Blue Jays,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+78,Trea Turner,Philadelphia Phillies,Tim Mayza,Toronto Blue Jays,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+79,Trea Turner,Philadelphia Phillies,Trevor Richards,Toronto Blue Jays,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+80,Trea Turner,Philadelphia Phillies,Erik Swanson,Toronto Blue Jays,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+81,Trea Turner,Philadelphia Phillies,Adbert Alzolay,Chicago Cubs,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+82,Trea Turner,Philadelphia Phillies,Kyle Hendricks,Chicago Cubs,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+83,Trea Turner,Philadelphia Phillies,Drew Smyly,Chicago Cubs,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+84,Trea Turner,Philadelphia Phillies,Jameson Taillon,Chicago Cubs,3,1,0,0,0,1,0,0,2,.333,.333,.333,.666
+85,Trea Turner,Philadelphia Phillies,Javier Assad,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Trea Turner,Philadelphia Phillies,Julian Merryweather,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+87,Trea Turner,Philadelphia Phillies,Justin Steele,Chicago Cubs,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+88,Trea Turner,Philadelphia Phillies,Marcus Stroman,Chicago Cubs,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+89,Trea Turner,Philadelphia Phillies,Hayden Wesneski,Chicago Cubs,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+90,Trea Turner,Philadelphia Phillies,Tim Hill,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+91,Trea Turner,Philadelphia Phillies,Brent Honeywell,San Diego Padres,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+92,Trea Turner,Philadelphia Phillies,Blake Snell,San Diego Padres,2,1,0,0,0,0,1,0,0,.500,.667,.500,1.167
+93,Trea Turner,Philadelphia Phillies,Ryan Weathers,San Diego Padres,2,1,1,0,0,0,1,0,0,.500,.667,1.000,1.667
+94,Trea Turner,Philadelphia Phillies,Seth Lugo,San Diego Padres,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+95,Trea Turner,Philadelphia Phillies,Tom Cosgrove,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+96,Trea Turner,Philadelphia Phillies,Yu Darvish,San Diego Padres,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+97,Trea Turner,Philadelphia Phillies,Luis Garcia,San Diego Padres,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+98,Trea Turner,Philadelphia Phillies,Josh Hader,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Trea Turner,Philadelphia Phillies,Nick Martinez,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+100,Trea Turner,Philadelphia Phillies,Ronel Blanco,Houston Astros,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+101,Trea Turner,Philadelphia Phillies,Jose Urquidy,Houston Astros,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+102,Trea Turner,Philadelphia Phillies,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+103,Trea Turner,Philadelphia Phillies,Cristian Javier,Houston Astros,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+104,Trea Turner,Philadelphia Phillies,Phil Maton,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Trea Turner,Philadelphia Phillies,Rafael Montero,Houston Astros,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+106,Trea Turner,Philadelphia Phillies,Framber Valdez,Houston Astros,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+107,Trea Turner,Philadelphia Phillies,Devin Smeltzer,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+108,Trea Turner,Philadelphia Phillies,Edward Cabrera,Miami Marlins,3,2,1,0,0,0,0,0,0,.667,.667,1.000,1.667
+109,Trea Turner,Philadelphia Phillies,Sandy Alcantara,Miami Marlins,6,3,0,0,0,1,0,0,0,.500,.500,.500,1.000
+110,Trea Turner,Philadelphia Phillies,Braxton Garrett,Miami Marlins,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+111,Trea Turner,Philadelphia Phillies,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+112,Trea Turner,Philadelphia Phillies,Dylan Floro,Miami Marlins,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Trea Turner,Philadelphia Phillies,Jesus Luzardo,Miami Marlins,6,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Trea Turner,Philadelphia Phillies,A.J. Puk,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+115,Trea Turner,Philadelphia Phillies,Tanner Scott,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+116,Trea Turner,Philadelphia Phillies,Joe La Sorsa,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+117,Trea Turner,Philadelphia Phillies,Amos Willingham,Washington Nationals,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+118,Trea Turner,Philadelphia Phillies,Josiah Gray,Washington Nationals,6,2,1,0,0,0,0,0,2,.333,.333,.500,.833
+119,Trea Turner,Philadelphia Phillies,MacKenzie Gore,Washington Nationals,4,1,1,0,0,1,1,0,1,.250,.400,.500,.900
+120,Trea Turner,Philadelphia Phillies,Kyle Finnegan,Washington Nationals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Trea Turner,Philadelphia Phillies,Hunter Harvey,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+122,Trea Turner,Philadelphia Phillies,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+123,Trea Turner,Philadelphia Phillies,Erasmo Ramirez,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+124,Trea Turner,Philadelphia Phillies,Mason Thompson,Washington Nationals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+125,Trea Turner,Philadelphia Phillies,Thaddeus Ward,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+126,Trea Turner,Philadelphia Phillies,Trevor Williams,Washington Nationals,6,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Trea Turner,Philadelphia Phillies,John Brebbia,San Francisco Giants,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+128,Trea Turner,Philadelphia Phillies,Ross Stripling,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+129,Trea Turner,Philadelphia Phillies,Alex Wood,San Francisco Giants,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+130,Trea Turner,Philadelphia Phillies,Alex Cobb,San Francisco Giants,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+131,Trea Turner,Philadelphia Phillies,Scott Alexander,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+132,Trea Turner,Philadelphia Phillies,Camilo Doval,San Francisco Giants,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+133,Trea Turner,Philadelphia Phillies,Jakob Junis,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+134,Trea Turner,Philadelphia Phillies,Sean Manaea,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+135,Trea Turner,Philadelphia Phillies,Tyler Rogers,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Trea Turner,Philadelphia Phillies,Jeff Brigham,New York Mets,2,1,0,0,0,3,0,0,0,.500,.667,.500,1.167
+137,Trea Turner,Philadelphia Phillies,Carlos Carrasco,New York Mets,5,2,0,0,1,2,0,0,0,.400,.400,1.000,1.400
+138,Trea Turner,Philadelphia Phillies,Max Scherzer,New York Mets,6,2,0,0,0,1,0,0,2,.333,.333,.333,.666
+139,Trea Turner,Philadelphia Phillies,Grant Hartwig,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+140,Trea Turner,Philadelphia Phillies,Dominic Leone,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+141,Trea Turner,Philadelphia Phillies,Adam Ottavino,New York Mets,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+142,Trea Turner,Philadelphia Phillies,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+143,Trea Turner,Philadelphia Phillies,Kodai Senga,New York Mets,5,0,0,0,0,0,1,0,1,.000,.167,.000,.167
+144,Trea Turner,Philadelphia Phillies,Justin Lawrence,Colorado Rockies,3,3,2,0,0,0,0,0,0,1.000,1.000,1.667,2.667
+145,Trea Turner,Philadelphia Phillies,Jose Urena,Colorado Rockies,2,1,0,0,1,1,0,0,0,.500,.500,2.000,2.500
+146,Trea Turner,Philadelphia Phillies,Noah Davis,Colorado Rockies,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+147,Trea Turner,Philadelphia Phillies,Kyle Freeland,Colorado Rockies,6,1,0,0,0,0,0,0,2,.167,.167,.167,.334
+148,Trea Turner,Philadelphia Phillies,Daniel Bard,Colorado Rockies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+149,Trea Turner,Philadelphia Phillies,Ryan Feltner,Colorado Rockies,4,0,0,0,0,0,1,0,1,.000,.200,.000,.200
+150,Trea Turner,Philadelphia Phillies,Austin Gomber,Colorado Rockies,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+151,Trea Turner,Philadelphia Phillies,Brad Hand,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+152,Trea Turner,Philadelphia Phillies,Pierce Johnson,Colorado Rockies,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+153,Trea Turner,Philadelphia Phillies,Peter Lambert,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+154,Trea Turner,Philadelphia Phillies,Dinelson Lamet,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+155,Trea Turner,Philadelphia Phillies,Brent Suter,Colorado Rockies,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+156,Trea Turner,Philadelphia Phillies,Albert Abreu,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+157,Trea Turner,Philadelphia Phillies,Ian Hamilton,New York Yankees,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+158,Trea Turner,Philadelphia Phillies,Michael King,New York Yankees,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+159,Trea Turner,Philadelphia Phillies,Gerrit Cole,New York Yankees,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+160,Trea Turner,Philadelphia Phillies,Nestor Cortes,New York Yankees,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+161,Trea Turner,Philadelphia Phillies,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+162,Trea Turner,Philadelphia Phillies,Domingo German,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Trea Turner,Philadelphia Phillies,Clay Holmes,New York Yankees,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+164,Trea Turner,Philadelphia Phillies,Jonathan Loaisiga,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,Trea Turner,Philadelphia Phillies,Gabe Speier,Seattle Mariners,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+166,Trea Turner,Philadelphia Phillies,Matt Brash,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+167,Trea Turner,Philadelphia Phillies,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+168,Trea Turner,Philadelphia Phillies,Marco Gonzales,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+169,Trea Turner,Philadelphia Phillies,George Kirby,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Trea Turner,Philadelphia Phillies,Tanner Bibee,Cleveland Guardians,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+171,Trea Turner,Philadelphia Phillies,Gavin Williams,Cleveland Guardians,3,1,0,1,0,0,0,0,0,.333,.333,1.000,1.333
+172,Trea Turner,Philadelphia Phillies,Emmanuel Clase,Cleveland Guardians,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+173,Trea Turner,Philadelphia Phillies,Nick Sandlin,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+174,Trea Turner,Philadelphia Phillies,Trevor Stephan,Cleveland Guardians,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+175,Trea Turner,Philadelphia Phillies,Mike Clevinger,Chicago White Sox,2,2,0,0,1,1,0,0,0,1.000,1.000,2.500,3.500
+176,Trea Turner,Philadelphia Phillies,Tanner Banks,Chicago White Sox,2,1,1,0,0,1,0,0,0,.500,.500,1.000,1.500
+177,Trea Turner,Philadelphia Phillies,Lucas Giolito,Chicago White Sox,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+178,Trea Turner,Philadelphia Phillies,Kendall Graveman,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Trea Turner,Philadelphia Phillies,Reynaldo Lopez,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+180,Trea Turner,Philadelphia Phillies,Lance Lynn,Chicago White Sox,3,0,0,0,0,0,1,0,1,.000,.250,.000,.250
+181,Trea Turner,Philadelphia Phillies,Gregory Santos,Chicago White Sox,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+182,Trea Turner,Philadelphia Phillies,Julio Teheran,Milwaukee Brewers,3,2,0,1,0,0,0,0,0,.667,.667,1.333,2.000
+183,Trea Turner,Philadelphia Phillies,Corbin Burnes,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+184,Trea Turner,Philadelphia Phillies,Joel Payamps,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+185,Trea Turner,Philadelphia Phillies,Colin Rea,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+186,Trea Turner,Philadelphia Phillies,Abner Uribe,Milwaukee Brewers,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+187,Trea Turner,Philadelphia Phillies,Mason Englert,Detroit Tigers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+188,Trea Turner,Philadelphia Phillies,Joey Wentz,Detroit Tigers,3,3,0,0,2,3,0,0,0,1.000,1.000,3.000,4.000
+189,Trea Turner,Philadelphia Phillies,Tyler Alexander,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+190,Trea Turner,Philadelphia Phillies,Jose Cisnero,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+191,Trea Turner,Philadelphia Phillies,Alex Lange,Detroit Tigers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+192,Trea Turner,Philadelphia Phillies,Reese Olson,Detroit Tigers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+193,Trea Turner,Philadelphia Phillies,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+194,Trea Turner,Philadelphia Phillies,Will Vest,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+195,Trea Turner,Philadelphia Phillies,Shintaro Fujinami,Oakland Athletics,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+196,Trea Turner,Philadelphia Phillies,James Kaprielian,Oakland Athletics,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+197,Trea Turner,Philadelphia Phillies,Lucas Erceg,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+198,Trea Turner,Philadelphia Phillies,Hogan Harris,Oakland Athletics,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+199,Trea Turner,Philadelphia Phillies,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+200,Trea Turner,Philadelphia Phillies,JP Sears,Oakland Athletics,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+201,Trea Turner,Philadelphia Phillies,Chad Smith,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+202,Trea Turner,Philadelphia Phillies,Ken Waldichuk,Oakland Athletics,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000

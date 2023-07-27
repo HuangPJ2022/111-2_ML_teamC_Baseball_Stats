@@ -1,0 +1,67 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Dominic Fletcher,Arizona Diamondbacks,Jose Leclerc,Texas Rangers,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+1,Dominic Fletcher,Arizona Diamondbacks,Jon Gray,Texas Rangers,3,2,0,0,0,1,0,0,0,.667,.667,.667,1.334
+2,Dominic Fletcher,Arizona Diamondbacks,Andrew Heaney,Texas Rangers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+3,Dominic Fletcher,Arizona Diamondbacks,Jonathan Hernandez,Texas Rangers,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+4,Dominic Fletcher,Arizona Diamondbacks,Yerry Rodriguez,Texas Rangers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Dominic Fletcher,Arizona Diamondbacks,Josh Sborz,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Dominic Fletcher,Arizona Diamondbacks,Sam Bachman,Los Angeles Angels,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+7,Dominic Fletcher,Arizona Diamondbacks,Victor Mederos,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+8,Dominic Fletcher,Arizona Diamondbacks,Jose Soriano,Los Angeles Angels,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+9,Dominic Fletcher,Arizona Diamondbacks,Tyler Anderson,Los Angeles Angels,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+10,Dominic Fletcher,Arizona Diamondbacks,Griffin Canning,Los Angeles Angels,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+11,Dominic Fletcher,Arizona Diamondbacks,Reid Detmers,Los Angeles Angels,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+12,Dominic Fletcher,Arizona Diamondbacks,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+13,Dominic Fletcher,Arizona Diamondbacks,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+14,Dominic Fletcher,Arizona Diamondbacks,Zack Wheeler,Philadelphia Phillies,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+15,Dominic Fletcher,Arizona Diamondbacks,Connor Brogdon,Philadelphia Phillies,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+16,Dominic Fletcher,Arizona Diamondbacks,Dylan Covey,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+17,Dominic Fletcher,Arizona Diamondbacks,Jeff Hoffman,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+18,Dominic Fletcher,Arizona Diamondbacks,Gregory Soto,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+19,Dominic Fletcher,Arizona Diamondbacks,Matt Strahm,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+20,Dominic Fletcher,Arizona Diamondbacks,Ranger Suarez,Philadelphia Phillies,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+21,Dominic Fletcher,Arizona Diamondbacks,Andrew Vasquez,Philadelphia Phillies,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+22,Dominic Fletcher,Arizona Diamondbacks,Dylan Floro,Miami Marlins,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Dominic Fletcher,Arizona Diamondbacks,Braxton Garrett,Miami Marlins,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+24,Dominic Fletcher,Arizona Diamondbacks,Jesus Luzardo,Miami Marlins,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+25,Dominic Fletcher,Arizona Diamondbacks,Mason Thompson,Washington Nationals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+26,Dominic Fletcher,Arizona Diamondbacks,Trevor Williams,Washington Nationals,2,2,1,0,0,0,0,0,0,1.000,1.000,1.500,2.500
+27,Dominic Fletcher,Arizona Diamondbacks,MacKenzie Gore,Washington Nationals,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+28,Dominic Fletcher,Arizona Diamondbacks,Josiah Gray,Washington Nationals,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+29,Dominic Fletcher,Arizona Diamondbacks,Kyle Finnegan,Washington Nationals,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Dominic Fletcher,Arizona Diamondbacks,Hobie Harris,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Dominic Fletcher,Arizona Diamondbacks,Hunter Harvey,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Dominic Fletcher,Arizona Diamondbacks,Andres Machado,Washington Nationals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Dominic Fletcher,Arizona Diamondbacks,Thaddeus Ward,Washington Nationals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+34,Dominic Fletcher,Arizona Diamondbacks,Scott Alexander,San Francisco Giants,1,1,0,1,0,3,0,0,0,1.000,1.000,3.000,4.000
+35,Dominic Fletcher,Arizona Diamondbacks,Tristan Beck,San Francisco Giants,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+36,Dominic Fletcher,Arizona Diamondbacks,Jakob Junis,San Francisco Giants,1,1,1,0,0,1,0,0,0,1.000,1.000,2.000,3.000
+37,Dominic Fletcher,Arizona Diamondbacks,Ross Stripling,San Francisco Giants,2,2,0,0,1,3,0,0,0,1.000,1.000,2.500,3.500
+38,Dominic Fletcher,Arizona Diamondbacks,Cole Waites,San Francisco Giants,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+39,Dominic Fletcher,Arizona Diamondbacks,Alex Cobb,San Francisco Giants,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+40,Dominic Fletcher,Arizona Diamondbacks,Anthony DeSclafani,San Francisco Giants,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Dominic Fletcher,Arizona Diamondbacks,Logan Webb,San Francisco Giants,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+42,Dominic Fletcher,Arizona Diamondbacks,Alex Wood,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Dominic Fletcher,Arizona Diamondbacks,Carlos Carrasco,New York Mets,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+44,Dominic Fletcher,Arizona Diamondbacks,David Robertson,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Dominic Fletcher,Arizona Diamondbacks,Drew Smith,New York Mets,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+46,Dominic Fletcher,Arizona Diamondbacks,Brad Hand,Colorado Rockies,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+47,Dominic Fletcher,Arizona Diamondbacks,Nick Mears,Colorado Rockies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+48,Dominic Fletcher,Arizona Diamondbacks,Robert Stephenson,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+49,Dominic Fletcher,Arizona Diamondbacks,Yohan Ramirez,Pittsburgh Pirates,2,1,0,0,0,0,0,0,1,.500,.500,.500,1.000
+50,Dominic Fletcher,Arizona Diamondbacks,David Bednar,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+51,Dominic Fletcher,Arizona Diamondbacks,Roansy Contreras,Pittsburgh Pirates,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Dominic Fletcher,Arizona Diamondbacks,Mitch Keller,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+53,Dominic Fletcher,Arizona Diamondbacks,Johan Oviedo,Pittsburgh Pirates,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+54,Dominic Fletcher,Arizona Diamondbacks,Duane Underwood Jr.,Pittsburgh Pirates,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+55,Dominic Fletcher,Arizona Diamondbacks,Rob Zastryzny,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+56,Dominic Fletcher,Arizona Diamondbacks,Luis Medina,Oakland Athletics,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+57,Dominic Fletcher,Arizona Diamondbacks,Kyle Muller,Oakland Athletics,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+58,Dominic Fletcher,Arizona Diamondbacks,Drew Rucinski,Oakland Athletics,2,1,1,0,0,0,0,0,0,.500,.500,1.000,1.500
+59,Dominic Fletcher,Arizona Diamondbacks,Garrett Acton,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Dominic Fletcher,Arizona Diamondbacks,Shintaro Fujinami,Oakland Athletics,1,0,0,0,0,0,1,1,0,.000,.500,.000,.500
+61,Dominic Fletcher,Arizona Diamondbacks,Sam Long,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+62,Dominic Fletcher,Arizona Diamondbacks,Richard Lovelady,Oakland Athletics,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+63,Dominic Fletcher,Arizona Diamondbacks,Adrian Martinez,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Dominic Fletcher,Arizona Diamondbacks,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+65,Dominic Fletcher,Arizona Diamondbacks,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000

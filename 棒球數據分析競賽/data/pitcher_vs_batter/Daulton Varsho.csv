@@ -1,0 +1,197 @@
+,player_name,player_team,pitcher_name,pitcher_team,ab,h,2b,3b,hr,rbi,bb,ibb,so,avg,obp,slg,ops
+0,Daulton Varsho,Toronto Blue Jays,Collin McHugh,Atlanta Braves,1,1,1,0,0,0,1,0,0,1.000,1.000,2.000,3.000
+1,Daulton Varsho,Toronto Blue Jays,Kirby Yates,Atlanta Braves,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+2,Daulton Varsho,Toronto Blue Jays,Jesse Chavez,Atlanta Braves,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+3,Daulton Varsho,Toronto Blue Jays,Bryce Elder,Atlanta Braves,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+4,Daulton Varsho,Toronto Blue Jays,Raisel Iglesias,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+5,Daulton Varsho,Toronto Blue Jays,A.J. Minter,Atlanta Braves,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+6,Daulton Varsho,Toronto Blue Jays,Spencer Strider,Atlanta Braves,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+7,Daulton Varsho,Toronto Blue Jays,Michael Tonkin,Atlanta Braves,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+8,Daulton Varsho,Toronto Blue Jays,Jon Gray,Texas Rangers,1,1,0,0,0,1,0,0,0,1.000,.500,1.000,1.500
+9,Daulton Varsho,Toronto Blue Jays,Dane Dunning,Texas Rangers,3,2,0,0,1,1,0,0,0,.667,.667,1.667,2.334
+10,Daulton Varsho,Toronto Blue Jays,Grant Anderson,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+11,Daulton Varsho,Toronto Blue Jays,Joe Barlow,Texas Rangers,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+12,Daulton Varsho,Toronto Blue Jays,John King,Texas Rangers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+13,Daulton Varsho,Toronto Blue Jays,Martin Perez,Texas Rangers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+14,Daulton Varsho,Toronto Blue Jays,Reid Detmers,Los Angeles Angels,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+15,Daulton Varsho,Toronto Blue Jays,Tyler Anderson,Los Angeles Angels,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+16,Daulton Varsho,Toronto Blue Jays,Jaime Barria,Los Angeles Angels,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+17,Daulton Varsho,Toronto Blue Jays,Carlos Estevez,Los Angeles Angels,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+18,Daulton Varsho,Toronto Blue Jays,Aaron Loup,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+19,Daulton Varsho,Toronto Blue Jays,Ryan Tepera,Los Angeles Angels,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+20,Daulton Varsho,Toronto Blue Jays,Christian Bethancourt,Tampa Bay Rays,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+21,Daulton Varsho,Toronto Blue Jays,Zack Burdi,Tampa Bay Rays,1,1,0,0,0,2,0,0,0,1.000,1.000,1.000,2.000
+22,Daulton Varsho,Toronto Blue Jays,Pete Fairbanks,Tampa Bay Rays,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+23,Daulton Varsho,Toronto Blue Jays,Zack Littell,Tampa Bay Rays,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+24,Daulton Varsho,Toronto Blue Jays,Drew Rasmussen,Tampa Bay Rays,2,1,0,0,0,0,1,0,1,.500,.667,.500,1.167
+25,Daulton Varsho,Toronto Blue Jays,Shane McClanahan,Tampa Bay Rays,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+26,Daulton Varsho,Toronto Blue Jays,Taj Bradley,Tampa Bay Rays,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+27,Daulton Varsho,Toronto Blue Jays,Yonny Chirinos,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+28,Daulton Varsho,Toronto Blue Jays,Zach Eflin,Tampa Bay Rays,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+29,Daulton Varsho,Toronto Blue Jays,Calvin Faucher,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+30,Daulton Varsho,Toronto Blue Jays,Josh Fleming,Tampa Bay Rays,4,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+31,Daulton Varsho,Toronto Blue Jays,Trevor Kelley,Tampa Bay Rays,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+32,Daulton Varsho,Toronto Blue Jays,Colin Poche,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+33,Daulton Varsho,Toronto Blue Jays,Luke Raley,Tampa Bay Rays,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+34,Daulton Varsho,Toronto Blue Jays,John Schreiber,Boston Red Sox,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+35,Daulton Varsho,Toronto Blue Jays,Tanner Houck,Boston Red Sox,3,2,1,0,1,3,0,0,0,.667,.667,2.000,2.667
+36,Daulton Varsho,Toronto Blue Jays,Brayan Bello,Boston Red Sox,2,1,0,0,0,1,0,0,0,.500,.333,.500,.833
+37,Daulton Varsho,Toronto Blue Jays,Nick Pivetta,Boston Red Sox,4,2,0,0,1,1,1,0,2,.500,.600,1.250,1.850
+38,Daulton Varsho,Toronto Blue Jays,James Paxton,Boston Red Sox,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+39,Daulton Varsho,Toronto Blue Jays,Josh Winckowski,Boston Red Sox,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+40,Daulton Varsho,Toronto Blue Jays,Brennan Bernardino,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+41,Daulton Varsho,Toronto Blue Jays,Richard Bleier,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+42,Daulton Varsho,Toronto Blue Jays,Kutter Crawford,Boston Red Sox,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+43,Daulton Varsho,Toronto Blue Jays,Corey Kluber,Boston Red Sox,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+44,Daulton Varsho,Toronto Blue Jays,Chris Martin,Boston Red Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+45,Daulton Varsho,Toronto Blue Jays,Jordan Montgomery,St. Louis Cardinals,3,2,0,0,0,0,0,0,1,.667,.667,.667,1.334
+46,Daulton Varsho,Toronto Blue Jays,Miles Mikolas,St. Louis Cardinals,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+47,Daulton Varsho,Toronto Blue Jays,Jack Flaherty,St. Louis Cardinals,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+48,Daulton Varsho,Toronto Blue Jays,Ryan Helsley,St. Louis Cardinals,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+49,Daulton Varsho,Toronto Blue Jays,Jordan Hicks,St. Louis Cardinals,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+50,Daulton Varsho,Toronto Blue Jays,Packy Naughton,St. Louis Cardinals,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+51,Daulton Varsho,Toronto Blue Jays,Andre Pallante,St. Louis Cardinals,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+52,Daulton Varsho,Toronto Blue Jays,Zack Thompson,St. Louis Cardinals,0,0,0,0,0,1,0,0,0,.000,.000,.000,.000
+53,Daulton Varsho,Toronto Blue Jays,Justin Martinez,Arizona Diamondbacks,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+54,Daulton Varsho,Toronto Blue Jays,Kyle Nelson,Arizona Diamondbacks,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+55,Daulton Varsho,Toronto Blue Jays,Austin Adams,Arizona Diamondbacks,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+56,Daulton Varsho,Toronto Blue Jays,Miguel Castro,Arizona Diamondbacks,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+57,Daulton Varsho,Toronto Blue Jays,Zac Gallen,Arizona Diamondbacks,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+58,Daulton Varsho,Toronto Blue Jays,Scott McGough,Arizona Diamondbacks,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+59,Daulton Varsho,Toronto Blue Jays,Ryne Nelson,Arizona Diamondbacks,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+60,Daulton Varsho,Toronto Blue Jays,Austin Voth,Baltimore Orioles,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+61,Daulton Varsho,Toronto Blue Jays,Dean Kremer,Baltimore Orioles,3,2,2,0,0,0,0,0,1,.667,.667,1.333,2.000
+62,Daulton Varsho,Toronto Blue Jays,Yennier Cano,Baltimore Orioles,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+63,Daulton Varsho,Toronto Blue Jays,Bryan Baker,Baltimore Orioles,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+64,Daulton Varsho,Toronto Blue Jays,Mike Baumann,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+65,Daulton Varsho,Toronto Blue Jays,Felix Bautista,Baltimore Orioles,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+66,Daulton Varsho,Toronto Blue Jays,Kyle Bradish,Baltimore Orioles,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+67,Daulton Varsho,Toronto Blue Jays,Kyle Gibson,Baltimore Orioles,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+68,Daulton Varsho,Toronto Blue Jays,Cionel Perez,Baltimore Orioles,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+69,Daulton Varsho,Toronto Blue Jays,Grayson Rodriguez,Baltimore Orioles,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+70,Daulton Varsho,Toronto Blue Jays,Tyler Wells,Baltimore Orioles,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+71,Daulton Varsho,Toronto Blue Jays,Aaron Nola,Philadelphia Phillies,3,1,0,0,0,0,0,0,2,.333,.333,.333,.666
+72,Daulton Varsho,Toronto Blue Jays,Seranthony Dominguez,Philadelphia Phillies,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+73,Daulton Varsho,Toronto Blue Jays,Zack Wheeler,Philadelphia Phillies,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+74,Daulton Varsho,Toronto Blue Jays,Tom Cosgrove,San Diego Padres,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+75,Daulton Varsho,Toronto Blue Jays,Yu Darvish,San Diego Padres,3,0,0,0,0,0,0,0,3,.000,.000,.000,.000
+76,Daulton Varsho,Toronto Blue Jays,Alek Jacob,San Diego Padres,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+77,Daulton Varsho,Toronto Blue Jays,Joe Musgrove,San Diego Padres,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+78,Daulton Varsho,Toronto Blue Jays,Seth Martinez,Houston Astros,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+79,Daulton Varsho,Toronto Blue Jays,Brandon Bielak,Houston Astros,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+80,Daulton Varsho,Toronto Blue Jays,Hunter Brown,Houston Astros,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+81,Daulton Varsho,Toronto Blue Jays,Luis Garcia,Houston Astros,3,1,1,0,0,0,0,0,1,.333,.333,.667,1.000
+82,Daulton Varsho,Toronto Blue Jays,Bryan Abreu,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+83,Daulton Varsho,Toronto Blue Jays,Ronel Blanco,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+84,Daulton Varsho,Toronto Blue Jays,Cristian Javier,Houston Astros,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+85,Daulton Varsho,Toronto Blue Jays,Phil Maton,Houston Astros,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+86,Daulton Varsho,Toronto Blue Jays,Rafael Montero,Houston Astros,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+87,Daulton Varsho,Toronto Blue Jays,Hector Neris,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+88,Daulton Varsho,Toronto Blue Jays,Ryan Pressly,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+89,Daulton Varsho,Toronto Blue Jays,Ryne Stanek,Houston Astros,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+90,Daulton Varsho,Toronto Blue Jays,Jose Urquidy,Houston Astros,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+91,Daulton Varsho,Toronto Blue Jays,Framber Valdez,Houston Astros,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+92,Daulton Varsho,Toronto Blue Jays,Griffin Jax,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+93,Daulton Varsho,Toronto Blue Jays,Jorge Lopez,Minnesota Twins,2,1,0,0,1,2,0,0,1,.500,.500,2.000,2.500
+94,Daulton Varsho,Toronto Blue Jays,Bailey Ober,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+95,Daulton Varsho,Toronto Blue Jays,Joe Ryan,Minnesota Twins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+96,Daulton Varsho,Toronto Blue Jays,Jovani Moran,Minnesota Twins,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+97,Daulton Varsho,Toronto Blue Jays,Jose De Leon,Minnesota Twins,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+98,Daulton Varsho,Toronto Blue Jays,Jhoan Duran,Minnesota Twins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+99,Daulton Varsho,Toronto Blue Jays,Sonny Gray,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+100,Daulton Varsho,Toronto Blue Jays,Pablo Lopez,Minnesota Twins,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+101,Daulton Varsho,Toronto Blue Jays,Cole Sands,Minnesota Twins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+102,Daulton Varsho,Toronto Blue Jays,Louie Varland,Minnesota Twins,5,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+103,Daulton Varsho,Toronto Blue Jays,Bryan Hoeing,Miami Marlins,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+104,Daulton Varsho,Toronto Blue Jays,Archie Bradley,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+105,Daulton Varsho,Toronto Blue Jays,Huascar Brazoban,Miami Marlins,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+106,Daulton Varsho,Toronto Blue Jays,JT Chargois,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+107,Daulton Varsho,Toronto Blue Jays,Dylan Floro,Miami Marlins,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+108,Daulton Varsho,Toronto Blue Jays,Eury Perez,Miami Marlins,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+109,Daulton Varsho,Toronto Blue Jays,Logan Webb,San Francisco Giants,2,1,1,0,0,1,0,0,1,.500,.500,1.000,1.500
+110,Daulton Varsho,Toronto Blue Jays,Keaton Winn,San Francisco Giants,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+111,Daulton Varsho,Toronto Blue Jays,Alex Wood,San Francisco Giants,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+112,Daulton Varsho,Toronto Blue Jays,Tristan Beck,San Francisco Giants,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+113,Daulton Varsho,Toronto Blue Jays,Camilo Doval,San Francisco Giants,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+114,Daulton Varsho,Toronto Blue Jays,Ross Stripling,San Francisco Giants,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+115,Daulton Varsho,Toronto Blue Jays,Jeff Brigham,New York Mets,1,1,0,0,1,2,0,0,0,1.000,1.000,4.000,5.000
+116,Daulton Varsho,Toronto Blue Jays,David Robertson,New York Mets,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+117,Daulton Varsho,Toronto Blue Jays,Kodai Senga,New York Mets,1,1,0,0,0,0,1,0,0,1.000,1.000,1.000,2.000
+118,Daulton Varsho,Toronto Blue Jays,Dominic Leone,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+119,Daulton Varsho,Toronto Blue Jays,Tylor Megill,New York Mets,1,0,0,0,0,0,1,0,1,.000,.500,.000,.500
+120,Daulton Varsho,Toronto Blue Jays,Stephen Nogosek,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+121,Daulton Varsho,Toronto Blue Jays,Brooks Raley,New York Mets,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+122,Daulton Varsho,Toronto Blue Jays,Justin Verlander,New York Mets,3,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+123,Daulton Varsho,Toronto Blue Jays,Gerrit Cole,New York Yankees,6,2,0,0,0,0,0,0,2,.333,.333,.333,.666
+124,Daulton Varsho,Toronto Blue Jays,Nestor Cortes,New York Yankees,3,1,0,0,0,0,0,0,1,.333,.333,.333,.666
+125,Daulton Varsho,Toronto Blue Jays,Clarke Schmidt,New York Yankees,3,1,0,0,1,1,0,0,1,.333,.333,1.333,1.666
+126,Daulton Varsho,Toronto Blue Jays,Albert Abreu,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+127,Daulton Varsho,Toronto Blue Jays,Jhony Brito,New York Yankees,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+128,Daulton Varsho,Toronto Blue Jays,Jimmy Cordero,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+129,Daulton Varsho,Toronto Blue Jays,Domingo German,New York Yankees,3,0,0,0,0,0,1,0,0,.000,.250,.000,.250
+130,Daulton Varsho,Toronto Blue Jays,Ian Hamilton,New York Yankees,2,0,0,0,0,0,0,0,2,.000,.000,.000,.000
+131,Daulton Varsho,Toronto Blue Jays,Clay Holmes,New York Yankees,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+132,Daulton Varsho,Toronto Blue Jays,Michael King,New York Yankees,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+133,Daulton Varsho,Toronto Blue Jays,Wandy Peralta,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+134,Daulton Varsho,Toronto Blue Jays,Ryan Weber,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+135,Daulton Varsho,Toronto Blue Jays,Greg Weissert,New York Yankees,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+136,Daulton Varsho,Toronto Blue Jays,Chris Flexen,Seattle Mariners,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+137,Daulton Varsho,Toronto Blue Jays,Trevor Gott,Seattle Mariners,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+138,Daulton Varsho,Toronto Blue Jays,Gabe Speier,Seattle Mariners,2,1,0,0,0,0,0,0,0,.500,.500,.500,1.000
+139,Daulton Varsho,Toronto Blue Jays,Matt Brash,Seattle Mariners,3,1,0,0,0,1,0,0,1,.333,.333,.333,.666
+140,Daulton Varsho,Toronto Blue Jays,Luis Castillo,Seattle Mariners,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+141,Daulton Varsho,Toronto Blue Jays,Logan Gilbert,Seattle Mariners,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+142,Daulton Varsho,Toronto Blue Jays,Marco Gonzales,Seattle Mariners,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+143,Daulton Varsho,Toronto Blue Jays,Easton McGee,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+144,Daulton Varsho,Toronto Blue Jays,Bryce Miller,Seattle Mariners,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+145,Daulton Varsho,Toronto Blue Jays,Paul Sewald,Seattle Mariners,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+146,Daulton Varsho,Toronto Blue Jays,Justin Topa,Seattle Mariners,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+147,Daulton Varsho,Toronto Blue Jays,Yohan Ramirez,Pittsburgh Pirates,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+148,Daulton Varsho,Toronto Blue Jays,Chase De Jong,Pittsburgh Pirates,2,1,0,0,1,2,0,0,0,.500,.500,2.000,2.500
+149,Daulton Varsho,Toronto Blue Jays,Rich Hill,Pittsburgh Pirates,2,1,1,0,0,1,1,0,1,.500,.667,1.000,1.667
+150,Daulton Varsho,Toronto Blue Jays,Roansy Contreras,Pittsburgh Pirates,3,1,1,0,0,0,0,0,0,.333,.333,.667,1.000
+151,Daulton Varsho,Toronto Blue Jays,Johan Oviedo,Pittsburgh Pirates,3,1,0,0,0,1,0,0,0,.333,.333,.333,.666
+152,Daulton Varsho,Toronto Blue Jays,Cody Bolton,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+153,Daulton Varsho,Toronto Blue Jays,Jose Hernandez,Pittsburgh Pirates,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+154,Daulton Varsho,Toronto Blue Jays,Aaron Bummer,Chicago White Sox,1,1,0,0,0,1,0,0,0,1.000,1.000,1.000,2.000
+155,Daulton Varsho,Toronto Blue Jays,Tanner Banks,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+156,Daulton Varsho,Toronto Blue Jays,Mike Clevinger,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+157,Daulton Varsho,Toronto Blue Jays,Lucas Giolito,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+158,Daulton Varsho,Toronto Blue Jays,Joe Kelly,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+159,Daulton Varsho,Toronto Blue Jays,Michael Kopech,Chicago White Sox,2,0,0,0,0,0,1,0,1,.000,.333,.000,.333
+160,Daulton Varsho,Toronto Blue Jays,Jimmy Lambert,Chicago White Sox,1,0,0,0,0,0,0,0,1,.000,.500,.000,.500
+161,Daulton Varsho,Toronto Blue Jays,Lance Lynn,Chicago White Sox,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+162,Daulton Varsho,Toronto Blue Jays,Keynan Middleton,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+163,Daulton Varsho,Toronto Blue Jays,Jesse Scholtens,Chicago White Sox,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+164,Daulton Varsho,Toronto Blue Jays,Bryan Shaw,Chicago White Sox,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+165,Daulton Varsho,Toronto Blue Jays,Hoby Milner,Milwaukee Brewers,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+166,Daulton Varsho,Toronto Blue Jays,Devin Williams,Milwaukee Brewers,1,1,1,0,0,0,0,0,0,1.000,1.000,2.000,3.000
+167,Daulton Varsho,Toronto Blue Jays,Freddy Peralta,Milwaukee Brewers,3,1,0,0,0,0,0,0,0,.333,.333,.333,.666
+168,Daulton Varsho,Toronto Blue Jays,Adrian Houser,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+169,Daulton Varsho,Toronto Blue Jays,Elvis Peguero,Milwaukee Brewers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+170,Daulton Varsho,Toronto Blue Jays,Julio Teheran,Milwaukee Brewers,3,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+171,Daulton Varsho,Toronto Blue Jays,Eduardo Rodriguez,Detroit Tigers,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+172,Daulton Varsho,Toronto Blue Jays,Jose Cisnero,Detroit Tigers,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+173,Daulton Varsho,Toronto Blue Jays,Mason Englert,Detroit Tigers,1,0,0,0,0,0,1,0,0,.000,.500,.000,.500
+174,Daulton Varsho,Toronto Blue Jays,Alex Faedo,Detroit Tigers,2,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+175,Daulton Varsho,Toronto Blue Jays,Jason Foley,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+176,Daulton Varsho,Toronto Blue Jays,Matt Manning,Detroit Tigers,4,0,0,0,0,0,1,0,0,.000,.200,.000,.200
+177,Daulton Varsho,Toronto Blue Jays,Reese Olson,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+178,Daulton Varsho,Toronto Blue Jays,Zack Short,Detroit Tigers,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+179,Daulton Varsho,Toronto Blue Jays,Chasen Shreve,Detroit Tigers,1,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+180,Daulton Varsho,Toronto Blue Jays,Spencer Turnbull,Detroit Tigers,3,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+181,Daulton Varsho,Toronto Blue Jays,Trey Wingenter,Detroit Tigers,0,0,0,0,0,0,0,0,0,.000,1.000,.000,1.000
+182,Daulton Varsho,Toronto Blue Jays,Amir Garrett,Kansas City Royals,1,1,0,0,0,0,0,0,0,1.000,1.000,1.000,2.000
+183,Daulton Varsho,Toronto Blue Jays,Carlos Hernandez,Kansas City Royals,1,1,0,0,1,1,0,0,0,1.000,1.000,4.000,5.000
+184,Daulton Varsho,Toronto Blue Jays,Zack Greinke,Kansas City Royals,3,2,0,0,0,0,0,0,0,.667,.667,.667,1.334
+185,Daulton Varsho,Toronto Blue Jays,Taylor Clarke,Kansas City Royals,2,1,1,0,0,0,0,0,1,.500,.500,1.000,1.500
+186,Daulton Varsho,Toronto Blue Jays,Jose Cuas,Kansas City Royals,2,1,0,0,0,1,0,0,0,.500,.500,.500,1.000
+187,Daulton Varsho,Toronto Blue Jays,Jordan Lyles,Kansas City Royals,3,1,1,0,0,0,0,0,2,.333,.333,.667,1.000
+188,Daulton Varsho,Toronto Blue Jays,Kris Bubic,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+189,Daulton Varsho,Toronto Blue Jays,Brady Singer,Kansas City Royals,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+190,Daulton Varsho,Toronto Blue Jays,Ryan Yarbrough,Kansas City Royals,0,0,0,0,0,0,1,0,0,.000,1.000,.000,1.000
+191,Daulton Varsho,Toronto Blue Jays,Hogan Harris,Oakland Athletics,2,0,0,0,0,0,1,0,0,.000,.333,.000,.333
+192,Daulton Varsho,Toronto Blue Jays,James Kaprielian,Oakland Athletics,2,0,0,0,0,0,0,0,1,.000,.000,.000,.000
+193,Daulton Varsho,Toronto Blue Jays,Trevor May,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+194,Daulton Varsho,Toronto Blue Jays,Sam Moll,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
+195,Daulton Varsho,Toronto Blue Jays,Austin Pruitt,Oakland Athletics,1,0,0,0,0,0,0,0,0,.000,.000,.000,.000
